@@ -1,0 +1,77 @@
+{
+  "id": "income-tax-ordinance-2001",
+  "title": "Income Tax Ordinance, 2001",
+  "number": "Ordinance No. XLIX of 2001",
+  "type": "ordinance",
+  "unit": "Section",
+  "categories": ["tax"],
+  "aliases": ["ITO", "ITO 2001", "ITO2001", "Income Tax Ordinance"],
+  "enacted": "2001-09-13",
+  "lastAmended": null,
+  "status": "in-force",
+  "source": {
+    "name": "Federal Board of Revenue",
+    "url": "https://www.fbr.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Demonstration extract for layout only. The Ordinance is amended by every Finance Act; load the current consolidated text before quoting."
+  },
+  "preamble": "An Ordinance to consolidate and amend the law relating to income tax.",
+  "parts": [
+    {
+      "heading": "Chapter I — Preliminary",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title, extent and commencement",
+          "text": [
+            "(1) This Ordinance may be called the Income Tax Ordinance, 2001.",
+            "(2) It extends to the whole of Pakistan.",
+            "(3) It shall come into force on such date as the Federal Government may, by notification in the official Gazette, appoint."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter II — Charge of Tax",
+      "sections": [
+        {
+          "no": "4",
+          "title": "Tax on taxable income",
+          "text": [
+            "(1) Subject to this Ordinance, income tax shall be imposed for each tax year, at the rate or rates specified in Division I, II or III of Part I of the First Schedule, as the case may be, on every person who has taxable income for the year.",
+            "(2) The income tax payable by a taxpayer for a tax year shall be computed by applying the rate or rates of tax applicable to the taxpayer under this Ordinance to the taxable income of the taxpayer for the year, and from the resulting amount shall be subtracted any tax credits allowed to the taxpayer for the year."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter VII — Assessments",
+      "sections": [
+        {
+          "no": "111",
+          "title": "Unexplained income or assets",
+          "text": [
+            "(1) Where—",
+            ">(a) any amount is credited in a person's books of account;",
+            ">(b) a person has made any investment or is the owner of any money or valuable article;",
+            ">(c) a person has incurred any expenditure; or",
+            ">(d) a person has concealed income or furnished inaccurate particulars of income,",
+            "and the person offers no explanation about the nature and source of the amount credited or the investment, money, valuable article, or funds from which the expenditure was made, or the explanation offered by the person is not, in the Commissioner's opinion, satisfactory, the amount credited, value of the investment, money, valuable article, or amount of expenditure, or the suppressed amount, shall be included in the person's income chargeable to tax under the head \"Income from Other Sources\"."
+          ],
+          "notes": ["Proviso and later sub-sections omitted from this demonstration."]
+        },
+        {
+          "no": "122",
+          "title": "Amendment of assessments",
+          "text": [
+            "(1) Subject to this section, the Commissioner may amend an assessment order treated as issued under section 120 or issued under section 121, by making such alterations or additions as the Commissioner considers necessary to ensure that the taxpayer is liable for the correct amount of tax for the tax year to which the assessment order relates.",
+            "(2) An assessment order shall only be amended under sub-section (1) within five years after the Commissioner has issued or treated as issued the assessment order on the taxpayer."
+          ],
+          "notes": ["Further sub-sections omitted from this demonstration."]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "income-tax-rules-2002",
+  "title": "Income Tax Rules, 2002",
+  "number": "S.R.O. 586(I)/2002",
+  "type": "rules",
+  "unit": "Rule",
+  "parent": "income-tax-ordinance-2001",
+  "categories": ["tax"],
+  "aliases": ["ITR", "ITR 2002", "Income Tax Rules"],
+  "enacted": "2002-06-26",
+  "lastAmended": null,
+  "status": "in-force",
+  "source": {
+    "name": "Federal Board of Revenue",
+    "url": "https://www.fbr.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Demonstration extract for layout only. Confirm the S.R.O. number and text against the Gazette before quoting."
+  },
+  "preamble": "In exercise of the powers conferred by section 237 of the Income Tax Ordinance, 2001, the Federal Board of Revenue is pleased to make the following rules.",
+  "parts": [
+    {
+      "heading": "Part I — Preliminary",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These rules may be called the Income Tax Rules, 2002.",
+            "(2) They shall come into force on the first day of July, 2002."
+          ]
+        }
+      ]
+    }
+  ]
+}

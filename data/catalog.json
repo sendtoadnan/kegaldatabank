@@ -1,0 +1,24 @@
+{
+  "site": {
+    "name": "Legal Databank",
+    "tagline": "Bare acts, rules and regulations, ready to read, search and cite.",
+    "jurisdiction": "Pakistan"
+  },
+  "categories": [
+    {
+      "id": "corporate",
+      "name": "Corporate & Securities",
+      "description": "Company incorporation, governance, directors, accounts and filings."
+    },
+    {
+      "id": "tax",
+      "name": "Taxation",
+      "description": "Income tax, sales tax and federal excise, with the rules made under them."
+    },
+    {
+      "id": "aml",
+      "name": "AML / CFT",
+      "description": "Anti-money laundering, counter-terrorist financing and sanctions compliance."
+    }
+  ]
+}
