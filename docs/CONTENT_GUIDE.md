@@ -50,10 +50,32 @@ Each Act, Ordinance, Rules or Regulations is one JSON file in `data/acts/`, name
 | `parent` | For subordinate legislation, the `id` of the Act it is made under. It then appears under that Act. |
 | `aliases` | Short names readers type in search, e.g. `ITO`, `CA 2017`. These power the direct jump (`s 111 ITO`). |
 | `text` | One string per paragraph. Start with `>` to indent a clause one level, `>>` for two levels. |
-| `notes` | Amendment history, footnotes, editor notes. Shown beneath the provision. |
+| `notes` | Editor notes. Shown beneath the provision. |
+| `fn` | Amendment footnotes from the source, keyed to `{fn:key}` markers in `text`. |
+| `page` | Page of the source PDF where the provision is printed. |
+| `sourcePdf`, `amendedUpToLabel`, `caution`, `sourceNotes` | Source edition details shown on the instrument page. |
 | `verification` | `unverified` (with an optional `note`) or `verified` (requires `against`, `verifiedBy`, `verifiedOn`). |
 
-## 2. Loading a new law
+## 2. Loading a law from an official PDF (recommended)
+
+Consolidated editions published by FBR and SECP are converted with `scripts/extract_pdf.py`, which reads the PDF's layout (font sizes, bold headings, superscripts) rather than plain text. It:
+
+- finds each provision from its bold number and heading, including inserted (`[3A.`) and omitted (`[33A. ***]`) provisions;
+- turns amendment superscripts into `{fn:<page>-<number>}` markers and attaches the footnote text to the provision (`"fn": [{"n": "28-142", "text": "Substituted for seventeen vide ..."}]`), including FBR's chapter endnotes ("LEGAL REFERENCE") when `"endnotes": true`;
+- records the PDF page of every provision, so the site can link to the official page;
+- lists schedules and annexures with their PDF page instead of reflowing their tables.
+
+Steps:
+
+1. Put the PDF in `sources/pdf/` and add an entry to `sources/manifest.json` (id, file, title, number, type, unit, categories, parent, "amended up to" date, source, and any `caution`).
+2. `pip install pymupdf`, then `python3 scripts/extract_pdf.py <id>`. The report compares the result with the PDF's own contents list.
+3. `python3 scripts/check_sequence.py` must show no gaps or duplicates; `npm test` enforces the same.
+4. Spot-check provisions against the PDF (the **PDF p.** button on each provision opens the right page).
+5. Items that are mostly tables (fee schedules, classification grids) are added with `"pdfOnly": true` and shown as the official PDF.
+
+Per-document options in the manifest: `bodyStartPage` (skip contents pages without dot leaders), `stopAtSchedule: false` (for rules with inline "Schedule" headings), `untitledProvisions: true` (regulations numbered without headings), `endnotes: true` (notes gathered at chapter ends).
+
+## 3. Loading a law from plain text
 
 1. **Get the authoritative text.** Use the Gazette or the regulator's consolidated version (SECP, FBR, SBP, FMU, Pakistan Code).
 2. **Convert.** Copy the PDF text into a `.txt` file and run the importer:
@@ -66,12 +88,12 @@ Each Act, Ordinance, Rules or Regulations is one JSON file in `data/acts/`, name
 5. **Verify.** A second person checks the file against the source, then sets `verification.status` to `verified` with their name and date.
 6. **Test and publish:** `npm test`, then push. The website rebuilds automatically.
 
-## 3. Keeping the law current
+## 4. Keeping the law current
 
 - After each **Finance Act**, **SRO** or **amendment Act**, update the affected provisions, add a note (`"Substituted by the Finance Act, 2026, s. 5"`), update `lastAmended`, and re-verify.
 - Never edit a verified file without re-verifying it. Updating the text means updating `verifiedBy` and `verifiedOn` too.
 - Keep repealed instruments with `"status": "repealed"`; they remain citable for past transactions.
 
-## 4. Rules the validator enforces
+## 5. Rules the validator enforces
 
 `npm run validate` fails the build if an instrument has missing fields, an unknown category or type, a duplicate provision number, a missing parent, a malformed date, or a `verified` status without who/when/against.

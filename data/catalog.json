@@ -13,7 +13,12 @@
     {
       "id": "tax",
       "name": "Taxation",
-      "description": "Income tax, sales tax and federal excise, with the rules made under them."
+      "description": "Sales tax, federal excise, customs and income tax, with the rules made under them."
+    },
+    {
+      "id": "insurance",
+      "name": "Insurance & Takaful",
+      "description": "Insurance Ordinance, rules for insurers, takaful operators and surveyors."
     },
     {
       "id": "aml",

@@ -46,13 +46,24 @@ test('build writes pages, search index and offline cache', () => {
   const ca = fs.readFileSync(path.join(outDir, 'acts/companies-act-2017/index.html'), 'utf8');
   assert.match(ca, /id="s-183"/);
   assert.match(ca, /data-cite="Section 183 of the Companies Act, 2017 \(Act No\. XIX of 2017\)"/);
-  assert.match(ca, /Companies \(General Provisions and Forms\) Regulations, 2018/, 'parent page lists subsidiary instruments');
+  assert.match(ca, /Companies Regulations, 2024/, 'parent page lists subsidiary instruments');
   assert.match(ca, /Unverified/);
+  assert.match(ca, /href="\.\.\/\.\.\/sources\/companies-act-2017\.pdf#page=\d+"/, 'provisions link to the official PDF page');
+
+  const sta = fs.readFileSync(path.join(outDir, 'acts/sales-tax-act-1990/index.html'), 'utf8');
+  assert.match(sta, /<sup class="fnref"><a href="#s-3-fn-/, 'amendment markers link to their notes');
+  assert.match(sta, /id="s-3-fn-[^"]+"><span class="fn-no">142<\/span> Substituted for seventeen/, 'note text is attached to its section');
+  assert.doesNotMatch(sta, /\{fn:/, 'no raw markers leak into pages');
+  assert.ok(fs.existsSync(path.join(outDir, 'sources/sales-tax-act-1990.pdf')), 'source PDF is published');
+
+  const ito = fs.readFileSync(path.join(outDir, 'acts/income-tax-ordinance-2001/index.html'), 'utf8');
+  assert.match(ito, /Placeholder, not official text/, 'placeholder instruments are clearly marked');
 
   assert.ok(index.provisions.some((p) => p.act === 'aml-act-2010' && p.no === '3' && p.text.includes('proceeds of crime')));
+  assert.ok(index.provisions.every((p) => !/\{fn:/.test(p.text + p.title)), 'search text has no markers');
   const sw = fs.readFileSync(path.join(outDir, 'sw.js'), 'utf8');
-  assert.match(sw, /"\.\/acts\/income-tax-ordinance-2001\/index\.html"/);
   assert.doesNotMatch(sw, /__VERSION__|__PRECACHE__/);
+  assert.match(sw, /"\.\/search-index\.json"/);
   fs.rmSync(outDir, { recursive: true, force: true });
 });
 
@@ -82,4 +93,18 @@ CHAPTER II — OFFENCES
   assert.equal(s2.text[3], '>>(i) including a foreign company; and');
   assert.equal(act.parts[1].sections[0].title, 'Penalty');
   assert.equal(act.verification.status, 'unverified');
+});
+
+test('extracted instruments have complete, ordered numbering', () => {
+  const { acts } = loadLibrary();
+  for (const a of acts.filter((x) => x.sourcePdf && !x.pdfOnly)) {
+    const nos = a.parts.flatMap((p) => p.sections.map((s) => s.no));
+    const base = nos.map((n) => parseInt(n, 10));
+    for (let i = 1; i < base.length; i++) assert.ok(base[i] >= base[i - 1], `${a.id}: ${nos[i]} follows ${nos[i - 1]}`);
+    const have = new Set(base);
+    const gaps = [];
+    for (let n = 1; n <= Math.max(...base); n++) if (!have.has(n)) gaps.push(n);
+    assert.deepEqual(gaps, [], `${a.id}: numbering gaps`);
+    assert.equal(new Set(nos).size, nos.length, `${a.id}: duplicate provision numbers`);
+  }
 });

@@ -4,8 +4,15 @@
   "number": "Ordinance No. XLIX of 2001",
   "type": "ordinance",
   "unit": "Section",
-  "categories": ["tax"],
-  "aliases": ["ITO", "ITO 2001", "ITO2001", "Income Tax Ordinance"],
+  "categories": [
+    "tax"
+  ],
+  "aliases": [
+    "ITO",
+    "ITO 2001",
+    "ITO2001",
+    "Income Tax Ordinance"
+  ],
   "enacted": "2001-09-13",
   "lastAmended": null,
   "status": "in-force",
@@ -15,7 +22,7 @@
   },
   "verification": {
     "status": "unverified",
-    "note": "Demonstration extract for layout only. The Ordinance is amended by every Finance Act; load the current consolidated text before quoting."
+    "note": "Placeholder written for layout only, not taken from an official source. The official consolidated text has not been loaded yet. Do not quote."
   },
   "preamble": "An Ordinance to consolidate and amend the law relating to income tax.",
   "parts": [
@@ -60,7 +67,9 @@
             ">(d) a person has concealed income or furnished inaccurate particulars of income,",
             "and the person offers no explanation about the nature and source of the amount credited or the investment, money, valuable article, or funds from which the expenditure was made, or the explanation offered by the person is not, in the Commissioner's opinion, satisfactory, the amount credited, value of the investment, money, valuable article, or amount of expenditure, or the suppressed amount, shall be included in the person's income chargeable to tax under the head \"Income from Other Sources\"."
           ],
-          "notes": ["Proviso and later sub-sections omitted from this demonstration."]
+          "notes": [
+            "Proviso and later sub-sections omitted from this demonstration."
+          ]
         },
         {
           "no": "122",
@@ -69,9 +78,12 @@
             "(1) Subject to this section, the Commissioner may amend an assessment order treated as issued under section 120 or issued under section 121, by making such alterations or additions as the Commissioner considers necessary to ensure that the taxpayer is liable for the correct amount of tax for the tax year to which the assessment order relates.",
             "(2) An assessment order shall only be amended under sub-section (1) within five years after the Commissioner has issued or treated as issued the assessment order on the taxpayer."
           ],
-          "notes": ["Further sub-sections omitted from this demonstration."]
+          "notes": [
+            "Further sub-sections omitted from this demonstration."
+          ]
         }
       ]
     }
-  ]
+  ],
+  "placeholder": true
 }
