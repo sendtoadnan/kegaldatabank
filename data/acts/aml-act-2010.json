@@ -1,0 +1,78 @@
+{
+  "id": "aml-act-2010",
+  "title": "Anti-Money Laundering Act, 2010",
+  "number": "Act No. VII of 2010",
+  "type": "act",
+  "unit": "Section",
+  "categories": ["aml"],
+  "aliases": ["AML", "AMLA", "AMLA 2010", "AML Act", "AML Act 2010"],
+  "enacted": "2010-03-26",
+  "lastAmended": null,
+  "status": "in-force",
+  "source": {
+    "name": "Financial Monitoring Unit, Government of Pakistan",
+    "url": "https://www.fmu.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Demonstration extract for layout only. This Act has been substantially amended since 2020; load the current consolidated text before quoting."
+  },
+  "preamble": "An Act to provide for prevention of money laundering and combating financing of terrorism.",
+  "parts": [
+    {
+      "heading": "Chapter I — Preliminary",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title, extent and commencement",
+          "text": [
+            "(1) This Act may be called the Anti-Money Laundering Act, 2010.",
+            "(2) It extends to the whole of Pakistan.",
+            "(3) It shall come into force at once."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter II — Offence of Money Laundering",
+      "sections": [
+        {
+          "no": "3",
+          "title": "Offence of money laundering",
+          "text": [
+            "A person shall be guilty of offence of money laundering, if the person,—",
+            ">(a) acquires, converts, possesses, uses or transfers property, knowing or having reason to believe that such property is proceeds of crime;",
+            ">(b) conceals or disguises the true nature, origin, location, disposition, movement or ownership of property, knowing or having reason to believe that such property is proceeds of crime;",
+            ">(c) holds or possesses on behalf of any other person any property knowing or having reason to believe that such property is proceeds of crime; or",
+            ">(d) participates in, associates, conspires to commit, attempts to commit, aids, abets, facilitates, or counsels the commission of the acts specified in clauses (a), (b) and (c)."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Punishment for money laundering",
+          "text": [
+            "Whoever commits the offence of money laundering shall be punishable with rigorous imprisonment for a term which shall not be less than one year but may extend to ten years and shall also be liable to fine, and shall also be liable to forfeiture of property involved in the money laundering or property of corresponding value."
+          ],
+          "notes": ["Amended by later legislation (including 2020 amendments to penalties). The demonstration text may not reflect the current position."]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter III — Financial Monitoring Unit and Reporting",
+      "sections": [
+        {
+          "no": "7",
+          "title": "Procedure and manner of furnishing information by reporting entities",
+          "text": [
+            "(1) Every reporting entity shall file with the FMU, to the extent and in the manner prescribed by the FMU, a report of suspicious transaction conducted or attempted by, at or through such reporting entity, if it knows, suspects or has reason to suspect that the transaction or a pattern of transactions of which the transaction is a part,—",
+            ">(a) involves funds derived from illegal activities or is intended or conducted in order to hide or disguise proceeds of crime;",
+            ">(b) is designed to evade any requirements of this section;",
+            ">(c) has no apparent lawful purpose after examining the available facts, including the background and possible purpose of the transaction; or",
+            ">(d) involves financing of terrorism, including funds collected, provided, used or meant for, or otherwise linked or related to, terrorism, terrorist acts or organizations and individuals concerned with terrorism.",
+            "(2) The report under sub-section (1) shall be filed promptly."
+          ]
+        }
+      ]
+    }
+  ]
+}

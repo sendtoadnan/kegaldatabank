@@ -1,0 +1,91 @@
+{
+  "id": "companies-act-2017",
+  "title": "Companies Act, 2017",
+  "number": "Act No. XIX of 2017",
+  "type": "act",
+  "unit": "Section",
+  "categories": ["corporate"],
+  "aliases": ["CA 2017", "CA2017", "Companies Act", "Companies Act 2017"],
+  "enacted": "2017-05-30",
+  "lastAmended": null,
+  "status": "in-force",
+  "source": {
+    "name": "Securities and Exchange Commission of Pakistan",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Demonstration extract for layout only. Replace with text checked against the Gazette of Pakistan before quoting."
+  },
+  "preamble": "An Act to reform and restate the Companies Ordinance, 1984.",
+  "parts": [
+    {
+      "heading": "Part I — Preliminary",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title, extent and commencement",
+          "text": [
+            "(1) This Act may be called the Companies Act, 2017.",
+            "(2) It extends to the whole of Pakistan.",
+            "(3) It shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In this Act, unless there is anything repugnant in the subject or context,—",
+            ">(a) \"articles\" means the articles of association of a company as originally framed or as altered in accordance with law;",
+            ">(b) \"board\" means the board of directors of a company;",
+            ">(c) \"Commission\" means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997;",
+            ">(d) \"company\" means a company formed and registered under this Act or an existing company;",
+            "(2) Words and expressions used but not defined in this Act shall have the same meaning as in the Securities and Exchange Commission of Pakistan Act, 1997."
+          ],
+          "notes": ["Extract: only selected clauses are shown in this demonstration."]
+        }
+      ]
+    },
+    {
+      "heading": "Part VI — Management and Administration",
+      "sections": [
+        {
+          "no": "183",
+          "title": "Powers of board",
+          "text": [
+            "(1) The business of a company shall be managed by the board, which may exercise all such powers of the company as are not by this Act or by the articles required to be exercised by the company in general meeting.",
+            "(2) The board shall exercise the following powers on behalf of the company only by means of a resolution passed at its meeting, namely:—",
+            ">(a) to make calls on shareholders in respect of moneys unpaid on their shares;",
+            ">(b) to issue shares;",
+            ">(c) to borrow moneys otherwise than on debentures;",
+            ">(d) to invest the funds of the company; and",
+            ">(e) to make loans."
+          ]
+        },
+        {
+          "no": "204",
+          "title": "Duties of directors",
+          "text": [
+            "(1) A director of a company shall act in accordance with the articles of the company.",
+            "(2) A director of a company shall act in good faith in order to promote the objects of the company for the benefit of its members as a whole, and in the best interests of the company, its employees, the shareholders, the community and for the protection of environment.",
+            "(3) A director of a company shall discharge his duties with due and reasonable care, skill and diligence and shall exercise independent judgment.",
+            "(4) A director of a company shall not involve in a situation in which he may have a direct or indirect interest that conflicts, or possibly may conflict, with the interest of the company."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Part IX — Accounts of Companies",
+      "sections": [
+        {
+          "no": "223",
+          "title": "Financial statement",
+          "text": [
+            "(1) Every company shall prepare its financial statements for each financial year and lay them before the company in general meeting.",
+            "(2) The financial statements shall give a true and fair view of the state of affairs of the company as at the end of the financial year and of its profit or loss for that year."
+          ]
+        }
+      ]
+    }
+  ]
+}
