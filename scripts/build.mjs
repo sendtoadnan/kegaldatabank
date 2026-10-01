@@ -67,6 +67,7 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
     <a href="${base}index.html"${page === 'home' ? ' aria-current="page"' : ''}>Library</a>
     <a href="${base}search.html"${page === 'search' ? ' aria-current="page"' : ''}>Search</a>
     <a href="${base}shelf.html"${page === 'shelf' ? ' aria-current="page"' : ''}>My shelf</a>
+    <a href="${base}sources.html"${page === 'sources' ? ' aria-current="page"' : ''}>Sources</a>
     <a href="${base}about.html"${page === 'about' ? ' aria-current="page"' : ''}>About</a>
   </nav>
   <button class="icon-btn" id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
@@ -94,12 +95,15 @@ ${body}
         : `<span class="badge warn" title="${e(act.verification.note || 'Not yet checked against an official source')}">Unverified</span>`;
 
   // Amendment notes that belong to a heading or to the title and enacting text rather than to a provision.
-  const noteList = (notes, label) =>
+  const noteList = (notes, label, idPrefix) =>
     notes && notes.length
-      ? `<details class="prov-fns"><summary>${label} (${notes.length})</summary><ol>${notes
-          .map((f) => `<li><span class="fn-no">${e(fnLabel(f.n))}</span> ${e(f.text)}</li>`)
+      ? `<details class="prov-fns" id="${idPrefix}"><summary>${label} (${notes.length})</summary><ol>${notes
+          .map((f) => `<li id="${idPrefix}-fn-${slug(f.n)}"><span class="fn-no">${e(fnLabel(f.n))}</span> ${e(f.text)}</li>`)
           .join('')}</ol></details>`
       : '';
+
+  const hasNotes = (act) =>
+    (act.frontNotes || []).length > 0 || act.parts.some((p) => (p.fn || []).length || p.sections.some((s) => (s.fn || []).length));
 
   const provisionCount = (act) => act.parts.reduce((n, p) => n + p.sections.length, 0);
   // Large editions are linked at the regulator's own URL instead of being republished (sourcePdfUrl).
@@ -185,10 +189,10 @@ ${body}
 
     const parts = act.parts
       .map(
-        (p) => `
+        (p, pi) => `
       <section class="part">
         <h2 class="part-heading">${e(p.heading)}</h2>
-        ${noteList(p.fn, 'Amendment notes on this heading')}
+        ${noteList(p.fn, 'Amendment notes on this heading', `part-${pi + 1}`)}
         ${p.sections
           .map((s) => {
             const anchor = provisionAnchor(s.no);
@@ -278,13 +282,14 @@ ${body}
       <p class="crumbs"><a href="${base}index.html">Library</a>${parent ? ` / <a href="../${parent.id}/index.html">${e(parent.title)}</a>` : ''}</p>
       <h1>${e(act.title)} ${verificationBadge(act)}</h1>
       ${act.preamble ? `<p class="preamble">${e(stripMarkers(act.preamble))}</p>` : ''}
-      ${noteList(act.frontNotes, 'Amendment notes on the title and enacting text')}
+      ${noteList(act.frontNotes, 'Amendment notes on the title and enacting text', 'front')}
       <dl class="meta">${meta}</dl>
       ${verification}
       ${caution}
       ${sourceNotes}
       ${pdfOnly}
-      ${act.parts.length ? `<div class="act-actions"><button type="button" class="btn" onclick="window.print()">Print</button></div>` : ''}
+      ${act.parts.length ? `<div class="act-actions"><button type="button" class="btn" onclick="window.print()">Print</button>${hasNotes(act) ? `
+        <label class="toggle"><input type="checkbox" id="show-notes"> Show amendment notes</label>` : ''}</div>` : ''}
       ${parts}
       ${schedules}
       ${subsidiary}
@@ -320,6 +325,11 @@ ${body}
         <select id="f-type"><option value="">All</option>${[...new Set(acts.map((a) => a.type))].map((t) => `<option value="${t}">${typeLabel(t)}</option>`).join('')}</select>
       </label>
     </div>
+    <fieldset class="search-in">
+      <legend>Search in</legend>
+      <label><input type="checkbox" id="in-text" checked> Provision text and headings</label>
+      <label><input type="checkbox" id="in-notes"> Amendment notes (footnotes)</label>
+    </fieldset>
     <p class="muted small">Tips: use quotes for an exact phrase (<code>"proceeds of crime"</code>). All words must match.</p>
     <div id="results" aria-live="polite"></div>
   </section>`,
@@ -341,6 +351,62 @@ ${body}
   </section>`,
     })
   );
+
+  // ---------- sources & updates ----------
+  {
+    // data/update-check.json is written by scripts/check_updates.mjs (run weekly by CI).
+    const reportPath = path.join(ROOT, 'data', 'update-check.json');
+    const report = fs.existsSync(reportPath) ? JSON.parse(fs.readFileSync(reportPath, 'utf8')) : { checkedAt: null, results: [] };
+    const byId = new Map(report.results.map((r) => [r.id, r]));
+    const STATUS = {
+      newer: ['bad', 'Newer edition published'],
+      current: ['ok', 'Up to date'],
+      manual: ['warn', 'Check on the website'],
+    };
+    const order = { newer: 0, manual: 1, current: 2 };
+    const rows = acts
+      .map((a) => ({ a, r: byId.get(a.id) }))
+      .sort((x, y) => (order[x.r?.status] ?? 1) - (order[y.r?.status] ?? 1) || x.a.title.localeCompare(y.a.title))
+      .map(({ a, r }) => {
+        const [cls, label] = STATUS[r?.status] || STATUS.manual;
+        const latest = r?.status === 'newer' && r.latest
+          ? `<br><a href="${e(r.latest.url)}" target="_blank" rel="noopener">${e(r.latest.title)}</a>`
+          : r?.status === 'manual' ? `<br><span class="muted small">${e(r.note)}</span>` : '';
+        const page = r?.page || a.source.url;
+        return `
+        <tr>
+          <td><a href="acts/${a.id}/index.html">${e(a.title)}</a></td>
+          <td>${a.amendedUpToLabel ? e(a.amendedUpToLabel) : a.enacted ? `As enacted (${e(a.enacted)})` : 'Not stated'}</td>
+          <td><span class="badge ${cls}">${label}</span>${latest}</td>
+          <td><a href="${e(page)}" target="_blank" rel="noopener">${e(new URL(page).hostname.replace(/^www\./, ''))}</a></td>
+        </tr>`;
+      })
+      .join('');
+    const count = (st) => report.results.filter((r) => r.status === st).length;
+    write(
+      'sources.html',
+      layout({
+        title: `Sources and updates — ${site.name}`,
+        base: '',
+        page: 'sources',
+        body: `
+  <section class="prose sources-page">
+    <h1>Sources and updates</h1>
+    <p>Each instrument is taken from the regulator's own consolidated edition. This page compares the edition in the library with the latest edition listed on the regulator's website, so you can see which laws need checking.</p>
+    ${report.checkedAt
+      ? `<p><strong>Last checked ${e(report.checkedAt)}:</strong> ${count('newer')} with a newer edition, ${count('manual')} to check on the website, ${count('current')} up to date.</p>`
+      : '<p>No automated check has been run yet.</p>'}
+    <p class="muted small">The check runs every week. FBR and FMU pages are read automatically; SECP's website blocks automated access and Pakistan Code lists no edition dates, so those laws link to the page to check by hand.</p>
+    <div class="table-wrap">
+      <table class="sources-table">
+        <thead><tr><th>Instrument</th><th>Edition in the library</th><th>Status</th><th>Regulator page</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </div>
+  </section>`,
+      })
+    );
+  }
 
   // ---------- about ----------
   write(
@@ -402,6 +468,26 @@ ${body}
   };
   write('search-index.json', JSON.stringify(index));
 
+  // Amendment notes are searched only when the reader asks for them, so they live in their own file.
+  const noteRows = acts.flatMap((a) => [
+    ...(a.frontNotes || []).map((f) => ({ a: a.id, k: 'front', no: '', h: 'Title and enacting text', n: fnLabel(f.n), id: `front-fn-${slug(f.n)}`, t: f.text })),
+    ...a.parts.flatMap((p, pi) => [
+      ...(p.fn || []).map((f) => ({ a: a.id, k: `part-${pi + 1}`, no: '', h: p.heading, n: fnLabel(f.n), id: `part-${pi + 1}-fn-${slug(f.n)}`, t: f.text })),
+      ...p.sections.flatMap((s) =>
+        (s.fn || []).map((f) => ({
+          a: a.id,
+          k: provisionAnchor(s.no),
+          no: displayNo(s.no),
+          h: stripMarkers(s.title),
+          n: fnLabel(f.n),
+          id: `${provisionAnchor(s.no)}-fn-${slug(f.n)}`,
+          t: f.text,
+        }))
+      ),
+    ]),
+  ]);
+  write('search-notes.json', JSON.stringify(noteRows));
+
   // ---------- official source PDFs (served as /sources/<id>.pdf) ----------
   for (const a of acts) {
     if (a.sourcePdf && !a.sourcePdfUrl) write(`sources/${a.id}.pdf`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', a.sourcePdf)));
@@ -432,7 +518,7 @@ ${body}
 
   // The service worker precaches the app shell and search index; instrument pages and PDFs
   // are cached as they are opened, so everything a reader has used stays available offline.
-  const precache = written.filter((f) => f !== 'sw.js' && !f.startsWith('acts/') && !f.startsWith('sources/'));
+  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('acts/') && !f.startsWith('sources/'));
   const version = crypto.createHash('sha256').update(precache.map((f) => f + fs.statSync(path.join(outDir, f)).size).join('|')).update(JSON.stringify(index)).digest('hex').slice(0, 12);
   const sw = fs.readFileSync(path.join(ROOT, 'src', 'sw.template.js'), 'utf8').replace('__VERSION__', version).replace('__PRECACHE__', JSON.stringify(precache.map((f) => `./${f}`)));
   write('sw.js', sw);

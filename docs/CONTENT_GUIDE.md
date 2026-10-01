@@ -116,6 +116,8 @@ Notes whose markers sit in a chapter or part heading are stored on that heading 
 
 ## 4. Keeping the law current
 
+- **Finding laws that need updating:** `npm run check-updates` compares each instrument's edition with the latest edition on its regulator's website, using the `watch` entry in `sources/manifest.json`: `page` is the regulator's listing page and `match` a pattern for that law's links; `manual: true` marks pages with no dated editions. The "amended / updated up to" date is read from each link's text or file name. A GitHub workflow runs it every Monday, saves `data/update-check.json` (shown on the site's **Sources** page) and opens an issue when a newer edition is published. SECP's website blocks automated access, so SECP instruments are listed for a manual check with a link to the page.
+
 - After each **Finance Act**, **SRO** or **amendment Act**, update the affected provisions, add a note (`"Substituted by the Finance Act, 2026, s. 5"`), update `lastAmended`, and re-verify.
 - Never edit a verified file without re-verifying it. Updating the text means updating `verifiedBy` and `verifiedOn` too.
 - Keep repealed instruments with `"status": "repealed"`; they remain citable for past transactions.

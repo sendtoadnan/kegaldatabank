@@ -1,0 +1,199 @@
+{
+ "checkedAt": "2026-10-01",
+ "results": [
+  {
+   "id": "income-tax-ordinance-2001",
+   "title": "Income Tax Ordinance, 2001",
+   "edition": "2026-06-30",
+   "editionLabel": "30 June 2026",
+   "page": "https://www.fbr.gov.pk/Categ/Income-Tax-Ordinance/326",
+   "status": "current",
+   "latest": {
+    "date": "2026-06-30",
+    "title": "Income Tax Ordinance, 2001 Amended upto 30.06.2026",
+    "url": "https://download1.fbr.gov.pk/Docs/2026724177725705IncomeTaxOrdinanace2001.pdf"
+   }
+  },
+  {
+   "id": "income-tax-rules-2002",
+   "title": "Income Tax Rules, 2002",
+   "edition": "2026-09-15",
+   "editionLabel": "15 September 2026",
+   "page": "https://www.fbr.gov.pk/categ/income-tax-rules-2002/335",
+   "status": "current",
+   "latest": {
+    "date": "2026-09-15",
+    "title": "Income Tax Rules, 2002 Amended upto 15.09.2026",
+    "url": "https://download1.fbr.gov.pk/Docs/20269211394336470IncomeTaxRules2002.pdf"
+   }
+  },
+  {
+   "id": "sales-tax-act-1990",
+   "title": "Sales Tax Act, 1990",
+   "edition": "2026-06-30",
+   "editionLabel": "30 June 2026 (Finance Act, 2026)",
+   "page": "https://www.fbr.gov.pk/categ/sales-tax-act/301",
+   "status": "current",
+   "latest": {
+    "date": "2026-06-30",
+    "title": "Sales Tax Act 1990 amended upto 30-06-2026",
+    "url": "https://download1.fbr.gov.pk/Docs/20267171373418951SalesTaxAct1990updatedupto30.06.2026.pdf"
+   }
+  },
+  {
+   "id": "sales-tax-rules-2006",
+   "title": "Sales Tax Rules, 2006",
+   "edition": "2026-07-31",
+   "editionLabel": "31 July 2026",
+   "page": "https://www.fbr.gov.pk/categ/sales-tax-rules-2006/302",
+   "status": "current",
+   "latest": {
+    "date": "2026-07-31",
+    "title": "The Sales Tax Rules, 2006 updated upto 31st July, 2026",
+    "url": "https://download1.fbr.gov.pk/Docs/202691810951482SalesTaxRules.pdf"
+   }
+  },
+  {
+   "id": "federal-excise-act-2005",
+   "title": "Federal Excise Act, 2005",
+   "edition": "2026-06-30",
+   "editionLabel": "30 June 2026 (Finance Act, 2026)",
+   "page": "https://www.fbr.gov.pk/Categ/Federal-Excise-Act/346",
+   "status": "current",
+   "latest": {
+    "date": "2026-06-30",
+    "title": "Federal Excise Act, 2005 as amended upto 30-06-2026",
+    "url": "https://download1.fbr.gov.pk/Docs/20267171373633512FEDAct2005updatedupto30-06-2026.pdf"
+   }
+  },
+  {
+   "id": "customs-act-1969",
+   "title": "Customs Act, 1969",
+   "edition": "2026-06-30",
+   "editionLabel": "30 June 2026",
+   "page": "https://www.fbr.gov.pk/categ/customs-act-1969/130",
+   "status": "current",
+   "latest": {
+    "date": "2026-06-30",
+    "title": "Customs Act, 1969 as amended up to 30th June, 2026",
+    "url": "https://download1.fbr.gov.pk/Docs/20268241784853463Customs-Act-1969.pdf"
+   }
+  },
+  {
+   "id": "companies-act-2017",
+   "title": "Companies Act, 2017",
+   "edition": "2022-08-18",
+   "editionLabel": "18 August 2022",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "companies-regulations-2024",
+   "title": "Companies Regulations, 2024",
+   "edition": "2025-07-25",
+   "editionLabel": "25 July 2025 (S.R.O. 1355(I)/2025)",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "companies-act-2017-third-schedule",
+   "title": "Third Schedule to the Companies Act, 2017 (Classification of Companies)",
+   "edition": "2025-12-29",
+   "editionLabel": "29 December 2025",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "companies-act-2017-seventh-schedule",
+   "title": "Seventh Schedule to the Companies Act, 2017 (Table of Fees)",
+   "edition": "2025-11-10",
+   "editionLabel": "10 November 2025",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "sro-239-2024-companies-first-schedule",
+   "title": "S.R.O. 239(I)/2024 — Amendment to Table F, First Schedule, Companies Act, 2017",
+   "edition": "2024-02-16",
+   "editionLabel": null,
+   "page": "https://www.secp.gov.pk/laws/notifications/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "secp-aml-cft-cpf-regulations-2020",
+   "title": "SECP (Anti Money Laundering, Combating the Financing of Terrorism and Countering Proliferation Financing) Regulations, 2020",
+   "edition": "2026-07-03",
+   "editionLabel": "3 July 2026 (S.R.O. 1079(I)/2026)",
+   "page": "https://www.secp.gov.pk/aml-cft-2/aml-cft-laws/aml-cft-regulations/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "insurance-ordinance-2000",
+   "title": "Insurance Ordinance, 2000",
+   "edition": "2011-11-30",
+   "editionLabel": "November 2011",
+   "page": "https://www.secp.gov.pk/laws/ordinances/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "insurance-rules-2017",
+   "title": "Insurance Rules, 2017",
+   "edition": "2025-03-03",
+   "editionLabel": "3 March 2025",
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "takaful-rules-2012",
+   "title": "Takaful Rules, 2012",
+   "edition": "2015-10-22",
+   "editionLabel": "22 October 2015",
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "aml-act-2010",
+   "title": "Anti-Money Laundering Act, 2010",
+   "edition": "2020-09-30",
+   "editionLabel": "September 2020",
+   "page": "https://www.fmu.gov.pk/laws/",
+   "status": "current",
+   "latest": {
+    "date": "2020-09-30",
+    "title": "Anti-Money-Laundering-Act-2010-amended-upto-Sep. 2020.pdf",
+    "url": "http://www.fmu.gov.pk/docs/Anti-Money-Laundering-Act-2010-amended-upto-Sep.%202020.pdf"
+   }
+  },
+  {
+   "id": "federal-excise-rules-2005",
+   "title": "Federal Excise Rules, 2005",
+   "edition": "2026-09-16",
+   "editionLabel": "16 September 2026",
+   "page": "https://www.fbr.gov.pk/categ/federal-excise-rules-2005/347",
+   "status": "current",
+   "latest": {
+    "date": "2026-09-16",
+    "title": "The Federal Excise Rules, 2005 updated upto 16.09.2026",
+    "url": "https://download1.fbr.gov.pk/Docs/2026918109127910FED.pdf"
+   }
+  },
+  {
+   "id": "benami-transactions-act-2017",
+   "title": "Benami Transactions (Prohibition) Act, 2017",
+   "edition": "2017-02-14",
+   "editionLabel": null,
+   "page": "https://www.pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2NoaJg=-sg-jjjjjjjjjjjjj",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  }
+ ]
+}

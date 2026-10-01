@@ -221,17 +221,42 @@
       });
     }
 
+    // "Show amendment notes" opens every notes list on the page; the choice is remembered.
+    var showNotes = document.getElementById('show-notes');
+    var NOTES_KEY = 'ldb-show-notes';
+    function setNotes(open) {
+      document.querySelectorAll('details.prov-fns').forEach(function (d) { d.open = open; });
+    }
+    if (showNotes) {
+      showNotes.checked = store(NOTES_KEY) === true;
+      if (showNotes.checked) setNotes(true);
+      showNotes.addEventListener('change', function () {
+        setNotes(showNotes.checked);
+        store(NOTES_KEY, showNotes.checked);
+      });
+    }
+
+    // A link to a note (#s-2-fn-9-14) opens the notes list that holds it.
+    function revealHash() {
+      var el = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      if (!el) return null;
+      var d = el.closest('details');
+      if (d) d.open = true;
+      return el;
+    }
+    window.addEventListener('hashchange', revealHash);
+
     // Highlight search terms passed from the search page (?hl=...)
     var hl = new URLSearchParams(location.search).get('hl');
-    if (hl && location.hash) {
-      var target = document.getElementById(location.hash.slice(1));
-      if (target) {
-        var terms = parseQuery(hl).terms;
-        target.querySelectorAll('.prov-body p').forEach(function (p) {
-          p.innerHTML = highlight(p.textContent, terms);
-        });
-        target.classList.add('flash');
-      }
+    var target = revealHash();
+    if (hl && target) {
+      var terms = parseQuery(hl).terms;
+      var blocks = target.matches('li') ? [target] : target.querySelectorAll('.prov-body p');
+      Array.prototype.forEach.call(blocks, function (p) {
+        p.innerHTML = highlight(p.textContent, terms);
+      });
+      target.classList.add('flash');
+      target.scrollIntoView({ block: 'center' });
     }
   }
 
@@ -349,30 +374,83 @@
     return indexPromise;
   }
 
+  // Amendment notes are a separate file, fetched the first time a reader searches them.
+  var notesPromise;
+  function loadNotes() {
+    notesPromise = notesPromise || fetch(BASE + 'search-notes.json').then(function (r) { return r.json(); });
+    return notesPromise;
+  }
+
+  function searchNotes(index, notes, q, cat, type) {
+    var parsed = parseQuery(q);
+    if (!parsed.terms.length) return [];
+    var acts = {};
+    index.acts.forEach(function (a) { acts[a.id] = a; });
+    var out = [];
+    notes.forEach(function (n) {
+      var a = acts[n.a];
+      if (!a || (cat && a.categories.indexOf(cat) === -1) || (type && a.type !== type)) return;
+      var text = n.t.toLowerCase();
+      var actHay = (a.title + ' ' + a.aliases.join(' ')).toLowerCase();
+      var score = 0;
+      var ok = parsed.terms.every(function (t) {
+        var inText = text.indexOf(t) !== -1;
+        if (inText) score += 2;
+        return inText || actHay.indexOf(t) !== -1;
+      });
+      if (ok && score) out.push({ n: n, a: a, score: score });
+    });
+    out.sort(function (x, y) { return y.score - x.score; });
+    return out;
+  }
+
+  function noteResultHtml(r, terms, hl) {
+    var n = r.n;
+    var url = BASE + 'acts/' + r.a.id + '/index.html?hl=' + encodeURIComponent(hl) + '#' + n.id;
+    var where = n.no ? r.a.unit + ' ' + n.no + (n.h ? ' — ' + n.h : '') : n.h;
+    return (
+      '<li class="result note-result"><a href="' + url + '">' +
+      '<span class="result-title">' + esc(where) + ' · <span class="badge">Note ' + esc(n.n) + '</span></span>' +
+      '<span class="act-meta">' + esc(r.a.title) + '</span>' +
+      '<span class="result-snippet">' + highlight(snippet(n.t, terms), terms) + '</span></a></li>'
+    );
+  }
+
   if (PAGE === 'search') {
     var form = document.getElementById('search-form');
     var input = document.getElementById('q');
     var fCat = document.getElementById('f-cat');
     var fType = document.getElementById('f-type');
+    var inText = document.getElementById('in-text');
+    var inNotes = document.getElementById('in-notes');
     var results = document.getElementById('results');
     var params = new URLSearchParams(location.search);
     input.value = params.get('q') || '';
     fCat.value = params.get('cat') || '';
     fType.value = params.get('type') || '';
+    inText.checked = params.get('text') !== '0';
+    inNotes.checked = params.get('notes') === '1';
 
     var render = function () {
       var q = input.value.trim();
       var url = new URL(location.href);
-      ['q', 'cat', 'type'].forEach(function (k) { url.searchParams.delete(k); });
+      ['q', 'cat', 'type', 'text', 'notes'].forEach(function (k) { url.searchParams.delete(k); });
       if (q) url.searchParams.set('q', q);
       if (fCat.value) url.searchParams.set('cat', fCat.value);
       if (fType.value) url.searchParams.set('type', fType.value);
+      if (!inText.checked) url.searchParams.set('text', '0');
+      if (inNotes.checked) url.searchParams.set('notes', '1');
       history.replaceState(null, '', url);
       if (!q) {
         results.innerHTML = '';
         return;
       }
-      loadIndex().then(function (index) {
+      if (!inText.checked && !inNotes.checked) {
+        results.innerHTML = '<p class="empty">Tick at least one of “Provision text” or “Amendment notes”.</p>';
+        return;
+      }
+      Promise.all([loadIndex(), inNotes.checked ? loadNotes() : null]).then(function (loaded) {
+        var index = loaded[0];
         var html = '';
         var j = jump(index, q);
         if (j) {
@@ -381,11 +459,20 @@
             esc(j.act.unit + ' ' + j.prov.no + ' — ' + j.prov.title) + ', ' + esc(j.act.title) + '</a></div>';
         }
         var terms = parseQuery(q).terms;
-        var hits = runSearch(index, q, fCat.value, fType.value);
-        html += '<p class="muted small">' + hits.length + ' provision' + (hits.length === 1 ? '' : 's') + ' found</p>';
-        html += hits.length
-          ? '<ol class="result-list">' + hits.slice(0, 100).map(function (r) { return resultHtml(r, terms, q); }).join('') + '</ol>'
-          : '<p class="empty">No provisions match all of those words. Try fewer words or remove a filter.</p>';
+        if (inText.checked) {
+          var hits = runSearch(index, q, fCat.value, fType.value);
+          html += '<h2 class="result-head">Provisions <span class="count">' + hits.length + '</span></h2>';
+          html += hits.length
+            ? '<ol class="result-list">' + hits.slice(0, 100).map(function (r) { return resultHtml(r, terms, q); }).join('') + '</ol>'
+            : '<p class="empty">No provisions match all of those words. Try fewer words or remove a filter.</p>';
+        }
+        if (inNotes.checked) {
+          var noteHits = searchNotes(index, loaded[1], q, fCat.value, fType.value);
+          html += '<h2 class="result-head">Amendment notes <span class="count">' + noteHits.length + '</span></h2>';
+          html += noteHits.length
+            ? '<ol class="result-list">' + noteHits.slice(0, 100).map(function (r) { return noteResultHtml(r, terms, q); }).join('') + '</ol>'
+            : '<p class="empty">No amendment notes match all of those words.</p>';
+        }
         results.innerHTML = html;
       }, function () {
         results.innerHTML = '<p class="empty">The search index could not be loaded.</p>';
@@ -403,6 +490,8 @@
     });
     fCat.addEventListener('change', render);
     fType.addEventListener('change', render);
+    inText.addEventListener('change', render);
+    inNotes.addEventListener('change', render);
     render();
   }
 
