@@ -12,7 +12,8 @@
     "validate": "node scripts/validate.mjs",
     "serve": "node scripts/build.mjs && node scripts/serve.mjs",
     "import": "node scripts/import-text.mjs",
-    "test": "node --test test/*.test.mjs"
+    "test": "node --test test/*.test.mjs",
+    "check-updates": "node scripts/check_updates.mjs"
   },
   "license": "UNLICENSED"
 }

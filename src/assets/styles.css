@@ -175,7 +175,8 @@ main { max-width: 1200px; margin: 0 auto; padding: 24px 16px 48px; }
 .prov-fns summary { cursor: pointer; font-weight: 500; }
 .prov-fns ol { list-style: none; padding: 0; margin: 6px 0 0; }
 .prov-fns li { padding: 3px 0 3px 2.6em; text-indent: -2.6em; }
-.prov-fns li:target { background: var(--mark); border-radius: 4px; }
+.prov-fns li:target, .prov-fns li.flash { background: var(--mark); border-radius: 4px; }
+.note-result .badge { background: var(--surface-2); color: var(--muted); text-transform: none; }
 .fn-no { display: inline-block; min-width: 2.4em; text-indent: 0; font-variant-numeric: tabular-nums; color: var(--text); }
 .tool-link { font-size: 0.8rem; padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); color: var(--link); text-decoration: none; display: inline-flex; align-items: center; min-height: 32px; background: var(--bg); }
 .tool-link:hover { border-color: var(--accent); }
@@ -212,6 +213,11 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 1
 select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: var(--text); }
 .jump { padding: 12px 16px; border: 1px solid var(--accent); border-radius: 10px; margin: 16px 0; background: var(--surface); }
 .jump a { font-weight: 600; }
+.search-in { display: flex; flex-wrap: wrap; gap: 6px 18px; border: 0; padding: 0; margin: 12px 0 4px; font-size: 0.9rem; }
+.search-in legend { font-size: 0.8rem; color: var(--muted); padding: 0; margin-bottom: 4px; width: 100%; }
+.search-in label, .toggle { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+.toggle { margin-left: 14px; font-size: 0.9rem; }
+.result-head { font-size: 1rem; margin: 18px 0 4px; display: flex; align-items: center; gap: 8px; }
 .result-list { list-style: none; padding: 0; margin: 0; }
 .result a { display: flex; flex-direction: column; gap: 3px; padding: 14px 16px; margin: 8px 0; border: 1px solid var(--border); border-radius: 12px; background: var(--surface); color: var(--text); text-decoration: none; }
 .result a:hover { border-color: var(--accent); }
@@ -254,3 +260,11 @@ select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid
   .meta, .notice { border: 1px solid #999; background: none; color: #000; }
   a { color: #000; text-decoration: none; }
 }
+
+/* Sources and updates */
+.sources-page { max-width: 980px; }
+.table-wrap { overflow-x: auto; margin: 16px 0; border: 1px solid var(--border); border-radius: 12px; }
+.sources-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.sources-table th, .sources-table td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+.sources-table th { background: var(--surface-2); font-weight: 600; font-size: 0.8rem; color: var(--muted); }
+.sources-table tr:last-child td { border-bottom: 0; }

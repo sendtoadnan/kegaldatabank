@@ -6,6 +6,7 @@ import path from 'node:path';
 import { loadLibrary, validateLibrary, citation, parseParagraph, provisionAnchor } from '../scripts/lib.mjs';
 import { build } from '../scripts/build.mjs';
 import { parseStatute } from '../scripts/import-text.mjs';
+import { datesIn, linksIn, latestEdition, toMarkdown } from '../scripts/check_updates.mjs';
 
 test('library data is valid', () => {
   const errors = validateLibrary(loadLibrary());
@@ -83,7 +84,18 @@ test('build writes pages, search index and offline cache', () => {
 
   assert.ok(index.provisions.some((p) => p.act === 'aml-act-2010' && p.no === '3' && p.text.includes('proceeds of crime')));
   assert.ok(index.provisions.every((p) => !/\{fn:/.test(p.text + p.title)), 'search text has no markers');
+  const notes = JSON.parse(fs.readFileSync(path.join(outDir, 'search-notes.json'), 'utf8'));
+  assert.ok(notes.some((n) => n.a === 'sales-tax-act-1990' && n.k === 's-3' && /seventeen/.test(n.t)), 'amendment notes are searchable');
+  assert.ok(notes.every((n) => n.id && n.t), 'every searchable note links to its place on the page');
+  const search = fs.readFileSync(path.join(outDir, 'search.html'), 'utf8');
+  assert.match(search, /id="in-text" checked/);
+  assert.match(search, /id="in-notes"/);
+  assert.match(ito, /id="show-notes"/, 'instrument pages can show all amendment notes');
+  const sources = fs.readFileSync(path.join(outDir, 'sources.html'), 'utf8');
+  assert.match(sources, /Sources and updates/);
+  assert.match(sources, /fbr\.gov\.pk/);
   const sw = fs.readFileSync(path.join(outDir, 'sw.js'), 'utf8');
+  assert.doesNotMatch(sw, /search-notes\.json/, 'the notes index is cached on first use, not precached');
   assert.doesNotMatch(sw, /__VERSION__|__PRECACHE__/);
   assert.match(sw, /"\.\/search-index\.json"/);
   fs.rmSync(outDir, { recursive: true, force: true });
@@ -150,5 +162,21 @@ test('amendment notes are cited by their provision or read as amendment notes', 
   const str = acts.find((a) => a.id === 'sales-tax-rules-2006');
   assert.ok(str.frontNotes.length > 0, 'notes on the enacting notification are kept');
   assert.ok(str.parts.some((p) => (p.fn || []).length), 'notes on chapter headings are kept');
+});
+
+test('update check reads edition dates from regulator pages', () => {
+  assert.deepEqual(datesIn('Income Tax Ordinance, 2001 Amended upto 30.06.2026'), ['2026-06-30']);
+  assert.deepEqual(datesIn('Sales Tax Act 1990 amended upto 30-06-2026'), ['2026-06-30']);
+  assert.deepEqual(datesIn('The Sales Tax Rules, 2006 updated upto 31st July, 2026'), ['2026-07-31']);
+  assert.deepEqual(datesIn('Insurance Rules 2017- Updated as of March 3, 2025'), ['2025-03-03']);
+  assert.deepEqual(datesIn('Anti-Money-Laundering-Act-2010-amended-upto-Sep. 2020.pdf'.replace(/-/g, ' ')), ['2020-09-30']);
+  const html = `<a href="/Docs/a.pdf">Customs Act, 1969 as amended up to 30th June, 2025</a>
+    <a href="https://download1.fbr.gov.pk/Docs/b.pdf" target="_blank">Customs Act, 1969 as amended up to 30th June, 2026</a>
+    <a href="/Docs/c.pdf">Customs Rules, 2001 (Updated Up to 30.06.2027)</a>`;
+  const latest = latestEdition(linksIn(html, 'https://www.fbr.gov.pk/categ/customs-act-1969/130'), 'Customs Act');
+  assert.equal(latest.date, '2026-06-30');
+  assert.equal(latest.url, 'https://download1.fbr.gov.pk/Docs/b.pdf');
+  const md = toMarkdown([{ id: 'x', title: 'X Act', edition: '2025-06-30', page: 'https://example.org', status: 'newer', latest }], '2026-10-01');
+  assert.match(md, /\*\*1\*\* with a newer edition/);
 });
 

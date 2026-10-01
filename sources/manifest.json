@@ -153,7 +153,11 @@
     "footnoteRuleOnly": [
       407,
       428
-    ]
+    ],
+    "watch": {
+      "page": "https://www.fbr.gov.pk/Categ/Income-Tax-Ordinance/326",
+      "match": "Income Tax Ordinance"
+    }
   },
   {
     "id": "income-tax-rules-2002",
@@ -304,7 +308,11 @@
     ],
     "bodyEndPage": 428,
     "pdfUrl": "https://download1.fbr.gov.pk/Docs/20269211394336470IncomeTaxRules2002.pdf",
-    "remotePdf": true
+    "remotePdf": true,
+    "watch": {
+      "page": "https://www.fbr.gov.pk/categ/income-tax-rules-2002/335",
+      "match": "Income Tax Rules"
+    }
   },
   {
     "id": "sales-tax-act-1990",
@@ -328,7 +336,11 @@
       "name": "Federal Board of Revenue",
       "url": "https://www.fbr.gov.pk"
     },
-    "noteMaxSize": 8
+    "noteMaxSize": 8,
+    "watch": {
+      "page": "https://www.fbr.gov.pk/categ/sales-tax-act/301",
+      "match": "Sales Tax Act"
+    }
   },
   {
     "id": "sales-tax-rules-2006",
@@ -506,7 +518,11 @@
         "title": "Form STR-36",
         "page": 232
       }
-    ]
+    ],
+    "watch": {
+      "page": "https://www.fbr.gov.pk/categ/sales-tax-rules-2006/302",
+      "match": "Sales Tax Rules"
+    }
   },
   {
     "id": "federal-excise-act-2005",
@@ -532,7 +548,11 @@
       "url": "https://www.fbr.gov.pk"
     },
     "sourceNotes": "The contents list of this FBR edition also lists sections 7A and 45A, which do not appear in the body text of the edition.",
-    "noteMaxSize": 10
+    "noteMaxSize": 10,
+    "watch": {
+      "page": "https://www.fbr.gov.pk/Categ/Federal-Excise-Act/346",
+      "match": "Federal Excise Act"
+    }
   },
   {
     "id": "customs-act-1969",
@@ -557,7 +577,11 @@
     },
     "endnotes": true,
     "sourceNotes": "The contents list of this FBR edition also lists sections 14A, 18B, 21A, 155I and 221A, which do not appear in the body text of the edition. Sections 194B, 194C, 195B, 195C, 196H and 196I appear in the body but not in the contents list.",
-    "noteMaxSize": 10
+    "noteMaxSize": 10,
+    "watch": {
+      "page": "https://www.fbr.gov.pk/categ/customs-act-1969/130",
+      "match": "Customs Act"
+    }
   },
   {
     "id": "companies-act-2017",
@@ -582,7 +606,11 @@
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
     },
-    "sourceNotes": "Sections 60A, 83A, 123A and 458A appear in the body of this edition but not in its contents list."
+    "sourceNotes": "Sections 60A, 83A, 123A and 458A appear in the body of this edition but not in its contents list.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "match": "Companies Act, 2017"
+    }
   },
   {
     "id": "companies-regulations-2024",
@@ -696,7 +724,11 @@
         "title": "Annexure – V",
         "page": 276
       }
-    ]
+    ],
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "match": "Companies Regulations,? 2024"
+    }
   },
   {
     "id": "companies-act-2017-third-schedule",
@@ -720,6 +752,10 @@
     "source": {
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
+    },
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "match": "3rd Schedule|Third Schedule"
     }
   },
   {
@@ -745,6 +781,10 @@
     "source": {
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
+    },
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "match": "Seventh Schedule"
     }
   },
   {
@@ -768,6 +808,10 @@
     "source": {
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
+    },
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/notifications/",
+      "manual": true
     }
   },
   {
@@ -794,7 +838,11 @@
       "url": "https://www.secp.gov.pk"
     },
     "untitledProvisions": true,
-    "stopAtSchedule": false
+    "stopAtSchedule": false,
+    "watch": {
+      "page": "https://www.secp.gov.pk/aml-cft-2/aml-cft-laws/aml-cft-regulations/",
+      "match": "AML.{0,3}CFT.{0,3}CPF Regulations"
+    }
   },
   {
     "id": "insurance-ordinance-2000",
@@ -817,7 +865,11 @@
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
     },
-    "bodyStartPage": 8
+    "bodyStartPage": 8,
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/ordinances/",
+      "match": "Insurance Ordinance"
+    }
   },
   {
     "id": "insurance-rules-2017",
@@ -841,7 +893,11 @@
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
     },
-    "stopAtSchedule": false
+    "stopAtSchedule": false,
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/rules/",
+      "match": "Insurance Rules,? 2017"
+    }
   },
   {
     "id": "takaful-rules-2012",
@@ -864,7 +920,11 @@
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
     },
-    "stopAtSchedule": false
+    "stopAtSchedule": false,
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/rules/",
+      "match": "Takaful Rules"
+    }
   },
   {
     "id": "aml-act-2010",
@@ -909,7 +969,11 @@
         "title": "Schedule IV — AML/CFT regulatory authorities",
         "page": 46
       }
-    ]
+    ],
+    "watch": {
+      "page": "https://www.fmu.gov.pk/laws/",
+      "match": "Anti-Money-Laundering-Act-2010"
+    }
   },
   {
     "id": "federal-excise-rules-2005",
@@ -984,7 +1048,11 @@
       }
     ],
     "sourceNotes": "PDF pages 50–52 and 55–58 of this FBR edition are scanned images. Rules 48B, 48C and 48I to 48M are printed only on those pages: their headings are taken from the edition's contents list and their text should be read in the official PDF. Annexures printed between chapters are linked to their PDF pages.",
-    "lowercaseContinues": true
+    "lowercaseContinues": true,
+    "watch": {
+      "page": "https://www.fbr.gov.pk/categ/federal-excise-rules-2005/347",
+      "match": "Federal Excise Rules"
+    }
   },
   {
     "id": "benami-transactions-act-2017",
@@ -1012,6 +1080,10 @@
       "name": "Pakistan Code, Ministry of Law and Justice",
       "url": "https://pakistancode.gov.pk"
     },
-    "spaceGaps": true
+    "spaceGaps": true,
+    "watch": {
+      "page": "https://www.pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2NoaJg=-sg-jjjjjjjjjjjjj",
+      "manual": true
+    }
   }
 ]

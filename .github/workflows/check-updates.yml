@@ -1,0 +1,48 @@
+name: Check regulator websites for newer editions
+
+# Every Monday, compare each law's edition with the latest edition on the regulator's website.
+# The report (data/update-check.json) feeds the site's "Sources" page; when a newer edition is
+# published, an issue lists what to update.
+on:
+  schedule:
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check editions
+        run: node scripts/check_updates.mjs --json data/update-check.json --markdown update-report.md
+      - name: Save the report for the Sources page
+        run: |
+          if git diff --quiet -- data/update-check.json; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/update-check.json
+          git commit -m "Update the regulator edition check"
+          git push || echo "::warning::Could not push the report (branch protection?). See the job log."
+      - name: Open or update the issue when a newer edition is published
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title="Newer editions published on regulator websites"
+          newer=$(node -e "console.log(require('./data/update-check.json').results.filter(r => r.status === 'newer').length)")
+          existing=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ "$newer" -gt 0 ]; then
+            if [ -n "$existing" ]; then
+              gh issue edit "$existing" --body-file update-report.md
+            else
+              gh issue create --title "$title" --body-file update-report.md
+            fi
+          elif [ -n "$existing" ]; then
+            gh issue close "$existing" --comment "All automatically checked laws are up to date again."
+          fi
