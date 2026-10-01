@@ -28,7 +28,7 @@
  "preamble": "WHEREAS it is expedient to consolidate and amend the law relating to the levy of a tax on the sale [, importation, exportation, Production, manufacture or consumption] of goods; It is hereby enacted as follows:-",
  "parts": [
   {
-   "heading": "Preliminary",
+   "heading": "Chapter I — Preliminary",
    "sections": [
     {
      "no": "1",
@@ -313,7 +313,11 @@
       },
       {
        "n": "9-13",
-       "text": "Clause (2A) substituted by Finance Act, 2008. Earlier it was inserted by Tax Laws (Amendments) Ordinance, 1999. Originally it was inserted by Finance Act, 1991. 14 Clause (3) substituted by Finance Act, 2024."
+       "text": "Clause (2A) substituted by Finance Act, 2008. Earlier it was inserted by Tax Laws (Amendments) Ordinance, 1999. Originally it was inserted by Finance Act, 1991."
+      },
+      {
+       "n": "9-14",
+       "text": "Clause (3) substituted by Finance Act, 2024."
       },
       {
        "n": "9-15",
@@ -401,7 +405,11 @@
       },
       {
        "n": "12-24",
-       "text": "Clause (9AA) omitted by Finance Act, 2004. Earlier it was inserted by Sales Tax (Amendment) Ordinance, 2001, dated February 7, 2001. 25 Clause (9AB) inserted through Finance Act, 2026."
+       "text": "Clause (9AA) omitted by Finance Act, 2004. Earlier it was inserted by Sales Tax (Amendment) Ordinance, 2001, dated February 7, 2001."
+      },
+      {
+       "n": "12-25",
+       "text": "Clause (9AB) inserted through Finance Act, 2026."
       },
       {
        "n": "12-26",
@@ -481,7 +489,11 @@
       },
       {
        "n": "15-45",
-       "text": "Proviso inserted by Finance Ordinance, 2000. 46 Clause (17A) inserted through Finance Act, 2026."
+       "text": "Proviso inserted by Finance Ordinance, 2000."
+      },
+      {
+       "n": "15-46",
+       "text": "Clause (17A) inserted through Finance Act, 2026."
       },
       {
        "n": "15-47",
@@ -493,7 +505,23 @@
       },
       {
        "n": "16-49",
-       "text": "Clause (20) substituted by Finance Act, 2008. Earlier it was inserted by Finance Act, 2007. 50 Clause (c) substituted by Finance Act, 2020. 51 clause 20A shall be inserted by Finance Act, 2025. 52 Clause (21) substituted by Finance Act, 2008. 53 Clause (22)(1A) inserted through Finance Act, 2026. 54 Clause (22A) inserted by Finance Act, 2008."
+       "text": "Clause (20) substituted by Finance Act, 2008. Earlier it was inserted by Finance Act, 2007."
+      },
+      {
+       "n": "16-50",
+       "text": "Clause (c) substituted by Finance Act, 2020. 51 clause 20A shall be inserted by Finance Act, 2025."
+      },
+      {
+       "n": "16-52",
+       "text": "Clause (21) substituted by Finance Act, 2008."
+      },
+      {
+       "n": "17-53",
+       "text": "Clause (22)(1A) inserted through Finance Act, 2026."
+      },
+      {
+       "n": "17-54",
+       "text": "Clause (22A) inserted by Finance Act, 2008."
       },
       {
        "n": "17-55",
@@ -842,14 +870,6 @@
       {
        "n": "28-141",
        "text": "Comma and words “, and a person who in addition to making retail supplies is engaged in wholesale business” omitted by Finance Act, 2008."
-      },
-      {
-       "n": "9-14",
-       "text": "Substituted for “Collector of Sales Tax” by Finance Act, 2010 w.e.f. June 5, 2010, the same amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010 published in the Gazette of Pakistan Extraordinary part I at pages 23 to 53 and this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259."
-      },
-      {
-       "n": "12-25",
-       "text": "Word “eight” substituted by Finance (Supplementary) Act, 2022. 26 After clause (5AB), new clause (5ABA) inserted through Finance Act, 2025."
       }
      ]
     }
@@ -1136,10 +1156,6 @@
       {
        "n": "33-199",
        "text": "New sub-section (12) added by Tax Laws (Second Amendment) Ordinance, 2022."
-      },
-      {
-       "n": "31-11",
-       "text": "The word substituted by Finance Act, 2020."
       }
      ]
     },
@@ -1289,10 +1305,6 @@
       {
        "n": "35-217",
        "text": "Words, figure and comma inserted by the Finance Act, 1996."
-      },
-      {
-       "n": "35-9",
-       "text": "The existing clause (1) and (1A) renumbered as clause (1A) and (1B), respectively through Finance Act,2025."
       }
      ]
     },
@@ -1507,10 +1519,6 @@
       {
        "n": "39-257",
        "text": "Sub-section (2) substituted vide Finance Act, 2019."
-      },
-      {
-       "n": "39-10",
-       "text": "The words “or is blocked” omitted by Finance Act, 2020."
       }
      ]
     },
@@ -1828,7 +1836,7 @@
     },
     {
      "no": "11A",
-     "title": "Shortpaid amounts recoverable without notice",
+     "title": "Short paid amounts recoverable without notice",
      "page": 46,
      "text": [
       "{fn:46-311}[ Notwithstanding any of the provisions of this Act, where a registered person pays the amount of tax less than the tax due as indicated in his return, the short paid amount of tax along with default surcharge shall be recovered from such person by stopping removal of any goods from his business premises and through attachment of his business bank accounts, without giving him a show cause notice and without prejudice to any other action prescribed under section 48 of this Act or the rules made thereunder:",
@@ -2237,7 +2245,7 @@
     },
     {
      "no": "21",
-     "title": "De-registration,blacklisting and suspension of registration",
+     "title": "De-registration, blacklisting and suspension of registration",
      "page": 56,
      "text": [
       "{fn:56-341}[ (1) The Board or any officer, authorized in this behalf, may subject to the rules, de-register a registered person or such class of registered persons not required to be registered under this Act.",
@@ -2638,10 +2646,6 @@
       {
        "n": "66-402",
        "text": "Existing sub-section renumbered as sub-section (1) and new sub-section (2) inserted by Finance Act, 2021."
-      },
-      {
-       "n": "66-6",
-       "text": "Came into force by Notification No. S.R.O. 1100(I)/90, dated 28-10-1990 w.e.f. 1st November, 1990."
       }
      ]
     }
@@ -2961,18 +2965,6 @@
       {
        "n": "72-448",
        "text": "Comma and words inserted by Finance Act, 2011."
-      },
-      {
-       "n": "72-5",
-       "text": "Brackets and word “(Amendment)” omitted by the Finance Act, 1991."
-      },
-      {
-       "n": "72-6",
-       "text": "Came into force by Notification No. S.R.O. 1100(I)/90, dated 28-10-1990 w.e.f. 1st November, 1990."
-      },
-      {
-       "n": "72-1",
-       "text": "For Statements of Objects and Reasons see Gazette of Pakistan, dated the 30th March 1951, Pt. V. pp 36 and 37."
       }
      ]
     },
@@ -3056,10 +3048,6 @@
       {
        "n": "75-454",
        "text": "Words “of inspection and” omitted by Finance Act, 2007."
-      },
-      {
-       "n": "75-2",
-       "text": "Substituted for the words “or consumption of goods” by the Finance Act, 1960."
       }
      ]
     },
@@ -3114,10 +3102,6 @@
       {
        "n": "75-460",
        "text": "Words “and Post Clearance Audit” omitted by Finance Act, 2007."
-      },
-      {
-       "n": "75-5",
-       "text": "Brackets and word “(Amendment)” omitted by the Finance Act, 1991."
       }
      ]
     },
@@ -3137,7 +3121,7 @@
     },
     {
      "no": "30DDD",
-     "title": "DirectorateGeneral of Input Output Co-efficient Organization",
+     "title": "Directorate General of Input Output Co-efficient Organization",
      "page": 75,
      "text": [
       "{fn:75-462}[ The Directorate General of Input Output Coefficient Organization (IOCO)-Inland Revenue shall consist of a Director General and as many Directors, Additional Directors, Deputy Directors, Assistant Directors and such other officers as the Board may, by notification in the official Gazette, appoint.]"
@@ -3348,8 +3332,30 @@
      "page": 79,
      "text": [
       "[{fn:79-482}[...] Whoever commits any offence described in column (1) of the Table below shall, in addition to and not in derogation of any punishment to which he may be liable under any other law, be liable to the penalty mentioned against that offence in column (2) thereof: –",
-      "TABLE Offences Penalties {fn:84-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3)",
-      ">(g), (h), (i), (j) or (k) of five years. Such person shall clause (37) of section 2 also be liable to pay the amount equal to the loss of tax caused as confirmed by the Special Judge from such amount reported under sub section (11) of section 37B, including one hundred percent penalty of tax loss and default surcharge under section 34 of the Act. {fn:84-504}13A. Any person who Such person shall be liable, upon 2(1), 2(37), 50A”; abets or connives conviction by a Special Judge, to in committing tax imprisonment for a term which fraud as defined in may extend to five years or with section 2(37) or fine which may extend to ten any offence million rupees, or with both. warranting prosecution under the Act. 14. Where any person Such person shall pay a penalty of 48 violates any embargo twenty five thousand rupees or ten placed on removal of per cent of the amount of the tax goods in connection involved, whichever is higher. with recovery of tax. {fn:84-505}[Without prejudice to above, he shall also be liable], upon conviction by a Special Judge, to imprisonment for a term which may extend to one year, or with fine {fn:84-506}[which may extend to an Offences Penalties {fn:91-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) proximate tax period, and such mismatch is confirmed after issuance of notice and provision of opportunity of being heard. 31. Where a registered Such person shall pay a penalty of 7, 8A, 33 person has claimed twenty per cent of the unreversed (S.No.29)] input tax credit on input tax credit, in addition to the the basis of invoices reversal of such credit and default issued by a person surcharge under section 34. who is subsequently placed on the simulated invoice issuers register under S. No. 29, and such registered person fails to reverse the inadmissible input tax credit within sixty days of the listing of the invoice issuer on the register."
+      "TABLE",
+      "Offences Penalties {fn:80-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) 1. Where any person Such person shall pay a penalty of 26 fails to furnish a return {fn:80-484}[fifty] thousand rupees: within the due date.",
+      "Provided that in case a person files a return within {fn:80-485}[ten] days of the due date, he shall pay a penalty of {fn:80-486}[two] {fn:80-487}[thousand] rupees for each day of default. {fn:80-488}1A.Where any online Such person shall be liable to pay: 26 marketplace, payment intermediary or courier (i) Penalty of three lac rupees for fails to furnish the first default if he fails to prescribed monthly furnish the prescribed statement within due statement for two consecutive date months;",
+      ">>(ii) Penalty of one million rupees for each subsequent default within one year. 1B. Where any online Such person shall be liable to pay: 14 marketplace, courier allow use of its services (i) Penalty of five lac rupees for in the course of e-first default; commerce by (ii) Penalty of one million rupees unregistered persons for each subsequent default. 2. Any person who fails to Such person shall pay a penalty of 23 issue an invoice when {fn:80-489}[twenty-five thousand rupees or required under this Act. five per cent] of the amount of the tax involved, whichever is higher. 3. Any person who un-Such person shall pay a penalty of 3, 7 and 23 authorizedly issues an {fn:80-490}[fifty] thousand rupees or {fn:80-491}[ten] invoice in which an per cent of the amount of the tax involved, whichever is higher.",
+      "Offences Penalties {fn:81-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) amount of tax is specified. 4. Any person who fails to Such person shall pay a penalty of 14 notify the changes of five thousand rupees. material nature in the particulars of registration of taxable activity. 5. Any person who fails to Such person shall pay a penalty of 3, 6, 7 and 48 deposit the amount of {fn:81-492}[fifty thousand rupees or five per tax due or any part cent of the amount of the tax thereof in the time or involved, whichever is higher]: manner laid down Provided that, if the amount of under this Act or rules tax or any part thereof is paid or orders made there within {fn:81-493}[ten] days from the due under. date, the defaulter shall pay a penalty of five {fn:81-494}[thousand] rupees for each day of default:",
+      "Provided further that no penalty shall be imposed when any miscalculation is made for the first time during a year:",
+      "Provided further that if the amount of tax due is not paid even after the expiry of a period of sixty days of issuance of the notice for such payments by an officer of {fn:81-495}[Inland Revenue, not below the rank of Assistant Commissioner Inland Revenue], the defaulter shall, further be liable, upon conviction by a Special Judge, to imprisonment for a term which may extend to three years, or with fine which may extend to amount equal to the amount of tax involved, or with both. 6. Any person who repeats Such person shall pay a penalty of 7 and 26 erroneous calculation in five thousand rupees or three per the return during a year cent of the amount of the tax whereby amount of tax involved, whichever is higher.",
+      "Offences Penalties {fn:82-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) less than the actual tax due is paid. 7. Any person who is Such person shall pay a penalty of 14 required to apply for {fn:82-496}[fifty] thousand rupees or five registration under this per cent of the amount of tax Act fails to make an involved, whichever is higher: application for registration before Provided that such person who is making taxable required to get himself registered supplies. under this Act, fails to get registered within sixty days of the commencement of taxable activity, he shall, further be liable, upon conviction by a Special Judge, to imprisonment for a term which may extend to three years, or with fine which may extend to an amount equal to the amount of tax involved, or with both.",
+      "8. Any person who fails to Such person shall pay a penalty of 22 and 24 maintain records {fn:82-497}[fifty] thousand rupees or five required under this Act per cent of the amount of tax or the rules made there involved, whichever is higher. under. 9. Where a registered such person shall pay a penalty of 25 person who, without any five thousand rupees; reasonable cause, in non compliance with the such person shall pay a penalty of provisions of section 25, ten thousand rupees; and – – such person shall pay a penalty of (a) fails to produce the fifty thousand rupees. record on receipt of first notice;",
+      ">(b) fails to produce the record on receipt of second notice; and",
+      ">(c) fails to produce the record on receipt of third notice.",
+      "Offences Penalties {fn:83-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) 10. Any person who fails to Such person shall pay a penalty of 26 furnish the information ten thousand rupees. required by the Board through a notification issued under subsection (5) of section 26. 11. {fn:83-498}[Omitted] 12. Any person who denies Such person shall pay a penalty of 25, 38 , 502[38A or obstructs the access twenty five thousand rupees or one and 40B] of an authorized officer hundred per cent of the amount of to the business tax involved, whichever is higher. premises, registered {fn:83-500}[Without prejudice to above, he office or to any other shall also be liable,] upon place where records are conviction by a Special Judge, to kept, or otherwise imprisonment for a term which refuses access to the may extend to five years, or with stocks, accounts or fine {fn:83-501}[which may extend to an records or fails to amount equal to the amount of tax present the same when evaded or sought to be evaded], or required under section with both. 25, 38 {fn:83-499}[38A or 40B]. {fn:83-503}13. (i) Any person who (i) Such person shall be liable, 2(37) commits or, causes to upon conviction by a Special commit tax fraud as Judge, to imprisonment for a defined under sub-clauses term which may extend upto (a), (b), (c), (d), (e) or (f) five years. Such person shall of clause (37) of section 2. also be liable to pay the amount equal to the loss of tax caused as confirmed by the Special Judge from such amount reported under sub section (11) of section 37B, including one hundred percent penalty of tax loss and default surcharge under section 34 of the Act.",
+      ">>(ii) Any person who commits or, causes to (ii) Such person shall be liable, commit tax fraud as upon conviction by a Special defined under sub-clauses Judge, to imprisonment for a term which may extend upto Offences Penalties {fn:84-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3)",
+      ">(g), (h), (i), (j) or (k) of five years. Such person shall clause (37) of section 2 also be liable to pay the amount equal to the loss of tax caused as confirmed by the Special Judge from such amount reported under sub section (11) of section 37B, including one hundred percent penalty of tax loss and default surcharge under section 34 of the Act. {fn:84-504}13A. Any person who Such person shall be liable, upon 2(1), 2(37), 50A”; abets or connives conviction by a Special Judge, to in committing tax imprisonment for a term which fraud as defined in may extend to five years or with section 2(37) or fine which may extend to ten any offence million rupees, or with both. warranting prosecution under the Act. 14. Where any person Such person shall pay a penalty of 48 violates any embargo twenty five thousand rupees or ten placed on removal of per cent of the amount of the tax goods in connection involved, whichever is higher. with recovery of tax. {fn:84-505}[Without prejudice to above, he shall also be liable], upon conviction by a Special Judge, to imprisonment for a term which may extend to one year, or with fine {fn:84-506}[which may extend to an amount equal to the amount of tax evaded or sought to be evaded], or with both. 15. Any person who Such person shall pay a penalty of 31 and General obstructs the twenty five thousand rupees or one authorized officer in hundred per cent of the amount of the performance of his tax involved, whichever is higher. official duties. 16. Any person who fails Such person shall pay a penalty of 73 to make payment in the five thousand rupees or three per manner prescribed cent of the amount of tax involved, under section 73 of this whichever is higher. Act.",
+      "Offences Penalties {fn:85-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) 17. Any person who fails Such person shall pay a penalty of 71 and General to fulfil any of the five thousand rupees or three per conditions, limitations cent of the amount of tax involved, or restrictions whichever is higher. prescribed in a Notification issued under any of the provisions of this Act. 18. Where any officer of Such officer of {fn:85-508}[Inland Revenue] General {fn:85-507}[Inland Revenue] shall be liable, upon conviction by authorized to act under a Special Judge, to imprisonment this Act, acts or omits for a term which may extend to or attempts to act or three years, or with fine {fn:85-509}[which omit in a manner may extend to an amount equal to causing loss to the the amount of tax evaded or sought sales tax revenue or to be evaded], or with both. otherwise abets or connives in any such act. 19. Any person who Such person shall pay a penalty of General.] contravenes any of the five thousand rupees or three per provision of this Act cent of the amount of tax involved, {fn:85-510}[or the rules made whichever is higher. ] thereunder] for which no penalty has, specifically, been provided in this section. {fn:85-511}[ 20. *** ] {fn:85-512}[21. Where any person Such person shall pay twice the General. repeats an offence amount of penalty provided under for which a penalty the Act for the said offence is provided under this Act 22. {fn:85-513}[Omitted] {fn:85-514}[23. Any person who (i) Such [specified goods] shall 40C(2)] manufactures, be liable to outright confiscation possesses, {fn:85-516}[as may be prescribed] {fn:85-517}[***]. transports, Any person committing the offence distributes, stores or shall pay a penalty of twenty-five Offences Penalties {fn:86-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) sells {fn:86-515}[goods or thousand rupees or one hundred per class of goods as cent of the amount of tax involved, specified by the whichever is higher. {fn:86-518}[Without Board under sub-prejudice to above, he shall also be section (1) of section liable], upon conviction by a 40C] with Special Judge, to simple counterfeited tax imprisonment for a term which stamps, banderoles, may extend to three years, or with stickers, labels or additional fine {fn:86-519}[which may barcodes or without extend to an amount equal to the tax stamps, amount of tax evaded or sought to banderoles, stickers, be evaded], or with both. labels or barcodes (ii) In case of transport of [specified goods] with counterfeited tax stamps, banderoles, stickers, labels or barcodes, or without tax stamps, banderoles, stickers, labels or barcodes, permanent seizure of the vehicle used for transportation of non-conforming or counterfeit [specified goods]; and",
+      ">>(iii) In case of repeat sale of [specified goods] without or with counterfeited, tax stamps, banderoles, stickers, labels or barcodes, the premises used for such sale {fn:86-520}[shall be liable to be sealed by an officer of Inland Revenue in the manner as may be prescribed.] {fn:86-521}[“24. Any person, who is Such person shall pay a penalty of sub-section (9A) of integrated for five hundred thousand rupees or section 3 and monitoring, two hundred per cent of the amount section 40C. tracking, reporting of tax involved, whichever is or recording of sales, higher. [Without prejudice to production and above, he shall also be liable], upon similar business conviction by a Special Judge, to transactions with the simple imprisonment for a term Board or its which may extend to two years, or computerized with additional fine which may system, conducts extend to two million rupees, or such transactions in with both.",
+      "Offences Penalties {fn:87-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) a manner so as to avoid monitoring, {fn:87-524}[Notwithstanding above, tracking, reporting the business premises of or recording of such such person shall be liable to transactions, or be sealed by an officer of issues an invoice Inland Revenue in the which does not carry manner prescribed.] the prescribed invoice number or barcode {fn:87-522}[or QR Any person who abets code] or bears commissioning of such offence, duplicate invoice shall be liable, upon conviction by number or a Special Judge, to simple counterfeit barcode, imprisonment for a term which {fn:87-523}[or QR code or may extend to one year, or with defaces the additional fine which may extend prescribed invoice to two hundred thousand rupees, or number of barcode with both. or QR code] or any person who abets commissioning of such offence.",
+      "{fn:87-525}[25. Any person, Such person shall be liable to pay a who is required to penalty up to one million rupees, if integrate his he continues to commit the offence {fn:87-526}[***] section business for after one month of the imposition 40C monitoring, of first penalty, he shall be liable to tracking, reporting second penalty of up to five million or recording of sales, rupees. Notwithstanding, his production and business premises shall be liable to similar business be sealed with or without transactions with the imposition of penalty by an officer Board or its of Inland Revenue in the manner as computerized may be prescribed.] system, fails to get himself registered under this Act, and if registered, fails to integrate in the manner as required under law within the stipulated time as Offences Penalties {fn:88-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) notified by the Board. {fn:88-527}[25A A person required Such person shall be liable to pay: Sub-section (9A) to integrate his (i) penalty of five hundred of section 3 {fn:88-531}[and business as thousand rupees for first sub-section (4) of stipulated under default; section 40C] {fn:88-528}[section 23], {fn:88-529}[or (ii) penalty of one million rupees sub-section (4) of for second default after section 40C,] who fifteen days of order for first fails to get himself default; registered under the (iii) penalty of two million rupees Act, and if for third default after fifteen registered, fails to days of order for second integrate in the default; manner as required (iv) penalty of three million under the law and rupees for fourth default after rules made fifteen days of order for third thereunder {fn:88-530}[or fail default: to issue electronic Notwithstanding above, the invoices after business premises of such person integration.] shall be liable to be sealed by an officer of Inland Revenue in the manner prescribed:",
+      "Provided that if the retailer integrates his business with the Board’s Computerized System before imposition of penalty for second default, penalty for first default shall be waived by the Commissioner.] {fn:88-532}[25AA. Any licensed Such person shall be liable to pay sub-section (5) of integrator who is penalty of rupees one million or section 40C.] authorized to provide one percent of the total value of the electronic invoicing sales suppressed, whichever is system for higher. integration of registered persons fails to integrate such registered persons in the manner as required under this Offences Penalties {fn:89-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) Act and rules made thereunder. {fn:89-533}25B. Where any person Such person shall be liable to pay sub-section (6) of fails to generate an e-penalty of fifty thousand rupees 40C.”. bilty, or tampers and recovery of any tax evaded with, misuses, or through such contravention forges such document in contravention of subsection (6) of section 40C. 26. Any person, being a Such person shall pay a penalty of sub-section (27) of manufacturer or ten thousand rupees or five per cent section 2 and clause importer of an item of the amount of tax involved, (a) of sub-section which is subject to whichever is higher: (2) of section 3. tax on the basis of retail price, who fails Further, such goods shall also be to print the retail liable to confiscation {fn:89-534}[as may be price in the manner prescribed.] However, the as stipulated under adjudication authority, after such the Act. confiscation, may allow redemption of such goods on payment of fine which shall not be less than twenty percent of the total retail price of such goods.",
+      "27. Any person, being Such person shall pay a penalty of section 40D”;] owner of the goods, ten thousand rupees or five per cent which are brought to of the amount of tax involved, Pakistan in violation whichever is higher: of section 40D. Further, such goods shall also be liable to confiscation {fn:89-535}[as may be prescribed.]. However, the adjudication authority, after such confiscation, may allow redemption of such goods on payment of fine which shall not be less than twenty percent of value, or retail price in case of items falling in Third Schedule, of such goods.",
+      "536[28. Any person who is Such person shall pay a penalty of 56AB] required to share twenty five thousand rupees for Offences Penalties {fn:90-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) information under first default and fifty thousand section 56AB, fails rupees for each subsequent default to do so in the manner as required under the law {fn:90-537}[29. Where any (i) Such person shall pay a penalty 2(37) registered person equal to the face value of the issues a tax invoice simulated or fictitious invoice for a transaction or invoices. which is simulated (ii) The Board shall, after issuance or fictitious, or for of a show cause notice and an which no actual opportunity of being heard, supply of goods or place the name and registration services has taken number of such person on a place, as established publicly accessible simulated after notice and invoice issuers register adjudication. maintained on the Board's computerized system.",
+      ">>(iii) Any input tax credit claimed by a counterparty on the basis of invoices issued by a person on the simulated invoice issuers register shall be reversed automatically and treated as inadmissible with effect from the date of listing.",
+      ">>(iv) Listing on the register shall be removed upon full payment of the penalty and default surcharge, and upon satisfactory demonstration of compliance. 30. Where the Board's Such person shall pay a penalty of 7, 8A computerized twenty per cent of the unmatched system identifies input tax amount, in addition to that input tax credit reversal of the inadmissible credit claimed by a and payment of default surcharge registered person in under section 34. respect of any tax period cannot be matched to corresponding output tax declared by the supplier for the same or",
+      "Offences Penalties {fn:91-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) proximate tax period, and such mismatch is confirmed after issuance of notice and provision of opportunity of being heard. 31. Where a registered Such person shall pay a penalty of 7, 8A, 33 person has claimed twenty per cent of the unreversed (S.No.29)] input tax credit on input tax credit, in addition to the the basis of invoices reversal of such credit and default issued by a person surcharge under section 34. who is subsequently placed on the simulated invoice issuers register under S. No. 29, and such registered person fails to reverse the inadmissible input tax credit within sixty days of the listing of the invoice issuer on the register."
      ],
      "fn": [
       {
@@ -3358,27 +3364,7 @@
       },
       {
        "n": "79-482",
-       "text": "Bracket and figure “one” omitted by Finance Act, 2008. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3)"
-      },
-      {
-       "n": "80-1",
-       "text": "Where any person Such person shall pay a penalty of 26 fails to furnish a return 484[fifty] thousand rupees: within the due date. Provided that in case a person files a return within 485[ten] days of the due date, he shall pay a penalty of"
-      },
-      {
-       "n": "80-486",
-       "text": "Substituted for the word “one” by Finance Act, 2019."
-      },
-      {
-       "n": "80-488",
-       "text": "after S. No. 1, new S. No. 1A and 1B entries relating thereto in columns (1), (2) and (3) is inserted through Finance Act, 2025."
-      },
-      {
-       "n": "80-2",
-       "text": "Any person who fails to Such person shall pay a penalty of 23 issue an invoice when 489[twenty-five thousand rupees or required under this Act. five per cent] of the amount of the tax involved, whichever is higher."
-      },
-      {
-       "n": "80-3",
-       "text": "Any person who un-Such person shall pay a penalty of 3, 7 and 23 authorizedly issues an 490[fifty] thousand rupees or 491[ten] invoice in which an per cent of the amount of the tax involved, whichever is higher."
+       "text": "Bracket and figure “one” omitted by Finance Act, 2008."
       },
       {
        "n": "80-483",
@@ -3393,8 +3379,16 @@
        "text": "Substituted for the word “fifteen” by Finance Act, 2015."
       },
       {
+       "n": "80-486",
+       "text": "Substituted for the word “one” by Finance Act, 2019."
+      },
+      {
        "n": "80-487",
        "text": ", the word \" thousand \" Substituted through Finance Act, 2026."
+      },
+      {
+       "n": "80-488",
+       "text": "after S. No. 1, new S. No. 1A and 1B entries relating thereto in columns (1), (2) and (3) is inserted through Finance Act, 2025."
       },
       {
        "n": "80-489",
@@ -3406,23 +3400,7 @@
       },
       {
        "n": "80-491",
-       "text": "the word \"ten \" Substituted through Finance Act, 2026. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3) amount of tax is specified."
-      },
-      {
-       "n": "81-4",
-       "text": "Any person who fails to Such person shall pay a penalty of 14 notify the changes of five thousand rupees. material nature in the particulars of registration of taxable activity."
-      },
-      {
-       "n": "81-5",
-       "text": "Any person who fails to Such person shall pay a penalty of 3, 6, 7 and 48 deposit the amount of 492[fifty thousand rupees or five per tax due or any part cent of the amount of the tax thereof in the time or involved, whichever is higher]: manner laid down Provided that, if the amount of under this Act or rules tax or any part thereof is paid or orders made there within 493[ten] days from the due under. date, the defaulter shall pay a penalty of five 494[thousand] rupees for each day of default: Provided further that no penalty shall be imposed when any miscalculation is made for the first time during a year: Provided further that if the amount of tax due is not paid even after the expiry of a period of sixty days of issuance of the notice for such payments by an officer of"
-      },
-      {
-       "n": "81-495",
-       "text": "Substituted for “Sales tax”, not below the rank of Assistant Collector of sales tax” by Finance Act, 2010"
-      },
-      {
-       "n": "81-6",
-       "text": "Any person who repeats Such person shall pay a penalty of 7 and 26 erroneous calculation in five thousand rupees or three per the return during a year cent of the amount of the tax whereby amount of tax involved, whichever is higher."
+       "text": "the word \"ten \" Substituted through Finance Act, 2026."
       },
       {
        "n": "81-492",
@@ -3434,19 +3412,11 @@
       },
       {
        "n": "81-494",
-       "text": "the word \" thousand \" Substituted through Finance Act, 2026. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3) less than the actual tax due is paid."
+       "text": "the word \" thousand \" Substituted through Finance Act, 2026."
       },
       {
-       "n": "82-7",
-       "text": "Any person who is Such person shall pay a penalty of 14 required to apply for 496[fifty] thousand rupees or five registration under this per cent of the amount of tax Act fails to make an involved, whichever is higher: application for registration before Provided that such person who is making taxable required to get himself registered supplies. under this Act, fails to get registered within sixty days of the commencement of taxable activity, he shall, further be liable, upon conviction by a Special Judge, to imprisonment for a term which may extend to three years, or with fine which may extend to an amount equal to the amount of tax involved, or with both."
-      },
-      {
-       "n": "82-8",
-       "text": "Any person who fails to Such person shall pay a penalty of 22 and 24 maintain records 497[fifty] thousand rupees or five required under this Act per cent of the amount of tax or the rules made there involved, whichever is higher. under."
-      },
-      {
-       "n": "82-9",
-       "text": "Where a registered such person shall pay a penalty of 25 person who, without any five thousand rupees; reasonable cause, in non compliance with the such person shall pay a penalty of provisions of section 25, ten thousand rupees; and – – such person shall pay a penalty of (a) fails to produce the fifty thousand rupees. record on receipt of first notice; (b) fails to produce the record on receipt of second notice; and (c) fails to produce the record on receipt of third notice."
+       "n": "81-495",
+       "text": "Substituted for “Sales tax”, not below the rank of Assistant Collector of sales tax” by Finance Act, 2010"
       },
       {
        "n": "82-496",
@@ -3454,23 +3424,7 @@
       },
       {
        "n": "82-497",
-       "text": "the word \"fifty \" Substituted through Finance Act, 2026. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3)"
-      },
-      {
-       "n": "83-10",
-       "text": "Any person who fails to Such person shall pay a penalty of 26 furnish the information ten thousand rupees. required by the Board through a notification issued under sub- section (5) of section 26."
-      },
-      {
-       "n": "83-11",
-       "text": "498[Omitted]"
-      },
-      {
-       "n": "83-12",
-       "text": "Any person who denies Such person shall pay a penalty of 25, 38 , 502[38A or obstructs the access twenty five thousand rupees or one and 40B] of an authorized officer hundred per cent of the amount of to the business tax involved, whichever is higher. premises, registered 500[Without prejudice to above, he office or to any other shall also be liable,] upon place where records are conviction by a Special Judge, to kept, or otherwise imprisonment for a term which refuses access to the may extend to five years, or with stocks, accounts or fine 501[which may extend to an records or fails to amount equal to the amount of tax present the same when evaded or sought to be evaded], or required under section with both. 25, 38 499[38A or 40B]."
-      },
-      {
-       "n": "83-503",
-       "text": "S. No. 13 and entries relating thereto is substituted through Finance Act, 2025."
+       "text": "the word \"fifty \" Substituted through Finance Act, 2026."
       },
       {
        "n": "83-498",
@@ -3490,15 +3444,11 @@
       },
       {
        "n": "83-502",
-       "text": "Substituted for “or 38A” by Finance Act, 2009 amount equal to the amount of tax evaded or sought to be evaded], or with both."
+       "text": "Substituted for “or 38A” by Finance Act, 2009"
       },
       {
-       "n": "84-15",
-       "text": "Any person who Such person shall pay a penalty of 31 and General obstructs the twenty five thousand rupees or one authorized officer in hundred per cent of the amount of the performance of his tax involved, whichever is higher. official duties."
-      },
-      {
-       "n": "84-16",
-       "text": "Any person who fails Such person shall pay a penalty of 73 to make payment in the five thousand rupees or three per manner prescribed cent of the amount of tax involved, under section 73 of this whichever is higher. Act."
+       "n": "83-503",
+       "text": "S. No. 13 and entries relating thereto is substituted through Finance Act, 2025."
       },
       {
        "n": "84-504",
@@ -3510,23 +3460,19 @@
       },
       {
        "n": "84-506",
-       "text": "Words substituted by Finance Act, 2024. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3)"
-      },
-      {
-       "n": "85-17",
-       "text": "Any person who fails Such person shall pay a penalty of 71 and General to fulfil any of the five thousand rupees or three per conditions, limitations cent of the amount of tax involved, or restrictions whichever is higher. prescribed in a Notification issued under any of the provisions of this Act."
-      },
-      {
-       "n": "85-18",
-       "text": "Where any officer of Such officer of 508[Inland Revenue] General"
+       "text": "Words substituted by Finance Act, 2024."
       },
       {
        "n": "85-507",
        "text": "Words “Sales Tax” substituted for Inland Revenue by Finance (Amended) Ordinance, 2010."
       },
       {
-       "n": "85-19",
-       "text": "Any person who Such person shall pay a penalty of General.] contravenes any of the five thousand rupees or three per provision of this Act cent of the amount of tax involved,"
+       "n": "85-508",
+       "text": "Substituted for “Sales Tax” by Finance Act, 2011"
+      },
+      {
+       "n": "85-509",
+       "text": "Words substituted by Finance Act, 2024."
       },
       {
        "n": "85-510",
@@ -3541,24 +3487,12 @@
        "text": "Serial No. 21 and 22 inserted by Finance Act, 2006."
       },
       {
-       "n": "85-22",
-       "text": "513[Omitted]"
+       "n": "85-513",
+       "text": "S. No. 22, and entries relating thereto omitted through Finance Act, 2025."
       },
       {
        "n": "85-514",
        "text": "S.No. 23 and entries relating thereto in columns (1), (2) and (3) inserted through Finance Act, 2017"
-      },
-      {
-       "n": "85-508",
-       "text": "Substituted for “Sales Tax” by Finance Act, 2011"
-      },
-      {
-       "n": "85-509",
-       "text": "Words substituted by Finance Act, 2024."
-      },
-      {
-       "n": "85-513",
-       "text": "S. No. 22, and entries relating thereto omitted through Finance Act, 2025."
       },
       {
        "n": "85-516",
@@ -3566,11 +3500,7 @@
       },
       {
        "n": "85-517",
-       "text": "Expression omitted by by Finance (Supplementary) Act, 2022. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3) sells 515[goods or thousand rupees or one hundred per class of goods as cent of the amount of tax involved, specified by the whichever is higher. 518[Without Board under sub-prejudice to above, he shall also be section (1) of section liable], upon conviction by a 40C] with Special Judge, to simple counterfeited tax imprisonment for a term which stamps, banderoles, may extend to three years, or with stickers, labels or additional fine 519[which may barcodes or without extend to an amount equal to the tax stamps, amount of tax evaded or sought to banderoles, stickers, be evaded], or with both. labels or barcodes (ii) In case of transport of [specified goods] with counterfeited tax stamps, banderoles, stickers, labels or barcodes, or without tax stamps, banderoles, stickers, labels or barcodes, permanent seizure of the vehicle used for transportation of non-conforming or counterfeit [specified goods]; and (iii) In case of repeat sale of [specified goods] without or with counterfeited, tax stamps, banderoles, stickers, labels or barcodes, the premises used for such sale 520[shall be liable to be sealed by an officer of Inland Revenue in the manner as may be prescribed.]"
-      },
-      {
-       "n": "86-521",
-       "text": "New serial numbers “24”, “25”, “26” and “27” inserted through Tax Laws (Amendment) Act, 2020, dated 30-3-2020."
+       "text": "Expression omitted by by Finance (Supplementary) Act, 2022."
       },
       {
        "n": "86-515",
@@ -3586,18 +3516,18 @@
       },
       {
        "n": "86-520",
-       "text": "Words substituted by Finance Act, 2024. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3) a manner so as to avoid monitoring, 524[Notwithstanding above, tracking, reporting the business premises of or recording of such such person shall be liable to transactions, or be sealed by an officer of issues an invoice Inland Revenue in the which does not carry manner prescribed.] the prescribed invoice number or barcode 522[or QR Any person who abets code] or bears commissioning of such offence, duplicate invoice shall be liable, upon conviction by number or a Special Judge, to simple counterfeit barcode, imprisonment for a term which"
+       "text": "Words substituted by Finance Act, 2024."
       },
       {
-       "n": "87-523",
-       "text": "Words added by Finance Act, 2022."
-      },
-      {
-       "n": "87-525",
-       "text": "S. No. 25, in column (1) and entries related thereto in column (2), substituted through Finance Act, 2026."
+       "n": "86-521",
+       "text": "New serial numbers “24”, “25”, “26” and “27” inserted through Tax Laws (Amendment) Act, 2020, dated 30-3-2020."
       },
       {
        "n": "87-522",
+       "text": "Words added by Finance Act, 2022."
+      },
+      {
+       "n": "87-523",
        "text": "Words added by Finance Act, 2022."
       },
       {
@@ -3605,8 +3535,12 @@
        "text": "Paragraph under serial number 24 inserted by Finance (Supplementary) Act, 2022."
       },
       {
+       "n": "87-525",
+       "text": "S. No. 25, in column (1) and entries related thereto in column (2), substituted through Finance Act, 2026."
+      },
+      {
        "n": "87-526",
-       "text": "Expression omitted by by Finance Act, 2022. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3) notified by the Board."
+       "text": "Expression omitted by by Finance Act, 2022."
       },
       {
        "n": "88-527",
@@ -3615,10 +3549,6 @@
       {
        "n": "88-528",
        "text": "The expression “section 23” substituted through Finance Act, 2025;"
-      },
-      {
-       "n": "88-532",
-       "text": "New serial number 25AA inserted by Finance Act, 2024."
       },
       {
        "n": "88-529",
@@ -3630,19 +3560,15 @@
       },
       {
        "n": "88-531",
-       "text": "Expression inserted by Finance Act, 2024. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3) Act and rules made thereunder."
+       "text": "Expression inserted by Finance Act, 2024."
+      },
+      {
+       "n": "88-532",
+       "text": "New serial number 25AA inserted by Finance Act, 2024."
       },
       {
        "n": "89-533",
        "text": "S. No. 25B and entries relating thereto inserted through Finance Act, 2025."
-      },
-      {
-       "n": "89-26",
-       "text": "Any person, being a Such person shall pay a penalty of sub-section (27) of manufacturer or ten thousand rupees or five per cent section 2 and clause importer of an item of the amount of tax involved, (a) of sub-section which is subject to whichever is higher: (2) of section 3. tax on the basis of retail price, who fails Further, such goods shall also be to print the retail liable to confiscation 534[as may be price in the manner prescribed.] However, the as stipulated under adjudication authority, after such the Act. confiscation, may allow redemption of such goods on payment of fine which shall not be less than twenty percent of the total retail price of such goods."
-      },
-      {
-       "n": "89-27",
-       "text": "Any person, being Such person shall pay a penalty of section 40D”;] owner of the goods, ten thousand rupees or five per cent which are brought to of the amount of tax involved, Pakistan in violation whichever is higher: of section 40D. Further, such goods shall also be liable to confiscation 535[as may be prescribed.]. However, the adjudication authority, after such confiscation, may allow redemption of such goods on payment of fine which shall not be less than twenty percent of value, or retail price in case of items falling in Third Schedule, of such goods. 536[28. Any person who is Such person shall pay a penalty of 56AB] required to share twenty five thousand rupees for"
       },
       {
        "n": "89-534",
@@ -3654,18 +3580,50 @@
       },
       {
        "n": "89-536",
-       "text": "New serial number 28 added by Finance Act, 2020. Offences Penalties 483[and Punishment] Section of the Act to which offence has reference (1) (2) (3) information under first default and fifty thousand section 56AB, fails rupees for each subsequent default to do so in the manner as required under the law"
+       "text": "New serial number 28 added by Finance Act, 2020."
       },
       {
        "n": "90-537",
        "text": "New serial numbers 29, 30 and 31 added through Finance Act, 2026."
       },
       {
-       "n": "90-30",
-       "text": "Where the Board's Such person shall pay a penalty of 7, 8A computerized twenty per cent of the unmatched system identifies input tax amount, in addition to that input tax credit reversal of the inadmissible credit claimed by a and payment of default surcharge registered person in under section 34. respect of any tax period cannot be matched to corresponding output tax declared by the supplier for the same or"
+       "n": "81-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
+      },
+      {
+       "n": "82-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
+      },
+      {
+       "n": "83-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
       },
       {
        "n": "84-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
+      },
+      {
+       "n": "85-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
+      },
+      {
+       "n": "86-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
+      },
+      {
+       "n": "87-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
+      },
+      {
+       "n": "88-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
+      },
+      {
+       "n": "89-483",
+       "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
+      },
+      {
+       "n": "90-483",
        "text": "in section 33, in the Table, in column (2), after the expression “Penalties”, the expression “and Punishment” inserted through Finance Act, 2025."
       },
       {
@@ -3822,10 +3780,6 @@
       {
        "n": "93-554",
        "text": "new sub-section (4) is added through Finance Act, 2025."
-      },
-      {
-       "n": "93-4",
-       "text": "Any person who fails to Such person shall pay a penalty of 14 notify the changes of five thousand rupees. material nature in the particulars of registration of taxable activity."
       }
      ]
     },
@@ -3913,7 +3867,7 @@
     },
     {
      "no": "37D",
-     "title": "Cognizanceof Offences by Special Judges",
+     "title": "Cognizance of Offences by Special Judges",
      "page": 99,
      "text": [
       "{fn:99-557}[ (1) Notwithstanding anything contained in this Act or any other law for the time being in force, a Special Judge may, within the limits of his jurisdiction, take cognizance of any offence punishable under this Act:",
@@ -4180,10 +4134,6 @@
       {
        "n": "105-587",
        "text": "Proviso and explanation omitted by Finance Act, 2018."
-      },
-      {
-       "n": "105-6",
-       "text": "Any person who repeats Such person shall pay a penalty of 7 and 26 erroneous calculation in five thousand rupees or three per the return during a year cent of the amount of the tax whereby amount of tax involved, whichever is higher."
       }
      ]
     },
@@ -4510,14 +4460,6 @@
       {
        "n": "111-627",
        "text": "New sub-section (5) inserted by Finance Act, 2020."
-      },
-      {
-       "n": "109-9",
-       "text": "Where a registered such person shall pay a penalty of 25 person who, without any five thousand rupees; reasonable cause, in non compliance with the such person shall pay a penalty of provisions of section 25, ten thousand rupees; and – – such person shall pay a penalty of (a) fails to produce the fifty thousand rupees. record on receipt of first notice; (b) fails to produce the record on receipt of second notice; and (c) fails to produce the record on receipt of third notice."
-      },
-      {
-       "n": "111-1",
-       "text": "Where any person Such person shall pay a penalty of 26 fails to furnish a return 484[fifty] thousand rupees: within the due date. Provided that in case a person files a return within 485[ten] days of the due date, he shall pay a penalty of"
       }
      ]
     },
@@ -4576,7 +4518,7 @@
       },
       {
        "n": "112-634",
-       "text": "Sub-sections (3), (4), (5), (6), (7), (8) and (9) omitted by Finance Act, 2009. 635 Section 47 substituted by Tax Laws (Amendment) Act, 2024."
+       "text": "Sub-sections (3), (4), (5), (6), (7), (8) and (9) omitted by Finance Act, 2009."
       }
      ]
     },
@@ -4589,6 +4531,10 @@
       "(2) Provisions of section 133 of the Income Tax Ordinance, 2001 (XLIX of 2001) and rules made thereunder relating to a reference to the High Court shall, mutatis mutandis, apply to references to the High Court under this Act.]"
      ],
      "fn": [
+      {
+       "n": "112-635",
+       "text": "Section 47 substituted by Tax Laws (Amendment) Act, 2024."
+      },
       {
        "n": "112-636",
        "text": "Section 47 sub-section (1) substituted through Finance Act, 2025."
@@ -4809,18 +4755,6 @@
       {
        "n": "119-657",
        "text": "Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010, the same amendment was made by Finance Amendment) Ordinance, 2010, promulgated as Ordinance no. III of 2010, the same amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, published in the official Gazette of Pakistan Extraordinary Part I at pages 23 to 53 and this amendment was made through Finance (amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259."
-      },
-      {
-       "n": "118-4",
-       "text": "Any person who fails to Such person shall pay a penalty of 14 notify the changes of five thousand rupees. material nature in the particulars of registration of taxable activity."
-      },
-      {
-       "n": "118-1",
-       "text": "Where any person Such person shall pay a penalty of 26 fails to furnish a return 484[fifty] thousand rupees: within the due date. Provided that in case a person files a return within 485[ten] days of the due date, he shall pay a penalty of"
-      },
-      {
-       "n": "119-1",
-       "text": "Where any person Such person shall pay a penalty of 26 fails to furnish a return 484[fifty] thousand rupees: within the due date. Provided that in case a person files a return within 485[ten] days of the due date, he shall pay a penalty of"
       }
      ]
     },
@@ -5021,10 +4955,6 @@
       {
        "n": "123-676",
        "text": "Semi colon substituted for the full stop and new clause (d) inserted through Finance Act, 2017"
-      },
-      {
-       "n": "123-3",
-       "text": "Any person who un-Such person shall pay a penalty of 3, 7 and 23 authorizedly issues an 490[fifty] thousand rupees or 491[ten] invoice in which an per cent of the amount of the tax involved, whichever is higher."
       }
      ]
     },
@@ -5113,10 +5043,6 @@
       {
        "n": "126-684",
        "text": "Existing sub-section renumbered as sub-section (1) and new sub-section (2) inserted by Finance Act, 2021."
-      },
-      {
-       "n": "126-1",
-       "text": "Where any person Such person shall pay a penalty of 26 fails to furnish a return 484[fifty] thousand rupees: within the due date. Provided that in case a person files a return within 485[ten] days of the due date, he shall pay a penalty of"
       }
      ]
     },
@@ -5190,10 +5116,6 @@
       {
        "n": "129-689",
        "text": "Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010, the same amendment was made by Finance Amendment) Ordinance, 2010, promulgated as Ordinance no. III of 2010, the same amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, published in the official Gazette of Pakistan Extraordinary Part I at pages 23 to 53 and this amendment was made through Finance (amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259."
-      },
-      {
-       "n": "129-1",
-       "text": "Where any person Such person shall pay a penalty of 26 fails to furnish a return 484[fifty] thousand rupees: within the due date. Provided that in case a person files a return within 485[ten] days of the due date, he shall pay a penalty of"
       }
      ]
     },
@@ -5411,10 +5333,6 @@
       {
        "n": "134-711",
        "text": "Proviso inserted by Finance Act, 2011."
-      },
-      {
-       "n": "134-4",
-       "text": "Any person who fails to Such person shall pay a penalty of 14 notify the changes of five thousand rupees. material nature in the particulars of registration of taxable activity."
       }
      ]
     },
@@ -5451,10 +5369,6 @@
       {
        "n": "135-717",
        "text": "Colon substituted for full stop and new proviso inserted by Finance Act, 2021."
-      },
-      {
-       "n": "135-7",
-       "text": "Any person who is Such person shall pay a penalty of 14 required to apply for 496[fifty] thousand rupees or five registration under this per cent of the amount of tax Act fails to make an involved, whichever is higher: application for registration before Provided that such person who is making taxable required to get himself registered supplies. under this Act, fails to get registered within sixty days of the commencement of taxable activity, he shall, further be liable, upon conviction by a Special Judge, to imprisonment for a term which may extend to three years, or with fine which may extend to an amount equal to the amount of tax involved, or with both."
       }
      ]
     },
@@ -5577,14 +5491,6 @@
       {
        "n": "137-730",
        "text": "Section 72 inserted by Finance Act, 1998. 9 Substitued for the Words “Sales Tax” by Finance Act, 2010."
-      },
-      {
-       "n": "137-9",
-       "text": "Where a registered such person shall pay a penalty of 25 person who, without any five thousand rupees; reasonable cause, in non compliance with the such person shall pay a penalty of provisions of section 25, ten thousand rupees; and – – such person shall pay a penalty of (a) fails to produce the fifty thousand rupees. record on receipt of first notice; (b) fails to produce the record on receipt of second notice; and (c) fails to produce the record on receipt of third notice."
-      },
-      {
-       "n": "137-6",
-       "text": "Any person who repeats Such person shall pay a penalty of 7 and 26 erroneous calculation in five thousand rupees or three per the return during a year cent of the amount of the tax whereby amount of tax involved, whichever is higher."
       }
      ]
     },
@@ -5727,10 +5633,6 @@
       {
        "n": "141-747",
        "text": "New clause (d) inserted by Finance Act, 2020."
-      },
-      {
-       "n": "141-4",
-       "text": "Any person who fails to Such person shall pay a penalty of 14 notify the changes of five thousand rupees. material nature in the particulars of registration of taxable activity."
       }
      ]
     },
@@ -5818,11 +5720,7 @@
       },
       {
        "n": "142-758",
-       "text": "Existing sub-section renumbered as sub-section (1) and new sub-section (2) inserted by Finance Act, 2021. Serial Description Heading Nos. of the First Schedule to No. the Customs Act, 1969 (IV of 1969) (1) (2) (3) 1 Fruit juices and vegetable juices 20.09 2 Ice Cream. 764[2105.0000] 3 Aerated waters or beverages. 22.01 and 20.02 4 Syrups and squashes. Respective headings 5 Cigarettes. 2402.2000"
-      },
-      {
-       "n": "142-3",
-       "text": "Any person who un-Such person shall pay a penalty of 3, 7 and 23 authorizedly issues an 490[fifty] thousand rupees or 491[ten] invoice in which an per cent of the amount of the tax involved, whichever is higher."
+       "text": "Existing sub-section renumbered as sub-section (1) and new sub-section (2) inserted by Finance Act, 2021."
       }
      ]
     },
@@ -5837,2436 +5735,8 @@
      ],
      "fn": [
       {
-       "n": "143-765",
-       "text": "Serial No.6 and entries relating thereto substituted by Finance Act, 2005, earlier these were inserted by Sales Tax (Amendment) Ordinance, 2002, dated March 21, 2002."
-      },
-      {
-       "n": "143-766",
-       "text": "Serial No.7 to 11 and entries relating thereto added by Finance Act, 2005"
-      },
-      {
        "n": "143-759",
        "text": "New section 77 added by Finance Act, 2022."
-      },
-      {
-       "n": "143-760",
-       "text": "The first schedule omitted by Finance Supplementary (Amendment) Act, 1997, with effect from March 28, 1997."
-      },
-      {
-       "n": "143-761",
-       "text": "The Second Schedule omitted by Finance Supplementary (Amendment) Act, 1997, with effect from March 28, 1997."
-      },
-      {
-       "n": "143-762",
-       "text": "The Third Schedule Substituted by Finance Act, 1998, earlier it was inserted by Finance Act, 1996."
-      },
-      {
-       "n": "143-763",
-       "text": "Substituted for the words, brackets and letter “clause (c)” by Finance Ordinance, 2002"
-      },
-      {
-       "n": "143-764",
-       "text": "Substituted for the figure “21.05” through Finance Act, 2017"
-      },
-      {
-       "n": "143-767",
-       "text": "Expression substituted by Finance Act, 2022. Serial Description Heading Nos. of the First Schedule to No. the Customs Act, 1969 (IV of 1969) (1) (2) (3)"
-      },
-      {
-       "n": "144-768",
-       "text": "Serial No.12 to 13 and entries relating thereto omitted by Finance Act, 2008"
-      },
-      {
-       "n": "144-769",
-       "text": "Serial No.14 to 16 and entries relating thereto added by Finance Act, 2005"
-      },
-      {
-       "n": "144-770",
-       "text": "Serial No.17 and entries relating thereto added by Finance Act, 2005"
-      },
-      {
-       "n": "144-771",
-       "text": "Serial No.18 to 21 and entries relating thereto added by Finance Act, 2006"
-      },
-      {
-       "n": "144-772",
-       "text": "Serial No.19 to 20 and entries relating thereto omitted by Finance Act, 2008"
-      },
-      {
-       "n": "144-20",
-       "text": "***]"
-      },
-      {
-       "n": "144-21",
-       "text": "Shoe polish and shoe cream 3405.1010] ***]"
-      },
-      {
-       "n": "144-5",
-       "text": "[22."
-      },
-      {
-       "n": "144-773",
-       "text": "Serial Nos. 23 to 31, 34 and 35 entries relating thereto omitted by Notification No. S.R.O. 895(I)/2013, dated 4th October, 2013."
-      },
-      {
-       "n": "144-24",
-       "text": "***"
-      },
-      {
-       "n": "144-25",
-       "text": "***"
-      },
-      {
-       "n": "144-26",
-       "text": "***"
-      },
-      {
-       "n": "144-27",
-       "text": "***"
-      },
-      {
-       "n": "144-28",
-       "text": "***"
-      },
-      {
-       "n": "144-29",
-       "text": "***"
-      },
-      {
-       "n": "144-30",
-       "text": "***"
-      },
-      {
-       "n": "144-31",
-       "text": "***]"
-      },
-      {
-       "n": "144-774",
-       "text": "Serial No. 32 and entries relating thereto omitted by Finance Act, 2022."
-      },
-      {
-       "n": "144-33",
-       "text": "Cement sold in retail packingRespective heading"
-      },
-      {
-       "n": "144-34",
-       "text": "***"
-      },
-      {
-       "n": "144-35",
-       "text": "***]"
-      },
-      {
-       "n": "144-775",
-       "text": "Serial Nos. 22 and 36 and entries relating thereto omitted Notification No. S.R.O. 681(I)/2013, dated 26th July, 2013."
-      },
-      {
-       "n": "144-776",
-       "text": "New Serial number added through Finance Act, 2016"
-      },
-      {
-       "n": "144-777",
-       "text": "Serial numbers 38 up to 49 and entries relating thereto added through Finance Act, 2019. Serial Description Heading Nos. of the First Schedule to No. the Customs Act, 1969 (IV of 1969) (1) (2) (3) irons, washing machines and telephone sets."
-      },
-      {
-       "n": "145-39",
-       "text": "Household gas appliances, Respective headings including cooking range, ovens, geysers and gas heaters."
-      },
-      {
-       "n": "145-40",
-       "text": "Foam or spring mattresses and Respective headings other foam products for household use."
-      },
-      {
-       "n": "145-41",
-       "text": "Paints, distempers, enamels, Respective headings pigments, colours, varnishes, gums, resins, dyes, glazes, thinners, blacks, cellulose lacquers and polishes sold in retail packing"
-      },
-      {
-       "n": "145-42",
-       "text": "Lubricating oils, brake fluids, Respective headings transmission fluid, and other vehicular fluids sold in retail packing."
-      },
-      {
-       "n": "145-43",
-       "text": "Storage batteries excluding Respective headings those sold to automotive manufacturers or assemblers"
-      },
-      {
-       "n": "145-44",
-       "text": "Tyres and tubes excluding those Respective headings sold to automotive manufacturers or assemblers"
-      },
-      {
-       "n": "145-45",
-       "text": "Motorcycles Respective headings"
-      },
-      {
-       "n": "145-46",
-       "text": "Auto rickshaws Respective headings"
-      },
-      {
-       "n": "145-47",
-       "text": "Biscuits in retail packing with Respective Headings brand name"
-      },
-      {
-       "n": "145-48",
-       "text": "Tiles Respective Headings"
-      },
-      {
-       "n": "145-49",
-       "text": "Auto-parts, in retail packing, Respective Headings] excluding those sold to automotive manufacturers or assemblers 778[50. [***] omitted with effect from Respective heading] the 1st day of December, 2021"
-      },
-      {
-       "n": "145-779",
-       "text": "New serial number 51 added by Finance Act, 2024."
-      },
-      {
-       "n": "145-780",
-       "text": "in the Third Schedule, after serial number 51, in column (1), the following new serial number and entries relating thereto in columns (2) and (3) added through Finance Act, 2025."
-      },
-      {
-       "n": "145-53",
-       "text": "Import of coffee sold in retail 0901.1100, 0901.1200, 0901.2100, packing 0901.2200, 0901.9000, 2101.1120 54 Import of chocolates sold in 1704.9010, 1806.2090, retail packing 1806.3100, 1806.3200, 1806.9000"
-      },
-      {
-       "n": "145-778",
-       "text": "Serial number 50 omitted by Finance (Supplementary) Act, 2022 w.e.f 1st day of December, 2021. Serial Description Heading Nos. of the First Schedule to No. the Customs Act, 1969 (IV of 1969) (1) (2) (3)"
-      },
-      {
-       "n": "146-55",
-       "text": "Import of cereal bars sold in 1904.1010, 1904.1090, retail packing 1904.2000, 1904.3000, 1904.9000.”;"
-      },
-      {
-       "n": "146-781",
-       "text": "New Serial Nos. from 56 to 75 and entries relating thereto in columns (2) and (3) added through Finance Act, 2026"
-      },
-      {
-       "n": "146-57",
-       "text": "Sugar confectionery, sold in Respective headings retail packing."
-      },
-      {
-       "n": "146-58",
-       "text": "Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, 19.02 macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared, sold in retail packing."
-      },
-      {
-       "n": "146-59",
-       "text": "Sauces, ketchup and other preparations therefor; mixed condiments and mixed Respective headings seasonings; mustard flour and meal and prepared mustard, sold in retail packing."
-      },
-      {
-       "n": "146-60",
-       "text": "Fermented beverages, sold in Respective headings retail packing."
-      },
-      {
-       "n": "146-61",
-       "text": "Petroleum jelly, paraffin wax, micro-crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar 27.12 products obtained by synthesis or by other processes, whether or not coloured, sold in retail packing."
-      },
-      {
-       "n": "146-62",
-       "text": "Plates, sheets, film, foil, tape, strip and other flat shapes, of 39.19, 39.20,39.21 plastics, whether or not in rolls, sold in retail packing."
-      },
-      {
-       "n": "146-63",
-       "text": "Tableware, kitchenware, plastic furniture, storage items, hygienic or toilet articles, and Chapter 39 allied other household articles of plastics, sold in retail packing."
-      },
-      {
-       "n": "146-64",
-       "text": "Trunks, suit- cases, vanity- cases, executive- cases, briefcases, school satchels, 42.02 spectacle cases, binocular cases, camera cases, musical Serial Description Heading Nos. of the First Schedule to No. the Customs Act, 1969 (IV of 1969) (1) (2) (3) instrument cases, gun cases, holsters and similar containers; travelling- bags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shopping- bags, wallets, purses, map- cases, cigarette- cases, tobacco- pouches, tool bags, sports bags, bottle- cases, jewellery boxes, powder- boxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper, put up for retail sale."
-      },
-      {
-       "n": "147-65",
-       "text": "Footwear (all types) except where the manufacturer exclusively sells its products Respective headings through digitally integrated and POS compliant retail outlets."
-      },
-      {
-       "n": "147-66",
-       "text": "Bathroom accessories and bath items, sanitaryware including taps, showerheads, fittings, Respective headings mixers, valves and other washroom accessories and fixtures, sold in retail packing"
-      },
-      {
-       "n": "147-67",
-       "text": "Crockery Items, sold in retail Respective headings packing"
-      },
-      {
-       "n": "147-68",
-       "text": "Car and automobile accessories, sold in retail Respective headings packing"
-      },
-      {
-       "n": "147-69",
-       "text": "Milk, fat-filled milk, preparations suitable for Respective headings infants, and other products of milk, sold in retail packing"
-      },
-      {
-       "n": "147-70",
-       "text": "Preparations for use on the hair, 33.05 sold in retail packing"
-      },
-      {
-       "n": "147-71",
-       "text": "Pre- shave, shaving or after- shave preparations, personal deodorants, bath preparations, depilatories and other 33.07 perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared"
-      },
-      {
-       "n": "148-782",
-       "text": "Fourth Schedule omitted by Finance Act, 1998. Serial Description No. (1) (2)"
-      },
-      {
-       "n": "149-784",
-       "text": "S. Nos. 1 and 6 and entries relating thereto omitted by Finance Act, 2021."
-      },
-      {
-       "n": "149-2",
-       "text": "Supply to diplomats, diplomatic missions, privileged persons and privileged organizations which are covered under various Acts, Orders, Rules, Regulations and Agreements passed by the Parliament or issued or agreed by the Government of Pakistan.]"
-      },
-      {
-       "n": "149-785",
-       "text": "Serial number 3 and entries relating thereto in column (2) omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "149-786",
-       "text": "Serial No. 4 and entry relating thereto omitted by Finance Act, 2012"
-      },
-      {
-       "n": "149-787",
-       "text": "Serial No. 5 added by the Finance Act, 1997."
-      },
-      {
-       "n": "149-754",
-       "text": "[6. *****]"
-      },
-      {
-       "n": "149-789",
-       "text": "Serial number(s) 6A and 9 and entries relating thereto in column (2) omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "149-790",
-       "text": "Serial No. 7 added by Finance Ordinance, 2001"
-      },
-      {
-       "n": "149-791",
-       "text": "Serial No. 8 and entries relating thereto inserted by Finance Act, 2004"
-      },
-      {
-       "n": "149-793",
-       "text": "New serial No. 8A added by the Finance Act, 2023"
-      },
-      {
-       "n": "149-794",
-       "text": "S. Nos. 10 and 11 and entries relating thereto omitted by Finance Act, 2021."
-      },
-      {
-       "n": "149-783",
-       "text": "Fifth Schedule added by Finance Act, 1996."
-      },
-      {
-       "n": "149-788",
-       "text": "Substituted for the words “and components for” by the Sales Tax (Amendment) Ordinance, 1999"
-      },
-      {
-       "n": "149-792",
-       "text": "Substituted f Revenue” by Finance Act, 2007 Serial Description No. (1) (2)"
-      },
-      {
-       "n": "150-6",
-       "text": "[11. ****]"
-      },
-      {
-       "n": "150-12",
-       "text": "The following goods and the raw materials, packing materials, sub- components, components, sub-assemblies and assemblies imported or purchased locally for the manufacture of the said goods, subject to the conditions, limitations and restrictions as 795[prescribed by the Board]:--"
-      },
-      {
-       "n": "150-796",
-       "text": "Serial numbers (i) to (ix) omitted through Finance Act, 2016."
-      },
-      {
-       "n": "150-797",
-       "text": "Clauses (x) to (xvi) omitted by Finance Act, 2015"
-      },
-      {
-       "n": "150-795",
-       "text": "Substituted for the word “specified in Chapter XIV of the Sales Tax Special Procedure Rules, 2007” through Finance Act, 2019."
-      },
-      {
-       "n": "150-798",
-       "text": "Clauses (xvii), (xx), (xxi), (xxii), (xxiv), (xxv), (xxvi) and (xxvii) of serial number 12 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "150-799",
-       "text": "Serial number (xviii) omitted through Finance Act, 2016."
-      },
-      {
-       "n": "150-800",
-       "text": "Clause (xix) omitted by Finance (Supplementary) Act, 2022. Serial Description No. (1) (2)"
-      },
-      {
-       "n": "151-801",
-       "text": "[13. Supplies of raw materials, components and goods for further manufacture of goods in the Gwadar Free Zone and export thereof, provided that in case of supply to tariff area of Pakistan, tax shall be charged on the value assessed on the Goods Declaration for import 14 Supplies of locally manufactured plant and machinery of the following specifications, to manufacturers in the Gwadar Free Zone, subject to the conditions, restrictions and procedure given below, namely:− (i) plant and machinery, operated by power of any description, as is used for the manufacture or production of goods by that manufacturer. (ii) apparatus, appliances and equipment specifically meant or adapted for use in conjunction with the machinery specified in clause (i). (iii) mechanical and electrical control and transmission gear, meant or adapted for use in conjunction with machinery specified in clause (i). (iv) parts of machinery as specified in clauses (i), (ii) and (iii), identifiable for use in or with such machinery. Conditions, restrictions and procedures:− (a) the supplier of the machinery is registered under the Act; (b) proper bill of export is filed showing registration number; (c) the purchaser of the machinery is an established manufacturer located in the Gwadar Free Zone and holds a certificate from the Gwadar Port Authority to that effect; (d) the purchaser submits an indemnity bond in proper form to the satisfaction of the concerned Commissioner Inland Revenue that the machinery shall, without prior permission from the said Commissioner, not be sold, transferred or otherwise moved out of the Gwadar Free Zone before a period of five years from the date of entry into the Zone; (e) if the machinery is brought to tariff area of Pakistan outside Gwadar Free Zone, sales tax shall be charged on the value assessed on the Goods Declaration for import; and (f) breach of any of the conditions specified herein shall attract legal action under the relevant provisions of the Act, besides recovery of the amount of sales tax along with default surcharge and penalties involved.]"
-      },
-      {
-       "n": "151-802",
-       "text": "[15. ***]omitted"
-      },
-      {
-       "n": "151-803",
-       "text": "16. [***] omitted"
-      },
-      {
-       "n": "151-804",
-       "text": "[17. [***] omitted [18. ***]omitted"
-      },
-      {
-       "n": "151-805",
-       "text": "[19. ***]"
-      },
-      {
-       "n": "151-20",
-       "text": "Petroleum Crude Oil (PCT heading 2709.0000)]."
-      },
-      {
-       "n": "151-806",
-       "text": "[21. [***] omitted"
-      },
-      {
-       "n": "152-801",
-       "text": "New serial numbers 13 and 14 inserted by Finance Act, 2020 shall have effect from the 1st June, 2020."
-      },
-      {
-       "n": "152-802",
-       "text": "Serial numbers 15 and 18 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "152-803",
-       "text": "Serial number(s) 16, 17 and 21 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "152-804",
-       "text": "Serial numbers 17 substituted by Finance Act, 2022."
-      },
-      {
-       "n": "152-805",
-       "text": "Serial number 19 omitted by Finance Act, 2022."
-      },
-      {
-       "n": "152-806",
-       "text": "New serial number 21 added by Finance Act, 2022. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3)"
-      },
-      {
-       "n": "153-808",
-       "text": "Serial number(s) 1,2,3,11 and 12 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "153-809",
-       "text": "S. Nos. 4 to10 and entries relating thereto omitted by Finance Act, 2006"
-      },
-      {
-       "n": "153-5",
-       "text": "***"
-      },
-      {
-       "n": "153-6",
-       "text": "***"
-      },
-      {
-       "n": "153-7",
-       "text": "***"
-      },
-      {
-       "n": "153-8",
-       "text": "***"
-      },
-      {
-       "n": "153-9",
-       "text": "***"
-      },
-      {
-       "n": "153-10",
-       "text": "***] [11. ***] omitted [12. ***] omitted"
-      },
-      {
-       "n": "153-810",
-       "text": "Serial number 13 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "153-14",
-       "text": "Pulses. 0713.1000, 811[0713.2010, 0713.2020, 0713.2090], 0713.3100, 0713.3200, 0713.3300, 0713.3910, 0713.3920, 0713.3990, 0713.4010, 0713.4020, 0713.5000, 0713.9010, 0713.9020 and 0713.9090"
-      },
-      {
-       "n": "153-812",
-       "text": "Serial number 15 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "153-807",
-       "text": "Sixth Schedule substituted by Finance Act, 2005. Earlier it was substituted by Finance Act, 1998. Originally it was inserted by Finance Act, 1996."
-      },
-      {
-       "n": "153-811",
-       "text": "Substituted for the figure and comma “0713.2000” by the Finance Act, 2009 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3)"
-      },
-      {
-       "n": "154-16",
-       "text": "Red chillies excluding those sold 814[0904.2110] and"
-      },
-      {
-       "n": "154-813",
-       "text": "Word substituted by Finance Act, 2023"
-      },
-      {
-       "n": "154-17",
-       "text": "Ginger excluding those sold 816[under] 817[09.10] brand names and trademarks."
-      },
-      {
-       "n": "154-18",
-       "text": "Turmeric excluding those sold 0910.3000"
-      },
-      {
-       "n": "154-818",
-       "text": "Word substituted by Finance Act, 2023"
-      },
-      {
-       "n": "154-819",
-       "text": "Serial number 19 substituted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "154-820",
-       "text": "Serial number 20 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "154-821",
-       "text": "Serial number(s) 21and 23 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "154-822",
-       "text": "Serial numbers 22,24,26, 27, 29 and 29C omitted by Finance Act, 2021."
-      },
-      {
-       "n": "154-773",
-       "text": "[24. ***]"
-      },
-      {
-       "n": "154-823",
-       "text": "S. No. 25 and the entries relating thereto omitted by the Finance Act, 2013"
-      },
-      {
-       "n": "154-795",
-       "text": "[29C. ***]"
-      },
-      {
-       "n": "154-824",
-       "text": "New serial number 27A inserted through Finance Act, 2026."
-      },
-      {
-       "n": "154-825",
-       "text": "Serial No. 28 and entries relating thereto omitted by Finance Act, 2015"
-      },
-      {
-       "n": "154-826",
-       "text": "S. Nos. 29A and 29B omitted by the Finance Act, 2011"
-      },
-      {
-       "n": "154-827",
-       "text": "S. No. 30 omitted by the Finance Act, 2011"
-      },
-      {
-       "n": "154-31",
-       "text": "Holy Quran, complete or in parts, with 828[4901.9910, 8523.2100, or without translation; Quranic Verses 8523.2910, recorded on any analogue or digital media; other Holy books."
-      },
-      {
-       "n": "154-814",
-       "text": "Substituted for PCT heading “0904.2010” by the Finance Act, 2012"
-      },
-      {
-       "n": "154-815",
-       "text": "Substituted for PCT heading “0904.2020” by the Finance Act, 2012"
-      },
-      {
-       "n": "154-816",
-       "text": "Word substituted by Finance Act, 2023"
-      },
-      {
-       "n": "154-817",
-       "text": "Substituted for the figure “0910.1000” through Finance Act, 2017"
-      },
-      {
-       "n": "154-828",
-       "text": "Substituted for the words and figures “4901.9910 and respective headings of 85.24” by the Finance Act, 2007 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) 8523.2990, 829[8523.4910],"
-      },
-      {
-       "n": "155-830",
-       "text": "Substituted for PCT heading “8523.4030” by Finance Act, 2012"
-      },
-      {
-       "n": "155-832",
-       "text": "Serial number 32 substituted through Finance Act, 2026."
-      },
-      {
-       "n": "155-33",
-       "text": "Currency notes, bank notes, shares, 833[49.07] stocks and bonds."
-      },
-      {
-       "n": "155-834",
-       "text": "S. Nos. 34 & 35 omitted by the Finance Act, 2011"
-      },
-      {
-       "n": "155-35",
-       "text": "***]"
-      },
-      {
-       "n": "155-835",
-       "text": "Serial number 36 omitted through Finance Act, 2019."
-      },
-      {
-       "n": "155-836",
-       "text": "Serial number 37 omitted through Finance Act, 2019."
-      },
-      {
-       "n": "155-38",
-       "text": "Monetary gold. 837[7108.1390] 838[and 7108.2090]"
-      },
-      {
-       "n": "155-839",
-       "text": "S. No. 39 and entries relating thereto omitted by Finance Act, 2015"
-      },
-      {
-       "n": "155-840",
-       "text": "S. No. 40 omitted by the Finance Act, 2006"
-      },
-      {
-       "n": "155-841",
-       "text": "S. Nos. 41 to 44 omitted by the Finance Act, 2011"
-      },
-      {
-       "n": "155-42",
-       "text": "***"
-      },
-      {
-       "n": "155-43",
-       "text": "***"
-      },
-      {
-       "n": "155-44",
-       "text": "***]"
-      },
-      {
-       "n": "155-45",
-       "text": "Dextrose and saline infusion giving 9018.3910, 9018.3920, sets 842[***] along with empty non-9021.3100, 843[9021.3900] toxic bags for infusion solution, and 844[Respective headings] Dextrose and saline infusion giving sets, Artificial parts of the body, Intra- Ocular lenses and Glucose testing equipment."
-      },
-      {
-       "n": "155-845",
-       "text": "Serial number 46 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "155-47",
-       "text": "Import of articles of household and 99.05 personal effects including vehicles and also the goods for donation to"
-      },
-      {
-       "n": "155-829",
-       "text": "Substituted for PCT heading “8523.4010” by Finance Act, 2012"
-      },
-      {
-       "n": "155-831",
-       "text": "Substituted for PCT heading “8523.4090” by Finance Act, 2012"
-      },
-      {
-       "n": "155-833",
-       "text": "Substituted for the figure “4907.0000” by Finance Act, 2017"
-      },
-      {
-       "n": "155-837",
-       "text": "Substituted for the figure “7108.2000” by Finance Act, 2017"
-      },
-      {
-       "n": "155-838",
-       "text": "The word and figures added by the Finance Act, 2007"
-      },
-      {
-       "n": "155-842",
-       "text": "The word “imported” omitted by the Finance Act, 2007"
-      },
-      {
-       "n": "155-843",
-       "text": "Substituted for the figures “9201.3900” by the Finance Act, 2007"
-      },
-      {
-       "n": "155-844",
-       "text": "Words substituted by Finance Act, 2022. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) projects established in Pakistan imported by any of the rulers of Gulf Sheikhdoms who is in possession of residential accommodation in Pakistan and goods including vehicles by the United Arab Emirates dignitaries as are listed in column (2) against heading No. 99.05 in column (1) of the First Schedule to the Customs Act, 1969 (IV of 1969) for their personal use and for donation to welfare projects established in Pakistan subject to the similar conditions as are envisaged for the purposes of applying zero-rate of customs duty on such goods under the said Act."
-      },
-      {
-       "n": "156-48",
-       "text": "Goods imported or supplied under 99.03 grants-in-aid for which a specific consent has been obtained from the"
-      },
-      {
-       "n": "156-846",
-       "text": "Substituted for the words “Central Board of Revenue” by Finance Act, 2007"
-      },
-      {
-       "n": "156-847",
-       "text": "Serial number(s) 49 to 57 and 58 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "156-848",
-       "text": "Serial No. 56 and entries relating thereto omitted by Finance Act, 2015 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) [58. ***] omitted"
-      },
-      {
-       "n": "157-59",
-       "text": "Artificial kidneys, eye cornea, 99.24 851[, 99.25 852[,99.37] hemodialysis machines, and 99.38] hemodialyzers, A.V. fistula needles, hemodialysis fluids 849[,] and powder, blood tubing tines for dialysis and reverse osmosis plants for dialysis, double lumen catheter for dialysis, catheter for renal failure patient and peritoneal dialysis solution,"
-      },
-      {
-       "n": "157-850",
-       "text": "The comma and words inserted by the Finance Act 2014"
-      },
-      {
-       "n": "157-853",
-       "text": "Serial number(s) 60, 61 and 63 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "157-854",
-       "text": "S. No. 62 omitted by the Finance Act, 2011"
-      },
-      {
-       "n": "157-855",
-       "text": "S. Nos. 64 to 70 omitted by the Finance Act, 2011"
-      },
-      {
-       "n": "157-65",
-       "text": "***"
-      },
-      {
-       "n": "157-66",
-       "text": "***"
-      },
-      {
-       "n": "157-67",
-       "text": "***"
-      },
-      {
-       "n": "157-68",
-       "text": "***"
-      },
-      {
-       "n": "157-69",
-       "text": "***"
-      },
-      {
-       "n": "157-70",
-       "text": "***.]"
-      },
-      {
-       "n": "157-849",
-       "text": "Substituted for the word “and” by the Finance Act, 2008"
-      },
-      {
-       "n": "157-851",
-       "text": "Substituted for the word and figures “and 99.25” by the Finance Act, 2008"
-      },
-      {
-       "n": "157-852",
-       "text": "The comma and figure inserted by the Finance Act 2014 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3)"
-      },
-      {
-       "n": "158-856",
-       "text": "Serial number(s) 71, 72, 81, 84 and 92 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "158-857",
-       "text": "Serial numbers 73 to 80, 82, 83 and 85 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "158-74",
-       "text": "***]"
-      },
-      {
-       "n": "158-75",
-       "text": "***]"
-      },
-      {
-       "n": "158-76",
-       "text": "***]"
-      },
-      {
-       "n": "158-77",
-       "text": "***]"
-      },
-      {
-       "n": "158-78",
-       "text": "***]"
-      },
-      {
-       "n": "158-79",
-       "text": "***]"
-      },
-      {
-       "n": "158-80",
-       "text": "***] [81. ***] omitted"
-      },
-      {
-       "n": "158-82",
-       "text": "***]"
-      },
-      {
-       "n": "158-83",
-       "text": "***] [84. ***] omitted"
-      },
-      {
-       "n": "158-858",
-       "text": "Serial numbers 85, 91 and 93 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "158-859",
-       "text": "Serial numbers 86, 87, 88, 90 and 96 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "158-87",
-       "text": "***] omitted"
-      },
-      {
-       "n": "158-88",
-       "text": "***] omitted"
-      },
-      {
-       "n": "158-89",
-       "text": "Exercise books 4820.2000"
-      },
-      {
-       "n": "158-90",
-       "text": "***] omitted"
-      },
-      {
-       "n": "158-91",
-       "text": "***] [92. ***] omitted 93 ***]"
-      },
-      {
-       "n": "158-94",
-       "text": "Wheelchairs 8713.1000 and 8713.9000"
-      },
-      {
-       "n": "158-860",
-       "text": "Serial number 95 and entries relating thereto is omitted through Finance Act, 2019."
-      },
-      {
-       "n": "158-96",
-       "text": "***] omitted"
-      },
-      {
-       "n": "158-861",
-       "text": "Serial numbers 97 and 98 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "158-98",
-       "text": "***] omitted"
-      },
-      {
-       "n": "158-862",
-       "text": "Serial number 99 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "158-100",
-       "text": "Construction materials to 863[Gwadar] Respective headings Export processing Zone’s investors and to Export Processing Zone"
-      },
-      {
-       "n": "158-3",
-       "text": "[Gwadar] for development of Zone’s infrastructure"
-      },
-      {
-       "n": "158-864",
-       "text": "New serial numbers 100A & 100B added through Finance Act, 2016."
-      },
-      {
-       "n": "158-863",
-       "text": "Spellings of “Gawadar” corrected as “Gwadar” by Finance Act, 2017"
-      },
-      {
-       "n": "158-865",
-       "text": "The expression inserted through Finance Act, 2017 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) development of Free Zone for"
-      },
-      {
-       "n": "159-3",
-       "text": "[Gwadar] Port as imported by or supplied to China Overseas Ports Holding Company Limited (COPHCL) and its operating companies namely (i) China Overseas Ports Holding Company Pakistan (Private) Limited (ii) Gwadar International Terminal Limited, (iii) Gwadar Marin Services Limited and (iv) Gwadar Free Zone Company Limited, their contractors and sub- contractors; and Ship Bunker Oils bought and sold to the ships calling on/visiting 3[Gwadar] Port, 866[by the aforesaid operating companies] having Concession Agreement with the Gwadar Port Authority, for a period of forty year, subject to the following conditions and procedure, namely,– (A). Conditions and procedure for imports.– (i) This exemption shall be admissible only to China Overseas Ports Holding Company Limited (COPHCL) and its operating companies, their contractors and sub- contractors which hold the Concession Agreement; (ii) Ministry of Ports and Shipping shall certify in the prescribed manner and format as per Annex-I that the imported materials and equipments are bonafide requirement for construction and operation of 867[Gwadar] Port and development of Free Zone for 1[Gwadar] Port. The authorized officer of that Ministry shall furnish all relevant information online to Pakistan Customs against a 866 The expression inserted by Finance Act, 2020 shall have effect from the 1st June, 2020."
-      },
-      {
-       "n": "159-867",
-       "text": "Spellings of “Gawadar” corrected as “Gwadar” by Finance Act, 2017 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) specific user ID and password obtained under section 155D of the Customs Act, 1969 (IV of 1969). In already computerized Collectorate or Customs station, where the computerized system is not operational, the Project Director or any other person authorized by the Collector in this behalf shall enter the requisite information in the Customs Computerized System on daily basis, whereas entry of the data obtained from the customs stations which have not yet been computerized shall be made on weekly basis, provided that this condition shall not apply to ship bunker oils; and (iii) The goods so imported"
-      },
-      {
-       "n": "160-868",
-       "text": "The expression inserted and words substituted by Finance Act, 2020 shall have effect from the 1st June, 2020. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) contractors which hold Concession Agreement; (ii) for claiming exemption on goods which are otherwise taxable in Pakistan, the operating companies will purchase the materials and equipment for the construction of"
-      },
-      {
-       "n": "161-869",
-       "text": "Spellings of “Gawadar” corrected as “Gwadar” by Finance Act, 2017 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) the person authorized to receive the supplies in the office of operating company, confirming that supplies mentioned in the monthly statement have been duly received; (v) after verification from the operating company, original copy of the monthly statement will be retained by the registered person, duplicate by the operating company and the triplicate provided by the registered person to the Collector of Sales Tax having jurisdiction, by twentieth day of the month following the month in which exempt supplies to the operating companies were made; and (vi) the registered person making the exempt supplies shall keep the aforesaid record for presentation to the sales tax department as and when required to do so."
-      },
-      {
-       "n": "162-1",
-       "text": "[100B] Supplies made by the businesses to Respective headings be established in the Gwadar Free Zone for a period of twenty-three years within the Gwadar Free Zone, subject to the condition that the sales and supplies outside the Gwadar Free Zone and into the territory of Pakistan shall be subjected to sales tax."
-      },
-      {
-       "n": "162-870",
-       "text": "New S.No. 100C and entries relating thereto inserted through Finance Act, 2017 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) companies namely (i) China Overseas Ports Holding Company Pakistan (Private) Limited (ii) Gwadar International Terminal Limited, (iii) Gwadar Marine Services Limited and (iv) Gwadar Free Zone Company Limited, for a period of twenty-three years for construction, development and operations of Gwadar Port and Free Zone Area subject to limitations, conditions prescribed under PCT heading 9917 (3)]"
-      },
-      {
-       "n": "163-871",
-       "text": "New serial number 100D inserted by Finance Act, 2020 shall have effect from the 1st June, 2020."
-      },
-      {
-       "n": "163-872",
-       "text": "Serial number 101 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "163-873",
-       "text": "Serial number(s) 102, 104 and 105 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "163-874",
-       "text": "Serial number 103 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "163-875",
-       "text": "Serial numbers 106 and 108 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "163-107",
-       "text": "Import and supply of iodized salt 2501.0010 bearing brand names and trademarks whether or not sold in retail packing. [108. ***]"
-      },
-      {
-       "n": "163-876",
-       "text": "Serial number(s) 109 and 110 omitted by Finance (Supplementary) Act, 2022. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) [110. ***] omitted"
-      },
-      {
-       "n": "164-111",
-       "text": "877[…….] omitted […….]"
-      },
-      {
-       "n": "164-112",
-       "text": "Following cardiology/cardiac surgery, Respective headings neurovascular, electrophysiology, endosurgery, endoscopy, oncology, urology, gynaecology, disposables and other equipment:-- A. ANGIOPLASTY PRODUCTS"
-      },
-      {
-       "n": "164-1",
-       "text": "Coronary Artery Stents"
-      },
-      {
-       "n": "164-2",
-       "text": "Drugs Eluting Coronary Artery Stents"
-      },
-      {
-       "n": "164-3",
-       "text": "Coronary Artery Dilatations Catheters (Balloons)"
-      },
-      {
-       "n": "164-4",
-       "text": "PTCA Guide Wire"
-      },
-      {
-       "n": "164-5",
-       "text": "PTCA Guiding Catheters"
-      },
-      {
-       "n": "164-6",
-       "text": "Inflation Devices/Priority Packs"
-      },
-      {
-       "n": "164-7",
-       "text": "878[Optical Coherence Technology (OCT) System"
-      },
-      {
-       "n": "164-8",
-       "text": "OCT Catheters"
-      },
-      {
-       "n": "164-9",
-       "text": "Intravascular Ultrasound (IVUS)"
-      },
-      {
-       "n": "164-10",
-       "text": "Fractional Flow Reserve (FFR/IFR) System"
-      },
-      {
-       "n": "164-11",
-       "text": "IVUS/FFR/IFR Catheters and wires"
-      },
-      {
-       "n": "164-12",
-       "text": "Support Micro Catheters (Straight and Angled)"
-      },
-      {
-       "n": "164-13",
-       "text": "Drug Coated Angioplasty Balloon"
-      },
-      {
-       "n": "164-14",
-       "text": "Coronary and Peripheral Micro Coils"
-      },
-      {
-       "n": "164-15",
-       "text": "Thrombectomy Device"
-      },
-      {
-       "n": "164-16",
-       "text": "Thrombus Aspiration Catheters"
-      },
-      {
-       "n": "164-17",
-       "text": "Covered Stents (Coronary/Peripheral)"
-      },
-      {
-       "n": "164-18",
-       "text": "Vessel Closure Devices"
-      },
-      {
-       "n": "164-19",
-       "text": "Embolic Protection Devices"
-      },
-      {
-       "n": "164-20",
-       "text": "Renal Stents"
-      },
-      {
-       "n": "164-21",
-       "text": "Vena-cava Filters"
-      },
-      {
-       "n": "164-22",
-       "text": "Coronary and Peripheral Snares"
-      },
-      {
-       "n": "164-23",
-       "text": "Atherectomy Devices"
-      },
-      {
-       "n": "164-24",
-       "text": "IABP Consoles & Catheters"
-      },
-      {
-       "n": "164-877",
-       "text": "Serial No. 111, expression “White crystalline sugar” omitted through Finance Act, 2016."
-      },
-      {
-       "n": "164-878",
-       "text": "New sub-serial No(s) 7 to.25 under entry A of S.No. 112 and entries relating thereto added by Finance Supplementary (Amendment) Act, 2018. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3)"
-      },
-      {
-       "n": "165-25",
-       "text": "Intracardiac Echocardiography Machine & Catheters] B. ANGIOGRAPHY PRODUCTS"
-      },
-      {
-       "n": "165-1",
-       "text": "Angiography Accessories"
-      },
-      {
-       "n": "165-2",
-       "text": "ASD Closure Devices"
-      },
-      {
-       "n": "165-3",
-       "text": "ASD Delivery Systems"
-      },
-      {
-       "n": "165-4",
-       "text": "VSD Closure Devices"
-      },
-      {
-       "n": "165-5",
-       "text": "VSD Delivery System"
-      },
-      {
-       "n": "165-6",
-       "text": "Guide Wires"
-      },
-      {
-       "n": "165-7",
-       "text": "Sizing Balloons"
-      },
-      {
-       "n": "165-8",
-       "text": "Sizing Plates"
-      },
-      {
-       "n": "165-9",
-       "text": "PDA Closure Devices"
-      },
-      {
-       "n": "165-10",
-       "text": "PDA Delivery System D. TEMPORARY PACEMAKERS (with leads, connectors and accessories) E. PERMANENT PACEMAKER. (with leads, connectors and accessories) F. HEART FAILURE DEVICES (with leads, connectors and accessories) G. IMPLANTABLE CARDIOVERTES (with leads, connectors and accessories)"
-      },
-      {
-       "n": "165-879",
-       "text": "New sub-serial No. 7 under entry B of S.No. 112 and entries relating thereto added by Finance Supplementary (Amendment) Act, 2018. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) H. CARDIAC ELECTRO- PHYSIOLOGY PRODUCTS"
-      },
-      {
-       "n": "166-1",
-       "text": "Oxygenators"
-      },
-      {
-       "n": "166-2",
-       "text": "Cannulas"
-      },
-      {
-       "n": "166-3",
-       "text": "Prosthetic Heart Valves"
-      },
-      {
-       "n": "166-4",
-       "text": "Luminal shunts for heart surgery"
-      },
-      {
-       "n": "166-5",
-       "text": "Artificial limbs and appliances"
-      },
-      {
-       "n": "166-6",
-       "text": "881[High-Flow, Low-Profile Percutaneous Heart Pump PHP Console and Catheters"
-      },
-      {
-       "n": "166-7",
-       "text": "Tandem Heart / Tandem Lung and Accessories"
-      },
-      {
-       "n": "166-8",
-       "text": "Ventricular Assist Device System (a) Heart Mate-II"
-      },
-      {
-       "n": "166-9",
-       "text": "Ablation catheters"
-      },
-      {
-       "n": "166-10",
-       "text": "3-D Cardiac Mapping System"
-      },
-      {
-       "n": "166-11",
-       "text": "Cryoballoon System and Accessories] I. LEAR CARDIOLOGY PRODUCTS"
-      },
-      {
-       "n": "166-880",
-       "text": "New sub-serial No(s) 4 to 11 under entry H of S.No. 112 and entries relating thereto added by Finance Supplementary (Amendment) Act, 2018."
-      },
-      {
-       "n": "166-881",
-       "text": "New sub-serial No(s) 6 to 12 under entry J of S.No. 112 and entries relating thereto added by Finance Supplementary (Amendment) Act, 2018. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) (b) Heart Mate-III (c) Centri Meg LEOV"
-      },
-      {
-       "n": "167-9",
-       "text": "Left Atrial Appendage (LAA) Occluder"
-      },
-      {
-       "n": "167-10",
-       "text": "Transcatheter Aortic / Heart Valve System (TAVI/TAVR)"
-      },
-      {
-       "n": "167-11",
-       "text": "Cerebral Retrievable Stents"
-      },
-      {
-       "n": "167-12",
-       "text": "Aortic Stent Grafts"
-      },
-      {
-       "n": "167-1",
-       "text": "Cardiac Angiography Machine"
-      },
-      {
-       "n": "167-2",
-       "text": "Echocardiography Machines"
-      },
-      {
-       "n": "167-3",
-       "text": "ETT Machines"
-      },
-      {
-       "n": "167-4",
-       "text": "Gamma Camera for Nuclear Cardiology Studies"
-      },
-      {
-       "n": "167-5",
-       "text": "882[Left Ventricular Assist Device / System (LVAD) and Catheters"
-      },
-      {
-       "n": "167-6",
-       "text": "Mitra Clip Transcatheter Mitral Valve System"
-      },
-      {
-       "n": "167-7",
-       "text": "Mitra Clip Guide Catheter, Clip and Delivery System"
-      },
-      {
-       "n": "167-8",
-       "text": "Patent Foramen Ovale (PFO) Closure Device"
-      },
-      {
-       "n": "167-13",
-       "text": "Embolization Coils, Delivery System, Filling Coil"
-      },
-      {
-       "n": "167-14",
-       "text": "Abdominal Aortic Aneurysm (EVAR) System and Accessories/ thoracic EVAR/ extension"
-      },
-      {
-       "n": "167-15",
-       "text": "Insertable Cardiac Monitor (ICM)"
-      },
-      {
-       "n": "167-16",
-       "text": "Carotid Stents"
-      },
-      {
-       "n": "167-17",
-       "text": "Vascular Clips"
-      },
-      {
-       "n": "167-882",
-       "text": "New sub-serial No(s) 5 to 18 under entry K of S.No. 112 and entries relating thereto added by Finance Supplementary (Amendment) Act, 2018. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3)"
-      },
-      {
-       "n": "168-18",
-       "text": "MRI Compatible Cardiac Monitor, Infusion Pump, Anesthesia Machine with Accessories] K. PERIPHERAL INTERVENTIONS EQUIPMENT Disposables and other equipment for peripheral interventions including stents (including carotid and wall stents), balloons, sheaths, catheters, guide wires, filter wires, coils, needles, valves (including rotating homeostatic valves), connecting cables, inflation devices adapters"
-      },
-      {
-       "n": "168-883",
-       "text": "Words “Drug Eluting Peripheral Stents” under entry L of S.No. 112 added by Finance Supplementary (Amendment) Act, 2018."
-      },
-      {
-       "n": "168-884",
-       "text": "Serial number(s) 113, 114, 116, and 117 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "168-885",
-       "text": "Serial number 115 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "168-886",
-       "text": "S.No. 118 omitted by Finance Supplementary (Second Amendment) Act, 2019"
-      },
-      {
-       "n": "168-119",
-       "text": "887[.......] omitted [......]"
-      },
-      {
-       "n": "168-888",
-       "text": "Serial number 120 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "168-121",
-       "text": "Blood Bag CPDA-1 with blood Respective headings transfusion set pack in aluminium foil with set."
-      },
-      {
-       "n": "168-889",
-       "text": "Explanation added by Finance Act, 2023"
-      },
-      {
-       "n": "168-122",
-       "text": "Urine drainage bags Respective headings"
-      },
-      {
-       "n": "168-890",
-       "text": "Serial numbers 123 to 125 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "168-887",
-       "text": "Serial No. 119, expression “Tubular day..” omitted through Finance Act, 2016. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3)"
-      },
-      {
-       "n": "169-891",
-       "text": "Serial number(s) 126, 127 and 129 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "169-127",
-       "text": "***] omitted"
-      },
-      {
-       "n": "169-892",
-       "text": "Serial number 128 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "169-129",
-       "text": "***] omitted"
-      },
-      {
-       "n": "169-893",
-       "text": "Serial number(s) 130 to 132 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "169-133",
-       "text": "Pesticides and their active ingredients 38.08 registered by the Department of Plant Protection under the Agricultural Pesticides Ordinance, 1971(II of 1971), stabilizers, emulsifiers and solvents, namely:− Xylol (xylenes) 2707.3000 - Beta Pinene / Agrotin 527 / Terpenic 2902.1990 derivative Toluene 2902.3000 Mixed xylene isomers 2902.4400 Naphthalene 2902.9010 Solvesso-100, 150, 200 2902.9090"
-      },
-      {
-       "n": "169-894",
-       "text": "The words “ingredients for pesticides” and the figure “2903.3040” omitted by Finance Act, 2017"
-      },
-      {
-       "n": "169-895",
-       "text": "The words “Cadusafos Technical Material” and figure “2903.6900” omitted by Finance Act, 2017 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) Dioctyl orthophthalates 2917.3200"
-      },
-      {
-       "n": "170-896",
-       "text": "The words “ingredients for pesticides” and the figure “2918.9010” omitted by Finance Act, 2017"
-      },
-      {
-       "n": "170-897",
-       "text": "The words “ingredients for pesticides” and the figure “2919.0010” omitted by Finance Act, 2017"
-      },
-      {
-       "n": "170-898",
-       "text": "The words “other ingredients for pesticides” and the figure “2919.0090” omitted by Finance Act, 2017"
-      },
-      {
-       "n": "170-899",
-       "text": "The words “Tiethanolamine and its salts” and the figure “2922.1300” omitted by Finance Act, 2017"
-      },
-      {
-       "n": "170-900",
-       "text": "The words “ingredients for pesticides” and the figure “2924.2930” omitted by Finance Act, 2017"
-      },
-      {
-       "n": "170-901",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) - Ethion, Methamidophos Technical Material - Dimethysulfoxid Ingredients for pesticides 902[Respective headings] Other Ingredients for pesticides 903[Respective headings] Ingredients for pesticides 904[Respective headings] 2,3 Dihydro 2-2 dimethyl-7 benzo 2932.9910 furanyl methyl-carbamate Other ingredients for pesticides 2932.9990 - Carbosulfan Technical Material Fipronil 2933.1900 Ingredients for pesticides 905[Respective headings] Other Ingredients for pesticides 2933.3990 - Chlorpyrifos, Triazophos, Diazinon 2933.5950 Technical Material Other Ingredients for pesticides 2933.5990 Pyrimethanine 2933.6910 Ingredients for pesticides 2933.6940 - Atrazine Technical Material 2933.6990 Isatin (lactam of istic acid) 2933.7910 1-Vinyl-2-pyrrol-idone 2933.7920 - Triazophos Technical Material 2933.9910 Ingredients for pesticides 2934.1010 Ingredients for pesticides 2934.9920 -Methyl benzimidazol – 2 – 2938.9010 ylcarbamate. -Dicopper chloride trihydroxide Ingredients for pesticides 906[2939.8010] - Abamectin, Emamectin Technical 907[Respective headings] Material Other Ingredients for pesticides 2941.9090 Sulphonic acid (Soft) 908[Respective headings] Other surface active agents 909[Respective headings] Catonic 910[Respective headings] Non ionic surface active agents 911[Respective headings] Other organic surface active agents 912[Respective headings] 3402.9000"
-      },
-      {
-       "n": "171-902",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-903",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-904",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-905",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-906",
-       "text": "Substituted for the figure “2939.9910” by Finance Act, 2017"
-      },
-      {
-       "n": "171-907",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-908",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-909",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-910",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-911",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022."
-      },
-      {
-       "n": "171-912",
-       "text": "For expression, words “respective headings” substituted by Finance Act, 2022. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) Chemical preparations 913[3824.9999] Solvent C-9 2707.5000"
-      },
-      {
-       "n": "172-914",
-       "text": "New entries inserted by Finance Act, 2021."
-      },
-      {
-       "n": "172-915",
-       "text": "Serial number(s) 134 to 136 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "172-916",
-       "text": "S.No. 137 and entries relating thereto substituted by Finance Act, 2022."
-      },
-      {
-       "n": "172-917",
-       "text": "Serial number(s) 138 to 142 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "172-143",
-       "text": "(i) Hearing aids (all types and kinds) 9937 (ii) Hearing assessment equipment; (a) Audiometers (b) Tympanometer (c) ABR (d) Oto Acoustic Omission"
-      },
-      {
-       "n": "172-144",
-       "text": "Liquefied Natural Gas imported by 2711.1100 fertilizer manufacturers for use as feed stock"
-      },
-      {
-       "n": "172-145",
-       "text": "Plant, machinery, equipment Respective heading including dumpers and special purpose motor vehicles, if not manufactured locally, imported by M/s China State Construction Engineering Corporation Limited (M/s CSCECL) for the construction of Karachi – Peshawar Motorway (Sukkur – Multan Section) and M/s China Communication Construction Company (M/s CCCC) for the construction of Karakorum Highway (KKH) Phase-II (Thakot - Havellian Section) subject to the following conditions:"
-      },
-      {
-       "n": "172-913",
-       "text": "Substituted for the figure “3824.9099” by Finance Act, 2017 Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) (i) that the exemption under this serial number shall only be available to contractors named above; (ii) that the equipment and construction machinery imported under this serial number shall only be used for the construction of the respective allocated projects; (iii) that the importer shall furnish an indemnity bond, in the prescribed manner and format as set out in Annex-A, at the time of import to the extent of sales tax exempted under this serial number on consignment to consignment basis; (iv) that the Ministry of Communications shall certify in the prescribed manner and format as set out in Annex-B that the imported equipment and construction machinery are bona fide requirement for construction of Sukkur – Multan Section (392.0 km) of Karachi – Peshawar Motorway or for the construction of Karakorum Highway(KKH) Phase-II - Thakot to Havellian Section (118.057 km) as the case may be; (v) for the clearance of imported goods through Pakistan Customs Computerized System the authorized officer of the Ministry shall furnish all relevant information, as set out in Annex-B, online against a specific user ID and password obtained under section 155D of the Customs Act, 1969 (IV of 1969). In Collectorates or Customs Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) stations where the Pakistan Customs Computerized System is not operational, the Director Reforms and Automation or any other person authorized by the Collector in this behalf shall enter the requisite information in the Pakistan Customs Computerized System on daily basis, whereas entry of the data obtained from the customs stations which have not yet been computerized shall be made on weekly basis; (vi) that the equipment and construction machinery, imported under this serial number, shall not be re- exported, sold or otherwise disposed of without prior approval of the FBR. In case goods are sold or otherwise disposed of with prior approval of FBR the same shall be subject to payment of sales tax as may be prescribed by the FBR; (vii) in case the equipment and construction machinery, imported under this serial number, is sold or otherwise disposed of without prior approval of the FBR in terms of para (vi) above, the same shall be subject to payment of statutory rates of sales tax as were applicable at the time of import; (viii) notwithstanding the condition at para (vi) and (vii) above, equipment and construction machinery, imported under this serial number, may be surrendered at any time to the Collector of Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) Customs having jurisdiction, without payment of any sales tax , for further disposal as may be prescribed by the FBR; (ix) the indemnity bond submitted in terms of para (iii) above by the importer shall be discharged on the fulfillment of conditions stipulated at para (vi) or (vii) or (viii) above, as the case may be; and (x) that violation of any of the above mentioned conditions shall render the goods liable to payment of statutory rate of sales tax leviable on the date of clearance of goods in addition to any other penal action under relevant provisions of the law."
-      },
-      {
-       "n": "175-918",
-       "text": "Serial number 146 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "175-147",
-       "text": "Goods supplied to German Respective heading Development Agency (Deutsche Gesellschaft für Internationale Zusammenarbeit) GIZ"
-      },
-      {
-       "n": "175-148",
-       "text": "Imported construction materials and Respective heading goods imported by M/s China State Construction Engineering Corporation Limited (M/s CSCECL), whether or not locally manufactured, for construction of Karachi-Peshawar Motorway (Sukkur-Multan Section) subject to fulfilment of same conditions, limitations and restrictions as are specified under S. No. 145 of this table, provided that total incidence of exemptions of all duties and taxes in respect of construction materials and goods imported for the project shall not exceed ten thousand eight hundred ninety-eight million rupees including the benefit of Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) exemption from duties and taxes availed before 30th June, 2018 under the provisions of the Sales Tax Act, 1990, the Customs Act, 1969, the Federal Excise Act, 2005 and the Income Tax Ordinance, 2001 and Notifications issued thereunder;"
-      },
-      {
-       "n": "176-919",
-       "text": "Serial number 149 and 150 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "176-920",
-       "text": "Serial number 151 omitted through Finance Act, 2025."
-      },
-      {
-       "n": "176-152",
-       "text": "Supplies of electricity, as made from 2716.0000 the day of assent to the Constitution (Twenty-fifth Amendment) Act, 2018, till 921[30th June, 2026], to all residential and commercial consumers in tribal areas, and to such industries in the tribal areas which were set and started their industrial production before 31st May, 2018, but excluding steel and ghee or cooking oil industries 922[153. ***]"
-      },
-      {
-       "n": "176-923",
-       "text": "New serial numbers 154 to 156 inserted by Finance Act, 2020."
-      },
-      {
-       "n": "176-924",
-       "text": "Serial number 155 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "176-925",
-       "text": "Serial number 156 substituted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "176-921",
-       "text": "Expression substituted by Finance Act, 2025."
-      },
-      {
-       "n": "176-922",
-       "text": "Serial number 153 omitted by Finance Act, 2021. Serial No Description Heading Nos. of the First Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) (iv) Three Wheeler Electric Loader (v) Electric Trucks (vi) Electric Motorcycle"
-      },
-      {
-       "n": "177-926",
-       "text": "New serial numbers 157 to 162 inserted by Finance Act, 2021."
-      },
-      {
-       "n": "177-928",
-       "text": "Serial number 158 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "177-929",
-       "text": "Serial numbers 159 & 160 omitted by Finance Act, 2023"
-      },
-      {
-       "n": "177-910",
-       "text": "[160. ***] omitted"
-      },
-      {
-       "n": "177-161",
-       "text": "Import of plant, machinery, Respective headings equipment and raw materials for consumption of these items within Special Technology Zone by the Special Technology Zone Authority, zone developers and zone enterprises"
-      },
-      {
-       "n": "177-162",
-       "text": "Import of raw materials, components, Respective headings] parts and plant and machinery by registered persons authorized under Export Facilitation Scheme, 2021 notified by the Board with such conditions, limitations and restrictions."
-      },
-      {
-       "n": "177-930",
-       "text": "New serial number(s) 163 to 174 added by Finance Act, 2022."
-      },
-      {
-       "n": "177-927",
-       "text": "the expression “2027” substituted through Finance Act, 2026 available with effect from the 15th day of January, 2022."
-      },
-      {
-       "n": "178-931",
-       "text": "Serial number 164 omitted through Finance Act, 2025."
-      },
-      {
-       "n": "178-165",
-       "text": "Goods imported by or donated to 99.13 and 99.14, hospitals run by the non-profit making institutions subject to the similar restrictions, limitations, conditions and procedures as are envisaged for the purpose of applying zero-rate of customs duty on such goods under the Customs Act, 1969, (IV of 1969)."
-      },
-      {
-       "n": "178-166",
-       "text": "Goods excluding electricity and Respective headings natural gas supplied to hospitals run by the charitable hospitals of fifty beds or more."
-      },
-      {
-       "n": "178-167",
-       "text": "Goods temporarily imported into 99.19, 99.20 and 99.21 Pakistan, meant for subsequent exportation charged to zero-rate of customs duty subject to the similar restrictions, limitations, conditions and procedures as are envisaged for the purpose of applying zero-rate of customs duty on such goods under the Customs Act, 1969 (IV of 1969)."
-      },
-      {
-       "n": "178-168",
-       "text": "Fertilizers 932[excluding DAP] Respective headings"
-      },
-      {
-       "n": "178-933",
-       "text": "Serial numbers 169, 170 and 174 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "178-170",
-       "text": "***] omitted"
-      },
-      {
-       "n": "178-171",
-       "text": "Seeds for sowing Respective heading"
-      },
-      {
-       "n": "178-172",
-       "text": "Machinery, equipment and materials Respective headings imported either for exclusive use within the limits of Export Processing Zone or for making exports therefrom, and goods imported for warehousing purpose in Export Processing Zone, subject to the conditions that such machinery, equipment, materials and goods are imported by investors of Export Processing Zones, and all the procedures, limitations and restrictions as are applicable on such goods under the Customs Act, 1969 (IV of 1969) and rules made thereunder shall mutatis mutandis, apply."
-      },
-      {
-       "n": "178-173",
-       "text": "Goods produced or manufactured in Respective headings and exported from Pakistan which are"
-      },
-      {
-       "n": "178-932",
-       "text": "Words added by Finance Act, 2023 subsequently imported in Pakistan within one year of their exportation, provided conditions of section 22 of the Customs Act, 1969 (IV of 1969), are complied with."
-      },
-      {
-       "n": "179-174",
-       "text": "***]"
-      },
-      {
-       "n": "179-934",
-       "text": "Serial number(s) 175 to 180 inserted by Finance Act, 2024."
-      },
-      {
-       "n": "179-176",
-       "text": "POL products: (i) MS (Petrol) 2710.1210, (ii) High Speed Diesel Oil 2710.1931, (iii) Kerosene 2710.1911 and (iv) Light Diesel Oil 2710.1921"
-      },
-      {
-       "n": "179-177",
-       "text": "Supply of electricity to Azad Jammu Respective headings and Kashmir"
-      },
-      {
-       "n": "179-178",
-       "text": "Import of gold under entrustment Respective heading scheme under SRO 760(I)/2013"
-      },
-      {
-       "n": "179-179",
-       "text": "Import of cystagon, cysta drops and 3004.9099 trientine capsules 935[omitted]"
-      },
-      {
-       "n": "179-180",
-       "text": "Bovine semen 0511.1000.]"
-      },
-      {
-       "n": "179-936",
-       "text": "Substituted through Finance Act, 2026"
-      },
-      {
-       "n": "179-935",
-       "text": "the expression “(for personal use only)” omitted through Finance Act, 2025. Provincial Government for threat of terrorism against a public functionary as determined by the Ministry of Interior and"
-      },
-      {
-       "n": "180-937",
-       "text": "Serial number 181A inserted through Finance Act, 2026."
-      },
-      {
-       "n": "180-938",
-       "text": "Serial number(s) 182 to 185 added through Finance Act, 2026. Narcotics Control, subject to the approval by the Federal Government."
-      },
-      {
-       "n": "182-939",
-       "text": "Annexure-I inserted through Finance Act, 2016."
-      },
-      {
-       "n": "183-940",
-       "text": "New Annexures A, B, C & D inserted by Finance Act, 2018."
-      },
-      {
-       "n": "188-941",
-       "text": "Serial number(s) 1, 2 and 4 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "188-942",
-       "text": "S. No. 3 substituted by the Finance Act, 2007"
-      },
-      {
-       "n": "188-944",
-       "text": "S. No. 5 omitted by the Finance Act, 2011"
-      },
-      {
-       "n": "188-6",
-       "text": "Supply of fixed assets against Respective headings. which input tax adjustment is not available under a notification issued in terms of clause (b) of sub-section (1) of section 8 of the Sales Tax Act, 1990."
-      },
-      {
-       "n": "188-945",
-       "text": "Serial number 7 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "188-08",
-       "text": "Foodstuff cooked or prepared in-Respective headings. house and served in messes run on the basis of mutuality and industrial canteens for workers. [9. ***] omitted"
-      },
-      {
-       "n": "188-10",
-       "text": "Agricultural produce of Pakistan, Respective headings. not subjected to any further process of manufacture."
-      },
-      {
-       "n": "188-946",
-       "text": "S. No. 11 omitted by the Finance Act, 2022."
-      },
-      {
-       "n": "188-947",
-       "text": "S. No. 12 omitted by the Finance Act, 2013"
-      },
-      {
-       "n": "188-948",
-       "text": "S. Nos. 13 to 16 added by the Finance Act, 2014"
-      },
-      {
-       "n": "188-2",
-       "text": "[14. ***]"
-      },
-      {
-       "n": "188-950",
-       "text": "Serial number(s) 9, 15 and 16 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "188-951",
-       "text": "S. Nos. 17 to 20 and 24, 25 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "188-18",
-       "text": "***]"
-      },
-      {
-       "n": "188-19",
-       "text": "***]"
-      },
-      {
-       "n": "188-943",
-       "text": "Substituted by the Finance Act, 2014"
-      },
-      {
-       "n": "188-949",
-       "text": "S. No. 13 & 14 omitted by the Finance Act, 2015"
-      },
-      {
-       "n": "189-20",
-       "text": "***]"
-      },
-      {
-       "n": "189-952",
-       "text": "Serial number 21 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "189-953",
-       "text": "Serial number(s) 22, 23 and 33 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "189-954",
-       "text": "New serial numbers 26 to 39 inserted by Finance Act, 2021."
-      },
-      {
-       "n": "189-27",
-       "text": "Wheat Bran 955[This exemption shall 2302.3000 apply from the 1st day of July, 2018]"
-      },
-      {
-       "n": "189-28",
-       "text": "Sugar beet 1212.9100"
-      },
-      {
-       "n": "189-29",
-       "text": "Fruit juices, whether fresh, frozen or 2009.1100, 2009.1200, otherwise preserved but excluding 2009.1900, 2009.2100, those bottled, canned or packaged. 2009.2900, 2009.3100, 2009.3900, 2009.4100, 2009.4900, 2009.5000, 2009.6100, 2009.6900, 2009.7100, 2009.7900, and 2009.9000"
-      },
-      {
-       "n": "189-30",
-       "text": "Milk and cream, concentrated or 04.02 containing added sugar or other sweetening matter, excluding that sold in retail packing under a brand name"
-      },
-      {
-       "n": "189-31",
-       "text": "Flavored milk, excluding that sold in 0402.9900 retail packing under a brand name"
-      },
-      {
-       "n": "189-32",
-       "text": "Yogurt, excluding that sold 956[***] 957[Respective heading] under a brand name [33. ***] omitted"
-      },
-      {
-       "n": "189-34",
-       "text": "Butter, excluding that sold 932[***] 0405.1000 under a brand name"
-      },
-      {
-       "n": "189-35",
-       "text": "Desi ghee, excluding that sold 0405.9000"
-      },
-      {
-       "n": "189-932",
-       "text": "[***] under a brand name"
-      },
-      {
-       "n": "189-36",
-       "text": "Cheese, excluding that sold 932[***] 0406.1010 under a brand name"
-      },
-      {
-       "n": "189-37",
-       "text": "Processed cheese not grated or 0406.3000 powdered, excluding that sold"
-      },
-      {
-       "n": "189-955",
-       "text": "Expression added by Finance Act, 2023"
-      },
-      {
-       "n": "189-956",
-       "text": "Under serial number(s) 32 and 34 to 37 words omitted by Finance Act, 2023"
-      },
-      {
-       "n": "189-957",
-       "text": "Words substituted by Finance Act, 2022. [38. ***] omitted958"
-      },
-      {
-       "n": "190-39",
-       "text": "Products of meat or meat offal 1602.3200, 1602.3900, excluding sold 959[***] under a 1602.5000, 1604.1100, brand name or trademark 1604.1200, 1604.1300, 1604.1400, 1604.1500, 1604.1600, 1604.1900, 1604.2010, 1604.2020 and 1604.2090]"
-      },
-      {
-       "n": "190-960",
-       "text": "Serial number(s) 40 to 51 inserted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "190-961",
-       "text": "Serial number 45 substituted by Finance Act, 2022."
-      },
-      {
-       "n": "190-51",
-       "text": "Newspaper Respective headings"
-      },
-      {
-       "n": "190-962",
-       "text": "New serial number(s) 52 to 54 added by Finance Act, 2022."
-      },
-      {
-       "n": "190-53",
-       "text": "Prepared food or foodstuff supplied Respective heading by Restaurants and caterers"
-      },
-      {
-       "n": "190-54",
-       "text": "All types of breads, nans and Respective headings.] chapattis"
-      },
-      {
-       "n": "190-958",
-       "text": "Serial number 38 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "190-959",
-       "text": "Under serial number(s) 39, 41 and 42 words omitted by Finance Act, 2023"
-      },
-      {
-       "n": "191-963",
-       "text": "New serial number 55 added by Tax Laws (Second Amendment) Ordinance, 2022."
-      },
-      {
-       "n": "191-964",
-       "text": "New serial number(s) 56 and 57 added by Finance Act, 2024."
-      },
-      {
-       "n": "191-965",
-       "text": "against S. No. 57, in column (2), substituted through Finance Act, 2025."
-      },
-      {
-       "n": "192-966",
-       "text": "Inserted by Finance Act, 2014"
-      },
-      {
-       "n": "192-967",
-       "text": "The figure and words inserted through Finance Act, 2017 S. No Description PCT heading Conditions (1) (2) (3) (4)"
-      },
-      {
-       "n": "193-969",
-       "text": "Serial number(s) 1 to 9 and 11 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "193-3",
-       "text": "***] omitted"
-      },
-      {
-       "n": "193-4",
-       "text": "***] omitted"
-      },
-      {
-       "n": "193-5",
-       "text": "***] omitted"
-      },
-      {
-       "n": "193-6",
-       "text": "***] omitted"
-      },
-      {
-       "n": "193-7",
-       "text": "***] omitted"
-      },
-      {
-       "n": "193-8",
-       "text": "***] omitted"
-      },
-      {
-       "n": "193-9",
-       "text": "***] omitted"
-      },
-      {
-       "n": "193-968",
-       "text": "Inserted by Finance Act, 2014. S. No Description PCT heading Conditions (1) (2) (3) (4)"
-      },
-      {
-       "n": "194-970",
-       "text": "Serial number 10 omitted by Finance Act, 2015."
-      },
-      {
-       "n": "194-11",
-       "text": "***] omitted]"
-      },
-      {
-       "n": "194-12",
-       "text": "Machinery, equipment and Respective 1. The Division dealing other project related items Headings with the subject matter of including capital goods, for Industries shall certify in setting up of hotels, power the prescribed manner and generation plants, water format as per Annex-B treatment plants and other that the imported goods infrastructure related projects are bonafide project located in an area of 30 km requirement. The around the zero point in authorized officer of the Ministry shall furnish all Gwadar. relevant information online to Pakistan Customs Computerized System against a specific user ID and password obtained under section 155D of the Customs Act, 1969."
-      },
-      {
-       "n": "194-2",
-       "text": "The goods shall not be sold or otherwise disposed of without prior approval of the FBR and payment of customs duties and taxes leviable at the time of import."
-      },
-      {
-       "n": "194-971",
-       "text": "Serial number(s) 13 to 15B and 17 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "194-14",
-       "text": "***] omitted 14A ***] omitted [15& ***] omitted 15A 15B. ***] omitted"
-      },
-      {
-       "n": "194-972",
-       "text": "S.No. 16 and entries relating thereto omitted by Finance Act, 2015"
-      },
-      {
-       "n": "194-18",
-       "text": "The following parts for If imported by assembling and manufacturers and manufacturing of personal assemblers of computers computers and laptops: and laptops, registered (i) Bare PCBs 8534.0000 with and certified by (ii) Power Amplifier 8542.3300 Engineering (iii) Microprocessor/ 85.42 Development Board in Controllers accordance with quota (iv) Equipment for SMT 8486.2000 determined by IOCO Manufacturing (v) Laptop batteries 8506.5000 (vi) Adopters 8504.4020 (vii) Cooling fans 8414.5190 (viii) Heat sink 7616.9920 (ix) Hard Disk SSD 8471.7020 (x) RAM/ROMS 8471.7060 and 8471.7090 (xi) System on Chip/FPGA-85.42 IC (xii) LCD / LED Screen 8528.7211 (xiii) Motherboards 8534.0000 (xiv) power supply 84.73 (xv) Optical Drives 8471.7040 (xvi) External Ports 8536.2090 (xvii) Network cards 8517.6990 (xviii) Graphic cards 8471.5000 (xix) wireless cards 8517.6970 (xx) micro phone 8518.3000 (xxi) Trackpad 8471.6020"
-      },
-      {
-       "n": "195-19",
-       "text": "Plant and machinery, except 9917(2) Nil] the items listed under Chapter 87 of the Pakistan Customs Tariff, imported for setting up of a Special Economic Zone (SEZ) by zone developers and for installation in that zone by zone enterprises, on one time basis as prescribed in the SEZ Act, 2012 and rules thereunder subject to such condition, limitations and restriction as a Federal Board of Revenue may impose from time to time."
-      },
-      {
-       "n": "195-973",
-       "text": "New serial number 20 inserted by Finance Act, 2020. plant and machinery, duly approved/ certified and determined by the Engineering Development Board (EDB).]"
-      },
-      {
-       "n": "196-974",
-       "text": "Serial number 21omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "196-975",
-       "text": "New serial number 22 inserted by Finance Act, 2022."
-      },
-      {
-       "n": "196-2",
-       "text": "Construction A that the imported goods machinery, equipment and are the projects bona fide specialized vehicles, requirement; and excluding passenger (c) the goods shall not be vehicles, imported on sold or otherwise temporary basis as required disposed of without prior for the construction of approval of the FBR on project. payment of sales tax leviable at the time of import; (ii) temporarily imported goods shall be cleared against a security in the form of a post- dated cheque for the differential amount between the statutory rate of sales tax and the amount payable along with an undertaking to pay the sales tax at the statutory rates in case such goods are not re- exported on conclusion of the project.]"
-      },
-      {
-       "n": "197-976",
-       "text": "New serial numbers 23 and 24 added through Finance Act, 2026."
-      },
-      {
-       "n": "197-1",
-       "text": "Reactors, 8419.8990,"
-      },
-      {
-       "n": "197-2",
-       "text": "Shell and Tube 8419.5000, Exchangers,"
-      },
-      {
-       "n": "197-3",
-       "text": "Vessels (Strippers/ 8419.8990, Separators/ K.O. Drums),"
-      },
-      {
-       "n": "197-4",
-       "text": "Trim Coolers, 8418.6990,"
-      },
-      {
-       "n": "197-5",
-       "text": "Air Coolers (Condensers), 8419.8990,"
-      },
-      {
-       "n": "197-6",
-       "text": "Fired Heaters, 8417. 8000"
-      },
-      {
-       "n": "197-7",
-       "text": "Centrifugal Pumps, 8413.7090"
-      },
-      {
-       "n": "197-8",
-       "text": "Reciprocating Pumps, 8413.5000"
-      },
-      {
-       "n": "197-9",
-       "text": "Centrifugal Compressors, 8414.8090"
-      },
-      {
-       "n": "197-10",
-       "text": "Reciprocating 8414.8090 Compressors,"
-      },
-      {
-       "n": "197-11",
-       "text": "Steam Reformer 8417.8000, Furnaces, 12 Filters, 8421.3990 Provided that all such imports shall be essentially made for expansion of balancing, modernization, and rehabilitation of existing refineries and the quantity imported by each refinery shall be approved by the Ministry of Petroleum and Natural Resources. 24 Import of machinery, Respective The Division dealing equipment, raw materials, headings as with the subject matter components and other capital approved by shall certify in the goods, by Karachi Shipyard the concerned prescribed manner and and Engineering Works Division. format as per Annex-B Limited that the imported goods are bona fide requirements. The authorized officer of the Ministry shall furnish all relevant information online to Pakistan Customs Computerized System against a specific user ID and password"
-      },
-      {
-       "n": "198-977",
-       "text": "Annex-A substituted by Finance Act, 2022."
-      },
-      {
-       "n": "199-978",
-       "text": "Inserted by the Finance Act, 2014"
-      },
-      {
-       "n": "199-979",
-       "text": "Table-4 added by Finance Act, 2021. (1) (2) (3) 1 Seed (Potatoes) 0701.1000 2 Tomatoes, fresh or chilled 0702.0000 3 Onions and shallots 0703.1000 4 Garlic 0703.2000 5 Cauliflowers cabbage 0704.9000 6 Carrots and turnips 0706.1000 7 Cucumbers and gherkins fresh or chilled 0707.0000 8 Peas (pisum sativum) 0708.1000 9 Beans (vigna spp., phaseolus spp.) 0708.2000 10 other leguminous vegetables 0708.9000 11 Peas (Pisum sativum) 0713.1000 12 Grams (Dry/Whole) 0713.2010 13 Dried leguminous vegetables 0713.2090, 0713.9090 14 Beans of the species Vigna mungo (L.) 0713.3100 Hepper or Vigna radiata (L.) Wilczek 15 Small red (Adzuki) beans (Phaseolus or 0713.3200 Vigna angularis) 16 Kidney beans including white beans 0713.3300 17 Bambara – vigna subteranea or vaahdzeia 0713.3400 subterrea 18 Beans vigna unguiculata 0713.3500 19 Other 0713.3990 20 Lentils (Dry/Whole) 0713.4010 21 Broad beans (Vicia faba var. major) and 0713.5000 horse beans (Vicia faba var. equina, Vicia faba var. minor) 22 Pigeon peas (cajanus cajan) 0713.6000 23 Vanilla (Neither crushed nor ground) 0905.1000 24 Cinnamon 0906.1100 25 Other (Cinnamon And Cinnamon Tree 0906.1900 Flowers) 26 Neither crushed nor ground (Cloves) 0907.1000 27 Crushed or ground (Cloves) 0907.2000 28 Neither Crushed nor ground (Nutmeg) 0908.1100 29 Crushed or ground (Nutmeg) 0908.1200 30 Neither crushed nor ground (Maze) 0908.2100 31 Crushed or ground (Maze) 0908.2200 32 Large (Cardammoms) 0908.3110 33 Small (Cardammoms) 0908.3120 34 Crushed or ground (Cardammoms) 0908.3200 35 Neither crushed nor ground (Coriander) 0909.2100 36 Crushed or ground (Coriander) 0909.2200 37 Neither crushed nor ground (Seeds of 0909.3100 Cumins) 38 Crushed or ground (Seeds of Cumins) 0909.3200 39 Neither crushed nor ground (Seeds of Anise, 0909.6100 Badian, Caraway, Fennel etc) 40 Crushed or ground (Seeds of Anise, Badian, 0909.6200 Caraway, Fennel etc) 41 Thyme; bay leaves 0910.9910 42 Barley (Seeds) 1003.1000, 1003.9000 43 Sunflower seeds ,whether or not broken 1206.0000 44 Locust beans 1212.9200 45 Cereal straws and husks 1213.0000 46 Knives and cutting blades for paper and 8208.9010 paper board 47 Of a fat content, by weight, not exceeding 1 0401.1000 % (milk and cream) 48 Of a fat content, by weight, exceeding 1 % 0401.2000 but not exceeding 6 % (milk and cream) 49 Of a fat content, by weight, exceeding 6 % 0401.4000 but not exceeding 10% (Milk and Cream) 50 Of a fat content, by weight, exceeding 10 % 0401.5000 (Milk and Cream) 51 Leeks and other alliaceous vegetables 0703.9000 52 Cauliflowers and headed broccoli 0704.1000 53 Brussels sprouts 0704.2000 54 Cabbage lettuce (head lettuce) 0705.1100 55 Lettuce 0705.1900 56 Chicory 0705.2100, 0705.2900 57 Fruits of the genus Capsicum or of the genus 0709.6000 Pimenta 58 Figs 0804.2000 59 Fresh (grapes) 0806.1000 60 Dried (Grapes) 0806.2000 61 Melons 0807.1100, 0807.1900 62 Apples 0808.1000 63 Green Tea 0902.1000 64 Other Green Tea 0902.2000 65 Crushed or ground (Ginger) 0910.1200 66 Turmeric (curcuma) 0910.3000 67 Other (spice) 0910.9990 68 Lactose (Sugar ) 1702.1110 69 Sugar Syrup 1702.1120 70 Sugar Other 1702.1900 71 Caramel 1702.9020 72 Oil-cake and other solid residues, whether or 2304.0000 not ground or in the form of pellets, resulting from the extraction of soya bean oil. 73 Other (animal feed) 2309.9000 74 For Sewing (Thread) 5204.2010 75 For embroidery (Thread) 5204.2020 76 Spades and shovels 8201.1000 77 Tools for masons, watchmakers, miners and 8205.5900 hand tools nes 78 For kitchen appliances or for machines used 8208.3000 by the food industry 79 Other kitchen appliances 8208.9090 80 Yogurt 980[0403.2000] 81 Other (Potatoes) 0701.9000 82 Sweet corn 0710.4000 83 Mixtures of vegetables 0710.9000 84 Fresh (Dates) 0804.1010 85 Dried (Dates) 0804.1020 86 Apricots 0809.1000 87 Sour cherries (Prunus cerasus) 0809.2100 88 Other (Apricots) 0809.2900 89 Peaches, including nectarines 0809.3000 90 Plums and sloes 0809.4000 91 Strawberries 0810.1000 92 Kiwi Fruit 0810.5000 93 Neither crushed nor ground (Ginger) 0910.1100 94 Wheat and Meslin(Other) 1001.1900 95 Wheat and Meslin (Other ) 1001.9900"
-      },
-      {
-       "n": "203-980",
-       "text": "Expression substituted by Finance Act, 2022. 96 Of Wheat (Flour) 1101.0010 97 Of Meslin 1101.0020 98 Vermacelli 1902.1920 99 Other (Packed Cake) 1905.9000 100 Homogenised perparations 2007.1000 101 Citrus Fruit 2007.9100 102 Other (jams) 2007.9900 103 Organic surface-active products and 3401.3000 preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap 104 Preparations put up for retail sale 3402.2000 105 Other (washing preparations) 3402.2000 106 Tableware and kitchenware of porcelain or 6911.1090 china 107 Household articles nes & toilet articles of 6911.9000 porcelain or china 108 Glassware for table or kitchen purposes 7013.4900 (excl. glass having a linear c 109 Glassware nes (other than that of 70.10 or 7013.9900 70.18) 110 Spoons 8215.9910 111 Tableware articles not in sets and not plated 8215.9990 with precious metal 112 Bicycles and other cycles (including 8712.0000 delivery tricycles), not motorised 113 Vacuum flasks 9617.0010 114 Vacuum flasks/vacuum vessels complete 9617.0020.] w/cases; parts o/t glass inners (others) S. No. Description Heading Nos. Rate of Condition of the First Sales Tax Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) (4) (5)"
-      },
-      {
-       "n": "205-983",
-       "text": "Serial numbers 1 and 5 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "205-984",
-       "text": "Serial number 2 omitted by Finance Act, 2020."
-      },
-      {
-       "n": "205-985",
-       "text": "S. No. 3 and entries relating thereto omitted by Finance Act, 2015"
-      },
-      {
-       "n": "205-986",
-       "text": "Serial number(s) 4 and 6 to 12 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "205-6",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-7",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-8",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-9",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-10",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-11",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-12",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-987",
-       "text": "Serial number(s) 13 to 17, 20, 26 to 30 and 34 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "205-15",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-16",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-17",
-       "text": "***] omitted"
-      },
-      {
-       "n": "205-981",
-       "text": "The seventh schedule omitted by the Finance Act, 1997"
-      },
-      {
-       "n": "205-982",
-       "text": "The eighth schedule inserted by the Finance Act, 2014 S. No. Description Heading Nos. Rate of Condition of the First Sales Tax Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) (4) (5)"
-      },
-      {
-       "n": "206-988",
-       "text": "Serial number 18 and entries relating thereto is omitted through Finance Act, 2019."
-      },
-      {
-       "n": "206-989",
-       "text": "Serial number 19 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "206-20",
-       "text": "***] omitted"
-      },
-      {
-       "n": "206-990",
-       "text": "Serial number 21 and entries relating thereto is omitted through Finance Act, 2019."
-      },
-      {
-       "n": "206-991",
-       "text": "Serial number 22 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "206-23",
-       "text": "Second hand and worn 6309.0000 5% clothing or footwear"
-      },
-      {
-       "n": "206-992",
-       "text": "Serial number 25 omitted by Finance Act, 2022."
-      },
-      {
-       "n": "206-26",
-       "text": "***] omitted 27 ***] omitted 28 ***] omitted 29 ***] omitted 30 ***] omitted"
-      },
-      {
-       "n": "206-993",
-       "text": "Serial number 31 omitted through Finance Act, 2016."
-      },
-      {
-       "n": "206-994",
-       "text": "Serial number 32 and entries relating thereto is omitted through Finance Act, 2019."
-      },
-      {
-       "n": "206-2",
-       "text": "[33. [..........]] omitted"
-      },
-      {
-       "n": "206-34",
-       "text": "***] omitted"
-      },
-      {
-       "n": "206-995",
-       "text": "S.No(s) 33 & 35 to 42 omitted by Finance Act, 2018."
-      },
-      {
-       "n": "206-43",
-       "text": "Natural gas Respective 996[5%] If supplied to fertilizer heading plants for use as feed stock in manufacturing of fertilizer"
-      },
-      {
-       "n": "206-44",
-       "text": "Phosphoric acid 2809.2010 5% If imported by fertilizer company for manufacturing of DAP"
-      },
-      {
-       "n": "206-997",
-       "text": "Serial number(s) 45 and 46 omitted by Finance (Supplementary) Act, 2022"
-      },
-      {
-       "n": "206-46",
-       "text": "***] omitted"
-      },
-      {
-       "n": "206-47",
-       "text": "Locally produced coal 27.01 Rs. Nil"
-      },
-      {
-       "n": "206-998",
-       "text": "Expression substituted by Finance Act, 2022."
-      },
-      {
-       "n": "206-996",
-       "text": "For the figure “10” the figure “5” substituted through Finance Act, 2018. S. No. Description Heading Nos. Rate of Condition of the First Sales Tax Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) (4) (5)"
-      },
-      {
-       "n": "207-999",
-       "text": "Expression substituted by Finance (Supplementary) Act, 2023."
-      },
-      {
-       "n": "207-1000",
-       "text": "S.No(s) 48 & 49 omitted by Finance Act, 2018."
-      },
-      {
-       "n": "207-1001",
-       "text": "S.No(s) 50 to 51 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "207-1002",
-       "text": "Serial number 52 omitted by Finance Act, 2022."
-      },
-      {
-       "n": "207-53",
-       "text": "*** 1003[Omitted] (i) Projector 9007.2000 (ii) Parts and 9007.9200 accessories for projector (iii) Other 9032.8990 instruments and apparatus for cinema (iv) Screen 9010.6000 (v) Cinematographic 9010.9000 parts and accessories (vi) 3D Glasses 9004.9000 (vii) Digital Loud 8518.2200 Speakers (viii) Digital Processor 8519.8190 (ix) Sub-woofer and 8518.2990 Surround Speakers (x) Amplifiers 8518.5000 (xi) Audio rack and 7326.9090 termination 8537.1090 board (xii) Music 8519.8990 Distribution System (xiii) Seats 9401.7100 (xiv) Recliners 9401.7900"
-      },
-      {
-       "n": "207-1003",
-       "text": "Serial number 53 omitted through Finance Act, 2025. S. No. Description Heading Nos. Rate of Condition of the First Sales Tax Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) (4) (5) (xv) Wall Panels and 7308.9090 metal profiles (xvi) Step Lights 1004[Respectiv e headings] (xvii)Illuminated Signs 9405.6000 (xviii) Dry Walls 6809.1100 (xix) Ready Gips 3214.9090"
-      },
-      {
-       "n": "208-1005",
-       "text": "Serial number(s) 54, 55, 59 and 61 to 64 omitted by Finance (Supplementary) Act, 2022"
-      },
-      {
-       "n": "208-55",
-       "text": "***] omitted"
-      },
-      {
-       "n": "208-56",
-       "text": "Potassium Chlorate Respective 1006[18%] Import and supply (KCLO3) headings alongwith thereof. Provided that rupees rate of rupees 1008[60]"
-      },
-      {
-       "n": "208-1007",
-       "text": "The figure substituted by Finance Act, 2022."
-      },
-      {
-       "n": "208-57",
-       "text": "Rock phosphate Respective 10% If imported by fertilizer headings manufacturers for use in the manufacturing of fertilizers."
-      },
-      {
-       "n": "208-1009",
-       "text": "S.No. 58 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "208-1010",
-       "text": "Serial number 60 “Fat filled Milk” omitted by Finance Act, 2022."
-      },
-      {
-       "n": "208-61",
-       "text": "***] omitted"
-      },
-      {
-       "n": "208-62",
-       "text": "***] omitted"
-      },
-      {
-       "n": "208-63",
-       "text": "***] omitted"
-      },
-      {
-       "n": "208-64",
-       "text": "***] omitted"
-      },
-      {
-       "n": "208-1011",
-       "text": "Serial numbers 65 and 67 omitted by Finance Act, 2021."
-      },
-      {
-       "n": "208-1012",
-       "text": "S.No. 58 omitted by Finance Act, 2024."
-      },
-      {
-       "n": "208-1013",
-       "text": "Serial number(s) 66A, 66B and 68, 69 omitted by Finance (Supplementary) Act, 2022"
-      },
-      {
-       "n": "208-67",
-       "text": "***]"
-      },
-      {
-       "n": "208-1004",
-       "text": "Words substituted by Finance Act, 2022."
-      },
-      {
-       "n": "208-1006",
-       "text": "Expression substituted by Finance (Supplementary) Act, 2023."
-      },
-      {
-       "n": "208-1008",
-       "text": "The figure substituted by Finance Act, 2022. S. No. Description Heading Nos. Rate of Condition of the First Sales Tax Schedule to the Customs Act, 1969 (IV of 1969) (1) (2) (3) (4) (5)"
-      },
-      {
-       "n": "209-68",
-       "text": "***] omitted"
-      },
-      {
-       "n": "209-69",
-       "text": "***] omitted"
-      },
-      {
-       "n": "209-1014",
-       "text": "Serial number 70 substituted by Finance (Supplementary) Act, 2022"
-      },
-      {
-       "n": "209-1015",
-       "text": "New serial numbers 71 to 74 inserted by Finance Act, 2021."
-      },
-      {
-       "n": "209-72",
-       "text": "*** 1017[Omitted]"
-      },
-      {
-       "n": "209-1018",
-       "text": "Serial number 73 substituted by Finance (Supplementary) Act, 2022"
-      },
-      {
-       "n": "209-1019",
-       "text": "Expression inserted by Finance Act, 2024."
-      },
-      {
-       "n": "209-1016",
-       "text": "the words “30th June, 2027” substituted through Finance Act, 2026"
-      },
-      {
-       "n": "209-1017",
-       "text": "Serial number 72 omitted through Finance Act, 2025. (b) From 1801 cc to 87.03 8.5%. 2500 cc 87.03 12.75%"
-      },
-      {
-       "n": "210-74",
-       "text": "Goods supplied from Respective 16%.] tax-exempt areas of headings erstwhile FATA/PATA to the taxable areas"
-      },
-      {
-       "n": "210-1020",
-       "text": "Serial number 75 omitted by Finance Act, 2022."
-      },
-      {
-       "n": "210-1021",
-       "text": "Serial number 76 omitted by Finance (Supplementary) Act, 2022"
-      },
-      {
-       "n": "210-1022",
-       "text": "Serial number 77 substituted by Finance Act, 2024."
-      },
-      {
-       "n": "210-1023",
-       "text": "New serial number(s) 78 to 82 added by Finance Act, 2022"
-      },
-      {
-       "n": "210-79",
-       "text": "Electric vehicle in CBU 8703.8090 12.5% condition of 50 kwh battery or below"
-      },
-      {
-       "n": "210-1024",
-       "text": "Serial number 80 substituted through Finance Act, 2026."
-      },
-      {
-       "n": "210-1025",
-       "text": "Serial numbers 81 & 82 substituted by Finance Act, 2023"
-      },
-      {
-       "n": "210-82",
-       "text": "Raw materials for the Respective 1% Subject to the basic manufacture of heading conditions that: (i) pharmaceutical active DRAP shall certify ingredients and for item-wise requirement manufacture of of manufacturers of pharmaceutical drugs and APIs and in products, provided that case of import shall"
-      },
-      {
-       "n": "210-1026",
-       "text": "Expression omitted by Finance Act, 2024. in case of import, only furnish all relevant such raw materials shall information to Pakistan be entitled to reduced Customs rate as specified in Computerized System; column (4) which are and (ii) No input tax liable to customs duty shall be adjusted in the not exceeding eleven supply chain.] per cent ad valorem, either under the First Schedule or Fifth Schedule to the Customs Act, 1969 (IV of 1969) or under a notification issued under section 19 thereof."
-      },
-      {
-       "n": "211-1027",
-       "text": "New serial number added by Finance Act, 2023"
-      },
-      {
-       "n": "211-1028",
-       "text": "Serial number(s) 84 to 88 inserted by Finance Act, 2024."
-      },
-      {
-       "n": "211-85",
-       "text": "Oil cake and other solid 2306.1000 10% residue"
-      },
-      {
-       "n": "211-86",
-       "text": "Tractors 8701.9220 and 10% 8701.9320"
-      },
-      {
-       "n": "211-87",
-       "text": "Local supply of Respective 10% vermicillies, sheer mal, headings bun and rusk excluding those sold in bakeries, and sweet shops falling in the category of Tier- 1 retailers."
-      },
-      {
-       "n": "212-88",
-       "text": "Local supply of poultry 2306.3000, 10% feed, cattle feed, 2306.4900 and sunflower seed meal, respective rape seed meal and headings canola seed meal"
-      },
-      {
-       "n": "212-1029",
-       "text": "new serial number 89 and 90 entries relating thereto added through Finance Act, 2025"
-      },
-      {
-       "n": "212-90",
-       "text": "Photovoltaic cells 8541.4200 and 10%.”; whether or not 8541.4300 and"
-      },
-      {
-       "n": "213-1030",
-       "text": "Table -2 omitted by Finance (Supplementary) Act, 2022."
-      },
-      {
-       "n": "215-1031",
-       "text": "The Ninth Schedule added by the Finance Act, 2015"
-      },
-      {
-       "n": "215-1032",
-       "text": "Table-I, Table-II and conditions substituted by Finance Act, 2020."
-      },
-      {
-       "n": "215-1033",
-       "text": "Proviso and Explanation to Table-1 inserted by Finance Act, 2021."
-      },
-      {
-       "n": "216-1034",
-       "text": "Table-II substituted by Finance Act, 2024."
-      },
-      {
-       "n": "216-1035",
-       "text": "Clauses (iii), (iv) and (v) under Table-II omitted by Finance Act, 2024."
-      },
-      {
-       "n": "216-1036",
-       "text": "new sub-clause (vi) added through Finance Act, 2026."
-      },
-      {
-       "n": "218-1",
-       "text": "Lahore, Rawalpindi and Islamabad districts Rs. 12,500"
-      },
-      {
-       "n": "218-2",
-       "text": "Attock, Chakwal, Jehlum, Mandi Bahauddin, Rs. 10,000 Sargodha, Gujrat, Sialkot, Narowal, Gujranwala, Hafizabad, Sheikhupura, Kasur, Nankana Sahib, Chiniot, Faisalabad, Jhang, Toba Tek Singh, Okara and Sahiwal districts"
-      },
-      {
-       "n": "218-3",
-       "text": "Khushab, Mianwali, Bhakar, Layyah, Rs. 7,500 Muzaffarghar, Dera Ghazi Khan, Rajanpur, Multan, Lodhran, Khanewal, Vehari, Bahawalpur, Pakpattan, Bahawalnagar, Rahim Yar Khan districts; and Sindh, Khyber- Pakhtunkhwa and Baluchistan provinces"
-      },
-      {
-       "n": "218-1037",
-       "text": "The new Tenth Schedule, the Eleventh Schedule and the Twelfth Schedule added through Finance Act, 2019."
-      },
-      {
-       "n": "218-1038",
-       "text": "Existing paragraph renumbered as paragraph (1) by Finance Act, 2020."
-      },
-      {
-       "n": "218-1039",
-       "text": "PCT heading “6901.1000” substituted through Tax Laws (Amendment) Act, 2020, dated 30-3-2020"
-      },
-      {
-       "n": "218-1040",
-       "text": "Expression “on monthly return,” Omitted through Tax Laws (Amendment) Act, 2020, dated 30-3-2020"
-      },
-      {
-       "n": "219-1041",
-       "text": "New paragraph (2) and its Table along with Note inserted by Finance Act, 2020. The rates for withholding or deduction by the withholding agents 1044[are specified as below provided that withholding of tax under this Schedule shall not be applicable to the goods and supplies specified vide clauses 1045[***] after the Table] S. Withholding agent Supplier Rate or extent of No. category deduction (1) (2) (3) (4)"
-      },
-      {
-       "n": "220-1",
-       "text": "(a) Federal and provincial 1046[Active 1/5th of Sales Tax as shown government departments; Taxpayers] on invoice autonomous bodies; and public sector organizations (b) Companies as defined in the Income Tax Ordinance, 2001 (XLIX of 2001)"
-      },
-      {
-       "n": "220-2",
-       "text": "(a) Federal and provincial 2[Active 1/10th of Sales Tax as government departments; Taxpayer] shown on invoice autonomous bodies; and registered as a public sector organizations wholesaler, dealer or (b) Companies as defined in distributor the Income Tax Ordinance, 2001 (XLIX of 2001)"
-      },
-      {
-       "n": "220-3",
-       "text": "Federal and provincial 2[persons other Whole of the tax involved government departments; than Active or as applicable to supplies autonomous bodies; and Taxpayers] on the basis of gross value public sector organizations of supplies"
-      },
-      {
-       "n": "220-4",
-       "text": "Companies 1047[, 2[persons other 5% of gross value of association of persons and than Active supplies individuals] as defined in Taxpayers] the Income Tax Ordinance, 2001 (XLIX of 2001)"
-      },
-      {
-       "n": "220-1048",
-       "text": "Words added by Finance Act, 2022."
-      },
-      {
-       "n": "220-5",
-       "text": "Registered persons as Person Whole of sales tax recipient of advertisement providing applicable services"
-      },
-      {
-       "n": "220-1042",
-       "text": "Eleventh Schedule inserted by Finance Act, 2019."
-      },
-      {
-       "n": "220-1043",
-       "text": "the expression “(7)”, the expression “and (7A)” inserted through Finance Act, 2025."
-      },
-      {
-       "n": "220-1044",
-       "text": "The expression substituted by Finance Act, 2020."
-      },
-      {
-       "n": "220-1045",
-       "text": "Expression omitted by Finance Act, 2022."
-      },
-      {
-       "n": "220-1046",
-       "text": "Words substituted by Finance Act, 2020."
-      },
-      {
-       "n": "220-1047",
-       "text": "The expression added through Finance Act, 2026. S. Withholding agent Supplier Rate or extent of No. category deduction (1) (2) (3) (4) advertisement services"
-      },
-      {
-       "n": "221-6",
-       "text": "Registered persons 2[persons other Whole of sales tax purchasing cane molasses. than Active applicable. Taxpayers]"
-      },
-      {
-       "n": "221-1049",
-       "text": "New serial numbers 7 and 8 inserted by Finance Act, 2021."
-      },
-      {
-       "n": "221-1050",
-       "text": "Words added by Finance Act, 2022."
-      },
-      {
-       "n": "221-1052",
-       "text": "Serial number (8), and entries relating thereto substituted through Finance Act, 2025."
-      },
-      {
-       "n": "221-1051",
-       "text": "Expression substituted by Finance Act, 2024."
-      },
-      {
-       "n": "222-1053",
-       "text": "New serial number(s) 9 to 13 inserted by Finance Act, 2024."
-      },
-      {
-       "n": "222-10",
-       "text": "Registered persons Persons 80% of the sales tax supplying any applicable kind of coal under chapter 27 (PCT headings 2701.1100, 2701.1200, 2701.1900, 2701.2000, 2704.0010, 2704.0020, 2704.0090)"
-      },
-      {
-       "n": "222-11",
-       "text": "Registered persons Persons 80% of the sales tax supplying any applicable kind of waste of paper and paper board (Respective headings)"
-      },
-      {
-       "n": "222-12",
-       "text": "Registered persons Persons 80% of the sales tax supplying any applicable kind of plastic waste (Respective headings)"
-      },
-      {
-       "n": "223-1054",
-       "text": "New serial number14 added through Finance Act, 2026."
-      },
-      {
-       "n": "223-1055",
-       "text": "Clause (viii) substituted by Finance Act, 2024."
-      },
-      {
-       "n": "224-1056",
-       "text": "New clause (ix) inserted by Finance Act, 2020."
-      },
-      {
-       "n": "225-1057",
-       "text": "Twelfth Schedule inserted by Finance Act, 2019."
-      },
-      {
-       "n": "225-1058",
-       "text": "Clause (i) substituted by Finance Act, 2020."
-      },
-      {
-       "n": "225-1059",
-       "text": "Expression added by Finance Act, 2022."
-      },
-      {
-       "n": "225-1060",
-       "text": "The proviso added through Finance Act, 2026."
-      },
-      {
-       "n": "226-1061",
-       "text": "Expression inserted by Finance Act, 2024."
-      },
-      {
-       "n": "226-1062",
-       "text": "The word “and” omitted through Tax Laws (Amendment) Act, 2020, dated 30-3-2020"
-      },
-      {
-       "n": "226-1063",
-       "text": "Clause (ix) inserted vide SRO 1321(I)/2019 dated 08th November, 2019."
-      },
-      {
-       "n": "226-1064",
-       "text": "The word “and” inserted by Tax Laws (Amendment) Act, 2020, dated 30-3-2020."
-      },
-      {
-       "n": "226-1065",
-       "text": "Clause “(x)” inserted by Tax Laws (Amendment) Act, 2020, dated 30-3-2020"
-      },
-      {
-       "n": "226-1066",
-       "text": "New clauses inserted by Finance Act, 2021. S. Product Production criteria No. (1) (2) (3)"
-      },
-      {
-       "n": "227-1",
-       "text": "Steel billets and ingots One metric ton per 700 kwh of electricity consumed"
-      },
-      {
-       "n": "227-1067",
-       "text": "Clause (4) substituted through Tax Laws (Amendment) Act, 2020, dated 30-3-2020 the substituted clause read as under: “(4) In no case, the refund of excess input tax over output tax, which is attributable to tax paid at import stage, shall be refunded to a registered person.”"
-      },
-      {
-       "n": "227-1068",
-       "text": "New sub-section 6 added through Finance Act, 2026."
-      },
-      {
-       "n": "227-1069",
-       "text": "New Thirteenth Schedule inserted by Finance Act, 2021. PCPPI—4310(19) FBR—19-09-2019—2000."
       }
      ]
     }
