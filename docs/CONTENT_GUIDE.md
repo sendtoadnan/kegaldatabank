@@ -73,7 +73,26 @@ Steps:
 4. Spot-check provisions against the PDF (the **PDF p.** button on each provision opens the right page).
 5. Items that are mostly tables (fee schedules, classification grids) are added with `"pdfOnly": true` and shown as the official PDF.
 
-Per-document options in the manifest: `bodyStartPage` (skip contents pages without dot leaders), `stopAtSchedule: false` (for rules with inline "Schedule" headings), `untitledProvisions: true` (regulations numbered without headings), `endnotes: true` (notes gathered at chapter ends).
+Per-document options in the manifest: `bodyStartPage` / `bodyEndPage` (skip contents pages without dot leaders; stop before forms), `stopAtSchedule: false` (for rules with inline "Schedule" headings), `untitledProvisions: true` (provisions numbered without headings), `endnotes: true` (notes gathered at chapter ends).
+
+Further options, used for the FBR Income Tax Ordinance and Rules:
+
+| Option | Use |
+|---|---|
+| `tocPages: [first, last]` | Read a contents list laid out in columns (no dot leaders) for the completeness report. |
+| `omittedFromToc: true` | Add provisions the contents list shows as omitted or renumbered but the body prints only as a bare `N[ ]` marker. |
+| `omittedFromNotes: true` | Add provisions known only from a note such as "Rule 35 omitted by SRO …". |
+| `plainNumberProvisions: ["6", "7"]` | Provisions printed with a regular-weight number and no heading (checked by hand). |
+| `numberingGaps: [54, …]` | Numbers the edition does not print at all; explain them in `sourceNotes`. The tests accept only documented gaps. |
+| `refSizeRatio` | Largest size of an amendment marker set without the superscript flag, relative to body text (default 0.75). |
+| `notesPerPage: true` | Note numbers restart on every page: never borrow a note from an earlier page. |
+| `footnoteRule: 144` | Split notes at the footnote separator rule of this width (Word's 2-inch rule), for editions whose notes vary in size. |
+| `headerBand: 135` | Drop running headers: lines above this height that recur on other pages. |
+| `nestedHeadings: true` | Keep "Chapter III …" and the "Part I …" heading under it together. |
+| `schedules: [{title, page}]` | List the schedules and their PDF pages yourself when the edition's headings cannot be detected. |
+| `pdfUrl`, `remotePdf: true` | Link the regulator's own PDF instead of republishing it (for very large editions). The extractor downloads it when it is not in `sources/pdf/`. |
+
+The report also counts `unlinkedMarkers` (amendment markers whose note was not captured; the site marks them and points to the PDF page) and `notesFromEarlierPages`.
 
 ## 3. Loading a law from plain text
 

@@ -14,7 +14,8 @@ def check(path):
     backwards = [(nos[i - 1], nos[i]) for i in range(1, len(nos)) if re.match(r"\d+", nos[i]) and re.match(r"\d+", nos[i - 1])
                  and int(re.match(r"\d+", nos[i]).group()) < int(re.match(r"\d+", nos[i - 1]).group())]
     present = set(base)
-    gaps = [n for n in range(1, max(base) + 1) if n not in present] if base else []
+    documented = set(act.get("numberingGaps", []))
+    gaps = [n for n in range(1, max(base) + 1) if n not in present and n not in documented] if base else []
     return {"id": act["id"], "count": len(nos), "max": max(base) if base else 0, "gaps": gaps[:40],
             "duplicates": dups[:20], "backwards": backwards[:10]}
 

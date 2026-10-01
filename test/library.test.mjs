@@ -57,7 +57,16 @@ test('build writes pages, search index and offline cache', () => {
   assert.ok(fs.existsSync(path.join(outDir, 'sources/sales-tax-act-1990.pdf')), 'source PDF is published');
 
   const ito = fs.readFileSync(path.join(outDir, 'acts/income-tax-ordinance-2001/index.html'), 'utf8');
-  assert.match(ito, /Placeholder, not official text/, 'placeholder instruments are clearly marked');
+  assert.doesNotMatch(ito, /Placeholder, not official text/, 'the ITO is loaded from the FBR edition');
+  assert.match(ito, /id="s-111"/);
+  assert.match(ito, /data-cite="Section 111 of the Income Tax Ordinance, 2001 \(Ordinance No\. XLIX of 2001\)"/);
+  assert.match(ito, /Income Tax Rules, 2002/, 'the ITO page lists the Rules made under it');
+  assert.ok(fs.existsSync(path.join(outDir, 'sources/income-tax-ordinance-2001.pdf')), 'ITO source PDF is published');
+  const itr = fs.readFileSync(path.join(outDir, 'acts/income-tax-rules-2002/index.html'), 'utf8');
+  assert.match(itr, /id="s-231fa"/);
+  assert.match(itr, /First Schedule, Part I/, 'schedules link to the official PDF');
+  const aml = fs.readFileSync(path.join(outDir, 'acts/aml-act-2010/index.html'), 'utf8');
+  assert.match(aml, /Placeholder, not official text/, 'placeholder instruments are clearly marked');
 
   assert.ok(index.provisions.some((p) => p.act === 'aml-act-2010' && p.no === '3' && p.text.includes('proceeds of crime')));
   assert.ok(index.provisions.every((p) => !/\{fn:/.test(p.text + p.title)), 'search text has no markers');
@@ -103,7 +112,8 @@ test('extracted instruments have complete, ordered numbering', () => {
     for (let i = 1; i < base.length; i++) assert.ok(base[i] >= base[i - 1], `${a.id}: ${nos[i]} follows ${nos[i - 1]}`);
     const have = new Set(base);
     const gaps = [];
-    for (let n = 1; n <= Math.max(...base); n++) if (!have.has(n)) gaps.push(n);
+    const documented = new Set(a.numberingGaps || []);
+    for (let n = 1; n <= Math.max(...base); n++) if (!have.has(n) && !documented.has(n)) gaps.push(n);
     assert.deepEqual(gaps, [], `${a.id}: numbering gaps`);
     assert.equal(new Set(nos).size, nos.length, `${a.id}: duplicate provision numbers`);
   }

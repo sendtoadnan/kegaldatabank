@@ -94,7 +94,8 @@ ${body}
         : `<span class="badge warn" title="${e(act.verification.note || 'Not yet checked against an official source')}">Unverified</span>`;
 
   const provisionCount = (act) => act.parts.reduce((n, p) => n + p.sections.length, 0);
-  const pdfHref = (act, base) => `${base}sources/${act.id}.pdf`;
+  // Large editions are linked at the regulator's own URL instead of being republished (sourcePdfUrl).
+  const pdfHref = (act, base) => act.sourcePdfUrl || `${base}sources/${act.id}.pdf`;
 
   const actRow = (act, base) => {
     const count = provisionCount(act);
@@ -393,7 +394,7 @@ ${body}
 
   // ---------- official source PDFs (served as /sources/<id>.pdf) ----------
   for (const a of acts) {
-    if (a.sourcePdf) write(`sources/${a.id}.pdf`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', a.sourcePdf)));
+    if (a.sourcePdf && !a.sourcePdfUrl) write(`sources/${a.id}.pdf`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', a.sourcePdf)));
   }
 
   // ---------- static assets ----------

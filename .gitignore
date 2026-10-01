@@ -2,3 +2,6 @@ node_modules/
 dist/
 .DS_Store
 sources/txt/
+# 77 MB FBR edition, linked at its FBR URL (remotePdf); extract_pdf.py downloads it when needed
+sources/pdf/20269211394336470IncomeTaxRules2002.pdf
+scripts/__pycache__/

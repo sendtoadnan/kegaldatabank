@@ -1,5 +1,307 @@
 [
   {
+    "id": "income-tax-ordinance-2001",
+    "file": "2026724177725705IncomeTaxOrdinanace2001.pdf",
+    "title": "Income Tax Ordinance, 2001",
+    "number": "Ordinance No. XLIX of 2001",
+    "type": "ordinance",
+    "unit": "Section",
+    "categories": [
+      "tax"
+    ],
+    "aliases": [
+      "ITO",
+      "ITO 2001",
+      "ITO2001",
+      "Income Tax Ordinance",
+      "Income Tax Ordinance 2001"
+    ],
+    "enacted": "2001-09-13",
+    "amendedUpTo": "2026-06-30",
+    "amendedUpToLabel": "30 June 2026",
+    "source": {
+      "name": "Federal Board of Revenue",
+      "url": "https://www.fbr.gov.pk"
+    },
+    "bodyStartPage": 20,
+    "tocPages": [
+      2,
+      19
+    ],
+    "refSizeRatio": 0.82,
+    "omittedFromToc": true,
+    "notesPerPage": true,
+    "nestedHeadings": true,
+    "preamble": "An Ordinance to consolidate and amend the law relating to income tax.",
+    "sourceNotes": "Sections the edition's contents list shows as omitted or renumbered, but which the body prints only as a bare amendment marker, are included as [Omitted] or [Renumbered] entries, with the edition's note where one is printed. The Schedules are linked to the official PDF.",
+    "schedules": [
+      {
+        "title": "First Schedule, Part I",
+        "page": 523
+      },
+      {
+        "title": "First Schedule, Part II",
+        "page": 550
+      },
+      {
+        "title": "First Schedule, Part IIB",
+        "page": 554
+      },
+      {
+        "title": "First Schedule, Part III",
+        "page": 555
+      },
+      {
+        "title": "First Schedule, Part IV",
+        "page": 570
+      },
+      {
+        "title": "Second Schedule, Part I",
+        "page": 591
+      },
+      {
+        "title": "Second Schedule, Part II",
+        "page": 645
+      },
+      {
+        "title": "Second Schedule, Part III",
+        "page": 660
+      },
+      {
+        "title": "Second Schedule, Part IV",
+        "page": 666
+      },
+      {
+        "title": "Third Schedule, Part I",
+        "page": 735
+      },
+      {
+        "title": "Third Schedule, Part II and Part III",
+        "page": 737
+      },
+      {
+        "title": "Fourth Schedule",
+        "page": 738
+      },
+      {
+        "title": "Fifth Schedule, Part I",
+        "page": 743
+      },
+      {
+        "title": "Fifth Schedule, Part II",
+        "page": 749
+      },
+      {
+        "title": "Sixth Schedule, Part I",
+        "page": 752
+      },
+      {
+        "title": "Sixth Schedule, Part II",
+        "page": 761
+      },
+      {
+        "title": "Sixth Schedule, Part III",
+        "page": 765
+      },
+      {
+        "title": "Seventh Schedule",
+        "page": 768
+      },
+      {
+        "title": "Eighth Schedule",
+        "page": 788
+      },
+      {
+        "title": "Ninth Schedule, Part I",
+        "page": 792
+      },
+      {
+        "title": "Ninth Schedule, Part II",
+        "page": 793
+      },
+      {
+        "title": "Ninth Schedule, Part III",
+        "page": 794
+      },
+      {
+        "title": "Tenth Schedule",
+        "page": 798
+      },
+      {
+        "title": "Eleventh Schedule",
+        "page": 805
+      },
+      {
+        "title": "Twelfth Schedule",
+        "page": 811
+      },
+      {
+        "title": "Thirteenth Schedule",
+        "page": 833
+      },
+      {
+        "title": "Fourteenth Schedule",
+        "page": 836
+      },
+      {
+        "title": "Fifteenth Schedule",
+        "page": 838
+      }
+    ],
+    "pdfUrl": "https://download1.fbr.gov.pk/Docs/2026724177725705IncomeTaxOrdinanace2001.pdf"
+  },
+  {
+    "id": "income-tax-rules-2002",
+    "file": "20269211394336470IncomeTaxRules2002.pdf",
+    "title": "Income Tax Rules, 2002",
+    "number": "S.R.O. 428(I)/2002",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "income-tax-ordinance-2001",
+    "categories": [
+      "tax"
+    ],
+    "aliases": [
+      "ITR",
+      "ITR 2002",
+      "Income Tax Rules",
+      "Income Tax Rules 2002"
+    ],
+    "enacted": "2002-07-01",
+    "amendedUpTo": "2026-09-15",
+    "amendedUpToLabel": "15 September 2026",
+    "source": {
+      "name": "Federal Board of Revenue",
+      "url": "https://www.fbr.gov.pk"
+    },
+    "bodyStartPage": 16,
+    "stopAtSchedule": false,
+    "tocPages": [
+      2,
+      15
+    ],
+    "headerBand": 135,
+    "nestedHeadings": true,
+    "refSizeRatio": 0.85,
+    "footnoteRule": 144,
+    "notesPerPage": true,
+    "untitledProvisions": true,
+    "omittedFromNotes": true,
+    "plainNumberProvisions": [
+      "6",
+      "7"
+    ],
+    "numberingGaps": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "sourceNotes": "This edition prints no rules numbered 54 to 66 and its contents list does not mention them; Chapter IX ends at rule 53 and Chapter X begins at rule 67. Rules 6 and 7 are printed with plain numbers and no headings. Rules 8, 9, 35, 39, 41 and 216 are shown from the edition's notes recording their omission. Forms and schedules are linked to the official PDF.",
+    "schedules": [
+      {
+        "title": "First Schedule, Part I",
+        "page": 429
+      },
+      {
+        "title": "First Schedule, Part II",
+        "page": 430
+      },
+      {
+        "title": "First Schedule, Part III",
+        "page": 431
+      },
+      {
+        "title": "First Schedule, Part IV",
+        "page": 433
+      },
+      {
+        "title": "First Schedule, Part V",
+        "page": 435
+      },
+      {
+        "title": "First Schedule, Part VI",
+        "page": 436
+      },
+      {
+        "title": "First Schedule, Part VII",
+        "page": 437
+      },
+      {
+        "title": "First Schedule, Part VII(A)",
+        "page": 439
+      },
+      {
+        "title": "First Schedule, Part VIII",
+        "page": 441
+      },
+      {
+        "title": "First Schedule, Part VIII(A)",
+        "page": 443
+      },
+      {
+        "title": "First Schedule, Part IX",
+        "page": 444
+      },
+      {
+        "title": "First Schedule, Part X",
+        "page": 446
+      },
+      {
+        "title": "First Schedule, Part XI",
+        "page": 448
+      },
+      {
+        "title": "First Schedule, Part XII",
+        "page": 449
+      },
+      {
+        "title": "First Schedule, Part XIII",
+        "page": 451
+      },
+      {
+        "title": "First Schedule, Part XIV",
+        "page": 452
+      },
+      {
+        "title": "First Schedule, Part XIV, Annexure",
+        "page": 454
+      },
+      {
+        "title": "Second Schedule, Part I",
+        "page": 455
+      },
+      {
+        "title": "Second Schedule, Part II",
+        "page": 456
+      },
+      {
+        "title": "Second Schedule, Part IV",
+        "page": 1178
+      },
+      {
+        "title": "Second Schedule, Part IVA",
+        "page": 1179
+      },
+      {
+        "title": "Second Schedule, Part X",
+        "page": 1187
+      }
+    ],
+    "bodyEndPage": 428,
+    "pdfUrl": "https://download1.fbr.gov.pk/Docs/20269211394336470IncomeTaxRules2002.pdf",
+    "remotePdf": true
+  },
+  {
     "id": "sales-tax-act-1990",
     "file": "20267171373418951SalesTaxAct1990updatedupto30.06.2026.pdf",
     "title": "Sales Tax Act, 1990",

@@ -17,6 +17,7 @@ table of contents. Requires PyMuPDF (pip install pymupdf).
 import json
 import re
 import sys
+import urllib.request
 from collections import Counter
 from pathlib import Path
 
@@ -60,7 +61,8 @@ def load_lines(doc):
         raw = []
         for b in page.get_text("dict")["blocks"]:
             for l in b.get("lines", []):
-                spans = [s for s in l["spans"] if s["text"]]
+                # oversized ".." spans are invisible layout artefacts in some FBR editions
+                spans = [s for s in l["spans"] if s["text"] and not (s["size"] >= 18 and re.fullmatch(r"\s*(\.{2,3}|…)\s*", s["text"]))]
                 if spans and any(s["text"].strip() for s in spans):
                     raw.append(spans)
         # group spans into visual lines by vertical centre
@@ -79,6 +81,8 @@ def load_lines(doc):
         out = []
         for cy, spans in lines:
             spans.sort(key=lambda s: s["bbox"][0])
+            if cy < 70 and re.search(r"\S\s*_{8,}\s*$", "".join(s["text"] for s in spans)):
+                continue  # running header ruled off with underscores, e.g. "Chapter X – Procedure_____"
             out.append(Line(pno, cy, spans[0]["bbox"][0], spans))
         pages.append(out)
     return pages
@@ -107,9 +111,13 @@ def is_small(s, bs):
     return s["size"] <= bs * 0.8
 
 
+DEBUG = "--debug" in sys.argv
+REF_RATIO = [0.75]  # largest size, relative to body text, of an amendment marker set without the superscript flag
+
+
 def is_ref(s, bs):
     t = s["text"].strip()
-    return bool(re.fullmatch(r"\d{1,4}[a-z]?(\s*[,&]\s*\d{1,4}[a-z]?)*\[?", t)) and (s["flags"] & 1 or s["size"] <= bs * 0.75)
+    return bool(re.fullmatch(r"\d{1,4}[a-z]?(\s*[,&]\s*\d{1,4}[a-z]?)*\[?", t)) and (s["flags"] & 1 or s["size"] <= bs * REF_RATIO[0])
 
 
 def refs(s, kp):
@@ -122,19 +130,38 @@ def is_bold(s):
     return bool(s["flags"] & 16) or "Bold" in s["font"]
 
 
-def split_footnotes(lines, bs):
+# a note number run into its text, e.g. "2Inserted by the Finance Act, 2016."
+NOTE_START = re.compile(r"^\s*(\d{1,3})\s*(?=(Substituted|Inserted|Added|Omitted|Re-?numbered|The\s+(words?|expression|figures?|comma|semi|full)|"
+                        r"Sub-section|Section|Clause|Sub-clause|Sub-rule|Rules?|Words?|Proviso|Explanation|Full\s+stop|Semi|Comma|Figures?)\b)")
+
+
+def split_footnotes(lines, bs, rule_y=None):
     """Split one page's lines into (body, footnotes).
 
     Footnotes are the unbroken block of small-text lines at the bottom of the page.
     Returns footnotes as [(num|None, text)]; None marks a continuation from the previous page.
     """
     def small(l):
-        spans = [s for s in l.spans if s["text"].strip()]
-        return bool(spans) and all(s["size"] < bs - 0.4 for s in spans)
+        # Judge by the words, not stray quote marks or a clause label that may be set in body size.
+        words = [s for s in l.spans if re.search(r"\w", s["text"])]
+        text = [s for s in words if not is_ref(s, bs)]
+        if not words:
+            brackets = [s for s in l.spans if "[" in s["text"] or "]" in s["text"]]
+            return all(s["size"] < bs - 0.4 for s in brackets)
+        if not text:
+            # a bare "3[ ]" marker: body text if its brackets are body size, else part of a quoted note
+            brackets = [s for s in l.spans if "[" in s["text"] or "]" in s["text"]]
+            return bool(brackets) and all(s["size"] < bs - 0.4 for s in brackets)
+        total = sum(len(s["text"].strip()) for s in text)
+        return sum(len(s["text"].strip()) for s in text if s["size"] < bs - 0.4) >= 0.7 * total
 
     start = len(lines)
-    while start > 0 and small(lines[start - 1]):
-        start -= 1
+    if rule_y is not None:
+        # notes are everything below the footnote separator rule
+        start = next((i for i, l in enumerate(lines) if l.y > rule_y), len(lines))
+    else:
+        while start > 0 and small(lines[start - 1]):
+            start -= 1
     # a block that does not start with a numbered note and is only one short line is body text
     block = lines[start:]
     if not block:
@@ -148,6 +175,9 @@ def split_footnotes(lines, bs):
         elif spans and re.fullmatch(r"\d{1,4}", spans[0]["text"].strip()) and len(spans) > 1 and spans[0]["size"] < spans[1]["size"]:
             idx = l.spans.index(spans[0])
             notes.append([spans[0]["text"].strip(), norm_space("".join(s["text"] for s in l.spans[idx + 1:]))])
+        elif NOTE_START.match(l.text) and not (notes and notes[-1][0] and re.search(r"\b(the|of|by|and|vide|to)\s*$", notes[-1][1])):
+            mm = NOTE_START.match(l.text)
+            notes.append([mm.group(1), norm_space(l.text[mm.end():])])
         elif re.match(r"^\s*(\d{1,4}[a-z]?)\.\s+\S", l.text):
             mm = re.match(r"^\s*(\d{1,4}[a-z]?)\.\s+(.*)$", l.text)
             notes.append([mm.group(1), norm_space(mm.group(2))])
@@ -196,11 +226,13 @@ def section_start(l, bs, untitled=False):
     if i >= len(spans) or LEADERS.search(l.text):
         return None
     first = spans[i]["text"].strip()
-    m = re.match(r"^([\[“\"{\s]*)(\d+[A-Z]{0,4})(\.?)\s*(.*)$", first)
+    m = re.match(r"^([\[“\"{\s]*)(\d+[A-Z]{0,4})(\]?)(\.?)\s*(.*)$", first)
     if not m:
         return None
     lead += m.group(1)
-    number, dot, tail = m.group(2), m.group(3), m.group(4)
+    if m.group(3) and m.group(4):
+        lead = re.sub(r"\[$", "", lead)  # "[19D]." -- the brackets enclose only the number
+    number, dot, tail = m.group(2), m.group(4), m.group(5)
     if spans[i]["size"] < bs - 1.5:
         return None
     num_bold = is_bold(spans[i])
@@ -218,6 +250,13 @@ def section_start(l, bs, untitled=False):
             dot = "."
         elif num_bold and re.match(r"^[A-Z][^.]{3,150}\.?\s*[-–—]", tail):
             dot = "."
+        elif num_bold and tail and re.match(r"^[A-Z][^.]{3,150}\.?\s*[-–—]", norm_space(
+                tail + " " + "".join(x["text"] for x in spans[j:] if not is_ref(x, bs)))):
+            dot = "."  # "230E Heading 2[Word] More.—" with the heading split by an amendment marker
+        elif num_bold and not tail and nxt.startswith("]") and j + 1 < len(spans):
+            # "[4AB] Subject to ..." -- a bracketed number with no heading
+            rest = norm_space(nxt[1:] + " " + line_text(Line(l.page, l.y, l.x, spans[j + 1:], l.kp), bs))
+            return number, "", re.sub(r"\[+$", "", lead), rest
         elif num_bold and not tail and nxt and (is_bold(spans[j]) and nxt.lstrip("“\"[")[:1].isupper()):
             dot = "."
         else:
@@ -227,8 +266,11 @@ def section_start(l, bs, untitled=False):
         not tail and (nxt_t.startswith("***") or re.match(r"^\[?\s*Omitted\b", nxt_t, re.I) is not None))
     head_parts = [tail] if tail and not omitted else []
     head_bold = False
-    while j < len(spans) and not omitted and (is_bold(spans[j]) or is_ref(spans[j], bs) or spans[j]["text"].strip() in ("[", "“")):
-        if is_ref(spans[j], bs):
+    while j < len(spans) and not omitted and (is_bold(spans[j]) or is_ref(spans[j], bs) or spans[j]["text"].strip() in ("[", "“")
+                                               or (re.fullmatch(r"\s?[A-Z]", spans[j]["text"]) and j + 1 < len(spans) and is_bold(spans[j + 1]))):
+        if re.fullmatch(r"\s?[A-Z]", spans[j]["text"]) and not is_bold(spans[j]):
+            head_parts.append(spans[j]["text"])  # "P" + "rocedure for E-Audit" set in two weights
+        elif is_ref(spans[j], bs):
             head_parts.append(refs(spans[j], l.kp))
         elif not is_bold(spans[j]):
             lead += spans[j]["text"].strip()
@@ -249,6 +291,12 @@ def section_start(l, bs, untitled=False):
     elif not (num_bold or head_bold):
         return None
     heading = norm_space("".join(head_parts))
+    if not heading and num_bold and j < len(spans):
+        # heading set in regular type after a bold number: "78. Prescribed form for reference.- text"
+        plain_rest = line_text(Line(l.page, l.y, l.x, spans[j:], l.kp), bs)
+        mm = re.match(r"^([A-Z][^.{}]{3,150}?)(\.\s*[-–—―−]{1,2}|\s[–—―−]{1,2}(?=\s|\())\s*(.*)$", plain_rest)
+        if mm:
+            return number, mm.group(1), lead, mm.group(3)
     if not heading:
         if untitled and num_bold and j < len(spans):
             return number, "", lead, line_text(Line(l.page, l.y, l.x, spans[j:], l.kp), bs)
@@ -332,22 +380,167 @@ def base_record(entry, parts, preamble, schedules):
         "preamble": preamble,
         "parts": parts,
     }
-    for k in ("caution", "summary", "pdfOnly", "sourceNotes"):
+    if entry.get("remotePdf"):
+        act["sourcePdfUrl"] = entry["pdfUrl"]
+    for k in ("caution", "summary", "pdfOnly", "sourceNotes", "numberingGaps"):
         if entry.get(k):
             act[k] = entry[k]
+    schedules = entry.get("schedules") or schedules  # the manifest may list schedules found from page headers
     if schedules:
         act["schedules"] = schedules
     return {k: v for k, v in act.items() if v is not None}
 
 
+def sort_key(no):
+    m = re.match(r"(\d+)(.*)", no)
+    return (int(m.group(1)), m.group(2)) if m else (0, no)
+
+
+def insert_omitted_from_notes(parts):
+    """Add omitted provisions known only from an amendment note such as 'Rule 35 omitted by SRO ...'.
+
+    The bare marker that cites the note (and the note) move to the new provision, which is placed in
+    numerical order.
+    """
+    have = {s["no"] for p in parts for s in p["sections"]}
+    for p in parts:
+        for s in list(p["sections"]):
+            for f in list(s.get("fn", [])):
+                m = re.match(r"^\s*(?:Rule|Section)\s*[“\"(]*(\d+[A-Z]{0,4})[”\")]*\s+(?:is\s+)?omitted\b", f["text"], re.I)
+                if not m or m.group(1) in have:
+                    continue
+                no, marker = m.group(1), "{fn:%s}" % f["n"]
+                for k, t in enumerate(s["text"]):
+                    if marker in t:
+                        rest = norm_space(re.sub(re.escape(marker) + r"\s*\[\s*\**\s*\]", "", t).replace(marker, ""))
+                        if rest.lstrip(">"):
+                            s["text"][k] = rest
+                        else:
+                            del s["text"][k]
+                        break
+                else:
+                    if marker in s["title"]:
+                        continue
+                s["fn"].remove(f)
+                if not s["fn"]:
+                    del s["fn"]
+                if not s["text"]:
+                    s["text"] = ["[No text in source.]"]
+                new = {"no": no, "title": "[Omitted]", "page": int(f["n"].split("-")[0]) if f["n"].split("-")[0].isdigit() else s.get("page"),
+                       "text": [marker + "[ ]"], "fn": [f]}
+                # place in numerical order among the provisions of the whole instrument
+                where = [(pp, i) for pp in parts for i, x in enumerate(pp["sections"]) if sort_key(x["no"]) < sort_key(no)]
+                pp, i = where[-1] if where else (parts[0], -1)
+                pp["sections"].insert(i + 1, new)
+                have.add(no)
+
+
+def footnote_rules(doc, pages, width):
+    """Height of the footnote separator (a short rule of the given width, e.g. Word's 2-inch rule) per page,
+    kept only where the first line below it starts with a note number."""
+    found = {}
+    for pno, page in enumerate(doc):
+        ys = sorted(d["rect"].y0 for d in page.get_drawings()
+                    if abs(d["rect"].width - width) < 1 and d["rect"].height < 2 and d["rect"].y0 > page.rect.height * 0.3)
+        for y in ys:
+            below = [l for l in pages[pno] if l.y > y]
+            if below and re.match(r"^\s*\d{1,3}\b", below[0].text):
+                found[pno] = y
+                break
+    return found
+
+
+def drop_repeated_headers(pages, band):
+    """Remove running headers: lines above `band` points whose text recurs at the same height on other pages."""
+    key = lambda l: (round(l.y / 3), re.sub(r"\d+", "#", norm_space(l.text)))
+    c = Counter(k for lines in pages for k in {key(l) for l in lines if l.y < band})
+    for i, lines in enumerate(pages):
+        pages[i] = [l for l in lines if not (l.y < band and c[key(l)] >= 2)]
+
+
+def toc_entries(pages, page_range):
+    """(number, title) rows of a contents list laid out in columns without dot leaders."""
+    a, b = page_range
+    rows = []
+    for lines in pages[a - 1:b]:
+        for l in lines:
+            m = re.match(r"^\s*0*(\d+[A-Z]{0,5})\.?\s+(.*?)[\s.…]*\d+\s*$", l.text)
+            if m:
+                rows.append((m.group(1), norm_space(m.group(2))))
+    return rows
+
+
+def insert_omitted(parts, toc_rows):
+    """Add provisions the contents list shows as omitted (or renumbered) but the body prints only as a
+    bare 'N[ ]' marker.
+
+    A bare marker on the preceding provision whose note names the omitted provision is moved to it,
+    with that note; otherwise the contents-list entry is used as the text.
+    """
+    bare = re.compile(r"\s*\{fn:([^}]+)\}\s*\[\s*\**\s*\]\.?")
+    where = {s["no"]: (p, i) for p in parts for i, s in enumerate(p["sections"])}
+    prev = anchor = None  # insertion point; last provision printed in the body (holds the markers)
+    for no, title in toc_rows:
+        if no in where:
+            prev = anchor = no
+            continue
+        if prev is None or not re.match(r"^(omitted|(section\s+)?re-?numbered)\b", title, re.I):
+            continue
+        part, i = where[prev]
+        before = part["sections"][where[anchor][1]] if where[anchor][0] is part else where[anchor][0]["sections"][where[anchor][1]]
+        new = {"no": no, "title": "[Omitted]" if title.lower().startswith("omitted") else "[Renumbered]",
+               "page": before.get("page")}
+        names = re.compile(r"(?<![\w(])%s(?![\w)])" % re.escape(no))
+        notes = {f["n"]: f for f in before.get("fn", [])}
+        for k in range(len(before["text"]) - 1, 0, -1):
+            t = before["text"][k]
+            # trailing run of bare markers at the end of the paragraph
+            m = re.search(r"(?:%s)+\s*$" % bare.pattern, t)
+            if not m:
+                continue
+            hit = next((mm for mm in bare.finditer(m.group(0))
+                        if mm.group(1) in notes and names.search(notes[mm.group(1)]["text"][:80])), None)
+            if hit is None:
+                continue
+            key = hit.group(1)
+            rest = norm_space(t[:m.start()] + " " + m.group(0)[:hit.start()] + m.group(0)[hit.end():])
+            if rest.lstrip(">"):
+                before["text"][k] = rest
+            else:
+                del before["text"][k]
+            before["fn"] = [f for f in before["fn"] if f["n"] != key]
+            if not before["fn"]:
+                del before["fn"]
+            new["text"], new["fn"] = ["{fn:%s}[ ]" % key], [notes[key]]
+            pg = key.split("-")[0]
+            if pg.isdigit():
+                new["page"] = int(pg)
+            break
+        if "text" not in new:
+            new["text"] = [title.rstrip(". ") + "."]
+            new["notes"] = ["Shown from the contents list of this edition; the body prints no text for this provision."]
+        part["sections"].insert(i + 1, new)
+        where = {s["no"]: (p, j) for p in parts for j, s in enumerate(p["sections"])}
+        prev = no
+
+
 def extract(entry):
     pdf = ROOT / "sources" / "pdf" / entry["file"]
+    if not pdf.exists() and entry.get("pdfUrl"):
+        # editions too large to keep in the repository are fetched from the regulator when needed
+        print("downloading", entry["pdfUrl"], file=sys.stderr)
+        urllib.request.urlretrieve(entry["pdfUrl"], pdf)
     doc = pymupdf.open(pdf)
     if entry.get("pdfOnly"):
         return base_record(entry, [], "", []), {"id": entry["id"], "pages": len(doc), "pdfOnly": True}
     pages = load_lines(doc)
     bs = body_size(pages)
     running = running_lines(pages)
+    REF_RATIO[0] = entry.get("refSizeRatio", 0.75)
+    rules = footnote_rules(doc, pages, entry["footnoteRule"]) if entry.get("footnoteRule") else {}
+    if entry.get("headerBand"):
+        drop_repeated_headers(pages, entry["headerBand"])
+    toc_rows = toc_entries(pages, entry["tocPages"]) if entry.get("tocPages") else []
     endnotes = {}
     all_notes = []
     endnote_cut = {}
@@ -410,6 +603,11 @@ def extract(entry):
 
     def new_part(heading):
         nonlocal part
+        if part is not None and not part["sections"] and entry.get("nestedHeadings") \
+                and part["heading"].split()[0].lower() != heading.split()[0].lower():
+            # "CHAPTER III ..." immediately followed by "PART I ...": keep both in one heading
+            part["heading"] += ": " + heading
+            return
         part = {"heading": heading, "sections": []}
         parts.append(part)
 
@@ -429,7 +627,7 @@ def extract(entry):
         if pno in endnote_cut:
             lines = lines[:endnote_cut[pno]]
         body, notes = split_footnotes(
-            [l for l in lines if re.sub(r"\d+", "#", norm_space(l.text)) not in running], bs)
+            [l for l in lines if re.sub(r"\d+", "#", norm_space(l.text)) not in running], bs, rules.get(pno))
 
         # attach footnotes: a note is kept on whichever provision references it
         page_notes = {}
@@ -442,7 +640,7 @@ def extract(entry):
 
         prev_y = None
         carry = None
-        for l in body:
+        for li, l in enumerate(body):
             if carry is not None:
                 l = Line(l.page, l.y, carry.x, carry.spans + l.spans, l.kp)
                 carry = None
@@ -460,7 +658,7 @@ def extract(entry):
             if bold_line and len(plain) < 90 and HEADING_RE.match(plain.lstrip("[")) and not in_schedule:
                 hm = HEADING_RE.match(plain.lstrip("["))
                 kind = hm.group(0)
-                label = hm.group(1).capitalize() + " " + hm.group(2).upper()
+                label = hm.group(1).capitalize() + " " + ("I" if hm.group(2) == "l" else hm.group(2).upper())  # "PART-l" typo
                 rest = plain.lstrip("[")[len(kind):].strip(" .-–—:")
                 new_part(label + (" — " + rest.title() if rest else ""))
                 pending_heading = None if rest else part
@@ -468,7 +666,7 @@ def extract(entry):
                 prev_y = l.y
                 continue
             if (entry.get("stopAtSchedule", True) and bold_line and len(plain) < 120 and SCHEDULE_RE.match(plain.lstrip("[")) and parts) or (
-                    parts and body.index(l) < 4 and len(plain) < 60 and ANNEX_RE.match(plain)):
+                    parts and li < 4 and len(plain) < 60 and ANNEX_RE.match(plain)):
                 # Schedules are mostly tables: record where each starts and link to the PDF page.
                 in_schedule = True
                 title = re.sub(r"^the\s+", "", norm_space(plain.strip("[]“”\"' ")), flags=re.I).title()
@@ -481,13 +679,18 @@ def extract(entry):
             if in_schedule:
                 continue
             if pending_heading is not None and bold_line and plain.isupper() and len(plain) < 150:
-                sep = " — " if "—" not in pending_heading["heading"] else " "
+                sep = " — " if "—" not in pending_heading["heading"].split(": ")[-1] else " "
                 pending_heading["heading"] += sep + plain.title()
                 prev_y = l.y
                 continue
             pending_heading = None
 
             st = None if in_schedule else section_start(l, bs, entry.get("untitledProvisions", False))
+            if st is None and not in_schedule and entry.get("plainNumberProvisions"):
+                # provisions printed with a regular-weight number and no heading, named in the manifest
+                mm = re.match(r"^(\d+[A-Z]{0,4})\.\s+(\S.*)$", text)
+                if mm and mm.group(1) in entry["plainNumberProvisions"]:
+                    st = (mm.group(1), "", "", mm.group(2))
             if st:
                 base = int(re.match(r"\d+", st[0]).group())
                 prev_no = last_no[0]
@@ -593,7 +796,8 @@ def extract(entry):
                         x["fn"].append({"n": key, "text": endnotes[key]})
 
     # markers that repeat an earlier footnote number: use the nearest earlier note with that number
-    if all_notes and not entry.get("endnotes"):
+    borrowed = 0
+    if all_notes and not entry.get("endnotes") and not entry.get("notesPerPage"):
         for p in parts:
             for x in p["sections"]:
                 have = {f["n"] for f in x["fn"]}
@@ -606,6 +810,8 @@ def extract(entry):
                     cands = [(q, t) for q, n, t in all_notes if n == num and q <= int(pg)]
                     if cands:
                         x["fn"].append({"n": key, "text": max(cands)[1]})
+                        borrowed += 1
+                        if DEBUG: print("borrowed", x["no"], key, file=sys.stderr)
 
     # tidy
     for p in parts:
@@ -617,6 +823,10 @@ def extract(entry):
             if not s["fn"]:
                 del s["fn"]
     parts = [p for p in parts if p["sections"]]
+    if entry.get("omittedFromToc"):
+        insert_omitted(parts, toc_rows)
+    if entry.get("omittedFromNotes"):
+        insert_omitted_from_notes(parts)
 
     # de-duplicate provision numbers (e.g. the same number reused inside a schedule)
     seen = Counter()
@@ -639,7 +849,7 @@ def extract(entry):
     act = base_record(entry, parts, pre, schedules)
 
     got = [s["no"] for p in parts for s in p["sections"] if not s["no"].startswith("Sch-")]
-    toc = list(dict.fromkeys(toc_numbers))
+    toc = list(dict.fromkeys(toc_numbers + [n for n, _ in toc_rows]))
     missing = [n for n in toc if n not in got]
     extra = [n for n in got if toc and n not in toc and "-" not in n]
     report = {
@@ -650,6 +860,10 @@ def extract(entry):
         "missing": missing,
         "extra": extra,
         "footnotes": sum(len(s.get("fn", [])) for p in parts for s in p["sections"]),
+        "notesFromEarlierPages": borrowed,
+        "unlinkedMarkers": sum(1 for p in parts for s in p["sections"]
+                               for k in set(re.findall(r"\{fn:([^}]+)\}", s["title"] + " " + " ".join(s["text"])))
+                               if k not in {f["n"] for f in s.get("fn", [])}),
         "schedules": [x["title"] for x in schedules],
     }
     return act, report
