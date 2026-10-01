@@ -739,10 +739,10 @@
   },
   {
     "id": "benami-transactions-act-2017",
-    "file": "20172221521619193BenamiTransactionAct2017.pdf",
-    "pdfUrl": "https://www.fbr.gov.pk/Downloads/?id=14820&Type=Docs",
+    "file": "benami-transactions-prohibition-act-2017-pakistancode.pdf",
+    "pdfUrl": "https://pakistancode.gov.pk/pdffiles/administratorc3159176d17a29e713613851233c2845.pdf",
     "title": "Benami Transactions (Prohibition) Act, 2017",
-    "number": "",
+    "number": "Act No. V of 2017",
     "type": "act",
     "unit": "Section",
     "categories": [
@@ -754,12 +754,15 @@
       "Benami Act 2017",
       "BTPA"
     ],
-    "pdfOnly": true,
-    "summary": "Prohibits holding property in benami, restricts the right to recover or transfer benami property, and provides for its attachment and confiscation. Shown as the scanned text as passed by the Majlis-e-Shoora (Parliament), published by FBR.",
-    "caution": "This FBR copy is a scan of the Act as passed by Parliament. It shows no later amendments; check the Gazette and any amending Acts before relying on it.",
+    "enacted": "2017-02-14",
+    "bodyStartPage": 4,
+    "plainHeadings": true,
+    "nestedHeadings": true,
+    "caution": "Pakistan Code shows this Act as enacted, with no later amendments recorded. Check the Gazette for any amending Acts before relying on it.",
     "source": {
-      "name": "Federal Board of Revenue",
-      "url": "https://www.fbr.gov.pk"
-    }
+      "name": "Pakistan Code, Ministry of Law and Justice",
+      "url": "https://pakistancode.gov.pk"
+    },
+    "spaceGaps": true
   }
 ]

@@ -75,7 +75,10 @@ test('build writes pages, search index and offline cache', () => {
   const fea = fs.readFileSync(path.join(outDir, 'acts/federal-excise-act-2005/index.html'), 'utf8');
   assert.match(fea, /Federal Excise Rules, 2005/, 'the FED Act page lists its Rules');
   const benami = fs.readFileSync(path.join(outDir, 'acts/benami-transactions-act-2017/index.html'), 'utf8');
-  assert.match(benami, /<iframe src="\.\.\/\.\.\/sources\/benami-transactions-act-2017\.pdf"/, 'PDF-only instruments embed the official PDF');
+  assert.match(benami, /data-cite="Section 24 of the Benami Transactions \(Prohibition\) Act, 2017 \(Act No\. V of 2017\)"/);
+  assert.match(benami, /Adjudication of Benami property/, 'words in separate font runs keep their spaces');
+  const third = fs.readFileSync(path.join(outDir, 'acts/companies-act-2017-third-schedule/index.html'), 'utf8');
+  assert.match(third, /<iframe src="\.\.\/\.\.\/sources\/companies-act-2017-third-schedule\.pdf"/, 'PDF-only instruments embed the official PDF');
   assert.ok(acts.every((a) => !a.placeholder), 'no placeholder pages remain');
 
   assert.ok(index.provisions.some((p) => p.act === 'aml-act-2010' && p.no === '3' && p.text.includes('proceeds of crime')));

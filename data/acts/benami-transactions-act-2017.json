@@ -1,7 +1,7 @@
 {
  "id": "benami-transactions-act-2017",
  "title": "Benami Transactions (Prohibition) Act, 2017",
- "number": "",
+ "number": "Act No. V of 2017",
  "type": "act",
  "unit": "Section",
  "categories": [
@@ -13,19 +13,791 @@
   "Benami Act 2017",
   "BTPA"
  ],
+ "enacted": "2017-02-14",
  "status": "in-force",
  "source": {
-  "name": "Federal Board of Revenue",
-  "url": "https://www.fbr.gov.pk"
+  "name": "Pakistan Code, Ministry of Law and Justice",
+  "url": "https://pakistancode.gov.pk"
  },
- "sourcePdf": "20172221521619193BenamiTransactionAct2017.pdf",
+ "sourcePdf": "benami-transactions-prohibition-act-2017-pakistancode.pdf",
  "verification": {
   "status": "unverified",
-  "note": "Official Federal Board of Revenue PDF shown as published. Check against the Gazette before quoting."
+  "note": "Text machine-extracted from the Pakistan Code, Ministry of Law and Justice consolidated edition. Check against the Gazette before quoting."
  },
- "preamble": "",
- "parts": [],
- "caution": "This FBR copy is a scan of the Act as passed by Parliament. It shows no later amendments; check the Gazette and any amending Acts before relying on it.",
- "summary": "Prohibits holding property in benami, restricts the right to recover or transfer benami property, and provides for its attachment and confiscation. Shown as the scanned text as passed by the Majlis-e-Shoora (Parliament), published by FBR.",
- "pdfOnly": true
+ "preamble": "WHEREAS it is expedient to provide for prohibition of holding property in Benami and restrict right to recover or transfer property held Benami and provide mechanism and procedure for confiscation of property held Benami and for matters connected therewi th or incidental thereto; It is hereby enacted as follows:⸺",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, extent and commencement",
+     "page": 4,
+     "text": [
+      "(1) This Act may be called the Benami Transactions (Prohibition) Act, 2017.",
+      "(2) It shall extend to the whole of Pakistan.",
+      "(3) It shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 4,
+     "text": [
+      "(1) In this Act, unless there is anything repugnant in the subject or context, ⸺",
+      "(1) “Adjudicating Authority” means the Adjudicating Authority appointed under section 6;",
+      "(2) “Administrator” means Assistant Commissioner Inland Revenue appointed under section 208 of the Income Tax Ordinance, 200l(XLIX of 2001):",
+      "(3) “Approving Authority” means Commissioner Inland Revenue as defined in clause (13) of section 2 of the Income Tax Ordinance, 2001 (XLIX of2001);",
+      "(4) “attachment” means the prohibition of transfer, conversion, disposition or movement of property, by an order issued under this Act;",
+      "(5) “authority” means an authority referred to in section I5;",
+      "(6) “banking company” means a banking company as defined in the Banking Companies Ordinance, 1962 (LVII of 1962) and includes any body corporate which transacts the business of banking in Pakistan;",
+      "(7) “Benami property” means any property which is the subject matter of Benami transaction and also includes the proceeds from such property;",
+      "(8) “Benami transaction” means,⸺",
+      ">>>(A) a transaction or arrangement⸺",
+      ">(a) where a property is transferred to, or is held by, a person and the consideration for such property has been provided, or paid by, another person;",
+      ">(b) the property is held for the immediate or future benefit, direct or indirect, of the person who has provided the consideration, except when the property is held by⸺",
+      ">>(i) a person standing in a fiduciary capacity for the benefit of another person towards whom he stands in such capacity and includes a trustee, executor, partner, director of a company, agent or legal adviser and any other person as may be notified by the Federal Government for this purpose; or",
+      ">>(ii) any person being an individual in the name of his spouse or in the name of any child or in the name of his brother and sister or lineal ascendant or descendant and the individual appearing as joint owner in any document of such individual and the consideration for such property has been provided or paid out of known resources of income of the individual; or",
+      ">>>(B) transaction or arrangement in respect of a property carried out or made in a fictitious name; or",
+      ">>>(C) a transaction or arrangement in respect of a property where the owner of the property is not aware of, or denies knowledge of, such ownership; or",
+      ">>>(D) a transaction or arrangement in respect of a property where the person providing the consideration is not traceable or is fictitious;",
+      "(9) “Benamidar” means a person or a fictitious person, as the case may be, in whose name the Benami property is transferred or held and includes a person who lends his name; ⸺",
+      "(10) “bench” means a bench of the adjudicating authority or the appellate tribunal, as the case may be;",
+      "(11) “beneficial owner” means a person, whether his identity is known or not, for whose benefit the Benami property is held by a Benamidar;",
+      "(12) “Board” means the Federal Board of Revenue constituted under the Federal Board of Revenue Act, 2007;",
+      "(13) “'director” shall have the same meaning as assigned to it in clause ( 13) of section 2 of the Companies Ordinance, 1984 (XLVII of I 984);",
+      "(14) “executor” shall have the same meaning as assigned to it in clause (c) of section 2 of the Succession Act, 1925 (XXXIX of 1925);",
+      "(15) “fair market value”in relation to a property, means⸺",
+      ">(a) the price that the property would ordinarily fetch on sale in the open market on the date of the transaction; and",
+      ">(b) where the price referred to in sub-clause (a) is not ascertainable, such price as may be determined in accordance with such manner as may be prescribed;",
+      "(16) “financial institution” shall have the same meaning as assigned to it in clause (15A) of section 2 of the Companies Ordinance, 1984 (XLVII of 1984):",
+      "(17) “firm” shall have the same meaning as assigned to it in section 4 of the Partnership Act 1932 (IX of l 932) and shall include an association of persons as defined in section 80 of the Income Tax Ordinance, 2001 (XLIX of 2001);",
+      "(18) “High Court” means⸺",
+      ">(a) the High Court within the jurisdiction of which the aggrieved party ordinarily resides or carries on business or personally works for gain; and",
+      ">(b) where the Government is the aggrieved party, the High Court within the jurisdiction of which the respondent, or in a case where there are more than one respondent, any of the respondents, ordinarily resides or carries on business or personally works for gain;",
+      "(19) “Initiating Officer” means a Deputy Commissioner Inland Revenue appointed under section 208 of the Income Tax Ordinance, 200 I(XLIX of200 I);",
+      "(20) “Member” means the chairperson or the member of the adjudicating authority or the Appellate Tribunal, as the case may be;",
+      "(21) “notification” means a notification published in the official Gazette and the expression “notified” shall be construed accordingly;",
+      "(22) “partner” shall have the same meaning as assigned to it in section 4 of the Partnership Act, 1932(IX of 1932) and shall include,",
+      ">(a) any person who, being a minor, has been admitted to the benefits of partnership; and",
+      ">(b) a member of association of persons;",
+      "(23) “partnership” shall have the same meaning as assigned to it in section 4 of the Partnership Aet, 1932 (IX of 1932) and shall include association of persons;",
+      "(24) “person” shall include⸺",
+      ">(a) an individual;",
+      ">(b) a company;",
+      ">(c) a firm;",
+      ">(d) an association of persons or a body of individuals, whether incorporated or not;",
+      ">(e) every artificial juridical person, not falling under sub-clauses (a) to (d).",
+      "(25) “prescribed” means prescribed by rules made under this Act;",
+      "(26) “property” means asset of any kind, whether movable or immovable, tangible or intangible, corporeal or incorporeal and includes any right or interest or legal documents or instruments evidencing title or interest in the property and where the property is capable of conversion into some other form, then the property in the converted form and also includes the proceeds from the property;",
+      "(27) “Special Court” means a Court of Sessions designated as Special Court under section 50;",
+      "(28) transfer includes sale, purchase. disposition, extinguishment of profit or any other form of transfer of right, title, possession or lien;",
+      "(29) “Tribunal” means the Appellate Tribunal established under section 30;",
+      "(30) “trustee” means the trustee as defined in section 3 of the Trusts Act, 1882 (II of 1882);",
+      "(2) Words and expressions used herein and not defined in this Act shall have the same meaning as defined in the Trusts Act, 1882 (1I of 1882), the Succession Act, 1925 (XXXIX of 1925), the Partnership Act, 1932 (IX of 1932), the Income Tax Ordinance, 2001 (XLIX of2001) the Anti Money Laundering Aet, 2010(VII of 2010) and the Companies Ordinance, 1984 (XLVII of 1984)."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Prohibition Of Benami Transactions",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Prohibition of Benami transactions",
+     "page": 7,
+     "text": [
+      "(1) No person shall enter into any Benami transaction.",
+      "(2) Whoever enters into any Benami transaction or holds any Benami property on and after the date of the commencement of this Act, shall be punishable in accordance with the provisions contained in Chapter VIII."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Property held Benami liable to confiscation",
+     "page": 7,
+     "text": [
+      "Any property, which is subject matter of Benami transaction, shall be liable to be confiscated by the Federal Government."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Prohibition on rctransfer of property by Benamidar",
+     "page": 7,
+     "text": [
+      "(l) No person being Benamidar shall retransfer the Benami property held by him to the beneficial owner or any other person acting on his behalf.",
+      "(2) Where any property is retransferred in contravention of the provisions of sub-section (1), the transaction of such property shall be deemed to be null and void."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Authorities",
+   "sections": [
+    {
+     "no": "6",
+     "title": "Adjudicating Authority",
+     "page": 8,
+     "text": [
+      "(1) The Federal Government shall, by notification in the official Gazette, appoint one or more Adjudicating Authorities to exercise jurisdiction, powers and authority conferred by or under this Act.",
+      "(2) Adjudicating Authority shall consist of a Chairperson and at least two other members.",
+      "(3) A person shall not be qualified for appointment as the Chairperson or a member of the adjudicating authority, unless that person⸺",
+      ">(a) is or has been a member of the Inland Revenue Service and has held the post of Chief Commissioner Inland Revenue or equivalent post in that service; or",
+      ">(b) is or has been a member of any Federal service and has held the post of Additional Secretary or equivalent post in that service.",
+      "(4) The Chairperson and the other members of the adjudicating authority shall be appointed by the Federal Government in such manner as may be prescribed.",
+      "(5) The Federal Government shall appoint the senior most member to be the Chairperson of the Adjudicating Authority."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Constitution of benches of adjudicating authority",
+     "page": 8,
+     "text": [
+      "(1) Subject to the provisions of this Act,⸺",
+      ">(a) the jurisdiction of the Adjudicating Authority may be exercised by benches thereof;",
+      ">(b) a bench may be constituted by the Chairperson of the Adjudicating Authority with two members, as the Chairperson may deem fit;",
+      ">(c) the benches of the Adjudicating Authority shall sit at such places as the Federal Government may, in consultation with the Chairperson and by notification in the official Gazette, specify; and",
+      ">(d) the Federal Government shall, by notification in the official Gazette, specify the areas in relation to which each bench of the Adjudicating Authority may exercise jurisdiction.",
+      "(2) Notwithstanding anything contained in sub-section (I), the Chairperson may transfer a member from one bench to another bench."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Power of the Adjudicating Authority to regulate its own procedure",
+     "page": 9,
+     "text": [
+      "The Adjudicating Authority shall, as far as may be practicable, be bound by the procedure laid down in the Code of Civil Procedure, 1908 (Act V of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act, the Authority shall have powers to regulate its own procedure."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Term of office of Chairperson and members of Adjudicating Authority",
+     "page": 9,
+     "text": [
+      "The Chairperson and members of the Adjudicating Authority shall hold office for a term not exceeding three years from the date on which they enter upon their office or until they attain the age of sixty-two years, whichever is earlier, and. shall not be eligible for re-appointment."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Terms and conditions of service of Chairperson and members of Adjudicating Authority",
+     "page": 9,
+     "text": [
+      "(1) The salary and allowances payable to and the other terms and condition of service of the Chairperson and other members of the Adjudicating Authority shall be such as may be prescribed.",
+      "(2) Any vacancy caused in the office of the Chairperson or any other member shall be filled in within a period of three months from the date on which such vacancy occurs."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Removal of Chairperson and members of Adjudication Authority",
+     "page": 9,
+     "text": [
+      "(1) The Federal Government may, by an order in writing, remove from office the Chairperson or a member of the Adjudicating Authority, if the Chairperson or such other member, as the case may be,⸺",
+      ">(a) has been adjudged as an insolvent; or",
+      ">(b) is convicted of an offence, involving moral turpitude; or",
+      ">(c) has become physically or mentally incapable of acting as a member; or",
+      ">(d) has acquired such financial or other interest as is likely to affect prejudicially his functions: or",
+      ">(e) has so abused his position as to render his continuance in office prejudicial to the public interest.",
+      "(2) The Chairperson or a member shall not be removed from his office under clause (c), (d) or",
+      ">(e) of sub-section (1) unless he has been given a reasonable opportunity of being heard in the matter."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Member to act as Chairperson in certain circumstances",
+     "page": 9,
+     "text": [
+      "(1) In the event of occurrence of any vacancy in the office of the Chairperson by reason of his death, resignation or otherwise, the most senior member shall act as the Chairperson of the Adjudicating Authority until the date on which a new Chairperson, appointed in accordance with the provisions of this Act to fill the vacancy, enters upon his office.",
+      "(2) When the Chairperson is unable to discharge his functions owing to absence, illness or any other cause, the Federal Government may direct the senior most member to discharge the functions of the Chairperson until the date on which the Chairperson resumes his duties."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Vacancies, defects and irregularities not to invalidate proceedings of Adjudicating Authority",
+     "page": 9,
+     "text": [
+      "No act or proceeding of the Adjudicating Authority shall be invalid merely by reason of",
+      ">(a) any vacancy in, or any defect in the constitution of, the Authority; or",
+      ">(b) any defect in the appointment of a person acting as a member of the Authority; or",
+      ">(c) any irregularity in the procedure of the Authority not affecting the merits of the case."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Officers and employees of Adjudicating Authority",
+     "page": 10,
+     "text": [
+      "The officers and employees of the Adjudicating Authority shall discharge their functions under the general superintendence of the Chairperson of the Adjudicating Authority."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Authority and jurisdiction",
+     "page": 10,
+     "text": [
+      "(l) The following shall be the authorities for the purposes of this Act, namely:",
+      ">(a) the price that the property would ordinarily fetch on sale in the open market on the date of the transaction; and",
+      ">(b) the Approving Authority;",
+      ">(e) the Administrator; and",
+      ">(d) the Adjudicating Authority.",
+      "(2) The authorities shall exercise all or any of the powers and perform all or any of the functions conferred upon it or assigned to it under this Act or in accordance with such rules as may be prescribed."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Powers of authorities",
+     "page": 10,
+     "text": [
+      "(1) The authorities shall, for the purposes of this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (Act V of 1908), while trying a suit in respect of the following matters, namely: ⸺",
+      ">(a) discovery and inspection:",
+      ">(b) enforcing attendance of any person;",
+      ">(c) compelling production of books of accounts and other documents;",
+      ">(d) issuing commissions;",
+      ">(e) receiving evidence on affidavits; and",
+      ">(f) any other matter which may be prescribed.",
+      "(2) Any proceeding under sub-section (1) shall be deemed to be a judicial proceeding within the meaning of section 193 and section 228 of the Pakistan Penal Code. 1860 (Act XLV of 1860)."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Assistance to the authorities",
+     "page": 10,
+     "text": [
+      "Every officer of Inland Revenue Service, Customs, AntiNarcotic Force, Provincial Excise and Taxation Department, District Coordinating Officer, District Revenue Officer, recognized Stock Exchange, State Bank of Pakistan, Securities and Exchange Commission of Pakistan, officers ofany body corporate constituted by or established under any law, banking companies, Central Depository Company, National Clearing Company of Pakistan Ltd., Police, Civil Armed Forces and any other agency or institution are required to assist the Authorities and Chairperson and members of the Tribunal in discharge of their functions under this Act."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Information Collection",
+   "sections": [
+    {
+     "no": "18",
+     "title": "Power to call for information",
+     "page": 11,
+     "text": [
+      "Any authority or Chairperson or member of the Appellate Tribunal under this Act shall have power to require any officer of the Federal Government or Provincial Government or a local body or an authority or any person or officer who is responsible for registering any property or maintaining books of accounts or other documents containing a record of any transaction relating to any property or any other person to furnish any information in relation to any person, point ormatter as in his opinion shall be useful for or relevant for the purposes of this Act."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Power to enter and search premises",
+     "page": 11,
+     "text": [
+      "(1) In order to enforce any provision of this Act any Authority defined under this Act shall at all times and without prior notice have full and free access to any premises, place, accounts, documents or computer.",
+      "(2) The Authority may stamp or make copy of documents or computer stored information."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Power of Authority to impound documents",
+     "page": 11,
+     "text": [
+      "(1) Where any books of accounts or other documents are produced before any Authority in any proceedings under this Act or the accounts. books of documents or computer are accessed while exercising powers under section I9 and the Authority in this behalf has reason to believe that any of the books of accounts or documents or computer are required to be impounded and retained for any inquiry under this Act, it may impound and retain them for a period not exceeding three months:",
+      "Provided that the period for retention may be extended beyond a period exceeding three months:",
+      "Provided further that the Authority shall record the reasons in writing for extension of retention.",
+      "(2) Where the Authority impounding and retaining the books of account or other documents or computer under sub-section (1) is the Initiating Officer, he shall obtain approval of the Approving Authority within a period of fifteen days from the date of initial impounding and seek further approval of the Approving Authority for extending the period of initial retention, before the expiry of the period of initial retention, if so required.",
+      "(3) The period of retention of the books of account or other documents under sub-section (1) shall in no case exceed a period of thirty days from the date of conclusion of all the proceedings under this Act.",
+      "(4) The person, from whom the books of account or other documents were impounded under sub-section (1), shall be entitled to obtain copies thereof.",
+      "(5) On the expiry of the period specified under sub-section (I), the books of account, other documents or computer, as the case may be, shall be returned to the person from whom such books of account or other documents or computer were impounded unless the Approving Authority or the Adjudicating Authority permits their release to the owner or any other person nominated by the owner from whom it was impounded."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Power of Authority to conduct inquiries and investigations",
+     "page": 12,
+     "text": [
+      "The Initiating Officer. after obtaining prior approval of the Approving Authority, shall have power to conduct or cause to be conducted any inquiry or investigation in respect of any person, place, property, assets, documents. books of account or other documents, in respect of any other relevant matters under this Act."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Attachment, Adjudication And Confiscation",
+   "sections": [
+    {
+     "no": "22",
+     "title": "Notice and attachment of property involved in Benami transaction",
+     "page": 12,
+     "text": [
+      "(1) Where the Initiating Officer, on the basis of material in his possession, has reason to believe that any person is a Benamidar in respect of a property, he may, after recording reasons in writing, issue a notice to such person to show cause, within such time as may be specified in the notice, as to why such property should not be treated as Benami property.",
+      "(2) The Initiating Officer shall serve copy of the notice issued under sub-section (I) upon such other person who is a beneficial owner.",
+      "(3) Where the Initiating Officer is of the opinion that the person in possession of the property held Benami may alienate such property during the period specified in the notice, he may, with the prior approval of the Approving Authority and by order in writing, attach provisionally property in the manner as may be prescribed, for a period not exceeding ninety days from the date of issue of notice under sub-section (I).",
+      "(4) The Initiating Officer, after making such inquires and calling for such reports or evidence as he deems fit and taking into account all relevant materials. shall, within a period of ninety days from the date of issue of notice under sub-section (1)",
+      ">(a) where the provisional attachment has been made under sub-section (3),",
+      ">>(i) pass an order continuing the provisional attachment of the property with the prior approval of the Approving Authority, till the passing of the order made by the Adjudicating Authority under sub-section (3) of section 24; or",
+      ">>(ii) revoke the provisional attachment of the property with the prior approval of the Approving Authority;",
+      ">(b) where provisional attachment has not been made under sub-section ().",
+      ">>(i) pass an order provisionally attaching the property with the prior approval of the Approving Authority, till the date of passing of the order by the Adjudicating Authority under sub-section (3) of section 24;",
+      ">>(ii) decide not to attach the property as specified in the notice, with the ·prior approval of the Approving Authority.",
+      "(5) Where the Initiating Officer passes an order continuing the provisional attachment of the property under sub-clause (i) of clause (a) of sub-section (4) or passes an order provisionally attaching the property under sub-clause (i) of clause (b) of that sub-section, he shall, within sixty days from the date of the attachment, draw up a statement of the case and refer it to the Adjudicating Authority."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Manner of service of notice",
+     "page": 13,
+     "text": [
+      "(1) A notice issued under this Act may be served in the manner” as provided under section 218 of the Income Tax Ordinance, 200 l(XLIX of2001) and all provisions ofthat section shall apply."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Adjudication of Benami property",
+     "page": 13,
+     "text": [
+      "(1) On receipt of a reference under sub-section (5) of section 22, the Adjudicating Authority shall serve notices to furnish such documents, particulars or evidence as is considered necessary on a date to be specified therein, on the following persons, namely:-",
+      ">(a) the person specified as a Benamidar therein;",
+      ">(b) any person referred to as the beneficial owner therein or identified as such;",
+      ">(c) any interested party, including a banking company; and",
+      ">(d) any person who has made a claim in respect of the property:",
+      "Provided that the Adjudicating Authority shall issue notice within a period of thirty days from the date on which a reference has been received:",
+      "Provided further that the notice shall provide a period of not less than thirty days to the person to whom the notice is issued to furnish the information sought.",
+      "(2) Where such property is held jointly by more than one person, the Adjudicating Authority shall make all endeavors to serve notice to all persons holding such property jointly:",
+      "Provided that where the notice is served on any one of the persons, jointly holding the property, the service of notice shall not be invalid on the ground that the said notice was not served to all the persons holding the property jointly.",
+      "(3) The Adjudicating/\\uthority shall, after⸺",
+      ">(a) considering the reply, if any, to the notice issued under this section;",
+      ">(b) making or causing to be made such inquiries and calling for such reports or evidence as it deems fit: and",
+      ">(c) taking into account all relevant materials.",
+      "provide an opportunity of being heard to the person specified as a Benamidar therein, the Initiating Officer and any other person who claims to be the owner of such property and ,thereafter, pass an order",
+      ">>(i) holding the property not to be a Benami property and revoking the attachment order; or",
+      ">>(ii) holding the property to be a Benami property and confirming the attachment order.",
+      "(4) Where the Adjudicating Authority is satisfied that some part of the property in respect of which reference has been made to him is Benami property, but is not able to specifically identify such part, he shall record a finding to the best of his judgment as to which part of property is held Benami.",
+      "(5) Where in the course of proceedings before him, the Adjudicating Authority has reason to believe that a property other than a property referred to him by the Initiating Officer is Benami property, he shall provisionally attach such property and such property shall be deemed to be a property referred to him on the date of receipt of tho reference under sub-section (5) of section 22.",
+      "(6) The Adjudicating Authority may, at any stage of the proceedings, either on the application of any party or suo moto, strike out the name of any party improperly joined or add the name, of any person whose presence before the Adjudicating Authority may be necessary to enable it to adjudicate upon and settle all the questions involved in the reference.",
+      "(7) No order under sub-section (3) shall be passed after the expiry of one year from the receipt of the reference under sub-section (5) of section 22."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Confiscation and vesting of Benami property",
+     "page": 14,
+     "text": [
+      "(1)Where an order is passed in respect of any property under sub-section (3) of section 24, holding such property to be a Benami property, the Adjudicating Authority shall, after giving to the person concerned, an opportunity of being heard make an order confiscating the property held to be a Benami property:",
+      "Provided that where an appeal has been filed against the order of the Adjudicating Authority, the confiscation of property shall be made subject to the order passed by the Tribunal under section 44:",
+      "Provided further that the confiscation of the property shall be made in accordance with such procedure as may be prescribed.",
+      "(2) Nothing in sub-section () shall apply to a property held or acquired by a person from the Benamidar for adequate consideration, prior to the issuance of notice under sub-section (I) of section 22, without having knowledge of the Benami transaction.",
+      "(3) Where an order of confiscation has been made under sub-section (I), all the rights and title in such property shall vest absolutely in the Federal Government free of all encumbrances and no compensation shall be payable in respect of such confiscation.",
+      "(4) Any right of any third person created in such property with a view to defeat the purposes of this Act shall be null and void.",
+      "(5) Where no order of confiscation is made upon the proceedings under this Act attaining finality, no claim shall lie against the Government."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Management of properties confiscated",
+     "page": 14,
+     "text": [
+      "(1) The Administrator shall have the power to receive and manage the property, in relation to which an order of confiscation under sub-section (L) of section 22 has been made, in such manner and subject to such conditions, as may be prescribed.",
+      "(2) The Federal Government may, by order publish in the official Gazette, notify as many of its officers as it thinks fit to perform the functions of Administrators.",
+      "(3) The Administrator shall also take such measures, as the Federal Government may direct, to dispose of the property which is vested in the Federal Government under sub-section (3) of section 25, in such manner and subject to such conditions as may be prescribed."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Possession of property",
+     "page": 15,
+     "text": [
+      "(1) Where an order of confiscation in respect of a property under sub-section (I) of section 25 has been made, the Administrator shall proceed to take the possession of such property.",
+      "(2) The Administrator shall,",
+      ">(a) by notice in writing, order within seven days of the date of the service of notice, any person who may be in possession of the Benami property, to surrender or deliver possession thereof to the Administrator or any other person duly authorized in writing by him in this behalf; and",
+      ">(b) in the event of non-compliance of the order referred to in clause (a). or if in his opinion. taking over of immediate possession is warranted, for the purpose of forcibly taking over possession, requisition the service of any police officer to assist him and it shall be the duty of such officer to comply with such requisition."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Federal Appellate Tribunal",
+   "sections": [
+    {
+     "no": "28",
+     "title": "Establishment of the Federal Appellate Tribunal",
+     "page": 15,
+     "text": [
+      "The Federal Government may, by notification in the official Gazette, establish Federal Appellate Tribunal to hear appeals against the orders of the Adjudication Authority under this' Act."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Composition and jurisdiction of the Tribunal",
+     "page": 15,
+     "text": [
+      "(1) The Tribunal shall consist of a Chairperson and at least two other Members of which one shall be a Judicial Member and other shall be an Accountant Member.",
+      "(2) Subject to the provisions of this Act, ⸺",
+      ">(a) the jurisdiction of the Tribunal may be exercised by Benches thereof;",
+      ">(b) a Bench may be constituted by the Chairperson with two Members as the Chairperson may deem fit;",
+      ">(c) the Benches of the Tribunal shall sit at such places as the Federal Government may, in consultation with the Chairperson and by notification in the official Gazette, specify; and",
+      ">(d) the Federal Government shall, by notification in the official Gazette, specify the areas in relation to which each Bench of the Tribunal may exercise its jurisdiction.",
+      "(3) Notwithstanding anything contained in sub-section (2), the Chairperson may transfer a Member from one Bench to another Bench."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Qualification for appointment of Chairperson and Members of Federal Appellate Tribunal",
+     "page": 16,
+     "text": [
+      "(1) A person shall not be qualified for appointment as Chairperson of the Tribunal unless he is, or has been. a Judge of a High Court.",
+      "(2) A person shall not be qualified for appointment as a Judicial Member unless he has exercised the powers of a District Judge and is qualified to be appointed as a judge of a High Court.",
+      "(3) A person shall not be qualified for appointment as Accountant Member unless he,⸺",
+      ">(a) has been an officer of the Inland Revenue Service equivalent to the rank of Chief Commissioner Inland Revenue: or",
+      ">(b) has served as Commissioner Inland Revenue for three years and has also served as Commissioner Inland Revenue (Appeal) for at least one year.",
+      "(4) No sitting Judge of a High Court shall be appointed under th is section except after consultation with the Chief Justice of that High Court.",
+      "(5) The Chairperson or a Member holding a post as such in any other tribunal, established under any law for the time being in force, in addition to his being the chairperson or a member of that tribunal, may be appointed as the chairperson or a member, as the case may be, of the tribunal under this Act."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Terms and conditions of service of Chairperson and Members of Federal Appellate Tribunal",
+     "page": 16,
+     "text": [
+      "(1) The salary and allowances payable to, and the other terms and conditions of service of, the Chairperson and other Members shall be such as may be prescribed and shall not be varied to their disadvantage during their tenure.",
+      "(2) Any vacancy caused in the office of the Chairperson or any other Member shall be filled in within a period of three months from the date on which such vacancy occurs."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Terms of office of Chairperson and Members",
+     "page": 16,
+     "text": [
+      "The Chairperson and Members of the Tribunal shall hold office for a term not exceeding three years from the date on which they enter upon their office, or until they attain the age of sixty-five years, whichever is earlier and shall not be eligible for re-appointment."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Removal of Chairperson and Members from office in certain circumstances",
+     "page": 16,
+     "text": [
+      "(1) The Federal Government may, in consultation with the Chief Justice of High Court having jurisdiction, remove from office the Chairperson or any Member, who⸺",
+      ">(a) has been adjudged as an insolvent; or",
+      ">(b) convicted of an offence which in the opinion of the Federal Government, involves moral turpitude: or",
+      ">(c) has become physically or mentally incapable: or",
+      ">(d) has acquired such financial or other interest as is likely to affect prejudicially his functions; or",
+      ">(e) has so abused his position as to render his continuance in office prejudicial to the public interest.",
+      "(2) The Chairperson or a Member shall not be removed from his office except by an order made by the Federal Government after an inquiry made by Chief Justice of a High Court and the Chairperson or Member has been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges.",
+      "(3) The Federal Government may suspend from office the Chairperson or a Member in respect of whom a reference of conducting an inquiry has been made to the Chief Justice of a High Court under sub-section (2), until the Federal Government passes an order on receipt of the report of inquiry made by Chief Justice of the High Court on the reference.",
+      "(4) The Federal Government may regulate the procedure for inquiry referred to in sub-section (2) in the manner as may be prescribed."
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Vacancies, defects and irregularities not to invalidate proceedings of Federal Appellate Tribunal",
+     "page": 17,
+     "text": [
+      "No act or proceeding of the Tribunal shall be invalid merely by reason of⸺",
+      ">(a) any vacancy in, or any defect in the constitution of the Tribunal; or",
+      ">(b) any defect in the appointment of a person acting as a Member of the Tribunal; or",
+      ">(c) any irregularity in the procedure of the Tribunal not affecting the merits of the case."
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Resignation and removal",
+     "page": 17,
+     "text": [
+      "(1) The Chairperson or any Member may. by notice in writing under his hand addressed to the Federal Government, resign his office:",
+      "Provided that the Chairperson or any Member shall, unless he is permitted by the Federal Government to relinquish his office sooner, continue to hold office until the expiry of three months from the date of receipt of the notice or until a person duly appointed as his successor enters upon his office or until the expiry of his term of office, whichever is earlier."
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Member to act as Chairperson in certain circumstances",
+     "page": 17,
+     "text": [
+      "In the event of the occurrence of any vacancy in the office of the Chairperson of the Tribunal by reason of his death. resignation or otherwise the Federal Government may direct the senior-most Member to act as the Chairperson until the date on which a new Chairperson, appointed in accordance with the provisions of this Act to fill such vacancy, enters upon his office."
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Staff of Federal Appellate Tribunal",
+     "page": 17,
+     "text": [
+      "(1) The Federal Government shall provide to the Tribunal such officers and employees as it may deem necessary.",
+      "(2) The officers and employees of the Tribunal shall discharge their functions under the general superintendence of the Chairperson.",
+      "(3) The salaries and allowances and other conditions of service of the officers and employees of the Tribunal shall be such as may be prescribed ."
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Procedure and powers of Federal Appellate Tribunal",
+     "page": 18,
+     "text": [
+      "(1) The Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (Act V of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act, the Tribunal shall have powers to regulate its own procedure.",
+      "(2) The Tribunal shall, for the purposes of discharging its functions under this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (Act V of 1908) while trying a suit, in respect of the following matters, namely:-",
+      ">(a) summoning and enforcing the attendance of any person and examining him on oath;",
+      ">(b) requiring the discovery and production of documents;",
+      ">(c) receiving evidence an affidavits: and",
+      ">(d) subject to section 6 of Qanoon-e-Shahadat, 1984 (P.O. l0 of 1984), requisitioning any public record or document or copy of such record or document from any office.",
+      "(3) An order made by the Tribunal under this Act shall be executable by it as a decree of civil court and., for this purpose, the Tribunal shall have all the powers of a civil court.",
+      "(4) Notwithstanding anything contained in sub-section (3). the Tribunal may transmit any order made by it to a civil court having jurisdiction and the civil court shall execute the order as if it were a decree made by that court.",
+      "(5) All proceedings before the Tribunal shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 of the Pakistan Penal Code, 1860 (Act XLV of 1860) and the Tribunal shall be deemed to be a civil court for the purposes of sections 345 and 346 of the Code of Criminal Procedure, 1898 (Act V of 1898)."
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Distribution of business amongst Benches of Appellate Tribunal",
+     "page": 18,
+     "text": [
+      "Where any Benches are constituted, the Chairperson may, from time to time, by notification in the official Gazette, make provision as to the distribution of the business of the Tribunal amongst the Benches and also provide for the matters which may be dealt with by each Bench."
+     ]
+    },
+    {
+     "no": "40",
+     "title": "Power of Chairperson of Appellate Tribunal to transfer cases",
+     "page": 18,
+     "text": [
+      "On the application of any of the parties and notice to the parties, and after hearing them, or on his own motion without any notice, the Chairperson of the Tribunal may transfer any case pending before one Bench, for disposal, to any other Bench."
+     ]
+    },
+    {
+     "no": "41",
+     "title": "Decision to be by majority",
+     "page": 18,
+     "text": [
+      "lf the Members of a Bench consisting of two Members differ in opinion on any point, they shall state the point or points on which they differ, and make a reference to the Chairperson of the Tribunal who shall either hear the point or points himself for refer the case for hearing on the point or points by one or more of the other Members and the point or points shall be decided according to the opinion of the majority of the Members of the Tribunal who have heard the case, including those who first heard it."
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Chairperson, Members and other officers and employees to be public servants",
+     "page": 19,
+     "text": [
+      "The Chairperson, Members and other officers and employees of the Tribunal. the Adjudicating Authority, Approving Authority, Initiating Officer, Administrator and the officers sub-ordinate to all of them shall be deemed to be public servants within the meaning or section 21 of the Pakistan Penal Code, 1860 (Act XLV of 1860)."
+     ]
+    },
+    {
+     "no": "43",
+     "title": "Bar of jurisdiction of civil courts",
+     "page": 19,
+     "text": [
+      "No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which any of the authorities, or the Tribunal is empowered by or under this Act to determine, and no injunction shall be granted by any court or other forum in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act."
+     ]
+    },
+    {
+     "no": "44",
+     "title": "Appeals to Federal Appellate Tribunal",
+     "page": 19,
+     "text": [
+      "(1) Any person, including the Initiating Officer, aggrieved by an order of the Adjudicating Authority may prefer an appeal in such form and such manner, as may be prescribed. to the Tribunal against the order passed by the Adjudicating Authority under sub-section (3) of section 24, within a period of forty- five days from the date of receipt of the order.",
+      "(2) The Tribunal may entertain any appeal after the said period of forty five days, if it is satisfied that the appellant was prevented. by sufficient cause. from filing the appeal in time.",
+      "(3) On receipt of an appeal under sub-section (1), the Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit.",
+      "(4) The Tribunal while deciding the appeal shall have the power⸺",
+      ">(a) to determine a case finally, where the evidence on record is sufficient;",
+      ">(b) to take additional evidence or to require any evidence to be taken by the Adjudicating Authority, where the Adjudicating Authority has refused to admit evidence, which ought to have been admitted;",
+      ">(c) to require any document to be produced or any witness to be examined for the purposes of proceeding before it;",
+      ">(d) to frame issues which appear to the Tribunal essential for adjudication of the case and refer them to the Adjudicating Authority for determination; and",
+      ">(e) to pass final order and affirm, vary or reverse an order of adjudication passed by the Adjudicating Authority and pass such other order or orders as may be necessary to meet the ends of justice.",
+      "(5) The Tribunal may, as far as possible, hear and finally decide the appeal within a period of one year from the last date of the month in which the appeal is filed."
+     ]
+    },
+    {
+     "no": "45",
+     "title": "Rectification of mistakes",
+     "page": 19,
+     "text": [
+      "(1) The Adjudicating Authority or the Tribunal may by order in writing amend any order passed by it to rectify any mistake apparent from record on its own motion or any mistake brought to its notice, within a period of one year from the end of the financial year in which the order was passed.",
+      "(2) No amendment shall be made under sub-section (I), if the amendment is likely to affect any person prejudicially, unless he has been given notice of intention to do so and has been given an opportunity of being heard."
+     ]
+    },
+    {
+     "no": "46",
+     "title": "Right to representation",
+     "page": 20,
+     "text": [
+      "(1) A person preferring an appeal to the Tribunal under this Act may either appear in person or through an authorized representative of his choice to present his case before the Tribunal.",
+      "(2) The Federal Government may authorize one or more of its officers to act as presenting officers on its behalf, and every person so authorized may present the case with respect to any appeal before the Tribunal.",
+      "Explanation.-For the purposes of this section. “authorized representative” means a person authorized by the appellant in writing to appear on his behalf, being⸺",
+      ">(a) a person related to the appellant in any manner, or a person regularly employed by the appellant: or",
+      ">(b) any legal practitioner who is entitled to practice in any civil court in Pakistan; or",
+      ">(c) any person who is a Chartered Accountant within the meaning of Chartered Accountants Ordinance, 1961 (X of 1961) or Cost and Management Accountant within the meaning of Cost and Management Accountants Act, 1966 (XIV of 1966); or",
+      ">(d) any person who has acquired such educational qualifications as the Board may prescribe for this purpose."
+     ]
+    },
+    {
+     "no": "47",
+     "title": "Appeal to High Court",
+     "page": 20,
+     "text": [
+      "(l) Any party aggrieved by any decision or order of the Appellate Tribunal may file an appeal to the concerned High Court within a period of sixty days from the date of service of the decision or order of the Tribunal to him on any question of law arising out of such order.",
+      "(2) The High Court may entertain any appeal after the expiry of said period of sixty days. if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the period specified in sub-section (1).",
+      "(3) Where the High Court is satisfied that a substantial question of law is involved in any case, it shall formulate that question.",
+      "(4) The appeal to the High Court under this section shall be heard by a Bench of not less than two judges of the High Court.",
+      "(5) The appeal shall be heard only on the question so formulated and the respondents shall at the hearing of the appeal, be allowed to argue that the case does not involve such question.",
+      "(6) Nothing in this section shall be deemed to take away or abridge the power of the court to hear, for reasons to be recorded in writing. the appeal on any other substantial question of law not formulated by it, if it is satisfied that the case involves such question.",
+      "(7) The High Court shall decide the question of law so formulated and deliver the judgment thereon containing the grounds on which any decision is founded and may award any cost as it deems fit.",
+      "(8) The High Court may determine any issue which⸺",
+      ">(a) has not been determined by the Tribunal; or",
+      ">(b) has been wrongly determined by the Tribunal, by reason of a decision on such question of law as is referred to in sub-section (l ) .",
+      "(9) Save as otherwise provided in this Act, the provisions of the Code of Civil Procedure, 1908 (Aet V of 1908), relating to appeals to the High Court shall, as far as may be applicable, apply in the case of appeals under this section.",
+      "(10) The court shall send a copy of the judgment under the seal of court to the appellant and the respondents."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Special Courts",
+   "sections": [
+    {
+     "no": "48",
+     "title": "Special Courts",
+     "page": 21,
+     "text": [
+      "(1) The Federal Government, in consultation with the Chief Justice of the concerned High Court, shall for trial ofan offence punishable under this Act, by notification in the official Gazette, designate one or more Courts of Sessions as Special Court or Special Courts for such area or areas or for such case or class or group of cases as may be specified in the notification.",
+      "(2) While trying an offence under this Act, a Special Court shall also try an offence other than an offence referred to in sub-section (I), with which the accused may, under the Code of Criminal Procedure, 1898 (Act V of 1898), be charged at the same trial.",
+      "(3) The Special Court shall not take cognizance of any offence punishable under this Act except upon a complaint in writing made by⸺",
+      ">(a) the authority: or",
+      ">(b) any officer of the Federal Government or Provincial Government authorized in writing by that Government by a general or special order made in this behalf.",
+      "(4) Every trial under this section shall be conducted as expeditiously as possible and every endeavour shall be made by the Special Court to conclude the trial within six months from the date of filing of the complaint."
+     ]
+    },
+    {
+     "no": "49",
+     "title": "Application of Code of Criminal Procedure, 1898 to proceedings before Special Court",
+     "page": 21,
+     "text": [
+      "⸺ (1) Save as. otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1898 (Act V of 1898), shall apply to the proceedings before a Special Court and the persons conducting the prosecution before the Special Court, shall be deemed to be public prosecutors:",
+      "Provided that the Federal Government may also appoint for any case or class or group of cases a special public prosecutor.",
+      "(2) A person shall not be qualified to be appointed as a public prosecutor or a special public prosecutor under this section unless he has been in practice as an advocate in a court for not less than seven years or, as the case may be, for not less than ten years.",
+      "(3) Every person appointed as a public prosecutor or a special public prosecutor under this section shall be deemed to be a public prosecutor within the meaning of clause (t) of section 4 of the Code of Criminal Procedure, 1898 (Act V of 1898) and the provisions of that Code shall have effect accordingly."
+     ]
+    },
+    {
+     "no": "50",
+     "title": "Appeal and revision",
+     "page": 22,
+     "text": [
+      "The High Court may exercise, so far as may be applicable, all the powers conferred on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Sessions trying cases within the local limits of the jurisdiction of the High Court."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VIII — Offences And Prosecution",
+   "sections": [
+    {
+     "no": "51",
+     "title": "Penalty for Benami transaction",
+     "page": 22,
+     "text": [
+      "(1) Where any person enters into a Benami transaction or holds Benami property in order to defeat the provisions any law or to avoid payment of statutory dues or to avoid payment to creditors. the beneficial owner, Benamidar and any other person who abets or induces any person to enter into the Benami transaction, shall be guilty of an offence of Benami transaction.",
+      "(2) Whoever is found guilty of the offence of Benami transaction or holding Benami property referred to in sub-section (1) shall be punishable with rigorous imprisonment for a term which shall not be less than one year, but which may extend to seven years and shall also be liable to fine which may extend to twenty-five percent of the fair market value of the property."
+     ]
+    },
+    {
+     "no": "52",
+     "title": "Penalty for false information",
+     "page": 22,
+     "text": [
+      "Any person or any officer, who is required to furnish information under this Act, knowingly gives false information to any authority or furnishes any false document in any proceeding under this Act shall be punishable with rigorous imprisonment for a term which shall not be less than six months but which may extend to five years and shall also be liable to fine which may extend to ten percent of the fair market value of the property."
+     ]
+    },
+    {
+     "no": "53",
+     "title": "Previous sanction",
+     "page": 22,
+     "text": [
+      "No prosecution shall be instituted against any person in respect of any offence under section 5l or section 52 without the previous sanction of the Board."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IX — Miscellaneous",
+   "sections": [
+    {
+     "no": "54",
+     "title": "Certain transfers to be null and void",
+     "page": 22,
+     "text": [
+      "Notwithstanding anything contained in the Transfer of Property Act, 1882 (IV of 1882) or any other law for the time being in force, where, after the issue of a notice under section 22, any property referred to in the said notice is transferred by any mode whatsoever, the transfer shall, for the purposes of the proceedings under this Act, be ignored and if the property is subsequently confiscated by the Federal Government under section 25, then, the transfer of the property shall be deemed to be null and void."
+     ]
+    },
+    {
+     "no": "55",
+     "title": "Power of Federal Government to issue directions, orders and instructions",
+     "page": 23,
+     "text": [
+      "(1) The Federal Government may, from time to time, issue such orders, instructions or directions to the authorities or require any person to furnish information as it may deem fit forthe proper administration of this Act and such authorities and all other persons employed in execution of this Act shall observe and follow the orders, instructions and directions of the Federal Government.",
+      "(2) In issuing the directions or orders referred to in sub-section (1), the Federal Government may have regard to any one or more of the following criteria, namely:-",
+      ">(a) territorial area:",
+      ">(b) classes of persons;",
+      ">(c) classes of cases: and",
+      ">(d) any other criterion that may be specified by the Federal Government in this behalf.",
+      "(3) No orders. instructions or directions under sub-section (I) shall be issued so as to-",
+      ">(a) require any authority to decide a particular case in a particular manner; or",
+      ">(b) interfere with the discretion of the Adjudicating Authority in the discharge of its functions."
+     ]
+    },
+    {
+     "no": "56",
+     "title": "Act to override other laws",
+     "page": 23,
+     "text": [
+      "The provisions of this Act shall apply notwithstanding anything to the contrary contained in any other law for the time being in force."
+     ]
+    },
+    {
+     "no": "57",
+     "title": "Offences to be non-cognizable",
+     "page": 23,
+     "text": [
+      "Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (Act V of 1898), an offence under this Act shall be non-cognizable."
+     ]
+    },
+    {
+     "no": "58",
+     "title": "Offences by companies",
+     "page": 23,
+     "text": [
+      "(1) Where a person committing contravention of any of the provisions of this Act or of any rule, direction or order made thereunder is a company, every person who, at the time the contravention was committed, was incharge of, and was responsible to, the company, for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly.",
+      "(2) Nothing contained in sub-section (I) shall render any person liable to punishment if he proves that the contravention took place without his knowledge.",
+      "(3) Notwithstanding anything contained in sub-section (I), where a contravention of any of the provisions of this Act or of any rule, direction or order made thereunder has been committed by a company and it is proved that the contravention has taken place with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, the director, manager, secretary or other officer shall also be deemed be guilty of the contravention and shall be liable to be proceeded against and punishes accordingly.",
+      "Explanation.-For the purposes of this section, ⸺",
+      ">(a) “company” means a body corporate, and includes",
+      ">>(i) a firm; and",
+      ">>(ii) an association of persons or a body of individuals whether incorporated or not; and",
+      ">(b) “director”, in relation to⸺",
+      ">>(i) a frim, means a partner in the firm; and",
+      ">>(ii) any association of persons or a body of individuals, means any member controlling the affairs thereof."
+     ]
+    },
+    {
+     "no": "59",
+     "title": "Notice, summons, order, document or other proceeding, not to be invalid on certain grounds",
+     "page": 24,
+     "text": [
+      "No notice, summons, order, document or other proceeding, furnished or made or issued or taken or purported to have been furnished or made or issued or taken in pursuance of any of the provisions of this Act shall be invalid, or shall be deemed to be invalid merely by reason of any mistake, defector omission in the notice, summons, order, document or other proceeding if the notice, summons, order, document or other proceeding is in substance and effect in conformity with or according to the intent and purpose of this Act."
+     ]
+    },
+    {
+     "no": "60",
+     "title": "Protection of action taken in good faith",
+     "page": 24,
+     "text": [
+      "No prosecution, suit or other proceeding shall lie against the Government or any officer of the Government or the Tribunal or the Adjudicating Authority established under this Act, for anything done or intended to be done in good faith under this Act."
+     ]
+    },
+    {
+     "no": "61",
+     "title": "Power to make rules",
+     "page": 24,
+     "text": [
+      "The Federal Government may, by notification in the official Gazette, make rules for carrying out the provisions of this Act."
+     ]
+    },
+    {
+     "no": "62",
+     "title": "Reward to whistleblowers",
+     "page": 24,
+     "text": [
+      "(1) The Board may sanction reward to whistleblowers in case of credible information leading to detection of Benami property or Benami transaction.",
+      "(2) The claim for reward by the whistleblower shall be rejected. if-",
+      ">(a) the information provided is of no value;",
+      ">(b) the Board already had the information:",
+      ">(c) the information was available in public records; and",
+      ">(d) appeal against confiscation of Benami property has not attained finality.",
+      "(3) For the purpose of this section, “whistleblower” means a person who reports any property held Benami to the Board.",
+      "(4) The Board may, by notification in the official Gazette, prescribe the procedure in this behalf and also specify the apportionment of reward sanctioned under this section for whistleblowers."
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Pakistan Code shows this Act as enacted, with no later amendments recorded. Check the Gazette for any amending Acts before relying on it."
 }

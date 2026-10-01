@@ -94,6 +94,8 @@ Further options, used for the FBR Income Tax Ordinance and Rules:
 | `annexInline: true` | Annexures printed between chapters: an annexure ends at the next chapter heading or the next provision in sequence. |
 | `lowercaseContinues: true` | Double-spaced editions: a new paragraph needs a clause label, "Provided"/"Explanation", or a finished sentence before it. |
 | `imageProvisions: [{no, title, page, pages}]` | Provisions printed only as scanned images: listed with their contents-list heading and a pointer to the PDF pages. No text is invented. |
+| `plainHeadings: true` | Accept "CHAPTER I" / "PART II" labels printed in regular weight (Pakistan Code editions). |
+| `spaceGaps: true` | Insert the space between adjacent font runs that are visibly apart but carry no space character. |
 | `pdfUrl`, `remotePdf: true` | Link the regulator's own PDF instead of republishing it (for very large editions). The extractor downloads it when it is not in `sources/pdf/`. |
 
 The report also counts `unlinkedMarkers` (amendment markers whose note was not captured; the site marks them and points to the PDF page) and `notesFromEarlierPages`.

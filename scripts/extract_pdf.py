@@ -54,8 +54,11 @@ class Line:
         return "".join(s["text"] for s in self.spans)
 
 
-def load_lines(doc):
-    """Return lines per page, merging PyMuPDF lines that share a baseline."""
+def load_lines(doc, space_gaps=False):
+    """Return lines per page, merging PyMuPDF lines that share a baseline.
+
+    With space_gaps, a space is inserted between adjacent spans that are visibly apart but carry no
+    space character (word-processor exports that set "of" and an italic "Benami" as separate runs)."""
     pages = []
     for pno, page in enumerate(doc):
         raw = []
@@ -63,6 +66,9 @@ def load_lines(doc):
             for l in b.get("lines", []):
                 # oversized ".." spans are invisible layout artefacts in some FBR editions
                 spans = [s for s in l["spans"] if s["text"] and not (s["size"] >= 18 and re.fullmatch(r"\s*(\.{2,3}|…)\s*", s["text"]))]
+                for s in spans:
+                    if "\uf02d" in s["text"]:
+                        s["text"] = s["text"].replace("\uf02d", "-")  # Symbol-font hyphen
                 if spans and any(s["text"].strip() for s in spans):
                     raw.append(spans)
         # group spans into visual lines by vertical centre
@@ -81,6 +87,10 @@ def load_lines(doc):
         out = []
         for cy, spans in lines:
             spans.sort(key=lambda s: s["bbox"][0])
+            if space_gaps:
+                for a, b in zip(spans, spans[1:]):
+                    if a["text"][-1:].isalnum() and b["text"][:1].isalpha() and b["bbox"][0] - a["bbox"][2] > b["size"] * 0.12:
+                        b["text"] = " " + b["text"]
             if cy < 70 and re.search(r"\S\s*_{8,}\s*$", "".join(s["text"] for s in spans)):
                 continue  # running header ruled off with underscores, e.g. "Chapter X – Procedure_____"
             out.append(Line(pno, cy, spans[0]["bbox"][0], spans))
@@ -236,6 +246,8 @@ def section_start(l, bs, untitled=False):
     if m.group(3) and m.group(4):
         lead = re.sub(r"\[$", "", lead)  # "[19D]." -- the brackets enclose only the number
     number, dot, tail = m.group(2), m.group(4), m.group(5)
+    if tail and spans[i]["text"][-1:].isspace():
+        tail += " "  # keep the word break before a following span, e.g. "Adjudication of " + italic "Benami"
     if spans[i]["size"] < bs - 1.5:
         return None
     num_bold = is_bold(spans[i])
@@ -299,7 +311,7 @@ def section_start(l, bs, untitled=False):
     if not heading and num_bold and j < len(spans):
         # heading set in regular type after a bold number: "78. Prescribed form for reference.- text"
         plain_rest = line_text(Line(l.page, l.y, l.x, spans[j:], l.kp), bs)
-        mm = re.match(r"^([A-Z][^.{}]{3,150}?)(\.\s*[-–—―−]{1,2}|\s[–—―−]{1,2}(?=\s|\())\s*(.*)$", plain_rest)
+        mm = re.match(r"^([A-Z][^.{}]{3,150}?)(\.\s*[-–—―−⸺⸻]{1,2}|\s[–—―−⸺⸻]{1,2}(?=\s|\())\s*(.*)$", plain_rest)
         if mm:
             return number, mm.group(1), lead, mm.group(3)
     if not heading:
@@ -310,7 +322,7 @@ def section_start(l, bs, untitled=False):
         pass
     rest = line_text(Line(l.page, l.y, l.x, spans[j:], l.kp), bs) if j < len(spans) else ""
     # Split "Heading.— text" at the heading delimiter (a dash after a full stop, a spaced dash, or an em dash).
-    mm = re.match(r"^(.{2,200}?)(\.\s*[-–—―−]{1,2}|\s[–—―−]{1,2}(?=\s|\()|—|―|\.\s*$)(.*)$", heading)
+    mm = re.match(r"^(.{2,200}?)(\.\s*[-–—―−⸺⸻]{1,2}|\s[–—―−⸺⸻]{1,2}(?=\s|\()|—|―|⸺|⸻|\.\s*$)(.*)$", heading)
     if mm and (mm.group(3).strip() or not head_bold):
         heading, rest = mm.group(1), norm_space(mm.group(3) + " " + rest)
     return number, heading, lead, rest
@@ -318,7 +330,7 @@ def section_start(l, bs, untitled=False):
 
 def clean_heading(h):
     h = re.sub(r"^[\s\-–—―“\"]+", "", h.strip())
-    h = re.sub(r"[\s.\-–—―−:]+$", "", h)
+    h = re.sub(r"[\s.\-–—―−⸺⸻:]+$", "", h)
     return h.strip()
 
 
@@ -538,7 +550,7 @@ def extract(entry):
     doc = pymupdf.open(pdf)
     if entry.get("pdfOnly"):
         return base_record(entry, [], "", []), {"id": entry["id"], "pages": len(doc), "pdfOnly": True}
-    pages = load_lines(doc)
+    pages = load_lines(doc, entry.get("spaceGaps", False))
     bs = body_size(pages)
     running = running_lines(pages)
     REF_RATIO[0] = entry.get("refSizeRatio", 0.75)
@@ -661,7 +673,8 @@ def extract(entry):
             plain = norm_space(re.sub(r"\{fn:[^}]+\}", "", text))
 
             # Part / chapter / schedule headings (bold, short)
-            if bold_line and len(plain) < 90 and HEADING_RE.match(plain.lstrip("[")) and (not in_schedule or entry.get("annexInline")):
+            plain_label = entry.get("plainHeadings") and re.fullmatch(r"(CHAPTER|PART)\s+[IVXLC]+[A-Z]?", plain.strip())
+            if (bold_line or plain_label) and len(plain) < 90 and HEADING_RE.match(plain.lstrip("[")) and (not in_schedule or entry.get("annexInline")):
                 in_schedule = False  # with annexInline, a chapter heading also ends an annexure
                 hm = HEADING_RE.match(plain.lstrip("["))
                 kind = hm.group(0)
@@ -723,8 +736,8 @@ def extract(entry):
                 section = {"no": number, "title": clean_heading(re.sub(r"\{fn:[^}]+\}", "", heading)), "page": pno + 1, "text": [], "fn": []}
                 hrefs = re.findall(r"\{fn:([^}]+)\}", lead + heading)
                 first = (lead + " " + rest).strip() if rest or lead else ""
-                first = re.sub(r"^[\s.\-–—―−:]+", "", first)
-                first = re.sub(r"^((?:\{fn:[^}]+\})*\[*)\s*[.\-–—―−:]+\s*", r"\1", first)
+                first = re.sub(r"^[\s.\-–—―−⸺⸻:]+", "", first)
+                first = re.sub(r"^((?:\{fn:[^}]+\})*\[*)\s*[.\-–—―−⸺⸻:]+\s*", r"\1", first)
                 if hrefs:
                     first = "".join("{fn:%s}" % r for r in hrefs if "{fn:%s}" % r not in first) + first
                 section["text"].append(first)
@@ -751,13 +764,13 @@ def extract(entry):
                     k += 1
                 cont = norm_space("".join(bold_prefix))
                 if cont and k > 0:
-                    mm = re.match(r"^(.*?)(\.\s*[-–—―−]{1,2}|\s[–—―−]{1,2}(?=\s|\()|—|―|\.\s*$)(.*)$", cont)
+                    mm = re.match(r"^(.*?)(\.\s*[-–—―−⸺⸻]{1,2}|\s[–—―−⸺⸻]{1,2}(?=\s|\()|—|―|⸺|⸻|\.\s*$)(.*)$", cont)
                     extra_text = ""
                     if mm:
                         cont, extra_text = mm.group(1), mm.group(3)
                     section["title"] = clean_heading(norm_space(section["title"] + " " + re.sub(r"\{fn:[^}]+\}", "", cont)))
                     rest_text = norm_space(extra_text + " " + line_text(Line(l.page, l.y, l.x, spans_nz[k:], l.kp), bs)) if k < len(spans_nz) else extra_text
-                    rest_text = re.sub(r"^[\s.\-–—―−:]+", "", rest_text)
+                    rest_text = re.sub(r"^[\s.\-–—―−⸺⸻:]+", "", rest_text)
                     section["text"][-1] = norm_space(section["text"][-1] + " " + rest_text) if section["text"] else rest_text
                     prev_y = l.y
                     continue
