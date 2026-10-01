@@ -1,0 +1,31 @@
+{
+ "id": "benami-transactions-act-2017",
+ "title": "Benami Transactions (Prohibition) Act, 2017",
+ "number": "",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "tax",
+  "aml"
+ ],
+ "aliases": [
+  "Benami Act",
+  "Benami Act 2017",
+  "BTPA"
+ ],
+ "status": "in-force",
+ "source": {
+  "name": "Federal Board of Revenue",
+  "url": "https://www.fbr.gov.pk"
+ },
+ "sourcePdf": "20172221521619193BenamiTransactionAct2017.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Official Federal Board of Revenue PDF shown as published. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "This FBR copy is a scan of the Act as passed by Parliament. It shows no later amendments; check the Gazette and any amending Acts before relying on it.",
+ "summary": "Prohibits holding property in benami, restricts the right to recover or transfer benami property, and provides for its attachment and confiscation. Shown as the scanned text as passed by the Majlis-e-Shoora (Parliament), published by FBR.",
+ "pdfOnly": true
+}

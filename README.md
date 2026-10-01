@@ -27,14 +27,13 @@ Converted from the official FBR and SECP consolidated editions (all marked **Unv
 
 | Area | Instruments |
 |---|---|
-| Taxation | Income Tax Ordinance 2001 (to 30.06.2026), Income Tax Rules 2002 (to 15.09.2026), Sales Tax Act 1990 (to 30.06.2026), Sales Tax Rules 2006 (to 31.07.2026), Federal Excise Act 2005 (to 30.06.2026), Customs Act 1969 (to 30.06.2026) |
+| Taxation | Income Tax Ordinance 2001 (to 30.06.2026), Income Tax Rules 2002 (to 15.09.2026), Sales Tax Act 1990 (to 30.06.2026), Sales Tax Rules 2006 (to 31.07.2026), Federal Excise Act 2005 (to 30.06.2026), Federal Excise Rules 2005 (to 16.09.2026), Customs Act 1969 (to 30.06.2026), Benami Transactions (Prohibition) Act 2017 (official PDF, as passed) |
 | Corporate | Companies Act 2017 (SECP edition to 18.08.2022), Companies Regulations 2024, Third Schedule (to 29.12.2025), Seventh Schedule (to 10.11.2025), S.R.O. 239(I)/2024 |
 | Insurance | Insurance Ordinance 2000 (SECP edition to Nov 2011), Insurance Rules 2017 (to 03.03.2025), Takaful Rules 2012 (to 22.10.2015) |
-| AML/CFT | SECP AML/CFT/CPF Regulations 2020 (to Sept 2023) |
+| AML/CFT | Anti-Money Laundering Act 2010 (FMU edition to Sept 2020), SECP AML/CFT/CPF Regulations 2020 (to Sept 2023) |
 
 Every provision links to the page of the official PDF it came from, and amendment footnotes are attached to the provision they belong to.
 
-> The AML Act 2010 page is still a **placeholder** (marked in red) until its official text is loaded.
 
 ## Quick start
 

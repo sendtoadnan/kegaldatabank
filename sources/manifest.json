@@ -616,5 +616,150 @@
       "url": "https://www.secp.gov.pk"
     },
     "stopAtSchedule": false
+  },
+  {
+    "id": "aml-act-2010",
+    "file": "Anti-Money-Laundering-Act-2010-amended-upto-Sep-2020.pdf",
+    "pdfUrl": "http://www.fmu.gov.pk/docs/Anti-Money-Laundering-Act-2010-amended-upto-Sep.%202020.pdf",
+    "title": "Anti-Money Laundering Act, 2010",
+    "number": "Act No. VII of 2010",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "aml"
+    ],
+    "aliases": [
+      "AML",
+      "AMLA",
+      "AMLA 2010",
+      "AML Act",
+      "AML Act 2010"
+    ],
+    "enacted": "2010-03-26",
+    "amendedUpTo": "2020-09-30",
+    "amendedUpToLabel": "September 2020",
+    "source": {
+      "name": "Financial Monitoring Unit, Government of Pakistan",
+      "url": "https://www.fmu.gov.pk"
+    },
+    "bodyEndPage": 34,
+    "schedules": [
+      {
+        "title": "Schedule I — Predicate offences",
+        "page": 36
+      },
+      {
+        "title": "Schedule II — National Executive Committee",
+        "page": 44
+      },
+      {
+        "title": "Schedule III — General Committee",
+        "page": 45
+      },
+      {
+        "title": "Schedule IV — AML/CFT regulatory authorities",
+        "page": 46
+      }
+    ]
+  },
+  {
+    "id": "federal-excise-rules-2005",
+    "file": "2026918109127910FED.pdf",
+    "pdfUrl": "https://download1.fbr.gov.pk/Docs/2026918109127910FED.pdf",
+    "title": "Federal Excise Rules, 2005",
+    "number": "S.R.O. 534(I)/2005",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "federal-excise-act-2005",
+    "categories": [
+      "tax"
+    ],
+    "aliases": [
+      "FER",
+      "FER 2005",
+      "Federal Excise Rules",
+      "FED Rules"
+    ],
+    "amendedUpTo": "2026-09-16",
+    "amendedUpToLabel": "16 September 2026",
+    "caution": "The FBR edition states: \"May not be used as a reference in courts.\"",
+    "source": {
+      "name": "Federal Board of Revenue",
+      "url": "https://www.fbr.gov.pk"
+    },
+    "bodyStartPage": 7,
+    "noteMaxSize": 10,
+    "annexInline": true,
+    "imageProvisions": [
+      {
+        "no": "48B",
+        "title": "Date of presentation and filing of Appeals",
+        "page": 50,
+        "pages": "pages 50–52"
+      },
+      {
+        "no": "48C",
+        "title": "Documents to accompany Appeals",
+        "page": 50,
+        "pages": "pages 50–52"
+      },
+      {
+        "no": "48I",
+        "title": "Date and place of hearing of appeal and stay applications",
+        "page": 55,
+        "pages": "pages 55–58"
+      },
+      {
+        "no": "48J",
+        "title": "Hearing of appeal or stay application",
+        "page": 55,
+        "pages": "pages 55–58"
+      },
+      {
+        "no": "48K",
+        "title": "Maintenance and preservation of registers",
+        "page": 55,
+        "pages": "pages 55–58"
+      },
+      {
+        "no": "48L",
+        "title": "Reports",
+        "page": 55,
+        "pages": "pages 55–58"
+      },
+      {
+        "no": "48M",
+        "title": "Arrangement and preservation of record",
+        "page": 55,
+        "pages": "pages 55–58"
+      }
+    ],
+    "sourceNotes": "PDF pages 50–52 and 55–58 of this FBR edition are scanned images. Rules 48B, 48C and 48I to 48M are printed only on those pages: their headings are taken from the edition's contents list and their text should be read in the official PDF. Annexures printed between chapters are linked to their PDF pages.",
+    "lowercaseContinues": true
+  },
+  {
+    "id": "benami-transactions-act-2017",
+    "file": "20172221521619193BenamiTransactionAct2017.pdf",
+    "pdfUrl": "https://www.fbr.gov.pk/Downloads/?id=14820&Type=Docs",
+    "title": "Benami Transactions (Prohibition) Act, 2017",
+    "number": "",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "tax",
+      "aml"
+    ],
+    "aliases": [
+      "Benami Act",
+      "Benami Act 2017",
+      "BTPA"
+    ],
+    "pdfOnly": true,
+    "summary": "Prohibits holding property in benami, restricts the right to recover or transfer benami property, and provides for its attachment and confiscation. Shown as the scanned text as passed by the Majlis-e-Shoora (Parliament), published by FBR.",
+    "caution": "This FBR copy is a scan of the Act as passed by Parliament. It shows no later amendments; check the Gazette and any amending Acts before relying on it.",
+    "source": {
+      "name": "Federal Board of Revenue",
+      "url": "https://www.fbr.gov.pk"
+    }
   }
 ]

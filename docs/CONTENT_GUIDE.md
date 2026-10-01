@@ -90,6 +90,10 @@ Further options, used for the FBR Income Tax Ordinance and Rules:
 | `headerBand: 135` | Drop running headers: lines above this height that recur on other pages. |
 | `nestedHeadings: true` | Keep "Chapter III …" and the "Part I …" heading under it together. |
 | `schedules: [{title, page}]` | List the schedules and their PDF pages yourself when the edition's headings cannot be detected. |
+| `noteMaxSize: 10` | Largest font size of footnote text, for editions whose body text varies in size from page to page. |
+| `annexInline: true` | Annexures printed between chapters: an annexure ends at the next chapter heading or the next provision in sequence. |
+| `lowercaseContinues: true` | Double-spaced editions: a new paragraph needs a clause label, "Provided"/"Explanation", or a finished sentence before it. |
+| `imageProvisions: [{no, title, page, pages}]` | Provisions printed only as scanned images: listed with their contents-list heading and a pointer to the PDF pages. No text is invented. |
 | `pdfUrl`, `remotePdf: true` | Link the regulator's own PDF instead of republishing it (for very large editions). The extractor downloads it when it is not in `sources/pdf/`. |
 
 The report also counts `unlinkedMarkers` (amendment markers whose note was not captured; the site marks them and points to the PDF page) and `notesFromEarlierPages`.

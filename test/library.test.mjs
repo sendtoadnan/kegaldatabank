@@ -66,7 +66,17 @@ test('build writes pages, search index and offline cache', () => {
   assert.match(itr, /id="s-231fa"/);
   assert.match(itr, /First Schedule, Part I/, 'schedules link to the official PDF');
   const aml = fs.readFileSync(path.join(outDir, 'acts/aml-act-2010/index.html'), 'utf8');
-  assert.match(aml, /Placeholder, not official text/, 'placeholder instruments are clearly marked');
+  assert.doesNotMatch(aml, /Placeholder, not official text/, 'the AML Act is loaded from the FMU edition');
+  assert.match(aml, /id="s-7a"/);
+  assert.match(aml, /Schedule I — Predicate offences/, 'AML schedules link to the official PDF');
+  const fer = fs.readFileSync(path.join(outDir, 'acts/federal-excise-rules-2005/index.html'), 'utf8');
+  assert.match(fer, /id="s-93"/);
+  assert.match(fer, /printed as a scanned image in the source edition/, 'image-only rules point to the PDF');
+  const fea = fs.readFileSync(path.join(outDir, 'acts/federal-excise-act-2005/index.html'), 'utf8');
+  assert.match(fea, /Federal Excise Rules, 2005/, 'the FED Act page lists its Rules');
+  const benami = fs.readFileSync(path.join(outDir, 'acts/benami-transactions-act-2017/index.html'), 'utf8');
+  assert.match(benami, /<iframe src="\.\.\/\.\.\/sources\/benami-transactions-act-2017\.pdf"/, 'PDF-only instruments embed the official PDF');
+  assert.ok(acts.every((a) => !a.placeholder), 'no placeholder pages remain');
 
   assert.ok(index.provisions.some((p) => p.act === 'aml-act-2010' && p.no === '3' && p.text.includes('proceeds of crime')));
   assert.ok(index.provisions.every((p) => !/\{fn:/.test(p.text + p.title)), 'search text has no markers');
