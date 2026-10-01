@@ -93,6 +93,14 @@ ${body}
         ? `<span class="badge ok" title="Checked against ${e(act.verification.against)} by ${e(act.verification.verifiedBy)} on ${e(act.verification.verifiedOn)}">Verified</span>`
         : `<span class="badge warn" title="${e(act.verification.note || 'Not yet checked against an official source')}">Unverified</span>`;
 
+  // Amendment notes that belong to a heading or to the title and enacting text rather than to a provision.
+  const noteList = (notes, label) =>
+    notes && notes.length
+      ? `<details class="prov-fns"><summary>${label} (${notes.length})</summary><ol>${notes
+          .map((f) => `<li><span class="fn-no">${e(fnLabel(f.n))}</span> ${e(f.text)}</li>`)
+          .join('')}</ol></details>`
+      : '';
+
   const provisionCount = (act) => act.parts.reduce((n, p) => n + p.sections.length, 0);
   // Large editions are linked at the regulator's own URL instead of being republished (sourcePdfUrl).
   const pdfHref = (act, base) => act.sourcePdfUrl || `${base}sources/${act.id}.pdf`;
@@ -180,6 +188,7 @@ ${body}
         (p) => `
       <section class="part">
         <h2 class="part-heading">${e(p.heading)}</h2>
+        ${noteList(p.fn, 'Amendment notes on this heading')}
         ${p.sections
           .map((s) => {
             const anchor = provisionAnchor(s.no);
@@ -269,6 +278,7 @@ ${body}
       <p class="crumbs"><a href="${base}index.html">Library</a>${parent ? ` / <a href="../${parent.id}/index.html">${e(parent.title)}</a>` : ''}</p>
       <h1>${e(act.title)} ${verificationBadge(act)}</h1>
       ${act.preamble ? `<p class="preamble">${e(stripMarkers(act.preamble))}</p>` : ''}
+      ${noteList(act.frontNotes, 'Amendment notes on the title and enacting text')}
       <dl class="meta">${meta}</dl>
       ${verification}
       ${caution}

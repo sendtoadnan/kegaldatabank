@@ -96,9 +96,10 @@ Further options, used for the FBR Income Tax Ordinance and Rules:
 | `imageProvisions: [{no, title, page, pages}]` | Provisions printed only as scanned images: listed with their contents-list heading and a pointer to the PDF pages. No text is invented. |
 | `plainHeadings: true` | Accept "CHAPTER I" / "PART II" labels printed in regular weight (Pakistan Code editions). |
 | `spaceGaps: true` | Insert the space between adjacent font runs that are visibly apart but carry no space character. |
+| `footnoteRuleOnly: [first, last]` | On these PDF pages, notes are only what lies below the separator rule (`footnoteRule`); use it where a table is printed in the same type size as the notes. `true` applies it to every page. |
 | `pdfUrl`, `remotePdf: true` | Link the regulator's own PDF instead of republishing it (for very large editions). The extractor downloads it when it is not in `sources/pdf/`. |
 
-A note found on a schedule page is kept only when a provision cites its marker, and a repeated marker may borrow a note from at most 15 pages back. The report also counts `unlinkedMarkers` (amendment markers whose note was not captured; the site marks them and points to the PDF page) and `notesFromEarlierPages`.
+Notes whose markers sit in a chapter or part heading are stored on that heading (`parts[].fn`), and notes on the title or enacting notification before the first provision on the instrument (`frontNotes`); the site lists both. With `notesPerPage`, a note that did not fit is taken from the next page, and a three-digit "marker" with no note is restored as plain text (a section number in a table). Markers printed a few points above their line are put back into it. A note that no provision cites is kept only if it reads like an amendment note. A note found on a schedule page is kept only when a provision cites its marker, and a repeated marker may borrow a note from at most 15 pages back. The report also counts `unlinkedMarkers` (amendment markers whose note was not captured; the site marks them and points to the PDF page) and `notesFromEarlierPages`.
 
 ## 3. Loading a law from plain text
 
