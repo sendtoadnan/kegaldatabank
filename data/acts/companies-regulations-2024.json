@@ -19,10 +19,10 @@
   "name": "Securities and Exchange Commission of Pakistan",
   "url": "https://www.secp.gov.pk"
  },
- "sourcePdf": "the-companies-regulations-2024.pdf",
+ "sourcePdf": "Companies-Regulations-2024-updated-upto-25.07.2025.pdf",
  "verification": {
   "status": "unverified",
-  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition. Check against the Gazette before quoting."
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 25 July 2025 (S.R.O. 1355(I)/2025). Check against the Gazette before quoting."
  },
  "preamble": "",
  "parts": [
@@ -3491,5 +3491,7 @@
    "title": "Annexure – V",
    "page": 276
   }
- ]
+ ],
+ "lastAmended": "2025-07-25",
+ "amendedUpToLabel": "25 July 2025 (S.R.O. 1355(I)/2025)"
 }

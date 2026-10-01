@@ -427,7 +427,7 @@
   },
   {
     "id": "companies-regulations-2024",
-    "file": "the-companies-regulations-2024.pdf",
+    "file": "Companies-Regulations-2024-updated-upto-25.07.2025.pdf",
     "title": "Companies Regulations, 2024",
     "number": "S.R.O. 201(I)/2024",
     "type": "regulations",
@@ -447,7 +447,9 @@
       "url": "https://www.secp.gov.pk"
     },
     "stopAtSchedule": false,
-    "untitledProvisions": true
+    "untitledProvisions": true,
+    "amendedUpTo": "2025-07-25",
+    "amendedUpToLabel": "25 July 2025 (S.R.O. 1355(I)/2025)"
   },
   {
     "id": "companies-act-2017-third-schedule",
@@ -523,7 +525,7 @@
   },
   {
     "id": "secp-aml-cft-cpf-regulations-2020",
-    "file": "secp-aml-cft-cpf-regulations-2020-as-amended-up-to-september-2023.pdf",
+    "file": "SECP-AML-CFT-CPF-Regulations-2020-amended-upto-July-03-2026.pdf",
     "title": "SECP (Anti Money Laundering, Combating the Financing of Terrorism and Countering Proliferation Financing) Regulations, 2020",
     "number": "S.R.O. 921(I)/2020",
     "type": "regulations",
@@ -538,8 +540,8 @@
       "AML Regulations 2020"
     ],
     "enacted": "2020-09-28",
-    "amendedUpTo": "2023-09-30",
-    "amendedUpToLabel": "September 2023",
+    "amendedUpTo": "2026-07-03",
+    "amendedUpToLabel": "3 July 2026 (S.R.O. 1079(I)/2026)",
     "source": {
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
