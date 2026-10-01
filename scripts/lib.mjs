@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const DATA_DIR = path.join(ROOT, 'data');
 
-export const INSTRUMENT_TYPES = ['act', 'ordinance', 'rules', 'regulations', 'order', 'notification'];
+export const INSTRUMENT_TYPES = ['act', 'ordinance', 'rules', 'regulations', 'order', 'notification', 'schedule'];
 export const STATUSES = ['in-force', 'repealed', 'partly-in-force', 'not-yet-in-force'];
 export const VERIFICATION = ['verified', 'unverified'];
 
@@ -17,6 +17,7 @@ const TYPE_LABELS = {
   regulations: 'Regulations',
   order: 'Order',
   notification: 'Notification',
+  schedule: 'Schedule',
 };
 
 export function typeLabel(type) {
@@ -39,16 +40,21 @@ export function loadLibrary(dataDir = DATA_DIR) {
 }
 
 // Returns a list of human-readable problems; empty means the library is valid.
-export function validateLibrary({ catalog, acts }) {
+export function validateLibrary({ catalog, acts }, dataDir = DATA_DIR) {
   const errors = [];
   const categoryIds = new Set((catalog.categories || []).map((c) => c.id));
   const ids = new Set();
 
   for (const act of acts) {
     const where = act._file || act.id || '(unknown)';
-    for (const key of ['id', 'title', 'number', 'type', 'unit', 'categories', 'status', 'source', 'verification', 'parts']) {
+    for (const key of ['id', 'title', 'type', 'unit', 'categories', 'status', 'source', 'verification', 'parts']) {
       if (act[key] === undefined || act[key] === null || act[key] === '') errors.push(`${where}: missing "${key}"`);
     }
+    if (typeof act.number !== 'string') errors.push(`${where}: "number" must be a string (use "" when the source gives none)`);
+    if (act.sourcePdf && !fs.existsSync(path.join(dataDir, '..', 'sources', 'pdf', act.sourcePdf))) {
+      errors.push(`${where}: sourcePdf "${act.sourcePdf}" not found in sources/pdf/`);
+    }
+    if (!act.pdfOnly && Array.isArray(act.parts) && act.parts.length === 0) errors.push(`${where}: no parts (set "pdfOnly": true for PDF-only items)`);
     if (act.id && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(act.id)) errors.push(`${where}: id "${act.id}" must be lowercase-kebab-case`);
     if (act._file && act.id && act._file !== `${act.id}.json`) errors.push(`${where}: file name must be "${act.id}.json"`);
     if (ids.has(act.id)) errors.push(`${where}: duplicate id "${act.id}"`);
@@ -75,7 +81,10 @@ export function validateLibrary({ catalog, acts }) {
       if (!part.heading) errors.push(`${where}: a part is missing "heading"`);
       for (const sec of part.sections || []) {
         if (!sec.no) errors.push(`${where}: a provision is missing "no"`);
-        if (!sec.title) errors.push(`${where}: provision ${sec.no} is missing "title"`);
+        if (typeof sec.title !== 'string') errors.push(`${where}: provision ${sec.no} is missing "title"`);
+        for (const fn of sec.fn || []) {
+          if (!fn.n || typeof fn.text !== 'string') errors.push(`${where}: provision ${sec.no} has a malformed footnote`);
+        }
         if (!Array.isArray(sec.text) || sec.text.length === 0) errors.push(`${where}: provision ${sec.no} has no text`);
         if (numbers.has(sec.no)) errors.push(`${where}: duplicate provision number "${sec.no}"`);
         numbers.add(sec.no);
@@ -94,8 +103,26 @@ export function provisionAnchor(no) {
 }
 
 // "Section 111 of the Income Tax Ordinance, 2001 (Ordinance No. XLIX of 2001)"
-export function citation(act, no) {
-  return `${act.unit} ${no} of the ${act.title} (${act.number})`;
+export function citation(act, no, section) {
+  if (section && section.cite) return section.cite;
+  const num = act.number && !/^updated/i.test(act.number) ? ` (${act.number})` : '';
+  return `${act.unit} ${displayNo(no)} of the ${act.title}${num}`;
+}
+
+// Duplicate numbers get a suffix ("12-2") for uniqueness; readers see the printed number.
+export function displayNo(no) {
+  return String(no).replace(/-\d+$/, '');
+}
+
+export const FN_RE = /\{fn:([^}]+)\}/g;
+
+export function stripMarkers(s) {
+  return String(s).replace(FN_RE, '').replace(/[ \t]{2,}/g, ' ').trim();
+}
+
+// Footnote keys are "<page>-<number>" (or "n<block>-<number>" for endnotes); readers see the number.
+export function fnLabel(key) {
+  return String(key).replace(/^[^-]+-/, '');
 }
 
 export function escapeHtml(s) {
@@ -114,5 +141,5 @@ export function parseParagraph(p) {
 }
 
 export function plainText(section) {
-  return section.text.map((p) => parseParagraph(p).text).join('\n');
+  return section.text.map((p) => stripMarkers(parseParagraph(p).text)).join('\n');
 }

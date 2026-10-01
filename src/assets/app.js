@@ -180,7 +180,9 @@
           var body = Array.prototype.map
             .call(prov.querySelectorAll('.prov-body p'), function (p) {
               var level = Number((p.className.match(/l(\d)/) || [0, 0])[1]);
-              return new Array(level + 1).join('    ') + p.textContent;
+              var clean = p.cloneNode(true);
+              clean.querySelectorAll('.fnref').forEach(function (x) { x.remove(); });
+              return new Array(level + 1).join('    ') + clean.textContent.replace(/\s{2,}/g, ' ').trim();
             })
             .join('\n');
           copy(no + '. ' + prov.dataset.title + '.—\n' + body + '\n\n— ' + cite, 'Quotation');
@@ -281,7 +283,7 @@
     var act = findAct(index, actText);
     if (!act) return null;
     var prov = index.provisions.find(function (p) {
-      return p.act === act.id && p.no.toLowerCase() === no.toLowerCase();
+      return p.act === act.id && p.no && p.no.toLowerCase() === no.toLowerCase();
     });
     return prov ? { act: act, prov: prov } : null;
   }
@@ -330,11 +332,13 @@
   }
 
   function resultHtml(r, terms, hl) {
-    var url = BASE + 'acts/' + r.a.id + '/index.html' + (hl ? '?hl=' + encodeURIComponent(hl) : '') + '#' + r.p.anchor;
+    var url = BASE + 'acts/' + r.a.id + '/index.html' + (r.p.anchor ? (hl ? '?hl=' + encodeURIComponent(hl) : '') + '#' + r.p.anchor : '');
+    var heading = r.p.no ? r.a.unit + ' ' + r.p.no + (r.p.title ? ' — ' + r.p.title : '') : r.p.title;
+    var badge = r.a.placeholder ? ' · <span class="badge bad">Placeholder</span>' : r.a.verified ? '' : ' · <span class="badge warn">Unverified</span>';
     return (
       '<li class="result"><a href="' + url + '">' +
-      '<span class="result-title">' + highlight(r.a.unit + ' ' + r.p.no + ' — ' + r.p.title, terms) + '</span>' +
-      '<span class="act-meta">' + esc(r.a.title) + ' · ' + esc(r.p.part) + (r.a.verified ? '' : ' · <span class="badge warn">Unverified</span>') + '</span>' +
+      '<span class="result-title">' + highlight(heading, terms) + '</span>' +
+      '<span class="act-meta">' + esc(r.a.title) + ' · ' + esc(r.p.part) + badge + '</span>' +
       '<span class="result-snippet">' + highlight(snippet(r.p.text, terms), terms) + '</span></a></li>'
     );
   }

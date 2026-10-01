@@ -1,0 +1,809 @@
+{
+ "id": "secp-aml-cft-cpf-regulations-2020",
+ "title": "SECP (Anti Money Laundering, Combating the Financing of Terrorism and Countering Proliferation Financing) Regulations, 2020",
+ "number": "S.R.O. 921(I)/2020",
+ "type": "regulations",
+ "unit": "Regulation",
+ "parent": "aml-act-2010",
+ "categories": [
+  "aml"
+ ],
+ "aliases": [
+  "SECP AML Regulations",
+  "AML CFT CPF Regulations",
+  "AML Regulations 2020"
+ ],
+ "enacted": "2020-09-28",
+ "lastAmended": "2023-09-30",
+ "amendedUpToLabel": "September 2023",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "secp-aml-cft-cpf-regulations-2020-as-amended-up-to-september-2023.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to September 2023. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short Title and Commencement",
+     "page": 1,
+     "text": [
+      "These regulations shall be called the Securities and Exchange Commission of Pakistan (Anti Money Laundering, {fn:1-1}[Combating the Financing of Terrorism and Countering Proliferation Financing)]Regulations, 2020."
+     ],
+     "fn": [
+      {
+       "n": "1-1",
+       "text": "In regulation 1, for the expression “and Countering the Financing of Terrorism” the words “Combating the Financing of Terrorism and Countering Proliferation Financing” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      }
+     ]
+    },
+    {
+     "no": "2",
+     "title": "",
+     "page": 1,
+     "text": [
+      "They shall come into force at once."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, -",
+      ">(a) “AML Act” means Anti Money Laundering Act, 2010 (VII of 2010);",
+      ">(b) “Act” means Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(c) “administered legislation” shall have the same meaning as assigned to it in clause (aa) of sub-section (1) of section 2 of the Act;",
+      ">(d) “AML/CFT/CPF” means Anti-Money Laundering, [Combating the Financing of Terrorism and Countering Proliferation Financing] {fn:1-2};",
+      ">(e) “Annex” means annexures appended to these regulations;",
+      ">(f) “beneficiary” for the purposes of these regulation shall include-",
+      ">>(i) a natural or legal person or arrangement who are entitled to the benefit of any trust arrangement.",
+      ">>(ii) in the context of life insurance or takaful, life-contingent annuity contracts or another investment linked insurance or takaful policy, is a natural or legal person, or a legal arrangement, or category of persons, who will be paid the policy proceeds when or if an event occurs, which is covered by the policy;",
+      ">(fa) {fn:2-3}[Court appointed Manager” means a person appointed by the competent",
+      "court to operate the account of a mentally disordered person under the applicable laws on mental health”];",
+      ">(g) “close associate” of a PEP means—",
+      ">>(i) an individual known to have joint beneficial ownership of a legal person or a legal arrangement or any other close business relations with a PEP;",
+      ">>(ii) any individual(s) who have beneficial ownership of a legal person or a legal arrangement which is known to have been set up for the benefit of a PEP;",
+      ">>(iii) an individual who is reasonably known to be closely connected with the PEP for any other reason, including socially or professionally.",
+      ">(h) “Commission” means Securities and Exchange Commission of Pakistan established under section 3 of the Act;",
+      ">(i) “correspondent relationship” means a relationship between the regulated person (Correspondent), or any party acting on its behalf and processing orders on behalf of the regulated person, and an intermediary (Respondent) which is regulated and supervised by a supervisory authority, transmitting orders on behalf of its underlying customers;",
+      ">(j) \"customer\" means any natural person, legal person or legal arrangement to whom financial services have been extended by a regulated person;",
+      ">(ja) {fn:2-4}[“Designated Person (DP)” means an individual or entity designated under",
+      "The United Nations (Security Council) Act, 1948 (ACT XIV of 1948)];",
+      ">(k) “dormant or in-operative account” means the account in which no transaction or activity or financial service has been extended by the regulated person from last [three] {fn:2-5} years;",
+      ">(l) “enhanced due diligence” or “EDD” means taking additional CDD and",
+      "may include the information set out in regulation 21(2).",
+      ">(m) “family member” of a politically exposed person includes—",
+      ">>(i) a spouse of the PEP;",
+      ">>(ii) lineal ascendants and descendants and siblings of the PEP.",
+      ">(n) “Insurer” shall have the same meaning as assigned to it in the Insurance Ordinance, 2000 (XXXIX of 2000);",
+      ">(o) “ML” means money laundering",
+      ">(p) “Non-Banking Finance Companies” or “NBFCs” shall have the same meaning as assigned to it in Part VIII A of the Companies Ordinance, 1984 (XLVII of 1984);",
+      ">(pa) {fn:3-6}[“Person with Mental Disorder” means a person with mental illness as",
+      "defined in the applicable laws on mental health];",
+      ">(pb) {fn:3-7}[“Proliferation Financing” means the financing of proliferation of weapons",
+      "of mass destruction];",
+      ">(q) “Politically exposed persons” or “PEPs” means an individual who is or has been entrusted with a prominent public function either domestically or by a foreign country, or in an international organization and includes but not limited to:",
+      ">>(i) for foreign PEPs, Heads of State or of government, senior politicians, senior government, judicial or military officials, senior executives of state-owned corporations and political party officials;",
+      ">>(ii) for domestic PEPs, Heads of State or of government, senior politicians, senior government, judicial or military officials, senior executives of state-owned corporations, political party officials;",
+      ">>(iii) for international organization PEPs, members of senior management or individuals who have been entrusted with equivalent functions.",
+      "Provided that middle ranking or more junior individuals in the above referred categories are not included in the definition of PEPs;",
+      ">(qa) {fn:3-8}[“Proscribed Person” means an individual or entity proscribed under the",
+      "Anti-Terrorism Act, 1997 (ACT NO. XXVII OF 1997)];",
+      ">(r) “regulated person” means securities brokers, futures brokers, Insurers, Takaful Operators, NBFCs and Modarabas regulated by SECP under the administered legislation;",
+      ">(s) ‘reasonable measures’ means appropriate measures which are commensurate with the money laundering or terrorist financing risks;",
+      ">(t) “senior management” means an officer or employee of the reporting entity with sufficient knowledge of the reporting entity’s risk exposure, and of sufficient authority, to take decisions affecting its risk management and mitigation, including chief executive officer/ managing director, deputy managing director, chief operating officer, company secretary, chief financial officer, chief compliance officer and chief regulatory officer and any holder of such positions by whatever name called; and",
+      ">(u) “simplified due diligence” or “SDD” means taking reduced CDD measures and may include the measures set out in {fn:4-9}[regulation] 23(3).",
+      ">(v) “TF” means financing of terrorism",
+      ">(w) “Third Party” means any reporting entity or as may be notified by Commission.",
+      "(2) The definitions in the AML Act shall also apply to these Regulations. The words and expressions used in these regulations but not defined shall have the same meaning as assigned to them under the Act and administered legislation thereunder."
+     ],
+     "fn": [
+      {
+       "n": "1-2",
+       "text": "In clause (d), the Abbreviation “AML/CFT” has been substituted with AML/CFT/CPF and after the expression “Terrorism” the words “and Countering Proliferation Financing” has been inserted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "2-3",
+       "text": "New definition is inserted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "2-4",
+       "text": "New definition is inserted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "2-5",
+       "text": "In clause (k), for the word “five” the words “three” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023"
+      },
+      {
+       "n": "3-6",
+       "text": "New definition is inserted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "3-7",
+       "text": "New definition is inserted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "3-8",
+       "text": "New definition inserted vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      },
+      {
+       "n": "4-9",
+       "text": "Word section has been replaced with regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Risk Assessment And Mitigation",
+   "sections": [
+    {
+     "no": "4",
+     "title": "Risk Assessment",
+     "page": 4,
+     "text": [
+      "The regulated person shall take appropriate steps in accordance with section 7F of the AML Act to identify, assess and understand its money laundering, and terrorism financing risks for customers, countries or geographic areas and products, services, transactions or delivery channels. The regulated person shall:",
+      ">(a) document their risk assessments;",
+      ">(b) consider all the relevant risk factors before determining what is the level of overall risk and the appropriate level and type of mitigation to be applied;",
+      ">(c) keep their risk assessments up to date;",
+      ">(d) categorize its own overall entity level risk as high, medium or low based on the result of risk assessment; and",
+      ">(e) have appropriate mechanisms to provide risk assessment information to the Commission."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Risk Mitigation and Applying Risk Based Approach",
+     "page": 5,
+     "text": [
+      "The regulated person shall:",
+      ">(a) have policies, controls and procedures, which are approved by its board of directors, to enable them to manage and mitigate the risks that have been identified in its own risk assessment and any other risk assessment publicly available or provided by the Commission;",
+      ">(b) monitor the implementation of those policies, controls and procedures and to enhance them if necessary; and",
+      ">(c) take enhanced measures to manage and mitigate the risks where higher risks are identified.",
+      "Explanation:- For the purposes of this regulation the expression “risk based approach” means applying measures to manage and mitigate money laundering and terrorist financing risks that are commensurate with the risks identified."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "",
+     "page": 5,
+     "text": [
+      "The regulated person may take simplified measures to manage and mitigate risks, if lower risks have been identified. Simplified measures should not be permitted whenever there is a suspicion of ML/TF."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "New Products, Practices and Technologies",
+     "page": 5,
+     "text": [
+      "The regulated person shall:",
+      ">(a) identify and assess the ML and TF risk that may arise in the development of new products, businesses and practices, including new delivery mechanism, and the use of new and pre-existent technology.",
+      ">(b) prior to the launch or use of product, practice or technology, shall undertake the risk assessment and take appropriate measures to manage and mitigate the risks.",
+      "CUSTOMER DUE DILIGENCE (CDD) AND BENEFICIAL OWNERSHIP"
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Customer Due Diligence",
+     "page": 5,
+     "text": [
+      "(1) The regulated person shall conduct CDD in the circumstances and matters set out in section 7A(I) and 7(E) of the AML Act.",
+      "(2) For the purposes of conducting CDD as required under section 7A (2) of the AML Act every regulated person shall comply with {fn:5-10}[regulations] 9-25 of these Regulations.",
+      "(3) The regulated person shall categorize each customer’s risk depending upon the outcome of the CDD process."
+     ],
+     "fn": [
+      {
+       "n": "5-10",
+       "text": "Word section has been replaced with regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "",
+     "page": 5,
+     "text": [
+      "The regulated person shall:",
+      ">(a) identify the customer; and",
+      ">(b) verify the identity of that customer using reliable and independent documents, data and information as set out in Annex 1."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "",
+     "page": 6,
+     "text": [
+      "Where the customer is represented by an authorized agent or representative, the regulated person shall:",
+      ">(a) identify every person who acts on behalf of the customer, (b) verify the identity of that person in using reliable and independent documents, data and information as set out in Annex 1; and",
+      ">(c) verify the authority of that person to act on behalf of the customer."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "",
+     "page": 6,
+     "text": [
+      "The regulated person shall also identify the beneficial owner and take reasonable measures to verify the identity of the beneficial owner by using reliable and independent document, data or sources of information as set out in Annex 1, such that the regulated person is satisfied that it knows who the beneficial owner is."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "",
+     "page": 6,
+     "text": [
+      "(I) For customers that are legal persons or legal arrangements, the regulated person shall identify the customer and verify its identity by obtaining the following information in addition to the information required in Annex 1:",
+      ">(a) name, legal form and proof of existence;",
+      ">(b) the powers that regulate and bind the legal person or arrangement, as well as the names of the relevant persons having a senior management position in the legal person or arrangement; and",
+      ">(c) the address of the registered office and, if different, a principal place of business.",
+      "(2) For customers that are legal persons or legal arrangements, the financial institution should be required to understand the nature of the customer’s business and its ownership and control structure."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "",
+     "page": 6,
+     "text": [
+      "(1) For customers that are legal persons, the regulated person shall identify and take reasonable measures to verify the identity of beneficial owners by:",
+      ">(a) identifying the natural person(s) (if any) who ultimately has a controlling ownership interest (as defined under relevant laws) in a legal person; and",
+      ">(b) to the extent that there is doubt under (a) as to whether the person(s) with the controlling ownership interest is the beneficial owner(s) or where no natural person exerts control through ownership interests, the identity of the natural person(s) (if any) exercising control of the legal person or arrangement through other means; and",
+      ">(c) where no natural person is identified under (a) or (b) above, the identity of the relevant natural person who holds the position of senior managing official."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "",
+     "page": 6,
+     "text": [
+      "For customers that are legal arrangements, the regulated person shall identify and take reasonable measures to verify the identity of beneficial owners as follows:",
+      ">(a) for trusts, the identity of the settlor, the trustee(s), the protector (if any), the beneficiaries or class of beneficiaries, and any other natural person exercising ultimate effective control over the trust (including through a chain of control/ownership);",
+      ">(b) for waqfs and other types of legal arrangements, the identity of persons in equivalent or similar positions as specified in (a).",
+      ">(c) Where any of the persons specified in (a) or (b) is a legal person or arrangement, the identity of the beneficial owner of that legal person or arrangement shall be identified."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "",
+     "page": 7,
+     "text": [
+      "An insurer or takaful operator shall:",
+      "(1) At the time at which the beneficiary of the life insurance policy or takaful is identified or designated:",
+      ">(a) if the beneficiary is a specifically named natural person, legal person or legal arrangement, obtain the full name of the beneficiary;",
+      ">(b) if the beneficiary is designated by characteristics, class or other means and is known to the regulated person, obtain sufficient information concerning the beneficiary to satisfy itself that it will be able to establish the identity of the beneficiary at the time of payout.",
+      "(2) for both the above cases, verify the identity of the beneficiary at the time of payout."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "",
+     "page": 7,
+     "text": [
+      "The regulated person should verify the {fn:7-11}[identity] of the customer and beneficial",
+      "owner before establishing a business relationship or during the course of establishing a business relationship."
+     ],
+     "fn": [
+      {
+       "n": "7-11",
+       "text": "In regulation 16, for the word “identify” the words “identity of” has been substituted vide vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      }
+     ]
+    },
+    {
+     "no": "17",
+     "title": "",
+     "page": 7,
+     "text": [
+      "(1) The regulated person may complete verification of a customer or beneficial owner’s identity after the establishment of the business relationship, provided that-",
+      ">(a) this occurs as soon as reasonably practicable;",
+      ">(b) this is essential not to interrupt the normal conduct of business; and",
+      ">(c) the ML/TF risks are low.",
+      "(2) The types of circumstances where the regulated person permits completion of verification after the establishment of the business relationship should be recorded in the CDD policies."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "",
+     "page": 7,
+     "text": [
+      "The regulated person shall adopt risk management procedures concerning the conditions under which a customer may utilize the business relationship prior to verification."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Ongoing Monitoring",
+     "page": 7,
+     "text": [
+      "(1) The regulated person shall conduct ongoing due diligence on the business relationship, including:",
+      ">(a) scrutinizing transactions undertaken throughout the course of that relationship to ensure that the transactions being conducted are consistent with the regulated person’s knowledge of the customer, their business and risk profile, including where necessary, the source of funds;",
+      ">(b) obtaining information and examining, as far as possible, the background and",
+      "purpose of all complex and unusual transactions which have no apparent economic or visible lawful purpose. The background and purpose of these transactions shall be inquired and findings shall be documented with a view of making this information available to the relevant competent authorities when required.",
+      ">(c) undertaking reviews of existing records and ensuring that documents, data or information collected for the CDD purposes is kept up-to-date and relevant, particularly for higher risk categories of customers.",
+      "(2) In relation to sub-regulation (b), customers’ profiles should be revised keeping in view the CDD and basis of revision shall be documented.",
+      "(3) The regulated person shall implement the measures as set out in 7D {fn:8-12}[(Inability",
+      "to complete CDD and tipping off)] of the AML Act.",
+      "(4) The regulated person shall comply with the provisions of the AML Act and rules, regulations and directives issued thereunder for reporting suspicious transactions/currency transactions in the context of money laundering or financing of terrorism.",
+      "(5) Where regulated person files an STR with respect to a customer with whom it has an existing business relationship, and if the regulated person considers it appropriate to retain the customer, then the regulated person shall:-",
+      ">(a) substantiate and document the reasons for retaining the customer; and",
+      ">(b) subject the business relationship to proportionate risk mitigation measures, including enhanced ongoing monitoring.",
+      "(6) The basis of deciding whether an STR is being filed or not shall be documented and kept on record together with all internal findings and analysis done in relation to a suspicion irrespective of the fact that transaction is subsequently reported or not."
+     ],
+     "fn": [
+      {
+       "n": "8-12",
+       "text": "In regulation 19 (3), the following has be substituted, namely: -“(3) The regulated person shall implement the measures as set out in Section 7D of the AML Act.”;"
+      }
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Existing Customers",
+     "page": 8,
+     "text": [
+      "(1) The regulated person is required to apply CDD requirement to its existing customers on the basis of materiality and risk and should conduct due diligence on existing relations at appropriate times, taking into account whether and when CDD measures have previously been undertaken and the adequacy of data obtained.",
+      "(2) For existing customers who opened accounts with old NICs, the regulated person shall ensure that [{fn:8-13}] copies of identity documents shall be present in the regulated person record.",
+      "The regulated person shall block accounts without identity document (after serving one-month prior notice) for all withdrawals, until the subject regulatory requirement is fulfilled. {fn:9-14}However, upon submission of [*] copy of identity document and verification of the same",
+      "from NADRA Verisys or Multi biometric verification System (MBVS) or any other alternate system offered by NADRA from time to time, the block on the account(s) shall be removed.",
+      "(3) For customers whose accounts are dormant or in-operative, withdrawals shall not be allowed until the account is activated on the request of the customer. For activation, the regulated person shall conduct NADRA Verisys or {fn:9-15}Multi biometric verification of the customer and obtain [{fn:9-16}] copy of customer’s valid identity document (if already not available)",
+      "and fulfill the regulatory requirements.",
+      "(4) {fn:9-17}A Regulated Person shall immediately block any account(s) where the CNIC of the",
+      "account holder has been cancelled or impounded by NADRA. Such account(s) shall not be restored unless valid identity documents are obtained and the applicable regulatory requirements are duly complied with."
+     ],
+     "fn": [
+      {
+       "n": "8-13",
+       "text": "The word “attested” has been deleted vide S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "9-14",
+       "text": "The expressions “However, upon submission of attested copy of identity document and verification of the same from NADRA or biometric verification, the block from the accounts shall be removed”, has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026; 15 The expression “NADRA Verisys or biometric verification”, has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "9-16",
+       "text": "The word “attested” has been deleted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "9-17",
+       "text": "A new sub-regulation has been inserted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026."
+      }
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Enhanced Due Diligence (EDD)",
+     "page": 9,
+     "text": [
+      "(1) Regulated person shall implement appropriate internal risk management systems, policies, procedures and controls to determine if any customer presents high risk of ML/TF. The regulated person shall apply EDD where a customer presents high risk of ML/TF including but not limited to the following circumstances:",
+      ">(a) business relationships and transactions with natural and legal persons when the ML/TF risks are higher;",
+      ">(b) business relationships and transactions with natural and legal persons from countries for which this is called for by the FATF;",
+      ">(c) PEPs and their close associates and family members.",
+      "(2) EDD measures include but shall not be limited to the following measures:",
+      ">(a) Obtaining additional information on the customer (e.g. volume of assets, information available through public databases, internet, etc.), and updating more regularly the identification data of customer and beneficial owner;",
+      ">(b) Obtaining additional information on the intended nature of the business relationship;",
+      ">(c) Obtaining information on the source of funds or source of wealth of the customer;",
+      ">(d) Obtaining information on the reasons for intended or performed transactions.",
+      ">(e) Obtaining the approval of senior management to commence or continue the business relationship;",
+      ">(f) Conducting enhanced monitoring of the business relationship, by increasing the number and timing of controls applied, and selecting patterns of transactions that need further examination.",
+      "(3) An insurer/ takaful operator shall include the beneficiary of a life insurance policy as a relevant risk factor in determining whether EDD measures are applicable under {fn:10-18}[sub-",
+      "regulation] (1). where an insurer/ takaful operator determines that a beneficiary who is a legal person or a legal arrangement presents a higher risk, it shall take EDD measures and take reasonable measures to identify and verify the identity of a beneficial owners of the beneficiary of a life insurance policy or takaful at the time of payout.",
+      "(4) In relation to 21(1)(c), the regulated person shall implement appropriate internal risk management systems, to determine if a customer or a beneficial owner is a PEP or a close associate or family member of a PEP, both prior to establishing a business relationship or conducting a transaction, and periodically throughout the course of business relationship. The regulated person shall apply, at minimum the following EDD measures:",
+      ">(a) obtain approval from senior management to establish or continue a business relationship where the customer or a beneficial owner is a PEP, close associate or family member of a PEP or subsequently becomes a PEP, close associate and family member of a PEP;",
+      ">(b) take reasonable measures to establish the source of wealth and the source of funds of customers and beneficial owners identified as a PEP, close associate or family member of a PEP; and",
+      ">(c) conduct enhanced ongoing monitoring of business relations with the customer or beneficial owner identified as a PEP, close associate and family member of a PEP.",
+      "(5) An insurer/ takaful operator shall take reasonable measures at the time of payout of a life insurance policy to determine whether the beneficiaries and/or, where applicable, the beneficial owner of the beneficiary are politically exposed persons.",
+      "(6) Where higher risks are identified under {fn:10-19}[sub-regulation] (5), an insurer or takaful operator must inform senior management before the payout of the policy proceeds, to conduct enhanced scrutiny of the whole business relationship with the policyholder, and to consider making a suspicious transaction report."
+     ],
+     "fn": [
+      {
+       "n": "10-18",
+       "text": "Word subsection has been replaced with sub-regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "10-19",
+       "text": "Word subsection has been replaced with sub-regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      }
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Counter Measures against high risk countries",
+     "page": 10,
+     "text": [
+      "Regulated persons shall apply the countermeasures including but not limited to, enhance due diligence proportionate to the risk as indicated by the Federal Government, pursuant to recommendations by the National Executive Committee and when called upon to do so by the FATF."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Simplified Due Diligence",
+     "page": 11,
+     "text": [
+      "(1) The regulated person may apply SDD only where low risk is identified through adequate analysis through its own risk assessment and any other risk assessment publicly available or provided by the Commission in accordance with {fn:11-20}[regulation] 6 of these regulations and commensurate with the lower risk factors.",
+      "(2) The decision to rate a customer as low risk shall be justified in writing by the regulated person.",
+      "(3) SDD measures include the following measures:",
+      ">(a) Verifying the identity of the customer and the beneficial owner after the establishment of the business relationship;",
+      ">(b) Reducing the degree of on-going monitoring and scrutinizing transactions, based on a reasonable monetary threshold as prescribed or as set out by the Commission;",
+      ">(c) Not collecting specific information or carrying out specific measures to understand the purpose and intended nature of the business relationship, but inferring the purpose and nature from the type of transactions or business relationship established.",
+      "(4) The regulated person shall not apply any simplified CDD whenever there is a suspicion of money laundering or terrorist financing."
+     ],
+     "fn": [
+      {
+       "n": "11-20",
+       "text": "Word section has been replaced with regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      }
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Reliance on Third Parties",
+     "page": 11,
+     "text": [
+      "{fn:11-21}[(1) A regulated person may rely on third party to",
+      "conduct following CDD measures on its behalf, in line with the requirements specified in these regulations;",
+      ">>(i) Identifying the customer and verifying that customer’s identity using reliable, independent source documents, data or information;",
+      ">>(ii) Identifying the beneficial owner, and taking reasonable measures to verify the identity of the beneficial owner, such that the financial institution is satisfied that it knows who the beneficial owner is. For legal persons and arrangements this should include financial institutions understanding the ownership and control structure of the customer;",
+      ">>(iii) Understanding and, as appropriate, obtaining information on the purpose and intended nature of the business relationship:",
+      "Provided that despite third party reliance the regulated person shall-",
+      ">(a) remain liable for any failure to apply the indicated CDD measures (i) to (iii) above;",
+      ">(b) immediately obtain from the Third Party the required information concerning the indicated CDD measures (i) to (iii) above;",
+      ">(c) take steps to satisfy itself that copies of identification data and other relevant documentation relating to CDD requirements will be made available from the third party upon request without delay; and",
+      ">(d) satisfy itself that the Third Party is supervised by an AML/CFT regulatory authority or an equivalent foreign authority and has measures in place for compliance with AML Act obligation of CDD and record keeping.”];",
+      "(2) Where a regulated person relies on a third party that is part of the same corporate group, the regulated person may deem the requirements of {fn:12-22}[sub-regulation] (1) to be",
+      "met if:",
+      ">(a) the corporate group applies CDD and record-keeping requirements in accordance with the AML Act and its associated regulations;",
+      ">(b) the implementation of the requirements in paragraph (a) is supervised by an AML/CFT/{fn:12-23}[CPF] regulatory authority or an equivalent foreign",
+      "authority; and",
+      ">(c) the corporate group has adequate measures in place to mitigate any higher country risks.",
+      "(3) In addition to {fn:12-24}[sub-regulation] (1), when determining in which country a third party",
+      "may be based, the regulated person shall have regard to available information on the level of country risk",
+      "(4) Notwithstanding any reliance upon a third party, the regulated person shall ultimately remain responsible for its AML/CFT/{fn:12-25}[CPF] obligations, including generating STRs and",
+      "shall carry out ongoing monitoring of such customer itself.",
+      "TFS Obligations"
+     ],
+     "fn": [
+      {
+       "n": "11-21",
+       "text": "Regulation 24(1) substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023. Before substitution, regulation 24(1) read as follows: (1) Any regulated person may rely on a third party to conduct CDD on its behalf as set out in provisions 8-23 of these regulations, provided that the regulated person shall- (a) remain liable for any failure to apply such indicated CDD measures above; (b) immediately obtain from the Third Party the required information concerning CDD; (c) take steps to satisfy itself that copies of identification data and other relevant documentation relating to CDD requirements will be made available from the third party upon request without delay; (d) keep that copies of identification; and (e)satisfy itself that the Third Party is supervised by an AML/CFT regulatory authority or an equivalent foreign authority and has measures in place for compliance with AML Act obligation of CDD and record keeping."
+      },
+      {
+       "n": "12-22",
+       "text": "Word subsection has been replaced with sub-regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "12-23",
+       "text": "Expression AML/CFT has been substituted for AML/CFT/CPF vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "12-24",
+       "text": "Word subsection has been replaced with sub-regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "12-25",
+       "text": "Expression AML/CFT has been substituted for AML/CFT/CPF vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      }
+     ]
+    },
+    {
+     "no": "25",
+     "title": "",
+     "page": 12,
+     "text": [
+      "(1) The regulated person shall undertake TFS obligations under the United Nations (Security Council) Act 1948 and/or Anti-Terrorism Act 1997 and any regulations made there under, including:",
+      ">(a) develop mechanisms, processes and procedures for screening and monitoring customers, potential customers and beneficial owners/associates of customers to detect any matches or potential matches with the stated designated/proscribed persons in the SROs and notifications issued by MoFA, NACTA and MoI.",
+      ">(b) If during the process of screening or monitoring of customers or potential customers the regulated person finds a positive or potential match, it shall immediately:",
+      "i. freeze the relevant funds and assets without delay the customer’s fund/ policy or block the transaction, without prior notice if it is an existing customer in accordance with the respective SRO. ii. prohibit from making any funds or other assets, economic resources, or financial or other related services and funds in accordance with the respective SRO iii. Reject the transaction or attempted transaction or the customer, if the relationship has not commenced.",
+      ">(c) In all cases referred to in (b), the regulated person shall file a suspicious transaction report to the FMU in case that person is designated under United Nations Security Council Resolutions, or proscribed under the Anti-Terrorism Act, 1997 and simultaneously notify the Commission in the manner as may be instructed from time to time by the Commission.",
+      ">(d) implement any other obligation under the AML Act 2010, United Nations (Security Council) Act 1948 and Anti-Terrorism Act 1997 and any regulations made there under.",
+      "(2) The regulated person is prohibited, on an ongoing basis, from providing any financial services to proscribed/ designated entities and persons or to those who are known for their association with such entities and persons, whether under the proscribed/ designated name or with a different name. The regulated person should monitor their business relationships with the entities and individuals on a continuous basis and ensure that no such relationship exists directly or indirectly, through ultimate control of an account and where any such relationship is found, the regulated person shall take immediate action as per law, including reporting to the FMU.",
+      "Explanation:- For the purposes of this {fn:13-26}[regulation] the expression associates means persons and entities acting on behalf of, or at the direction, or for the benefit, of proscribed/ designated entities and individuals that may be determined on the basis of appropriate screening of sanctions lists, disclosed nominee/beneficiary information, publicly known information, Government or regulatory sources or reliable media information, etc."
+     ],
+     "fn": [
+      {
+       "n": "13-26",
+       "text": "Word section has been replaced with regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III",
+   "sections": [
+    {
+     "no": "26",
+     "title": "Record Keeping",
+     "page": 14,
+     "text": [
+      "(1) The records maintained by regulated person as set out in section 7C of the AML Act shall be sufficient to permit reconstruction of individual transactions including the nature and date of the transaction, the type and amount of currency involved and the customer involved in the transactions so as to provide, when necessary, evidence for prosecution of criminal activity.",
+      "(2) Where transactions, customers or instruments are involved in litigation or where relevant records are required by a court of law or other competent authority, the regulated person shall retain such records until such time as the litigation is resolved or until the court of law or competent authority indicates that the records no longer need to be retained.",
+      "(3) The records of identification data obtained through CDD process including copies of identification documents, account opening forms, Know Your Customer forms, verification documents, other documents and result of any analysis along with records of account files and business correspondence, shall be maintained for a minimum period of five years after termination of the business relationship.",
+      "(4) The regulated person will maintain a list of all such customers/accounts where the business relationship was refused or needed to be closed on account of negative verification.",
+      "(5) The regulated person shall provide, upon request, from the Commission, investigating or prosecuting agency and FMU, any record within 48 hours after the request has been made or such time as may be instructed by the relevant authority.",
+      "Compliance Programs"
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Compliance Program",
+     "page": 14,
+     "text": [
+      "(1) In order to implement compliance programs as set out in 7G of the AML Act, the regulated person shall implement the following internal policies, procedures and controls:",
+      ">(a) compliance management arrangements, including the appointment of a compliance officer at the management level, as the individual responsible for the regulated person’s compliance with these Regulations, the AML Act and other directions and guidelines issued under the aforementioned regulations and laws;",
+      ">(b) screening procedures when hiring employees to ensure the integrity and conduct, skills, and expertise of such employees to carry out their functions effectively;",
+      ">(c) an ongoing employee training program; and",
+      ">(d) an independent audit function to test the system.",
+      "(2) For purposes of (a) the regulated person shall ensure that the compliance officer:",
+      ">(a) reports directly to the board of directors or chief executive officer or committee;",
+      ">(b) has timely access to all customer records and other relevant information which they may require to discharge their functions, as well as any other persons appointed to assist the compliance officer;",
+      ">(c) be responsible for the areas including, but not limited toi. ensuring that the internal policies, procedures and controls for prevention of ML/TF are approved by the board of directors of the regulated person and are effectively implemented; ii. monitoring, reviewing and updating AML/CFT/{fn:15-27}[CPF] policies and",
+      "procedures, of the regulated person; iii. providing assistance in compliance to other departments and branches of the regulated person; iv. timely submission of accurate data/ returns as required under the applicable laws; v. monitoring and timely reporting of Suspicious and Currency Transactions to FMU; and vi. such other responsibilities as the regulated person may deem necessary in order to ensure compliance with these regulations."
+     ],
+     "fn": [
+      {
+       "n": "15-27",
+       "text": "Expression AML/CFT has been substituted for AML/CFT/CPF vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      }
+     ]
+    },
+    {
+     "no": "28",
+     "title": "",
+     "page": 15,
+     "text": [
+      "In the case of a corporate group, in addition to the obligations established in {fn:15-28}[regulation] 27, the regulated person shall implement:",
+      ">(a) policies and procedures for sharing information required for the purposes of CDD and risk management;",
+      ">(b) the provision, at group-level compliance, audit, and/or AML & CFT functions, of customer, account, and transaction information from branches and subsidiaries when necessary for AML & CFT purposes.",
+      ">(c) adequate safeguards on the confidentiality and use of information exchanged, including safeguards to prevent tipping-off."
+     ],
+     "fn": [
+      {
+       "n": "15-28",
+       "text": "Word section has been replaced with regulation vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      }
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Foreign Branches and Subsidiaries",
+     "page": 15,
+     "text": [
+      "{fn:15-29}[The regulated person shall ensure that their",
+      "foreign branches and majority-owned subsidiaries in countries which do not sufficiently apply the FATF Recommendations, apply AML, CFT & CPF measures consistent with Pakistan’s AML/CFT/CPF requirements, to the extent that host country laws and regulations permit. If the foreign country does not permit the proper implementation of AML/CFT measures consistent with that of Pakistan requirements, financial groups should apply appropriate additional measures to manage the risks, and inform the Commission when a foreign branch or subsidiary is unable to observe appropriate AML/CFT measures]."
+     ],
+     "fn": [
+      {
+       "n": "15-29",
+       "text": "Regulation 29 is substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023. Before substitution, regulation 29 read as follows: The regulated person shall ensure that their foreign branches and majority-owned subsidiaries apply AML & CFT measures consistent with Pakistan requirements where the minimum AML & CFT requirements are less strict than Pakistan, to the extent that host country laws. If the foreign country does not permit the proper implementation of AML/CFT measures consistent with that of Pakistan requirements, financial groups should to apply appropriate additional measures to manage the risks, and inform the Commission."
+      }
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Correspondent Relationship",
+     "page": 16,
+     "text": [
+      "(1) A regulated person shall perform the following measures, in addition to other measures prescribed in these regulations, when forming a correspondent relationship-",
+      ">(a) assess the suitability of the respondent financial institution by taking the following steps-",
+      "i. gather adequate information about the respondent financial institution to understand fully the nature of the respondent financial institution’s business, including making appropriate inquiries on its management, its major business activities and the countries or jurisdictions in which it operates; ii. determine from any available sources the reputation of the respondent financial institution and the quality of supervision over the respondent financial institution, including whether it has been the subject of money laundering or terrorism financing investigation or regulatory action; and iii. assess the respondent financial institution’s AML/CFT/{fn:16-30}[CPF] controls and ascertain that they are adequate and effective, having regard to the AML/CFT/{fn:16-31}[CPF] measures of the country or jurisdiction in which the respondent financial institution operates.",
+      ">(b) clearly understand and document the respective AML/CFT/{fn:16-32}[CPF] responsibilities of the financial institution and the respondent financial institution;",
+      ">(c) assess the respondent financial institution in the context of sanctions/embargoes and Advisories about risks; and",
+      ">(d) obtain approval from the financial institutions’ senior management before providing correspondent services to a new financial institution.",
+      "(2) Regulated person shall document the basis for its satisfaction that the requirements of this regulations are met.",
+      "(3) Regulated person shall pay special attention when establishing or continuing correspondent relationship with financial institutions which are located in jurisdictions that have been identified or called for by FATF for inadequate and poor AML/CFT/{fn:17-33}[CPF]",
+      "standards in the fight against money laundering and financing of terrorism.",
+      "(4) No regulated person shall enter into or continue correspondent relationship with another financial institution that does not have adequate controls against money laundering or terrorism financing activities, is not effectively supervised by the relevant authorities or is a shell financial institution.",
+      "Explanation:- For the purposes of this regulation the expression “shell financial institution” means a financial institution incorporated, formed or established in a country or jurisdiction where the financial institution has no physical presence and which is unaffiliated with a financial group that is subject to effective consolidated supervision.",
+      "(5) A regulated person shall also take appropriate measures when establishing a Correspondent Relationship, to satisfy itself that its respondent financial institutions do not permit their accounts to be used by shell financial institutions.",
+      "Penalties"
+     ],
+     "fn": [
+      {
+       "n": "16-30",
+       "text": "Expression AML/CFT has been substituted for AML/CFT/CPF vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "16-31",
+       "text": "Expression AML/CFT has been substituted for AML/CFT/CPF vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "16-32",
+       "text": "Expression AML/CFT has been substituted for AML/CFT/CPF vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "17-33",
+       "text": "Expression AML/CFT has been substituted for AML/CFT/CPF vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      }
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Penalty",
+     "page": 17,
+     "text": [
+      "(1) Any contravention of these regulations shall be cognizable by the Commission in accordance with section 6A of the AML Act and liable to sanction provided in the AML/CFT Sanctions Rules, 2020 and imposed by the Commission according to Clause (h) of Sub-section (2) of Section 6A of AML Act."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Repeal",
+     "page": 17,
+     "text": [
+      "(1) The following notifications {fn:17-34}[and circulars], hereinafter referred to as repealed instruments, are hereby repealed,",
+      ">(a) {fn:17-35}[Circular No 14/2010 dated July 5, 2010;",
+      ">(b) Circular No 14/2013 dated August 5, 2013 (c) Securities and Exchange Commission of Pakistan (Anti Money Laundering and Countering Financing of Terrorism) Regulations, 2018 vide S. R. O. 770(I)/2018 dated June 13, 2018.",
+      ">(d) Circular No1201(1)/2018 dated October 3, 2018 (e) Circular No 105/(1)/2021 dated January 29, 2021.]",
+      "(2) Provided that repeal of the repealed instrument shall not-",
+      ">(a) revive anything not in force at the time at which the repeal take effect; or",
+      ">(b) affect the previous operation of the repealed instruments or anything duly done or suffered thereunder; or",
+      ">(c) affect any right, privilege, obligation or liability acquired, accrued or",
+      "incurred under the said repealed instruments; or",
+      ">(d) affect any penalty imposed, forfeiture made or punishment incurred in respect of any offence or violations committed against or under the repealed instrument; or",
+      ">(e) affect any inspection, investigation, prosecution, legal proceeding or remedy in respect of any obligation, liability, penalty, forfeiture or punishment as aforesaid, and any such inspection, investigation, prosecution, legal proceedings or remedy may be made, continued or enforced and any such penalty, forfeiture or punishment may be imposed, as if these regulations has not been notified.",
+      "(3) Anything done, actions taken, orders passed, registration granted, notifications issued, proceedings initiated and instituted, prosecutions filed, processes or communications issued and powers conferred, assumed or exercised by the Commission under the repealed instruments, shall, on the coming into operation of these regulations, be deemed to have been validly done, taken, passed, granted, issued, initiated or instituted, filed, conferred, assumed and exercised and every action, prosecution or proceeding instituted and every order, directive, notification, circular etc. issued by the Commission shall be deemed to have been initiated, instituted or issued as if the repealed instruments have not been repealed and shall be proceeded with to completion and be enforced and have effect accordingly."
+     ],
+     "fn": [
+      {
+       "n": "17-34",
+       "text": "In regulation 32, for the word “notifications” the words “notifications and circulars” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "17-35",
+       "text": "Added vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      },
+      {
+       "n": "19-36",
+       "text": "The expression “A [copy] of any one of the following valid identity documents” has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "19-37",
+       "text": "Added vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "19-38",
+       "text": "The expression “Alien Registration Card (ARC) issued by National Aliens Registration Authority (NARA), Ministry of Interior (local currency account only)” has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "19-39",
+       "text": "Word “valid” has been deleted S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      },
+      {
+       "n": "19-40",
+       "text": "The word “and”, at the end, has been omitted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "19-41",
+       "text": "New clause has been inserted vide vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "19-42",
+       "text": "Word “Photocopy” has been substituted for word “Copy” vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      },
+      {
+       "n": "19-43",
+       "text": "Word “Photocopy” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      },
+      {
+       "n": "20-44",
+       "text": "Added vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "20-45",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "20-46",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "20-47",
+       "text": "The word “/Form-B”, has been omitted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "20-48",
+       "text": "The expression “Incorporate Form II in case of newly incorporated company and Form A / Form C whichever is applicable; and Form 29 in already incorporated companies” has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "20-49",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "20-50",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      },
+      {
+       "n": "21-51",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "21-52",
+       "text": "Word “Form II” has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "21-53",
+       "text": "Word “Form III” has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "21-54",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      },
+      {
+       "n": "21-55",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "22-56",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "22-57",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "22-58",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "22-59",
+       "text": "Word “Photocopies” has been substituted vide S.R.O. 1356 (I)/2023 dated September 21, 2023;"
+      },
+      {
+       "n": "22-60",
+       "text": "Added vide S.R.O. 1356 (I)/2023 dated September 21, 2023."
+      },
+      {
+       "n": "23-61",
+       "text": "Expression “Mother Maiden Name” has been omitted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "23-62",
+       "text": "Clause No. 2 of Note of Annexure 1,” The copies of identity documents shall be validated through NADRA verisys or Biometric Verification. The regulated person shall retain copy of NADRA verisys or Biometric Verification (hard or digitally) as a proof of obtaining identity from customer; and” has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "23-63",
+       "text": "New clause has been inserted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "23-64",
+       "text": "Clause No. 3 of Note of Annexure 1 has been omitted vide S.R.O. 562 (I)/2022 dated 27th April 2022. Before omission, it was read as follows: “In case of a salaried person, in addition to CNIC, a copy of his salary slip or service card or certificate or letter on letter head of the employer will be obtained”."
+      },
+      {
+       "n": "23-65",
+       "text": "The word “attested” has been omitted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026."
+      },
+      {
+       "n": "24-66",
+       "text": "The expression “/MBVS” has been added vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "24-67",
+       "text": "The words “Form-A/Form-B” has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "24-68",
+       "text": "The words “NADRA Verisys” has been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026;"
+      },
+      {
+       "n": "24-69",
+       "text": "The words “Verisys reports”, have been substituted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026."
+      },
+      {
+       "n": "25-70",
+       "text": "New clause has been inserted vide S.R.O. S.R.O.1079(I)/2026 dated July 03, 2026."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annex 1",
+   "page": 19
+  }
+ ]
+}

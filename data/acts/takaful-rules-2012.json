@@ -1,0 +1,519 @@
+{
+ "id": "takaful-rules-2012",
+ "title": "Takaful Rules, 2012",
+ "number": "S.R.O. 877(I)/2012",
+ "type": "rules",
+ "unit": "Rule",
+ "parent": "insurance-ordinance-2000",
+ "categories": [
+  "insurance"
+ ],
+ "aliases": [
+  "Takaful Rules"
+ ],
+ "enacted": "2012-07-16",
+ "lastAmended": "2015-10-22",
+ "amendedUpToLabel": "22 October 2015",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "s-r-o-877i-2012-takaful-rules-2012-updated-as-of-oct-22-2015.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 22 October 2015. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter 1 — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Rules shall be called the Takaful Rules, 2012.",
+      "(2) These Rules shall come into force at once. Existing Takaful Operators shall comply with the requirements of these Rules within period of six months from the notification in the Official Gazette."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these Rules, unless there is anything repugnant in the subject or context,-",
+      ">>(i) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">>(ii) “Contribution” means the amount payable by a Participant to an Operator under a Takaful Contract;",
+      ">>(iii) “Conventional Insurance” means life or non-life insurance under the Ordinance, including reinsurance, which is not Takaful as defined in clause (lxiv) of section 2 of the Ordinance and Re-Takaful;",
+      ">>(iv) “Family Takaful” means Takaful for the benefit of individuals, groups of individuals and their families, as provided under sub-section (2) of section 3 of the Ordinance;",
+      ">>(v) “General Takaful” means Takaful other than Family Takaful;",
+      ">>(vi) “Mudaraba Based Contract” means a Takaful contract based on the principle of Mudaraba;",
+      ">>(vii) “Ordinance” means the Insurance Ordinance, 2000 (XXXIX of 2000);",
+      "(viii) “Operator” means a Takaful Operator or a Window Takaful Operator, authorized under these Rules;",
+      ">>(ix) “Operator Fund” means a fund set up by a General Takaful Operator which shall undertake all transactions which the Operator undertakes other than those which pertain to Participant Takaful Funds set up by the Operator;",
+      ">>(x) “Operator sub-fund” means a sub-fund of a statutory fund set up by a Family Takaful Operator in which all takaful operator fees shall be credited and from which all expenses relating to the Statutory Fund which are not charged to any Participant Takaful Fund or Participant Investment Fund shall be debited;",
+      ">>(xi) “Participant” means a person who participates in a Takaful scheme and to whom a Takaful Contract is issued;",
+      ">>(xii) “Participant Investment Fund” means a separate group of assets forming a subfund of a statutory fund of a Family Takaful Operator which is to be used as a basis for determination of the benefits payable under a Family Takaful contract;",
+      "(xiii) “Participant Takaful Fund” means,-",
+      ">(a) in the case of a Family Takaful Operator a sub-fund of a statutory fund into which the participant’s risk related contributions are paid and from which risk related benefits are paid out; and",
+      ">(b) in the case of a General Takaful Operator a separate fund set up into which the participant’s risk related contributions are paid and from which risk related benefits are paid out;",
+      ">>(xiv) “Participants’ Membership Documents” means the documents detailing the benefits and obligations of a Participant under a Takaful Contract;",
+      ">>(xv) “Principal Officer” means a person, by whatever designation called, appointed by a Takaful Operator and charged with the responsibility of managing the affairs of the Takaful Operator;",
+      ">>(xvi) “Registered Insurer” means an insurer registered with the Commission under section 7 of the Ordinance to transact life or non-life insurance business;",
+      "(xvii) “Re-Takaful” means an arrangement for re-Takaful of liabilities in respect of risks accepted by the Operator in the course of carrying on Takaful business and includes ceding risks from Participant Takaful Funds to Re-Takaful Operator(s);",
+      "(xviii) “Shariah Advisor” means a person appointed by an Operator under rule 26;",
+      ">>(xix) “Shariah Advisory Board” means the Shariah Advisory Board constituted by the Commission;",
+      ">>(xx) “Takaful Benefit” includes any benefit, whether pecuniary or otherwise, which is secured by a Takaful Contract;",
+      ">>(xxi) “Takaful Contract” means any contract of Family Takaful or General Takaful;",
+      "(xxii) “Takaful Operator” means a Registered Insurer who is authorized by the Commission to carry on Takaful business and not Conventional Insurance business;",
+      "(xxiii) “Wakala based contract” means a Takaful contract based on the principle of Wakala (agency); and",
+      "(xxiv) “Window Takaful Operator” means a Registered Insurer authorized under these Rules to carry on Takaful business as window operations in addition to Conventional Insurance business.",
+      "(2) Words and expressions used but not defined in these Rules shall, unless there is anything repugnant in the subject or context, have the same meaning as are assigned to them in the Ordinance."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Authorization And Conditions To Transact Takaful Business",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Prohibition to engage in Takaful Business without authorization",
+     "page": 3,
+     "text": [
+      "(1)No person shall begin or continue to carry on Takaful business in Pakistan or use the word “Takaful” or undertake any activity in the nature of Takaful business, unless such person has obtained from the Commission a certificate of authorization to carry on Takaful business as Takaful Operator or as Window Takaful Operator, as the case may be, under these Rules.",
+      "Provided that the Takaful Operators registered under the Ordinance prior to the issuance of these Rules shall continue to carry on Takaful business and shall deemed to be authorized under these Rules.",
+      "(2) The issue of investment linked policies by life insurers transacting Conventional Insurance business where the underlying assets to which the value of such policies are linked are Shariah compliant shall not be deemed to constitute carrying on Takaful business."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Persons eligible to transact Takaful Business",
+     "page": 4,
+     "text": [
+      "(1) No person other than a Registered Insurer and authorized in this behalf under these Rules shall be eligible to transact Takaful business.",
+      "(2) A Registered Insurer registered to transact life insurance business shall be eligible to transact Family Takaful and a Registered Insurer registered to transact non life insurance business shall be eligible to transact General Takaful.",
+      "(3) All provisions of the Ordinance and insurance rules pertaining to life insurance business shall be deemed to apply to Family Takaful business and all provisions of the Ordinance and insurance rules pertaining to non-life insurance business shall be deemed to apply to General Takaful business."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Application for Authorization as Takaful Operator",
+     "page": 4,
+     "text": [
+      "(1)An application for authorization as a Takaful Operator shall be made to the Commission in such form along with such documents and information as may be specified from time to time.",
+      "(2) The Commission, while considering the application for authorization, may require the applicant to furnish such further information or clarification as it deems necessary.",
+      "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-rule (1) shall be intimated to the Commission within fourteen days of the occurrence of change.",
+      "(4) The applicant shall, if so required, appear before the Commission for a representation through an officer duly authorized for this purpose in writing by the board of directors of the applicant."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Application for Authorization as Window Takaful Operator",
+     "page": 4,
+     "text": [
+      "(1)An application for authorization as a Window Takaful Operator shall be made to the Commission in such form along with such documents and information as may be specified from time to time.",
+      "(2) The Commission, while considering the application for authorization, may require the applicant to furnish such further information or clarification as it deems necessary.",
+      "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-rule (1) shall be intimated to the Commission within fourteen days of the occurrence of change.",
+      "(4) The applicant shall, if so required, appear before the Commission for a representation through an officer duly authorized for this purpose in writing by the board of directors of the applicant."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Transformation of a non-life insurer into a Takaful Operator",
+     "page": 5,
+     "text": [
+      "(1)If in case a conventional non-life insurer wishes to transform its conventional business into Takaful business, it shall inform the Commission in writing about its intention for such transformation. The Commission shall on fulfillment of certain requirements, as may be specified from time to time, authorize the Registered Insurer as a Takaful Operator under Rule 9.",
+      "(2) The registered insurer after being authorized as Takaful Operator, shall cease to underwrite Conventional Insurance products immediately and shall be responsible to cover all liabilities incidental to its conventional business.",
+      "(3) Till such time the liabilities related to the Conventional Insurance business of such a transformed Takaful Operator are fully paid off, it shall be reported in the Operator Fund of the Takaful Operator."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Refusal to grant authorization",
+     "page": 5,
+     "text": [
+      "(1) No application for authorization made under rule 5 or rule 6 shall be refused without giving the applicant a reasonable opportunity of being heard.",
+      "(2) In case the Commission refuses to grant authorization to an applicant, the decision shall be communicated to the applicant in writing stating therein the reasons for such refusal.",
+      "(3) The applicant, being aggrieved by the decision of the Commission under sub-rule (2), may apply, within a period of thirty days from the date of receipt of such communication, to the Commission for review of its decision.",
+      "(4) On receipt of the application made under sub-rule (3), the Commission shall review its decision and communicate its findings, in writing, to the applicant within thirty days and the decision of the Commission in this regard shall be final."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Grant of authorization",
+     "page": 5,
+     "text": [
+      "(1) The Commission on being satisfied, that the applicant under rule 5(1) or rule 6(1), as the case may be, is eligible for authorization and has complied with the requirements of the Ordinance and these Rules, may grant a certificate of authorization to the applicant in Form A or Form B respectively annexed to the rules.",
+      "(2) The Commission may, while authorizing an applicant as a Takaful Operator or Window Takaful Operator, specify conditions for such authorization to be complied with by the Takaful Operator or Window Takaful Operator in such manner, as it may deems fit.",
+      "(3) The certificate of authorization shall remain valid unless it is revoked or suspended by the Commission.",
+      "(4) Nothing in this rule shall prevent the Commission from exercising the powers available to it under section 63 of the Ordinance to direct an Operator to cease entering into new Takaful Contracts."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Conditions applicable to Operator",
+     "page": 6,
+     "text": [
+      "(1) An Operator,-",
+      ">(a) shall appoint a Shariah Advisor in accordance with the provisions of these Rules;",
+      ">(b) shall appoint a Shariah compliance auditor in accordance with the provisions of these Rules;",
+      ">(c) shall appoint a Shariah compliance officer in accordance with the provisions of these Rules;",
+      ">(d) carrying on Family Takaful business shall set up one or more statutory funds exclusively for Takaful business;",
+      ">(e) carrying on Family Takaful business shall divide each statutory fund set up for Takaful business into a number of sub-funds namely Participant Takaful Funds, an Operator sub-fund and in case of investment contracts a Participant Investment Funds;",
+      ">(f) carrying on General Takaful business shall set up one or more Participant Takaful Funds and an Operator Fund;",
+      ">(g) shall ensure that all investments made for the purposes of Takaful business are made in accordance with the investment policy approved by its Shariah Advisor;",
+      ">(h) shall ensure that assets and liabilities of each Participant Takaful Fund and each Participant Investment Fund are segregated from its other assets and liabilities;",
+      ">(i) shall ensure that receipts to and payments from each Participant Takaful Fund are made in accordance with the provisions of these Rules;",
+      ">(j) shall ensure that the Participant Takaful Fund, at all times, carry reserves as may be specified by the Commission;",
+      ">(k) shall ensure that in case of General Takaful each Participant Takaful Fund, at all times, has admissible assets in excess of its liabilities:",
+      "Explanation: For this purpose any amount receivable from the Operator shall be deemed to be inadmissible.",
+      ">(l) shall ensure that in case of Family Takaful each Statutory Fund is in compliance with the solvency requirements under the Ordinance:",
+      "Explanation: For this purpose any amount receivable from the Shareholders Fund or any Operator sub-fund shall be deemed to be inadmissible.",
+      ">(m) shall ensure that the benefits and obligations of each Participant under a Takaful Contract are documented in a Participant Membership Document;",
+      ">(n) shall manage each Participant Takaful Fund in accordance with the provisions of these Rules;",
+      ">(o) shall formulate detailed policies for each Participant Takaful Fund with the approval of its Shariah Advisor;",
+      ">(p) shall provide funds by way of qard-e-hasna to the Participant Takaful Fund in accordance with the provisions of these Rules;",
+      ">(q) shall determine surplus or deficit in each Participant Takaful Fund in accordance with the provisions of these rules;",
+      ">(r) shall set the fee structure and the profit sharing ratio for investment management in accordance with the provisions of these Rules on the advice of the Shariah Advisor and in case of Family Takaful with the approval of the appointed actuary also; and",
+      ">(s) [can accept risk under re-takaful or participate on co-takaful basis under a takaful contract and it can also participate in insurance contract on coinsurance basis provided that it adheres to shariah guidelines approved by its Shariah Advisor pertaining to acceptance of co-insurance under insurance contract.] {fn:8-1}",
+      "(2) An Operator shall not,-",
+      ">(a) distribute any material to any person on the extent to which the products of other Operators are compliant with Shariah; and",
+      ">(b) make payment out of Participant Takaful Fund for marketing or sales expenses (including commissions), administrative and management expenses."
+     ],
+     "fn": [
+      {
+       "n": "8-1",
+       "text": "Substituted by S.R.O. 1046(I)/2015 dated October 22, 2015. Rule 10(1)(s) before substitution stated: (s) shall accept risk under re-takaful or participate on co-takaful basis, only where the policy is issued by an Operator as Takaful Contract under these Rules. Provided that the Operator may, with the approval of its Shariah Advisor, be allowed to participate on co-insurance basis with conventional insurers up till December 31, 2013."
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Further Conditions applicable to Window Takaful Operator",
+     "page": 8,
+     "text": [
+      "(1)In addition to the conditions under Rule 10, a Window Takaful Operator,-",
+      ">(a) shall ensure that all its documents pertaining to the takaful operations shall carry the words “Window Takaful Operations” prominently below the company’s name;",
+      ">(b) shall report its assets, liabilities, revenues and expenses separately for each segment of its Conventional business and Takaful business;",
+      ">(c) shall comply with the provisions of these Rules or such other conditions as may be imposed by the Commission from time to time;",
+      ">(d) shall appoint a whole time head of window takaful operations who shall possess relevant experience and knowledge as may be specified by the Commission and shall not be associated with the conventional insurance operations, in any manner."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Revocation of Authorization",
+     "page": 8,
+     "text": [
+      "(1) The Commission may by order suspend or revoke the authorization of an Operator either wholly or in respect of a class of business, as the case may be, if it is satisfied that,-",
+      ">(a) the Operator is carrying on its operations in a manner which is not approved by its Shariah Advisor;",
+      ">(b) the Operator has not commenced business within twelve months after being authorized;",
+      ">(c) the Operator has ceased to carry on Takaful business;",
+      ">(d) the Operator has failed to maintain a surplus of admissible assets over liabilities in each Participant Takaful Fund, in case of General Takaful business in accordance with the provisions of these Rules;",
+      ">(e) the Operator has failed to comply with solvency requirements in case of Family Takaful;",
+      ">(f) the Operator is carrying on its Takaful business in a manner likely to be detrimental to the interests of its Participants;",
+      ">(g) the Operator has failed to effect adequate Re-Takaful arrangements;",
+      ">(h) the Operator is contravening or has contravened the provisions of the Ordinance, rules, regulations made thereunder;",
+      ">(i) the Operator has furnished false, misleading or inaccurate information or has concealed or failed to disclose material facts in its application for authorization;",
+      ">(j) it is in the public interest to cancel the authorization.",
+      "(2) No orders shall be made under sub-rule (1) except after giving the Operator, a reasonable opportunity of being heard."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III",
+   "sections": [
+    {
+     "no": "13",
+     "title": "Establishment of Participant Takaful Fund",
+     "page": 9,
+     "text": [
+      "(1) An Operator shall, for each Participant Takaful Fund, formulate Participant Takaful Fund Policies defining:",
+      ">(a) risks being covered, specifically with reference to classes of business defined in Section 4 of the Ordinance (relating each such risk with classes of business as defined in Section 4 of the Ordinance);",
+      ">(b) the events upon which amounts would be payable from the Participant Takaful Fund to a participant and the method of determination of the amount payable;",
+      ">(c) expenses which may be charged to the Participant Takaful Fund;",
+      ">(d) the method and frequency of determining surpluses or deficits of the Participant Takaful Fund, including a definition of how any reserves being set aside in determining such surpluses or deficits are to be arrived at;",
+      ">(e) the method of disposing of any surplus;",
+      ">(f) the method of extinguishing any deficit; and",
+      ">(g) the procedure of dissolution of Participant Takaful Fund.",
+      "(2) The Participant Takaful Fund Policies shall be approved by the Shariah Advisor of the Operator. A copy of the Participant Takaful Fund policy relevant to each Takaful Contract shall be made available to any Participant who requests a copy and shall also be available on the Takaful Operator’s web-site.",
+      "(3) Copies of the Participant Takaful Fund Policies shall be provided to the Commission at least fifteen days before any risk is accepted in any new Participant Takaful Fund and for all existing Participant Takaful Funds, the Participant Takaful Fund policy documents shall be submitted to the Commission within ninety days of coming into effect of these Rules."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Establishment of Participant Investment Funds",
+     "page": 10,
+     "text": [
+      "An Operator carrying on Family Takaful business and issuing contracts which have an investment component shall establish one or more Participant Investment Funds which will be sub-funds of a statutory fund set up for conducting Takaful business."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Participant Membership Document",
+     "page": 10,
+     "text": [
+      "(1)The benefits and obligations of each Participant under a Takaful Contract shall be documented in a Participant Membership Document detailing therein the terms and conditions relating to the relationship amongst the Participants and between the Participants and the Takaful Operator including the following:",
+      ">(a) rights and obligation of Participants;",
+      ">(b) procedure for division of Contribution between Participant Takaful Funds, Participant Investment Funds and Operator fund/sub-fund;",
+      ">(c) method for determination of fees and/or share of investment income payable to the Operator;",
+      ">(d) procedure for and timing of transfer of funds between Participant Takaful Funds, Participant Investment Funds and Operator fund/sub-fund;",
+      ">(e) procedure for claims and payment of Takaful Benefits and the method of determining such benefits, including, if applicable, any limitations and",
+      "exclusions;",
+      ">(f) in case of Family Takaful contracts, the procedure for pooling of moneys for investment purposes under the Participant Investment Fund; and",
+      ">(g) terms and conditions on which the Operator will manage the Participant Takaful Fund and Participant Investment Fund."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Register of Takaful Contracts",
+     "page": 11,
+     "text": [
+      "Each Operator shall maintain a register of Takaful Contracts in such form as may be specified by the Commission and shall be kept at its principle place of business."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Segregation of Contributions and Funds",
+     "page": 11,
+     "text": [
+      "General Takaful.- (1)All Contributions recognized under General Takaful contracts, net of any Government levy, shall be credited to one or more Participant Takaful Funds.",
+      "(2) All Contributions into a Participant Takaful Fund shall be deposited in a bank account designated as belonging to the Participant Takaful Fund or be paid across to such an account within seven days of receipt.",
+      "(3) All income received on assets of a Participant Takaful Fund and receipts from ReTakaful operators relating to the Participant Takaful Fund shall be deposited in bank accounts designated as belonging to the Participant Takaful Fund or be paid across to such account within seven days of receipt.",
+      "(4) All assets, liabilities, income and expenditure of a General Takaful Operator which do not relate to a Participant Takaful Fund shall be deemed to be part of the Operator’s Fund."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Segregation of Contributions and Fund",
+     "page": 11,
+     "text": [
+      "Family Takaful.- (1) Contributions under Family Takaful Contracts, net of any Government levy, shall be segregated into the risk component and takaful operator’s fee, and, if relevant, the investment component.",
+      "(2) The risk component shall be credited to one or more Participant Takaful Funds; the takaful operator’s fee to an Operator sub-fund and any investment component to one or more Participant Investment Funds.",
+      "(3) The determination of each component shall be in accordance with provisions of each Family Takaful Contract.",
+      "(4) All Contributions credited to a Participant Takaful Fund or Participant Investment Fund shall be deposited in a bank accounts designated as belonging to Participant Takaful Fund and Participant Investment Fund or paid across to such account within seven days of receipt.",
+      "(5) All income received on assets of a Participant Takaful Fund and receipts from ReTakaful operators relating to the Participant Takaful Fund shall be deposited in bank account designated as belonging to the Participant Takaful Fund or be paid across within seven days of receipt.",
+      "(6) All income received on assets of a Participant Investment Fund shall be deposited in bank account designated as belonging to the Participant Investment Fund or be paid across within seven days of receipt."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Receipt, Payment, and Reserves to be Held in Participant Takaful Funds",
+     "page": 12,
+     "text": [
+      "(1) The receipts of a Participant Takaful Fund shall consist of the following, namely:-",
+      ">(a) Contributions from Participants (in the case of a Family Takaful Operator, net of any amounts credited directly to Participant Investment Funds or the Operator sub-fund);",
+      ">(b) share of claims from Re-Takaful operators;",
+      ">(c) investment income generated by the investment of funds retained in the Participant Takaful Fund;",
+      ">(d) in the case of General Takaful, salvages and recoveries;",
+      ">(e) qard-e-hasna;",
+      ">(f) rebate/commission from re-Takaful operators/reinsurers;",
+      ">(g) share of surplus from Re-Takaful operators; and",
+      ">(h) any donation made by the shareholders of the Operator.",
+      "(2) The payments from a Participant Takaful Fund shall consist of the following, namely:-",
+      ">(a) any third party costs directly associated with underwriting (specifically medical examination, pre-cover inspection/surveys, costs of installing tracking systems or any consulting costs related with assessing or reducing the risks being covered), if it has been earlier credited to the Participant Takaful Fund;",
+      ">(b) claims paid related to risks covered under the Participant Takaful Fund and expenses directly related to settlement of claims such as surveyors’ and investigators’ fees, etc;",
+      ">(c) Re-Takaful and reinsurance contributions;",
+      ">(d) Takaful operator’s fees if it has been credited to the Participant Takaful Fund;",
+      ">(e) share of investment profits of the mudarib or wakala fees for investment management or any other combination thereof approved by the Appointed actuary in the case of Family Takaful operator and Shariah Advisor of the General Takaful Operator;",
+      ">(f) surplus distributed to Participants;",
+      ">(g) refund of any Contribution due to Participants; and",
+      ">(h) return of qard-e-hasna to the Operator fund / Operator sub-fund."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Qard-e-hasna",
+     "page": 13,
+     "text": [
+      "(1) In the case of a General Takaful if, at any point in time admissible assets in a Participant Takaful Fund are not sufficient to cover liabilities , the deficit shall be funded by way of actual transfer of funds as qard-e-hasna (interest free loan) from the Operator’s Fund to that Participant Takaful Fund.",
+      "(2) In the case of Family Takaful if, at any point in time a Statutory Fund is not solvent as per the provisions of the Ordinance, the deficit shall be funded by way of actual transfer of funds as qard-e-hasna (interest free loan) from the Shareholders’ Fund to that Statutory Fund.",
+      "(3) In the event of surplus in a Participant Takaful Fund to which a Qard-e-Hasna has been made, the Qard-e-hasna shall be repaid prior to distribution of surplus to Participants.",
+      "(4) If there is deficit in a Participant Takaful Fund for three consecutive years, the Operator shall submit a report signed by the Principal Officer in case of General Takaful and by the appointed actuary also in case of Family Takaful, to the Commission within 30 days of the submission of the regulatory returns under section 46(1) of the Ordinance explaining the reasons thereof."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Sharing of surplus",
+     "page": 13,
+     "text": [
+      "(1) At the end of each financial year the Operator shall evaluate the assets and liabilities of each Participant Takaful Fund and determine whether the Participant Takaful Fund is in surplus or deficit.",
+      "(2) A Family Takaful operator shall formulate the mechanism for determination and distribution of surplus duly approved by its appointed actuary. he surplus distribution frequency & its mechanism shall be prepared by the appointed actuary in case of the Family Takaful operator.",
+      "(3) Subject to sub-rule (2) the surplus distribution mechanism shall specify the frequency, method, entitlement conditions, basis and form of surplus distribution.",
+      "(4) In the case of General Takaful operators, the operator shall formulate the surplus distribution mechanism for distribution of surplus.",
+      "(5) The Commission may specify the surplus distribution mechanism for general takaful operators.",
+      "(6) A Participant may donate its surplus for social or charitable purposes and may request the Operator to arrange for the transfer of the donation."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Investment management of funds",
+     "page": 14,
+     "text": [
+      "Investment of Contributions in the Participant Takaful Fund and in the Participant Investment Fund shall be managed under a wakala contract, a Modaraba contract or a combination contract as determined to be sound and workable by the Shariah Advisor of the Operator."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Re-Takaful",
+     "page": 14,
+     "text": [
+      "(1) An Operator shall have adequate Re-Takaful arrangements for ReTakaful of liabilities in respect of risks undertaken or to be undertaken by the Operator in the course of its carrying on Takaful business.",
+      "(2) In the event that the limit provided by a Re-Takaful Operator is not sufficient to support the business strategy of the Takaful Operator, the Takaful Operator under the advice of its Shariah Advisor may be allowed to enter into reinsurance contracts with conventional reinsurance companies till December 31, 2013."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part IV — Window Takaful Operations",
+   "sections": [
+    {
+     "no": "24",
+     "title": "Transfers of funds by Conventional Insurer into Takaful Business Statutory Funds, Participant Takaful Funds and Participant Investment Funds",
+     "page": 14,
+     "text": [
+      "(1) A Conventional Insurer carrying on life Insurance business and authorized by the Commission as Window Takaful Operator for Family Takaful may transfer funds from Shareholders’ Fund to the statutory fund for its Takaful business.",
+      "(2) A Conventional Insurer carrying on non-life Insurance business and authorized by the Commission as Window Takaful Operator may transfer funds from Operator Fund to a Participant Takaful Fund."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part V — Compliance With Principles Of Shariah",
+   "sections": [
+    {
+     "no": "25",
+     "title": "Shariah Advisory Board",
+     "page": 15,
+     "text": [
+      "(1) The Commission may establish a Shariah Advisory Board consisting of such number of members as may be decided by the Commission.",
+      "(2) The Shariah Advisory Board will be responsible to formulate policies and guidelines for operation and management of Takaful business in line with Shariah principles:",
+      "(3) If in the opinion of the Commission different treatment for a similar operational issue is adopted by various operators, with the approval of their Shariah Advisor, the matter shall be resolved by the Shariah Advisory Board and the findings of the Shariah Advisory Board shall be final.",
+      "(4) The Commission may assign any other responsibility to the Shariah Advisory Board from time to time."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Shariah Advisor",
+     "page": 15,
+     "text": [
+      "(1) Each Operator shall appoint a Shariah Advisor who shall be responsible for:",
+      ">(a) the approval of products including all related documentation;",
+      ">(b) approval of Participant Takaful Fund policy;",
+      ">(c) approval of investment policy;",
+      ">(d) approval of Re-Takaful arrangements; and",
+      ">(e) approval for the distribution of surplus to participants.",
+      "(2) Each Operator shall obtain prior approval from the Commission for appointment of its Shariah Advisor at the time of commencing Takaful business and at later dates if there is a change.",
+      "(3) The Commission may within thirty days of such submission, based on reasonable grounds, require an Operator to change its Shariah Advisor.",
+      "(4) The Shariah Advisor, in discharging his responsibilities under sub-rule (1), shall ensure adherence to conditions specified by the Commission upon the advice of the Shariah Advisory Board on all matters.",
+      "(5) Where an Operator is required to file a document with the Commission which requires prior approval of the Shariah Advisor, the Operator shall along with the requisite document annex the approval of the Shariah Advisor.",
+      "(6) the minimum qualification and experience of the Shariah Advisor of the takaful operators / window takaful operators shall be as follows:",
+      ">(a) Educational Qualification:",
+      "Shahadat ul Aalmia Degree (Dars e Nizami) from Madaris recognized by the Higher Education Commission of Pakistan with a certificate in Takhasus fil Ifta / Takhasus fil Fiqh and adequate knowledge of Islamic finance and takaful.",
+      ">(b) Experience and Exposure:",
+      "Must have at least 4 years experience of giving Shariah rulings including the period of Takhasus fil Ifta or Takhasus fil fiqh and must also have sufficient command over English language and applicable Pakistani laws.",
+      "(7) A person cannot work as Shariah Advisor at a time for more than three Operators in Pakistan."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Shariah Compliance Officer,",
+     "page": 16,
+     "text": [
+      "(1) An Operator shall appoint with the advice of the Shariah Advisor, a Shariah compliance officer.",
+      "(2) The Shariah compliance officer shall ensure that all the policies formulated and approved by the Shariah Advisor are implemented in the operations of the Operator.",
+      "(3) The Shariah compliance officer shall directly report to the Shariah Advisor of the Operator and cannot be removed without his permission."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part IV — Miscellaneous",
+   "sections": [
+    {
+     "no": "28",
+     "title": "Training",
+     "page": 16,
+     "text": [
+      "(1) Each Operator shall provide training to all its managerial level personnel and entire sales force on the concept and operations of Takaful.",
+      "(2) The operator may arrange an in house training program with prior approved training course outline from the Commission and the Operator can also get their managerial level personnel and sales force trained through institutions approved by the Commission to provide this training.",
+      "(3) Such training course shall be conducted for a minimum of twenty hours duration.",
+      "(4) The training course referred in sub rule (1) should be completed within one year, in case of existing employees and from the date of notification of these Rules and in case of new employees from the date of their induction."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Accounting and Reporting",
+     "page": 17,
+     "text": [
+      "(1) The Commission shall issue accounting regulations for accounting treatments for Takaful operations of the Operators.",
+      "(2) For the purposes of sub-sections (1) and (2) of section 46 of the Ordinance the statements shall be furnished in the form as may be specified by the Commission."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Shariah Compliance Audit",
+     "page": 17,
+     "text": [
+      "(1) An Operator shall appoint an external Shariah compliance auditor who will conduct its audit for each accounting period.",
+      "(2) The Shariah compliance audit shall report on the state of compliance by the Operator with the requirements of these Rules.",
+      "(3) The Shariah Compliance auditor shall submit its report on Shariah audit of the Operator to the Board of Directors and Shariah Advisor of the Operator and to the Commission along with the regulatory returns furnished under Section 46 of the Ordinance.",
+      "(4) Auditors as defined under sub-section (v) of Section 2 of the Ordinance, having adequate resources to conduct Shariah audit shall be eligible to carry on Shariah compliance audit."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Repeal and savings",
+     "page": 17,
+     "text": [
+      "(1) Takaful Rules, 2005 are hereby repealed.",
+      "(2) Save as otherwise specifically provided, nothing in these Rules, or any repeal effected thereby, shall affect or be deemed to affect anything done, action taken, investigation or proceedings commenced, order, appointment, conveyance, mortgage deed, document or agreement made, fee directed, resolution passed, direction given, proceedings taken or instrument executed or issued, under or in pursuance of any rules or notifications repealed by these Rules and any such thing, action, investigation, proceedings, order, appointment, conveyance, mortgage deed, document, agreement, fee, resolution, direction, proceedings or instrument shall if in force at the coming into force of these Rules and not inconsistent with any of the provisions of these Rules, continue to be in force, and have effect as if it were respectively done, taken, commenced, made, directed, passed, given, executed or issued under these Rules.",
+      "No.1/Secy/Notifications/II)/2012",
+      "-sd-",
+      "(NAZIR AHMED SHAHEEN) Executive Director (CCD)",
+      "FORM – A [See Rule 5 of the Takaful Rules, 2012]",
+      "SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+      "Authorization Reference No. ……………………….",
+      "AUTHORISATION UNDER RULE 5 OF THE TAKAFUL RULES, 2012 TO ACT AS A TAKAFUL OPERATOR",
+      "The Securities and Exchange Commission of Pakistan having considered the application for grant of",
+      "authorization filed under Rule 5 of the Takaful Rules, 2012 by",
+      "………….……………………………………………… bearing Insurance Registration #",
+      "…………… dated ……….….……….. and now being satisfied that the said company is eligible",
+      "to transact Family / General Takaful business, hereby grants, in exercise of powers conferred under",
+      "Rule 9 of the Takaful Rules 2012, authorization to transact classes of Family / General Takaful",
+      "business as specified herein below.",
+      "Executive Director",
+      "Date/Place of Issue……………………………………………..",
+      "Classes of business which may be transacted:",
+      "____________________________________",
+      "____________________________________",
+      "____________________________________",
+      "____________________________________",
+      "FORM – B [See Rule 6 of the Takaful Rules, 2012]",
+      "SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+      "Authorization Reference No. ……………………….",
+      "AUTHORISATION UNDER RULE 6 OF THE TAKAFUL RULES, 2012 TO UNDERTAKE TAKAFUL WINDOW OPERATION IN RESPECT OF FAMILY OR GENERAL TAKAFUL PRODUCTS",
+      "The Securities and Exchange Commission of Pakistan having considered the application for",
+      "grant of authorization filed under Rule 6 of the Takaful Rules, 2012 by",
+      "….……………………………………………………… bearing Insurance Registration #",
+      "………..… dated ………….….……….. and now being satisfied that the said company is eligible",
+      "to transact Window Takaful Operation in respect of Family or General Takaful products, hereby",
+      "grants, in exercise of powers conferred under Rule 9 of the Takaful Rules 2012, authorization to",
+      "transact classes of Window Takaful business in respect of Family / General Takaful products as",
+      "specified herein below.",
+      "Executive Director",
+      "Date/Place of Issue……………………………………………..",
+      "Classes of business which may be transacted:",
+      "______________________________",
+      "______________________________",
+      "______________________________",
+      "______________________________"
+     ]
+    }
+   ]
+  }
+ ]
+}

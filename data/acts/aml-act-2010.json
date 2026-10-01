@@ -4,8 +4,16 @@
   "number": "Act No. VII of 2010",
   "type": "act",
   "unit": "Section",
-  "categories": ["aml"],
-  "aliases": ["AML", "AMLA", "AMLA 2010", "AML Act", "AML Act 2010"],
+  "categories": [
+    "aml"
+  ],
+  "aliases": [
+    "AML",
+    "AMLA",
+    "AMLA 2010",
+    "AML Act",
+    "AML Act 2010"
+  ],
   "enacted": "2010-03-26",
   "lastAmended": null,
   "status": "in-force",
@@ -15,7 +23,7 @@
   },
   "verification": {
     "status": "unverified",
-    "note": "Demonstration extract for layout only. This Act has been substantially amended since 2020; load the current consolidated text before quoting."
+    "note": "Placeholder written for layout only, not taken from an official source. The official consolidated text has not been loaded yet. Do not quote."
   },
   "preamble": "An Act to provide for prevention of money laundering and combating financing of terrorism.",
   "parts": [
@@ -53,7 +61,9 @@
           "text": [
             "Whoever commits the offence of money laundering shall be punishable with rigorous imprisonment for a term which shall not be less than one year but may extend to ten years and shall also be liable to fine, and shall also be liable to forfeiture of property involved in the money laundering or property of corresponding value."
           ],
-          "notes": ["Amended by later legislation (including 2020 amendments to penalties). The demonstration text may not reflect the current position."]
+          "notes": [
+            "Amended by later legislation (including 2020 amendments to penalties). The demonstration text may not reflect the current position."
+          ]
         }
       ]
     },
@@ -74,5 +84,6 @@
         }
       ]
     }
-  ]
+  ],
+  "placeholder": true
 }

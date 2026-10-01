@@ -5,8 +5,14 @@
   "type": "rules",
   "unit": "Rule",
   "parent": "income-tax-ordinance-2001",
-  "categories": ["tax"],
-  "aliases": ["ITR", "ITR 2002", "Income Tax Rules"],
+  "categories": [
+    "tax"
+  ],
+  "aliases": [
+    "ITR",
+    "ITR 2002",
+    "Income Tax Rules"
+  ],
   "enacted": "2002-06-26",
   "lastAmended": null,
   "status": "in-force",
@@ -16,7 +22,7 @@
   },
   "verification": {
     "status": "unverified",
-    "note": "Demonstration extract for layout only. Confirm the S.R.O. number and text against the Gazette before quoting."
+    "note": "Placeholder written for layout only, not taken from an official source. The official consolidated text has not been loaded yet. Do not quote."
   },
   "preamble": "In exercise of the powers conferred by section 237 of the Income Tax Ordinance, 2001, the Federal Board of Revenue is pleased to make the following rules.",
   "parts": [
@@ -33,5 +39,6 @@
         }
       ]
     }
-  ]
+  ],
+  "placeholder": true
 }

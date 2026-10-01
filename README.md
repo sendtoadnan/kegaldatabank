@@ -15,11 +15,26 @@ The aim is simple: open a statute, find the provision, and quote it with authori
 | **Direct jump** | Type `s 111 ITO`, `section 3 AMLA`, `CA 2017 204` or `rule 1 ITR` to go straight to the provision. |
 | **My shelf** | Save provisions for a matter and copy all their citations at once. |
 | **Verification status** | Every instrument is marked **Verified** (checked against a named official source, by whom and when) or **Unverified**. |
-| **Offline and installable** | Works as a Progressive Web App: install it on a phone or desktop, and read the whole library without a connection. |
+| **Offline and installable** | Works as a Progressive Web App: install it on a phone or desktop; search and every instrument you have opened keep working without a connection. |
 | **Print / PDF** | Print-optimised statute layout. |
-| **Import tool** | Converts statute text copied from an official PDF into the library format. |
+| **Official PDF on every provision** | **PDF p.** opens the source PDF at the exact page, for checking before quoting. |
+| **Amendment notes** | Superscript markers link to the source's amendment footnotes (which Finance Act or S.R.O. changed what). |
+| **PDF importer** | `scripts/extract_pdf.py` converts FBR/SECP consolidated PDFs, with completeness checks against their contents lists. |
 
-> **Important:** the seed content in `data/acts/` is a *demonstration extract* for five Pakistani instruments. It is marked **Unverified** and must be replaced with text checked against the Gazette before anyone relies on it. See [docs/CONTENT_GUIDE.md](docs/CONTENT_GUIDE.md).
+## What is in the library
+
+Converted from the official FBR and SECP consolidated editions (all marked **Unverified** until checked against the Gazette):
+
+| Area | Instruments |
+|---|---|
+| Taxation | Sales Tax Act 1990 (to 30.06.2026), Sales Tax Rules 2006 (to 31.07.2026), Federal Excise Act 2005 (to 30.06.2026), Customs Act 1969 (to 30.06.2026) |
+| Corporate | Companies Act 2017 (SECP edition to 18.08.2022), Companies Regulations 2024, Third Schedule (to 29.12.2025), Seventh Schedule (to 10.11.2025), S.R.O. 239(I)/2024 |
+| Insurance | Insurance Ordinance 2000 (SECP edition to Nov 2011), Insurance Rules 2017 (to 03.03.2025), Takaful Rules 2012 (to 22.10.2015) |
+| AML/CFT | SECP AML/CFT/CPF Regulations 2020 (to Sept 2023) |
+
+Every provision links to the page of the official PDF it came from, and amendment footnotes are attached to the provision they belong to.
+
+> The Income Tax Ordinance 2001, Income Tax Rules 2002 and AML Act 2010 pages are still **placeholders** (marked in red) until their official texts are loaded.
 
 ## Quick start
 
@@ -57,7 +72,11 @@ Full details are in [docs/CONTENT_GUIDE.md](docs/CONTENT_GUIDE.md).
 data/catalog.json        site name and practice areas
 data/acts/*.json         one file per Act, Ordinance, Rules or Regulations
 scripts/build.mjs        static site generator  -> dist/
-scripts/import-text.mjs  statute text -> draft JSON
+scripts/extract_pdf.py   official PDF -> library JSON (with amendment notes and page links)
+scripts/check_sequence.py numbering gap / duplicate report
+scripts/import-text.mjs  plain statute text -> draft JSON
+sources/manifest.json    metadata for each source PDF
+sources/pdf/             the official source PDFs (published at /sources/<id>.pdf)
 scripts/validate.mjs     content rules check
 src/assets/              styles, client script, icon
 src/sw.template.js       offline service worker

@@ -1,0 +1,318 @@
+[
+  {
+    "id": "sales-tax-act-1990",
+    "file": "20267171373418951SalesTaxAct1990updatedupto30.06.2026.pdf",
+    "title": "Sales Tax Act, 1990",
+    "number": "Act No. VII of 1990",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "tax"
+    ],
+    "aliases": [
+      "STA",
+      "STA 1990",
+      "Sales Tax Act",
+      "Sales Tax Act 1990"
+    ],
+    "amendedUpTo": "2026-06-30",
+    "amendedUpToLabel": "30 June 2026 (Finance Act, 2026)",
+    "source": {
+      "name": "Federal Board of Revenue",
+      "url": "https://www.fbr.gov.pk"
+    }
+  },
+  {
+    "id": "sales-tax-rules-2006",
+    "file": "202691810951482SalesTaxRules.pdf",
+    "title": "Sales Tax Rules, 2006",
+    "number": "S.R.O. 555(I)/2006",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "sales-tax-act-1990",
+    "categories": [
+      "tax"
+    ],
+    "aliases": [
+      "STR",
+      "STR 2006",
+      "Sales Tax Rules"
+    ],
+    "amendedUpTo": "2026-07-31",
+    "amendedUpToLabel": "31 July 2026",
+    "caution": "The FBR edition states: \"May not be used as a reference in courts.\"",
+    "source": {
+      "name": "Federal Board of Revenue",
+      "url": "https://www.fbr.gov.pk"
+    },
+    "bodyStartPage": 18,
+    "stopAtSchedule": false,
+    "sourceNotes": "Several rules (for example 5A, 12A, 25J, 150U, 164A) appear in the body of this edition but not in its contents list."
+  },
+  {
+    "id": "federal-excise-act-2005",
+    "file": "20267171373633512FEDAct2005updatedupto30-06-2026.pdf",
+    "title": "Federal Excise Act, 2005",
+    "number": "",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "tax"
+    ],
+    "aliases": [
+      "FEA",
+      "FED",
+      "FED Act",
+      "FEA 2005",
+      "Federal Excise Act"
+    ],
+    "amendedUpTo": "2026-06-30",
+    "amendedUpToLabel": "30 June 2026 (Finance Act, 2026)",
+    "source": {
+      "name": "Federal Board of Revenue",
+      "url": "https://www.fbr.gov.pk"
+    },
+    "sourceNotes": "The contents list of this FBR edition also lists sections 7A and 45A, which do not appear in the body text of the edition."
+  },
+  {
+    "id": "customs-act-1969",
+    "file": "20268241784853463Customs-Act-1969.pdf",
+    "title": "Customs Act, 1969",
+    "number": "Act No. IV of 1969",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "tax"
+    ],
+    "aliases": [
+      "CA 1969",
+      "Customs Act",
+      "Customs Act 1969"
+    ],
+    "amendedUpTo": "2026-06-30",
+    "amendedUpToLabel": "30 June 2026",
+    "source": {
+      "name": "Federal Board of Revenue",
+      "url": "https://www.fbr.gov.pk"
+    },
+    "endnotes": true,
+    "sourceNotes": "The contents list of this FBR edition also lists sections 14A, 18B, 21A, 155I and 221A, which do not appear in the body text of the edition. Sections 194B, 194C, 195B, 195C, 196H and 196I appear in the body but not in the contents list."
+  },
+  {
+    "id": "companies-act-2017",
+    "file": "the-companies-act-2017-updated-18-aug-2022.pdf",
+    "title": "Companies Act, 2017",
+    "number": "Act No. XIX of 2017",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CA 2017",
+      "CA2017",
+      "Companies Act",
+      "Companies Act 2017"
+    ],
+    "amendedUpTo": "2022-08-18",
+    "amendedUpToLabel": "18 August 2022",
+    "caution": "This SECP edition is updated to 18 August 2022. Later amendments are not reflected; see the updated Third and Seventh Schedules and S.R.O. 239(I)/2024 listed below.",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "sourceNotes": "Sections 60A, 83A, 123A and 458A appear in the body of this edition but not in its contents list."
+  },
+  {
+    "id": "companies-regulations-2024",
+    "file": "the-companies-regulations-2024.pdf",
+    "title": "Companies Regulations, 2024",
+    "number": "S.R.O. 201(I)/2024",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CR 2024",
+      "Companies Regulations",
+      "Companies Regulations 2024"
+    ],
+    "enacted": "2024-02-12",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "stopAtSchedule": false,
+    "untitledProvisions": true
+  },
+  {
+    "id": "companies-act-2017-third-schedule",
+    "file": "updated-3rd-schedule-to-the-companies-act-2017-29-12-2025.pdf",
+    "title": "Third Schedule to the Companies Act, 2017 (Classification of Companies)",
+    "number": "Updated to 29 December 2025",
+    "type": "schedule",
+    "unit": "Paragraph",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Third Schedule",
+      "3rd Schedule"
+    ],
+    "amendedUpTo": "2025-12-29",
+    "amendedUpToLabel": "29 December 2025",
+    "pdfOnly": true,
+    "summary": "Classification of companies (public interest, large, medium and small sized companies) and the applicable financial reporting framework under sections 224 and 225.",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    }
+  },
+  {
+    "id": "companies-act-2017-seventh-schedule",
+    "file": "updated-seventh-schedule-of-companies-act-2017-as-on-10-november-2025.pdf",
+    "title": "Seventh Schedule to the Companies Act, 2017 (Table of Fees)",
+    "number": "Updated to 10 November 2025",
+    "type": "schedule",
+    "unit": "Item",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Seventh Schedule",
+      "7th Schedule",
+      "SECP fees"
+    ],
+    "amendedUpTo": "2025-11-10",
+    "amendedUpToLabel": "10 November 2025",
+    "pdfOnly": true,
+    "summary": "Table of fees payable to the registrar and the Commission (sections 462 and 469), with effect from 10 November 2025.",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    }
+  },
+  {
+    "id": "sro-239-2024-companies-first-schedule",
+    "file": "s-r-o-239-i-of-2024-amendments-in-first-schedule-table-f-aoa-to-the-companies-act-2017.pdf",
+    "title": "S.R.O. 239(I)/2024 — Amendment to Table F, First Schedule, Companies Act, 2017",
+    "number": "S.R.O. 239(I)/2024",
+    "type": "notification",
+    "unit": "Paragraph",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SRO 239",
+      "SRO 239 2024"
+    ],
+    "enacted": "2024-02-16",
+    "pdfOnly": true,
+    "summary": "Substitutes sub-clause (ii) of clause 65 (supplementary provision relating to tax) in Table F (articles of association) of the First Schedule.",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    }
+  },
+  {
+    "id": "secp-aml-cft-cpf-regulations-2020",
+    "file": "secp-aml-cft-cpf-regulations-2020-as-amended-up-to-september-2023.pdf",
+    "title": "SECP (Anti Money Laundering, Combating the Financing of Terrorism and Countering Proliferation Financing) Regulations, 2020",
+    "number": "S.R.O. 921(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "aml-act-2010",
+    "categories": [
+      "aml"
+    ],
+    "aliases": [
+      "SECP AML Regulations",
+      "AML CFT CPF Regulations",
+      "AML Regulations 2020"
+    ],
+    "enacted": "2020-09-28",
+    "amendedUpTo": "2023-09-30",
+    "amendedUpToLabel": "September 2023",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "untitledProvisions": true,
+    "stopAtSchedule": false
+  },
+  {
+    "id": "insurance-ordinance-2000",
+    "file": "insurance-ordinance-2000.pdf",
+    "title": "Insurance Ordinance, 2000",
+    "number": "Ordinance No. XXXIX of 2000",
+    "type": "ordinance",
+    "unit": "Section",
+    "categories": [
+      "insurance"
+    ],
+    "aliases": [
+      "IO 2000",
+      "Insurance Ordinance"
+    ],
+    "amendedUpTo": "2011-11-30",
+    "amendedUpToLabel": "November 2011",
+    "caution": "This SECP edition is amended only up to November 2011. Later amendments are not reflected.",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "bodyStartPage": 8
+  },
+  {
+    "id": "insurance-rules-2017",
+    "file": "insurance-rules-2017-updated-as-of-march-3-2025.pdf",
+    "title": "Insurance Rules, 2017",
+    "number": "S.R.O. 89(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "insurance-ordinance-2000",
+    "categories": [
+      "insurance"
+    ],
+    "aliases": [
+      "Insurance Rules",
+      "IR 2017"
+    ],
+    "enacted": "2017-02-09",
+    "amendedUpTo": "2025-03-03",
+    "amendedUpToLabel": "3 March 2025",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "stopAtSchedule": false
+  },
+  {
+    "id": "takaful-rules-2012",
+    "file": "s-r-o-877i-2012-takaful-rules-2012-updated-as-of-oct-22-2015.pdf",
+    "title": "Takaful Rules, 2012",
+    "number": "S.R.O. 877(I)/2012",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "insurance-ordinance-2000",
+    "categories": [
+      "insurance"
+    ],
+    "aliases": [
+      "Takaful Rules"
+    ],
+    "enacted": "2012-07-16",
+    "amendedUpTo": "2015-10-22",
+    "amendedUpToLabel": "22 October 2015",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "stopAtSchedule": false
+  }
+]

@@ -1,0 +1,32 @@
+{
+ "id": "companies-act-2017-seventh-schedule",
+ "title": "Seventh Schedule to the Companies Act, 2017 (Table of Fees)",
+ "number": "Updated to 10 November 2025",
+ "type": "schedule",
+ "unit": "Item",
+ "parent": "companies-act-2017",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Seventh Schedule",
+  "7th Schedule",
+  "SECP fees"
+ ],
+ "lastAmended": "2025-11-10",
+ "amendedUpToLabel": "10 November 2025",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "updated-seventh-schedule-of-companies-act-2017-as-on-10-november-2025.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Official Securities and Exchange Commission of Pakistan PDF shown as published updated to 10 November 2025. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [],
+ "summary": "Table of fees payable to the registrar and the Commission (sections 462 and 469), with effect from 10 November 2025.",
+ "pdfOnly": true
+}

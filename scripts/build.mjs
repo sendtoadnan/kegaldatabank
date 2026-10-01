@@ -8,11 +8,17 @@ import {
   validateLibrary,
   citation,
   escapeHtml as e,
+  displayNo,
+  fnLabel,
+  FN_RE,
+  stripMarkers,
   parseParagraph,
   plainText,
   provisionAnchor,
   typeLabel,
 } from './lib.mjs';
+
+const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-');
 
 export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
   const library = loadLibrary(dataDir);
@@ -81,20 +87,36 @@ ${body}
 `;
 
   const verificationBadge = (act) =>
-    act.verification.status === 'verified'
-      ? `<span class="badge ok" title="Checked against ${e(act.verification.against)} by ${e(act.verification.verifiedBy)} on ${e(act.verification.verifiedOn)}">Verified</span>`
-      : `<span class="badge warn" title="${e(act.verification.note || 'Not yet checked against an official source')}">Unverified</span>`;
+    act.placeholder
+      ? `<span class="badge bad" title="${e(act.verification.note)}">Placeholder</span>`
+      : act.verification.status === 'verified'
+        ? `<span class="badge ok" title="Checked against ${e(act.verification.against)} by ${e(act.verification.verifiedBy)} on ${e(act.verification.verifiedOn)}">Verified</span>`
+        : `<span class="badge warn" title="${e(act.verification.note || 'Not yet checked against an official source')}">Unverified</span>`;
 
   const provisionCount = (act) => act.parts.reduce((n, p) => n + p.sections.length, 0);
+  const pdfHref = (act, base) => `${base}sources/${act.id}.pdf`;
 
-  const actRow = (act, base) => `
+  const actRow = (act, base) => {
+    const count = provisionCount(act);
+    const size = act.pdfOnly ? 'Official PDF' : `${count} ${act.unit.toLowerCase()}${count === 1 ? '' : 's'}`;
+    const upto = act.amendedUpToLabel ? ` · to ${e(act.amendedUpToLabel.replace(/\s*\(.*\)$/, ''))}` : '';
+    return `
       <li class="act-row">
         <a href="${base}acts/${act.id}/index.html">
           <span class="act-title">${e(act.title)}</span>
-          <span class="act-meta">${e(act.number)} · ${typeLabel(act.type)} · ${provisionCount(act)} ${e(act.unit.toLowerCase())}${provisionCount(act) === 1 ? '' : 's'}</span>
+          <span class="act-meta">${act.number ? `${e(act.number)} · ` : ''}${typeLabel(act.type)} · ${size}${upto}</span>
         </a>
         ${verificationBadge(act)}
       </li>`;
+  };
+
+  // Escapes provision text and turns {fn:key} markers into links to the amendment notes.
+  const renderText = (text, anchor, known) =>
+    e(text).replace(FN_RE, (_, key) =>
+      known.has(key)
+        ? `<sup class="fnref"><a href="#${anchor}-fn-${slug(key)}" aria-label="Amendment note ${e(fnLabel(key))}">${e(fnLabel(key))}</a></sup>`
+        : `<sup class="fnref missing" title="Amendment note not captured. See the official PDF page.">${e(fnLabel(key))}</sup>`
+    );
 
   // ---------- home ----------
   {
@@ -123,10 +145,10 @@ ${body}
     <p class="lede">${e(site.tagline)}</p>
     <form class="searchbar" action="search.html" method="get" role="search">
       <label class="sr-only" for="q">Search the library</label>
-      <input id="q" name="q" type="search" placeholder="Search text, or jump: &ldquo;s 111 ITO&rdquo;, &ldquo;section 3 AMLA&rdquo;" autocomplete="off">
+      <input id="q" name="q" type="search" placeholder="Search, or jump: s 3 STA" autocomplete="off">
       <button type="submit">Search</button>
     </form>
-    <p class="stats">${acts.length} instruments · ${total} provisions · ${catalog.categories.length} practice areas</p>
+    <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
   </section>
   <div id="shelf-preview"></div>
   <nav class="chips" aria-label="Practice areas">
@@ -141,12 +163,13 @@ ${body}
     const base = '../../';
     const parent = act.parent ? byId.get(act.parent) : null;
     const kids = children(act.id);
+    const pdf = act.sourcePdf ? pdfHref(act, base) : null;
 
     const toc = act.parts
       .map(
         (p) => `
         <li><span class="toc-part">${e(p.heading)}</span>
-          <ol>${p.sections.map((s) => `<li><a href="#${provisionAnchor(s.no)}"><span class="toc-no">${e(s.no)}</span> ${e(s.title)}</a></li>`).join('')}</ol>
+          <ol>${p.sections.map((s) => `<li><a href="#${provisionAnchor(s.no)}"><span class="toc-no">${e(displayNo(s.no))}</span> ${e(s.title || '—')}</a></li>`).join('')}</ol>
         </li>`
       )
       .join('');
@@ -159,25 +182,32 @@ ${body}
         ${p.sections
           .map((s) => {
             const anchor = provisionAnchor(s.no);
+            const known = new Set((s.fn || []).map((f) => f.n));
             const paras = s.text
               .map((raw) => {
                 const { level, text } = parseParagraph(raw);
-                return `<p class="l${level}">${e(text)}</p>`;
+                return `<p class="l${level}">${renderText(text, anchor, known)}</p>`;
               })
               .join('');
             const notes = (s.notes || []).map((n) => `<li>${e(n)}</li>`).join('');
+            const fns = (s.fn || [])
+              .map((f) => `<li id="${anchor}-fn-${slug(f.n)}"><span class="fn-no">${e(fnLabel(f.n))}</span> ${e(f.text)}</li>`)
+              .join('');
+            const title = stripMarkers(s.title);
             return `
-        <article class="provision" id="${anchor}" data-no="${e(s.no)}" data-title="${e(s.title)}" data-cite="${e(citation(act, s.no))}">
+        <article class="provision" id="${anchor}" data-no="${e(displayNo(s.no))}" data-title="${e(title)}" data-cite="${e(citation(act, s.no, s))}">
           <header class="prov-head">
-            <h3><a class="prov-link" href="#${anchor}"><span class="prov-no">${e(s.no)}.</span> ${e(s.title)}.</a></h3>
-            <div class="prov-tools" role="group" aria-label="Tools for ${e(act.unit)} ${e(s.no)}">
+            <h3><a class="prov-link" href="#${anchor}"><span class="prov-no">${e(displayNo(s.no))}.</span> ${title ? `${e(title)}.` : ''}</a></h3>
+            <div class="prov-tools" role="group" aria-label="Tools for ${e(act.unit)} ${e(displayNo(s.no))}">
               <button type="button" data-action="cite" title="Copy citation">Cite</button>
               <button type="button" data-action="quote" title="Copy text with citation">Quote</button>
               <button type="button" data-action="link" title="Copy link to this provision">Link</button>
               <button type="button" data-action="pin" title="Save to My shelf" aria-pressed="false">Save</button>
+              ${pdf && s.page ? `<a class="tool-link" href="${pdf}#page=${s.page}" target="_blank" rel="noopener" title="Open the official PDF at this page">PDF p.${s.page}</a>` : ''}
             </div>
           </header>
           <div class="prov-body">${paras}</div>
+          ${fns ? `<details class="prov-fns"><summary>Amendment notes (${(s.fn || []).length})</summary><ol>${fns}</ol></details>` : ''}
           ${notes ? `<aside class="prov-notes"><h4>Notes</h4><ul>${notes}</ul></aside>` : ''}
         </article>`;
           })
@@ -187,50 +217,69 @@ ${body}
       .join('');
 
     const meta = [
-      ['Number', e(act.number)],
+      act.number ? ['Number', e(act.number)] : null,
       ['Type', typeLabel(act.type)],
       ['Status', e(act.status.replace(/-/g, ' '))],
       act.enacted ? ['Enacted / notified', e(act.enacted)] : null,
-      ['Last amendment captured', act.lastAmended ? e(act.lastAmended) : 'Not recorded'],
+      ['Amended up to', act.amendedUpToLabel ? e(act.amendedUpToLabel) : 'Not stated'],
       parent ? ['Made under', `<a href="../${parent.id}/index.html">${e(parent.title)}</a>`] : null,
-      ['Official source', `<a href="${e(act.source.url)}" rel="noopener" target="_blank">${e(act.source.name)}</a>`],
+      ['Source', `<a href="${e(act.source.url)}" rel="noopener" target="_blank">${e(act.source.name)}</a>`],
+      pdf ? ['Official PDF', `<a href="${pdf}" target="_blank" rel="noopener">Open the source PDF</a>`] : null,
     ]
       .filter(Boolean)
       .map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`)
       .join('');
 
-    const verification =
-      act.verification.status === 'verified'
+    const verification = act.placeholder
+      ? `<div class="notice bad"><strong>Placeholder, not official text.</strong> ${e(act.verification.note)}</div>`
+      : act.verification.status === 'verified'
         ? `<div class="notice ok"><strong>Verified</strong> against ${e(act.verification.against)} by ${e(act.verification.verifiedBy)} on ${e(act.verification.verifiedOn)}.</div>`
         : `<div class="notice warn"><strong>Unverified text.</strong> ${e(act.verification.note || 'This text has not yet been checked against an official source.')}</div>`;
+    const caution = act.caution ? `<div class="notice warn"><strong>Note on this edition.</strong> ${e(act.caution)}</div>` : '';
+    const sourceNotes = act.sourceNotes ? `<p class="muted small source-notes">${e(act.sourceNotes)}</p>` : '';
+
+    const schedules = act.schedules?.length
+      ? `<section class="schedules"><h2>Schedules and annexures</h2><p class="muted small">Schedules are mostly tables, so they are shown as published in the official PDF.</p><ul class="act-list">${act.schedules
+          .map((x) => `<li class="act-row"><a href="${pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`)
+          .join('')}</ul></section>`
+      : '';
 
     const subsidiary = kids.length
-      ? `<section class="subsidiary"><h2>Rules and regulations made under this ${typeLabel(act.type)}</h2><ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul></section>`
+      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2><ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul></section>`
+      : '';
+
+    const pdfOnly = act.pdfOnly
+      ? `${act.summary ? `<p class="lede">${e(act.summary)}</p>` : ''}
+      <div class="pdf-frame"><iframe src="${pdf}" title="${e(act.title)} (official PDF)" loading="lazy"></iframe></div>
+      <p><a class="btn" href="${pdf}" target="_blank" rel="noopener">Open the PDF in a new tab</a></p>`
       : '';
 
     const body = `
-  <div class="act-layout" data-act="${act.id}" data-act-title="${e(act.title)}" data-unit="${e(act.unit)}">
-    <aside class="toc" aria-label="Contents">
+  <div class="act-layout${act.pdfOnly || !act.parts.length ? ' no-toc' : ''}" data-act="${act.id}" data-act-title="${e(act.title)}" data-unit="${e(act.unit)}">
+    ${act.parts.length ? `<aside class="toc" aria-label="Contents">
       <details open>
         <summary>Contents</summary>
         <label class="sr-only" for="toc-filter">Filter contents</label>
         <input id="toc-filter" class="toc-filter" type="search" placeholder="Filter ${e(act.unit.toLowerCase())}s…">
         <ol class="toc-list">${toc}</ol>
       </details>
-    </aside>
+    </aside>` : ''}
     <article class="act">
       <p class="crumbs"><a href="${base}index.html">Library</a>${parent ? ` / <a href="../${parent.id}/index.html">${e(parent.title)}</a>` : ''}</p>
       <h1>${e(act.title)} ${verificationBadge(act)}</h1>
-      ${act.preamble ? `<p class="preamble">${e(act.preamble)}</p>` : ''}
+      ${act.preamble ? `<p class="preamble">${e(stripMarkers(act.preamble))}</p>` : ''}
       <dl class="meta">${meta}</dl>
       ${verification}
-      <div class="act-actions">
-        <button type="button" class="btn" onclick="window.print()">Print / PDF</button>
-      </div>
+      ${caution}
+      ${sourceNotes}
+      ${pdfOnly}
+      ${act.parts.length ? `<div class="act-actions"><button type="button" class="btn" onclick="window.print()">Print</button></div>` : ''}
       ${parts}
+      ${schedules}
       ${subsidiary}
     </article>
   </div>`;
+
     write(
       `acts/${act.id}/index.html`,
       layout({ title: `${act.title} — ${site.name}`, description: `${act.title} (${act.number}): full text with contents, citations and related rules.`, base, body, page: 'act' })
@@ -300,7 +349,9 @@ ${body}
       <li><strong>Link</strong> copies a permanent link to the provision.</li>
       <li><strong>Save</strong> keeps the provision on <a href="shelf.html">My shelf</a>.</li>
       <li>Search accepts words, exact phrases in quotes, or a direct jump such as <code>s 3 AMLA</code>.</li>
-      <li>The library works offline once visited, and can be installed on a phone or desktop from the browser menu.</li>
+      <li><strong>PDF p.</strong> opens the official source PDF at the page where the provision is printed, so you can check the text before relying on it.</li>
+      <li>Superscript numbers mark amendments; open <em>Amendment notes</em> under a provision to see what changed and by which Finance Act or S.R.O.</li>
+      <li>Search and every instrument you have opened keep working offline. The site can be installed on a phone or desktop from the browser menu.</li>
     </ul>
     <h2>Verification</h2>
     <p>Every instrument carries a verification status. <span class="badge ok">Verified</span> means an editor has checked the text against the named official source on the stated date. <span class="badge warn">Unverified</span> text has not yet been checked and should not be quoted without confirming it.</p>
@@ -321,21 +372,29 @@ ${body}
       categories: a.categories,
       aliases: a.aliases || [],
       verified: a.verification.status === 'verified',
+      placeholder: !!a.placeholder,
     })),
     provisions: acts.flatMap((a) =>
-      a.parts.flatMap((p) =>
-        p.sections.map((s) => ({
-          act: a.id,
-          no: s.no,
-          title: s.title,
-          part: p.heading,
-          anchor: provisionAnchor(s.no),
-          text: plainText(s),
-        }))
-      )
+      a.pdfOnly
+        ? [{ act: a.id, no: '', title: a.title, part: 'Official PDF', anchor: '', text: a.summary || '' }]
+        : a.parts.flatMap((p) =>
+            p.sections.map((s) => ({
+              act: a.id,
+              no: displayNo(s.no),
+              title: stripMarkers(s.title),
+              part: p.heading,
+              anchor: provisionAnchor(s.no),
+              text: plainText(s),
+            }))
+          )
     ),
   };
   write('search-index.json', JSON.stringify(index));
+
+  // ---------- official source PDFs (served as /sources/<id>.pdf) ----------
+  for (const a of acts) {
+    if (a.sourcePdf) write(`sources/${a.id}.pdf`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', a.sourcePdf)));
+  }
 
   // ---------- static assets ----------
   const assetsDir = path.join(ROOT, 'src', 'assets');
@@ -360,8 +419,9 @@ ${body}
     )
   );
 
-  // Service worker precaches every page so the whole library is available offline.
-  const precache = written.filter((f) => f !== 'sw.js');
+  // The service worker precaches the app shell and search index; instrument pages and PDFs
+  // are cached as they are opened, so everything a reader has used stays available offline.
+  const precache = written.filter((f) => f !== 'sw.js' && !f.startsWith('acts/') && !f.startsWith('sources/'));
   const version = crypto.createHash('sha256').update(precache.map((f) => f + fs.statSync(path.join(outDir, f)).size).join('|')).update(JSON.stringify(index)).digest('hex').slice(0, 12);
   const sw = fs.readFileSync(path.join(ROOT, 'src', 'sw.template.js'), 'utf8').replace('__VERSION__', version).replace('__PRECACHE__', JSON.stringify(precache.map((f) => `./${f}`)));
   write('sw.js', sw);
