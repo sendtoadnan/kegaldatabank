@@ -54,8 +54,11 @@ class Line:
         return "".join(s["text"] for s in self.spans)
 
 
-def load_lines(doc):
-    """Return lines per page, merging PyMuPDF lines that share a baseline."""
+def load_lines(doc, space_gaps=False):
+    """Return lines per page, merging PyMuPDF lines that share a baseline.
+
+    With space_gaps, a space is inserted between adjacent spans that are visibly apart but carry no
+    space character (word-processor exports that set "of" and an italic "Benami" as separate runs)."""
     pages = []
     for pno, page in enumerate(doc):
         raw = []
@@ -63,6 +66,9 @@ def load_lines(doc):
             for l in b.get("lines", []):
                 # oversized ".." spans are invisible layout artefacts in some FBR editions
                 spans = [s for s in l["spans"] if s["text"] and not (s["size"] >= 18 and re.fullmatch(r"\s*(\.{2,3}|…)\s*", s["text"]))]
+                for s in spans:
+                    if "\uf02d" in s["text"]:
+                        s["text"] = s["text"].replace("\uf02d", "-")  # Symbol-font hyphen
                 if spans and any(s["text"].strip() for s in spans):
                     raw.append(spans)
         # group spans into visual lines by vertical centre
@@ -81,6 +87,10 @@ def load_lines(doc):
         out = []
         for cy, spans in lines:
             spans.sort(key=lambda s: s["bbox"][0])
+            if space_gaps:
+                for a, b in zip(spans, spans[1:]):
+                    if a["text"][-1:].isalnum() and b["text"][:1].isalpha() and b["bbox"][0] - a["bbox"][2] > b["size"] * 0.12:
+                        b["text"] = " " + b["text"]
             if cy < 70 and re.search(r"\S\s*_{8,}\s*$", "".join(s["text"] for s in spans)):
                 continue  # running header ruled off with underscores, e.g. "Chapter X – Procedure_____"
             out.append(Line(pno, cy, spans[0]["bbox"][0], spans))
@@ -112,7 +122,8 @@ def is_small(s, bs):
 
 
 DEBUG = "--debug" in sys.argv
-REF_RATIO = [0.75]  # largest size, relative to body text, of an amendment marker set without the superscript flag
+REF_RATIO = [0.75]
+NOTE_MAX = [None]  # largest font size of footnote text, when body text varies in size (manifest noteMaxSize)  # largest size, relative to body text, of an amendment marker set without the superscript flag
 
 
 def is_ref(s, bs):
@@ -141,19 +152,21 @@ def split_footnotes(lines, bs, rule_y=None):
     Footnotes are the unbroken block of small-text lines at the bottom of the page.
     Returns footnotes as [(num|None, text)]; None marks a continuation from the previous page.
     """
+    note_limit = NOTE_MAX[0] + 0.01 if NOTE_MAX[0] else bs - 0.4
+
     def small(l):
         # Judge by the words, not stray quote marks or a clause label that may be set in body size.
         words = [s for s in l.spans if re.search(r"\w", s["text"])]
         text = [s for s in words if not is_ref(s, bs)]
         if not words:
             brackets = [s for s in l.spans if "[" in s["text"] or "]" in s["text"]]
-            return all(s["size"] < bs - 0.4 for s in brackets)
+            return all(s["size"] < note_limit for s in brackets)
         if not text:
             # a bare "3[ ]" marker: body text if its brackets are body size, else part of a quoted note
             brackets = [s for s in l.spans if "[" in s["text"] or "]" in s["text"]]
-            return bool(brackets) and all(s["size"] < bs - 0.4 for s in brackets)
+            return bool(brackets) and all(s["size"] < note_limit for s in brackets)
         total = sum(len(s["text"].strip()) for s in text)
-        return sum(len(s["text"].strip()) for s in text if s["size"] < bs - 0.4) >= 0.7 * total
+        return sum(len(s["text"].strip()) for s in text if s["size"] < note_limit) >= 0.7 * total
 
     start = len(lines)
     if rule_y is not None:
@@ -233,6 +246,8 @@ def section_start(l, bs, untitled=False):
     if m.group(3) and m.group(4):
         lead = re.sub(r"\[$", "", lead)  # "[19D]." -- the brackets enclose only the number
     number, dot, tail = m.group(2), m.group(4), m.group(5)
+    if tail and spans[i]["text"][-1:].isspace():
+        tail += " "  # keep the word break before a following span, e.g. "Adjudication of " + italic "Benami"
     if spans[i]["size"] < bs - 1.5:
         return None
     num_bold = is_bold(spans[i])
@@ -253,6 +268,8 @@ def section_start(l, bs, untitled=False):
         elif num_bold and tail and re.match(r"^[A-Z][^.]{3,150}\.?\s*[-–—]", norm_space(
                 tail + " " + "".join(x["text"] for x in spans[j:] if not is_ref(x, bs)))):
             dot = "."  # "230E Heading 2[Word] More.—" with the heading split by an amendment marker
+        elif num_bold and tail[:1].isupper() and nxt.startswith("(1)") and not is_bold(spans[j]):
+            dot = "."  # "48G Power of attorney etc., by authorized" + "(1) Where ..." -- heading without a dash
         elif num_bold and not tail and nxt.startswith("]") and j + 1 < len(spans):
             # "[4AB] Subject to ..." -- a bracketed number with no heading
             rest = norm_space(nxt[1:] + " " + line_text(Line(l.page, l.y, l.x, spans[j + 1:], l.kp), bs))
@@ -294,7 +311,7 @@ def section_start(l, bs, untitled=False):
     if not heading and num_bold and j < len(spans):
         # heading set in regular type after a bold number: "78. Prescribed form for reference.- text"
         plain_rest = line_text(Line(l.page, l.y, l.x, spans[j:], l.kp), bs)
-        mm = re.match(r"^([A-Z][^.{}]{3,150}?)(\.\s*[-–—―−]{1,2}|\s[–—―−]{1,2}(?=\s|\())\s*(.*)$", plain_rest)
+        mm = re.match(r"^([A-Z][^.{}]{3,150}?)(\.\s*[-–—―−⸺⸻]{1,2}|\s[–—―−⸺⸻]{1,2}(?=\s|\())\s*(.*)$", plain_rest)
         if mm:
             return number, mm.group(1), lead, mm.group(3)
     if not heading:
@@ -305,7 +322,7 @@ def section_start(l, bs, untitled=False):
         pass
     rest = line_text(Line(l.page, l.y, l.x, spans[j:], l.kp), bs) if j < len(spans) else ""
     # Split "Heading.— text" at the heading delimiter (a dash after a full stop, a spaced dash, or an em dash).
-    mm = re.match(r"^(.{2,200}?)(\.\s*[-–—―−]{1,2}|\s[–—―−]{1,2}(?=\s|\()|—|―|\.\s*$)(.*)$", heading)
+    mm = re.match(r"^(.{2,200}?)(\.\s*[-–—―−⸺⸻]{1,2}|\s[–—―−⸺⸻]{1,2}(?=\s|\()|—|―|⸺|⸻|\.\s*$)(.*)$", heading)
     if mm and (mm.group(3).strip() or not head_bold):
         heading, rest = mm.group(1), norm_space(mm.group(3) + " " + rest)
     return number, heading, lead, rest
@@ -313,7 +330,7 @@ def section_start(l, bs, untitled=False):
 
 def clean_heading(h):
     h = re.sub(r"^[\s\-–—―“\"]+", "", h.strip())
-    h = re.sub(r"[\s.\-–—―−:]+$", "", h)
+    h = re.sub(r"[\s.\-–—―−⸺⸻:]+$", "", h)
     return h.strip()
 
 
@@ -533,10 +550,11 @@ def extract(entry):
     doc = pymupdf.open(pdf)
     if entry.get("pdfOnly"):
         return base_record(entry, [], "", []), {"id": entry["id"], "pages": len(doc), "pdfOnly": True}
-    pages = load_lines(doc)
+    pages = load_lines(doc, entry.get("spaceGaps", False))
     bs = body_size(pages)
     running = running_lines(pages)
     REF_RATIO[0] = entry.get("refSizeRatio", 0.75)
+    NOTE_MAX[0] = entry.get("noteMaxSize")
     rules = footnote_rules(doc, pages, entry["footnoteRule"]) if entry.get("footnoteRule") else {}
     if entry.get("headerBand"):
         drop_repeated_headers(pages, entry["headerBand"])
@@ -651,11 +669,13 @@ def extract(entry):
             text = line_text(l, bs)
             if not text:
                 continue
-            bold_line = all(is_bold(s) or not s["text"].strip() or is_ref(s, bs) for s in l.spans)
+            bold_line = all(is_bold(s) or s["text"].strip() in ("", "[", "]") or is_ref(s, bs) for s in l.spans)
             plain = norm_space(re.sub(r"\{fn:[^}]+\}", "", text))
 
             # Part / chapter / schedule headings (bold, short)
-            if bold_line and len(plain) < 90 and HEADING_RE.match(plain.lstrip("[")) and not in_schedule:
+            plain_label = entry.get("plainHeadings") and re.fullmatch(r"(CHAPTER|PART)\s+[IVXLC]+[A-Z]?", plain.strip())
+            if (bold_line or plain_label) and len(plain) < 90 and HEADING_RE.match(plain.lstrip("[")) and (not in_schedule or entry.get("annexInline")):
+                in_schedule = False  # with annexInline, a chapter heading also ends an annexure
                 hm = HEADING_RE.match(plain.lstrip("["))
                 kind = hm.group(0)
                 label = hm.group(1).capitalize() + " " + ("I" if hm.group(2) == "l" else hm.group(2).upper())  # "PART-l" typo
@@ -677,7 +697,16 @@ def extract(entry):
                 prev_y = l.y
                 continue
             if in_schedule:
-                continue
+                if not entry.get("annexInline"):
+                    continue
+                # an annexure printed between chapters ends where the next provision in sequence begins
+                st = section_start(l, bs, entry.get("untitledProvisions", False))
+                pn = last_no[0]
+                pb = int(re.match(r"\d+", pn).group()) if pn and re.match(r"\d+", pn) else 0
+                if not (st and st[1] and st[0] != pn and int(re.match(r"\d+", st[0]).group()) in (pb, pb + 1)
+                        and sort_key(st[0]) > sort_key(pn or "0")):
+                    continue
+                in_schedule = False
             if pending_heading is not None and bold_line and plain.isupper() and len(plain) < 150:
                 sep = " — " if "—" not in pending_heading["heading"].split(": ")[-1] else " "
                 pending_heading["heading"] += sep + plain.title()
@@ -698,6 +727,7 @@ def extract(entry):
                 if (base < prev_base or (prev_no == st[0]) or base > prev_base + 25
                         or (prev_no is None and base > 5)
                         or (st[1] == "" and base not in (prev_base, prev_base + 1))):
+                    if DEBUG: print("rejected", st[0], "after", prev_no, "p", pno + 1, file=sys.stderr)
                     st = None
             if st:
                 number, heading, lead, rest = st
@@ -706,8 +736,8 @@ def extract(entry):
                 section = {"no": number, "title": clean_heading(re.sub(r"\{fn:[^}]+\}", "", heading)), "page": pno + 1, "text": [], "fn": []}
                 hrefs = re.findall(r"\{fn:([^}]+)\}", lead + heading)
                 first = (lead + " " + rest).strip() if rest or lead else ""
-                first = re.sub(r"^[\s.\-–—―:]+", "", first)
-                first = re.sub(r"^((?:\{fn:[^}]+\})*\[*)\s*[.\-–—―:]+\s*", r"\1", first)
+                first = re.sub(r"^[\s.\-–—―−⸺⸻:]+", "", first)
+                first = re.sub(r"^((?:\{fn:[^}]+\})*\[*)\s*[.\-–—―−⸺⸻:]+\s*", r"\1", first)
                 if hrefs:
                     first = "".join("{fn:%s}" % r for r in hrefs if "{fn:%s}" % r not in first) + first
                 section["text"].append(first)
@@ -734,13 +764,13 @@ def extract(entry):
                     k += 1
                 cont = norm_space("".join(bold_prefix))
                 if cont and k > 0:
-                    mm = re.match(r"^(.*?)(\.\s*[-–—―−]{1,2}|\s[–—―−]{1,2}(?=\s|\()|—|―|\.\s*$)(.*)$", cont)
+                    mm = re.match(r"^(.*?)(\.\s*[-–—―−⸺⸻]{1,2}|\s[–—―−⸺⸻]{1,2}(?=\s|\()|—|―|⸺|⸻|\.\s*$)(.*)$", cont)
                     extra_text = ""
                     if mm:
                         cont, extra_text = mm.group(1), mm.group(3)
                     section["title"] = clean_heading(norm_space(section["title"] + " " + re.sub(r"\{fn:[^}]+\}", "", cont)))
                     rest_text = norm_space(extra_text + " " + line_text(Line(l.page, l.y, l.x, spans_nz[k:], l.kp), bs)) if k < len(spans_nz) else extra_text
-                    rest_text = re.sub(r"^[\s.\-–—―−:]+", "", rest_text)
+                    rest_text = re.sub(r"^[\s.\-–—―−⸺⸻:]+", "", rest_text)
                     section["text"][-1] = norm_space(section["text"][-1] + " " + rest_text) if section["text"] else rest_text
                     prev_y = l.y
                     continue
@@ -761,6 +791,10 @@ def extract(entry):
                 or (level is not None and not prev_open)
                 or re.match(r"^\[?(Provided|Explanation|Illustration)", plain)
             )
+            if entry.get("lowercaseContinues") and starts_para and level is None and prev_txt \
+                    and not re.match(r"^\[?(Provided|Explanation|Illustration|Note)", plain) \
+                    and not re.search(r"[.:;—–\-]\]*\s*(\{fn:[^}]+\})*\]*$", prev_txt):
+                starts_para = False  # double-spaced editions: a new paragraph needs a label or a finished sentence
             if level is not None:
                 prev_letter = prev_letter_new
             if starts_para or not section["text"] or not section["text"][-1]:
@@ -827,6 +861,13 @@ def extract(entry):
         insert_omitted(parts, toc_rows)
     if entry.get("omittedFromNotes"):
         insert_omitted_from_notes(parts)
+    for x in entry.get("imageProvisions", []):
+        # provisions the edition prints only as a scanned image: listed with a pointer to the PDF page
+        where = [(pp, i) for pp in parts for i, y in enumerate(pp["sections"]) if sort_key(y["no"]) < sort_key(x["no"])]
+        pp, i = where[-1] if where else (parts[0], -1)
+        pp["sections"].insert(i + 1, {"no": x["no"], "title": x["title"], "page": x["page"],
+                                      "text": ["This %s is printed as a scanned image in the source edition; read it in the official PDF (%s)."
+                                               % (entry.get("unit", "Section").lower(), x.get("pages", "page %d" % x["page"]))]})
 
     # de-duplicate provision numbers (e.g. the same number reused inside a schedule)
     seen = Counter()

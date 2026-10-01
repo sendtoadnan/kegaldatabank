@@ -51,7 +51,9 @@ export function validateLibrary({ catalog, acts }, dataDir = DATA_DIR) {
       if (act[key] === undefined || act[key] === null || act[key] === '') errors.push(`${where}: missing "${key}"`);
     }
     if (typeof act.number !== 'string') errors.push(`${where}: "number" must be a string (use "" when the source gives none)`);
-    if (act.sourcePdf && !fs.existsSync(path.join(dataDir, '..', 'sources', 'pdf', act.sourcePdf))) {
+    // Editions linked at the regulator's URL (sourcePdfUrl) are not kept in the repository.
+    if (act.sourcePdfUrl && !/^https:\/\//.test(act.sourcePdfUrl)) errors.push(`${where}: sourcePdfUrl must be an https URL`);
+    if (act.sourcePdf && !act.sourcePdfUrl && !fs.existsSync(path.join(dataDir, '..', 'sources', 'pdf', act.sourcePdf))) {
       errors.push(`${where}: sourcePdf "${act.sourcePdf}" not found in sources/pdf/`);
     }
     if (!act.pdfOnly && Array.isArray(act.parts) && act.parts.length === 0) errors.push(`${where}: no parts (set "pdfOnly": true for PDF-only items)`);
