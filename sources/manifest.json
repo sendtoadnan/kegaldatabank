@@ -148,7 +148,12 @@
         "page": 838
       }
     ],
-    "pdfUrl": "https://download1.fbr.gov.pk/Docs/2026724177725705IncomeTaxOrdinanace2001.pdf"
+    "pdfUrl": "https://download1.fbr.gov.pk/Docs/2026724177725705IncomeTaxOrdinanace2001.pdf",
+    "footnoteRule": 144,
+    "footnoteRuleOnly": [
+      407,
+      428
+    ]
   },
   {
     "id": "income-tax-rules-2002",
@@ -604,7 +609,94 @@
     "untitledProvisions": true,
     "amendedUpTo": "2025-07-25",
     "amendedUpToLabel": "25 July 2025 (S.R.O. 1355(I)/2025)",
-    "noteMaxSize": 10
+    "noteMaxSize": 10,
+    "bodyEndPage": 98,
+    "schedules": [
+      {
+        "title": "Forms",
+        "page": 99
+      },
+      {
+        "title": "Annexure-A",
+        "page": 245
+      },
+      {
+        "title": "Annexure-B",
+        "page": 246
+      },
+      {
+        "title": "Annexure-C",
+        "page": 248
+      },
+      {
+        "title": "Annexure-D",
+        "page": 249
+      },
+      {
+        "title": "Annexure-E",
+        "page": 250
+      },
+      {
+        "title": "Annexure-F",
+        "page": 251
+      },
+      {
+        "title": "Annexure-G",
+        "page": 252
+      },
+      {
+        "title": "Annexure-H",
+        "page": 253
+      },
+      {
+        "title": "Annexure-I",
+        "page": 254
+      },
+      {
+        "title": "Annexure-J",
+        "page": 255
+      },
+      {
+        "title": "Annexure-K",
+        "page": 258
+      },
+      {
+        "title": "Annexure-L",
+        "page": 259
+      },
+      {
+        "title": "Annexure-M",
+        "page": 260
+      },
+      {
+        "title": "Annexure-N",
+        "page": 261
+      },
+      {
+        "title": "Annexure-O",
+        "page": 262
+      },
+      {
+        "title": "Annexure-P",
+        "page": 263
+      },
+      {
+        "title": "Annexure-S",
+        "page": 268
+      },
+      {
+        "title": "Annexure-T",
+        "page": 270
+      },
+      {
+        "title": "Annexure-U",
+        "page": 272
+      },
+      {
+        "title": "Annexure – V",
+        "page": 276
+      }
+    ]
   },
   {
     "id": "companies-act-2017-third-schedule",

@@ -264,22 +264,6 @@
      ],
      "fn": [
       {
-       "n": "7-1",
-       "text": "For Statements of Objects and Reasons see Gazette of Pakistan, dated the 30th March 1951, Pt. V. pp 36 and 37."
-      },
-      {
-       "n": "7-2",
-       "text": "Substituted for the words “or consumption of goods” by the Finance Act, 1960."
-      },
-      {
-       "n": "7-3",
-       "text": "Substituted for the words “or consumption of goods” by the Finance Act, 1960."
-      },
-      {
-       "n": "7-4",
-       "text": "Chapter I to X substituted for Chapters I to XVI by the Finance Act, 1990."
-      },
-      {
        "n": "7-7",
        "text": "Section 2 Substituted by the Finance Act, 1996."
       },
@@ -872,6 +856,12 @@
        "text": "Comma and words “, and a person who in addition to making retail supplies is engaged in wholesale business” omitted by Finance Act, 2008."
       }
      ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "7-4",
+     "text": "Chapter I to X substituted for Chapters I to XVI by the Finance Act, 1990."
     }
    ]
   },
@@ -2888,10 +2878,6 @@
       {
        "n": "70-437",
        "text": "Words inserted by Finance Act, 1996."
-      },
-      {
-       "n": "70-438",
-       "text": "Any reference to the “Sales Tax Officer” shall be construe as reference to an “Officer of “Inland Revenue” by virtue of section 72 of the Sales Tax Act, 1990."
       }
      ]
     }
@@ -3321,6 +3307,12 @@
       }
      ]
     }
+   ],
+   "fn": [
+    {
+     "n": "70-438",
+     "text": "Any reference to the “Sales Tax Officer” shall be construe as reference to an “Officer of “Inland Revenue” by virtue of section 72 of the Sales Tax Act, 1990."
+    }
    ]
   },
   {
@@ -3358,10 +3350,6 @@
       "Offences Penalties {fn:91-483}[and Punishment] Section of the Act to which offence has reference (1) (2) (3) proximate tax period, and such mismatch is confirmed after issuance of notice and provision of opportunity of being heard. 31. Where a registered Such person shall pay a penalty of 7, 8A, 33 person has claimed twenty per cent of the unreversed (S.No.29)] input tax credit on input tax credit, in addition to the the basis of invoices reversal of such credit and default issued by a person surcharge under section 34. who is subsequently placed on the simulated invoice issuers register under S. No. 29, and such registered person fails to reverse the inadmissible input tax credit within sixty days of the listing of the invoice issuer on the register."
      ],
      "fn": [
-      {
-       "n": "79-481",
-       "text": "marginal heading substituted through Finance Act, 2025."
-      },
       {
        "n": "79-482",
        "text": "Bracket and figure “one” omitted by Finance Act, 2008."
@@ -4252,6 +4240,12 @@
       "*** ]"
      ]
     }
+   ],
+   "fn": [
+    {
+     "n": "79-481",
+     "text": "marginal heading substituted through Finance Act, 2025."
+    }
    ]
   },
   {
@@ -4319,10 +4313,6 @@
       "{fn:109-610}[(4) The {fn:109-611}[Commissioner] may, suo moto, call for and examine the record of any proceeding under this Act or the rules made thereunder for the purpose of satisfying himself as to the legality or propriety of any decision or order passed by an officer of {fn:109-612}[Inland Revenue] subordinate to him, and pass such order as he may deem fit.]]"
      ],
      "fn": [
-      {
-       "n": "108-598",
-       "text": "Heading of chapter Adjudication substituted for cases by finance act 1996"
-      },
       {
        "n": "108-602",
        "text": "Section 45A added by Finance Act, 1993."
@@ -4624,6 +4614,12 @@
        "text": "New section inserted by Finance Act, 2024."
       }
      ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "108-598",
+     "text": "Heading of chapter Adjudication substituted for cases by finance act 1996"
     }
    ]
   },
@@ -5807,6 +5803,20 @@
   {
    "title": "Thirteenth Schedule",
    "page": 227
+  }
+ ],
+ "frontNotes": [
+  {
+   "n": "7-1",
+   "text": "For Statements of Objects and Reasons see Gazette of Pakistan, dated the 30th March 1951, Pt. V. pp 36 and 37."
+  },
+  {
+   "n": "7-2",
+   "text": "Substituted for the words “or consumption of goods” by the Finance Act, 1960."
+  },
+  {
+   "n": "7-3",
+   "text": "Substituted for the words “or consumption of goods” by the Finance Act, 1960."
   }
  ]
 }

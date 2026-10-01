@@ -131,3 +131,24 @@ test('extracted instruments have complete, ordered numbering', () => {
     assert.equal(new Set(nos).size, nos.length, `${a.id}: duplicate provision numbers`);
   }
 });
+
+test('amendment notes are cited by their provision or read as amendment notes', () => {
+  // A note no marker cites is kept only when it reads like an amendment note; table and form cells
+  // picked up from page bottoms must not appear as notes.
+  const amendment = /substitut|insert|omit|add(ed|ition)|renumber|amend|delet|re-?lettered|corrigendum|repeal|S\.?\s?R\.?\s?O|Finance|Ordinance|\bAct\b|Notification|Gazette|PTCL|w\.e\.f/i;
+  const { acts } = loadLibrary();
+  for (const a of acts) {
+    for (const p of a.parts) {
+      for (const s of p.sections) {
+        const cited = new Set([...(s.title + ' ' + s.text.join(' ')).matchAll(/\{fn:([^}]+)\}/g)].map((m) => m[1]));
+        for (const f of s.fn || []) {
+          assert.ok(cited.has(f.n) || amendment.test(f.text), `${a.id} ${s.no}: note ${f.n} is neither cited nor an amendment note: ${f.text.slice(0, 60)}`);
+        }
+      }
+    }
+  }
+  const str = acts.find((a) => a.id === 'sales-tax-rules-2006');
+  assert.ok(str.frontNotes.length > 0, 'notes on the enacting notification are kept');
+  assert.ok(str.parts.some((p) => (p.fn || []).length), 'notes on chapter headings are kept');
+});
+

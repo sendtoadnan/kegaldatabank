@@ -67,14 +67,6 @@
      ],
      "fn": [
       {
-       "n": "16-1",
-       "text": "The words “Central Board of Revenue” substituted by the Finance Act, 2007."
-      },
-      {
-       "n": "16-2",
-       "text": "The words “Central Board of Revenue” substituted by the Finance Act, 2007."
-      },
-      {
        "n": "16-3",
        "text": "Substituted by the Finance Act, 2007. The substituted definition read as follows: \"Central Board of Revenue\" means the Central Board of Revenue, established under the Central Board of Revenue Act, 1924 (IV of 1924); “"
       },
@@ -409,12 +401,6 @@
       "(3) A security may be disposed of through the trading platform provided by a stock exchange or through off market transactions.",
       "(4) In case of securities other than units of an open mutual fund, broker's sale proceeds or difference bill, broker generated computerized ledger statement of the investor's brokerage account, CDC statement of the investor's CDC sub-account and proof of payment through cheques shall be supportive evidence of disposal of securities.",
       "(5) In case of units of an open end mutual fund, certified statement of investor's account provided by the asset management company shall be supportive evidence of disposal of securities."
-     ],
-     "fn": [
-      {
-       "n": "26-1",
-       "text": "Part III inserted by SRO 112(I)/2011, dated February 11, 2011."
-      }
      ]
     },
     {
@@ -522,14 +508,7 @@
       ">(c) record of security holdings and their value carried in the investor's brokerage account on 30th June of each year;",
       ">(d) record of cash carried in the investor's brokerage account as on 30th June of each year;",
       ">(e) record of funds deposited in the investor's brokerage account; and",
-      ">(f) record of funds withdrawn from the investors brokerage account.",
-      "{fn:30-1}"
-     ],
-     "fn": [
-      {
-       "n": "30-1",
-       "text": "Rule 13J substituted by SRO 1149(I)/2011, dated December 27, 2011."
-      }
+      ">(f) record of funds withdrawn from the investors brokerage account."
      ]
     },
     {
@@ -537,10 +516,14 @@
      "title": "Exchange of information",
      "page": 30,
      "text": [
-      "[",
+      "{fn:30-1}[",
       "Information regarding member, broker, investor of a stock exchange {fn:30-2}[“, members of PMEX, unit holders in mutual funds”] required by the {fn:30-3}Federal Board of Revenue shall be obtained directly from National Clearing Company of Pakistan Limited (NCCPL).]"
      ],
      "fn": [
+      {
+       "n": "30-1",
+       "text": "Rule 13J substituted by SRO 1149(I)/2011, dated December 27, 2011."
+      },
       {
        "n": "30-2",
        "text": "The expression inserted by the SRO 1145(I)/2016 dated 7th December, 2016."
@@ -571,7 +554,7 @@
       ">(d) cost of acquisition of any security means the market price of the security which the investor pays or would have paid to purchase such security, provided that cost of acquisition,-",
       ">>(i) {fn:31-1}[in case of right share, means the discounted price at which the right shares are issued to a shareholder by the issuer including the cost of acquisition of letter of rights;]",
       ">>(ii) in case of a security acquired through bequest or inheritance means the market price of security at which the deceased person making bequest or leaving the inheritance, as the case may be, paid or would have paid to purchase such security;",
-      "{fn:32-1} [ {fn:32-2}[“(iii)”] in case of bonus shares:",
+      "{fn:32-1}[ {fn:32-2}[“(iii)”] in case of bonus shares:",
       ">>(i) shall be ex-bonus price if tax has already been paid under section 236M;",
       ">>(ii) the value determined under section 236N, if tax is paid under section 236N; and",
       ">>(iii) {fn:32-3}[shall be zero, in any other case.]",
@@ -639,16 +622,14 @@
       {
        "n": "34-2",
        "text": "The proviso added by the SRO 1145(I)/2016 dated 7th December, 2016."
-      },
-      {
-       "n": "36-1",
-       "text": "Part-II, Part-III, Part-IV and Part-V substituted by the SRO 1145(I)/2016 dated 7th December, 2016. The substituted Part-II, Part-III, Part-IV and Part-V read as follows:- Part-II Summary of shares held upto six months – tax payable @ 10% Capital CGT Sales Purchases Gain Payable (Loss) Sale Purchase Particulars Total Date of Particulars No. of Price Sale Date of No. of Price of Purchase sale of shares shares per Proceeds purchase shares per shares price Share Share Investor’s Name _____________________ Brokerage Account No. ________________ Signature __________________________ Date ______________________________ Part-III Summary of shares held above six months to one year - tax payable @ 7.5% Capital CGT Sales Purchases Gain Payable (Loss) Sale Purchase Particulars Total Date of Particulars No. of Price Sale Date of No. of Price of Purchase sale of shares shares per Proceeds purchase shares per shares price Share Share Investor’s Name _____________________ Brokerage Account No. ________________ Signature __________________________ Date ______________________________ Part-IV Summary of shares held for more than one year – no tax payable Sales Purchases Capital CGT Gain Payable (Loss) Date of Particulars No. of Sale Sale Date of Particulars No. of Purchase Total sale of shares shares Price Proceeds purchase of shares Price Purchase per shares per price Share Share Investor’s Name _____________________ Brokerage Account No. ________________ Signature __________________________ Date ______________________________ PART-V Affidavit I _____________________________ S/o. __________________ CNIC No. ________________ resident of _________________________________________________________ holding brokerage account No.___________________ with the brokerage firm __________________________ and holding CDC sub account No.____________________ with Central Depositary Company do hereby solemnly affirm that particulars of my account given in Part I and the particulars of share transactions conducted during the tax period given in Part-II, III and IV of the summary of share transactions are true and correct and in accordance with the ledger statements and CDC statements of my account for the above mentioned tax period. I further affirm that nothing has been concealed or incorrectly stated regarding my account. I know that in case any particulars of my account and share transactions conducted during the above mentioned tax period and given under rule 13M of the Income Tax Rules, 2002 as mentioned above are found to be false being not in conformity with ledger statements and CDC statements of my account, I am liable to be penalized in accordance with rule 13K of the Income Tax Rules, 2002. Deponent (Investor’s Name) ____________ Signature __________________________ Date ______________________________"
-      },
-      {
-       "n": "37-1",
-       "text": "Substituted by the SRO 1145(I)/2016 dated 7th December, 2016."
       }
      ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "26-1",
+     "text": "Part III inserted by SRO 112(I)/2011, dated February 11, 2011."
     }
    ]
   },
@@ -919,54 +900,20 @@
        "text": "UIN"
       },
       {
-       "n": "47-3",
-       "text": "CNIC/NTN"
-      },
-      {
-       "n": "47-4",
-       "text": "Period July 1, 20___ to June 30, 20___"
-      },
-      {
-       "n": "47-5",
-       "text": "Clearing members Name (a)"
-      },
-      {
-       "n": "49-1",
-       "text": "Name of taxpayer"
-      },
-      {
-       "n": "49-2",
-       "text": "UIN"
-      },
-      {
-       "n": "49-3",
-       "text": "CNIC/NTN"
-      },
-      {
-       "n": "49-4",
-       "text": "Period July 1, 20___ to June 30, 20___"
-      },
-      {
-       "n": "49-5",
-       "text": "Amount of net capital gains on securities ……………………………………."
-      },
-      {
-       "n": "49-6",
-       "text": "Amount of tax liability on capital gains Rupees________________ collected and deposited by NCCPL"
-      },
-      {
-       "n": "49-7",
-       "text": "Amount of tax liability on capital gains Rupees________________ collected and deposited by NCCP This is to further certify that the tax collected has been deposited in the Federal Government Account. Name of authorized person _______________ Signature ____________________________ ”"
-      },
-      {
-       "n": "51-1",
-       "text": "Part-II substituted by the SRO 1145(I)/2016 dated 7th December, 2016. The substituted Part-II read as follows:- [Part-II Format of quarterly Statement to be filed by NCCPL to the Board under rule 1(5) of the Eighth Schedule to the Ordinance [See rule 13N(16)] NTN No. Address ________________________________ Telephone Fax______________ Email______________ S.No. Name UIN 1Provisional amount of [Net amount of capital gains as at quarter ended capital gains tax liability as at quarter ended ______________ Holding period of Holding period of 12 Holding period of 24 less than 12 months or more but months or more] months less than 24 months I, ____________________________ holder of CNIC No._________________ in my capacity as Principal Officer / Representative of NCCPL do hereby solemnly declare that to the best of my knowledge and belief the information given in this statement is correct and complete and in accordance with the applicable provisions of the Income Tax Ordinance, 2001 and Income Tax Rules, 2002. Date ______________________________ (dd/mm/yyyy) Signature ___________________________]"
-      },
-      {
        "n": "51-2",
        "text": "Column (4) of Table II substituted by SRO 161(I)/2015, dated February 23, 2015."
       }
      ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "36-1",
+     "text": "Part-II, Part-III, Part-IV and Part-V substituted by the SRO 1145(I)/2016 dated 7th December, 2016. The substituted Part-II, Part-III, Part-IV and Part-V read as follows:- Part-II Summary of shares held upto six months – tax payable @ 10% Capital CGT Sales Purchases Gain Payable (Loss) Sale Purchase Particulars Total Date of Particulars No. of Price Sale Date of No. of Price of Purchase sale of shares shares per Proceeds purchase shares per shares price Share Share Investor’s Name _____________________ Brokerage Account No. ________________ Signature __________________________ Date ______________________________ Part-III Summary of shares held above six months to one year - tax payable @ 7.5% Capital CGT Sales Purchases Gain Payable (Loss) Sale Purchase Particulars Total Date of Particulars No. of Price Sale Date of No. of Price of Purchase sale of shares shares per Proceeds purchase shares per shares price Share Share Investor’s Name _____________________ Brokerage Account No. ________________ Signature __________________________ Date ______________________________ Part-IV Summary of shares held for more than one year – no tax payable Sales Purchases Capital CGT Gain Payable (Loss) Date of Particulars No. of Sale Sale Date of Particulars No. of Purchase Total sale of shares shares Price Proceeds purchase of shares Price Purchase per shares per price Share Share Investor’s Name _____________________ Brokerage Account No. ________________ Signature __________________________ Date ______________________________ PART-V Affidavit I _____________________________ S/o. __________________ CNIC No. ________________ resident of _________________________________________________________ holding brokerage account No.___________________ with the brokerage firm __________________________ and holding CDC sub account No.____________________ with Central Depositary Company do hereby solemnly affirm that particulars of my account given in Part I and the particulars of share transactions conducted during the tax period given in Part-II, III and IV of the summary of share transactions are true and correct and in accordance with the ledger statements and CDC statements of my account for the above mentioned tax period. I further affirm that nothing has been concealed or incorrectly stated regarding my account. I know that in case any particulars of my account and share transactions conducted during the above mentioned tax period and given under rule 13M of the Income Tax Rules, 2002 as mentioned above are found to be false being not in conformity with ledger statements and CDC statements of my account, I am liable to be penalized in accordance with rule 13K of the Income Tax Rules, 2002. Deponent (Investor’s Name) ____________ Signature __________________________ Date ______________________________"
+    },
+    {
+     "n": "37-1",
+     "text": "Substituted by the SRO 1145(I)/2016 dated 7th December, 2016."
     }
    ]
   },
@@ -1344,10 +1291,6 @@
        "text": "Sub-clause (ii) and (iii) substituted by SRO 1956(I)/2022 dated 24.10.2022. Substituted sub- clauses (ii) and (iii) read as follows: “(ii) Tax treatment.- Effective from July 1, 2014 for computation of capital gain tax, the cost of bonus shares would be the price prevailing on first day of book closure (ex-bonus price). Subsequently, when such bonus shares are disposed of, such cost will be taken for computation of capital gain and tax thereon. Similarly, the cost of old shares would remain same before and after bonus shares are issued, and when the old shares are disposed of, such cost will be taken for computation of capital gain and tax thereon, even if these are sold prior to the crediting of bonus shares in the shareholder’s account, but after the date of entitlement of bonus shares. (iii) Example:- A, being a client of a broker, has 4 shares of company A in his account. He acquired these shares on the 1st January, 2015 at Rs.20 per share. On the same day i.e. 01-01-2015, the company declared bonus shares @ 25%, and date of entitlement of the shares was declared as 1-04-2015 and the shares were to be credited in the account of A on 15-5-"
       },
       {
-       "n": "65-2015",
-       "text": "The market value (ex-bonus price) of these shares on 31-03-2015 is Rs.25 per share. He disposed of 2 shares on the 15th April, 2015 at Rs.20 per share and the remaining 3 shares (including bonus share) @ Rs.20 on the 18th May 2015. The cost of acquisition is deemed to include 0.50% of the acquisition cost as incidental expenses incurred and sale proceeds are deemed to include 0.5% of the consideration as incidental expenses. NCCPL shall collect CGT as per following example 4[(below rates are hypothetical and used solely for understanding purposes, therefore, rate as per Division VII of Part I of First Schedule will be applicable in case of actual transactions)]: Purchases /Acquisitions Disposal No. of 15 Apr 18 May Date shares Price Cost* 2015 2015 Total 1-Jan-15 4 20 80 2 2 Bonus shares issued @ 25% 1-Jan-15 (Date of entitlement 01-04-15) 3 3 (Date of credit 15-05-2015) 1-Apr-15 4 20 80 15-May-15 1 25 25 2 3 5] Selling price per share 20 20 Sale proceed 40 60 100 Less: Cost 40 65 105 0 (5) (5) ”"
-      },
-      {
        "n": "68-1",
        "text": "Sub-clause (ii) substituted by S.R.O. 1956(I)/2022 dated 21.10.2022. Substituted sub-clause (ii) read as follows: “(ii) Tax treatment When a person disposes of Letter of Rights (LORs) before subscription, the sale proceeds shall be treated as capital gain. Upon expiry/exercise of right, the disposal of LORs shall be recorded at zero price for the purpose of computation of CGT. Whereas normal sale/purchase of LORs shall be treated in a same manner as provided in clause (a). When a person disposes shares acquired through right, the subscription cost of the right shares shall be treated as cost of acquisition of such shares and capital gain or loss shall be computed accordingly.”"
       },
@@ -1647,6 +1590,16 @@
       "(4) The Commissioner shall exercise all powers relating to provisions containing recovery of tax, advance tax, default surcharge and prosecution as laid down in Chapter X and in Chapter XII to the Ordinance, in case of any default of nonpayment, short payment or late payment of any tax collected or collectable, paid or payable under this Chapter.]"
      ]
     }
+   ],
+   "fn": [
+    {
+     "n": "49-1",
+     "text": "Name of taxpayer"
+    },
+    {
+     "n": "51-1",
+     "text": "Part-II substituted by the SRO 1145(I)/2016 dated 7th December, 2016. The substituted Part-II read as follows:- [Part-II Format of quarterly Statement to be filed by NCCPL to the Board under rule 1(5) of the Eighth Schedule to the Ordinance [See rule 13N(16)] NTN No. Address ________________________________ Telephone Fax______________ Email______________ S.No. Name UIN 1Provisional amount of [Net amount of capital gains as at quarter ended capital gains tax liability as at quarter ended ______________ Holding period of Holding period of 12 Holding period of 24 less than 12 months or more but months or more] months less than 24 months I, ____________________________ holder of CNIC No._________________ in my capacity as Principal Officer / Representative of NCCPL do hereby solemnly declare that to the best of my knowledge and belief the information given in this statement is correct and complete and in accordance with the applicable provisions of the Income Tax Ordinance, 2001 and Income Tax Rules, 2002. Date ______________________________ (dd/mm/yyyy) Signature ___________________________]"
+    }
    ]
   },
   {
@@ -1724,7 +1677,8 @@
       "(1) This rule applies for the purposes of section 103, which provides for the foreign tax credit.",
       "(2) A resident taxpayer claiming a foreign tax credit for a tax year shall submit an application for the credit with the taxpayer's return of income for that year.",
       "(3) An application for a foreign tax credit shall be in the form as specified in Part I of the First Schedule to these rules.",
-      "(4) Subject to sub-rule (5), an application for a foreign tax credit shall be {fn:94-2} accompanied by the following [documents], namely:-",
+      "(4) Subject to sub-rule (5), an application for a foreign tax credit shall be",
+      "accompanied by the following {fn:94-2}[documents], namely:-",
       "(5)",
       ">(a) where the tax has been deducted at source, a declaration by the payer of the income tax has been deducted and a certified copy of the receipt that the payer has received from the foreign tax authority for the deducted tax; or",
       ">(b) in any other case, the original or a certified copy of the receipt that the taxpayer has received from the foreign tax authority for the tax paid.",
@@ -1759,7 +1713,8 @@
       ">(a) in the case a royalty received in pursuance of an agreement made before the 8th day of March, 1980, or an agreement made on or after the said date the proposal in respect of which was approved by the Government before the said date, the gross amount of the royalty less the deductions allowed under section 40; or",
       ">(b) in any other case, to which sub-section (2) of section 6 does not apply, the gross amount of the royalty less {fn:96-2}[than] the following expenditure-",
       ">>(i) any expenditure incurred In Pakistan to earn such royalty, wherever paid;",
-      ">>(ii) any expenditure incurred outside Pakistan in pursuance of such agreement not exceeding ten percent of gross amount of royalty. {fn:96-3} [ ]",
+      ">>(ii) any expenditure incurred outside Pakistan in pursuance of such agreement not exceeding ten percent of gross amount of royalty.",
+      "{fn:96-3}[ ]",
       ">(c) in the case of royalty received in pursuance to any other agreement, the gross amount of the royalty less the following expenditures only, namely:-",
       ">>(i) any expenditure incurred in Pakistan in earning such income;",
       ">>(ii) any expenditure incurred in Pakistan in respect of any work done in pursuance of such agreement; and",
@@ -1799,7 +1754,7 @@
       ">>(i) any expenditure incurred in Pakistan to earn such {fn:98-3}[fee for technical services], wherever paid.",
       ">>(ii) any expenditure incurred outside Pakistan in pursuance of such agreement not exceeding ten percent of gross amount of {fn:98-3}[fee for technical services].",
       "Provided that a non-resident may opt for taxation under section 6 of Income Tax Ordinance, 2001, by filing a written declaration option within 15 days of the commencement of contract. Such option shall remain operative till completion of the said contract.",
-      "{fn:98-4}[clause] (c) would not apply where the fee for technical service (d) is covered by the provisions of section 169. {fn:98-5}"
+      "{fn:98-4}[clause] (c) would not apply where the fee for technical service (d) is covered by the provisions of section 169."
      ],
      "fn": [
       {
@@ -1817,10 +1772,6 @@
       {
        "n": "98-4",
        "text": "Substituted for \"sub-rule\" by SRO 392(I)/2009, dated May 19, 2009."
-      },
-      {
-       "n": "98-5",
-       "text": "Rules 19A, 19B and 19C inserted by SRO 619(I)/2006, dated June 08, 2006. Later Rules 19A to 19D have been inserted by SRO 714(I)/2006, dated July 05, 2006. Due to confusion both sets of Rules 19A to 19C have been reproduced till clarification by CBR."
       }
      ]
     },
@@ -1829,7 +1780,7 @@
      "title": "Certificate of residence",
      "page": 98,
      "text": [
-      "[",
+      "{fn:98-5}[",
       "(1) Where any person, resident in Pakistan, seeks to obtain a certificate of residence from the Competent Authority of Pakistan for its presentation before the tax authorities of another country with which Pakistan has signed an Agreement for the Avoidance of Double Taxation and Fiscal Evasion, for the purposes of obtaining tax credit or fiscal relief, the person may submit an application in this behalf in the Form prescribed below, namely:-",
       "Form of Application for Obtaining Certificate of Residence",
       "To",
@@ -1876,11 +1827,16 @@
       ">(i) Income Declared/Assessed for the Tax year:",
       ">(j) Total Tax Paid/Payable for the Tax year:",
       ">(k) LTU/ RTO:",
-      "THE COMPETENT AUTHORITY {fn:102-1} [Member (Inland Revenue) or his Authorized Officer]",
+      "THE COMPETENT AUTHORITY",
+      "{fn:102-1}[Member (Inland Revenue) or his Authorized Officer]",
       "(5) In respect of each tax year a separate application shall be submitted by the taxpayer, and a separate Certificate shall be issued by the Competent Authority of Pakistan {fn:103-1}[or his Authorized Officer].",
       "(6) In case the Competent Authority of Pakistan decides not to issue a Certificate of Residence, it shall communicate its decision along with reasons of rejection thereof to the applicant taxpayer within forty five days of the submitting of the application."
      ],
      "fn": [
+      {
+       "n": "98-5",
+       "text": "Rules 19A, 19B and 19C inserted by SRO 619(I)/2006, dated June 08, 2006. Later Rules 19A to 19D have been inserted by SRO 714(I)/2006, dated July 05, 2006. Due to confusion both sets of Rules 19A to 19C have been reproduced till clarification by CBR."
+      },
       {
        "n": "100-1",
        "text": "The words “Central Board of Revenue” substituted by the Finance Act, 2007"
@@ -1938,7 +1894,8 @@
       "4. National Tax No. (if any)",
       "5. Personal Status 6. Main Sources of Income: 7. Other Source(s) of Income: 8. Total Income Declared/Assessed 9. Total Tax Paid/Payable during the year: 10. Tax Office: LTU/ RTO:",
       "Note: Average exchange rate prevalent during the year was US$ 1 = PKR",
-      "THE COMPETENT AUTHORITY {fn:105-2} [Member (Inland Revenue) or his Authorized Officer]",
+      "THE COMPETENT AUTHORITY",
+      "{fn:105-2}[Member (Inland Revenue) or his Authorized Officer]",
       "(5) After issuance of the certificate of payment of tax in Pakistan, the Commissioner shall earmark the amount of tax covered by the certificate against refund or adjustment in lieu of tax demand of the taxpayer in respect of any prior or subsequent tax year, under any circumstances.",
       "(6) In case the Competent Authority of Pakistan decides not to issue a certificate of payment of tax in Pakistan, it shall communicate its decision along with the reasons of rejection thereof to the applicant taxpayer within sixty days of the submitting of the application at the available address in Pakistan."
      ],
@@ -2006,8 +1963,7 @@
       ">(k) Tax Office : LTU/ RTO:",
       "Note: Average exchange rate prevalent during the year was US$ 1 = PKR",
       "THE COMPETENT AUTHORITY {fn:109-1}[Member (Inland Revenue) or his Authorized Officer]",
-      "(5) In case the Competent Authority of Pakistan decides not to issue a certificate for tax sparing credit, it shall communicate its decision along with the reasons of rejection thereof to the applicant taxpayer within sixty days of the submitting of the application at the available address in Pakistan.]",
-      "{fn:109-2}"
+      "(5) In case the Competent Authority of Pakistan decides not to issue a certificate for tax sparing credit, it shall communicate its decision along with the reasons of rejection thereof to the applicant taxpayer within sixty days of the submitting of the application at the available address in Pakistan.]"
      ],
      "fn": [
       {
@@ -2029,10 +1985,6 @@
       {
        "n": "109-1",
        "text": "Substituted for \"Member (Direct Taxes)\" by SRO 725(I)/2011, dated July 28, 2011."
-      },
-      {
-       "n": "109-2",
-       "text": "Rule inserted by SRO 714(I)/2006, dated July 05, 2006, originally numbered as \"19A\", erroneously, later renumbered as \"19D\" by SRO 1032(I)/2006, October 03, 2006."
       }
      ]
     },
@@ -2041,6 +1993,7 @@
      "title": "Application for initiation of Mutual Agreement Procedure (MAP)",
      "page": 109,
      "text": [
+      "{fn:109-2}",
       "(1) Where a resident taxpayer, or a Pakistani national residing abroad is aggrieved by any action of the tax authorities of any country outside Pakistan with which Pakistan has signed an Agreement for the Avoidance of Double Taxation for the reason that, according to him, such action is not in accordance with the terms of the agreement with such other country outside Pakistan, he may make an application to the Competent Authority in Pakistan seeking to invoke the provision of the Mutual Agreement Procedure, if any, provided therein, in the Form prescribed in rule {fn:110-1}[19F].",
       "(2) The Competent Authority of Pakistan upon satisfaction that,-",
       ">(a) the taxpayer has reasonable grounds to justify Competent Authority\" assistance;",
@@ -2053,6 +2006,10 @@
       "(6) The Competent Authority of Pakistan would communicate the outcome of the Mutual Agreement Proceedings taken up with the other country to the applicant taxpayer in writing.]"
      ],
      "fn": [
+      {
+       "n": "109-2",
+       "text": "Rule inserted by SRO 714(I)/2006, dated July 05, 2006, originally numbered as \"19A\", erroneously, later renumbered as \"19D\" by SRO 1032(I)/2006, October 03, 2006."
+      },
       {
        "n": "110-1",
        "text": "Substituted for \"19C\" by SRO 1032(I)/2006, October 03, 2006."
@@ -3098,10 +3055,6 @@
      ],
      "fn": [
       {
-       "n": "154-2",
-       "text": "The Expression inserted through SRO 428(I)/2024 dated 22nd March, 2024"
-      },
-      {
        "n": "154-4",
        "text": "Words inserted through SRO 428(I)/2024 dated 22nd March, 2024."
       },
@@ -3222,80 +3175,14 @@
       {
        "n": "159-1",
        "text": "Restaurants food court; and 9801.7000 b. the facility of air-conditioning is not installed or available in the premises. 9801.1000 Where– 9801.3000 a. The covered area is less than Hotels, motels, guest houses, marriage 9801.4000 4500 sq. feet"
-      },
-      {
-       "n": "159-2",
-       "text": "halls, Marquees, clubs including race 9801.5000 b. the facility of air-conditioning clubs. 9801.6000 is not installed or available in 9801.7000 the premises. Where – a. The taxpayer is only providing non air conditioned"
-      },
-      {
-       "n": "159-3",
-       "text": "Inter-city travel by road. 9803.9000 travel service; or b. Travel service maintaining a fleet of less than ten vehicles. Where – a. the taxpayer is not a 9808.0000 company; and"
-      },
-      {
-       "n": "159-4",
-       "text": "Courier services and cargo services 98.04 b. the taxpayer is offering only domestic courier or cargo service. Where – Services provided for personal care by a. The covered area is less than beauty parlours, clinics and slimming 9810.0000 1000 sq. feet; or"
-      },
-      {
-       "n": "159-5",
-       "text": "clinics, body massage centres, pedicure 9821.4000 and b. the facility of air-conditioning centres; including cosmetic and plastic 9821.5000 is not installed or available in surgery by such parlours / clinics, the premises. Where – a. the consultation is being"
-      },
-      {
-       "n": "159-6",
-       "text": "Medical practitioners and consultants 9815.1000 provided at a place other than a hospital or Poly-Clinic; and b. the consultation fee is less than Rs. 1500/-. Where – c. the taxpayer is not a company; and Pathological laboratories, medical 98.16 d. the taxpayer is not"
-      },
-      {
-       "n": "160-7",
-       "text": "diagnostic laboratories including X- 98.17 maintaining more than one Rays, CT Scan, M.R. Imaging etc. branch whether under its own name or through an associate. Hospitals or medical care centres providing medical consultation, Respective 8. hospitalization or other ancillary headings services Where – a. The covered area is less than Health clubs, gyms, physical fitness 1000 sq. feet; or"
-      },
-      {
-       "n": "160-9",
-       "text": "centres, and body or sauna massage 98.21 b. the facility of air-conditioning centres is not installed or available in the premises. Photographers charging less than"
-      },
-      {
-       "n": "160-10",
-       "text": "Photographers - Rs. 100,000 per event Accountants who are not"
-      },
-      {
-       "n": "160-11",
-       "text": "Accountants - operating as part of a firm or a company A retailer who does not fall in any on the following categories, namely:– a. a retailer operating as a unit of national or international chain of stores; b. a retailer operating in an air- conditioned shopping mall, plaza or center, excluding kiosks; Retailers including manufacturer-cum-c. a retailer whose cumulative retailer, wholesaler-cum-retailer, electricity bill during the importer-cum-retailer or such other Respective immediately preceding 12. person who combines the activity of headings twelve consecutive months retail sale with another business exceeds rupees twelve activity. hundred thousand; d. a wholesaler-cum-retailer, engaged in bulk import and supply of consumer goods on wholesale basis to retailers as well as on retail basis to the general body of consumers; or e. a retailer whose shop measures one thousand square feet in area or more. Foreign Exchange Dealers/Exchange Respective"
-      },
-      {
-       "n": "160-1",
-       "text": "[13. ] Companies. headings THE SCHEDULE - II [see rule 33A(b)] S. No. Description (1) (2)"
-      },
-      {
-       "n": "161-1",
-       "text": "Karachi"
-      },
-      {
-       "n": "161-2",
-       "text": "Lahore"
-      },
-      {
-       "n": "161-3",
-       "text": "Islamabad"
-      },
-      {
-       "n": "161-4",
-       "text": "Rawalpindi"
-      },
-      {
-       "n": "161-5",
-       "text": "Faisalabad"
-      },
-      {
-       "n": "161-6",
-       "text": "Multan"
-      },
-      {
-       "n": "161-7",
-       "text": "Peshawar"
-      },
-      {
-       "n": "161-8",
-       "text": "Gujranwala] ”"
       }
      ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "154-2",
+     "text": "The Expression inserted through SRO 428(I)/2024 dated 22nd March, 2024"
     }
    ]
   },
@@ -3653,10 +3540,11 @@
      "page": 174,
      "text": [
       "(1) This rule shall provide for the furnishing of a wealth statement.",
-      "(2) A wealth statement shall be – {fn:174-1}",
-      ">(a) in the form specified In Part [IV] of the Second Schedule to these rules; {fn:174-2}",
-      ">(b) verified in the manner specified in the form;[ ]",
-      ">(c) accompanied by such documents, statements and certificates as specified in the form, and in the Ordinance, these rules and {fn:174-3} circulars issued under the Ordinance [and]",
+      "(2) A wealth statement shall be –",
+      ">(a) in the form specified In Part {fn:174-1}[IV] of the Second Schedule to these rules;",
+      ">(b) verified in the manner specified in the form; {fn:174-2}[ ]",
+      ">(c) accompanied by such documents, statements and certificates as specified in the form, and in the Ordinance, these rules and",
+      "circulars issued under the Ordinance {fn:174-3}[and]",
       ">{fn:174-3}[(d) accompanied by a wealth reconciliation statement.]"
      ],
      "fn": [
@@ -4003,10 +3891,6 @@
      ],
      "fn": [
       {
-       "n": "196-1",
-       "text": "Part II comprising of rules 41 to 45 substituted by SRO 641(I)/2005, dated June 27, 2005."
-      },
-      {
        "n": "196-3",
        "text": "Part II comprising of rules 41 to 45 substituted by SRO 641(I)/2005, dated June 27, 2005."
       },
@@ -4027,7 +3911,7 @@
       ">{fn:197-2}[(b) where the tax has been collected or deducted by a person other than the Federal Government or a Provincial Government,-",
       ">(h) by remittance to the Government Treasury or deposit in an authorized branch of the State Bank of Pakistan or the National Bank of Pakistan, within Seven days from the end of each week ending on every Sunday and",
       ">>(ii) by remittance abroad to a non-resident through state bank or any other banking company, prior to remitting abroad of the amount from which tax is to be deducted or collected. ]",
-      "{fn:198-1} [DIVISION IIIA",
+      "{fn:198-1}[DIVISION IIIA",
       "ADVANCE TAX ON AIR TICKETS"
      ],
      "fn": [
@@ -4291,6 +4175,12 @@
       "A SWAPS Agent found to have contravened any of the provisions of this chapter shall be subjected to penal provisions prescribed under the Income Tax Ordinance, 2001.]"
      ]
     }
+   ],
+   "fn": [
+    {
+     "n": "196-1",
+     "text": "Part II comprising of rules 41 to 45 substituted by SRO 641(I)/2005, dated June 27, 2005."
+    }
    ]
   },
   {
@@ -4366,9 +4256,8 @@
       "(2) Except as provided in the Ordinance or these rules, any application, statement or other document to be furnished to the Commissioner shall be furnished in the following manner, namely:-",
       ">(a) by post or courier service;",
       ">(b) delivered by hand to the officer having jurisdiction over the person or to such other officer as the Commissioner may specify; or",
-      "{fn:206-1}",
-      ">[(c) on computer or by electronic transmission using the specified software in accordance with the specified format or any other requirements including safety valve, security and verification considerations as may be specified by the {fn:206-2}Federal Board of Revenue from time to time.] {fn:206-3}",
-      "[(2A) In the case of a Company, electronic filing of income tax return and withholding tax statements shall be mandatory from the first day of July 2007 onwards.]",
+      ">{fn:206-1}[(c) on computer or by electronic transmission using the specified software in accordance with the specified format or any other requirements including safety valve, security and verification considerations as may be specified by the {fn:206-2}Federal Board of Revenue from time to time.]",
+      "{fn:206-3}[(2A) In the case of a Company, electronic filing of income tax return and withholding tax statements shall be mandatory from the first day of July 2007 onwards.]",
       "{fn:206-4}[(2AA) In case of Federal Government departments, electronic filing of withholding statements shall be mandatory from the first day of July, 2009 onwards.]",
       "{fn:206-5}[(2B) In the case of a non-resident ship owner and aircraft owner or charterer thereof, the electronic filing of the income tax return and application for port clearance shall be mandatory from the 1st day of July 2008 onward.]",
       "{fn:206-6}[(2C) In case a person registered for sales tax, electronic filing of income tax return {fn:206-7}[“and withholding tax statements”] shall be mandatory from the first day of July, 2009 onwards.",
@@ -4503,26 +4392,6 @@
        "text": "The words “taxation officer” substituted by the S.R.O. 754(I)/2016 dated 15th August, 2016."
       },
       {
-       "n": "210-1",
-       "text": "[“or CNIC”] Tax Year Zone____________________ Circle_____________________ Jurisdiction________________ Name of Appellant Individual AOP Company Appellants Status” 1[ ] (Pl. encircle the appropriate box) Address of Appellant Name of Authorized Representative (if any) CA C&MA ADV ITP AR (Pl. encircle the appropriate box) Status of Representative Address to which the Notice may be sent Name of the Commissioner (who passed the order) CIT Code ASSESSED INCOME DECLARED Signature of the official _____________________ Who received the appeal _____________________ Name ____________________________________ (in capital letter) Designation _______________________________ TAX ASSESSED a) Income tax General Guidelines1."
-      },
-      {
-       "n": "211-1",
-       "text": "2. Where payment made on [ ] more than one date please give details on a e) Others separate Sheet. (g) Total 3. AOP: Association of (i) Undisputed liability. This Persons shall 4. CMA: Cost & not be less than the tax due on Management Accountant. the 5. ADV Advocate basis of return."
-      },
-      {
-       "n": "212-6",
-       "text": "AR: Authorized Representative (j) 1[ ] Tax Demand 1[“u/s 137 (2)”]"
-      },
-      {
-       "n": "212-1",
-       "text": "I,__________________ S/o____________ the proprietor/partner/managing director/member of M/s._______________ the appellant, do hereby declare that whatever is stated above is true to the best of my knowledge and belief."
-      },
-      {
-       "n": "212-2",
-       "text": "I am competent to file the appeal in my capacity as _______________________."
-      },
-      {
        "n": "212-3",
        "text": "I further certify that a true copy of this form of appeal has been sent by Registered Post/ AD/ Courier service, or delivered to the concerned officer personally to the Commissioner/ Circle ________ Zone/ Jurisdiction _______ on _________ (date). Signature of Appellant________________________ Name (in capital letters)________________________ NIC Number of person signing the appeal____________________ The form of appeal and verification form appended thereto shall be signed:- (a) in case of an individual by the individual himself (b) in case of a company by the principal officer. (c) In case of AOP by member/partner.- ______________________________________________________________________________ This portion is for official use Appeal received by transfer Date appeal received In ward register No. From Zone/Range by transfer _____________________ Appeal transferred to Date of appeal Outward register No. Zone/Range transferred out “76. Prescribed form of appeal to the Commissioner (Appeals).- An appeal under section 127 shall be in the following form and verified in the manner indicated therein, namely:- FORM OF APPEAL APPEAL NO.____________ APPEAL DATE__________ (For office use only) To THE COMMISSIONER Amount of appeal fee paid Date of payment of appeal fee Amount of tax demand based on return of income. Date of payment of Amount of tax levied additionally whether requirement of tax payment for filing of appeal met or not? Yes _____________ No ____________ National Tax Number of Appellant - -"
       }
@@ -4553,26 +4422,6 @@
       {
        "n": "213-1",
        "text": "[or CNIC] ____________________________________ Tax Year Zone___________________ Jurisdiction________________ Name of Appellant Appellants Status Individual AOP Company (Pl. encircle the appropriate box) Address of Appellant Name of Authorized Representative (if any) Status of Representative CA C&MA ADV ITP AR Address to which the Notice may be sent Name of the Commissioner (who passed the order) CIT Code INCOME DECLARED ASSESSED Signature of the official _____________________ Who received the appeal _____________________ Name ____________________________________ (in capital letter)Designation _______________________________ TAX ASSESSED a) Income tax General Guidelines b) Default Surcharge 1. Indicate the section and c) Penalty sub-section of the Income Tax Ordinance under which d) Others appeal filed."
-      },
-      {
-       "n": "214-2",
-       "text": "Where payment made on e) Total more than one date please give details on a (f) Undisputed liability. This separate Sheet. shall 3. AOP: Association of not be less than the tax due on Persons the basis of return."
-      },
-      {
-       "n": "214-4",
-       "text": "CMA: Cost & Management Accountant. (g) Tax Demand 1[“u/s 137 (2)”]"
-      },
-      {
-       "n": "214-5",
-       "text": "AR: Authorized Representative N.B. (i) The appeal should be filed in duplicate and should be accompanied with (a) the order appealed against; (b) notice of demand; (c) proof of payment of appeal fee; (d) a certificate showing the date of service of notice of demand or the impugned order to the appellant; and (e) a certificate showing the date of communication of the memorandum of appeal and grounds of appeal to the respondent department alongwith evidence of service. BRIEF HISTORY AND FACTS OF THE CASE __________________________________________________________________ ____________________________________________________________________ GROUNDS OF APPEAL (Attach separate sheets, if required)"
-      },
-      {
-       "n": "215-1",
-       "text": "I,__________________ S/o____________ the proprietor/partner/managing director/member of M/s._______________ the appellant, do hereby declare that whatever is stated above is true to the best of my knowledge and belief."
-      },
-      {
-       "n": "215-2",
-       "text": "I am competent to file the appeal in my capacity as _______________________."
       },
       {
        "n": "215-3",
@@ -5320,16 +5169,8 @@
      ],
      "fn": [
       {
-       "n": "266-1",
-       "text": "Heading substituted for \"NATIONAL TAX NUMBER CARD\" by SRO 392(I)/2009, dated May 19, 2009."
-      },
-      {
        "n": "266-3",
        "text": "[(e) in the case of an association of persons (other than a firm), the instrument of partnership or copies of NICs of the members of the association of persons. Detail of non-resident members be provided along with copies of their passports.] (3) An application for a National Tax Number Certificate shall be lodged- (a) by post or delivery by hand to the Commissioner having jurisdiction over the applicant; or by inclusion with the applicant's first return of income or first employer's statement furnished in lieu of a return of income."
-      },
-      {
-       "n": "266-80",
-       "text": "Application for National Tax Number Certificate.- (1) An application for a National Tax Number Certificate shall be in the form specified in 3[Part IX] of the First Schedule to these rules and shall be accompanied by documentary evidence of the applicant's identity. (2) The following shall be provided as documentary evidence of an applicant's identity- (a) in the case of an individual- (i) NIC or a current passport; or (ii) other documents with photo-identification-driver's licence. (b) in the case of a company other than a trust), the certificate of incorporation or registration of the company; (c) in the case of a trust, the trust deed; (d) in the case of a firm, the instrument of partnership; or"
       },
       {
        "n": "266-4",
@@ -5505,13 +5346,9 @@
       "(2) The Commissioner shall issue to the taxpayer a letter under subsection (2) of section 181 to submit an application for registration prescribed under rule 80 along with documents specified therein within a reasonable time given in the said letter. In case of compliance NTN certificate shall be issued accordingly.",
       "(3) In case of failure of the taxpayer to comply with the letter issued under sub-section (2) of section 181, the Commissioner shall register the taxpayer on a Trial Registration Number (TRN) for which a serially numbered Trial Register shall be maintained by the Commissioner. The Trial Register shall contain the basic information of the taxpayer like name of the person or business, available address, CNIC {fn:271-3}[“if provided”], nature of income generating activity and any other information regarded useful by the Commissioner. In such case, statutory notices shall be issued for assessment of income or other legal obligation of the taxpayer under the Ordinance on TR Number:",
       "Provided that before allotment of Trial Registration Number the Commissioner shall verify and match the particulars of the taxpayer from the NTN Master Index to avoid duplication of registration.",
-      "(4) In case any assessment is made or any liability is created by the Commissioner under the Income Tax Ordinance, 2001 against the taxpayer, the Commissioner on the basis of information as contained in Trial Register, allot an NTN to the taxpayer within fifteen days of the date of completion of assessment or creation of a liability under the Ordinance.] {fn:272-1}"
+      "(4) In case any assessment is made or any liability is created by the Commissioner under the Income Tax Ordinance, 2001 against the taxpayer, the Commissioner on the basis of information as contained in Trial Register, allot an NTN to the taxpayer within fifteen days of the date of completion of assessment or creation of a liability under the Ordinance.]"
      ],
      "fn": [
-      {
-       "n": "271-81",
-       "text": "Decision on application for a National Tax Number Certificate. - (1) The Commissioner shall make a decision on an application for a National Tax Number 1[Certificate] within fifteen days of the application being properly lodged. (2) Where the Commissioner decides not to grant a National Tax Number"
-      },
       {
        "n": "271-2",
        "text": "Rule 81A inserted by SRO 392(I)/2009, dated May 19, 2009."
@@ -5519,10 +5356,6 @@
       {
        "n": "271-3",
        "text": "Inserted by the SRO 30(I)/2017 dated 18th January, 2017."
-      },
-      {
-       "n": "272-1",
-       "text": "Rule 81B substituted by SRO 765(I)/2014, dated August 26, 2014. Earlier it was inserted by SRO 328(I)/2011, dated April 27, 2011."
       }
      ]
     },
@@ -5531,7 +5364,7 @@
      "title": "Active Taxpayers List",
      "page": 272,
      "text": [
-      "[",
+      "{fn:272-1}[",
       "(1) This rule shall apply for the purposes of {fn:272-2}[publishing active taxpayers’ list, hereinafter referred to as ATL, under section 181A of the Ordinance]. {fn:272-3}[",
       "(2) A person’s name shall be included in the ATL, if he files return of income tax for the latest tax year, by the due date specified in section 118 of the Ordinance or by the due date as extended under section 119 thereof by the Commissioner or by the due date as extended by the Board under section 214A thereof.",
       "Explanation. — “latest tax year” means the tax year last completed before the date on which return is filed and shall include the tax year previous to that year in case the due date or extended due date for filing of return for the last completed year has not expired.]",
@@ -5555,6 +5388,10 @@
       "Provided that where the. Commissioner Inland Revenue has any reason to believe that the person, whose name has been included under clause (a) or (b), is liable to file return of income under section 114 of the Ordinance and the person does not comply with the notice under subsection (4) of section 114 of the Ordinance, his name shall be removed from the active taxpayers' list under section 181A of the Ordinance.]"
      ],
      "fn": [
+      {
+       "n": "272-1",
+       "text": "Rule 81B substituted by SRO 765(I)/2014, dated August 26, 2014. Earlier it was inserted by SRO 328(I)/2011, dated April 27, 2011."
+      },
       {
        "n": "272-2",
        "text": "Expression “clauses (23A) and (35C) of section 2 and section 181A” substituted by S.R.O. 1638(I)/2024 dated 18.10.2024."
@@ -5661,6 +5498,12 @@
       ">>(iv) the transfer of urban immovable property.",
       "1[Chapter XIIIA",
       "Record of Beneficial Owners"
+     ],
+     "fn": [
+      {
+       "n": "276-1",
+       "text": "Chapter XIIIA added by S.R.O. 1117(I)/2023 dated 28.08.2023."
+      }
      ]
     },
     {
@@ -5690,12 +5533,6 @@
       "(5) “indirect means” means exercise of control through means other than the direct means, and includes but not limited to means of control through (i) chain of ownerships; (ii) joint control arrangement; (iii) contractual associations; (iv) personal or family connections; or (v) senior managerial position;",
       "(6) “joint control arrangement” means a situation where two or more natural or legal persons, each having ownership or voting rights of less than twenty-five percent, but their aggregate ownership or voting rights is twenty-five percent or more in a company or AOP and exercise or may exercise control over that company or AOP for being associates to each other in terms of section 85 of the Income Tax Ordinance, 2001 (XLIX of 2001); and",
       "(7) “ultimate effective control” means a situation in which ownership or control is ultimately exercised through direct or indirect means."
-     ],
-     "fn": [
-      {
-       "n": "277-1",
-       "text": "Chapter XIIIA added by S.R.O. 1117(I)/2023 dated 28.08.2023."
-      }
      ]
     },
     {
@@ -5809,6 +5646,12 @@
       "2. This is to further certify that the particulars of the Beneficial Owners in respect of M/s________ (Name of the Company/AOP/Trust/NPO) holding NTN_________ updated latest on ______________ (Day/Month/Year) remained unchanged for tax year___________.",
       "Authorized Signatory for M/s_________________ Dated_______________]"
      ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "266-1",
+     "text": "Heading substituted for \"NATIONAL TAX NUMBER CARD\" by SRO 392(I)/2009, dated May 19, 2009."
     }
    ]
   },
@@ -7712,7 +7555,7 @@
      "title": "Procedure on death of defaulter",
      "page": 341,
      "text": [
-      "If, at any time after the issue of a Notice {fn:341-1}[by] the Commissioner, the defaulter dies, the proceedings under these rules (except arrest and detention) may be continued against the legal representative of the defaulter who shall be liable to pay out of the estate of the deceased person to the extent to which the estate is capable of meeting the arrears demand and the provisions of these rules shall {fn:341-2}[ ] apply as if the legal representative were the defaulter. {fn:341-7}"
+      "If, at any time after the issue of a Notice {fn:341-1}[by] the Commissioner, the defaulter dies, the proceedings under these rules (except arrest and detention) may be continued against the legal representative of the defaulter who shall be liable to pay out of the estate of the deceased person to the extent to which the estate is capable of meeting the arrears demand and the provisions of these rules shall {fn:341-2}[ ] apply as if the legal representative were the defaulter."
      ],
      "fn": [
       {
@@ -7730,7 +7573,7 @@
      "title": "Appeal",
      "page": 341,
      "text": [
-      "[(1) Where –",
+      "{fn:341-7} [(1) Where –",
       ">(a) the Commissioner passes any order under Chapter XVI, the appeal against such order shall lie to the {fn:341-4}[“Chief Commissioner”], Regional Tax Office or Large Taxpayer Unit, as the case may be; and",
       ">(b) any {fn:341-5}[”officer of Inland Revenue {fn:341-6}[, Inspector Inland Revenue] ”] or authority to whom powers have been delegated passes any order under the said Chapter, an appeal against such order shall lie to the Commissioner,]",
       "(2) Every appeal under this rule shall be presented within thirty days from the date of the order appealed against.",
@@ -8171,10 +8014,6 @@
       "Provided further that {fn:355-1}[{fn:355-2}[“Chief Commissioner”] or Officers of Regional Tax Office or Large Taxpayer Unit] shall apply the same parameters on applicant organizations for the purpose of aforesaid evaluation as are approved by the FBR to be applied by the certification agency.]"
      ],
      "fn": [
-      {
-       "n": "351-1",
-       "text": "Chapter XVII substituted by Notification No. SRO 541(I)/2003, dated June 13, 2003."
-      },
       {
        "n": "351-2",
        "text": "The words “Income Tax” substituted by SRO 1218(I)/2015 dated 08.12.2015."
@@ -8626,7 +8465,7 @@
       "Signature ____________________________",
       "Name (in block letters) __________________",
       "Designation __________________________",
-      "{fn:370-2} [ ]"
+      "{fn:370-2}[ ]"
      ],
      "fn": [
       {
@@ -8962,6 +8801,12 @@
       "Any taxpayer dissatisfied with the decision of the Commissioner Inland Revenue under Rule 220F may prefer an appeal within sixty days of the receipt of the order to the Appellate Tribunal Inland Revenue under section 131 of the Ordinance.]"
      ]
     }
+   ],
+   "fn": [
+    {
+     "n": "351-1",
+     "text": "Chapter XVII substituted by Notification No. SRO 541(I)/2003, dated June 13, 2003."
+    }
    ]
   },
   {
@@ -9218,17 +9063,13 @@
       "The following forms shall be provided after 30th June, 2002 on payment as mentioned against each:-",
       "Form Charge",
       ">>(i) Form of return of total income. Rupees Five each.",
-      "Form of Wealth statement under section (ii) Rupees Five each. 116 of the Income Tax Ordinance. {fn:388-1} [ ]",
-      "{fn:388-2}"
+      "Form of Wealth statement under section (ii) Rupees Five each. 116 of the Income Tax Ordinance.",
+      "{fn:388-1}[ ]"
      ],
      "fn": [
       {
        "n": "388-1",
        "text": "Rule 231 omitted by SRO 392(I)/2009, dated May 19, 2009."
-      },
-      {
-       "n": "388-2",
-       "text": "Rule 231 inserted by SRO 58(I)/2010, dated February 02, 2010."
       }
      ]
     },
@@ -9237,7 +9078,7 @@
      "title": "Computation of export profits attributable to export sales",
      "page": 388,
      "text": [
-      "[",
+      "{fn:388-2}[",
       "(1) Where a taxpayer exports any goods manufactured in Pakistan, the taxpayer's profits attributable to export sales of such goods shall be computed in the following manner, namely:-",
       ">(a) where a taxpayer maintains separate accounts of the business of export of goods manufactured in Pakistan, the profits of the export business shall be taken to be such amount as may be determined by the Commissioner in accordance with the provisions of Ordinance on the basis of such accounts; or",
       ">(b) in other cases, the profits of such business shall be taken to be an amount which bears to the total profits of the business of the taxpayer from the sale of goods, the same proportion as the export sales of goods manufactured in Pakistan bear to the total sales of goods.",
@@ -9247,6 +9088,12 @@
       ">>(i) the aggregate of export sales as determined under clause (a);",
       ">>(ii) the ex-factory price of goods sold in Pakistan, where the goods exported out of Pakistan were manufactured by the exporter; or",
       ">>(iii) the ex-godown price of goods sold in Pakistan, in other cases.]"
+     ],
+     "fn": [
+      {
+       "n": "388-2",
+       "text": "Rule 231 inserted by SRO 58(I)/2010, dated February 02, 2010."
+      }
      ]
     },
     {
@@ -9346,22 +9193,6 @@
       {
        "n": "393-1",
        "text": "[ “ officer of Inland Revenue”] or any other person to conduct an audit and make recommendations to the Committee in respect of dispute or hardship. (9) The Committee may determine the issue and may thereafter seek further information or data or expert opinion or make or cause to be made such inquiries or audit as it may deem fit, to formulate its recommendations in respect of any matter specified in sub-section (1) of section 134A. (10) The applicant may withdraw the application made under sub-rule (3) of these rules at any time before the Committee submits its recommendations to the Board. 1 [ ***] (12) The Chairman of the Committee shall [communicate the decision] of the Committee to the Board, applicant and the concerned Commissioner, simultaneously. [(12A) The decision of the Committee under sub-rule (12) shall be binding on the Commissioner where the applicant has withdrawn the appeal pending before any appellate authority or the court of law and has communicated the order of withdrawal to the Commissioner: Provided that if the order of withdrawal is not communicated to the Commissioner within sixty days of the service of decision of the Committee upon the applicant, the decision of the Committee shall not be binding on the Commissioner.] [omitted] [omitted] [omitted] [omitted] [omitted] (18) Notwithstanding anything contained in this rule an order passed by the Board shall cease to exist if it is subsequently found to have been obtained by fraud or misrepresentation of facts about the nature of dispute or hardship on which the said order was passed and all decisions, orders and judgments modified under the said order shall deemed to be re modified. THE SCHEDULE [See sub-rule (3)] Application for 1[alternative] dispute resolution under section 134A of the Income Tax Ordinance, 2001 To The Chairman, Federal Board of Revenue, Islamabad Dear Sir, The undersigned being duly authorized hereby apply _________________ (name and address of the applicant) for dispute to hardship resolution under section 134A of the Income Tax Ordinance, 2001(XLIX of 2001)."
-      },
-      {
-       "n": "393-2",
-       "text": "Necessary details of the dispute or hardship are set out below and in the annexure to this application."
-      },
-      {
-       "n": "394-3",
-       "text": "A request is made to constitute a Committee as provided under sub-rule (4) of rule 231C of Income Tax Rules, 2002."
-      },
-      {
-       "n": "394-4",
-       "text": "The following documents as are necessary for the resolution of the dispute or hardship are enclosed. (a) _______________________________________________ (b) _______________________________________________ (c) _______________________________________________ Yours faithfully, Signature ________________________________ Name (in block letters) ______________________ NTN ____________________________________ Address _________________________________ Date ____________________________________ Annexure [See paragraph 2 of the Schedule] (1) Name of the applicant (in block letters) ________________________________ (2) National tax number _______________________________________________________ (3) Address of the applicant ___________________________________________ (4) Telephone Number __________________ Fax Number __________________"
-      },
-      {
-       "n": "394-1",
-       "text": "[ ] Yours faithfully, Signature _____________________________ Name (in block letters) ___________________ Designation ___________________________ Date ________________________________ ]"
       }
      ]
     },
@@ -9932,6 +9763,16 @@
   {
    "title": "Second Schedule, Part X",
    "page": 1187
+  }
+ ],
+ "frontNotes": [
+  {
+   "n": "16-1",
+   "text": "The words “Central Board of Revenue” substituted by the Finance Act, 2007."
+  },
+  {
+   "n": "16-2",
+   "text": "The words “Central Board of Revenue” substituted by the Finance Act, 2007."
   }
  ]
 }
