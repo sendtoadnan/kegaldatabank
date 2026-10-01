@@ -123,6 +123,7 @@ def is_small(s, bs):
 
 DEBUG = "--debug" in sys.argv
 REF_RATIO = [0.75]
+BORROW_PAGES = 15  # how far back a repeated amendment marker may find its note
 NOTE_MAX = [None]  # largest font size of footnote text, when body text varies in size (manifest noteMaxSize)  # largest size, relative to body text, of an amendment marker set without the superscript flag
 
 
@@ -162,9 +163,10 @@ def split_footnotes(lines, bs, rule_y=None):
             brackets = [s for s in l.spans if "[" in s["text"] or "]" in s["text"]]
             return all(s["size"] < note_limit for s in brackets)
         if not text:
-            # a bare "3[ ]" marker: body text if its brackets are body size, else part of a quoted note
+            # a bare "3[ ]" marker: body text if its brackets are body size, else part of a quoted note;
+            # digits with no brackets (a wrapped "2025." in a note) decide nothing
             brackets = [s for s in l.spans if "[" in s["text"] or "]" in s["text"]]
-            return bool(brackets) and all(s["size"] < note_limit for s in brackets)
+            return not brackets or all(s["size"] < note_limit for s in brackets)
         total = sum(len(s["text"].strip()) for s in text)
         return sum(len(s["text"].strip()) for s in text if s["size"] < note_limit) >= 0.7 * total
 
@@ -815,6 +817,9 @@ def extract(entry):
             for key, text in page_notes.items():
                 marker = "{fn:%s}" % key
                 target = next((x for x in reversed(recent) if marker in x["title"] or any(marker in t for t in x["text"])), None)
+                if target is None and in_schedule:
+                    last_notes = None  # a note on a schedule page whose marker no provision cites
+                    continue
                 if target is None:
                     target = section or (recent[-1] if recent else None)
                 if target is not None:
@@ -841,7 +846,8 @@ def extract(entry):
                     pg, num = key.split("-", 1)
                     if not pg.isdigit():
                         continue
-                    cands = [(q, t) for q, n, t in all_notes if n == num and q <= int(pg)]
+                    # a repeated marker (e.g. a table heading reprinted on each page) cites a note a few pages back
+                    cands = [(q, t) for q, n, t in all_notes if n == num and int(pg) - BORROW_PAGES <= q <= int(pg)]
                     if cands:
                         x["fn"].append({"n": key, "text": max(cands)[1]})
                         borrowed += 1

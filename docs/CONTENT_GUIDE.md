@@ -98,7 +98,7 @@ Further options, used for the FBR Income Tax Ordinance and Rules:
 | `spaceGaps: true` | Insert the space between adjacent font runs that are visibly apart but carry no space character. |
 | `pdfUrl`, `remotePdf: true` | Link the regulator's own PDF instead of republishing it (for very large editions). The extractor downloads it when it is not in `sources/pdf/`. |
 
-The report also counts `unlinkedMarkers` (amendment markers whose note was not captured; the site marks them and points to the PDF page) and `notesFromEarlierPages`.
+A note found on a schedule page is kept only when a provision cites its marker, and a repeated marker may borrow a note from at most 15 pages back. The report also counts `unlinkedMarkers` (amendment markers whose note was not captured; the site marks them and points to the PDF page) and `notesFromEarlierPages`.
 
 ## 3. Loading a law from plain text
 
