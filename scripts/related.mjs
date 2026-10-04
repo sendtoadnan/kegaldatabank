@@ -45,6 +45,8 @@ export function validateExtras({ acts }, { checks, registers }, evidenceDir = EV
       for (const k of ['library', 'replacedBy']) if (i[k] && !byId.has(i[k])) errors.push(`${where}: "${i.title}" ${k} "${i[k]}" is not in the library`);
       for (const s of i.sections || []) if (!nos.has(s)) errors.push(`${where}: "${i.title}" cites section ${s}, which the Act does not have`);
       if (i.secpPage && !r.secpPages?.[i.secpPage]) errors.push(`${where}: "${i.title}" secpPage "${i.secpPage}" is not listed in secpPages`);
+      if (i.url && !/^https:\/\//.test(i.url)) errors.push(`${where}: "${i.title}" url must be https`);
+      if (i.found && !['search-index', 'screenshot', 'instrument'].includes(i.found.how)) errors.push(`${where}: "${i.title}" found.how must be search-index, screenshot or instrument`);
       if (i.seen?.screenshot && !fs.existsSync(path.join(evidenceDir, i.seen.screenshot))) errors.push(`${where}: "${i.title}" screenshot "${i.seen.screenshot}" not found`);
     }
   }

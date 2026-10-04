@@ -6,7 +6,7 @@ import path from 'node:path';
 import { loadLibrary, validateLibrary, citation, parseParagraph, provisionAnchor } from '../scripts/lib.mjs';
 import { build } from '../scripts/build.mjs';
 import { parseStatute } from '../scripts/import-text.mjs';
-import { datesIn, linksIn, latestEdition, toMarkdown } from '../scripts/check_updates.mjs';
+import { datesIn, linksIn, latestEdition, toMarkdown, rowsIn, savedFrom, check } from '../scripts/check_updates.mjs';
 import { loadExtras, validateExtras, sectionRefs, handCheck } from '../scripts/related.mjs';
 
 test('library data is valid', () => {
@@ -209,4 +209,23 @@ test('related instruments and hand checks', () => {
   const errors = validateExtras(library, bad);
   assert.ok(errors.some((e) => e.includes('unknown instrument "no-such-law"')));
   assert.ok(errors.some((e) => e.includes('section 9999')));
+});
+
+test('update check reads listing pages saved from a browser', async () => {
+  const html = `<!-- saved from url=(0036)https://www.secp.gov.pk/laws/rules/ -->
+    <table><tr><td>04/02/2026</td><td>S.R.O 877(I)-2012 – Takaful Rules 2012 (Updated as of Oct 22, 2015)</td><td><a href="/document/t/">Download</a></td></tr>
+    <tr><td>03/03/2025</td><td>Insurance Rules 2017- Updated as of March 3, 2025</td><td><a href="/document/i/">Download</a></td></tr></table>`;
+  assert.equal(savedFrom(html), 'https://www.secp.gov.pk/laws/rules/');
+  const rows = rowsIn(html, 'https://www.secp.gov.pk/laws/rules/');
+  assert.equal(rows[0].text, 'S.R.O 877(I)-2012 – Takaful Rules 2012 (Updated as of Oct 22, 2015)', 'the posting date is not read as the edition');
+  const saved = new Map([['https://www.secp.gov.pk/laws/rules/', { html, file: 'rules.html' }]]);
+  const manifest = [
+    { id: 't', title: 'Takaful Rules', amendedUpTo: '2015-10-22', watch: { page: 'https://secp.gov.pk/laws/rules', match: 'Takaful Rules' } },
+    { id: 'i', title: 'Insurance Rules', amendedUpTo: '2023-12-31', watch: { page: 'https://www.secp.gov.pk/laws/rules/', match: 'Insurance Rules,? 2017' } },
+  ];
+  const [t, i] = await check(manifest, { saved });
+  assert.equal(t.status, 'current');
+  assert.equal(i.status, 'newer');
+  assert.equal(i.latest.date, '2025-03-03');
+  assert.match(i.from, /rules\.html/);
 });

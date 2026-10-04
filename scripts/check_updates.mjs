@@ -3,11 +3,15 @@
 //
 //   node scripts/check_updates.mjs                      # print a table
 //   node scripts/check_updates.mjs --json data/update-check.json --markdown report.md
+//   node scripts/check_updates.mjs --saved sources/saved-pages   # also read pages saved from a browser
 //
 // Each manifest entry's `watch` names the regulator's listing page and a pattern for the links
 // to that law's editions; the "amended / updated up to" date in each link's text (or file name)
 // is read and the newest is compared with the entry's `amendedUpTo`. Pages that refuse automated
 // access (SECP is behind a bot check) and entries marked `manual` are reported for a manual check.
+// For such sites, open the listing page in your own browser, save it ("Save Page As…", HTML only)
+// into a folder and pass --saved <folder>: each saved page is matched to its address (the
+// "saved from url" note browsers add, or the page's canonical link) and read like a fetched page.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -58,6 +62,53 @@ export function linksIn(html, baseUrl) {
   return out;
 }
 
+/** Table rows on a listing page (SECP lists editions as rows: date, title, download link) as { text, href }. */
+export function rowsIn(html, baseUrl) {
+  const out = [];
+  for (const m of html.matchAll(/<tr\b[^>]*>([\s\S]*?)<\/tr>/gi)) {
+    // The posting date has a cell of its own; only the title carries the edition date.
+    const text = [...m[1].matchAll(/<t[dh]\b[^>]*>([\s\S]*?)<\/t[dh]>/gi)]
+      .map((c) => c[1].replace(/<[^>]+>/g, ' ').replace(/&nbsp;|&#160;/g, ' ').replace(/&amp;/g, '&').replace(/&#8211;|&ndash;/g, '–').replace(/\s+/g, ' ').trim())
+      .filter((c) => c && !/^\d{1,2}[./-]\d{1,2}[./-]\d{4}$/.test(c))
+      .join(' ');
+    const href = m[1].match(/href\s*=\s*["']([^"']+)["']/i);
+    if (!text || !href) continue;
+    try {
+      out.push({ text: text.replace(/\bDownload\b/gi, '').trim(), href: new URL(href[1].replace(/&amp;/g, '&'), baseUrl).href });
+    } catch {
+      /* ignore */
+    }
+  }
+  return out;
+}
+
+/** The address a saved page came from: the browser's "saved from url" note, or its canonical link. */
+export function savedFrom(html) {
+  const m =
+    html.match(/<!--\s*saved from url=\(\d+\)(\S+?)\s*-->/i) ||
+    html.match(/<link[^>]+rel=["']canonical["'][^>]*href=["']([^"']+)["']/i) ||
+    html.match(/<link[^>]+href=["']([^"']+)["'][^>]*rel=["']canonical["']/i) ||
+    html.match(/<meta[^>]+property=["']og:url["'][^>]*content=["']([^"']+)["']/i);
+  return m ? m[1] : null;
+}
+
+const samePage = (a, b) => {
+  const n = (u) => u.replace(/^https?:\/\/(www\.)?/i, '').replace(/[?#].*$/, '').replace(/\/+$/, '').toLowerCase();
+  return n(a) === n(b);
+};
+
+/** Pages saved from a browser, as a Map of address to HTML. */
+export function loadSaved(dir) {
+  const pages = new Map();
+  for (const f of fs.readdirSync(dir)) {
+    if (!/\.html?$/i.test(f)) continue;
+    const html = fs.readFileSync(path.join(dir, f), 'utf8');
+    const url = savedFrom(html);
+    if (url) pages.set(url, { html, file: f });
+  }
+  return pages;
+}
+
 /** The newest dated edition among the links that match the law. */
 export function latestEdition(links, pattern) {
   const re = new RegExp(pattern, 'i');
@@ -82,8 +133,9 @@ async function fetchPage(url) {
   return res.text();
 }
 
-export async function check(manifest) {
+export async function check(manifest, { saved = new Map() } = {}) {
   const pages = new Map();
+  const savedPage = (url) => [...saved.entries()].find(([u]) => samePage(u, url))?.[1];
   const results = [];
   for (const e of manifest) {
     const w = e.watch;
@@ -92,19 +144,22 @@ export async function check(manifest) {
       results.push({ ...row, status: 'manual', note: 'No dated editions to compare: check the page by hand.' });
       continue;
     }
-    if (!pages.has(w.page)) pages.set(w.page, fetchPage(w.page).then((html) => ({ html }), (err) => ({ err })));
+    if (!pages.has(w.page)) {
+      const copy = savedPage(w.page);
+      pages.set(w.page, copy ? Promise.resolve({ html: copy.html, saved: copy.file }) : fetchPage(w.page).then((html) => ({ html }), (err) => ({ err })));
+    }
     const page = await pages.get(w.page);
     if (page.err) {
       results.push({ ...row, status: 'manual', note: `The page could not be read automatically (${page.err.message}): check it by hand.` });
       continue;
     }
-    const latest = latestEdition(linksIn(page.html, w.page), w.match);
+    const latest = latestEdition([...linksIn(page.html, w.page), ...rowsIn(page.html, w.page)], w.match);
     if (!latest) {
       results.push({ ...row, status: 'manual', note: 'No dated edition found on the page: check it by hand.' });
     } else if (!row.edition || latest.date > row.edition) {
-      results.push({ ...row, status: 'newer', latest });
+      results.push({ ...row, status: 'newer', latest, ...(page.saved ? { from: `saved page ${page.saved}` } : {}) });
     } else {
-      results.push({ ...row, status: 'current', latest });
+      results.push({ ...row, status: 'current', latest, ...(page.saved ? { from: `saved page ${page.saved}` } : {}) });
     }
   }
   return results;
@@ -135,7 +190,9 @@ async function main() {
   const args = process.argv.slice(2);
   const opt = (name) => (args.includes(name) ? args[args.indexOf(name) + 1] : null);
   const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'sources', 'manifest.json'), 'utf8'));
-  const results = await check(manifest);
+  const saved = opt('--saved') ? loadSaved(path.resolve(opt('--saved'))) : new Map();
+  if (saved.size) console.log(`Read ${saved.size} saved page(s): ${[...saved.keys()].join(', ')}`);
+  const results = await check(manifest, { saved });
   const checkedAt = new Date().toISOString().slice(0, 10);
   for (const r of results) {
     const extra = r.status === 'newer' ? ` -> ${r.latest.date} ${r.latest.title}` : r.status === 'manual' ? ` (${r.note})` : '';
