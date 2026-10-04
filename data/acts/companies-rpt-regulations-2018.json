@@ -23,8 +23,10 @@
  },
  "sourcePdf": "related-party-transactions-regulations-2018.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 2 October 2018 (S.R.O. 1194(I)/2018, as made). Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "SECP PDF of S.R.O. 1194(I)/2018 dated 2 October 2018 (as made; no amendments listed by SECP on 4 October 2026)",
+  "verifiedBy": "Abdullah",
+  "verifiedOn": "2026-10-04"
  },
  "preamble": "",
  "parts": [

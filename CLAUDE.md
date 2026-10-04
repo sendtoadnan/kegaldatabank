@@ -46,6 +46,8 @@ Daily routine for the user: `cd ~/Documents/kegaldatabank && git pull && claude`
 - The user's credit is limited: prefer running the scripts over reading large files, keep sessions focused, and batch new PDFs.
 
 ## State (October 2026)
-- 18 instruments; all up to date with the regulators per the 4 Oct 2026 checks (SECP by screenshot).
-- Next: add the Companies Act 2017 regulations not yet in the library (s.199 investment in associated companies, s.83 further issue of shares, postal ballot, s.88 buy-back, s.208 related parties, s.242–243 dividends), then the 87 sections in the register still marked "To identify".
+- 19 instruments; all up to date with the regulators per the 4 Oct 2026 checks (SECP by screenshot).
+- Companies (Related Party Transactions) Regulations 2018 added from S.R.O. 1194(I)/2018 and verified by Abdullah on 4 Oct 2026. Re-extracting resets `verification` to unverified, so re-verify after any re-extraction.
+- Next: add the in-force Companies Act 2017 instruments in the register without a `library` id (s.199 investment in associated companies, s.83 further issue of shares, postal ballot, s.88 buy-back, s.242–243 dividends, then the rest), then the 84 sections still marked "To identify" on `acts/companies-act-2017/related.html`.
+- SECP blocks automated access even from the user's Mac (Cloudflare check): the user downloads each issued edition in the browser and saves it with a screenshot of the listing in the section's Unified folder. Check the PDF is not a draft for comments (S.R.O. 768(I)/2018 was).
 - Deferred by the user: Modaraba Rules 1981, CRC Rules 2019 and SRO 243/2024.
