@@ -847,6 +847,9 @@ def extract(entry):
                 or (level is not None and not prev_open)
                 or re.match(r"^\[?(Provided|Explanation|Illustration)", plain)
             )
+            if new_page and starts_para and level is None and plain[:1].islower() \
+                    and re.search(r"[^;,:\s]\s+(and|or)\s*$", prev_txt):
+                starts_para = False  # "Any diplomat or" | next page "diplomatic mission ...": a sentence, not a list item
             if entry.get("lowercaseContinues") and starts_para and level is None and prev_txt \
                     and not re.match(r"^\[?(Provided|Explanation|Illustration|Note)", plain) \
                     and not re.search(r"[.:;—–\-]\]*\s*(\{fn:[^}]+\})*\]*$", prev_txt):
