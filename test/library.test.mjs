@@ -7,6 +7,7 @@ import { loadLibrary, validateLibrary, citation, parseParagraph, provisionAnchor
 import { build } from '../scripts/build.mjs';
 import { parseStatute } from '../scripts/import-text.mjs';
 import { datesIn, linksIn, latestEdition, toMarkdown } from '../scripts/check_updates.mjs';
+import { loadExtras, validateExtras, sectionRefs, handCheck } from '../scripts/related.mjs';
 
 test('library data is valid', () => {
   const errors = validateLibrary(loadLibrary());
@@ -94,6 +95,16 @@ test('build writes pages, search index and offline cache', () => {
   const sources = fs.readFileSync(path.join(outDir, 'sources.html'), 'utf8');
   assert.match(sources, /Sources and updates/);
   assert.match(sources, /fbr\.gov\.pk/);
+  assert.match(sources, /Checked by hand/);
+  assert.match(sources, /evidence\/secp-acts-2026-10-04\.png/);
+  assert.ok(fs.existsSync(path.join(outDir, 'evidence', 'secp-acts-2026-10-04.png')));
+  const related = fs.readFileSync(path.join(outDir, 'acts', 'companies-act-2017', 'related.html'), 'utf8');
+  assert.match(related, /Companies \(Investment in Associated Companies or Associated Undertakings\) Regulations, 2017/);
+  assert.match(related, /still to identify/);
+  const caPage = fs.readFileSync(path.join(outDir, 'acts', 'companies-act-2017', 'index.html'), 'utf8');
+  assert.match(caPage, /Checked on regulator website/);
+  const s199 = caPage.slice(caPage.indexOf('id="s-199"'), caPage.indexOf('id="s-200"'));
+  assert.match(s199, /prov-related[\s\S]*Investment in Associated Companies/, 'section 199 lists its regulations');
   const sw = fs.readFileSync(path.join(outDir, 'sw.js'), 'utf8');
   assert.doesNotMatch(sw, /search-notes\.json/, 'the notes index is cached on first use, not precached');
   assert.doesNotMatch(sw, /__VERSION__|__PRECACHE__/);
@@ -180,3 +191,22 @@ test('update check reads edition dates from regulator pages', () => {
   assert.match(md, /\*\*1\*\* with a newer edition/);
 });
 
+
+test('related instruments and hand checks', () => {
+  const library = loadLibrary();
+  const extras = loadExtras();
+  assert.deepEqual(validateExtras(library, extras), []);
+  assert.deepEqual(sectionRefs('under sub-section (1) of section 512 of the Act'), ['512']);
+  assert.deepEqual(sectionRefs('sections 83 and 83A of the Companies Act, 2017'), ['83', '83A']);
+  assert.deepEqual(sectionRefs('section 3 of the Ordinance'), []);
+  const ca = library.acts.find((a) => a.id === 'companies-act-2017');
+  assert.equal(handCheck(ca, extras.checks).status, 'current');
+  const old = { ...ca, lastAmended: '2020-01-01' };
+  assert.equal(handCheck(old, extras.checks).status, 'newer', 'a listing dated after the edition means a newer edition');
+  const bad = structuredClone(extras);
+  bad.checks[0].covers['no-such-law'] = { listed: 'x' };
+  bad.registers[0].instruments.push({ title: 'X', status: 'in-force', sections: ['9999'] });
+  const errors = validateExtras(library, bad);
+  assert.ok(errors.some((e) => e.includes('unknown instrument "no-such-law"')));
+  assert.ok(errors.some((e) => e.includes('section 9999')));
+});

@@ -20,6 +20,7 @@ The aim is simple: open a statute, find the provision, and quote it with authori
 | **Official PDF on every provision** | **PDF p.** opens the source PDF at the exact page, for checking before quoting. |
 | **Amendment notes** | Superscript markers link to the source's amendment footnotes (which Finance Act or S.R.O. changed what). **Show amendment notes** on an instrument page opens every note at once (remembered on that device). |
 | **Sources and updates** | The **Sources** page compares each law's edition with the latest edition on the regulator's website (checked weekly; `npm run check-updates` runs it by hand) and links to the page to check. |
+| **Companies Act 2017 register** | Each section of the Companies Act, 2017 lists the rules, regulations and notifications that carry it out, and a section-by-section page tracks which are in the library, their latest SECP edition and which sections still need an instrument identified. Hand checks of SECP's website are kept as screenshots on the **Sources** page. |
 | **PDF importer** | `scripts/extract_pdf.py` converts FBR/SECP consolidated PDFs, with completeness checks against their contents lists. |
 
 ## What is in the library

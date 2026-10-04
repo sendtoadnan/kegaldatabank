@@ -17,18 +17,24 @@ import {
   provisionAnchor,
   typeLabel,
 } from './lib.mjs';
+import { loadExtras, validateExtras, citedSections, delegation, handCheck, EVIDENCE_DIR } from './related.mjs';
 
 const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-');
 
 export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
   const library = loadLibrary(dataDir);
   const errors = validateLibrary(library);
+  const extras = loadExtras(dataDir);
+  errors.push(...validateExtras(library, extras));
   if (errors.length) throw new Error(`Library is invalid:\n  - ${errors.join('\n  - ')}`);
 
   const { catalog, acts } = library;
   const site = catalog.site;
   const byId = new Map(acts.map((a) => [a.id, a]));
   const children = (id) => acts.filter((a) => a.parent === id);
+  const registerFor = (id) => extras.registers.find((r) => r.act === id);
+  const dateLabel = (d) => new Date(`${d}T00:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
+  const evidenceLink = (base, file, text = 'Screenshot') => `<a href="${base}evidence/${e(file)}" target="_blank" rel="noopener">${text}</a>`;
   const written = [];
 
   fs.rmSync(outDir, { recursive: true, force: true });
@@ -177,6 +183,22 @@ ${body}
     const parent = act.parent ? byId.get(act.parent) : null;
     const kids = children(act.id);
     const pdf = act.sourcePdf ? pdfHref(act, base) : null;
+    const register = registerFor(act.id);
+    const cited = register ? citedSections(act, kids) : new Map();
+    // Instruments related to each section: those in the library that cite it, then the register's entries.
+    const relatedTo = (no) => {
+      const out = [...(cited.get(no)?.values() || [])].map(
+        ({ kid, provisions }) => `<li><a href="../${kid.id}/index.html#${provisionAnchor(provisions[0])}">${e(kid.title)}</a> <span class="muted">— ${e(kid.unit.toLowerCase())}${provisions.length > 1 ? 's' : ''} ${provisions.map((n) => `<a href="../${kid.id}/index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`).join(', ')}</span></li>`
+      );
+      for (const i of register?.instruments || []) {
+        if (!(i.sections || []).includes(no) || (i.library && cited.get(no)?.has(i.library))) continue;
+        const name = i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : e(i.title);
+        const tag = i.status === 'repealed' ? '<span class="badge bad">Repealed</span>' : i.library ? '' : '<span class="badge warn">Not in library yet</span>';
+        out.push(`<li>${name} ${tag}</li>`);
+      }
+      return out.length ? `<aside class="prov-related"><h4>Rules, regulations and notifications</h4><ul>${out.join('')}</ul></aside>` : '';
+    };
+    const hand = handCheck(act, extras.checks);
 
     const toc = act.parts
       .map(
@@ -223,6 +245,7 @@ ${body}
           <div class="prov-body">${paras}</div>
           ${fns ? `<details class="prov-fns"><summary>Amendment notes (${(s.fn || []).length})</summary><ol>${fns}</ol></details>` : ''}
           ${notes ? `<aside class="prov-notes"><h4>Notes</h4><ul>${notes}</ul></aside>` : ''}
+          ${register ? relatedTo(s.no) : ''}
         </article>`;
           })
           .join('')}
@@ -239,6 +262,9 @@ ${body}
       parent ? ['Made under', `<a href="../${parent.id}/index.html">${e(parent.title)}</a>`] : null,
       ['Source', `<a href="${e(act.source.url)}" rel="noopener" target="_blank">${e(act.source.name)}</a>`],
       pdf ? ['Official PDF', `<a href="${pdf}" target="_blank" rel="noopener">Open the source PDF</a>`] : null,
+      hand
+        ? ['Checked on regulator website', `${dateLabel(hand.date)}: ${hand.status === 'current' ? 'no newer edition listed' : '<strong>a newer edition is listed</strong>'} (“${e(hand.entry.listed)}”). ${evidenceLink(base, hand.screenshot, 'View screenshot')}`]
+        : null,
     ]
       .filter(Boolean)
       .map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`)
@@ -259,7 +285,7 @@ ${body}
       : '';
 
     const subsidiary = kids.length
-      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2><ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul></section>`
+      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2>${register ? `<p><a class="btn" href="related.html">All rules, regulations and notifications, section by section</a></p>` : ''}<ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul></section>`
       : '';
 
     const pdfOnly = act.pdfOnly
@@ -300,6 +326,70 @@ ${body}
       `acts/${act.id}/index.html`,
       layout({ title: `${act.title} — ${site.name}`, description: `${act.title} (${act.number}): full text with contents, citations and related rules.`, base, body, page: 'act' })
     );
+
+    // ---------- register of rules, regulations and notifications made under the Act ----------
+    if (register) {
+      const pageLink = (key) => (register.secpPages?.[key] ? `<a href="${e(register.secpPages[key])}" target="_blank" rel="noopener">SECP ${e(key)}</a>` : '');
+      const instrumentRows = register.instruments
+        .slice()
+        .sort((x, y) => (x.status === 'repealed') - (y.status === 'repealed') || !!y.library - !!x.library)
+        .map((i) => {
+          const name = i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : e(i.title);
+          const state = i.status === 'repealed'
+            ? `<span class="badge bad">Repealed</span>${i.replacedBy ? ` <span class="muted small">replaced by <a href="../${i.replacedBy}/index.html">${e(byId.get(i.replacedBy).title)}</a></span>` : ''}`
+            : i.library ? '<span class="badge ok">In library</span>' : '<span class="badge warn">Not in library yet</span>';
+          const secs = (i.sections || []).map((n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`).join(', ') || '<span class="muted">to confirm</span>';
+          const latest = [i.latest ? e(i.latest) : '', i.seen ? `<span class="muted small">seen ${dateLabel(i.seen.date)} · ${evidenceLink(base, i.seen.screenshot)}</span>` : '', pageLink(i.secpPage)].filter(Boolean).join('<br>');
+          const confirm = i.confirm?.length ? `<br><span class="muted small">To confirm: ${i.confirm.map(e).join('; ')}</span>` : '';
+          return `<tr><td>${name}${i.number ? `<br><span class="muted small">${e(i.number)}</span>` : ''}</td><td>${secs}</td><td>${state}</td><td>${latest || '<span class="muted">—</span>'}</td><td class="small">${e(i.basis || '')}${confirm}</td></tr>`;
+        })
+        .join('');
+      let covered = 0;
+      let open = 0;
+      const sectionRows = act.parts
+        .flatMap((p) => p.sections)
+        .map((s) => {
+          const words = delegation(s);
+          const fromLibrary = [...(cited.get(s.no)?.values() || [])].map(({ kid, provisions }) => `<a href="../${kid.id}/index.html#${provisionAnchor(provisions[0])}">${e(kid.title)}</a> <span class="muted small">(${provisions.map(displayNo).join(', ')})</span>`);
+          const fromRegister = register.instruments
+            .filter((i) => (i.sections || []).includes(s.no) && !(i.library && cited.get(s.no)?.has(i.library)))
+            .map((i) => (i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : `${e(i.title)}${i.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : ' <span class="badge warn">Not in library yet</span>'}`));
+          const found = [...fromLibrary, ...fromRegister];
+          if (!words && !found.length) return '';
+          if (found.length) covered++;
+          else open++;
+          return `<tr data-open="${found.length ? 0 : 1}"><td><a href="index.html#${provisionAnchor(s.no)}">${e(displayNo(s.no))}</a></td><td>${e(stripMarkers(s.title || ''))}</td><td class="small">${words ? `“…${e(words)}…”` : '<span class="muted">—</span>'}</td><td>${found.length ? found.join('<br>') : '<span class="badge warn">To identify</span>'}</td></tr>`;
+        })
+        .join('');
+      write(
+        `acts/${act.id}/related.html`,
+        layout({
+          title: `Rules, regulations and notifications under the ${act.title} — ${site.name}`,
+          description: `Instruments made under the ${act.title}, section by section, with the latest editions on the regulator's website.`,
+          base,
+          page: 'act',
+          body: `
+  <section class="prose related-page">
+    <p class="crumbs"><a href="${base}index.html">Library</a> / <a href="index.html">${e(act.title)}</a></p>
+    <h1>Rules, regulations and notifications under the ${e(act.title)}</h1>
+    <p>This register tracks the instruments made under the Act, so each one can be kept up to date with the editions published by the regulator. Links from instruments in the library are found automatically from the sections they cite; the others are recorded by hand with the basis for each link.</p>
+    <p class="muted small">Check the regulator's lists: ${Object.keys(register.secpPages || {}).map(pageLink).join(' · ')}. SECP's website blocks automated access, so editions are confirmed by hand and the screenshot of each check is kept.</p>
+    <h2>Instruments</h2>
+    <div class="table-wrap"><table class="sources-table related-table">
+      <thead><tr><th>Instrument</th><th>Sections</th><th>Library</th><th>Latest edition on the regulator's website</th><th>Basis</th></tr></thead>
+      <tbody>${instrumentRows}</tbody>
+    </table></div>
+    <h2>Section by section</h2>
+    <p>Sections that leave details to be specified, prescribed or made by regulations or rules, and the instruments that carry them out: <strong>${covered}</strong> with an instrument identified, <strong>${open}</strong> still to identify.</p>
+    <label class="toggle"><input type="checkbox" id="only-open"> Show only sections still to identify</label>
+    <div class="table-wrap"><table class="sources-table related-sections">
+      <thead><tr><th>Section</th><th>Heading</th><th>What the Act leaves to rules or regulations</th><th>Instruments</th></tr></thead>
+      <tbody>${sectionRows}</tbody>
+    </table></div>
+  </section>`,
+        })
+      );
+    }
   }
 
   // ---------- search ----------
@@ -364,14 +454,23 @@ ${body}
       manual: ['warn', 'Check on the website'],
     };
     const order = { newer: 0, manual: 1, current: 2 };
+    // Where the automated check could not read the page, a hand check (with its screenshot) decides.
+    const statusOf = (a) => {
+      const r = byId.get(a.id);
+      const hand = handCheck(a, extras.checks);
+      if (hand && (!r || r.status === 'manual' || hand.date > (report.checkedAt || ''))) return { ...r, status: hand.status, hand };
+      return r;
+    };
     const rows = acts
-      .map((a) => ({ a, r: byId.get(a.id) }))
+      .map((a) => ({ a, r: statusOf(a) }))
       .sort((x, y) => (order[x.r?.status] ?? 1) - (order[y.r?.status] ?? 1) || x.a.title.localeCompare(y.a.title))
       .map(({ a, r }) => {
         const [cls, label] = STATUS[r?.status] || STATUS.manual;
-        const latest = r?.status === 'newer' && r.latest
-          ? `<br><a href="${e(r.latest.url)}" target="_blank" rel="noopener">${e(r.latest.title)}</a>`
-          : r?.status === 'manual' ? `<br><span class="muted small">${e(r.note)}</span>` : '';
+        const latest = r?.hand
+          ? `<br><span class="muted small">Checked by hand ${dateLabel(r.hand.date)}: listed as “${e(r.hand.entry.listed)}”.${r.hand.entry.note ? ` ${e(r.hand.entry.note)}` : ''} ${evidenceLink('', r.hand.screenshot)}</span>`
+          : r?.status === 'newer' && r.latest
+            ? `<br><a href="${e(r.latest.url)}" target="_blank" rel="noopener">${e(r.latest.title)}</a>`
+            : r?.status === 'manual' ? `<br><span class="muted small">${e(r.note)}</span>` : '';
         const page = r?.page || a.source.url;
         return `
         <tr>
@@ -382,7 +481,20 @@ ${body}
         </tr>`;
       })
       .join('');
-    const count = (st) => report.results.filter((r) => r.status === st).length;
+    const statuses = acts.map((a) => statusOf(a)?.status || 'manual');
+    const count = (st) => statuses.filter((x) => x === st).length;
+    const gallery = extras.checks
+      .slice()
+      .sort((x, y) => y.date.localeCompare(x.date))
+      .map(
+        (c) => `
+        <figure class="evidence">
+          <a href="evidence/${e(c.screenshot)}" target="_blank" rel="noopener"><img src="evidence/${e(c.screenshot)}" alt="Screenshot of ${e(c.listing)} taken ${dateLabel(c.date)}" loading="lazy"></a>
+          <figcaption><strong>${e(c.listing)}</strong>, ${dateLabel(c.date)}. <a href="${e(c.page)}" target="_blank" rel="noopener">Open the page</a><br>
+          <span class="muted small">Covers: ${Object.keys(c.covers).map((id) => `<a href="acts/${id}/index.html">${e(acts.find((a) => a.id === id).title)}</a>`).join(', ')}</span></figcaption>
+        </figure>`
+      )
+      .join('');
     write(
       'sources.html',
       layout({
@@ -394,15 +506,16 @@ ${body}
     <h1>Sources and updates</h1>
     <p>Each instrument is taken from the regulator's own consolidated edition. This page compares the edition in the library with the latest edition listed on the regulator's website, so you can see which laws need checking.</p>
     ${report.checkedAt
-      ? `<p><strong>Last checked ${e(report.checkedAt)}:</strong> ${count('newer')} with a newer edition, ${count('manual')} to check on the website, ${count('current')} up to date.</p>`
+      ? `<p><strong>Status:</strong> ${count('newer')} with a newer edition, ${count('manual')} to check on the website, ${count('current')} up to date. <span class="muted small">Automated check ${e(report.checkedAt)}${extras.checks.length ? `; latest hand check ${e(extras.checks.map((c) => c.date).sort().pop())}` : ''}.</span></p>`
       : '<p>No automated check has been run yet.</p>'}
-    <p class="muted small">The check runs every week. FBR and FMU pages are read automatically; SECP's website blocks automated access and Pakistan Code lists no edition dates, so those laws link to the page to check by hand.</p>
+    <p class="muted small">The check runs every week. FBR and FMU pages are read automatically. SECP's website blocks automated access and Pakistan Code lists no edition dates, so those laws are checked by hand and a screenshot of each check is kept below.</p>
     <div class="table-wrap">
       <table class="sources-table">
         <thead><tr><th>Instrument</th><th>Edition in the library</th><th>Status</th><th>Regulator page</th></tr></thead>
         <tbody>${rows}</tbody>
       </table>
     </div>
+    ${gallery ? `<h2>Screenshots of the regulator's listings</h2><p>Each screenshot shows the regulator's own list of editions on the day it was checked, so you can see that the edition in the library is the latest one published.</p><div class="evidence-grid">${gallery}</div>` : ''}
   </section>`,
       })
     );
@@ -493,6 +606,9 @@ ${body}
     if (a.sourcePdf && !a.sourcePdfUrl) write(`sources/${a.id}.pdf`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', a.sourcePdf)));
   }
 
+  // ---------- screenshots of hand checks (served as /evidence/<file>) ----------
+  for (const c of extras.checks) write(`evidence/${c.screenshot}`, fs.readFileSync(path.join(EVIDENCE_DIR, c.screenshot)));
+
   // ---------- static assets ----------
   const assetsDir = path.join(ROOT, 'src', 'assets');
   for (const f of fs.readdirSync(assetsDir)) write(`assets/${f}`, fs.readFileSync(path.join(assetsDir, f)));
@@ -518,7 +634,7 @@ ${body}
 
   // The service worker precaches the app shell and search index; instrument pages and PDFs
   // are cached as they are opened, so everything a reader has used stays available offline.
-  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('acts/') && !f.startsWith('sources/'));
+  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('acts/') && !f.startsWith('sources/') && !f.startsWith('evidence/'));
   const version = crypto.createHash('sha256').update(precache.map((f) => f + fs.statSync(path.join(outDir, f)).size).join('|')).update(JSON.stringify(index)).digest('hex').slice(0, 12);
   const sw = fs.readFileSync(path.join(ROOT, 'src', 'sw.template.js'), 'utf8').replace('__VERSION__', version).replace('__PRECACHE__', JSON.stringify(precache.map((f) => `./${f}`)));
   write('sw.js', sw);
