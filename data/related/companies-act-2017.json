@@ -395,16 +395,31 @@
     "276"
    ],
    "status": "in-force",
-   "secpPage": "regulations",
-   "basis": "SECP's Mediation and Conciliation page refers to the Panel maintained under regulation 3 of these regulations; section 276 provides for the Mediation and Conciliation Panel.",
+   "secpPage": "notifications",
+   "basis": "The draft S.R.O. 1208(I)/2017 is made under section 512(1) read with section 276. SECP's Mediation and Conciliation page refers to the Panel kept under regulation 3 of the Companies (Mediation and Conciliation) Regulations, 2018.",
    "confirm": [
-    "S.R.O. number, enabling sections and latest edition"
+    "the final 2018 regulations (search SECP's Regulations page for “Mediation”); only the 2017 draft has been seen"
    ],
    "url": "https://www.secp.gov.pk/company-formation/mediation-and-conciliation/",
-   "found": {
+   "latest": "Only the draft is listed on SECP's Notifications page: S.R.O. 1208(I)/2017, the draft Companies (Mediation and Conciliation) Regulations, 2017 (listed 22/11/2017)",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
+    "screenshot": "secp-notifications-mediation-2026-10-04.jpg"
    }
+  },
+  {
+   "title": "Companies (Easy Exit) Regulations, 2014",
+   "type": "regulations",
+   "sections": [
+    "426"
+   ],
+   "status": "in-force",
+   "secpPage": "notifications",
+   "basis": "Made under section 506A of the repealed Companies Ordinance, 1984. Gazette notices of 2024–2025 (SECP Company Registration Office Lahore) strike off companies under section 426(1) of the Companies Act, 2017 “read with Companies (Easy Exit) Regulations, 2014”.",
+   "confirm": [
+    "S.R.O. number of the 2014 regulations and of each amendment (the saved copies of the 2014 regulations and the 2016 amendments are scanned images; the 2015 amendment was previously published as S.R.O. 624(I)/2015)",
+    "whether SECP has issued a consolidated edition"
+   ]
   },
   {
    "title": "Companies (Incorporation) Regulations, 2017",
