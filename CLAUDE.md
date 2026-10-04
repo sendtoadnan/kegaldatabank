@@ -19,6 +19,25 @@ Deployed by Netlify from `main`; every change goes through a branch and a pull r
 - `npm run check-updates -- --json data/update-check.json` (add `--saved <folder>` for SECP pages saved from the browser)
 - `python3 scripts/sync_folders.py --from <Google Drive folder> --from <OneDrive folder> --from sources/pdf --to <OneDrive>/Unified` (add `--apply`; dry run otherwise)
 
+## Working locally (the user's Mac) vs the cloud session
+The project normally runs locally: repo in `~/Documents/kegaldatabank`, Claude Code started with `claude` in that folder. Setup steps are in `docs/LOCAL_SETUP.md`.
+
+| | Local session (preferred) | Cloud session (claude.ai/code) |
+|---|---|---|
+| Files | Whole Mac, incl. OneDrive (`~/Library/CloudStorage/OneDrive-Personal/kegaldatabank`, add with `/add-dir`) and Google Drive | Only GitHub and the Google Drive connector |
+| Internet | User's own connection: FBR, FMU, Pakistan Code and usually SECP listing pages load | Restricted; SECP blocked; OneDrive not allowed |
+| Saving | On disk; push to GitHub via `gh` (logged in as sendtoadnan) | Must push before the container is reclaimed |
+| Cost | Same model usage either way | Same model usage either way |
+
+Local-only abilities to use:
+- Read the OneDrive working folder directly; run `scripts/sync_folders.py` on it (no Google Drive bridge needed).
+- Run `npm run check-updates` from the user's connection; if SECP still refuses, ask the user to save the listing pages from their browser and use `--saved`.
+- Preview the site with `npm run serve` (http://localhost:8080).
+- Open PRs with `gh pr create`; the user merges on github.com.
+- Keep the git repo outside OneDrive/iCloud (sync corrupts `.git`); PDFs and working papers stay in OneDrive.
+
+Daily routine for the user: `cd ~/Documents/kegaldatabank && git pull && claude`.
+
 ## Rules
 - Text comes only from the regulator's official PDF; never type or "fix" law text from memory. Mark editions Unverified until a person checks them.
 - After re-extracting, confirm the section count is unchanged and review the diff of `data/acts/<id>.json`.
