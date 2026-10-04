@@ -285,7 +285,7 @@ ${body}
       : '';
 
     const subsidiary = kids.length
-      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2>${register ? `<p><a class="btn" href="related.html">All rules, regulations and notifications, section by section</a></p>` : ''}<ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul></section>`
+      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2>${register ? `<p><a class="btn" href="related.html">All rules, regulations and notifications, section by section</a> <a href="related.html#to-identify">Sections still to identify</a></p>` : ''}<ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul></section>`
       : '';
 
     const pdfOnly = act.pdfOnly
@@ -383,7 +383,7 @@ ${body}
     </table></div>
     <h2>Section by section</h2>
     <p>Sections that leave details to be specified, prescribed or made by regulations or rules, and the instruments that carry them out: <strong>${covered}</strong> with an instrument identified, <strong>${open}</strong> still to identify.</p>
-    <label class="toggle"><input type="checkbox" id="only-open"> Show only sections still to identify</label>
+    <label class="toggle" id="to-identify"><input type="checkbox" id="only-open"> Show only sections still to identify</label>
     <div class="table-wrap"><table class="sources-table related-sections">
       <thead><tr><th>Section</th><th>Heading</th><th>What the Act leaves to rules or regulations</th><th>Instruments</th></tr></thead>
       <tbody>${sectionRows}</tbody>

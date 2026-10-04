@@ -541,6 +541,10 @@
         tr.hidden = onlyOpen.checked;
       });
     });
+    if (location.hash === '#to-identify') {
+      onlyOpen.checked = true;
+      onlyOpen.dispatchEvent(new Event('change'));
+    }
   }
 
   // ---------- offline ----------
