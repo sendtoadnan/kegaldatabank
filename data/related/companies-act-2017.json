@@ -1,0 +1,285 @@
+{
+ "_about": "Rules, regulations and notifications made under the Companies Act, 2017, with the sections they carry out. `library` names the instrument's id when its text is in the library; `sections` lists the Act's sections; `basis` says where the link comes from; `confirm` lists what still has to be checked against the instrument itself. Sections cited by instruments in the library are found automatically and need not be listed here.",
+ "act": "companies-act-2017",
+ "secpPages": {
+  "acts": "https://www.secp.gov.pk/laws/acts/",
+  "rules": "https://www.secp.gov.pk/laws/rules/",
+  "regulations": "https://www.secp.gov.pk/laws/regulations/",
+  "notifications": "https://www.secp.gov.pk/laws/notifications/"
+ },
+ "instruments": [
+  {
+   "title": "Companies Regulations, 2024",
+   "type": "regulations",
+   "number": "S.R.O. 201(I)/2024 (12 February 2024)",
+   "library": "companies-regulations-2024",
+   "sections": [
+    "512"
+   ],
+   "status": "in-force",
+   "latest": "Amended by S.R.O. 1355(I)/2025 of 25 July 2025 (SECP lists it as “SRO 1356”)",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-regulations-2026-10-04.webp"
+   },
+   "secpPage": "regulations",
+   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically."
+  },
+  {
+   "title": "Third Schedule to the Companies Act, 2017 (updated)",
+   "type": "schedule",
+   "library": "companies-act-2017-third-schedule",
+   "sections": [
+    "507"
+   ],
+   "status": "in-force",
+   "latest": "Updated to 29 December 2025",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-acts-2026-10-04.png"
+   },
+   "secpPage": "acts",
+   "basis": "Schedules are altered by notification under section 507."
+  },
+  {
+   "title": "Seventh Schedule to the Companies Act, 2017 (updated)",
+   "type": "schedule",
+   "library": "companies-act-2017-seventh-schedule",
+   "sections": [
+    "507"
+   ],
+   "status": "in-force",
+   "latest": "Updated to 10 November 2025",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-acts-2026-10-04.png"
+   },
+   "secpPage": "acts",
+   "basis": "Schedules are altered by notification under section 507."
+  },
+  {
+   "title": "S.R.O. 239(I)/2024 — amendments to Table F of the First Schedule (articles of association)",
+   "type": "notification",
+   "library": "sro-239-2024-companies-first-schedule",
+   "sections": [
+    "507"
+   ],
+   "status": "in-force",
+   "latest": "Notified 2024",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-acts-2026-10-04.png"
+   },
+   "secpPage": "acts",
+   "basis": "Schedules are altered by notification under section 507."
+  },
+  {
+   "title": "Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2017",
+   "type": "regulations",
+   "sections": [
+    "199"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 199(3) leaves the information to be given to members to regulations; these regulations carry it out.",
+   "confirm": [
+    "latest amended edition on SECP's Regulations page"
+   ]
+  },
+  {
+   "title": "Companies (Further Issue of Shares) Regulations, 2020",
+   "type": "regulations",
+   "sections": [
+    "83"
+   ],
+   "status": "in-force",
+   "latest": "Updated to 13 January 2026 (after S.R.O. 64(I)/2026, S.R.O. 2458(I)/2025 and S.R.O. 1665(I)/2025)",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-regulations-2026-10-04.webp"
+   },
+   "secpPage": "regulations",
+   "basis": "Section 83 (further issue of capital) leaves the form and manner to regulations.",
+   "confirm": [
+    "whether the regulations also carry out section 83A (employees’ stock options)"
+   ]
+  },
+  {
+   "title": "Companies (Postal Ballot) Regulations, 2018",
+   "type": "regulations",
+   "sections": [],
+   "status": "in-force",
+   "latest": "Amended up to 20 March 2025",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-regulations-2026-10-04.webp"
+   },
+   "secpPage": "regulations",
+   "basis": "Listed on SECP's Regulations page.",
+   "confirm": [
+    "the enabling sections, from the regulations' preamble"
+   ]
+  },
+  {
+   "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+   "type": "regulations",
+   "sections": [
+    "88"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 88(1) lets a company buy back its shares “subject to … the regulations specified in this behalf”. Unlisted companies are covered by the Companies Regulations, 2024.",
+   "confirm": [
+    "latest amended edition on SECP's Regulations page"
+   ]
+  },
+  {
+   "title": "Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018",
+   "type": "regulations",
+   "sections": [
+    "208"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 208 subjects related party transactions to “such conditions as may be specified”.",
+   "confirm": [
+    "latest amended edition on SECP's Regulations page",
+    "whether they also carry out section 209"
+   ]
+  },
+  {
+   "title": "Companies (Distribution of Dividends) Regulations, 2017",
+   "type": "regulations",
+   "sections": [
+    "242"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 242 requires dividends to be paid “within such period and in such manner as may be specified”.",
+   "confirm": [
+    "exact title and latest edition on SECP's Regulations page"
+   ]
+  },
+  {
+   "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
+   "type": "regulations",
+   "sections": [
+    "218"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 218 lets employees’ funds invest “subject to the conditions as may be specified”.",
+   "confirm": [
+    "exact title and latest edition on SECP's Regulations page"
+   ]
+  },
+  {
+   "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
+   "type": "regulations",
+   "sections": [],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Governance of listed companies.",
+   "confirm": [
+    "the enabling sections, from the regulations' preamble",
+    "latest amended edition"
+   ]
+  },
+  {
+   "title": "Shariah Governance Regulations",
+   "type": "regulations",
+   "sections": [
+    "451"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 451 requires Shariah compliance to be declared “in such form and manner as may be specified”.",
+   "confirm": [
+    "exact title and year of the edition in force"
+   ]
+  },
+  {
+   "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
+   "type": "rules",
+   "sections": [
+    "509"
+   ],
+   "status": "in-force",
+   "secpPage": "rules",
+   "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024.",
+   "confirm": [
+    "latest amended edition"
+   ]
+  },
+  {
+   "title": "Companies (Incorporation) Regulations, 2017",
+   "type": "regulations",
+   "sections": [],
+   "status": "repealed",
+   "replacedBy": "companies-regulations-2024",
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+  },
+  {
+   "title": "Companies (General Provisions and Forms) Regulations, 2018",
+   "type": "regulations",
+   "sections": [],
+   "status": "repealed",
+   "replacedBy": "companies-regulations-2024",
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+  },
+  {
+   "title": "Companies (Registration Offices) Regulations, 2018",
+   "type": "regulations",
+   "sections": [
+    "426"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-regulations-2024",
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024, except regulation 13 of Chapter III to the extent of section 426."
+  },
+  {
+   "title": "Associations with Charitable and Not for Profit Objects Regulations, 2018",
+   "type": "regulations",
+   "sections": [
+    "42"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-regulations-2024",
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+  },
+  {
+   "title": "Intermediaries (Registration) Regulations, 2017",
+   "type": "regulations",
+   "sections": [],
+   "status": "repealed",
+   "replacedBy": "companies-regulations-2024",
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+  },
+  {
+   "title": "Group Companies Registration Regulations, 2008",
+   "type": "regulations",
+   "sections": [],
+   "status": "repealed",
+   "replacedBy": "companies-regulations-2024",
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+  },
+  {
+   "title": "Unlisted Companies (Buy-Back of Shares) Regulations, 2023",
+   "type": "regulations",
+   "sections": [
+    "88"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-regulations-2024",
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+  },
+  {
+   "title": "Foreign Companies Regulations, 2018",
+   "type": "regulations",
+   "sections": [],
+   "status": "repealed",
+   "replacedBy": "companies-regulations-2024",
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+  }
+ ]
+}

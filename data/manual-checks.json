@@ -1,0 +1,45 @@
+{
+ "_about": "Checks made by hand on regulator websites that block automated access. Each check names the listing page, the screenshot kept in sources/evidence/, and, for each instrument it covers, the newest edition the listing showed. Add a new check (newest first) whenever a page is checked again; see docs/CONTENT_GUIDE.md.",
+ "checks": [
+  {
+   "date": "2026-10-04",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "listing": "SECP › Laws › Acts, searched for “companies act”",
+   "screenshot": "secp-acts-2026-10-04.png",
+   "covers": {
+    "companies-act-2017": { "listed": "The Companies Act, 2017 – Updated 18-Aug-2022", "listedOn": "19/08/2022" },
+    "companies-act-2017-third-schedule": { "listed": "Updated 3rd Schedule to the Companies Act 2017 – 29-12-2025", "listedOn": "01/01/2026" },
+    "companies-act-2017-seventh-schedule": { "listed": "Updated Seventh Schedule of Companies Act 2017- as on 10 November, 2025", "listedOn": "11/12/2025" },
+    "sro-239-2024-companies-first-schedule": { "listed": "S.R.O. 239 (I) of 2024 -Amendments in First Schedule Table F (AOA) to the Companies Act, 2017", "listedOn": "23/02/2024", "status": "current" }
+   }
+  },
+  {
+   "date": "2026-10-04",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "listing": "SECP › Laws › Regulations, searched for “companies regulation”",
+   "screenshot": "secp-regulations-2026-10-04.webp",
+   "covers": {
+    "companies-regulations-2024": { "listed": "SRO 1356 dated 25th July 2025 – Amendments to the Companies Regulations, 2024", "listedOn": "29/07/2025", "note": "The consolidated edition SECP re-posted on 16/04/2026 is still updated up to 25.07.2025." }
+   }
+  },
+  {
+   "date": "2026-10-04",
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "listing": "SECP › Laws › Rules",
+   "screenshot": "secp-rules-2026-10-04.webp",
+   "covers": {
+    "insurance-rules-2017": { "listed": "Insurance Rules 2017- Updated as of March 3, 2025", "listedOn": "03/03/2025" },
+    "takaful-rules-2012": { "listed": "S.R.O 877(I)-2012 – Takaful Rules 2012 (Updated as of Oct 22, 2015)", "listedOn": "04/02/2026" }
+   }
+  },
+  {
+   "date": "2026-10-04",
+   "page": "https://www.secp.gov.pk/laws/ordinances/",
+   "listing": "SECP › Laws › Ordinances",
+   "screenshot": "secp-ordinances-2026-10-04.webp",
+   "covers": {
+    "insurance-ordinance-2000": { "listed": "Insurance Ordinance, 2000", "listedOn": "07/04/2000", "status": "current", "note": "SECP lists one undated edition; the library uses its consolidated text to November 2011." }
+   }
+  }
+ ]
+}

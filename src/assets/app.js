@@ -533,6 +533,16 @@
     }
   });
 
+  // ---------- register of related instruments: show only the sections still to identify ----------
+  var onlyOpen = document.getElementById('only-open');
+  if (onlyOpen) {
+    onlyOpen.addEventListener('change', function () {
+      document.querySelectorAll('.related-sections tr[data-open="0"]').forEach(function (tr) {
+        tr.hidden = onlyOpen.checked;
+      });
+    });
+  }
+
   // ---------- offline ----------
   if ('serviceWorker' in navigator && location.protocol !== 'file:') {
     window.addEventListener('load', function () {
