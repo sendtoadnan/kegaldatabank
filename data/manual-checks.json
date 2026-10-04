@@ -3,6 +3,15 @@
  "checks": [
   {
    "date": "2026-10-04",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "listing": "SECP › Laws › Regulations, searched for “rela”",
+   "screenshot": "secp-regulations-rpt-2026-10-04.png",
+   "covers": {
+    "companies-rpt-regulations-2018": { "listed": "Related Party Transactions and Maintenance of Related Records(RPT) Regulations, 2018", "listedOn": "03/10/2018", "status": "current" }
+   }
+  },
+  {
+   "date": "2026-10-04",
    "page": "https://www.secp.gov.pk/laws/acts/",
    "listing": "SECP › Laws › Acts, searched for “companies act”",
    "screenshot": "secp-acts-2026-10-04.png",
