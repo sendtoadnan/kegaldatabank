@@ -339,6 +339,12 @@ def section_start(l, bs, untitled=False):
     mm = re.match(r"^(.{2,200}?)(\.\s*[-–—―−⸺⸻]{1,2}|\s[–—―−⸺⸻]{1,2}(?=\s|\()|—|―|⸺|⸻|\.\s*$)(.*)$", heading)
     if mm and (mm.group(3).strip() or not head_bold):
         heading, rest = mm.group(1), norm_space(mm.group(3) + " " + rest)
+    elif re.search(r",\s*[-–—]\s*$", heading) or (heading.rstrip().endswith(",") and re.match(r"^[-–—]", rest)):
+        # "2. Definitions, - (1)" (Shariah Governance Regulations, 2023): a comma before the dash
+        heading = re.sub(r",\s*[-–—]?\s*$", "", heading)
+        rest = re.sub(r"^[-–—]\s*", "", rest)
+    elif re.match(r"^,\s*[-–—]\s", rest):
+        rest = re.sub(r"^,\s*[-–—]\s*", "", rest)  # bold "44. Repeal and Savings" + regular ", - (1)"
     return number, heading, lead, rest
 
 
@@ -819,7 +825,7 @@ def extract(entry):
                     bold_prefix.append(refs(spans_nz[k], l.kp) if is_ref(spans_nz[k], bs) else spans_nz[k]["text"])
                     k += 1
                 cont = norm_space("".join(bold_prefix))
-                if cont and k > 0:
+                if cont and k > 0 and not re.fullmatch(r"[A-Z]{3,}(?: [A-Z]{2,})+", re.sub(r"\{fn:[^}]+\}|\d+$", "", cont).strip()):  # "GENERAL CONDITIONS" is a sub-heading, not more title
                     mm = re.match(r"^(.*?)(\.\s*[-–—―−⸺⸻]{1,2}|\s[–—―−⸺⸻]{1,2}(?=\s|\()|—|―|⸺|⸻|\.\s*$)(.*)$", cont)
                     extra_text = ""
                     if mm:
