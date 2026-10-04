@@ -184,7 +184,7 @@ def identify(path, laws, known_hashes):
     if text is None:
         text = first_pages_text(path)
     edition = edition_in_text(text)
-    if not edition and known_hashes.get(digest) is law:
+    if not edition and law and known_hashes.get(digest) is law:
         edition = law["edition"]
     return law, edition, how, digest
 
