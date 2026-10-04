@@ -769,6 +769,306 @@
     }
   },
   {
+    "id": "companies-investment-associated-regulations-2017",
+    "file": "companies-investment-associated-regulations-2017.pdf",
+    "title": "Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2017",
+    "number": "S.R.O. 1240(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Investment in Associated Companies Regulations",
+      "Associated Companies Regulations 2017"
+    ],
+    "enacted": "2017-12-06",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2017-12-06",
+    "amendedUpToLabel": "6 December 2017 (S.R.O. 1240(I)/2017, as made)",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "match": "Investment in Associated Companies"
+    }
+  },
+  {
+    "id": "companies-further-issue-of-shares-regulations-2020",
+    "file": "companies-further-issue-of-shares-regulations-2020.pdf",
+    "title": "Companies (Further Issue of Shares) Regulations, 2020",
+    "number": "S.R.O. 231(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Further Issue of Shares Regulations",
+      "FIS Regulations 2020"
+    ],
+    "enacted": "2020-03-16",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-01-13",
+    "amendedUpToLabel": "13 January 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "match": "Further Issue of Shares"
+    }
+  },
+  {
+    "id": "companies-postal-ballot-regulations-2018",
+    "file": "companies-postal-ballot-regulations-2018.pdf",
+    "title": "Companies (Postal Ballot) Regulations, 2018",
+    "number": "S.R.O. 254(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Postal Ballot Regulations",
+      "Postal Ballot Regulations 2018"
+    ],
+    "enacted": "2018-02-22",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2025-03-20",
+    "amendedUpToLabel": "20 March 2025",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "match": "Postal Ballot"
+    }
+  },
+  {
+    "id": "companies-distribution-of-dividends-regulations-2017",
+    "file": "companies-distribution-of-dividends-regulations-2017.pdf",
+    "title": "Companies (Distribution of Dividends) Regulations, 2017",
+    "number": "S.R.O. 1145(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Distribution of Dividends Regulations",
+      "Dividend Regulations 2017",
+      "e-Dividend Regulations"
+    ],
+    "enacted": "2017-11-06",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2022-06-16",
+    "amendedUpToLabel": "16 June 2022 (S.R.O. 809(I)/2022)",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/notifications/",
+      "match": "Distribution of Dividends"
+    }
+  },
+  {
+    "id": "unclaimed-shares-regulations-2017",
+    "file": "unclaimed-shares-regulations-2017.pdf",
+    "title": "Unclaimed Shares, Modaraba Certificates, Dividend, Other Instruments and Undistributed Assets Regulations, 2017",
+    "number": "S.R.O. 1013(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Unclaimed Shares Regulations",
+      "Unclaimed Shares Regulations 2017"
+    ],
+    "enacted": "2017-10-06",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2017-10-06",
+    "amendedUpToLabel": "6 October 2017 (S.R.O. 1013(I)/2017, as made)",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "match": "Unclaimed Shares"
+    }
+  },
+  {
+    "id": "listed-companies-ccg-regulations-2019",
+    "file": "listed-companies-ccg-regulations-2019.pdf",
+    "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
+    "number": "S.R.O. 1163(I)/2019",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CCG 2019",
+      "Code of Corporate Governance",
+      "Code of Corporate Governance 2019"
+    ],
+    "enacted": "2019-09-25",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2025-03-20",
+    "amendedUpToLabel": "20 March 2025",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "match": "Code of Corporate Governance"
+    }
+  },
+  {
+    "id": "shariah-governance-regulations-2023",
+    "file": "shariah-governance-regulations-2023.pdf",
+    "title": "Shariah Governance Regulations, 2023",
+    "number": "S.R.O. 1314(I)/2023",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SGR 2023",
+      "Shariah Governance Regulations"
+    ],
+    "enacted": "2023-09-14",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2023-09-14",
+    "amendedUpToLabel": "14 September 2023 (S.R.O. 1314(I)/2023, as made)",
+    "caution": "Draft amendments were published by S.R.O. 802(I)/2026 of 29 April 2026 for comments; they are not part of this text until SECP notifies them.",
+    "bodyEndPage": 29,
+    "schedules": [
+      {
+        "title": "Forms A to L",
+        "page": 30
+      },
+      {
+        "title": "Annexure I",
+        "page": 48
+      },
+      {
+        "title": "Schedule I",
+        "page": 49
+      },
+      {
+        "title": "Schedule II",
+        "page": 50
+      },
+      {
+        "title": "Schedule III",
+        "page": 51
+      }
+    ],
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/notifications/",
+      "match": "Shariah Governance Regulations"
+    }
+  },
+  {
+    "id": "companies-cost-accounts-regulations-2020",
+    "file": "companies-cost-accounts-regulations-2020.pdf",
+    "title": "Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020",
+    "number": "S.R.O. 1336(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Cost Accounts Regulations",
+      "Cost Audit Regulations 2020"
+    ],
+    "enacted": "2020-12-14",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2020-12-14",
+    "amendedUpToLabel": "14 December 2020 (S.R.O. 1336(I)/2020, as made)",
+    "caution": "Draft amendments were published by S.R.O. 1136(I)/2024 for comments; they are not part of this text until SECP notifies them. The industry schedules from PDF page 20 are scanned images and are shown as the official PDF.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/notifications/",
+      "match": "Cost Accounts"
+    }
+  },
+  {
+    "id": "unlisted-companies-buy-back-regulations-2023",
+    "file": "unlisted-companies-buy-back-regulations-2023.pdf",
+    "title": "Unlisted Companies (Buy-Back of Shares) Regulations, 2023",
+    "number": "S.R.O. 1441(I)/2023",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Unlisted Buy-Back Regulations 2023"
+    ],
+    "enacted": "2023-10-12",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "status": "repealed",
+    "amendedUpTo": "2023-10-12",
+    "amendedUpToLabel": "12 October 2023 (S.R.O. 1441(I)/2023, as made)",
+    "caution": "Repealed by regulation 148(1)(vii) of the Companies Regulations, 2024 (S.R.O. 201(I)/2024). Kept for reference to matters that arose while it was in force.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "sro-1300-2018-section-66",
+    "file": "sro-1300-2018-section-66.pdf",
+    "title": "S.R.O. 1300(I)/2018 — Persons to whom redeemable capital may be issued (section 66)",
+    "number": "S.R.O. 1300(I)/2018",
+    "type": "notification",
+    "unit": "Paragraph",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SRO 1300",
+      "SRO 1300 2018"
+    ],
+    "enacted": "2018-10-25",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2018-10-25",
+    "amendedUpToLabel": "25 October 2018",
+    "pdfOnly": true,
+    "summary": "Made under section 510 read with section 66: notifies the persons to whom an instrument in the nature of redeemable capital may be issued (securities brokers; funds and trusts as defined in the Employees Contributory Funds Regulations, 2018; companies and bodies corporate), with a proviso for Government debt securities.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/notifications/",
+      "manual": true
+    }
+  },
+  {
     "id": "companies-act-2017-third-schedule",
     "file": "updated-3rd-schedule-to-the-companies-act-2017-29-12-2025.pdf",
     "title": "Third Schedule to the Companies Act, 2017 (Classification of Companies)",

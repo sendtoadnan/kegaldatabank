@@ -1,0 +1,900 @@
+{
+ "id": "companies-further-issue-of-shares-regulations-2020",
+ "title": "Companies (Further Issue of Shares) Regulations, 2020",
+ "number": "S.R.O. 231(I)/2020",
+ "type": "regulations",
+ "unit": "Regulation",
+ "parent": "companies-act-2017",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Further Issue of Shares Regulations",
+  "FIS Regulations 2020"
+ ],
+ "enacted": "2020-03-16",
+ "lastAmended": "2026-01-13",
+ "amendedUpToLabel": "13 January 2026",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "companies-further-issue-of-shares-regulations-2020.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 13 January 2026. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter 1 — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short Title and Commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Companies (Further Issue of Shares) Regulations, 2020.",
+      "(2) They shall come into force at once except in the case of issues announced on or before the date of these regulations.",
+      "(3) These regulations shall apply to the [listed] {fn:1-2} companies issuing further capital by way of:",
+      ">>(i) right shares;",
+      ">>(ii) other than right shares;",
+      ">>(iii) bonus shares;",
+      ">>(iv) employee stock option schemes; and",
+      ">>(v) shares with different rights including preference shares."
+     ],
+     "fn": [
+      {
+       "n": "1-2",
+       "text": "Inserted vide S.R.O 361(I)/2024 dated March 04, 2024"
+      }
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, –",
+      ">>(i) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">[(ia) “Application Supported by Blocked Amount “(ASBA)” means an application for subscribing to shares, where money is blocked in the subscriber’s respective bank account;] {fn:1-3}",
+      ">>(ii) “issue of share at discount” means issue of share at a price below face value of such share;",
+      ">>(iii) “further issue of shares” means issue of shares under section 83 of the Act and does not include Initial Public Offer or offer for sale of shares by any person holding shares in listed company or further issue of shares pursuant to any scheme of arrangement including merger, demerger, amalgamation etc.;",
+      ">>(iv) \"exercise\" means making of an application by an employee to a company for issue of shares against option vested in him in pursuance of a Scheme;",
+      ">>(v) \"exercise period\" means the time period after vesting within which an employee may exercise his right to apply for shares against an option vested in him in pursuance of the Scheme;",
+      ">>(vi) \"exercise price\" means the price payable by an employee for exercising an option granted to him in pursuance of the Scheme;",
+      ">>(vii) “initial public offer or IPO” means first time offer of securities to the general public; (viii) “issue” for the purpose of these regulations, means further issue of shares;",
+      ">>(ix) “issue size” means the total number of shares issued or proposed to be issued by a company;",
+      ">>(x) “issue price” means the price per share at which shares are offered or issued;",
+      ">>(xi) “issue of shares by way of other than right” means issue of shares out of the share capital of a company or body corporate to any person without right offer, either for cash or for consideration otherwise than in cash;",
+      ">>(xii) “market price” for the purpose of a scheme means latest available closing price of the share on a securities exchange on which the shares of the company are listed and where share price is not traded on a given date, then the share price on the last trading day shall be considered; (xiii) \"option\" means a right but not an obligation granted to an employee in pursuance of a Scheme to apply for shares of a company at a pre- determined price;",
+      ">>(xiv) “preference shares” mean the shares which carry or would carry such preferential rights or privileges as provided for in the articles of association of the company including but not limited to the following:",
+      ">(a) carry preferential right over the rights of ordinary shareholders to receive dividend; preference dividend may be cumulative or non-cumulative;",
+      ">(b) carry preferential right over the rights of ordinary shareholders to participate in profits of company;",
+      ">(c) carry preferential rights over the rights of ordinary shareholders to be paid in the event of winding up of the issuer; and",
+      ">(d) voting and non-voting rights (xv) “right issue” means the shares offered by a company to its members strictly in proportion to the shares already held in respective kinds and classes;",
+      ">>(xvi) “scheme” means an Employees Stock Option Scheme (ESOS) approved by the shareholders of the company through special resolution {fn:2-4} in accordance with",
+      "procedure and on conditions specified through these regulations;",
+      "(xvii) “schedule” means the schedule appended with these regulations.",
+      "[(xviia) “Sponsor” shall have the same meaning as assigned to it in clause (Iiv) of subregulation (1) of regulation 2 of Public Offering Regulations, 2017;] {fn:3-5} (xviii) \"vesting\" means to give or earn a right to apply for conversion of the options, granted under a scheme, into shares of the company; and",
+      ">>(xix) \"vesting period\" means the period during which the vesting of an option granted to an employee in pursuance of a scheme takes place.",
+      "(2) All terms and expression used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the Securities Act, 2015 (III of 2015) and the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
+     ],
+     "fn": [
+      {
+       "n": "1-3",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "2-4",
+       "text": "Substituted for the word “Commission” vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "3-5",
+       "text": "Inserted vide S.R.O 361(I)/2024 dated March 04, 2024"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Right Issue",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Conditions for right issue",
+     "page": 3,
+     "text": [
+      "GENERAL CONDITIONS {fn:3-6}",
+      "(1) Subject to requirements of section 83 of the Act, a [ ] {fn:3-7} company issuing right shares",
+      "shall, comply with the following general conditions, namely. –",
+      ">>(i) board shall approve the decision to increase share capital and the said decision shall be communicated on the same day to the Commission and to the securities exchange for public dissemination;",
+      ">>(ii) Fractional shares, if any, shall not be offered and all fractions less than a share shall be consolidated and disposed of by the company and the proceeds from such disposition shall be paid to such of the entitled shareholders as may have accepted such offer;",
+      ">>(iii) the decision of board shall clearly state the following-",
+      ">(a) quantum of the issue i.e. as percentage of existing paid up capital;",
+      ">(b) issue size;",
+      ">(c) issue price;",
+      ">(d) purpose of the issue;",
+      ">(e) utilization of the proceeds of the issue;",
+      ">(f) benefits of the issue to the company and its shareholders;",
+      ">(g) risks, if any, associated with the issue to which the company and/or its members are exposed to;",
+      ">(h) justification for issue of shares at, premium or at discount to face value (if applicable);",
+      ">(i) minimum subscription amount;",
+      ">(j) provision of ASBA facility (optional); and {fn:4-8} [(k) justification for issuing different kind and class of shares, if applicable.] {fn:4-9}",
+      ">>(iv) where announcement of the issue of bonus and right shares is made simultaneously, the resolution of the board shall specify whether such bonus shares qualify for right entitlement or not;",
+      ">>(v) [The letter of offer, accompanied with a circular as required under sub-section (3) of section 83 of the Act, on a format as provided in schedule 1 to these regulations, shall be sent to all members along with copy of the extract of the resolution of the board’s meeting approving the right issue;] {fn:4-10}",
+      ">>(vi) A [omitted] {fn:4-11} company may issue right shares at face value or at premium to",
+      "face value provided the directors and substantial shareholders of the company undertake in writing that:",
+      ">(a) they will subscribe the right shares to be offered to them as per their right entitlement or arrange subscription for the same through other persons; and",
+      ">(b) [the balance of the right issue is underwritten through an underwriter or consortium of underwriters, licensed by the Commission to undertake underwriting of securities, not being associated companies or associated undertakings of the issuer:",
+      "Provided that if any of the directors and substantial shareholders of the company do not provide an undertaking to subscribe to the right shares offered to them as per clause (a) above, then such portion, along with the portion in sub-clause (b), shall be underwritten as mentioned in subclause (b);] {fn:4-12}",
+      ">>(vii) [omitted] {fn:4-13} the letter of offer of right shall be dispatched or credited within the",
+      "time period as specified by the listing’s regulations of the securities exchange; (viii) [an] {fn:4-14} issuer shall not be eligible to make a right issue if the issuer at the time",
+      "of right issuance is placed on Pakistan Stock Exchange (PSX) [non-compliant segment or winding up segment] {fn:4-15}. Provided that this condition will not be",
+      "applicable on the companies wherein the purpose of the right issue is repayment of the respective overdues or removing defaults [that resulted in placement of the company on the PSX’s non-compliant segment or winding-up segment] {fn:5-16};",
+      ">>(ix) [an] {fn:5-17} issuer shall not be eligible to make right issue if it is not cooperating in",
+      "an investigation or inspection ordered by the Commission;",
+      ">>(x) if the whole or any part of the shares offered by the issuer is declined or is not subscribed, the directors may allot such shares in such manner as they may deem fit within a period of thirty days from the close of the offer or within such extended time not exceeding thirty days with the approval of the Commission;",
+      ">>(xi) right shares shall only be offered for consideration only in cash;",
+      ">>(xii) right shares shall not be subscribed for consideration of already injected funds in the issuing company by the subscriber either in the form of loan or any other consideration; (xiii) if the board of directors fail, within extended time, to allot shares or underwriters fail to take up the unsubscribed portion, the unsubscribed right issue will be extinguished. In such cases, in addition to any other action specified under the Act against the board, the underwriter will be barred for three years from underwriting any issue of any listed issuer;",
+      ">>(xiv) subject to compliance with the requirement of section 82 of the Act, a company may issue right shares at a discount to face value: provided that-",
+      ">(a) the issue is underwritten in the form and manner as stated in clause (vi) of this sub-regulation; and",
+      ">[(b) appropriate disclosures are made in line with the requirements of these Regulations;] {fn:5-18}",
+      ">>(xv) the [omitted] {fn:5-19} Issuer shall not, at any time changes or deviate from the",
+      "purpose of utilization of proceeds of right issue earlier disclosed to the members through Schedule 1;",
+      ">>(xvi) in exceptional circumstances, the issuer may change the purpose of proceeds utilization subject to passing of special resolution and offering an exit opportunity to dissenting shareholders who have not agreed to the change in purpose of proceeds utilization; (xvii) the mechanism for an exit offer opportunity shall be as under-",
+      ">(a) EOGM notice in respect of any change in the purpose of proceeds utilization of the issue as disclosed in the offer document shall be given along with draft special resolution as required under the provisions of the Act;",
+      ">(b) subject to approval of special resolution as defined in the Act, the shareholders who have dissented against the special resolution and conveyed their dissent to the company secretary under intimation to PSX, shall be provided an opportunity to exit;",
+      ">(c) during the exit opportunity, shares shall be purchased by sponsors of the issuer;",
+      ">(d) purchase price per share shall be average market price of the period between last date of payment against right issuance and the date of passing of special resolution;",
+      ">(e) the exit offer shall be executed by the sponsors with in a period of thirty (30) days from the date of passing of special resolution] {fn:6-20}.",
+      "[(2) In addition to compliance with the general conditions, provided in sub-regulation (1), a company issuing right shares shall comply with the following additional requirements, -",
+      ">>(i) The board of directors of the issuing company shall, prior to announcement of the right issue, ensure that the issuing company, its sponsor(s), promoter(s), substantial shareholder(s) and directors shall not have overdues or defaults irrespective of the amount appearing in the report obtained from Credit Information Bureau:",
+      "Provided that clause (i) shall not apply to independent director(s) and the nominee director(s) of the government and financial institution(s)/creditor(s);",
+      "[Provided further that clause (i) shall not apply if the aforesaid persons obtain No Objection Certificate from the respective financial institution(s), in relation to right issue;] {fn:6-21}",
+      ">>(ii) the company shall prepare and its board shall approve the draft offer document [omitted] {fn:6-22};",
+      ">>(iii) the Offer document shall contain all disclosures, as referred to in Schedule I of these regulations and such disclosure should be true and complete and enable the applicants to take an informed investment decision;",
+      ">>(iv) the draft offer document shall be submitted to PSX and the Commission within [3 working days] {fn:6-23} of the date of announcement and it shall be the discretion",
+      "of the company to seek public comments on the offering document and in such case, the company shall simultaneously place the draft offer document on the PSX mand company’s website. The public can submit its comments within [5 days] {fn:6-24} of placement;",
+      ">>[(iv)(a) The draft offer document shall be submitted to the Commission along with the following information: i. complete list of associated companies;",
+      "ii. father’s name and CNIC number of sponsors, promoters, substantial shareholders, and directors; and iii. CUIN of the associated companies to the Commission {fn:7-25}.] {fn:7-26}",
+      ">>(v) PSX and the Commission shall, within [5 working days] {fn:7-27} of the filing of draft offer document, [along with submission of complete information,] {fn:7-28} share their",
+      "observations and changes with the company, if any;",
+      ">>(vi) the board shall ensure that draft offer document is updated in light of the public comments, (if opted for), and PSX and the Commission comments/observations, and shall submit final offer document to PSX and the Commission within [5 days] {fn:7-29} from the date of comments/observations.",
+      "Simultaneously, the Board shall also disclose in tabular form on PSX and company website as per the Schedule II, all the comments received along with the explanations as to how they are addressed;",
+      ">>[(vi)(a) a company shall ensure that book closure must be started for determination of right shares entitlement within 7 working days of the date on which the final offer document is placed on PSX website.",
+      "Provided that 7 working days shall also include notice period for book closure and book closure period shall not be more than one (1) day.] {fn:7-30}",
+      ">>(vii) the final offer document shall be placed on PSX website along with book closure dates, and relevant right issuance timelines in accordance with Section 83 of the Act; and (viii) the sponsors shall retain their entire shareholding for one year or project completion[,] {fn:7-31} whichever is later.] {fn:7-32}",
+      "(3) [Omitted] {fn:7-33}",
+      "(4) [omitted] {fn:8-34}",
+      "(5) Right issue once announced by the board of a [omitted] {fn:8-35} company shall not be varied,",
+      "postponed, withdrawn or cancelled [except that it will stand extinguished in case it is not completed within the timeline [omitted] {fn:8-36} and manner specified with in these regulations.] {fn:8-37}",
+      "(6) The company can opt for announcing minimum subscription amount being less than the total amount of right announced. In instant scenario, the company in addition to complying with the requirements [omitted] {fn:8-38} as mentioned in Regulation 3, shall comply with",
+      "the following conditions, -",
+      ">>(i) minimum subscription amount should not be less than 90% of size of right issue;",
+      ">>(ii) directors/substantial shareholders undertake in writing that they will subscribe the right shares to be offered to them as per their right entitlement to the extent of their proportion of minimum subscription;",
+      ">>(iii) [public portion of minimum subscription shall be underwritten through an underwriter or consortium of underwriters, licensed by the Commission to undertake underwriting of securities, not being associated companies or associated undertakings of the issuer;] {fn:9-39}",
+      ">>(iv) right entitlement letter will be traded on PSX [omitted] {fn:9-40}.",
+      "(7) The company can opt for ASBA facility for receiving of right proceeds and in case the company announces the option of ASBA facility it, in addition to complying with the requirements [omitted] {fn:9-41} as provided in regulation 3, shall also comply with the following",
+      "conditions: -",
+      ">>(i) The company or banker to the issue, upon receipt of instructions from the subscriber, immediately block the subscription money in respective account of the subscriber;",
+      ">>(ii) in case of subscribers other than ASBA, if the company fails to refund the subscription amount within 15 days, it shall be liable to pay penalty of 15% per annum to the subscriber along with the subscription amount.] {fn:9-42}"
+     ],
+     "fn": [
+      {
+       "n": "3-6",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "3-7",
+       "text": "Omitted the word “listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "4-8",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "4-9",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "4-10",
+       "text": "Substituted vide S.R.O 361(I)/2024 dated March 04, 2024 for “the letter of offer under section 83 of the Act and information specified in Schedule I to these regulations, shall be sent to all members along with copy of the extract of the resolution of the board’s meeting approving the right issue; and”."
+      },
+      {
+       "n": "4-11",
+       "text": "Omitted the word “listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "4-12",
+       "text": "Substituted vide S.R.O 361(I)/2024 dated March 04, 2024 for “the balance of the right issue is underwritten through at least two underwriters, not being associated companies or associated undertakings of the issuer; Explanation: An underwriter may enter into sub-underwriting arrangement through sub-underwriting agreement in writing provided such sub-underwriter is licensed by the Commission to undertake underwriting of securities.”"
+      },
+      {
+       "n": "4-13",
+       "text": "Omitted the expression “in case of a listed company,” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "4-14",
+       "text": "Substituted for “a listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "4-15",
+       "text": "Substituted for “defaulter counter” vide S.R.O. 2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "5-16",
+       "text": "Inserted vide S.R.O. 2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "5-17",
+       "text": "Substituted for “a listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "5-18",
+       "text": "Substituted for “(b) appropriate disclosures in line with the size of the issue are made;” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "5-19",
+       "text": "Omitted the word “listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "6-20",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "6-21",
+       "text": "Inserted vide S.R.O 64(I)/2026 dated January 13, 2026"
+      },
+      {
+       "n": "6-22",
+       "text": "Omitted the words “in English and Urdu Language” vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "6-23",
+       "text": "Substituted for “45 days” vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "6-24",
+       "text": "Substituted for “7 days” vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "7-25",
+       "text": "Expression “along with the application” omitted vide S.R.O 64(I)/2026 dated January 13, 2026"
+      },
+      {
+       "n": "7-26",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "7-27",
+       "text": "Substituted for “15 days” vide S.R.O.1665(I)/2025 dated August 29 2025"
+      },
+      {
+       "n": "7-28",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "7-29",
+       "text": "Substituted for “20 days” vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "7-30",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "7-31",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "7-32",
+       "text": "Substituted vide S.R.O 361(I)/2024 dated March 04, 2024 for the following; “(2) In case the right issue size cumulatively during a financial or a calendar year is less than or equal to Rs.750 million or 50% of the paid-up capital of the listed company issuing right shares, whichever is lower, the listed company, in addition to compliance of the general conditions, provided in sub-regulation (1), shall- (i)simultaneously place Schedule 1 on the website of Securities Exchange along with sending it to all the members with copy of the extract of the resolution of the board’s meeting approving the right issue; (ii)Offer letter dispatched to all shareholders should include the copy of Schedule 1; (iii)the book closure for the issue shall be made within thirty (30) days from the date of board resolution or within such time period as approved by the Commission;”"
+      },
+      {
+       "n": "7-33",
+       "text": "Following is omitted vide S.R.O 361(I)/2024 dated March 04, 2024 “In case the right issue size cumulatively during a financial or a calendar year exceeds Rs.750 million or 50% of the paid up capital of the listed company issuing right shares, whichever is higher, the listed company, in addition to compliance of the general conditions, provided in sub-regulation (1), shall comply with the following conditions, namely:- (i) no company shall issue right exceeding the above referred threshold if the issuing company, its sponsor, promoter, substantial shareholder and directors have overdues or defaults irrespective of the amount appearing in the report obtained from Credit Information Bureau; (ii) the company shall prepare and its board shall approve the draft offer document in easily understandable English and Urdu language; (iii) the Offer document shall contain all disclosures, as referred to in Schedule I of these regulations. and such disclosure should be true and adequate and enable the applicants to take an informed investment decision; (iv) the draft offer document shall be submitted to PSX and the Commission within 45 days of the date of announcement and it shall simultaneously be placed by the listed company on the PSX and company’s website. It shall be the discretion of the company and its board to seek public comments on the offering document and in such case, the public can submit its comments within 7 days of placement; (v) PSX and the Commission shall, within 15 days of the filing of draft offer document, share their observations and changes with the company, if any; (vi) the board shall ensure that draft offer document is updated in light of the public comments, (if opted for), PSX and the Commission comments/observations, and shall submit final offer letter to PSX within 20 days from the date of comments/observations, whichever is later. Simultaneously, the Board shall also disclose in tabular form on PSX and company website as per the Schedule II, all the comments received along with the explanations as to how they are addressed; (vii) the final offer document shall be placed on PSX website along with book closure dates, and relevant right issuance timelines in accordance with Section 83 of the Act; (viii) the sponsors shall retain their entire shareholding for one year or project completion whichever is later; (ix) the statutory auditor shall monitor the proceed utilization till 95% of the proceeds are utilized in the manner referred to in the final offer letter, and shall submit half yearly report to the issuer. The issuer will include the report, along with its comments, if any, in its half yearly and annual financial statements.”"
+      },
+      {
+       "n": "8-34",
+       "text": "Substituted for regulation (2), (3) (4) vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "8-35",
+       "text": "Omitted the word “listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "8-36",
+       "text": "Omitted the word “line” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "8-37",
+       "text": "Substituted for full stop in the end vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "8-38",
+       "text": "Omitted the expression “as applicable depending upon the size of right issue” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "9-39",
+       "text": "Substituted for “public portion of minimum subscription shall be underwritten by the underwriter, not being associated company or associated undertakings of the issuer;” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "9-40",
+       "text": "Omitted the expression “, risk and rewards shall be sole liability of the investors” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "9-41",
+       "text": "Omitted the expression “(as applicable depending upon the size of right issue)” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "9-42",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Bonus Issue",
+   "sections": [
+    {
+     "no": "4",
+     "title": "Conditions for bonus issue",
+     "page": 9,
+     "text": [
+      "(1) A company, in accordance with the provisions of its articles of association, may issue bonus shares subject to the following conditions, namely: -",
+      ">>(i) the issue of bonus shares is approved by the board;",
+      ">>(ii) [ ] {fn:9-43} the resolution of board approving to issue bonus shares is communicated",
+      "to the Commission and the securities exchange on the same day i.e. on the day of the decision;",
+      "(2) The decision of the board to issue bonus shares, once announced, shall not be varied, postponed, withdrawn or cancelled.",
+      "[(3) A company shall commence book closure for determining entitlement to bonus issue within 7 working days of the board’s resolution.",
+      "Provided that 7 working days shall also include notice period for book closure and book closure period shall not be more than one (1) day.] {fn:10-44}"
+     ],
+     "fn": [
+      {
+       "n": "9-43",
+       "text": "Omitted the expression “in case of a listed company” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "10-44",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Issue Of Shares By Way Of Other Than Right Offer",
+   "sections": [
+    {
+     "no": "5",
+     "title": "Conditions for issue of shares by way of other than right offer",
+     "page": 10,
+     "text": [
+      "(1) A [omitted] {fn:10-45} company may issue further shares, by way of other than right, under sub-section (1)(b) {fn:10-46} of",
+      "section 83 of the Act subject to the following general conditions, namely. –",
+      ">>(i) [the issue is proposed by the board and the said decision shall be communicated on the same day to the Commission and to the securities exchange, where the Company is listed, for public dissemination;] {fn:10-47}",
+      ">>(ii) the aforesaid proposal of the board clearly states the following-",
+      ">(a) proposal of the board to issue shares without right offer is subject to approval of the shareholders and the Commission;",
+      ">(b) quantum of the issue both in terms of the number of shares and percentage of paid up capital before and after the issue;",
+      ">(c) issue price per share and justification for the same;",
+      ">(d) consideration against which shares are proposed to be issued i.e. cash or other than cash;",
+      ">(e) name of person(s), their brief profile, existing shareholding, if any, in the company, to whom the shares are proposed to be issued;",
+      ">(f) purpose of the issue;",
+      ">[(f)(a) justification for issuing different kind and class of shares, if applicable;] {fn:10-48}",
+      ">(g) justification for issue of the shares by way of other than right;",
+      ">(h) benefits of the issue to the company, its members and capital markets;",
+      ">(i) breakup value per share as per the latest available audited and reviewed accounts (j) consent of the person(s) to whom the shares are to be issued is(are) obtained;",
+      ">(k) the proposed new shares shall rank pari passu in all respects with the [respective kind and class of] {fn:11-49} existing [omitted] {fn:11-50} shares of the",
+      "company. In case the proposed new shares are different from the issued ordinary shares in any respect, then the board’s decision must state the differences in detail (l) average market price of the share, [omitted] {fn:11-51} during the last three",
+      "months preceding the board’s decision as well as the latest available market price; and",
+      ">(m) where shares are proposed to be issued for consideration other than in cash, the value of non-cash assets or services or intangible assets shall be determined by a valuer:",
+      "Provided that the valuation shall not be older than six months from the date of submission of the application to the Commission [and the valuers must be registered as per the requirements of [these Regulations.] {fn:11-52} ] {fn:11-53}",
+      ">[(n) a company shall submit application to the Commission along with the following information: i. complete list of associated companies; ii. father’s name and CNIC number of sponsors, promoters, substantial shareholders and directors; and iii. CUIN of the associated companies to the Commission {fn:11-54}.] {fn:11-55}",
+      "[Provided further that the requirements of sub-regulation 5(1)(ii)(b), (c), (e), (i), (j), (l) and (m) shall not be applicable in case of further issuance of shares by way of other than right where the issuance is dependent on a future contingent event.",
+      "Explanation: - For the purpose of these regulations the expression “future contingent event” is an event emanating from legal or regulatory requirements that may or may not occur in future and it can reasonably be determined that the required information for issuance of shares by way of other than right offer in such event is not available to the issuer at the time of passing of resolution by the board of directors.] {fn:11-56}",
+      ">>(iii) {fn:12-57} the company shall invite claims, if any, on the non-cash assets through",
+      "advertisement in the widely circulated newspaper both English and Urdu language clearly mentioning the fact that-",
+      ">(a) {fn:12-58} after issuance of shares the title of the assets will be transferred in the",
+      "name of the issuer; and",
+      ">(b) {fn:12-59} claims must be submitted to the statutory auditors [omitted] {fn:12-60} within",
+      "seven (7) days of the date of advertisement.",
+      ">>(iv) {fn:12-61} the company shall intimate the Commission, at the time of seeking approval,",
+      "confirming details of claims received and settled as referred in sub-clause [(iii)] {fn:12-62} verified through its statutory auditor along with an affidavit that the",
+      "information is correct to the best of their knowledge;",
+      ">>(v) {fn:12-63} non-cash assets shall be transferred in the name of issuer within sixty (60) days",
+      "of the date of approval by the Commission or within such extended time not exceeding 30 days with the approval of the Commission;",
+      "[Provided that the requirements of sub-regulation 5(1)(iii), (iv) and (v) shall not be applicable in case of further issuance of shares by way of other than right where the issuance is dependent on a future contingent event.] {fn:12-64}",
+      ">>[(vi) the shares shall be issued only in the book entry form within 60 days from the date of approval by the Commission or within such extended time not exceeding 30 days with the approval of the Commission:",
+      "Provided that the timeline for issuance of shares as specified in the subregulation 5(1)(vi) shall not be applicable in case of further issuance of shares by way of other than right where the issuance is dependent on a future contingent event] {fn:12-65} [or the shares are to be issued to enable acquirer(s) to",
+      "acquire voting shares beyond limits prescribed in section 111 of the Securities Act, 2015] {fn:12-66}.",
+      ">>(vii) {fn:13-67} the issuer shall intimate the Commission and the securities exchange about",
+      "issuance of the shares within seven days of the issuance;",
+      "[(viii) the sponsors and associated companies/undertakings shall retain their shareholding arising as a result of subject issuance for two years from the date of such issuance:",
+      "Provided that the issuer shall submit report to the Commission concerning the shares held in blocked status within the CDC account immediately after the issuance of said shares;] {fn:13-68}",
+      ">>[(ix) the persons other than sponsors and associated companies/undertakings, shall retain their shareholding arising as a result of subject issuance for a period of six months from the date of such issuance:",
+      "Provided that the conditions referred in sub-clauses (viii) and (ix), shall not be applicable in case where offer price is at premium to the market price of the share of the company and free float of the issuing company is less than 10% of its listed capital;] {fn:13-69}",
+      ">>(x) {fn:13-70} the person(s) to whom shares are being issued shall not have overdues or",
+      "defaults irrespective of the amount appearing in the report obtained from Credit Information Bureau]. {fn:13-71}",
+      "[Provided that the requirements of sub-regulation 5(1)(x) shall not be applicable in case of further issuance of shares by way of other than right where the issuance is dependent on a future contingent event.] {fn:13-72}",
+      "(2) [Omitted] {fn:13-73}"
+     ],
+     "fn": [
+      {
+       "n": "10-45",
+       "text": "Omitted the word “public” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "10-46",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 20225"
+      },
+      {
+       "n": "10-47",
+       "text": "The expression “the issue is proposed by the board” is substituted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "10-48",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "11-49",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "11-50",
+       "text": "Omitted the expression “ordinary” vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "11-51",
+       "text": "Omitted the expression “in case of a listed company” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "11-52",
+       "text": "Substituted for “regulation 8A & 8B of the Companies (Further Issue of Shares) Regulations, 2020.” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "11-53",
+       "text": "Substituted for full stop vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "11-54",
+       "text": "Expression “along with the application” omitted vide S.R.O 64(I)/2026 dated January 13, 2026"
+      },
+      {
+       "n": "11-55",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      },
+      {
+       "n": "11-56",
+       "text": "Inserted vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-57",
+       "text": "Renumbered vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-58",
+       "text": "Renumbered vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-59",
+       "text": "Renumbered vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-60",
+       "text": "Omitted the expression “(insert name)” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-61",
+       "text": "Renumbered vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-62",
+       "text": "Substituted for “(n)” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-63",
+       "text": "Renumbered vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-64",
+       "text": "Inserted vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-65",
+       "text": "Substituted for “the shares shall be issued only in the book entry form within 60 days from the date of approval by the Commission;” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "12-66",
+       "text": "Inserted vide S.R.O 2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "13-67",
+       "text": "Renumbered vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "13-68",
+       "text": "Substituted for “the sponsors shall retain their shareholding arising as a result of subject issuance for at least twelve months; and at least twenty five percent of their shareholding for the next two years;” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "13-69",
+       "text": "Substituted for “the persons other than sponsors, shall retain their shareholding arising as a result of subject issuance from the date of their issuance as follows- (i) for a period of one year, in case such shareholding is not more than ten percent (10%) of the issuer’s respective paid up share capital; (ii) for a period of two years, in case such shareholding is above ten percent (10%) but not more than twenty five percent (25%) of the issuer’s respective paid up share capital; and (iii) for a period of three years, in case such shareholding is above twenty five percent (25%) of the issuer’s respective paid up share capital: Provided that the conditions referred in sub-clauses (s) and (t), shall not be applicable in case where offer price is at premium to the market price of the share of the company and free float of the issuing company is less than 10% of its listed capital;” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "13-70",
+       "text": "Renumbered vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "13-71",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "13-72",
+       "text": "Inserted vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "13-73",
+       "text": "Omitted the expression “The aforesaid decision of the board shall be communicated to the Commission and the securities exchange on the same day i.e. on the date of the decision of the board.” vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Classes And Kinds Of Share Capital",
+   "sections": [
+    {
+     "no": "6",
+     "title": "Conditions for issuance of shares with different rights",
+     "page": 14,
+     "text": [
+      "(1) A company may issue shares with differential rights under section 58 of the Act subject to compliance with the following conditions, namely-",
+      ">>(i) the issue of [different kinds and classes of] {fn:14-74} shares with different rights is",
+      "recommended by the board through resolution;",
+      ">(ia) [the issue of shares of different kinds and classes shall not, in any manner, be detrimental or adversely affect the rights of the existing shareholders;] {fn:14-75}",
+      ">>(ii) the decision of the board shall, in addition to particulars required under clauses (a) to (g) of regulation 3(1)(iii) {fn:14-76}, state the following-",
+      ">(a) [description of different kind and class, if any] {fn:14-77};",
+      ">(b) description of different rights such as different class in each kind, rights and privileges attached to each class or kind of capital;",
+      ">(c) whether the shares are being issued as right or other than right;",
+      ">(d) whether the holders of such shares shall be entitled to participate in profits or surplus funds of the company;",
+      ">(e) whether the holders of such shares shall be entitled to participate in surplus assets and profits of the company on its winding-up which may remain after the ordinary shareholders has been repaid;",
+      ">(f) whether payment of dividend on preference shares is on cumulative or noncumulative basis;",
+      ">(g) in case the shares being issued are convertible into ordinary shares, then mode, mechanism and manner of such conversion;",
+      ">(h) rights of holders of preference shares regarding dividend, participation in general meetings and voting therein before and after conversion of preference shares into ordinary shares;",
+      ">(i) in case the shares are partially or wholly redeemable, then mode and manner of redemption;",
+      ">(j) any other feature as deem appropriate by the board.",
+      ">>(iii) the issue of shares is authorized by a special resolution; [(iiia) no company shall issue ordinary shares carrying voting rights, without such shares being entitled to receive dividend:",
+      "Provided that all ordinary shares shall be entitled to receive the same percentage/ratio of dividend per share;] {fn:15-78}",
+      "[(iiib) the combined voting power of the ordinary shares having ‘one share one vote’ shall, at all times, not be less than 75% of the total voting power of all shares issued by a company;] {fn:15-79}",
+      "[(iiic) any kind and class of shares with varied rights shall not carry more than five (5) voting rights per share.] {fn:15-80} [(iiid) ordinary shares carrying varied rights shall be issued as listed security.] {fn:15-81}",
+      ">>(iv) [omitted] {fn:15-82}",
+      ">[(iva) [The] {fn:15-83} company shall comply with all applicable requirements of Chapter IV of",
+      "these Regulations and seek approval of the Commission for issuance of such shares offered by way of other than Right;",
+      ">[(ivb) If such shares are being offered by way of Right, then the issuing company shall comply with the requirement as specified in Regulation 3.] {fn:15-84}",
+      ">>(v) [The company shall not amend, alter, [vary] {fn:15-85} or reassess the terms and",
+      "conditions of such issue without approval of the holders of such shares carrying differential rights] {fn:15-86};",
+      ">>(vi) in case a company performs an act which is contradictory to the provision to clause (v) above, the Commission may:",
+      ">(a) direct such company to redeem the entire issue with immediate effect and make full compensation along with interest accrued therein, if any; or",
+      ">(b) direct such company to convert the entire issue into ordinary shares with immediate effect; or",
+      ">(c) give direction as deemed appropriate by the Commission through an order after providing the company an opportunity of hearing.",
+      "{fn:15-87}(2) Notwithstanding the requirements of sub-regulation (1), a company may convert its",
+      "ordinary shares into preference shares or convert its shares (of a particular kind) from one class to another, on the basis of a special resolution:",
+      "Provided that the rights of holders of such converted shares are provided for in the articles of association of a company:",
+      "Provided further that a share that is not a redeemable preference share when issued cannot afterwards be converted into redeemable preference share.",
+      "[(3) A [omitted] {fn:16-88} company, in case of issue of preference shares, by way of other than",
+      "right offer, in addition to compliance of conditions mentioned at regulation 6 (1) above, is required to submit the following along with the application to the Commission: -",
+      ">>(i) consent of the person(s) to whom the shares are to be issued; and",
+      ">>(ii) terms and conditions of the agreement(s) executed between the company and the preference shareholders.] {fn:16-89}"
+     ],
+     "fn": [
+      {
+       "n": "14-74",
+       "text": "Inserted vide S.R.O.2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "14-75",
+       "text": "Inserted vide S.R.O.2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "14-76",
+       "text": "Substituted for the expression “3(iii)” vide S.R.O.2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "14-77",
+       "text": "Substituted for the expression “description of different kind of shares such as ordinary shares and preference shares” vide S.R.O.2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "15-78",
+       "text": "Inserted vide S.R.O.2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "15-79",
+       "text": "Inserted vide S.R.O.2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "15-80",
+       "text": "Inserted vide S.R.O.2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "15-81",
+       "text": "Inserted vide S.R.O.2458(I)/2025 dated December 16, 2025"
+      },
+      {
+       "n": "15-82",
+       "text": "Sub-clause (iv) in Regulation 6 omitted through S.R.O. 1461(I)/2021 dated November 10, 2021"
+      },
+      {
+       "n": "15-83",
+       "text": "Substituted for “Irrespective of the size of the issue, the listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "15-84",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "15-85",
+       "text": "Substituted for “very” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "15-86",
+       "text": "Sub-clause (v) in Regulation 6 amended through S.R.O. 1461(I)/2021 dated November 10, 2021"
+      },
+      {
+       "n": "15-87",
+       "text": "Sub-regulation (2) in Regulation 6 inserted through S.R.O. 1461(I)/2021 dated November 10, 2021"
+      },
+      {
+       "n": "16-88",
+       "text": "Omitted the word “listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "16-89",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Employee Stock Option Scheme",
+   "sections": [
+    {
+     "no": "7",
+     "title": "Condition for issue of Employee Stock Option Scheme",
+     "page": 16,
+     "text": [
+      "(1) A [omitted] {fn:16-90} company, may issue shares to employees pursuant to a Scheme under section [83 A] {fn:16-91} of the Act, subject",
+      "to the following conditions-",
+      ">>(i) the articles of association of the company expressly provides and authorizes the offer of scheme;",
+      ">>(ii) the board shall form a compensation committee for administration and superintendence of the scheme provided that the chairman of the compensation committee [omitted] {fn:16-92} shall be an independent director;",
+      ">>(iii) board shall consider and resolve to offer the scheme;",
+      ">>(iv) the aforesaid decision of the board shall provide information required under subclause (a) to (f) of clause (ii) of sub-regulation (1) of regulation 5, as applicable;",
+      ">>(v) the offer of scheme is authorized by a special resolution;",
+      "Provided that separate special resolution shall be required for the following, where a scheme provides so, -",
+      ">(a) grant of option to employees of a subsidiary or holding company; and",
+      ">(b) grant of option to identified employees, during any one year, equal to or exceeding one per cent of the issued capital (excluding outstanding conversions) of the company at the time of grant of option;",
+      "Provided further that agenda of the EOGM should explicitly provide details of any litigation or legal proceedings in the context of the current or previous ESOS along with management’s stance;",
+      "Provided further that ESOS by the issuer has to be announced within six months of passing of special resolution, and in case of failure to do so, fresh resolution will be required.] {fn:17-93}",
+      ">>(vi) In case shares are to be issued at discount to the face value, the company shall also obtain approval of shareholders and the Commission under section 82 of the Act;",
+      ">>(vii) the company and compensation committee shall ensure that its executive directors and employees in senior management shall not participate in the deliberation or discussion of their own allocation of options under the scheme; (viii) a company shall not vary the terms of a scheme in any manner which may be detrimental to the interests of its employees:",
+      "Provided that a company may by special resolution in a general meeting vary the terms of a scheme offered pursuant to an earlier resolution but not yet exercised by its employees provided that such variation is not prejudicial to the interests of the option holders.",
+      "(2) There shall be a minimum period of one year between the grant of option and vesting of option.",
+      "(3) Where options are granted by a company under its scheme in lieu of options held by the same person under a scheme in another company, which has merged or amalgamated with the first mentioned company, the period during which the options granted by the merging or amalgamating company were held by him shall be adjusted against the minimum vesting period required under these regulations.",
+      "(4) A company shall have the freedom to specify the lock-in period for the shares issued pursuant to an exercise of option.",
+      "(5) An employee shall not have the right to receive any dividend or to vote or be entitled to rights of members in respect of option granted to him, till shares are issued to such employee on exercise of option.",
+      "(6) In case of failure to exercise the option, the options granted shall lapse and such lapsed options may be granted to other employees within a period of thirty days from the date of lapse.",
+      "(7) An option granted to an employee shall not be transferable to any other person except to an entitled employee of the company:",
+      "Provided that:",
+      ">>(i) in the event of death of an employee while in employment of a company, all options granted to him till the date of his death shall vest in his legal heirs or nominees;",
+      ">>(ii) in case an employee suffers a permanent incapacity while in employment of a company, all options granted to him, as on the date of permanent incapacitation, shall vest in him on that day;",
+      ">>(iii) in the event of resignation or termination of service of an employee, all options not vested as on that day shall expire. Provided, the employee shall, subject to the terms and conditions of the scheme, may be entitled to retain all the vested options.",
+      "(8) An option granted to an employee shall not be pledged, hypothecated, mortgaged or otherwise alienated in any other manner.",
+      "[(9) [Entitlement] {fn:18-94} pool is capped at 10% of the enhanced paid capital of the company in",
+      "a year; and 25% of the enhanced paid up capital of the company at any point in time.",
+      "Explanation: - For the purpose of this regulation, “Entitlement Pool” means number of shares that can be issued under an employee stock option scheme determined by the compensation committee and approved by the shareholders through special resolution.",
+      "(10) A l[omitted] {fn:18-95} company may raise its capital through issuance of employee stock",
+      "option scheme with the approval of the shareholders through special resolution passed in the general meeting.",
+      "(11) The [omitted] {fn:18-96} company shall comply with the requirements envisaged in the Act and",
+      "file the notice of increase in share capital with the registrar in line with the requirements of the Act.] {fn:18-97}"
+     ],
+     "fn": [
+      {
+       "n": "16-90",
+       "text": "Omitted the word “public” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "16-91",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "16-92",
+       "text": "Omitted the expression “of listed company” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "17-93",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      },
+      {
+       "n": "18-94",
+       "text": "Substituted for “In case of listed company, entitlement” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "18-95",
+       "text": "Omitted the word “listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "18-96",
+       "text": "Omitted the word “listed” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "18-97",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Scheme offered at the time of public offering",
+     "page": 18,
+     "text": [
+      "If any options granted to employees in pursuance of a scheme are outstanding at the time of IPO, the offering document shall disclose number of such outstanding options, exercise price, exercise period and impact on shareholding of the members in case all the outstanding options are exercised.",
+      "{fn:19-98}CHAPTER VIA",
+      "REGISTRATION AND VALUATION"
+     ],
+     "fn": [
+      {
+       "n": "19-98",
+       "text": "Chapter VIA ‘Registration and Valuation’ inserted through S.R.O. 1461(I)/2021 dated November 10, 2021"
+      }
+     ]
+    },
+    {
+     "no": "8A",
+     "title": "Registered Valuers",
+     "page": 19,
+     "text": [
+      "(1) Where valuation is required in respect of any property, stocks, shares, debentures, securities or goodwill or any other assets or net worth of a company or its liabilities under the provisions of this Act, the following persons shall be eligible to conduct the requisite valuation:",
+      ">(a) Consulting Engineers registered with Pakistan Engineering Council;",
+      ">(b) Practicing chartered accountants having satisfactory Quality Control Review awarded by the Institute of Chartered Accountants of Pakistan; and (c) Any other person as notified by the Commission.",
+      "(2) The valuers eligible under sub-regulation (1) shall also be deemed to be registered with the Commission and shall be entitled to conduct valuation as required under the Act, subject to fulfilment of the requirements of regulation 8A and 8B.",
+      "(3) All such valuers shall continue to be regulated, administered and monitored by the entities in which they are originally registered, and shall comply with all relevant rules, regulations, instructions etc. of such entities in addition to requirements of the Act.",
+      "Explanation: This Chapter VI-A shall not be applicable on valuers engaged in valuation of banking transactions, and such valuers shall continue to be regulated under the applicable laws."
+     ]
+    },
+    {
+     "no": "8B",
+     "title": "Qualification and Experience for Valuation",
+     "page": 19,
+     "text": [
+      "(1) Following valuers who are independent shall be eligible to conduct valuation: -",
+      ">(a) in respect of movable property i.e. plant and machinery, immovable property i.e. land, building etc., and natural resources & exploration thereof, by a valuer registered with the Pakistan Engineering Council as a Consulting Engineer;",
+      ">(b) in respect of stocks, shares, debentures, securities, net worth of a company or an undertaking, goodwill and other intangible assets, services, and liabilities, by a valuer who is a practicing chartered accountant having satisfactory Quality Control Review awarded by the Institute of Chartered Accountants of Pakistan; and",
+      ">(c) in respect of value of all other assets, not covered in clauses (a) and (b), by a valuer registered with the Pakistan Engineering Council as a consulting engineer having experience as a valuer of at least five years in the relevant field:",
+      "Explanation: To maintain independence and impartiality and to ensure true and fair valuation, the valuer shall not undertake valuation of any assets in which he has a direct or indirect interest or becomes so interested at any time before submission of the report.",
+      "(2) The valuation shall not be older than six months, or such other time period as may be notified by the Commission, from the date of submission to the registrar pursuant to section 70 of the Act in case of a right issue, and from the date of submission of application to the Commission in case of an issue otherwise than right pursuant to section 83(1)(b) of the Act.",
+      "(3) The relevant entity or agency, on its own motion or on the reference by the Commission, may initiate necessary action against the abovementioned eligible valuers for any misconduct or failure to perform professional duties in accordance with its rules and regulations, and may cancel the registration of such a valuer.",
+      "(4) Upon cancellation under sub-regulation (3), such valuer shall be deemed as deregistered and shall not be eligible to conduct any valuation for the purposes of the Act."
+     ]
+    },
+    {
+     "no": "8C",
+     "title": "Contents of valuation report",
+     "page": 20,
+     "text": [
+      "[ (1) In case the shares of a [omitted] {fn:20-99} company are",
+      "being issued against properties, building, plant, equipment, machinery etc. separate valuation of each asset is required and such valuation report shall include,-",
+      ">>(i) affidavit/undertaking from the valuer about title verification and physical existence of the asset;",
+      ">>(ii) in case of Land and building, purchase date, chronological transfer of property along with the value for which transferred, fresh Fard, comparison of at least 3 comparable properties, if any, justification/reasons why they are considered comparable; reasons in case no comparable property is available; NOCs from the Bank to ensure that they are free from encumbrance;",
+      ">>(iii) in case of building, plant, equipment, machinery, purchase date, chronological transfer of the building, plant, equipment, machinery; initial useful life; remaining useful life; in case initial useful [life] {fn:20-100} estimate has been revised",
+      "(detail and reason of such revision), repair/maintenance cost incurred; in case plant is bought from a foreign supplier, the date when the payment for purchase of plant etc. was made, the date when it reached in the country, reasons of time lag in the purchase payment and arrival date; requisite formal approvals from other regulatory bodies and reference to the record of funding for the purchase in relevant books of accounts; and",
+      ">>(iv) in case shares are being issued against intangible assets and services, the valuation should include affidavit/undertaking from the valuer about title verification of the asset; the methodology used and justification for the same.]101"
+     ],
+     "fn": [
+      {
+       "n": "20-99",
+       "text": "Omitted the word \"listed\" vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "20-100",
+       "text": "Substituted for the word “lime” vide S.R.O 361(I)/2024 dated March 04, 2024"
+      },
+      {
+       "n": "20-101",
+       "text": "Inserted vide S.R.O 1754(I)/2022 dated September 16, 2022"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — General Conditions, Reporting And Disclosure Requirements",
+   "sections": [
+    {
+     "no": "9",
+     "title": "General conditions",
+     "page": 21,
+     "text": [
+      "(1) The board shall not decide or recommend increase in capital by way of further issue of shares, beyond the authorized capital as stipulated in the memorandum and articles of association of the company or where resolution to give effect to such increase is passed by the members or to be passed by the members before any such increase.",
+      "(2) In case share capital of a company has different classes or kinds having different rights and privileges, this fact shall be distinctly mentioned in the letter of offer in case of right issue and the difference in the rights and privileges of each class of share capital shall be clearly stated in directors’ report to members."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Reporting",
+     "page": 21,
+     "text": [
+      "(1) [Omitted] {fn:21-102}",
+      "(2) [After issuance of right shares, the issuer shall include progress report on utilization of the proceeds of the right issue in its half yearly and annual financial statements containing the following:",
+      ">>(i) item-wise breakup of the proceeds utilized both in terms of amount and percentage of the total allocation made to the relevant item. The breakup must be provided in comparative form with the utilization plan earlier disclosed to the members;",
+      ">>(ii) deviation, if any, from the purpose or use of proceeds earlier disclosed to the members along-with justification for such deviation;",
+      ">>(iii) the progress report shall be included in the financial statements till such time that the proceeds from the right issue have been fully utilized or the purpose for which the proceeds were raised is achieved:",
+      "Provided that the statutory auditor of the issuer, shall submit half yearly report to the issuer regarding utilization of proceeds in the manner referred to in the final offer document. The issuer will include the report of the statutory auditor, along with its comments thereon, if any, in its half yearly and annual financial statements.] {fn:21-103}"
+     ],
+     "fn": [
+      {
+       "n": "21-102",
+       "text": "Following is omitted vide S.R.O 361(I)/2024 dated March 04, 2024 “(1) The company shall, within 30 days from the date of issue of shares, submit a report to the Commission clearly indicating the shares issued to: (i) directors; (ii) associated companies; (iii) other shareholders; and persons to whom unsubscribed shares are issued under sub-clause (iv) of clause (a) of sub-section (1) of section 83 of the Act.”"
+      },
+      {
+       "n": "21-103",
+       "text": "Substituted vide S.R.O 361(I)/2024 dated March 04, 2024 for the following “After issuance of right shares, the listed entity shall submit to the Commission progress report on utilization of the proceeds of the right issue on quarterly basis containing the following - (i) item-wise breakup of the proceeds utilized both in terms of amount and percentage of the total allocation made to the relevant item. The breakup must be provided in comparative form with the utilization plan earlier disclosed to the members; (ii) deviation, if any, from the purpose or use of proceeds earlier disclosed to the members along-with justification for such deviation; (iii) the progress report shall be continuously submitted till such time the proceeds from the right issue have been fully utilized or the purpose for which the proceeds were raised is achieved.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VIII — Miscellaneous",
+   "sections": [
+    {
+     "no": "11",
+     "title": "Penalty for contravention of Regulations",
+     "page": 22,
+     "text": [
+      "Whoever fails or refused to comply with, or contravenes any requirements of the regulations shall be punishable with penalty as provided under sub-section (2) of section 512 of the Act."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Repeal and Savings",
+     "page": 22,
+     "text": [
+      "(1) The Companies (Further Issue of Shares) Regulations, 2018, hereinafter referred to as the repealed regulations shall, upon coming into force of these regulations, stand repealed:",
+      "Provided that repeal of the repealed regulations shall not-",
+      ">>(i) revive anything not in force at the time at which the repeal take effect; or",
+      ">>(ii) affect the previous operation of the repealed instruments or anything duly done or suffered thereunder; or",
+      ">>(iii) affect any right, privilege, obligation or liability acquired, accrued or incurred under or in respect of the said repealed regulations; or",
+      ">>(iv) affect any penalty imposed, forfeiture made or punishment incurred in respect of any offence committed against or in violation of the repealed regulations; or",
+      ">>(v) affect any inspection, investigation, prosecution, legal proceeding or remedy in respect of any obligation, liability, penalty, forfeiture or punishment as aforesaid, and any such inspection, investigation, prosecution, legal proceedings or remedy may be made, continued or enforced and any such penalty, forfeiture or punishment may be imposed, as if these regulations has not been notified.",
+      "(2) Save as otherwise specifically provided, nothing in these regulations shall affect or deemed to affect any action taken, orders issued, relaxation granted unless withdrawn, fee paid or accrued, resolution passed, direction given under the repealed regulations shall, if in force at the effective date of these regulations and not inconsistent with provision of these regulations, shall continue to be in force and have effect as if it were respectively taken, made, directed, passed, given, executed or issued under these regulations."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Fees",
+     "page": 22,
+     "text": [
+      "{fn:22-104}[(1) A company shall, at the time of filing an application or submitting draft",
+      "offer document under these regulations, submit original challan or other evidence of payment of fees as specified under Schedule VII to the Companies Act, 2017 (XIX of 2017), if applicable.] {fn:22-105}"
+     ],
+     "fn": [
+      {
+       "n": "22-104",
+       "text": "Marginal heading “Fees” inserted vide S.R.O 64(I)/2026 dated January 13, 2026"
+      },
+      {
+       "n": "22-105",
+       "text": "Inserted vide S.R.O.1665(I)/2025 dated August 29, 2025"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "frontNotes": [
+  {
+   "n": "1-1",
+   "text": "Substituted for ’82 and 83’ vide S.R.O 1754(I)/2022 dated September 16, 2022"
+  }
+ ]
+}

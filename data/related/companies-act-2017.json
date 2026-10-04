@@ -76,73 +76,59 @@
   {
    "title": "Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2017",
    "type": "regulations",
+   "number": "S.R.O. 1240(I)/2017 (6 December 2017)",
+   "library": "companies-investment-associated-regulations-2017",
    "sections": [
     "199"
    ],
    "status": "in-force",
-   "secpPage": "regulations",
-   "basis": "Section 199(3) leaves the information to be given to members to regulations; these regulations carry it out.",
-   "confirm": [
-    "latest amended edition on SECP's Regulations page"
-   ],
-   "url": "https://www.secp.gov.pk/document/companies-investment-in-associated-companies-or-associated-undertakings-regulations-2017/",
-   "latest": "SECP's document page is dated 7 December 2017; no later consolidated edition found",
-   "found": {
+   "latest": "As made by S.R.O. 1240(I)/2017; listed 07/12/2017, no amended edition listed",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
-   }
+    "screenshot": "secp-regulations-investment-associated-2026-10-04.jpg"
+   },
+   "secpPage": "regulations",
+   "basis": "Made under section 512 read with section 199(3)(b) (recital).",
+   "url": "https://www.secp.gov.pk/document/companies-investment-in-associated-companies-or-associated-undertakings-regulations-2017/"
   },
   {
    "title": "Companies (Further Issue of Shares) Regulations, 2020",
    "type": "regulations",
+   "number": "S.R.O. 231(I)/2020 (16 March 2020)",
+   "library": "companies-further-issue-of-shares-regulations-2020",
    "sections": [
-    "83"
+    "58",
+    "82",
+    "83",
+    "83A"
    ],
    "status": "in-force",
-   "latest": "Updated to 13 January 2026 (after S.R.O. 64(I)/2026, S.R.O. 2458(I)/2025 and S.R.O. 1665(I)/2025)",
+   "latest": "Updated to 13 January 2026 (listed 03/02/2026)",
    "seen": {
     "date": "2026-10-04",
-    "screenshot": "secp-regulations-2026-10-04.webp"
+    "screenshot": "secp-regulations-further-issue-2026-10-04.jpg"
    },
    "secpPage": "regulations",
-   "basis": "Made under section 512(1); “further issue of shares” means an issue under section 83 (regulation 2).",
-   "confirm": [
-    "whether the regulations also carry out section 83A (employees’ stock options)"
-   ],
-   "amendments": [
-    "S.R.O. 1461(I)/2021",
-    "S.R.O. 361(I)/2024",
-    "S.R.O. 1665(I)/2025",
-    "S.R.O. 2458(I)/2025",
-    "S.R.O. 64(I)/2026"
-   ],
-   "url": "https://www.secp.gov.pk/document/the-companies-further-issue-of-shares-regulations-2020-updated-march-4-2024/",
-   "found": {
-    "date": "2026-10-04",
-    "how": "search-index"
-   }
+   "basis": "Made under section 512 read with sections 58, 82, 83 and 83A (recital).",
+   "url": "https://www.secp.gov.pk/document/the-companies-further-issue-of-shares-regulations-2020-updated-march-4-2024/"
   },
   {
    "title": "Companies (Postal Ballot) Regulations, 2018",
    "type": "regulations",
-   "sections": [],
+   "number": "S.R.O. 254(I)/2018 (22 February 2018)",
+   "library": "companies-postal-ballot-regulations-2018",
+   "sections": [
+    "134"
+   ],
    "status": "in-force",
-   "latest": "Amended up to 20 March 2025",
+   "latest": "Amended up to 20 March 2025 (listed 22/04/2025)",
    "seen": {
     "date": "2026-10-04",
-    "screenshot": "secp-regulations-2026-10-04.webp"
+    "screenshot": "secp-regulations-postal-ballot-2026-10-04.jpg"
    },
    "secpPage": "regulations",
-   "basis": "Listed on SECP's Regulations page.",
-   "confirm": [
-    "the enabling sections, from the regulations' preamble (made under section 512(1))"
-   ],
-   "number": "S.R.O. 254(I)/2018",
-   "url": "https://www.secp.gov.pk/document/the-companies-postal-ballot-regulations-2018-as-of-february-22-2023/",
-   "found": {
-    "date": "2026-10-04",
-    "how": "search-index"
-   }
+   "basis": "Made under section 512 read with section 134 (recital).",
+   "url": "https://www.secp.gov.pk/document/the-companies-postal-ballot-regulations-2018-as-of-february-22-2023/"
   },
   {
    "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
@@ -154,17 +140,17 @@
    "secpPage": "regulations",
    "basis": "Section 88(1) lets a company buy back its shares “subject to … the regulations specified in this behalf”. Unlisted companies are covered by the Companies Regulations, 2024.",
    "confirm": [
-    "whether SECP has posted an edition after 15 September 2022"
+    "download the Listed Companies 2019 regulations and the 2022 amendments (the file saved in the s.88 folder is the repealed Unlisted Companies Regulations, 2023)"
    ],
    "number": "S.R.O. 574(I)/2019",
-   "latest": "Updated 15 September 2022",
+   "latest": "Amendments listed 06/09/2022; consolidated “updated – July 2019” edition listed 17/08/2019",
    "amendments": [
     "S.R.O. 1494(I)/2021"
    ],
    "url": "https://www.secp.gov.pk/document/listed-companies-buyback-of-shares-regulations-2019-updated-15-september-2022/",
-   "found": {
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
+    "screenshot": "secp-regulations-buy-back-2026-10-04.jpg"
    }
   },
   {
@@ -189,26 +175,21 @@
   {
    "title": "Companies (Distribution of Dividends) Regulations, 2017",
    "type": "regulations",
+   "number": "S.R.O. 1145(I)/2017 (6 November 2017)",
+   "library": "companies-distribution-of-dividends-regulations-2017",
    "sections": [
     "242",
     "243"
    ],
    "status": "in-force",
-   "secpPage": "regulations",
-   "basis": "Made under section 512 read with sections 242 and 243 (SECP press release, 6 October 2017).",
-   "confirm": [
-    "latest consolidated edition after S.R.O. 122(I)/2022"
-   ],
-   "number": "S.R.O. 1145(I)/2017",
-   "amendments": [
-    "S.R.O. 1302(I)/2021",
-    "S.R.O. 122(I)/2022"
-   ],
-   "url": "https://www.secp.gov.pk/document/sro-1145i-2017-notification-to-the-companies-distribution-of-dividend-regulations-2017-amended-upto-april-18-2018/",
-   "found": {
+   "latest": "Consolidated to S.R.O. 809(I)/2022 of 16 June 2022, the latest amendment on SECP's Notifications page (listed 21/06/2022)",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
-   }
+    "screenshot": "secp-notifications-dividends-2026-10-04.jpg"
+   },
+   "secpPage": "notifications",
+   "basis": "Made under section 512 read with sections 242 and 243 (recital).",
+   "url": "https://www.secp.gov.pk/document/sro-1145i-2017-notification-to-the-companies-distribution-of-dividend-regulations-2017-amended-upto-april-18-2018/"
   },
   {
    "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
@@ -220,54 +201,51 @@
    "secpPage": "regulations",
    "basis": "Section 218 lets employees’ funds invest “subject to the conditions as may be specified”.",
    "confirm": [
-    "latest amended edition (a draft amendment was published as S.R.O. 998(I)/2019)"
+    "download the “updated – July 2019” edition; the copy saved is the 2018 text as made"
    ],
    "url": "https://www.secp.gov.pk/wp-content/uploads/2018/06/Press-Release-June-12-EMPLOYEE%E2%80%99S-CONTRIBUTORY-FUNDS-INVESTMENT-IN-LISTED-SECURITIES-REGULATIONS-2018.pdf",
-   "found": {
+   "number": "Gazette of 6 June 2018 (S.R.O. number left blank in the copy saved; drafts were S.R.O. 34(I)/2018 and 435(I)/2018)",
+   "latest": "Updated – July 2019 (listed 17/08/2019); amendments listed 26/04/2019 and 26/07/2019",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
+    "screenshot": "secp-regulations-ecf-2026-10-04.jpg"
    }
   },
   {
    "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
    "type": "regulations",
-   "sections": [],
+   "number": "S.R.O. 1163(I)/2019 (25 September 2019)",
+   "library": "listed-companies-ccg-regulations-2019",
+   "sections": [
+    "156"
+   ],
    "status": "in-force",
-   "secpPage": "regulations",
-   "basis": "Governance of listed companies.",
-   "confirm": [
-    "the enabling sections, from the regulations' preamble"
-   ],
-   "number": "S.R.O. 1163(I)/2019",
-   "latest": "Amended up to 20 March 2025 (posted 21 April 2025)",
-   "amendments": [
-    "S.R.O. 906(I)/2023",
-    "S.R.O. 920(I)/2024"
-   ],
-   "url": "https://www.secp.gov.pk/document/listed-companies-code-of-corporate-governance-regulations-2019-amended-up-to-march-20-2025/",
-   "found": {
+   "latest": "Amended up to 20 March 2025 (listed 22/04/2025)",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
-   }
+    "screenshot": "secp-regulations-ccg-2026-10-04.jpg"
+   },
+   "secpPage": "regulations",
+   "basis": "Made under section 156 read with section 512 (recital).",
+   "url": "https://www.secp.gov.pk/document/listed-companies-code-of-corporate-governance-regulations-2019-amended-up-to-march-20-2025/"
   },
   {
    "title": "Shariah Governance Regulations, 2023",
    "type": "regulations",
+   "number": "S.R.O. 1314(I)/2023 (14 September 2023)",
+   "library": "shariah-governance-regulations-2023",
    "sections": [
     "451"
    ],
    "status": "in-force",
-   "secpPage": "regulations",
-   "basis": "Section 451 requires Shariah compliance to be certified “in such form and manner as may be specified”; these regulations replaced the Shariah Governance Regulations, 2018.",
-   "confirm": [
-    "S.R.O. number and any later amendments"
-   ],
-   "latest": "Posted by SECP on 20 September 2023",
-   "url": "https://www.secp.gov.pk/document/shariah-governance-regulations-2023-2/",
-   "found": {
+   "latest": "As made; draft amendments published by S.R.O. 802(I)/2026 (listed 06/05/2026), not yet notified",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
-   }
+    "screenshot": "secp-notifications-shariah-2026-10-04.jpg"
+   },
+   "secpPage": "notifications",
+   "basis": "Made under section 512 read with section 451 (recital).",
+   "url": "https://www.secp.gov.pk/document/shariah-governance-regulations-2023-2/"
   },
   {
    "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
@@ -276,63 +254,69 @@
     "509"
    ],
    "status": "in-force",
-   "secpPage": "rules",
+   "secpPage": "notifications",
    "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024.",
    "confirm": [
-    "latest amended edition"
-   ]
+    "an official PDF of the rules amended up to 1 July 2019 (only a Word file was saved)"
+   ],
+   "latest": "Last amendment notified by S.R.O. 715(I)/2019 (listed 03/07/2019); draft amendments S.R.O. 124(I)/2020 not notified",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-notifications-psc-rules-2026-10-04.jpg"
+   }
   },
   {
    "title": "Unclaimed Shares, Modaraba Certificates, Dividend, Other Instruments and Undistributed Assets Regulations, 2017",
    "type": "regulations",
-   "number": "S.R.O. 1013(I)/2017",
+   "number": "S.R.O. 1013(I)/2017 (6 October 2017)",
+   "library": "unclaimed-shares-regulations-2017",
    "sections": [
-    "244"
+    "244",
+    "417"
    ],
    "status": "in-force",
-   "secpPage": "regulations",
-   "basis": "Section 244 vests unclaimed shares and dividends “having such nature and for such period as may be specified”.",
-   "url": "https://www.secp.gov.pk/document/sro-1013-i2017-the-unclaimed-shares-modaraba-certificates-dividend-other-instruments-and-undistributed-assets-regulations-2017/",
-   "found": {
+   "latest": "As made; listed 11/10/2017, no amended edition listed",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
+    "screenshot": "secp-regulations-unclaimed-2026-10-04.jpg"
    },
-   "confirm": [
-    "latest amended edition"
-   ]
+   "secpPage": "regulations",
+   "basis": "Made under section 512 read with sections 244 and 417 (recital).",
+   "url": "https://www.secp.gov.pk/document/sro-1013-i2017-the-unclaimed-shares-modaraba-certificates-dividend-other-instruments-and-undistributed-assets-regulations-2017/"
   },
   {
    "title": "Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020",
    "type": "regulations",
+   "number": "S.R.O. 1336(I)/2020 (14 December 2020)",
+   "library": "companies-cost-accounts-regulations-2020",
    "sections": [
-    "512"
+    "220",
+    "250"
    ],
    "status": "in-force",
-   "secpPage": "regulations",
-   "basis": "SECP orders under these regulations are passed “under section 512 of the Companies Act, 2017”.",
-   "found": {
+   "latest": "As made; draft amendments published by S.R.O. 1136(I)/2024 (listed 07/08/2024), not yet notified",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
+    "screenshot": "secp-notifications-cost-accounts-2026-10-04.jpg"
    },
-   "confirm": [
-    "the sections they carry out, from the preamble",
-    "latest amended edition"
-   ]
+   "secpPage": "notifications",
+   "basis": "Made under section 512(1) read with the first proviso to section 220(1) and section 250(1) (recital)."
   },
   {
    "title": "S.R.O. 1300(I)/2018 — issue of securities and redeemable capital not based on interest",
    "type": "notification",
+   "number": "S.R.O. 1300(I)/2018 (25 October 2018)",
+   "library": "sro-1300-2018-section-66",
    "sections": [
     "66"
    ],
    "status": "in-force",
    "secpPage": "notifications",
-   "basis": "Notification under section 66.",
-   "url": "https://www.secp.gov.pk/document/sro-1300-i-2018-notification-under-section-66-of-the-companies-act-2017-issue-of-securities-and-redeemable-capital-not-based-on-interest/",
-   "found": {
-    "date": "2026-10-04",
-    "how": "search-index"
-   }
+   "basis": "Made under section 510 read with section 66 (recital).",
+   "confirm": [
+    "SECP listing (no screenshot yet)"
+   ],
+   "url": "https://www.secp.gov.pk/document/sro-1300-i-2018-notification-under-section-66-of-the-companies-act-2017-issue-of-securities-and-redeemable-capital-not-based-on-interest/"
   },
   {
    "title": "Investor Education and Awareness Fund",
@@ -341,16 +325,57 @@
     "245"
    ],
    "status": "in-force",
-   "secpPage": "rules",
+   "secpPage": "notifications",
    "basis": "Section 245 requires the fund to be managed “as may be prescribed through rules”; SECP announced the fund's establishment in a press release.",
    "url": "https://www.secp.gov.pk/media-center/press-releases/secp-establishes-investor-education-and-awareness-fund-under-companies-act-2017/",
+   "confirm": [
+    "whether final rules were ever notified (SECP press release of 10 July 2017 says the Fund was established)"
+   ],
+   "latest": "Only the draft Investor Education and Awareness Fund Rules, 2017 (S.R.O. 474(I)/2017, listed 16/06/2017) is listed",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-notifications-ieaf-2026-10-04.jpg"
+   }
+  },
+  {
+   "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
+   "type": "regulations",
+   "number": "S.R.O. 556(I)/2018",
+   "sections": [
+    "166"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 166 provides for the manner of selection of independent directors and the databank; SECP lists these regulations by this title.",
+   "confirm": [
+    "the enabling sections, from the recital",
+    "latest amended edition on SECP's Regulations page"
+   ],
+   "url": "https://www.secp.gov.pk/document/sro-556-i-2018-notification-to-the-companies-manner-selection-of-independent-directors-regulations-2018/",
    "found": {
     "date": "2026-10-04",
     "how": "search-index"
-   },
+   }
+  },
+  {
+   "title": "Auditors (Reporting Obligations) Regulations, 2018",
+   "type": "regulations",
+   "number": "S.R.O. 558(I)/2018",
+   "sections": [
+    "249"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Likely made under section 249 (duties of auditor); SECP also lists an amending notification, S.R.O. 269(I)/2020.",
    "confirm": [
-    "the title and S.R.O. of the rules"
-   ]
+    "the enabling sections, from the recital",
+    "latest amended edition after S.R.O. 269(I)/2020"
+   ],
+   "url": "https://www.secp.gov.pk/document/sro-558-i-2018-notification-to-auditors-reporting-obligations-regulations-2018/",
+   "found": {
+    "date": "2026-10-04",
+    "how": "search-index"
+   }
   },
   {
    "title": "Companies (Incorporation) Regulations, 2017",
@@ -407,12 +432,18 @@
   {
    "title": "Unlisted Companies (Buy-Back of Shares) Regulations, 2023",
    "type": "regulations",
+   "number": "S.R.O. 1441(I)/2023 (12 October 2023)",
+   "library": "unlisted-companies-buy-back-regulations-2023",
    "sections": [
     "88"
    ],
    "status": "repealed",
    "replacedBy": "companies-regulations-2024",
-   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-regulations-buy-back-2026-10-04.jpg"
+   },
+   "basis": "Made under section 512(1) read with sections 88 and 458A (recital); repealed by regulation 148(1)(vii) of the Companies Regulations, 2024."
   },
   {
    "title": "Foreign Companies Regulations, 2018",
@@ -421,6 +452,143 @@
    "status": "repealed",
    "replacedBy": "companies-regulations-2024",
    "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+  },
+  {
+   "title": "Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2012",
+   "type": "regulations",
+   "number": "S.R.O. 27(I)/2012",
+   "sections": [
+    "199"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-investment-associated-regulations-2017",
+   "basis": "Repealed by regulation 9 of the 2017 Regulations."
+  },
+  {
+   "title": "Companies (Further Issue of Shares) Regulations, 2018",
+   "type": "regulations",
+   "sections": [
+    "83"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-further-issue-of-shares-regulations-2020",
+   "basis": "Repealed by regulation 12 of the 2020 Regulations."
+  },
+  {
+   "title": "Companies (E-Voting) Regulations, 2016",
+   "type": "regulations",
+   "number": "S.R.O. 43(I)/2016",
+   "sections": [
+    "134"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-postal-ballot-regulations-2018",
+   "basis": "Repealed by regulation 12 of the Postal Ballot Regulations, 2018."
+  },
+  {
+   "title": "Listed Companies (Code of Corporate Governance) Regulations, 2017",
+   "type": "regulations",
+   "sections": [],
+   "status": "repealed",
+   "replacedBy": "listed-companies-ccg-regulations-2019",
+   "basis": "Repealed by regulation 39 of the 2019 Regulations."
+  },
+  {
+   "title": "Shariah Advisors Regulations, 2017",
+   "type": "regulations",
+   "sections": [
+    "451"
+   ],
+   "status": "repealed",
+   "replacedBy": "shariah-governance-regulations-2023",
+   "basis": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023."
+  },
+  {
+   "title": "Shariah Governance Regulations, 2018",
+   "type": "regulations",
+   "sections": [
+    "451"
+   ],
+   "status": "repealed",
+   "replacedBy": "shariah-governance-regulations-2023",
+   "basis": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023."
+  },
+  {
+   "title": "Companies (Audit of Cost Accounts) Rules, 1998",
+   "type": "rules",
+   "sections": [
+    "220",
+    "250"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-cost-accounts-regulations-2020",
+   "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
+  },
+  {
+   "title": "Vegetable Ghee and Cooking Oil Companies (Cost Accounting Records) Order, 1990",
+   "type": "order",
+   "sections": [
+    "220",
+    "250"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-cost-accounts-regulations-2020",
+   "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
+  },
+  {
+   "title": "Cement Industry (Cost Accounting Records) Order, 1994",
+   "type": "order",
+   "sections": [
+    "220",
+    "250"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-cost-accounts-regulations-2020",
+   "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
+  },
+  {
+   "title": "Sugar Industry (Cost Accounting Records) Order, 2001",
+   "type": "order",
+   "sections": [
+    "220",
+    "250"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-cost-accounts-regulations-2020",
+   "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
+  },
+  {
+   "title": "Chemical Fertilizer Industry (Cost Records) Order, 2012",
+   "type": "order",
+   "sections": [
+    "220",
+    "250"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-cost-accounts-regulations-2020",
+   "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
+  },
+  {
+   "title": "Synthetic and Rayon Companies (Cost Records) Order, 2012",
+   "type": "order",
+   "sections": [
+    "220",
+    "250"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-cost-accounts-regulations-2020",
+   "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
+  },
+  {
+   "title": "Electric Power Generation Industry (Cost Records) Order 2015",
+   "type": "order",
+   "sections": [
+    "220",
+    "250"
+   ],
+   "status": "repealed",
+   "replacedBy": "companies-cost-accounts-regulations-2020",
+   "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
   }
  ]
 }
