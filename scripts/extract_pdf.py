@@ -237,7 +237,14 @@ def line_text(l, bs):
 
 def section_start(l, bs, untitled=False):
     """If the line begins a provision, return (number, heading, lead, rest_of_line)."""
-    spans = [s for s in l.spans if s["text"].strip()]
+    spans = []
+    for s in l.spans:
+        if not s["text"].strip():
+            continue
+        prev = l.spans[l.spans.index(s) - 1] if spans else None
+        if prev is not None and prev["text"].isspace() and not spans[-1]["text"][-1:].isspace() and not s["text"][:1].isspace():
+            s = dict(s, text=" " + s["text"])  # keep a word break set as a separate space span, e.g. bold "Conditions for" + " " + bold "Policy"
+        spans.append(s)
     i = 0
     lead = ""
     while i < len(spans) and (is_ref(spans[i], bs) or spans[i]["text"].strip() in ("[", "[[", "“", "[“", "\"", "{")):
@@ -840,6 +847,9 @@ def extract(entry):
                 or (level is not None and not prev_open)
                 or re.match(r"^\[?(Provided|Explanation|Illustration)", plain)
             )
+            if new_page and starts_para and level is None and plain[:1].islower() \
+                    and re.search(r"[^;,:\s]\s+(and|or)\s*$", prev_txt):
+                starts_para = False  # "Any diplomat or" | next page "diplomatic mission ...": a sentence, not a list item
             if entry.get("lowercaseContinues") and starts_para and level is None and prev_txt \
                     and not re.match(r"^\[?(Provided|Explanation|Illustration|Note)", plain) \
                     and not re.search(r"[.:;—–\-]\]*\s*(\{fn:[^}]+\})*\]*$", prev_txt):

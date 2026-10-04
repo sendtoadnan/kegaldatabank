@@ -1,0 +1,156 @@
+{
+ "id": "companies-rpt-regulations-2018",
+ "title": "Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018",
+ "number": "S.R.O. 1194(I)/2018",
+ "type": "regulations",
+ "unit": "Regulation",
+ "parent": "companies-act-2017",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "RPT Regulations",
+  "RPT Regulations 2018",
+  "Related Party Transactions Regulations"
+ ],
+ "enacted": "2018-10-02",
+ "lastAmended": "2018-10-02",
+ "amendedUpToLabel": "2 October 2018 (S.R.O. 1194(I)/2018, as made)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "related-party-transactions-regulations-2018.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 2 October 2018 (S.R.O. 1194(I)/2018, as made). Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, commencement and application",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018.",
+      "(2) They shall come into force at once except for regulation 7, which shall come into force on 1st January, 2019."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, –",
+      ">(a) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">(b) “Annexure” means annexures appended to these regulations;",
+      ">(c) “key managerial personnel”, in relation to a company, means—",
+      ">>(i) the chief executive or the managing director or the manager;",
+      ">>(ii) the company secretary;",
+      ">>(iii) the whole-time director; and",
+      ">>(iv) the chief financial officer;",
+      ">(d) “manager” means an individual who, subject to the superintendence, control and direction of the board, has the management of the whole of the affairs of a company, and includes a director or any other person, by whatever name called, whether under a contract of service or not.",
+      "(2) Words and expressions used but not defined in these regulations shall, unless there is anything repugnant in the subject or context, have the same meanings as assigned to them in the Act, the Securities Act, 2015 (III of 2015) or the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Conditions for Policy of related party transactions",
+     "page": 1,
+     "text": [
+      "(1) Subject to the requirements of section 208 of the Act, the policy approved by the board shall be subject to the following minimum conditions, namely:-",
+      ">(a) minimum information required for the related parties with whom transactions are to be made including nature of related party relationship at the time of approval in board meetings or general meetings;",
+      ">(b) limitations or conditions that may be applicable in case of certain or particular related party transactions;",
+      ">(c) potential risks of related party transactions and mitigating measures;",
+      ">(d) procedure to be followed in case of failure to present related party transactions for approval by the appropriate forum within prescribed time; and",
+      ">(e) pricing policy.",
+      "(2) Sub-regulation (1) shall not be applicable on related party transactions entered into by a company in its ordinary course of business on an arm‘s length basis."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Conditions for transactions with related parties to be characterized as “arm’s length transactions”",
+     "page": 2,
+     "text": [
+      "Subject to the requirements of section 208 of the Act, a transaction between related parties shall be characterized as an “arm’s length transaction”, only if it is carried out in a way, as if-",
+      ">(a) the parties to the transaction were unrelated in any way;",
+      ">(b) the parties were free from any undue influence, control or pressure;",
+      ">(c) through its relevant decision-makers, each party was sufficiently knowledgeable about the circumstances of the transaction, sufficiently experienced in business and sufficiently well advised to be able to form a sound business judgement as to what was in its interests; and",
+      ">(d) each party was concerned only to achieve the best available commercial result for itself in all the circumstances."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Approval of related party transactions",
+     "page": 2,
+     "text": [
+      "(1) The board shall approve related party transactions that require its approval and the following minimum information shall be circulated and disclosed to the directors along with agenda for board’s meeting called for approval of related party transactions,-",
+      ">(a) name of related party;",
+      ">(b) names of the interested or concerned persons or directors;",
+      ">(c) nature of relationship, interest or concern along with complete information of financial or other interest or concern of directors, managers or key managerial personnel in the related party;",
+      ">(d) detail, description, terms and conditions of transactions;",
+      ">(e) amount of transactions;",
+      ">(f) timeframe or duration of the transactions or contracts or arrangements;",
+      ">(g) pricing policy;",
+      ">(h) recommendations of the audit committee, where applicable; and",
+      ">(i) any other relevant and material information that is necessary for the board to make a well informed decision regarding the approval of related party transactions.",
+      "(2) In case approval of members is required for related party transactions, the information provided under sub-regulation (1) shall be provided to the member in the statement of material facts in terms of section 134 of the Act attached to the notice of the general meeting called for approval of the members for related party transactions."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Responsibility of Board",
+     "page": 3,
+     "text": [
+      "The board shall ensure-",
+      ">(a) to educate and train management and relevant employees so that they can identify and report the related party transactions to the board or other authorized persons;",
+      ">(b) to provide direction as to whom a director or employee can consult, in case where they are uncertain if a transaction is a related party transaction or not;",
+      ">(c) to set general criteria to approve transactions or arrangement with related parties at various levels;",
+      ">(d) to identify and determine whether a related party transaction requires members’ approval;",
+      ">(e) that any related party transactions that require members’ approval are put before members;",
+      ">(f) to fix the responsibility for identification and disclosure of related party transactions; and",
+      ">(g) that the company meets its legal and regulatory obligations in relation to related party transactions."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Record to be maintained of related party transactions and contracts or arrangements in which directors are interested",
+     "page": 3,
+     "text": [
+      "(1) Subject to the requirements of sections 208 and 209 of the Act, every company shall maintain at its registered office, one or more registers with regards to transactions undertaken with related parties and contracts or arrangements in which directors are interested, in the forms specified in annexure - I to these regulations, and shall enter therein the particulars of—",
+      ">(a) contracts or arrangements, in which any director is, directly or indirectly, concerned or interested, as mentioned under section 205 of the Act; and",
+      ">(b) contracts or arrangements with a related party with respect to transactions to which section 208 of the Act applies.",
+      "(2) The entries in the register shall be made in chronological order and shall be authenticated through signatures by the company secretary or by any other person authorised by the board in this behalf.",
+      "(3) The company shall keep all the contracts, agreements and instruments in respect of transactions or arrangements with related parties at its registered office.",
+      "(4) The register and record shall be kept in the custody of the company secretary or any other person authorised by the board in this behalf and it shall be preserved in good order.",
+      "(5) The company shall provide extracts from such register to a member of the company on his request, within seven days from the date on which such request is made upon the payment of such fee as may be specified in the articles of the company but not exceeding ten rupees per page."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Other information to be disclosed by directors",
+     "page": 4,
+     "text": [
+      "(1) Pursuant to the provisions of sub-section (2) of section 209 of the Act, a director shall provide information to the company in the form specified in annexure - II to these regulations.",
+      "(2) The director giving notice of the interest under sub-regulation (1) shall cause it to be disclosed at the meeting of the board held immediately after the date of the notice.",
+      "(3) All such notices shall be kept at the registered office in the custody of the company secretary or any other person authorised by the board in this behalf and shall be preserved in good order."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure-I — Register of contracts or arrangements with related party or in which directors are interested",
+   "page": 5
+  },
+  {
+   "title": "Annexure-II — Notice of interest by director",
+   "page": 6
+  }
+ ]
+}

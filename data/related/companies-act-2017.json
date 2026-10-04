@@ -170,25 +170,21 @@
   {
    "title": "Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018",
    "type": "regulations",
+   "number": "S.R.O. 1194(I)/2018 (2 October 2018)",
+   "library": "companies-rpt-regulations-2018",
    "sections": [
-    "208"
+    "208",
+    "209"
    ],
    "status": "in-force",
-   "secpPage": "regulations",
-   "basis": "Section 208 subjects related party transactions to “such conditions as may be specified”.",
-   "confirm": [
-    "latest amended edition on SECP's Regulations page",
-    "whether they also carry out section 209"
-   ],
-   "number": "S.R.O. 768(I)/2018",
-   "amendments": [
-    "S.R.O. 1194(I)/2018"
-   ],
-   "url": "https://www.secp.gov.pk/document/sro-768i-2018-notification-of-the-related-party-transactions-regulations-2018/",
-   "found": {
+   "latest": "As made by S.R.O. 1194(I)/2018 of 2 October 2018 (draft published as S.R.O. 768(I)/2018 of 13 June 2018); no amended edition listed",
+   "seen": {
     "date": "2026-10-04",
-    "how": "search-index"
-   }
+    "screenshot": "secp-regulations-rpt-2026-10-04.png"
+   },
+   "secpPage": "regulations",
+   "basis": "Made under section 512 read with sections 208 and 209 (recital to S.R.O. 1194(I)/2018).",
+   "url": "https://www.secp.gov.pk/document/sro-1194-i-2018-notification-to-related-party-transactions-and-maintenance-of-related-recordsrpt-regulations-2018/"
   },
   {
    "title": "Companies (Distribution of Dividends) Regulations, 2017",
