@@ -1,0 +1,790 @@
+{
+ "id": "shariah-governance-regulations-2023",
+ "title": "Shariah Governance Regulations, 2023",
+ "number": "S.R.O. 1314(I)/2023",
+ "type": "regulations",
+ "unit": "Regulation",
+ "parent": "companies-act-2017",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "SGR 2023",
+  "Shariah Governance Regulations"
+ ],
+ "enacted": "2023-09-14",
+ "lastAmended": "2023-09-14",
+ "amendedUpToLabel": "14 September 2023 (S.R.O. 1314(I)/2023, as made)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "shariah-governance-regulations-2023.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 14 September 2023 (S.R.O. 1314(I)/2023, as made). Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Shariah Governance Regulations, 2023.",
+      "(2) They shall come into force at once.",
+      "(3) The provisions of these regulations shall be in addition to and not in derogation of any other regulation in the matters concerning declaration of any company or security as Shariah compliant company and Shariah compliant security, respectively."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, –",
+      ">(a) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">(b) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(c) “Form” means forms appended to these regulations;",
+      ">(d) “Islamic financial institution” means a company, entity or institution offering Islamic financial services as a main business activity, including but not limited to the following; i) an NBFI, as defined in clause (n) of sub-section (1) of section 2 of the SECP Act, 1997; ii) a regulated person, as defined in clause (pb) of sub-section (1) of section 2 of the SECP Act, 1997; iii) a financial institution as defined in clause (31) of sub-section (1) of section 2 of the Act; and iv) any other type of company, entity or institution, as may be notified by the Commission from time to time, but shall not include a banking company as defined in clause (c) of section 5 of the Banking Companies Ordinance, 1962 (LVII of 1962) or any other company, entity or institution regulated by the State Bank of Pakistan;",
+      ">(e) “Islamic financial services” includes Shariah compliant financial products and other financial services offered by Islamic financial institution under the SECP Act, 1997 or any administered legislation in accordance with Shariah principles and rules;",
+      ">(f) “Issuer” shall have the same meaning as assigned to it in clause (xxvii) of section 2 of the Securities Act, 2015 (III of 2015);",
+      ">(g) “Registered person” means a person registered under these regulations as resident member of the Shariah supervisory board or the Shariah advisor and include a deemed registered Shariah advisor;",
+      ">(h) “Schedule” means schedule appended to these regulations;",
+      ">(i) “Securities exchange” shall have the same meaning as assigned to it in clause (62) of sub-section (1) of section 2 of the Act;",
+      ">(j) “Shariah principles and rules” means requirements, standards, rulings or permissions, pertaining to Islamic financial services, derived from the following, - i). legal and regulatory framework administered by the Commission; ii). Shariah standards issued by the Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI), as notified by Commission; iii). Islamic Financial Accounting Standards, developed by the Institute of Chartered Accountants of Pakistan, as notified by the Commission; iv). guidance and recommendations of the Shariah advisory committee, as notified by Commission; and v). approvals, rulings or pronouncements of the Shariah supervisory board or the Shariah advisor of the Islamic financial institution, in line with (i) to (iv) above;",
+      ">(k) \"Shariah compliant company\" means a company as defined in clause (64) of subsection (1) of section 2 of the Act and declared as a Shariah compliant company under sub-section (1) of section 451 of the Act and these regulations;",
+      ">(l) \"Shariah compliant security\" means a security declared as a Shariah compliant security under sub-section (2) of section 451 of the Act, and these regulations;",
+      ">(m) “Shariah advisory committee” means the Shariah advisory committee constituted by the Commission under section 11A of the SECP Act, 1997 to advise the Commission on Shariah related matters;",
+      ">(n) “Shariah supervisory services” includes services relating to Shariah compliance, Shariah advisory or Shariah audit;",
+      ">(o) “Shariah opinion” means fatwa, ruling, pronouncement or certificate issued in light of Shariah principles and rules and in such form and manner, as provided in these regulations;",
+      ">(p) “Shariah review report” means a review report issued by the Shariah supervisory board or the Shariah advisor under these regulations; and",
+      ">(q) “Shariah supervisory board” means a board constituted, appointed or engaged by the Islamic financial institution to advise it on matters concerning Shariah principles and rules.",
+      "(2) Words and expressions used but not defined in these regulations shall have the same meanings as are assigned to them in the Act or applicable administered legislation."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Certification Of Shariah Compliant Companies",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Certification of a Shariah compliant company",
+     "page": 3,
+     "text": [
+      "For the purposes of sub-section (1) of section 451 of the Act, every company shall, prior to claiming to be a Shariah compliant company, by whatever name called, obtain a declaration in the form of a Shariah compliance certificate from the Commission in accordance with the provisions of these regulations.",
+      "Explanation, - For the purposes of this regulation, the term “Shariah compliant company” shall, subject to section 451 of the Act, include without limitation, the term “Islamic company”, “Islamic institution” or a “Shariah compliant institution”.",
+      "Provided that a dedicated Takaful company registered as insurer under the Insurance Ordinance, 2000 and authorised as a takaful operator under the Takaful Rules, 2012 shall deemed to be a Shariah compliant company. However, in the case of window takaful operations, the insurance company will only be considered Shariah compliant to the extent of its window takaful operations.",
+      "Provided further that, the company referred in the first proviso, shall comply with the requirements of these regulations except in so far as the said requirements are inconsistent with the provisions of the Insurance Ordinance, 2000 (XXXIX of 2000) and rules and regulations made thereunder."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Grant of Shariah compliance certificate to a company",
+     "page": 3,
+     "text": [
+      "(1) Any company desirous of obtaining a declaration in the form of a Shariah compliance certificate shall make an application to the Commission, as set out in Form A, along with documents as mentioned therein and receipt evidencing the payment of non-refundable processing fee, as prescribed in Schedule I.",
+      "(2) The Commission, while considering an application made to it under sub-regulation (1) shall have regard to the nature of business activities and operations, source of income, investments, and borrowing of the company in addition to Shariah screening criteria notified under these regulations and other requirements as provided in these regulations and any other additional requirements, as may be stipulated by the Commission, from time to time. The Commission may, while considering an application under this regulation, may also require the applicant to furnish such additional information, clarification, or documents as it deems appropriate.",
+      "(3) The Commission may, if it is satisfied that the company seeking Shariah compliance certificate, has fulfilled the requirements, may grant a declaration in form of a Shariah compliance certificate on the format as set out in Form B.",
+      "Provided that the Commission may at any time impose, vary or revoke such restrictions or conditions as it may require.",
+      "(4) A company declared as Shariah compliant by the Commission under this regulation, shall;",
+      ">(a) admit that raising loans on interest is prohibited, whatsoever the amount, and it shall endeavour to settle the interest-bearing loan at the earliest possible time and shall not take any further interest-based loan in ordinary course of business.",
+      "Provided that in case of a dire need, such loans may be raised with specific approval of the Shariah supervisory board or the Shariah advisor, as the case may be and the board of directors with complete disclosure in the annual financial statements and annual report;",
+      ">(b) admit that any interest-based investment is prohibited, whatsoever the amount, and it shall endeavour to dispose of the same and not make any further interestbased investments; and",
+      ">(c) make concerted efforts to eliminate any prohibited elements from its income, operations, assets, and liabilities;",
+      "(5) A company declared as Shariah compliant by the Commission under this regulation shall divest the Shariah non-compliant investments above the quantitative tolerance levels, and any such Shariah compliant investments that may subsequently become Shariah noncompliant, in a manner and within such time period, as may be determined by its Shariah supervisory board or the Shariah advisor, as the case may be.",
+      "(6) The company referred in sub-regulation (5) shall, with approval of its Shariah supervisory board or the Shariah advisor, as the case may be, implement a policy for purification of its income and disbursement of Shariah non-compliant income, as charity.",
+      "(7) The Shariah compliance certificate granted under sub-regulation (3), shall remain valid unless voluntarily surrendered by the company or suspended or cancelled by the Commission, whichever is earlier."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Scope of Shariah compliance certificate",
+     "page": 4,
+     "text": [
+      "The scope of Shariah compliance certificate granted under regulation 4 shall be limited to the requirements as applicable and provided for in these regulations."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Refusal for grant of Shariah compliance certificate",
+     "page": 4,
+     "text": [
+      "(1) In case where an incomplete application is made under sub-regulation (1) of regulation 4 and the deficient information or documents have not been provided to the Commission within thirty days of application or communication of deficiencies, the said application shall be closed without any further notice.",
+      "(2) In case where a complete application is submitted under sub-regulation (1) of regulation 4, the Commission may, after providing a reasonable opportunity of representation to the applicant, refuse to grant a Shariah compliance certificate if, in the Commission's opinion, the applicant does not meet the requirements stipulated in these regulations or if, after considering the facts, the Commission determines that it is not in the public interest to grant such a certificate.",
+      "(3) The applicant, being aggrieved by the decision of the Commission under sub-regulation (2), may appeal to the Commission, within a period of thirty days of the date of refusal.",
+      "(4) The Commission shall, provide opportunity of hearing to the parties concerned and may, by an order in writing, communicate its finding to the applicant."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Certification Of Shariah Compliant Securities",
+   "sections": [
+    {
+     "no": "7",
+     "title": "Shariah compliance certificate for securities",
+     "page": 5,
+     "text": [
+      "(1) For the purposes of sub-section (2) of section 451 of the Act, every person, before claiming that a security is Shariah compliant, shall obtain a declaration in the form of a Shariah compliance certificate under these regulations as per the following process:",
+      ">(a) Before issuing a Shariah compliant security, an issuer shall make an application under regulation 8 to the Commission.",
+      "Provided that (i) certificate of Modarabas floated with authorization of the Registrar, under section 10 of the Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980;",
+      ">>(ii) shares of a company registered as insurer under the Insurance Ordinance, 2000 and authorised as a takaful operator under the Takaful Rules, 2012;",
+      ">>(iii) units of Islamic Collective Investment Schemes that has been approved by the Commission under regulation 54 of NBFC Regulations, 2008 before promulgation of these regulations; and",
+      ">>(iv) units of Islamic pension fund that has been approved by the Commission under rule 9 of the Voluntary Pension System Rules, 2005 before promulgation of these regulations;",
+      "shall be deemed to be Shariah Compliant security and shall not be required to obtain a Shariah compliance certificate as referred to in sub-regulation (2); and",
+      ">(b) Any person, other than the issuer, claiming a security to be Shariah compliant, shall seek and obtain approval of the Commission under regulation 9 before making such claim.",
+      "Provided that any security already issued and claimed to be Shariah compliant before publication of this provision of the regulations, shall deemed to be a Shariah compliant security for a period of six months. During this period, the claimant shall obtain approval of the Commission, under regulation 9 on post-facto basis.",
+      "(2) No security shall be called a Shariah compliant security unless a Shariah compliance certificate has been granted by the Commission under these regulations."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Grant of Shariah compliance certificate to an issuer",
+     "page": 5,
+     "text": [
+      "(1) An issuer of a Shariah compliant security shall make an application to the Commission, as set out in Form C, along with documents as required therein and receipt evidencing the payment of non-refundable processing fee as prescribed in Schedule I.",
+      "(2) The Commission shall, while considering an application duly made under sub-regulation (1) have regard to the underlying structure of the security under the permissible modes of Islamic financing and such other matters that the Commission may consider relevant. The Commission may, while considering an application under this regulation, may also require the applicant to furnish such additional information, clarification, or documents as it deems appropriate.",
+      "(3) The Commission may, if it is satisfied that an applicant under sub-regulation (1) has fulfilled the requirements of these regulations, grant a declaration in form of a Shariah compliance certificate on the format as set out in Form D, subject to such terms and condition or restrictions as it deem fit to impose.",
+      "Provided that the Commission may at any time impose, vary or revoke such restrictions or conditions as it may require.",
+      "Provided further that if an issuer has already obtained a Shariah compliance certificate under these regulations for a security and is desirous to issue another security of similar underlying structure, same mode of Islamic financing and on same terms and conditions except commercial terms such as pricing, issue size etc., no further Shariah compliance certificate shall be required from the Commission for such security subject to filing of intimation as per Form E along with such documents as mentioned therein and receipt evidencing the payment of non-refundable fee as prescribed in Schedule I.",
+      "(4) In case where an incomplete application is made under sub-regulation (1) and the deficient information or documents have not been provided to the Commission within thirty days of application or communication of deficiencies, the said application shall be closed without any further notice.",
+      "(5) In case where complete application is made under sub-regulation (1), the Commission may, after providing a reasonable opportunity of representation to the applicant, refuse the application, if in the opinion of the Commission such applicant does not fulfil the requirements prescribed in these regulations or where the Commission, after considering the facts, is of the view that it is not in the public interest to grant Shariah compliance certificate.",
+      "(6) The applicant, being aggrieved by the decision of the Commission under sub-regulation (4), may appeal to the Commission, within a period of thirty days of the date of refusal.",
+      "(7) The Commission shall, provide opportunity of hearing to the parties concerned and may, by an order in writing, communicate its finding to the applicant(s)."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Grant of Shariah compliance certificate to a person other than issuer",
+     "page": 6,
+     "text": [
+      "(1) Any person, other than the issuer, who claims a security to be a Shariah compliant security shall make an application to the Commission, as set out in Form F, providing information and documents as required therein and receipt evidencing the payment of non-refundable processing fee as prescribed in Schedule I, for grant of a declaration in form of a Shariah compliance certificate in respect to security (ies) selected on the basis of Shariah screening criteria.",
+      "Explanation: For the purposes of this clause, a person other than the issuer may include a securities exchange, an index provider, or any other company, entity, institution, or individual publicly claiming any issued securities to be Shariah compliant primarily as Shariah compliant investable universe.",
+      "(2) The Commission shall, while considering an application duly made under sub-regulation (1), have regard to the Shariah screening criteria and process, underlying structure of the security under the permissible modes of Islamic financing and such other matters that the Commission may consider relevant. The Commission may, while considering an application under this regulation, may also require the applicant to furnish such additional information, clarification, or documents as it deems appropriate.",
+      "(3) The Commission may, if it is satisfied that an applicant under sub-regulation (1) has complied with these regulations, grant a Shariah compliance certificate on the format as set out in Form G, subject to such terms and condition or restrictions as it deem fit to impose.",
+      "(4) In case where an incomplete application is made under sub-regulation (1) and the deficient information or documents have not been provided to the Commission within thirty days of application or communication of deficiencies, the said application shall be closed without any further notice.",
+      "(5) In case where complete application is made under sub-regulation (1), the Commission may, after providing a reasonable opportunity of representation to the applicant, refuse the application, if in the opinion of the Commission such applicant does not fulfill the requirements prescribed in these regulations or where the Commission, after considering the facts, is of the view that it is not in the public interest to grant Shariah compliance certificate.",
+      "(6) The applicant, being aggrieved by the decision of the Commission under sub-regulation (4), may appeal to the Commission, within a period of thirty days of the date of refusal.",
+      "(7) The Commission shall, provide opportunity of hearing to the parties concerned and may, by an order in writing, communicate its finding to the applicant(s)."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Shariah Screening Of Companies And Securities",
+   "sections": [
+    {
+     "no": "10",
+     "title": "Shariah screening criteria",
+     "page": 7,
+     "text": [
+      "(1) The following shall be the minimum Shariah screening criteria for Shariah compliant companies and securities:",
+      ">(a) Qualitative criteria:",
+      ">>(i) The core business activities of the company shall not include Shariah non-permissible business activities;",
+      "Explanation: For the purposes of this regulation, Shariah non-permissible business activities shall include but not be limited to conventional financial institutions including conventional banks, and insurance, interest based-lending, gambling and betting, liquor and liquor-related activities, pork and pork-related activities, non-halal food and beverages, Shariah non-compliant entertainment, tobacco and tobacco-related activities, and other activities that are deemed Shariah non-permissible.",
+      ">>(ii) The company does not state in its memorandum of association that one of its objectives is to deal in Shariah non-permissible business activities.",
+      ">(b) Quantitative criteria:",
+      ">>(i) Subject to the following conditions and for the purposes of quantitative criteria, the Commission shall notify the minimum acceptable quantitative tolerance levels and other conditions, 1. For listed companies and securities, the securities exchange, in consultation with stakeholders, shall prepare and recommend minimum acceptable quantitative tolerance levels, taking into consideration the existing practices and level of maturity of the security market; 2. The quantitative thresholds shall be adjudged based on the latest audited or reviewed half yearly or quarterly financial statements, as the case may be, of the companies, including but not limited to the disclosures made pursuant to Fourth Schedule of the Act;",
+      ">>(ii) The Commission shall periodically review the quantitative criteria, at least every three years, in consultation with the securities exchange, and shall notify changes to the approved criteria, if required, providing for a transition period of at least six months."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Stock screening process",
+     "page": 8,
+     "text": [
+      "(1) Any person, other than the issuer of Shariah compliant securities, may claim a security or set of securities as Shariah compliant, after complying with the requirements of these regulations through the following process: -",
+      ">(a) it may adopt minimum acceptable quantitative tolerance levels as notified by the Commission under regulation 10 or determine other minimum acceptable quantitative tolerance levels with prior approval of the Commission;",
+      "Provided that any such criteria already determined by a person before publication of this provision of the regulations, shall deemed to be approved by the Commission for a period of six month. During this period, such person shall obtain approval of the Commission on post-facto basis;",
+      ">(b) it shall not exclude;",
+      ">>(i) any company or security declared by the Commission as Shariah compliant company or Shariah compliant security;",
+      ">>(ii) a modaraba floated with approval of the Registrar Modaraba;",
+      ">>(iii) a company registered or licensed by the Commission as Takaful operator; and",
+      ">>(iv) any other entity or company, as may be notified by the Commission from time to time; and",
+      ">>(v) an Islamic bank and other Islamic financial institution regulated by the State Bank of Pakistan.",
+      "(2) Such person shall;",
+      ">(a) compile an initial list of Shariah compliant securities based on the said criteria;",
+      ">(b) rank, rate or categorize securities based on level of compliance with the criteria;",
+      ">(c) obtain Shariah vetting of the same from its Shariah supervisory board or the Shariah advisor;",
+      ">(d) disclose the initial list through its website along-with the basis for arriving at the conclusion and provide basis in case of any exception or additional data used to arrive at a decision; and",
+      ">(e) periodically update the list on its website and also provide reasonable guidelines on its website for investors on the related matters including dividend purification, disinvestment in case of non-compliance, expressing displeasure over non-compliant investments and financing, etc.",
+      "(3) Such person shall ensure that it has proper Shariah governance structure, including but not limited to, arrangements of Shariah review and compliance, Shariah audit and relevant reporting.",
+      "(4) Such person shall also introduce continuity rules for smooth inclusion or exclusion of securities in the initial list, as part of Shariah screening criteria.",
+      "(5) A securities exchange may use the said initial list for making any stock indices and may include other criteria for further filtering of the initial list.",
+      "Provided that the additional criteria applied on the initial list shall be disclosed by the securities exchange through its website.",
+      "(6) A securities exchange may make one or more indices based on initial lists of one or more persons including an initial list that may be prepared by the securities exchange itself as per these regulations."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Shariah Supervision",
+   "sections": [
+    {
+     "no": "12",
+     "title": "Prohibition",
+     "page": 9,
+     "text": [
+      "(1) For the purposes of Section 451 of the Act, no company shall appoint or engage any person for Shariah supervisory services, unless such person is registered with the Commission under these regulations.",
+      "Provided that persons providing services relating to internal Shariah audit or the external Shariah audit, as per mandate of internal audit or the external audit under any other law for the time being in-force, shall not be required to obtain registration under these regulations.",
+      "Provided further that any person registered with the Commission under the Shariah Advisors Regulation, 2017, on the date of promulgation of these regulations, shall be deemed to be registered under these regulations, subject to such conditions and limitations as provided in these regulations.",
+      "Provided further that such deemed registered Shariah advisors shall not give Shariah opinion if they do not meet the criteria of a Shariah scholar member, with exception of experience requirement, provided in these regulations.",
+      "(2) Subject to the conditions and limitations, as may be provided in any other law for the time being in-force, any person offering Islamic financial services in the financial services market may also appoint or engage Shariah supervisory board or Shariah advisor and entrust it with the powers, responsibilities, and mandate as provided in these regulations."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Shariah supervisory board",
+     "page": 9,
+     "text": [
+      "(1) The Commission may, through a notification, require a Shariah-compliant company, a class of Shariah compliant companies, an Islamic financial institution or a class of Islamic financial institutions to form, constitute, appoint, or engage a Shariah supervisory board within a stipulated period, comprising at least two persons who meet the fit and proper criteria of a Shariah scholar member and other requirements as provided in these regulations.",
+      "(2) Subject to sub-regulation (1), a Shariah-compliant company and Islamic financial institution may voluntarily form, constitute, appoint, or engage a Shariah supervisory board, comprising at least two persons who meet the fit and proper criteria of Shariah scholar member and other requirements as provided in these regulations.",
+      "(3) Until a Shariah supervisory board is formed, appointed, or engaged by a Shariah-compliant company or an Islamic financial institution, it must appoint or engage a Shariah advisor registered under these regulations to perform the functions of the Shariah supervisory board.",
+      "(4) A Shariah supervisory board shall not function unless one of its members is registered as a Shariah advisor under these regulations.",
+      "(5) The term of appointment or engagement of the Shariah supervisory board or Shariah advisor shall be for a period of three years that may be extended further with mutual consent. However, such a term may be capped for the duration of the applicable Shariah-compliant security if it is a redeemable capital instrument.",
+      "(6) Any person, other than the issuer of Shariah compliant securities, involved in the stock screening process, shall also appoint a Shariah supervisory board or the Shariah advisor.",
+      "(7) Subject to the provisions of these regulations, the Shariah supervisory board shall enjoy such powers and perform such functions as may be agreed upon between the Shariah compliant company or the Islamic financial institution, as the case may be, and members of the Shariah supervisory board.",
+      "(8) The above requirements shall be applicable to Shariah-compliant companies and Islamic financial institutions, as the case may be, on the principle of proportionality.",
+      "Explanation: Principle of proportionality here means that the measures applied in a decision are proportionate to the size, complexity, structure, significance and risk profile of the Shariah-compliant companies and Islamic financial institutions and limited to what is necessary to achieve the compliance with Shariah principles and rules."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Fit and proper criteria",
+     "page": 10,
+     "text": [
+      "(1) A member of the Shariah supervisory board, a member of the governing body of the Shariah advisor, and an individual Shariah Advisor shall meet the following fit and proper criteria;",
+      ">(a) Shariah scholar member (i) A Muslim adult who is well-versed in Fiqh and Usul al Fiqh;",
+      ">>(ii) Possess the following minimum qualifications in the field of Shariah, preferably in Fiqh-ul-Mamulat, which is equivalent to a master's degree: • a Shahadat-ul-Aalamiyyah (العالمیۃ شھادۃ) degree, i.e., Darse-Nizami (نظایم ِ درس) with at least 70% marks, a Takhasus fil Ifta (الفتا ف تخصص) certificate, and a second-class bachelor's degree in contemporary fields of education; or • a postgraduate university degree in Kuliyyah Usooluddin, Master of Law in Shariah, Master of Science in Shariah, or equivalent Shariah degree with a minimum grade point average of 2.5 or equivalent;",
+      "Provided that the degree and the degree-awarding institution shall be duly recognized by the Higher Education Commission of Pakistan;",
+      ">>(iii) Possess a total of 10 years or more of suitable practical experience including research, and academic experience, in the fields of Shariah, Islamic finance, Islamic economics, capital markets, Islamic banking, takaful, or other relevant fields, including but not limited to the following: • issuing Shariah opinions in Fiqh, preferably in Fiqh-ul-Muamulat, and Islamic commercial jurisprudence; or • teaching at the post-graduate level or project-based research in the above-stated fields; or • working at a senior level in regulated financial markets or financial institutions, listed companies, international institutions, financial market regulators;",
+      ">>(iv) has a good command of Arabic and English languages with a reasonable understanding of economics, law, banking, finance, and/or related fields;",
+      ">>(v) demonstrable interest in and dedication to Islamic capital markets, Islamic nonbanking financial institutions, Takaful, Islamic banking and finance, and the absence of anomalous opinions contrary to the well-established contemporary scholarly consensus as contained in Shariah principles and rules;",
+      ">>(vi) demonstrate a good understanding of the legal and regulatory framework of Pakistan related to the regulated financial sector; and",
+      ">>(vii) is suitable to act as a Shariah scholar member on the Shariah supervisory board, on the governing body of the Shariah advisor, or an individual Shariah Advisor by having good character, reputation, and market recognition; the ability to devote sufficient time; being independent and free from conflict of interest; and not being ineligible under the provisions of these regulations.",
+      ">(b) Islamic finance expert member (i) A Muslim adult with a basic understanding of Shariah principles and rules, preferably an appropriate understanding of Fiqh-ul-Muamalat as applicable to Islamic finance;",
+      ">>(ii) Possess a postgraduate university degree or equivalent qualification in Islamic finance, Shariah law, Islamic economics, or professional qualification in finance, accounting or law along-with senior level membership of relevant professional body or institute and certification in Islamic finance from a reputable institution.",
+      "Provided that the postgraduate university degree in the stated fields shall be with a minimum grade point average of 2.5 or equivalent;",
+      "Provided further that the degree and the degree-awarding institution shall be duly recognized by the Higher Education Commission of Pakistan;",
+      ">>(iii) Possess a total of 10 years or more of suitable practical experience relating to Islamic finance in the capital market, banking, insurance, and other fields of finance, including but not limited to the following:",
+      "• working at a senior level in regulated financial markets or at regulated financial institutions, listed companies, international institutions, financial market regulators; or",
+      "• teaching at the post-graduate level or project-based field work in the abovestated fields.",
+      ">>(iv) demonstrable interest and dedication to Islamic capital markets, Islamic nonbanking financial institutions, Takaful, Islamic banking, and finance;",
+      ">>(v) demonstrate a good understanding of the legal and regulatory framework of Pakistan related to the regulated financial sector; and",
+      ">>(vi) is suitably qualified to serve as an expert member on the Shariah supervisory board, on the governing body of the Shariah advisor, or an individual Shariah Advisor because he or she possesses good character, a good reputation, and market recognition; the ability to devote sufficient time; independence; and freedom from conflict of interest, and is not ineligible under the provisions of these regulations.",
+      "(2) A person shall be disqualified to become a member of a Shariah supervisory board, or the member of governing body of Shariah advisor or individual Shariah advisor if he-",
+      ">(a) is of unsound mind;",
+      ">(b) has applied to be adjudicated as an insolvent, and his application is pending;",
+      ">(c) is an undischarged insolvent;",
+      ">(d) has been convicted by a court of law of an offence involving moral turpitude;",
+      ">(e) has been debarred from holding such office under any provision of any law administered by the Commission;",
+      ">(f) is lacking fiduciary behavior, and a declaration to this effect has been made by the court at any time during the preceding five years;",
+      ">(g) has been declared by a court of competent jurisdiction to be in default in the repayment of a loan to a financial institution;",
+      ">(h) in case of a Pakistani national, his name is not included in active tax payer list of the Federal Board of Revenue;",
+      ">(i) has been convicted of any criminal offence involving fraud, negligence, criminal breach of trust, or financial impropriety;",
+      ">(j) does not have a good reputation for ethical, professional, and social conduct befitting its position as judged by the Commission;",
+      ">(k) has an overdue Credit Information Bureau (CIB) report;",
+      "Provided that in case of an overdue position in a CIB report, the person shall not be considered a fit and proper person except in cases where such overdue amount is under litigation, and that no rejection shall be made unless the person has been provided an opportunity to make a representation before the Commission;",
+      ">(l) has been convicted, whether within or outside Pakistan, of an offence under the administered laws;",
+      ">(m) has an investigation or criminal charges pending against her/him in any court of law, whether within or outside Pakistan, for an offence involving bribery, fraud, dishonesty, corporate mismanagement, or violence;",
+      ">(n) has had any civil enforcement action filed against him in any court of law by any regulator or law enforcement agency, whether within or outside Pakistan;",
+      ">(o) is ineligible, under the Act or any other legislation or regulation administered by the Commission, from acting as a director or serving in a company;",
+      ">(p) has entered into a plea bargain arrangement with the National Accountability Bureau; or",
+      ">(q) has been penalized under Anti-Money Laundering regulatory framework during the last five years of being a member of the board of directors or in any other position."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Shariah advisor",
+     "page": 13,
+     "text": [
+      "(1) In conjunction with sub-regulation (2) of regulation 12 and subregulation (3) of regulation 13, and subject to the requirements of these regulations, any person holding a valid registration under these regulations may act as a Shariah advisor for Shariah-compliant company, issuer of Shariah compliant security or an Islamic financial institution.",
+      "(2) An issuer of Shariah-compliant securities shall also appoint or engage a Shariah advisor, preferably for the period of maturity of the Shariah-compliant security, where applicable, or for any other period as may be deemed appropriate.",
+      "(3) In case of any specific regulatory requirement under any law for the time being in-force, a Shariah advisor registered in these regulations may be appointed or engaged.",
+      "(4) In case a registered person is a company with three or more Shariah scholar members and one or more Islamic finance expert members, such registered person is allowed to be represented as a shariah supervisory board for a Shariah compliant company, the issuer of Shariah compliant securities or the Islamic financial institution."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Registration And Renewal",
+   "sections": [
+    {
+     "no": "16",
+     "title": "Registration",
+     "page": 13,
+     "text": [
+      "(1) Any person eligible may make an application for registration as per Form H and provide particulars as per Form I along-with an affidavit as per the specimen given in Annexure-I, and a bank challan, in original, evidencing payment of the non-refundable application fee as specified in Schedule II.",
+      "(2) The Commission may, while considering an application under this regulation, require the applicant to furnish such additional information, clarification, or documents as it deems appropriate.",
+      "(3) The Commission may require an applicant to appear for an interview before any official(s) of the Commission and/or any one or more members of the Shariah advisory committee in person or through videoconferencing as deemed appropriate by the Commission.",
+      "(4) If a company, a firm, a body corporate, an institution, or any other body applies for registration as a Shariah advisor, it must have at least two Shariah scholar members and one Islamic finance expert member on its board of directors or governing body, as the case may be.",
+      "(5) A resident member of a Shariah board constituted under any other law, including the Shariah governance framework issued by the State Bank of Pakistan, shall be deemed to be registered under these regulations, subject to the following conditions: i. pprofiles of such a resident Shariah board member and all other members of the Shariah board on Form I, have been provided to the Commission;",
+      "Provided that, in case of any subsequent addition, the profile of the new member on Form I shall be submitted to the Commission within 15 days of such addition, ii. a letter signed by the company secretary or any other authorized officer confirming that the Shariah board was formed in accordance with the applicable Shariah governance framework or law; iii. for the purpose of these regulations, the resident member and the Shariah board operate in accordance with the requirements of respective Shariah governance framework; and",
+      "this deemed registration shall not require renewal and be sufficient for such resident Shariah board member and such Shariah board to perform any or all functions described in these regulations;",
+      "(6) The Commission, on being satisfied that the applicant under sub-regulation (1) is eligible, meets the fit and proper criteria and the following prerequisite, may register the applicant and issue a certificate on the format as set out in Form J:",
+      ">(a) the person is not engaged in any business practices that appear to the Commission to be deceitful, oppressive, or otherwise improper, whether unlawful or not, or that otherwise reflect discredit on her or his method of conducting business;",
+      ">(b) the person is not involved in or has been associated with any other business practices or has not conducted herself or himself in a manner that calls into question her or his competence and soundness of judgment;",
+      ">(c) the person is not engaged in or has not been associated with any conduct that casts doubt on her or his ability to act in the best interest of, having regard to his or her reputation, character, financial integrity, and reliability;",
+      ">(d) the person is suitably qualified to assume the position, including having the relevant experience and track record;",
+      ">(e) there are no other circumstances that are likely to lead to the improper conduct of operations by the person or reflect discredit on the manner in which the person would carry out his duties; and",
+      ">(f) it would not be contrary to the public interest to register the person.",
+      "(7) The registration shall remain valid for a period of three years, unless voluntarily surrendered, suspended, or cancelled earlier by the Commission."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Conditions of registration",
+     "page": 15,
+     "text": [
+      "(1) A registration under regulation 16 shall be subject to the following conditions:",
+      ">(a) In case a registered person is a company, it shall seek and obtain declaration and certification of Shariah compliant company under these regulations, within a period of six months from the date of promulgation of these regulations, and shall comply with these regulations as a company as well.",
+      ">(b) In case a registered person is an employee of Islamic bank, it shall only provide Shariah opinion, where required, with approval of the Shariah Board of such Islamic bank.",
+      ">(c) A Shariah supervisory board can only issue a Shariah opinion if it is approved by member(s) who meet the criteria of a Shariah scholar member.",
+      ">(d) A Shariah advisor other than an individual can only issue a Shariah opinion if it is approved by such a person(s) who meets the criteria of a Shariah scholar member.",
+      ">(e) An individual Shariah advisor who meets the criteria of a Shariah scholar member can issue a Shariah opinion, whereas a Shariah advisor who only meets the criteria of an Islamic finance expert member shall not issue a Shariah opinion.",
+      ">(f) An individual or single-member company registered as a Shariah advisor may be concurrently appointed to provide Shariah supervisory services excluding services of external Shariah audit to a regulated person up to a maximum of four (4) clients at any point in time.",
+      "Explanations • Multiple Shariah opinions given by a Shariah advisor to a company or entity shall be deemed as single appointment; • A Shariah advisor appointed by a non-banking finance company (NBFC) to manage multiple collective investment schemes, pension funds, and discretionary and non-discretionary portfolios is considered a single appointment; and • The appointment of a Shariah advisor by a company or an entity issuing any number of Shariah-compliant securities shall be considered a single appointment;",
+      ">(g) A member of the Shariah supervisory board shall not provide Shariah supervisory services to the same person in his/her personal capacity;",
+      ">(h) If a Shariah advisor is a legal person, the members of its governing bodies shall not provide Shariah supervisory services to the same person in their personal capacity;",
+      ">(i) If the registered Shariah advisor is a person other than individual, company or LLP and the Shariah scholar member or Islamic finance expert member is replaced, a new application for Shariah advisor registration must be made within fifteen (15) days of the change.",
+      "Provided that whenever there is an addition of a Shariah scholar member or an Islamic finance expert member, as the case may be, or whenever there is a change in other members of the governing body, the Shariah advisor shall only provide updated information on Form I within fifteen days of such change; and",
+      ">(j) Members of the Shariah supervisory board, members of the Shariah advisor's governing body that is not an individual, and the individual Shariah advisor shall complete mandatory training or certification as required by the Commission from time to time.",
+      "(2) The Commission may, by written notice served on the resident member of the Shariah supervisory board or the Shariah advisor, amend, cancel, or attach new conditions."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Renewal of registration",
+     "page": 16,
+     "text": [
+      "(1) A registered person shall, one month prior to the date of expiry of registration, apply to the Commission for renewal of its registration as per Form K along with affidavit as per the specimen given in Annexure-I and a bank challan evidencing payment of the non-refundable application fee as specified in Schedule II;",
+      "(2) Where a registered person fails to apply for renewal of its registration within the time given in sub-regulation (1) above, it shall deem to be suspended and shall cease to act as a registered person.",
+      "(3) The Commission, on being satisfied that the applicant under sub-regulation (1) is eligible, continue to meets the fit and proper criteria and the prerequisite, may renew the registeration for another period of three years and issue a certificate on the format as set out in Form J:"
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Refusal to grant registration or renewal",
+     "page": 16,
+     "text": [
+      "(1) In case where an incomplete application is made for registration or renewal and the deficient information or documents have not been provided to the Commission within thirty days of such application or communication of deficiencies, the said application shall be closed without any further notice.",
+      "(2) In cases where a complete application is submitted under sub-regulation (1) of regulation 16 or sub-regulation (1) of regulation 18, the Commission may, after affording the applicant a reasonable opportunity of representation, refuse to grant a registration or renewal if, in the Commission's opinion, the applicant does not meet the requirements stipulated in these regulations or if, after considering the facts, the Commission determines that it is not in the public interest to grant such registration or renewal.",
+      "(3) An applicant, being aggrieved by the decision of the Commission under sub-regulation (2), may appeal to the Commission within a period of thirty days of the date of such refusal.",
+      "(4) The Commission shall provide an opportunity for hearing to the parties concerned and may, by an order in writing, communicate its decision to the applicant."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Functions, Powers And Obligations",
+   "sections": [
+    {
+     "no": "20",
+     "title": "Functions and responsibilities of the Shariah supervisory board",
+     "page": 16,
+     "text": [
+      "(1) A Shariah supervisory board or the Shariah advisor, as the case may be shall be responsible for the following functions:",
+      ">(a) with respect to Shariah compliant securities, (i) review and approve Shariah structure and related documents and agreements;",
+      ">>(ii) apply intellectual reasoning to ensure Islamic financial services follow Shariah principles and rules, in the absence of any Shariah rulings, principles, or concepts endorsed by the Shariah advisory committee;",
+      ">>(iii) give Shariah opinion(s), which shall be binding on the issuer of Shariahcompliant securities and ensure its proper documentation;",
+      ">>(iv) ensure that the applicable Shariah principles and rules, Shariah opinions, rulings, and guidelines are complied with; and",
+      ">>(v) provide guidance and propose mechanism to ensure Shariah compliance till maturity of the securities, if any.",
+      ">(b) with respect to Shariah compliant company or Islamic financial institution,",
+      ">>(i) establish a robust methodology to guide its decision-making process to ensure accountability for the quality, accuracy, and soundness of its decisions;",
+      ">>(ii) review and approve all policies and procedures relating to the Shariahcompliant operations;",
+      ">>(iii) make recommendations for potential improvements and policy formulation in accordance with Shariah principles and rules, as well as provide guidance on the process of rectification of identified irregularities;",
+      ">>(iv) advise on any matter referred to it by the chief executive officer or the board of directors;",
+      ">>(v) review and approve all relevant documentation for products and services, including contracts, agreements, marketing and promotional materials, or other legal and operational documentation used in the business transactions;",
+      ">>(vi) define the key elements to be evaluated while reviewing and approving a product;",
+      ">>(vii) apply intellectual reasoning to ensure Islamic financial services follow Shariah principles and rules, in the absence of any Shariah rulings, principles, or concepts endorsed by the Shariah advisory committee; (viii) give Shariah opinion(s), which shall be binding on the Shariah-compliant company or the Islamic financial institution, and ensure its proper documentation;",
+      ">>(ix) ensure that the applicable Shariah principles and rules, Shariah opinions, rulings, and guidelines are complied with;",
+      ">>(x) supervise the operations, transactions, and processes to ensure compliance with Shariah principles and rules;",
+      ">>(xi) oversee and approve investment policy, providing their criteria for investment and divestment, treatment of non-Shariah compliant income and gains, and matters connected thereto;",
+      ">>(xii) strive to introduce a mechanism that will strengthen Shariah compliance, in letter and spirit, and ensure that the systems, procedures, and policies adopted are in line with the Shariah principles and rules; (xiii) review and monitor to ensure that inflows and outflows of financial resources are free from Riba (interest, usury or any other form), Qimar (Gambling), Gharar (Speculation) and other elements prohibited by Shariah (e.g. drugs and alcohol, tobacco, pork related items, etc.);",
+      ">>(xiv) review and advise on a regular basis that the business conducted, the transactions carried out, and the investments made are in accordance with the applicable standards, principles, and laws;",
+      ">>(xv) review the reports and observations of the Shariah compliance function, the internal Shariah audit function, and the external Shariah audit and provide advice on such reports and observations;",
+      ">>(xvi) advise corrective, remedial, and preventive measures if Shariah noncompliance is discovered; (xvii) at least one member of the Shariah supervisory board or the Shariah advisor, as the case may be, shall present its report at the annual general meeting to the stakeholders and respond to their queries about the state of Shariah compliance; (xviii) ensure the continuous professional education and training programs of the management and members of the Shariah supervisory board or the Shariah advisor, as the case may be;",
+      ">>(xix) conduct and arrange Shariah training programs for the board of directors, officers, and staff, where required;",
+      ">>(xx) shall cooperate and, where necessary, work in coordination with the Shariah advisory committee to achieve standardization and harmonization in Islamic product development; and",
+      ">>(xxi) provide guidance for the development of Islamic financial services in sectors regulated by the Commission, including activities relating to documentation, which includes the deed and prospectus, structure, features, and investment instruments, and ensure that all aspects of the products or activities are in accordance with Shariah principles and rules.",
+      "(2) Notwithstanding anything contained in any other law for the time being in-force and where no Shariah supervisory board is in place, the functions as provided in sub-regulation (1) shall be performed by the Shariah advisor registered in these regulations and appointed or engaged by a Shariah compliant company, an issuer of Shariah compliant securities, an Islamic financial institution, or any other regulated person."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Rresponsibilities of Company, entity or the Institution",
+     "page": 18,
+     "text": [
+      "(1) Every person forming, constituting, appointing, or engaging a Shariah supervisory board or a Shariah advisor, as the case may be, shall comply with the following:",
+      ">(a) shall not form, constitute, appoint, or engage a Shariah supervisory board unless one of its members is registered with the Commission under these regulations;",
+      ">(b) shall not appoint or engage a Shariah advisor unless it is registered with the Commission under these regulations;",
+      ">(c) shall disclose in its financial statements details of any compensation paid to its Shariah supervisory board or Shariah advisor, as the case may be, for providing Shariah supervisory services and any other ancillary professional services, including but not limited to education and training in Islamic financial services;",
+      ">(d) shall not replace members of the Shariah supervisory board or the Shariah advisor, as the case may be, without recording the reasons for such replacement and intimate the same to incoming and outgoing persons;",
+      ">(e) shall endeavor to improve capacity of its human resources in the field of Islamic finance through education, training and awareness campaigns; and",
+      ">(f) where such person has obtained a Shariah opinion from more than one person on the same issue, it shall disclose the reasons for obtaining more than one Shariah opinion to each of the said persons, as well as in the offering document, financial statements, and any other relevant document.",
+      "(4) Unless provided otherwise in the constitutive documents of the persons forming, constituting, appointing, or engaging a Shariah supervisory board or a Shariah advisor, as the case may be, they shall do so with the prior approval of their board of directors or a comparable governing body. The matter pertaining to removal and resignation shall also be handled accordingly.",
+      "(5) The board of directors, a committee of the board, or the governing body, or the chief executive officer if authorized by the board of directors to do so, shall meet with the Shariah supervisory board or the Shariah advisor, as the case may be, at least twice a year to review Shariah-related matters."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Powers of Shariah supervisory board",
+     "page": 19,
+     "text": [
+      "Notwithstanding anything contained in the contract or agreement for the formation, constitution, appointment, or engagement of the Shariah supervisory board or the Shariah advisor, as the case may be, it shall have the following powers:",
+      ">(a) access to the books, papers, accounts, vouchers, records, information, agreements, and reports of the Islamic financial institution or the Shariah-compliant company, as the case may be, whether kept at the registered office;",
+      ">(b) direct access to the matters concerning internal audit and external audit including internal Shariah audit and external Shariah audit;",
+      ">(c) call for information and details from the directors, senior management, and other employees, as may be required for the performance of duties, and the board of directors, senior management, and other employees shall be bound to provide the requisite information and explanations; and",
+      ">(d) maintain direct and regular communication with senior management."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Obligations of Shariah supervisory board and the registered person",
+     "page": 19,
+     "text": [
+      "(1) Every member of the Shariah supervisory board and a registered person shall-",
+      ">(a) adhere to the provisions of these regulations and other applicable laws;",
+      ">(b) not undertake any business activity that is prohibited in Islam;",
+      ">(c) disclose conflict of interest while considering any matter;",
+      ">(d) in case of a body, firm, or company, not obtain any Shariah non-compliant financial services;",
+      ">(e) adhere with the general principles of professional behavior; and",
+      ">(f) comply with any other conditions imposed by the Commission.",
+      "(2) A Shariah supervisory board or the Shariah advisor, as the case may be, shall prepare an annual report to be called the \"Shariah Review Report,\" which shall cover the overall Shariah compliance position for the period, and it shall be submitted to the board of directors.",
+      "(3) The Shariah Review Report shall include but not limited to the following, -",
+      ">(a) whether or not, in their opinion, the transactions, the relevant documentation, and the procedures adopted have been in accordance with the Shariah principles and rules;",
+      ">(b) whether or not in their opinion, the affairs have been carried out in accordance with Shariah principles and rules and relevant Shariah opinions issued from time to time; and",
+      ">(c) whether or not, in their opinion, any earnings that have been realized from sources or by means prohibited by Shariah have been credited to the charity account, where applicable.",
+      "(4) The Shariah review report shall be made part of the annual report or annual audited accounts of the Shariah compliant company, the issuer of Shariah-compliant securities or the Islamic financial institution, as the case may be.",
+      "(5) Every registered person shall prepare an annual report as per Form L and submit the same to the Commission by January 31st year, along-with filing fee as per Schedule-II, electronically or through post covering the following:",
+      ">(a) all appointments and engagements, domestic or international, held at any time during the year; and",
+      ">(b) details of the continuing professional development activities undertaken during the year."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Shariah opinion",
+     "page": 20,
+     "text": [
+      "(1) Notwithstanding anything contained in any other law for the time being in-force, a Shariah opinion shall be provided in writing in the form of a certificate serially numbered, dated, duly signed, and stamped by the Shariah scholar member of the Shariah supervisory board or the individual Shariah advisor meeting the fit and proper criteria for a Shariah scholar member.",
+      "2) A Shariah opinion shall be mandatorily required while considering and approving Shariah compliant financial products, services, or transactions; the issuance of Shariah compliant securities; claiming to be a Shariah compliant company, entity, or institution; Shariah compliant contracts; and the public declaration of any system, procedure, or process as Shariah compliant, and when required by the Commission.",
+      "(3) A Shariah opinion shall provide the underlying reasoning and references in detail for arriving at the conclusion.",
+      "(4) A Shariah opinion shall, at the minimum, cover the following:",
+      ">(a) whether and to what extent the arrangement and related agreements and contracts, separately and collectively, are consistent with the Shariah principles and rules;",
+      ">(b) how the arrangement deals with the Riba;",
+      ">(c) whether the arrangement contains an excessive amount of Gharar, and if so, how it has been addressed;",
+      ">(d) exceptions, reservations, and qualifications to the Shariah opinion, if any;",
+      ">(e) Shariah non-compliance risks, if any; and",
+      ">(f) any other information or detail deemed relevant.",
+      "(5) A company, entity, or institution obtaining a Shariah opinion shall disseminate it through appropriate means, including through its website, such that it can be readily and publicly accessed without any hindrance or fee.",
+      "(6) A company, entity, or institution may use an abridged version of a Shariah opinion in its publications, where deemed necessary by the company or entity; however, the detailed Shariah opinion shall be made publicly available through its website.",
+      "(7) A Shariah opinion under these regulations shall be issued in both English and Urdu, in addition to any other language as may be required for listed securities, and either in English or Urdu, in addition to any other language as may be required for unlisted securities.",
+      "(8) A Shariah opinion issued may subsequently be modified or revoked based on new facts, findings, or research by the issuer of the initial opinion or his successor.",
+      "(9) Records of Shariah opinions solicited, obtained, and given shall be maintained by the person giving Shariah opinion and by the person obtaining such Shariah opinion for a minimum period of ten (10) years."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Conflicting Shariah opinions and dispute resolution",
+     "page": 21,
+     "text": [
+      "(1) No Shariah supervisory board or registered person shall publicly issue a Shariah opinion regarding a regulated person, a company, an entity, or its security that is not solicited by that regulated person, company, or entity.",
+      "(2) Once a Shariah opinion has been issued, no other registered person shall publicly issue a contradictory Shariah opinion.",
+      "Provided that a registered person, acting in good faith, may privately issue a Shariah opinion regarding a company or entity or its security if the same is solicited by another person to meet its business needs, including the need to consider investing in or divesting from the subject company, entity, or its security.",
+      "(3) In case of any dispute or difference of opinion arising between the Shariah-compliant company or the Islamic financial institution, as the case may be, and the internal Shariah auditor on matters relating to Shariah interpretation, the same shall be referred to the Shariah supervisory board or the Shariah advisor, as the case may be, for a decision.",
+      "(4) In case of any difference of opinion regarding a Shariah opinion within the meaning of these regulations between a company or an entity and its Shariah supervisory board, Shariah advisor, or between any two or more Shariah advisors or Shariah supervisory boards, the matter shall be referred by the Commission for consideration by the Shariah advisory committee, the Shariah board for Takaful, or the Religious board for Modarabas, as the case may be, whose decision, when endorsed by the Commission, shall be final."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Shariah Compliance And Audit",
+   "sections": [
+    {
+     "no": "26",
+     "title": "Systems and controls",
+     "page": 22,
+     "text": [
+      "A Shariah compliant company, and issuer of a Shariah compliant security shall endeavor to establish systems and controls to ensure compliance with Shariah principles and rules, including but not limited to the following: -",
+      ">(a) the manner in which the compliance function will be undertaken, in respect of Shariah compliance;",
+      ">(b) the manner in which the Shariah supervisory board or the Shariah advisor will oversee and advise in regard to the Islamic financial business;",
+      ">(c) the manner in which Shariah supervisory board or the Shariah advisor’s opinions and guidelines will be recorded, disseminated and implemented and the internal Shariah review undertaken;",
+      ">(d) the manner in which disputes between the Shariah supervisory board or the Shariah advisor and the Shariah compliant company or issuer of a Shariah compliant security in respect of Shariah compliance will be addressed;",
+      ">(e) the process for approving those internal systems and controls which are in place to ensure not only that the business is carried out in compliance with the Shariah principles, but that information is disseminated to investors in an appropriate manner; and",
+      ">(f) the manner in which conflicts of interest will be identified and managed."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Shariah compliance officer",
+     "page": 22,
+     "text": [
+      "(1) Every Shariah compliant company and issuer of a Shariah compliant security shall appoint or designate a Shariah compliance officer suitably qualified, trained and experienced in the field of Islamic finance. The Shariah compliance function can also be outsourced.",
+      "(2) The Shariah compliance officer shall work under the overall guidance and supervision of the Shariah supervisory board or the Shariah advisor, as the case may be, and functionally report to the Shariah supervisory board or the Shariah advisor, as the case may be with parallel administrative reporting to the head of compliance department or internal audit department, as the case may be.",
+      "(3) The Shariah compliance officer shall coordinate between the Shariah supervisory board or the Shariah advisor, and management and shall:",
+      ">(a) review all the product proposals and related agreements, contracts, manuals, process flows before presenting these to the Shariah supervisory board or the Shariah advisor for approval;",
+      ">(b) ensure that operations of are in conformity with Shariah principles and rules; and",
+      ">(c) periodically submit a Shariah compliance report to the management on the overall Shariah compliance environment."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Internal Shariah audit",
+     "page": 23,
+     "text": [
+      "(1) Every Shariah compliant company and issuer of a Shariah compliant security shall strengthen its internal audit department, either by appointing an internal Shariah audit resource having relevant qualification or expertise in the field of Islamic finance or train at least one of its employees in the internal audit department for the purpose of internal Shariah audit from a reputable training institute.",
+      "(2) The scope and methodology of the internal Shariah audit shall be reviewed and approved by the board of directors or audit committee of the Shariah compliant company and issuer of a Shariah compliant security.",
+      "(3) The internal Shariah audit resource shall follow the same reporting norms, as are applicable on the internal auditor.",
+      "(4) The duties of the internal Shariah audit shall include, but not limited to the verification of:",
+      ">(a) transactions entered into are consistent with the Shariah principles and rules;",
+      ">(b) financing agreements entered into are Shariah compliant and are on the formats as approved by the Commission, if any and all the related conditions are met;",
+      ">(c) offering documents, investments, and contracts have been reviewed by the Shariah supervisory board or the Shariah advisor;",
+      ">(d) product structure, process flow and operations are duly vetted by the Shariah supervisory board or the Shariah advisor;",
+      ">(e) process for purification of income has been carried out and Shariah non-compliant income has been transferred into a charity account and distributed to approved charitable institutions;",
+      ">(f) findings are shared with the management and Shariah supervisory board or the Shariah advisor in respect of all the above items, including irregularities, inadequacy in risk management, governance, and internal controls, which are necessary to avoid Shariah non-compliant business transactions; and",
+      ">(g) investments in the securities and other instruments and mobilization of fund are in accordance with the requirements of these regulations.",
+      "(5) The internal Shariah auditor shall submit an internal Shariah audit report annually to the board of directors or its audit committee.",
+      "(6) The internal Shariah auditor shall maintain liaison with the Shariah supervisory board or the Shariah advisor, as the case may be, and may seek its guidance in ensuring Shariah compliance.",
+      "(7) The internal Shariah auditor shall submit an internal Shariah audit report to the board of directors or its audit committee, as well as the Shariah Supervisory Board or the Shariah advisor, as the case may be, on an annual basis.",
+      "(8) A Shariah compliant company and an issuer of Shariah compliant security may outsource its internal Shariah audit function."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "External Shariah audit",
+     "page": 23,
+     "text": [
+      "(1) Every Shariah compliant company and issuer of a Shariah compliant security shall be subject to external Shariah audit for each financial year, which may be undertaken by the existing external auditors or an independent external Shariah auditor.",
+      "(2) For the purpose of this regulation, the provisions of sections 223 and 247 of the Act, shall be followed with regard to external Shariah audit and the external Shariah auditor, respectively and the audit firm shall preferably have expertise in Islamic finance.",
+      "(3) The scope of external Shariah audit shall include an independent and objective assessment of compliance of operations with the Shariah principles and rules and any further conditions imposed by the Commission from time to time.",
+      "(4) The external Shariah auditor shall assess the compliance of the Shariah compliant company or issuer of a Shariah compliant security with financial arrangements, contracts, and transactions with the Shariah principles and rules.",
+      "(5) The external Shariah auditor shall prepare a report on the format given in the Schedule-III for the board of directors giving their opinion on:",
+      ">(a) the status of Shariah compliance;",
+      ">(b) the risks associated with the Shariah non-compliance;",
+      ">(c) the capacity and quality of the internal controls to measure, manage and mitigate the Shariah non-compliance risks;",
+      ">(d) the adequacy and effectiveness of the Shariah governance framework;",
+      ">(e) the level of awareness and sensitivity of the management and the board of directors in addressing the Shariah risks; and",
+      ">(f) any other issues deemed significant by the external auditors with respect to Shariah compliance."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VIII — Disciplinary Proceedings",
+   "sections": [
+    {
+     "no": "30",
+     "title": "Restriction or suspension or cancellation of Shariah compliance certificate",
+     "page": 24,
+     "text": [
+      "(1) The Commission may, in addition to any other regulatory action, impose restriction with respect to the Shariah compliance certificate granted to a company or issuer under these regulations, if:",
+      ">(a) it does not operate in conformity with the Shariah principles and rules;",
+      ">(b) any provision of these regulations or condition imposed by the Commission are not adhered to;",
+      ">(c) there exist sufficient reasons to believe that Shariah compliance is not being observed;",
+      ">(d) there exist sufficient reasons to believe that the act and conduct of the company or the issuer, as the case may be, from ethical conduct, observing values and objectives perspective, creating a reputation risk for the Islamic finance industry; or",
+      ">(e) the penalty, if any, imposed by the Commission has not been paid within the stipulated time period.",
+      "(2) A Shariah compliance certificate granted under these regulations shall be liable for suspension, if:",
+      ">(a) the company is not following the approved structure of the Shariah compliant security;",
+      ">(b) any regulation, restriction or condition imposed with respect to the Shariah compliance certificate is not adhered to; or",
+      ">(c) there exist sufficient reasons to believe that Shariah compliance is not being observed.",
+      ">(d) There is any violation of the Shariah screening criteria as per bi-annual accounts.",
+      "(3) A Shariah compliance certificate granted under these regulations shall be liable for cancelation by the Commission, if:",
+      ">(a) it is reported in the Shariah review report that the Shariah compliant company is non-compliant with the requirements of these regulations including Shariah screening criteria and other conditions and that the Shariah compliant certificate has not been voluntary surrendered;",
+      ">(b) it is reported in the Shariah review report that the issuer of a Shariah compliant security is non-compliant with underlying approved Shariah-structure of such security or the conditions imposed under these regulations and that the Shariah compliant certificate has not been voluntary surrendered;",
+      ">(c) the Shariah compliant company is pursuing aims, or carrying on its operations, business affairs and activities contrary to Shariah principals and rules;",
+      ">(d) the Shariah compliance certificate was granted based on information in support of an application that was found to be false, misleading, inaccurate or incomplete;",
+      ">(e) the Shariah compliant company has been liquidated;",
+      ">(f) all of the assets and liabilities of a Shariah compliant company, or issuer of a Shariah compliant security are transferred or merged into another company;",
+      ">(g) the certificate has been suspended and the causes of suspension have not been removed within sixty days from the receipt of suspension order or such period as provided in the order of suspension; or",
+      ">(h) it refuses or fails to pay the penalty, if any, imposed by the Commission.",
+      "(4) Prior to the imposition of restriction, suspension or cancellation of Shariah compliance certificate granted under these regulations, the Commission shall provide a reasonable opportunity of hearing.",
+      "(5) The Commission may, for the information of stakeholders, publish a press release of its order of cancellation of Shariah compliance certificate in at least two newspapers of wide circulation in Pakistan and/or place the said cancellation order on its official website."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Effect of surrender or cancellation of Shariah compliance certificate",
+     "page": 25,
+     "text": [
+      "Where a Shariah compliance certificate granted under these regulations has been surrendered voluntarily or cancelled, the Commission shall remove the name from the register of Shariah compliant companies and Shariah compliant securities from the Commission’s website, and",
+      "the company or security shall cease to be called a Shariah compliant company or Shariah compliant security, as the case may be.",
+      "Provided that the company shall intimate the Commission, as well as to its shareholders, at least thirty days prior to the voluntarily surrender of the Shariah compliance certificate and the Commission shall cancel the Shariah compliance certificate after thirty days from the date of intimation."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Restriction or suspension of registration",
+     "page": 26,
+     "text": [
+      "(1) Where a registered person contravenes or fails to comply with any provision of these regulations or is not in compliance with any condition or directive, circular, or order issued by the Commission, the Commission may, after providing a reasonable opportunity for representation:",
+      ">(a) impose restrictions on its activities as a registered person;",
+      ">(b) suspend the registration of such a registered person;",
+      ">(c) remove his name from the register maintained by the Commission; and/or",
+      ">(d) impose a penalty as provided in these regulations, or the Act.",
+      "(2) A registered person who has been suspended under this regulation shall cease to act as a registered person during the period of suspension and remove the cause of suspension as specified in the suspension order within a period of one hundred and twenty days from the receipt of the suspension order or such earlier period as provided in the said order.",
+      "(3) The Commission, while suspending a registered person, may impose such conditions as it deems appropriate."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Cancellation of registration",
+     "page": 26,
+     "text": [
+      "(1) The Commission, after providing a reasonable opportunity for representation to a registered person, may cancel its registration if,",
+      ">(a) in the opinion of the Commission, it has been in violation of these regulations or has failed to discharge its obligations under these regulations;",
+      ">(b) it is found guilty of fraud or any criminal offence; or",
+      ">(c) it has been suspended and the cause of suspension has not been removed within one hundred and twenty (120) days from the receipt of the suspension order or such earlier period as provided through the order of suspension.",
+      "(2) The registration of a registered person shall stand cancelled if such registered person,",
+      ">(a) is passed away or dissolved;",
+      ">(b) is declared insolvent by a court;",
+      ">(c) is wound up by an order passed by a court; or",
+      ">(d) voluntarily surrender its registration certificate granted in these regulations through a written notice.",
+      "(3) Upon cancellation of registration, the registered person shall, with immediate effect, cease to act as a registered person."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IX — General Provisions",
+   "sections": [
+    {
+     "no": "34",
+     "title": "Principles of professional behavior",
+     "page": 27,
+     "text": [
+      "In fulfilling their obligations, a registered person and other members of the Shariah supervisory board shall adhere to and uphold the Shariah and observe the following principles of professional behavior:",
+      ">(a) Integrity: uphold fairness and truthfulness and be straightforward and honest in professional relationships;",
+      ">(b) objectivity: while carrying out his duties, exercise professional independence and do not allow any financial or nonfinancial incentives to affect the objectivity of his judgement;",
+      ">(c) due diligence and responsibility: exercise due diligence in his work and not form an opinion without first thoroughly understanding and analyzing relevant issues; assume responsibility for his professional work and for the work carried out by those working under him;",
+      ">(d) care and conscientiousness: - before accepting an appointment, carefully consider whether he is in a position to carry out the work involved, keeping in mind his competence and available time, and he shall always strive to:",
+      ">>(i) uphold fairness and equity for the stakeholders;",
+      ">>(ii) act in a manner that preserves his honesty and integrity;",
+      ">>(iii) exercise appropriate discretion in decision-making and consider both juristic form and economic substance; and",
+      ">>(iv) value the diversity of opinions among various schools of thought as well as differences in expertise among his peers;",
+      ">(e) Confidentiality: maintain confidentiality of all information with which he is entrusted in his assignment and which is likely to be deemed material and sensitive by the company, entity, or institution;",
+      ">(f) Independence: maintain independence and strive not to be in a position of conflict of interest with the company, entity, or institution;",
+      "Explanation. –",
+      "The test of independence principally emanates from the fact that such a person can be reasonably perceived as being able to exercise independent judgement without being subservient to any form of conflict of interest. Wherever a conflict of interest is unavoidable, the person concerned shall declare it in writing to the company, entity, or institution. Such a person shall also report any such conflict with regard to members of his family, business associates, or companies in which they have an interest. Where there is a conflict of interest or a duty to another party, such a person shall abstain from participating in the relevant decision or action on behalf of the company, entity, or institution. Where a notification is made of a conflict, it shall be recorded and retained by the company, entity, or institution."
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Takaful coverage",
+     "page": 27,
+     "text": [
+      "A Shariah compliant company and issuer of Shariah compliant securities shall endeavor to avoid using conventional insurance and instead obtain reasonable Takaful coverage, where required and available."
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Advertising",
+     "page": 28,
+     "text": [
+      "Prior to dissemination of any material for promotion of a product or service, a Shariah compliant company or issuer of a Shariah compliant security, must ensure that the material states the name and registration number of the registered person who reviewed the product, service and contents of advertisement and reference of shariah compliance certificate issued by the Commission."
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Disclosure requirements",
+     "page": 28,
+     "text": [
+      "A Shariah compliant company and issuer of a Shariah compliant security, if it is a company, shall meet disclosure requirements as prescribed in Schedule IV of the Act."
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Accounting, auditing and governance standards",
+     "page": 28,
+     "text": [
+      "A Shariah compliant company and issuer of a Shariah compliant security shall prepare its accounts in accordance with all the applicable Shariah principles and other standards, notified by the Commission for adoption under section 225 of the Act or any other regulatory framework, from time to time.",
+      "Provided that the conditions of this regulation may be relaxed for a particular case, or class of cases, for reasons to be recorded in writing and subject to such conditions as the Commission may deem fit."
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Commission to maintain the register",
+     "page": 28,
+     "text": [
+      "The Commission shall maintain register of Shariah Compliant companies, Shariah compliant securities and registered persons in the manner it deems fit."
+     ]
+    },
+    {
+     "no": "40",
+     "title": "Power of the Commission to call information",
+     "page": 28,
+     "text": [
+      "The Commission shall be empowered to call such information and documentation, as may be required by it from time to time. A Shariah compliant company, issuer of a Shariah compliant security and a registered person are obliged to provide the called information."
+     ]
+    },
+    {
+     "no": "41",
+     "title": "Relaxation of regulations",
+     "page": 28,
+     "text": [
+      "Where the Commission is satisfied that it is not practicable to comply with the requirements of these Regulations in a particular case, or class of cases, the Commission may, for reasons to be recorded in writing relax such requirements subject to such conditions as it may deem fit."
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Fees",
+     "page": 28,
+     "text": [
+      "(1) A Shariah compliant company and issuer of a Shariah compliant security shall be subject to such fees as provided in Schedule - I of these regulations.",
+      "(2) A registered person shall be subject to such fees as provided in Schedule - II of these regulations."
+     ]
+    },
+    {
+     "no": "43",
+     "title": "Penalty",
+     "page": 28,
+     "text": [
+      "Where any person contravenes or fails to comply with any provision of these regulations or is not in compliance with any condition or directive, circular, or order issued by the Commission in relation to the subject matter of these regulations, the Commission may, after providing a reasonable opportunity of representation, impose a penalty as provided in sub-section (4) of section 451 of the Act, after providing a reasonable opportunity for representation."
+     ]
+    },
+    {
+     "no": "44",
+     "title": "Repeal and Savings",
+     "page": 28,
+     "text": [
+      "(1) The Shariah Advisors Regulations, 2017 and the Shariah Governance Regulations, 2018 are hereby repealed.",
+      "Provided that repeal of repealed Regulations shall not—",
+      ">(a) revive anything not in force at the time at which the repeal takes effect; or(b) affect the previous operation of the repealed Regulations or anything duly done or suffered thereunder; or",
+      ">(c) affect any right, privilege, obligation or liability acquired, accrued or incurred under the said repealed Regulations; or",
+      ">(d) affect any penalty imposed, forfeiture made or punishment awarded in respect of any offence committed under the repealed Regulations;",
+      ">(e) affect any inspection, investigation, prosecution, legal proceeding or remedy in respect of any obligation, liability, penalty, forfeiture or punishment as aforesaid,",
+      "and any such inspection, investigation, prosecution, legal proceeding or remedy may be made, continued or enforced and any such penalty, forfeiture or punishment may be imposed, as if these Regulations had not been passed.",
+      "(2) Save as otherwise specifically provided, nothing in the repealed regulations shall affect or deemed to effect any action taken, orders issued, relaxation granted unless withdrawn, fee paid or accrued, resolution passed, shall, if in force at the effective date of the promulgation of these regulations and not inconsistent with provision of these regulations, shall continue to be in force and have effect as if it were respectively taken, made, directed, passed, given, executed or issued under these regulations."
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Draft amendments were published by S.R.O. 802(I)/2026 of 29 April 2026 for comments; they are not part of this text until SECP notifies them.",
+ "schedules": [
+  {
+   "title": "Forms A to L",
+   "page": 30
+  },
+  {
+   "title": "Annexure I",
+   "page": 48
+  },
+  {
+   "title": "Schedule I",
+   "page": 49
+  },
+  {
+   "title": "Schedule II",
+   "page": 50
+  },
+  {
+   "title": "Schedule III",
+   "page": 51
+  }
+ ]
+}

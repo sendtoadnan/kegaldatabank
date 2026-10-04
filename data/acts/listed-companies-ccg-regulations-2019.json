@@ -1,0 +1,683 @@
+{
+ "id": "listed-companies-ccg-regulations-2019",
+ "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
+ "number": "S.R.O. 1163(I)/2019",
+ "type": "regulations",
+ "unit": "Regulation",
+ "parent": "companies-act-2017",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "CCG 2019",
+  "Code of Corporate Governance",
+  "Code of Corporate Governance 2019"
+ ],
+ "enacted": "2019-09-25",
+ "lastAmended": "2025-03-20",
+ "amendedUpToLabel": "20 March 2025",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "listed-companies-ccg-regulations-2019.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 20 March 2025. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter 1 — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short Title and Commencement",
+     "page": 1,
+     "text": [
+      "( 1) These Regulations shall be called the Listed Companies (Code of Corporate Governance) Regulations, 2019.",
+      "(2) These Regulations shall apply to the listed companies based on “comply or explain approach” except the requirements for which it is explicitly stated as “mandatory” and it shall be the responsibility of the board of directors (the “Board”) to use this approach wisely and of investors to assess differing company approaches thoughtfully.",
+      "(3) These Regulations shall come into force from the date of its publication."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1),- In these Regulations, unless there is anything repugnant in the subject or context,",
+      ">(a) “Annexure” annexure mean annexure appended to these Regulations;",
+      ">(b) “Comply or explain approach” means discretion of a company with respect to non-mandatory provisions of these Regulations either to comply or provide appropriate explanation as to any impediment in its compliance in the compliance report along with the financial statements;",
+      ">(c) “Mandatory” in relation to these Regulations, means such provisions that are construed to be strictly complied with by the company and non-compliance of such Regulations leads to penal proceedings under regulation 37;",
+      "(2) Unless otherwise specified, words and expressions used but not defined in these Regulations shall have the same meaning as assigned to them in the Companies Act, 2017 (“the Act”) and the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Number Of Directorship And Composition Of Board",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Number of Directorship",
+     "page": 2,
+     "text": [
+      "Subject to the requirements of section 155 of the Act, it is mandatory that no person shall be elected or nominated or hold office as a director of a listed company including as an alternate director of more than seven listed companies simultaneously:",
+      "Provided that the said limit on directorship shall be effective when the Board shall be reconstituted not later than expiry of its current term."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Diversity in the Board",
+     "page": 2,
+     "text": [
+      "The Board shall comprise of members having appropriate mix of core competencies, diversity, requisite skills, knowledge, experience and fulfils any other criteria as deem relevant in the context of the company’s operations."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Representation of Minority shareholders",
+     "page": 2,
+     "text": [
+      "The minority members as a class shall be facilitated by the Board to contest election of directors by proxy solicitation, for which purpose, the listed companies shall:",
+      ">>(i) annex to the notice issued under sub-section (4) of section 159 of the Act, a statement by a candidate from among the minority shareholders who seeks to contest election to the Board, including a profile of the candidate(s);",
+      ">>(ii) provide information regarding members and shareholding structure to the candidate(s); and",
+      ">>(iii) on a request by the candidate(s) and at the cost of the company, annex to the notice issued under sub-section (4) of section 159 of the Act, an additional copy of proxy form duly filled in by such candidate(s)."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Independent Director",
+     "page": 2,
+     "text": [
+      "(1) It is mandatory that each listed company shall have at least two or one third members of the Board, whichever is higher, as independent directors.",
+      "Explanation. —For the purposes of this sub-regulation, a listed company shall explain the reasons, in the compliance report, if any fraction contained in such one-third number which is not rounded up as one.",
+      "(2) For the purpose of electing independent director, the Board shall be reconstituted not later than expiry of its current term.",
+      "(3) It is mandatory that the independent director shall submit his consent to act as director, along with declaration to the company that he qualifies the criteria of independence notified under the Act and such declaration shall be submitted to chairman of the Board at first meeting which is held after election of directors as well as on an event of any change affecting his independence."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Female Director",
+     "page": 3,
+     "text": [
+      "Subject to section 154 of the Act, it is mandatory that the Board shall have at least one female director when it is reconstituted after the expiry of its current term.",
+      "{fn:3-2}[Omitted]"
+     ],
+     "fn": [
+      {
+       "n": "3-2",
+       "text": "Omitted vide SRO 454(I)/2025 dated March 20, 2025"
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Executive Director",
+     "page": 3,
+     "text": [
+      "(1) It is mandatory that the executive directors, including the chief executive officer, shall not be more than one third of the Board.",
+      "(2) For the purpose of compliance with the requirement of the above sub regulation (1), the Board shall be reconstituted not later than expiry of its current term.",
+      "Explanation I.—For the purposes of this regulation, a listed company shall explain the reasons, in compliance report, any fraction contained in such one-third number which is rounded up as one.",
+      "Explanation II.- Executive director means a director who devotes the whole or substantially the whole of his time (whether paid or not) to the operations of the company."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Chairman of the Board",
+     "page": 3,
+     "text": [
+      "(1) The Chairman and the chief executive officer of a company, by whatever name called, shall not be the same person.",
+      "(2) The Chairman shall be elected subject to the terms and conditions and responsibilities provided under section 192 of the Act and these Regulations."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Board Of Directors, Its Members And Meeting Of Board",
+   "sections": [
+    {
+     "no": "10",
+     "title": "Responsibilities of the Board and its members",
+     "page": 3,
+     "text": [
+      "(1) Subject to the requirements of section 183 and 204 of the Act, the Board is responsible for adoption of corporate governance practices by the company and monitoring effectiveness of such practices and the members of the Board shall ensure high ethical standards in performing their responsibilities.",
+      "(2) The Board is responsible for the governance of risk and for determining the company’s level of risk tolerance by establishing risk management policies and for this purpose the Board is encouraged to undertake at least annually, an overall review of business risks to ensure that the management maintains a sound system of risk identification, risk management and related systemic and internal controls to safeguard assets, resources, reputation and interest of the company and shareholders.",
+      "(3) The Board of the company shall ensure that,-",
+      ">>(i) a vision and/or mission statement monitoring the effectiveness of the company’s governance practices and overall corporate strategy for the company is prepared, adopted and reviewed as and when deemed appropriate by the Board;",
+      ">>(ii) a formal code of conduct is in place that promotes ethical culture in the company and prevents conflict of interest in their capacity as member of the Board, senior management and other employees. The Board shall take appropriate steps to disseminate code of conduct throughout the company along with supporting policies and procedures;",
+      ">>(iii) adequate systems and controls are in place for identification and redressal of grievances arising from unethical practices;",
+      ">>(iv) a system of sound internal control is established, which is effectively implemented and maintained at all levels within the company; and",
+      ">>(v) a formal and effective mechanism is put in place for an annual evaluation of the Board’s own performance, members of the Board and of its committees {fn:4-3} [and it is encouraged to have regular independent evaluation of the board’s performance at least every three years by an external body].",
+      "(4) The Board shall ensure that complete record of particulars of the significant policies along with their dates of approval or updating is maintained by the company. The significant policies may include but not limited to the following,-",
+      ">>(i) governance of risks and internal control measures;",
+      ">>(ii) human resource management including preparation of a succession plan;",
+      ">>(iii) permissible fee for non-executive directors including independent directors;",
+      ">>(iv) procurement of goods and services;",
+      ">>(v) communication policy and investors’/shareholders’ relations;",
+      ">>(vi) marketing;",
+      ">>(vii) determination of terms of credit and discount to customers;",
+      "(viii) write-off of bad/doubtful debts, advances and receivables;",
+      ">>(ix) sale and lease of assets, undertaking, capital expenditure, planning and control;",
+      ">>(x) investments and disinvestment of funds;",
+      ">>(xi) debt coverage;",
+      ">>(xii) determination and delegation of financial powers; (xiii) transactions or contracts with associated companies and related parties;",
+      ">>(xiv) environmental, social and governance (ESG) including but not limited to health and safety aspects in business strategies that promote sustainability, corporate social responsibility initiatives and other philanthropic activities, donations, contributions to charities and other matters of social welfare; {fn:5-4}[]",
+      ">>(xv) whistle blowing policy, by establishing a mechanism to receive, handle complaints in a fair and transparent manner while providing protection to the complainant against victimization {fn:5-5}[; and",
+      ">>(xvi) anti-harassment policy to safeguard the rights and well-being of employees, incorporating the mechanism as prescribed under the Protection Against Harassment of Women at the Workplace Act 2010 and the respective provincial laws on the protection against harassment of women at workplace for the time being in force, if applicable, including;",
+      ">(a) Code of Conduct for protection against harassment at the workplace;",
+      ">(b) Formation of an Inquiry Committee to enquire into complaints in this regard;",
+      ">(c) Designation of a competent authority; and",
+      ">(d) Display copies of the Code of Conduct in English as well as in language understood by the majority of employees at a conspicuous place.]",
+      "(5) The Chairman of the Board shall, at the beginning of term of each director, issue letter to directors setting out their role, obligations, powers and responsibilities in accordance with the Act and the company’s Articles of Association, their remuneration and entitlement.",
+      "(6) {fn:5-6}[It is mandatory for chief executive officer and the directors of the company, representing 1/3 of the board size or four whichever is greater, to attend its general meeting(s) (ordinary and extraordinary) unless there are compelling reasons for not attending the meeting, which should be notified in writing to the company secretary/ chairman of the Board in advance.]",
+      "(7) {fn:5-7}[The chairman of the Board is encouraged to take necessary steps for recording the entire proceedings of the general meeting(s) by audio and visual which shall be archived and made available to the Commission and PSX when required.]"
+     ],
+     "fn": [
+      {
+       "n": "4-3",
+       "text": "Inserted vide SRO 454(I)/2025 dated March 20, 2025"
+      },
+      {
+       "n": "5-4",
+       "text": "Omitted word ‘and’ vide SRO 920(I)/2024 dated June 12, 2024"
+      },
+      {
+       "n": "5-5",
+       "text": "Inserted vide SRO 920(I)/2024 dated June 12, 2024"
+      },
+      {
+       "n": "5-6",
+       "text": "Substituted vide SRO 454(I)/2025 dated March 20, 2025"
+      },
+      {
+       "n": "5-7",
+       "text": "Inserted vide SRO 454(I)/2025 dated March 20, 2025"
+      }
+     ]
+    },
+    {
+     "no": "10A",
+     "title": "Role of the Board and its members to address Sustainability Risks and Opportunities",
+     "page": 6,
+     "text": [
+      "{fn:6-8}[",
+      "(1) The board is responsible for governance and oversight of sustainability risks and opportunities, which includes the environmental, social and governance considerations, within the company by setting the company’s sustainability strategies, priorities and targets to create long term corporate value. The Board is also encouraged to adopt of SECP’s ESG Disclosure Guidelines.",
+      "(2) The board ensures that policies to promote diversity, equity and inclusion (DE&I) are in place to encourage gender mainstreaming, gender equality and the participation of women on the board, management and workforce of the company.",
+      "(3) The board takes appropriate measures to proactively understand and address the principal as well as emerging sustainability risks and opportunities relevant to the company and its business, including climate-related risks and opportunities, assess their potential financial and operational impacts and implement strategies for management and mitigation thereof.",
+      "(4) The board ensures that the company’s sustainability and DE&I related strategies, priorities and targets as well as performance against these targets are periodically reviewed and monitored.",
+      "(5) In order to effectively discharge its sustainability related duties, the board may establish a dedicated sustainability committee having at least one female director, or assign additional responsibilities to an existing board committee. The committee shall monitor and review sustainability related risks and opportunities of the company, ensure DE&I practices are in effect at various board committees, oversee compliance of relevant laws pertaining to relevant sustainability related considerations and its appropriate disclosures. The committee shall submit to the board a report, at least once a year, on embedding sustainability principles into the organization's strategy and operations to increase corporate value.",
+      "(6) The directors report shall provide adequate disclosures regarding the assessment of sustainability related risks, how these are managed or mitigated, and measures taken to promote DE&I in the Company.]"
+     ],
+     "fn": [
+      {
+       "n": "6-8",
+       "text": "Inserted vide SRO 920(I)/2024 dated June 12, 2024"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Agenda and discussion in meetings",
+     "page": 6,
+     "text": [
+      "(1) The Chairman shall set agenda of the",
+      "meeting of the Board and ensure that reasonable time is available for discussion of the same.",
+      "(2) All written notices and relevant material, including the agenda of the meeting shall be circulated at least seven days prior to the meeting, except in the case of emergency meeting, where the notice period may be reduced or waived."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Minutes of meeting",
+     "page": 7,
+     "text": [
+      "(1) The Chairman shall ensure that minutes of the meetings of the Board are kept in accordance with the requirements of section 178 and 179 of the Act.",
+      "(2) The company secretary shall be secretary to the Board.",
+      "(3) Where a director of a company is of the view that his dissenting note has not been satisfactorily recorded in the minutes of a meeting, the matter may be referred to the company secretary for appending such note to the minutes and where the company secretary fails to do so, the director may file an objection with the Commission in the form of a statement to that effect within 30 days of the date of confirmation of the minutes of the meeting."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Attendance at meeting",
+     "page": 7,
+     "text": [
+      "The chief financial officer and company secretary or in their absence, the nominee appointed by the Board, shall attend all meetings of the Board:",
+      "Provided that the chief financial officer and company secretary shall not attend such part of the Board meeting wherein agenda item relates to consideration of their performance or terms and conditions of their service or when, in the opinion of the Board, their presence in the meeting on any agenda item is likely or may tend to impair the organizational discipline and harmony of the company."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Issues To Be Placed For Decision Of The Board Of Directors",
+   "sections": [
+    {
+     "no": "14",
+     "title": "Significant issues",
+     "page": 7,
+     "text": [
+      "The chief executive officer of the company shall place significant issues for the information, consideration and decision, as the case may be, of the Board or its committees that include but are not limited to the following:",
+      ">>(i) as soon as chief executive officer foresees risk of default concerning obligations on any loans (including penalties and other dues to a creditor, bank or financial institution or default in payment of public deposit), Term Finance Certificates (TFCs), Sukuk or any other debt instrument, the same shall be brought to the attention of the Board;",
+      ">>(ii) annual business plan, cash flow projections, forecasts and strategic plan;",
+      ">>(iii) budgets including capital, manpower and overhead budgets, along with variance analysis;",
+      ">>(iv) matters recommended and/or reported by the audit committee and other committees of the Board;",
+      ">>(v) quarterly operating results of the company as a whole and in terms of its operating divisions or business segments;",
+      ">>(vi) internal audit reports, including cases of fraud, bribery, corruption, or irregularities of material nature;",
+      ">>(vii) management letter issued by the external auditors; (viii) details of joint venture or collaboration agreements or agreements with distributors, agents etc.;",
+      ">>(ix) promulgation of or amendment to a law, rule or regulation, applicability of financial reporting standard and such other matters as may affect the company and the status of compliance therewith;",
+      ">>(x) status and implications of any law suit or proceedings (show cause notice, demand or prosecution notice) of material nature, filed by or against the company;",
+      ">>(xi) failure to recover material amounts of loans, advances, and deposits made by the company, including trade debts and inter corporate finance;",
+      ">>(xii) any significant accidents, fatalities, dangerous occurrences and instances of pollution and environmental problems involving the company; (xiii) significant public or product liability claims made or likely to be made against the company, including any adverse judgment or order made on the conduct of the company or of another company that may bear negatively on the company;",
+      ">>(xiv) report on governance, risk management and compliance issues. Risks to be considered shall include reputational risk and shall address risk analysis, risk management and risk communication;",
+      ">>(xv) disputes with labor and their proposed solutions, any agreement with the labor union or collective bargaining agent and any charter of demands on the company;",
+      ">>(xvi) reports on /synopsis of issues and information pursued under the whistle blowing policy, clearly disclosing how such matters were dealt with and finally resolved or concluded; (xvii) implementation of environmental, social & governance; and health & safety business practices including report on corporate social responsibility activities and status of adoption/compliance of the Corporate Social Responsibility (Voluntary) Guidelines, 2013 or any other regulatory framework as applicable; (xviii) payment for goodwill, brand equity or intellectual property;",
+      ">>(xix) sale of assets, investments and interest in subsidiaries and undertakings, of material amount or significant nature, which is not in the ordinary course of business; and",
+      ">>(xx) quarterly details of foreign exchange exposures and the safeguards taken by management against adverse exchange rate movement, if material."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Related party transactions",
+     "page": 8,
+     "text": [
+      "The details of all related party transactions shall be placed periodically before the audit committee of the company and upon recommendations of the audit committee, the same shall be placed before the Board for review and approval:",
+      "Provided where majority of the directors are interested in such transactions, the matter shall be placed before the general meeting for approval."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Remuneration Of Directors",
+   "sections": [
+    {
+     "no": "16",
+     "title": "Formal Policy",
+     "page": 9,
+     "text": [
+      "The Board shall have in place a formal policy and transparent procedure for fixing the remuneration packages of individual directors for attending meetings of the Board and its committees."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Determination of remuneration",
+     "page": 9,
+     "text": [
+      "(1) No director shall determine his own remuneration and levels of remuneration shall be appropriate and commensurate with the level of responsibility and expertise, to attract and retain directors needed to govern affairs of the company successfully and to encourage value addition provided that it shall not be at a level that could be perceived to compromise their independence.",
+      "(2) The process adopted for determination of director’s remuneration shall comply with the provisions of the Act and the company’s articles of association."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Directors’ Training Program",
+   "sections": [
+    {
+     "no": "18",
+     "title": "Directors’ Orientation Program",
+     "page": 9,
+     "text": [
+      "All companies shall make appropriate arrangements to carry out orientation for their directors to acquaint them with these Regulations, applicable laws, their duties and responsibilities to enable them to effectively govern the affairs of the listed company for and on behalf of shareholders."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Directors’ Training",
+     "page": 9,
+     "text": [
+      "(1) It is encouraged that:",
+      ">>(i) by June 30, 2020 at least half of the directors on their Boards;",
+      ">>(ii) by June 30, 2021 at least 75% of the directors on their Boards; and",
+      ">>(iii) by June 30, 2022 all the directors on their Boards have acquired the prescribed certification under any director training program offered by institutions, local or foreign, that meet the criteria specified by the Commission and approved by it.",
+      "(2) A newly appointed director on the Board may acquire, the directors training program certification within a period of one year from the date of appointment as a director on the Board:",
+      "Provided that director having a minimum of 14 years of education and 15 years of experience on the Board of a listed company, local and/or foreign, shall be exempt from the directors training program.",
+      "(3) Companies are also encouraged to arrange training for:",
+      ">>(i) at least one female executive every year under the Directors’ Training program from year July 2020; and",
+      ">>(ii) at least one head of department every year under the Directors’ Training program from July 2022."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Chief Financial Officer, Company Secretary And Head Of Internal Audit",
+   "sections": [
+    {
+     "no": "20",
+     "title": "Approval",
+     "page": 10,
+     "text": [
+      "The Board shall appoint, determine remuneration, renew contracts and terms and conditions of employment of chief financial officer, company secretary and head of internal audit of the company."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Removal",
+     "page": 10,
+     "text": [
+      "The removal of the chief financial officer, company secretary and head of internal audit of a company shall be made with the approval of the Board:",
+      "Provided that the head of internal audit may be removed only upon recommendation of the audit committee."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Qualification of chief financial officer",
+     "page": 10,
+     "text": [
+      "No person shall be appointed as the chief financial officer of a company unless,-",
+      ">>(i) he/ she has at least three years of managerial experience in the fields of audit or accounting or in managing financial or corporate affairs functions of a company and is a member of the Institute of Chartered Accountants of Pakistan or Institute of Cost and Management Accountants of Pakistan; or",
+      ">>(ii) he/ she has at least five years of managerial experience in fields of audit or accounting or in managing financial or corporate affairs functions of a company and is either a member of professional body of accountants whose qualification is recognized as equivalent to post graduate degree by Higher Education Commission of Pakistan or has a postgraduate degree in finance from a university in Pakistan or equivalent recognized and approved by the Higher Education Commission of Pakistan; or",
+      ">>(iii) he/ she has at least seven years of managerial experience in fields of audit or accounting or in managing financial or corporate affairs functions of a company and has a suitable degree from a university in Pakistan or abroad equivalent to graduate degree, recognized and approved by the Higher Education Commission of Pakistan:",
+      "Provided that existing chief financial officer of a listed company having at least fifteen years of experience on the same position in a listed company shall be exempted from qualification criteria given above."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Qualification of internal auditor",
+     "page": 11,
+     "text": [
+      "No person shall be appointed as the head of internal audit unless:",
+      ">>(i) he/she has three years of relevant experience in audit or finance or compliance function and is a member of the Institute of Chartered Accountants of Pakistan or Institute of Cost and Management Accountants of Pakistan; or",
+      ">>(ii) he/she has five years of relevant experience in audit or finance or compliance function and:",
+      ">(a) is a Certified Internal Auditor; or",
+      ">(b) is a Certified Fraud Examiner; or",
+      ">(c) is a Certified Internal Control Auditor; or",
+      ">(d) has a post graduate degree in business, finance from a university or equivalent recognized and approved by the Higher Education Commission of Pakistan and is a member of a professional body relevant to such qualification, if applicable;",
+      ">>(iii) he/ she has at least seven years of managerial experience in fields of audit or accounting or in managing financial or corporate affairs functions of a company and has a suitable degree from a university in Pakistan or abroad equivalent to graduate degree, recognized and approved by the Higher Education Commission of Pakistan.",
+      "Explanation: the expression, “body of professional accountants” means body of professional accountants, -",
+      ">>(i) established in Pakistan, governed under a special enactment of the Federal Government as a self-regulatory organization managed by a representative National Council, and has a prescribed minimum criterion of examination and entitlement of membership of such body; or",
+      ">>(ii) established outside Pakistan under a special enactment in the country of its origin and is a member of the International Federation of Accountants (IFAC):",
+      "Provided that existing head of internal audit of a listed company having atleast fifteen years of experience on the same position in a listed company shall be exempted from qualification criteria given above."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Qualification of company secretary",
+     "page": 12,
+     "text": [
+      "No person shall be appointed as the company secretary unless he holds the qualification as specified under the relevant Regulations by the Commission:",
+      "Provided, the same person shall not simultaneously hold office of chief financial officer and the company secretary of a listed company."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VIII — Responsibility For Financial Reporting And Corporate Compliance",
+   "sections": [
+    {
+     "no": "25",
+     "title": "Financial statement endorsed by chief financial officer and chief executive officer",
+     "page": 12,
+     "text": [
+      "The chief executive officer and the chief financial officer shall duly endorse the quarterly, half-yearly and annual financial statements under their respective signatures prior to placing and circulating the same for consideration and approval of the Board."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "External Auditor",
+     "page": 12,
+     "text": [
+      "Chief executive officer and chief financial officer shall have the annual and interim financial statement, both standalone and consolidated where applicable, initiated by the external auditors before presenting it to the audit committee and the Board for approval."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IX — Committees Of The Board",
+   "sections": [
+    {
+     "no": "27",
+     "title": "Audit Committee",
+     "page": 12,
+     "text": [
+      "(1) It is mandatory that the audit committee shall be constituted by the Board keeping in view the following requirements,-",
+      ">>(i) the Board shall establish an audit committee of at least three members comprising of non-executive directors and at least one independent director;",
+      ">>(ii) chairman of the committee shall be an independent director, who shall not be the chairman of the Board;",
+      ">>(iii) the Board shall satisfy itself that at least one member of the audit committee shall be “financially literate”;.",
+      "Explanation: - for the purposes of this clause the expression, “financial literate” means a person who,-",
+      ">(a) is a member of a recognized body of professional accountants; or",
+      ">(b) has a post graduate degree in finance from a university or equivalent institution, either in Pakistan or abroad, recognized by the Higher Education Commission of Pakistan; or",
+      ">(c) has atleast ten (10) years of experience as audit committee member; or",
+      ">(d) atleast twenty (20) years of senior management experience in overseeing of financial, audit related matters.",
+      ">>(iv) the Audit Committee of a company shall appoint a secretary of the committee who shall either be the company secretary or head of internal audit.",
+      "(2) It is mandatory that meetings of the audit committee shall be held as per the following requirements,-",
+      ">>(i) the audit committee of a company shall meet at least once every quarter of the financial year. These meetings shall be held prior to the approval of interim results of the company by its Board and after completion of external audit;",
+      ">>(ii) a meeting of the audit committee shall also be held, if requested by the external auditors, head of internal audit or by chairman of the audit committee;",
+      ">>(iii) the head of internal audit and external auditors represented by engagement partner or in his absence any other partner designated by the audit firm shall attend meetings of the audit committee at which issues, if any, relating to accounts and audit are discussed:",
+      "Provided that chief executive officer and the chief financial officer shall not be members of the audit committee but should be available to attend its meetings at the invitation of the chairman of audit committee:",
+      "Provided further that at least once a year, the audit committee shall meet the external auditors without the chief financial officer and the head of internal audit being present:",
+      "Provided also that at least once a year, the audit committee shall meet the head of internal audit and other members of the internal audit function without the chief financial officer and the external auditors being present.",
+      "(3) It is mandatory that the Board of every company shall determine the terms of reference of the audit committee.",
+      "(4) It is mandatory that the Board shall provide adequate resources and authority to enable the audit committee to carry out its responsibilities effectively and the terms of reference of the audit committee shall be explicitly documented which shall also include the following,-",
+      ">>(i) determination of appropriate measures to safeguard the company’s assets;",
+      ">>(ii) review of annual and interim financial statements of the company, prior to their approval by the Board, focusing on,-",
+      ">(a) major judgmental areas;",
+      ">(b) significant adjustments resulting from the audit;",
+      ">(c) going concern assumption;",
+      ">(d) any changes in accounting policies and practices;",
+      ">(e) compliance with applicable accounting standards;",
+      ">(f) compliance with these Regulations and other statutory and regulatory requirements; and",
+      ">(g) all related party transactions;",
+      ">>(iii) review of preliminary announcements of results prior to external communication and publication;",
+      ">>(iv) facilitating the external audit and discussion with external auditors of major observations arising from interim and final audits and any matter that the auditors may wish to highlight (in the absence of management, where necessary);",
+      ">>(v) review of management letter issued by external auditors and management’s response thereto;",
+      ">>(vi) ensuring coordination between the internal and external auditors of the company;",
+      ">>(vii) review of the scope and extent of internal audit, audit plan, reporting framework and procedures and ensuring that the internal audit function has adequate resources and is appropriately placed within the company; (viii) consideration of major findings of internal investigations of activities characterized by fraud, corruption and abuse of power and management's response thereto;",
+      ">>(ix) ascertaining that the internal control systems including financial and operational controls, accounting systems for timely and appropriate recording of purchases and sales, receipts and payments, assets and liabilities and the reporting structure are adequate and effective;",
+      ">>(x) review of the company’s statement on internal control systems prior to endorsement by the Board and internal audit reports;",
+      ">>(xi) instituting special projects, value for money studies or other investigations on any matter specified by the Board, in consultation with the chief executive officer and to consider remittance of any matter to the external auditors or to any other external body;",
+      ">>(xii) determination of compliance with relevant statutory requirements;",
+      "(xiii) monitoring compliance with these Regulations and identification of significant violations thereof;",
+      ">>(xiv) review of arrangement for staff and management to report to audit committee in confidence, concerns, if any, about actual or potential improprieties in financial and other matters and recommend instituting remedial and mitigating measures;",
+      ">>(xv) recommend to the Board the appointment of external auditors, their removal, audit fees, the provision of any service permissible to be rendered to the company by the external auditors in addition to audit of its financial statements, measures for redressal and rectification of non-compliances with the Regulations. The Board shall give due consideration to the recommendations of the audit committee and where it acts otherwise it shall record the reasons thereof;",
+      ">>(xvi) consideration of any other issue or matter as may be assigned by the Board;",
+      "(5) It is mandatory that the secretary of audit committee shall circulate minutes of meetings of the audit committee to all members, directors, head of internal audit and where required to chief financial officer prior to the next meeting of the Board:",
+      "Provided that where this is not practicable, the chairman of the audit committee shall communicate a synopsis of the proceedings to the Board and the minutes shall be circulated along with the minutes of the meeting of the Board."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Human Resource and Remuneration Committee",
+     "page": 15,
+     "text": [
+      "(1) There shall be a human resource and remuneration committee of at least three members comprising a majority of nonexecutive directors of whom at least one member shall be an independent director.",
+      "(2) The chairman of the committee shall be an independent director and the chief executive officer may be included as a member of the committee.",
+      "(3) The committee shall meet at least once in a financial year and may meet more often if requested by a member of the Board, or committee itself or the chief executive officer and the head of human resource or any other person appointed by the Board may act as the secretary of the committee.",
+      "(4) The chief executive officer (if not a member of the committee), head of human resource (if not the secretary to committee) or any other advisor or person may attend the meeting only by invitation.",
+      "(5) A member of the committee shall not participate in the proceedings of the committee when an agenda item relating to his performance or review or renewal of the terms and conditions of his service comes up for consideration.",
+      "(6) The terms of reference of committee shall be determined by the Board which may include the following,-",
+      ">>(i) recommendation to the Board for consideration and approval a policy framework for determining remuneration of directors (both executive and non-executive directors and members of senior management). The definition of senior management will be determined by the Board which shall normally include the first layer of management below the chief executive officer level;",
+      ">>(ii) undertaking, annually, a formal process of evaluation of performance of the Board as a whole and its committees either directly or by engaging external independent consultant and if so appointed, a statement to that effect shall be made in the directors’ report disclosing therein name and qualifications of such consultant and major terms of his / its appointment;",
+      ">>(iii) recommending human resource management policies to the Board;",
+      ">>(iv) recommending to the Board the selection, evaluation, development, compensation (including retirement benefits) of chief operating officer, chief financial officer, company secretary and head of internal audit;",
+      ">>(v) consideration and approval on recommendations of chief executive officer on such matters for key management positions who report directly to chief executive officer or chief operating officer; and",
+      ">>(vi) where human resource and remuneration consultants are appointed, they shall disclose to the committee their credentials and as to whether they have any other connection with the company."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Nomination Committee",
+     "page": 16,
+     "text": [
+      "(1) The Board may constitute a separate committee, designated as the nomination committee, of such number and class of directors, as it may deem appropriate in its circumstances.",
+      "(2) The nomination committee shall be responsible for,-",
+      ">>(i) considering and making recommendations to the Board in respect of the Board’s committees and the chairmanship of the Board’s committees; and",
+      ">>(ii) keeping the structure, size and composition of the Board under regular review and for making recommendations to the Board with regard to any changes necessary.",
+      "(3) The terms of reference of nomination committee shall be determined by the Board ensuring there is no duplication or conflict with matters stipulated under terms of reference of Human Resource and Remuneration (HR&R) Committee."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Risk Management Committee",
+     "page": 17,
+     "text": [
+      "(1) The Board may constitute the risk management committee, of such number and class of directors, as it may deem appropriate in its circumstances, to carry out a review of effectiveness of risk management procedures and present a report to the Board.",
+      "(2) The terms of reference of the committee may include the following, -",
+      ">>(i) monitoring and review of all material controls (financial, operational, compliance);",
+      ">>(ii) risk mitigation measures are robust and integrity of financial information is ensured; and",
+      ">>(iii) appropriate extent of disclosure of company’s risk framework and internal control system in Directors report."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter X — Internal Audit",
+   "sections": [
+    {
+     "no": "31",
+     "title": "Composition of internal audit function",
+     "page": 17,
+     "text": [
+      "(1) There shall be an internal audit function in every company.",
+      "(2) The head of internal audit shall functionally report to the audit committee and administratively to the chief executive officer and his performance appraisal shall be done jointly by the Chairman of the audit committee and the chief executive officer.",
+      "(3) No director on the Board, shall be appointed, in any capacity, in the internal audit function of the company.",
+      "(4) The Board shall ensure that the internal audit team comprises of experts of relevant disciplines in order to cover all major heads of accounts maintained by the company.",
+      "(5) The company shall ensure that head of internal audit is suitably qualified, experienced and conversant with the company's policies and procedures.",
+      "(6) The internal audit function, wholly or partially, may be outsourced by the company to a professional services firm or be performed by the internal audit staff of holding company and in lieu of outsourcing, the company shall appoint or designate a fulltime employee other than chief financial officer, as head of internal audit holding equivalent qualification prescribed under these Regulations, to act as coordinator between firm providing internal audit services and the Board:",
+      "Provided that while outsourcing the function, the company shall not appoint its existing external auditors or any of its associated company or associated undertaking, as internal auditors.",
+      "(7) All companies shall ensure that internal audit reports are provided for the review of external auditors.",
+      "(8) The auditors shall discuss any major findings in relation to the reports with the audit committee, which shall report matters of significance to the Board."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XI — External Audit",
+   "sections": [
+    {
+     "no": "32",
+     "title": "Terms of appointment of external auditor",
+     "page": 18,
+     "text": [
+      "(1) It is mandatory that no company shall appoint an external auditors, a firm of auditors, which has not been given a satisfactory rating under the Quality Control Review program of the Institute of Chartered Accountants of Pakistan and registered with Audit Oversight Board of Pakistan under section 36I of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997).",
+      "(2) It is mandatory that no company shall appoint as external auditors, a firm of auditors which or a partner of which is non-compliant with the International Federation of Accountants' Guidelines on Code of Ethics, as adopted by the Institute of Chartered Accountants of Pakistan.",
+      "(3) It is mandatory that the Board of a company shall recommend appointment of external auditors for a year and its remuneration, as suggested by the audit committee and such recommendations shall be included in the Directors’ Report and in case a recommendation for appointment of an auditor is other than the retiring auditor, the reasons for the same shall be included in the Directors’ Report.",
+      "(4) It is mandatory that no company shall appoint its external auditors to provide services in addition to audit except in accordance with these Regulations and shall require the auditors to observe applicable International Federation of Accountants guidelines in this regard.",
+      "(5) It is mandatory that the company shall ensure that the auditors do not perform management functions or make management decisions, responsibility for which remains with the Board and management of the company.",
+      "(6) It is mandatory that no company shall appoint a person as an external auditor or a person involved in the audit of a company who is a close relative (spouse, parents, dependents and non-dependent children) of the chief executive officer, the chief financial officer, the head of internal audit, the company secretary or a director of the company.",
+      "(7) It is mandatory that every company requires the external auditors to furnish a management letter to its Board within 45 days of the date of audit report:",
+      "Provided that any matter deemed significant by the external auditor shall be communicated in writing to the Board prior to the approval of the audited accounts by the Board."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Rotation of auditors",
+     "page": 19,
+     "text": [
+      "(1) It is mandatory that all listed companies in the financial sector shall change their external auditors every five years:",
+      "Provided that all inter related companies/ institutions, engaged in business of providing financial services shall appoint the same firm of auditors to conduct the audit of their accounts.",
+      "Explanation: - Financial sector, for this purpose, means banks, non-banking financial companies (NBFCs), modarabas and insurance or takaful insurance companies.",
+      "(2) It is mandatory that all listed companies other than those in the financial sector shall, at the minimum, rotate the engagement partner after every five years:",
+      "Provided that in case the audit firm is a sole proprietorship then after completion of five years such audit firm shall be changed."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XII — Reporting And Disclosure",
+   "sections": [
+    {
+     "no": "34",
+     "title": "Directors’ Report",
+     "page": 19,
+     "text": [
+      "(1) The quarterly financial statements of companies shall be published and circulated along with directors’ review on the affairs of the company.",
+      "(2) The Directors’ Report shall include the following,-",
+      ">>(i) total number of directors including the following,-",
+      ">(a) Male; and",
+      ">(b) Female;",
+      ">>(ii) composition including the following,-",
+      ">(a) Independent directors;",
+      ">(b) Non-executive directors;",
+      ">(c) Executive directors; and",
+      ">(d) Female director.",
+      ">>(iii) The names of members of the Board’s committees.",
+      ">>(iv) The directors in their report to members shall state the remuneration policy of non-executive directors including independent directors, as approved by the Board, which shall also include disclosing the significant features and elements thereof.",
+      "(3) The company's Annual Report shall contain details of aggregate amount of remuneration separately of executive and non-executive directors, including salary/fee, perquisites, benefits and performance-linked incentives etc. Companies are encouraged to provide aforesaid details of remuneration of individual directors in annual report."
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Disclosure of significant policies on website",
+     "page": 20,
+     "text": [
+      "The company may post the following on its website:",
+      "(1) key elements of its significant policies including but not limited to the following:",
+      ">>(i) communication and disclosure policy;",
+      ">>(ii) code of conduct for members of board of directors, senior management and other employees;",
+      ">>(iii) risk management policy;",
+      ">>(iv) internal control policy;",
+      ">>(v) whistle blowing policy;",
+      ">>(vi) corporate social responsibility/sustainability/ environmental, social and governance related policy {fn:20-9}[; and",
+      ">>(vii) policies for promoting DE&I and protection against harassment at the workplace.]",
+      "(3) brief synopsis of terms of reference of the Board’s committees including:",
+      ">>(i) Audit Committee (ii) HR and Remuneration Committee (iii) Nomination Committee (iv) Risk Management Committee",
+      "(4) key elements of the directors’ remuneration policy."
+     ],
+     "fn": [
+      {
+       "n": "20-9",
+       "text": "Amended vide SRO 920(I)/2024 dated June 12, 2024 -.-.-.-"
+      }
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Compliance Statement and Auditor Review",
+     "page": 20,
+     "text": [
+      "(1) It is mandatory that the company shall publish and circulate a statement, as given under Annexure A to these Regulations, along with their annual reports to set out the status of their compliance with the requirements of these Regulations and the said statement shall be specific and supported by necessary explanations..",
+      "(2) It is mandatory that the company shall ensure that the statement of compliance is reviewed and certified by statutory auditors as per relevant Regulations specified by Commission.",
+      "(3) It is mandatory that the statutory auditors of company shall highlight any noncompliance with these Regulations in their review report."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XIII — Miscellaneous",
+   "sections": [
+    {
+     "no": "37",
+     "title": "Penalty",
+     "page": 21,
+     "text": [
+      "Whoever fails or refused to comply with, or contravenes regulation 3, 6, 7, 8, 27, 32, 33 and 36 of these Regulations, shall be punishable with penalty as provided under sub-section (2) of section 512 of the Act."
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Relaxation from requirements of Regulations",
+     "page": 21,
+     "text": [
+      "Where the Commission is satisfied that it is not practicable to comply with any of the mandatory requirements of the regulation 3, 6, 7, 8, 27, 32, 33 and 36 of these Regulations, it may, for reasons to be recorded in writing, on the application by the company, extend the time for compliance of the same subject to such conditions as it may deem fit."
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Repeal and Savings",
+     "page": 21,
+     "text": [
+      "(1) The Listed Companies (Code of Corporate Governance) Regulations, 2017, hereinafter called as repealed regulations, shall stand repealed:",
+      "Provided that repeal of the repealed regulations shall not-",
+      ">(a) revive anything not in force at the time at which the repeal take effect; or",
+      ">(b) affect the previous operation of the repealed regulations or anything duly done or suffered thereunder; or",
+      ">(c) affect any right, privilege, obligation or liability acquired, accrued or incurred under or in respect of the said repealed regulations; or",
+      ">(d) affect any penalty imposed, forfeiture made or punishment incurred in respect of any offence committed against or in violation of the repealed regulations; or",
+      ">(e) affect any inspection, investigation, prosecution, legal proceeding or remedy in respect of any obligation, liability, penalty, forfeiture or punishment as aforesaid, and any such inspection, investigation, prosecution, legal proceedings or remedy may be made, continued or enforced and any such penalty, forfeiture or punishment may be imposed, as if these Regulations has not been notified.",
+      "(2) Save as otherwise specifically provided, nothing in these Regulations shall affect or deemed to effect any action taken, orders issued, application received, relaxation granted unless withdrawn, fee paid or accrued, resolution passed, direction given under the repealed regulations shall, if in force at the effective date of these Regulations and not inconsistent with provision of these Regulations, shall continue to be in force and have effect as if it were respectively taken, made, directed, received, passed, given, executed or issued under these Regulations."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure A",
+   "page": 22
+  }
+ ],
+ "frontNotes": [
+  {
+   "n": "1-1",
+   "text": "SRO 1163 (I)/2019 dated September 25, 2019 is further amended vide SRO 906(I)/2023 dated July 7, 2023, and SRO 920(I)/2024 dated June 12, 2024 and SRO 454(I)/2025 dated March 20, 2025."
+  }
+ ]
+}

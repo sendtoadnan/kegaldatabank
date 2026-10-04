@@ -1,0 +1,324 @@
+{
+ "id": "companies-postal-ballot-regulations-2018",
+ "title": "Companies (Postal Ballot) Regulations, 2018",
+ "number": "S.R.O. 254(I)/2018",
+ "type": "regulations",
+ "unit": "Regulation",
+ "parent": "companies-act-2017",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Postal Ballot Regulations",
+  "Postal Ballot Regulations 2018"
+ ],
+ "enacted": "2018-02-22",
+ "lastAmended": "2025-03-20",
+ "amendedUpToLabel": "20 March 2025",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "companies-postal-ballot-regulations-2018.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 20 March 2025. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called Companies (Postal Ballot) Regulations, 2018.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, -",
+      ">(a) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">(b) “authentication” means authentication through email and SMS codes for ensuring communication with legitimate member;",
+      ">(c) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(d) “cyber security” includes protecting information, equipment, devices, computer, computer resource, communication device and information stored therein, from unauthorized access, use, disclosures, disruption, modification or destruction;",
+      ">(e) “electronic signature” shall be the same as defined under clause (n) of section 2 of the Electronic Transactions Ordinance, 2002 (LI of 2002); {fn:1-2}[ ]",
+      ">(f) “electronic voting or (e-voting)” means voting through electronic mode; {fn:1-3}[and",
+      ">(g) “scrutinizer” means scrutinizer appointed under regulation 11 of this regulation.]",
+      "(2) All words and expressions used but not defined in these Regulations shall have the same meanings as in the Act and the Electronic Transactions Ordinance, 2002 (LI of 2002)."
+     ],
+     "fn": [
+      {
+       "n": "1-2",
+       "text": "Omitted the word “and” vide SRO 2192/(I)/2022 dated December 5, 2022"
+      }
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Applicability",
+     "page": 2,
+     "text": [
+      "The right of vote through postal ballot shall be provided to members of-",
+      ">(a) every company, subject to the requirements of sections 143 and 144 of the Act; and",
+      ">(b) a listed company {fn:2-4}[for all businesses classified as special business under the Act and in case of election of directors, if the number of persons who offer themselves to be elected is more than the number of directors fixed under sub-section (1) of section 159 of the Act]."
+     ],
+     "fn": [
+      {
+       "n": "2-4",
+       "text": "Substituted for the words “in case of election of directors’’ vide SRO 2192/(I)/2022 dated December 5, 2022"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Electronic Voting",
+   "sections": [
+    {
+     "no": "4",
+     "title": "Responsibility of company",
+     "page": 2,
+     "text": [
+      "{fn:2-5} [(1) The right of vote through postal ballot shall be provided to members of every company, subject to the requirements of sections 143 and 144 of the Act.",
+      "(1A) The right to vote through electronic voting facility and voting by post shall be provided to members of every listed company for all businesses classified as special business under the Act and in case of election of directors, if the number of persons who offer themselves to be elected is more than the number of directors fixed under sub-section (1) of section 159 of the Act.]",
+      "{fn:2-6}[(1B)] For the purposes of e-voting and related matters a company shall maintain record of email and mobile number of members and the board of the company shall approve: -",
+      ">(a) procedure for appointment of e-voting service provider in accordance with these regulations and the articles of association of the company;",
+      ">(b) mode of provision of information to foreign shareholders to enable them to cast vote through e-voting.",
+      "(2) Subject to the requirements of sections 143 and 144 of the Act, where poll is demanded in the general meeting, a company shall within seven days from the day on which it is demanded send to all members complete information, including but not limited to the following, for casting vote in a secured manner as well as enable them to cast vote through e-voting: -",
+      ">(a) web address, login details, password, date of casting e-vote and other necessary details through email; and",
+      ">(b) security codes through SMS from web portal of e-voting service provider; or electronic signature.",
+      "(3) Company shall ensure that agenda items for which poll was demanded are correctly uploaded in the web portal of e-voting service provider and shall resolve any grievances of members to enable them to cast vote through e-voting.",
+      "(4) {fn:3-7}[In case of election of directors and transactions specified as special business under the Act, a listed company shall send the required information to members as provided in sub-regulations (2) and (3) not later than seven days before the date of general meeting and the provisions of regulation 7 shall apply.]"
+     ],
+     "fn": [
+      {
+       "n": "2-5",
+       "text": "Inserted Clause 1 and IA vide SRO 2192/(I)/2022 dated December 5, 2022"
+      },
+      {
+       "n": "2-6",
+       "text": "Clause renumbered vide SRO 2192/(I)/2022 dated December 5, 2022"
+      },
+      {
+       "n": "3-7",
+       "text": "Substituted vide SRO 453(I)/2025 dated March 20, 2025"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "E-voting service provider",
+     "page": 3,
+     "text": [
+      "For the purposes of e-voting and related matters, company shall appoint e-voting service provider subject to the fulfilment of eligibility and other requirements specified under these regulations."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Eligibility of e-voting Service Provider",
+     "page": 3,
+     "text": [
+      "Following persons shall be eligible for appointment as e-voting service provider: -",
+      ">(a) central depository licensed under Securities Act, 2015 (III of 2015); or",
+      ">(b) a share registrar and ballotter as registered under the Share Registrars and Ballotters Regulations, 2017, subject to the following minimum requirements that –",
+      ">>(i) it owns a web portal and secured system based on process of display of electronic ballots, recording of votes of the members and the number of votes polled in favour or against along with text of the resolutions, in such a manner that the entire voting exercised by way of electronic means accurately gets registered and counted in electronic registry in a centralized server with adequate cyber security;",
+      ">>(ii) its entire system is certified by independent external auditors or expert regarding information security standards (e.g. ISO Certification), penetration testing, cyber security protection, business continuity and disaster recovery arrangements;",
+      ">>(iii) its web portal and secured system shall use following security features:",
+      ">>>(I) electronic signature or authentication for communication with members;",
+      ">>>(II) maintenance of passwords in the encrypted mode in the database;",
+      ">>>(III) completely automated public turning test to tell computers and humans apart (CAPTCHA) mechanism upon login of e-voting portal;",
+      ">>>(IV) secure communication by use of hypertext transfer protocol secure (HTTPs) protocol and secure sockets layer (SSL) certificate;",
+      ">>>(V) significant activity by web portal users shall be logged;",
+      ">>>(VI) backup of database for data loss prevention;",
+      ">>(iv) it is not an associated company or associated undertaking or related party of the company appointing it as an e-voting provider."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Procedure for e-voting",
+     "page": 3,
+     "text": [
+      "(1) The facility for e-voting shall remain open for not less than three days and shall close at 1700 hours (Pakistan Standard Time) on the date preceding the date of the poll.",
+      "(2) Identity of the members intending to cast vote through e-voting shall be authenticated through electronic signature or authentication for login.",
+      "(3) Members shall cast vote online during the time specified in sub-regulation (1), provided that once the vote on a resolution is casted by a member, he shall not be allowed to change it subsequently.",
+      "(4) The e-voting service provider shall be required to keep the result of e-voting confidential and provide access to the chairman of the general meeting in which poll was demanded to unblock result of e-voting on the day of poll."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Voting Through Ballot Paper",
+   "sections": [
+    {
+     "no": "8",
+     "title": "Responsibility of Company",
+     "page": 4,
+     "text": [
+      "(1) Subject to sections 143 and 144 of the Act, a company shall, within three working days from the day of general meeting, in which poll is demanded, {fn:4-8}[upload the ballot paper on its website and publish the same] in English and Urdu languages at least in one issue each of a daily newspaper of respective language having nationwide circulation substantially on the format as provided in Annexure I containing the draft resolution and following information:",
+      ">(a) business address and contact details of chairman of the general meeting in which poll was demanded, where duly filled ballot paper has to be sent by members;",
+      ">(b) detailed procedure for submission of ballot papers.",
+      "{fn:4-9}[(2) Where, in addition to e-voting, the option of voting through ballot paper is provided by the Company in case of election of directors or transactions specified as special business under the Act, the Company shall publish the ballot paper and information as provided in sub-regulation (1) in newspapers and also upload the ballot paper on its website not later than seven days before the general meeting and the provisions of regulation 9 shall apply]."
+     ],
+     "fn": [
+      {
+       "n": "4-8",
+       "text": "Substituted for the words “publish ballot paper” vide SRO 2192/(I)/2022 dated December 5, 2022"
+      },
+      {
+       "n": "4-9",
+       "text": "Substituted vide SRO 2192/(I)/2022 dated December 5, 2022. The Substituted text is reproduced below, “The Company shall also upload the ballot paper and information given in subsection (1) on its website.”"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Procedure for voting through ballot paper",
+     "page": 4,
+     "text": [
+      "(1) The members shall ensure that duly filled and signed ballot paper along with copy of Computerized National Identity Card (CNIC) should reach the chairman of the meeting through post or email one day before the day of poll, during working hours. The signature on the ballot paper shall match with the signature on CNIC.",
+      "(2) In case of foreign members and representatives of a body corporate, corporation and Federal Government, acceptability of other identification documents in lieu of CNIC shall be approved by the board of the company."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Result Of Poll",
+   "sections": [
+    {
+     "no": "10",
+     "title": "Responsibility of Chairman of meeting",
+     "page": 4,
+     "text": [
+      "(1) The chairman of the general meeting shall record the time and date of receipt of ballot papers, keep them in safe custody and ensure confidentiality of the result till it is formally announced after the conclusion of the voting in the meeting.",
+      "(2) The decision of chairman of the meeting regarding validity of the vote shall be final.",
+      "(3) The chairman of the meeting shall immediately after the conclusion of poll, count votes cast during time of poll in person, through proxy, video-link and post and in case of e-voting unblock result of e-voting in the presence of a representative of the members demanding the poll {fn:5-10}[ and two witnesses not in employment of the Company. The Chairman of the meeting shall ensure completeness and accuracy of the results of the voting.",
+      "{fn:5-11} [Omitted]",
+      "(4) Result of poll shall be announced in the meeting by the chairman of the meeting and it shall also be published on the company’s website at the earliest but not later than twenty-four hours from the conclusion of the general meeting.",
+      "(5) The chairman, after announcement of result of poll shall send execution report of poll, substantially on the format as provided in Annexure II, to the company who shall preserve it safely in accordance with the provisions of section 151 of the Act.",
+      "{fn:5-12}[(6) Where a scrutinizer has been appointed under Regulation 11 by the Board, the Chairman shall also, -",
+      ">(a) ensure that the scrutinizer(s) is provided, prior to members meeting, with the register of members, specimen signature of the members, relevant details pertaining to members and any other document related to the voting process including an independent certification report and flow chart of the e-voting system;",
+      ">(b) ensure presence of scrutinizer while unblocking the results of e-voting;",
+      ">(c) record the time and date of receipt of the report submitted by the scrutinizer under Regulation 11 A (3);",
+      ">(d) immediately after the receipt of the scrutinizer’s report as per Regulation 11A (3), announce the result in the meeting and place the same along with the scrutinizer’s report, on the website of the Company.; and",
+      ">(e) ensure that the company maintains record of shareholders, either manually or electronically, of the assent and dissent received including the votes that are considered invalid, along with the particulars of name, folio number and total number of shares held, as mentioned but not limited to the format provided in Annexure II.]"
+     ],
+     "fn": [
+      {
+       "n": "5-11",
+       "text": "Election of directors. (1) In case of election of directors, if the number of persons who offer themselves to be elected is more than the number of directors fixed under sub-section (1) of section 159 of the Act, a listed company shall:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — [Appointment And Responsibilities Of Scrutinizer]",
+   "sections": [
+    {
+     "no": "11",
+     "title": "Appointment of Scrutinizer",
+     "page": 5,
+     "text": [
+      "{fn:5-14}(1) The Board of a listed company shall appoint a scrutinizer for the purpose of voting in the meeting where following businesses are to be transacted, -",
+      ">(a) businesses mentioned in section 183 (3) (a) and (b) of the Act;",
+      ">(b) investment in associated companies as mentioned in section 199 of the Act except where investment is made in wholly owned subsidiary; and",
+      ">(c) election of directors",
+      "{fn:6-15} [Provided that the scrutinizer shall be appointed not later than twenty-one days before the date of general meeting and notice of the meeting shall provide the information about the scrutinizer, including but not limited to name, qualification, experience and the purpose of appointment.]",
+      "(2) The scrutinizer appointed under sub-regulation (1) shall, -",
+      ">(a) be the statutory auditor of the company or any other auditor fulfilling requirements stated in section 247 of the Act and having satisfactory QCR Rating from the Institute of Chartered Accountants of Pakistan (ICAP); and",
+      ">(b) shall in the opinion of the Board has necessary knowledge and experience to independently scrutinize the voting process.",
+      "(3) The scrutinizer appointed under sub-regulation (1), may take assistance of any person who is not in employment of the company for the purpose of fulfilling his/her responsibilities.]"
+     ],
+     "fn": [
+      {
+       "n": "5-14",
+       "text": "Substituted vide SRO 2192/(I)/2022 dated December 5, 2022. The substituted regulation is reproduced below, (a) in case of e-voting, send information to members as provided in sub regulation 2 and 3 of regulation 4, not later than seven days before the date of general meeting and the provisions of regulation 7 shall apply. (b) in case of voting through ballot paper, publish the ballot paper and information as provided in regulation 8 in newspapers, shall also upload the ballot paper on its website not later than seven days before the general meeting and the provisions of regulation 9 shall apply. (2) The chairman of the meeting shall immediately after the conclusion of voting for election of directors, count votes casted during the meeting in person, through proxy, video-link and post and in case of e-voting unblock result of e-voting and announce result in accordance with sub-regulation 4 and 5 of regulation 10."
+      },
+      {
+       "n": "6-15",
+       "text": "Substituted vide SRO 453(I)/2025 dated March 20, 2025"
+      }
+     ]
+    },
+    {
+     "no": "11A",
+     "title": "Responsibility of Scrutinizer",
+     "page": 6,
+     "text": [
+      "{fn:6-16}[(1) The scrutinizer appointed under Regulation 11 shall,",
+      ">(a) observe that satisfactory procedures of the voting process including adequate precautionary measures to comply with the requirements of these regulations are in place;",
+      ">(b) validate the voting results compiled by the Company which includes votes cast in person, through proxy, video-link and postal ballot immediately after the conclusion of the voting;",
+      ">(c) in case of e-voting, ensure presence at the time of unblocking the votes by the chairman to observe and oversee the process;",
+      ">(d) be available in the general meeting and observe the count of the votes cast, either manually or electronically;",
+      ">(e) observe that there is no duplication of votes cast, either manually or electronically;",
+      ">(f) maintain a record of shareholders, either manually or electronically, to record the assent and dissent received along with the particulars of name, folio number and number of shares held;",
+      ">(g) maintain record of the votes that are considered invalid; {fn:7-17}[",
+      ">(ga) validate the company’s decision of accepting or rejecting the nomination papers submitted for the election of directors;",
+      ">(gb) validate the due diligence carried out by the company for the selection of the independent director from the data bank;",
+      ">(gc) validate the proxy forms filed with the company, and the company’s decision regarding their acceptance or rejection; and]",
+      ">(h) perform any other role and responsibility as may be directed or specified by the Commission from time to time.",
+      "(2) The scrutinizer shall submit to the Chairman a duly signed consolidated report on voting process and votes casted as soon as possible on the same day of general meeting on the format as provided in Annexure III.]"
+     ],
+     "fn": [
+      {
+       "n": "7-17",
+       "text": "Inserted vide SRO 453(I)/2025 dated March 20, 2025"
+      }
+     ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "5-13",
+     "text": "Substituted for the words “election of directors” vide SRO 2192/(I)/2022 dated December 5, 2022"
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Miscellaneous",
+   "sections": [
+    {
+     "no": "11B",
+     "title": "Penalty for contravention of these regulations",
+     "page": 7,
+     "text": [
+      "(1) Whoever fails or refuses to comply with, or contravenes any provision of these regulations, or authorizes or permits such failure, refusal or contravention shall be punishable with penalty as provided in sub-section (2) of section 512 of the Act.",
+      "(2) The penalty to be imposed under this regulation shall be in addition to any other actions that may be taken by the Commission."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Repeal",
+     "page": 7,
+     "text": [
+      "Companies (E-Voting) Regulations, 2016 issued vide S.R.O 43 (I)/2016 dated January 22, 2016 is hereby repealed."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure I",
+   "page": 8
+  },
+  {
+   "title": "Annexure Ii",
+   "page": 10
+  }
+ ],
+ "frontNotes": [
+  {
+   "n": "1-1",
+   "text": "SRO 254 (I)/2018 dated February 22, 2018 is further amended vide SRO 2192/(I)/2022 dated December 5, 2022, SRO 905(I) /2023 dated July 7, 2023 and SRO 453(I)/2025 dated March 20, 2025."
+  }
+ ]
+}
