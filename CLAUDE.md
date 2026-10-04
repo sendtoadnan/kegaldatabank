@@ -24,7 +24,7 @@ The project normally runs locally: repo in `~/Documents/kegaldatabank`, Claude C
 
 | | Local session (preferred) | Cloud session (claude.ai/code) |
 |---|---|---|
-| Files | Whole Mac, incl. OneDrive (`~/Library/CloudStorage/OneDrive-Personal/kegaldatabank`, add with `/add-dir`) and Google Drive | Only GitHub and the Google Drive connector |
+| Files | Whole Mac, incl. OneDrive (`~/Library/CloudStorage/OneDrive-Personal/Pak Legal Data Bank`, add with `/add-dir`) and Google Drive | Only GitHub and the Google Drive connector |
 | Internet | User's own connection: FBR, FMU, Pakistan Code and usually SECP listing pages load | Restricted; SECP blocked; OneDrive not allowed |
 | Saving | On disk; push to GitHub via `gh` (logged in as sendtoadnan) | Must push before the container is reclaimed |
 | Cost | Same model usage either way | Same model usage either way |

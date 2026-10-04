@@ -10,7 +10,7 @@ One-time setup (about 30 minutes). Type each line in **Terminal** (⌘ Space →
 5. **PDF library:** `python3 -m pip install --user pymupdf` (add `--break-system-packages` if pip refuses). Warnings about PATH or an old pip are harmless.
 6. **Test:** `npm test` should end with `fail 0`.
 7. **Start Claude:** `claude`, log in with your claude.ai account and trust the folder. Then add the OneDrive working folder once:
-   `/add-dir ~/Library/CloudStorage/OneDrive-Personal/kegaldatabank`
+   `/add-dir "~/Library/CloudStorage/OneDrive-Personal/Pak Legal Data Bank"`
 
 ## Every working day
 ```
@@ -21,5 +21,5 @@ claude
 In Claude: `/model` switches to a cheaper model for routine work, `/clear` starts a fresh task, `/exit` quits.
 
 ## Where things live
-- **OneDrive `kegaldatabank`** — your PDFs, section-wise regulations and notifications, the Unified folder. Work here.
+- **OneDrive `Pak Legal Data Bank`** — your PDFs, section-wise regulations and notifications, the Unified folder. Work here.
 - **Documents/kegaldatabank** — the website project (code and data), backed up on GitHub. Keep it out of OneDrive and iCloud: syncing the hidden `.git` folder can corrupt it.
