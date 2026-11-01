@@ -26,7 +26,6 @@ Last updated: 1 November 2026.
 | 23 | PDFs of the repealed instruments in the register | You | Pending | e.g. Companies (E-Voting) Regulations 2016, cost record orders |
 | 24 | Screenshot of the SECP listing of the Companies (Asset Backed Securitization) Rules 1999 | You | Pending | PDF saved (updated to 14 Apr 2022) |
 | 25 | Check the text of Unverified instruments against their PDFs | You | Pending | Nine Companies Act instruments of 4 Oct 2026 and S.R.O. 464(I)/2024. Claude makes checklists (`python3 scripts/verify_sheet.py --unverified`) and records the result (`mark_verified.py`) |
-| 26 | Add the Easy Exit amendment S.R.O.s (2015, 314/2016, 456/2016) to the register's Easy Exit Regulations entry | Claude | Pending | PDFs in `_To sort`; two are scans |
 | 27 | Decide which other laws in `_To sort` to add to the library | You | Pending | NBFC Rules 2003, VPS Rules (S.R.O. 298(I)/2024), Centralized KYC Organization Rules 2017, Search and Seizure Rules 2019, Clearing Houses Rules 2005, Secured Transactions Registry Rules 2019, Companies (Issue of Capital) Rules 1996, General Provisions and Forms Rules 1985 (Word only) |
 | 28 | Tidy `_To sort`: remove the duplicate Secured Transactions Registry Rules copy and the Competition Commission registrar regulations (wrong download) | You | Pending | |
 | 29 | Look at the results of the first weekly update check (Monday 2 Nov 2026) | Claude | Pending | `data/update-check.json`; the workflow pushes to `main`, which deploys |
@@ -57,6 +56,7 @@ Last updated: 1 November 2026.
 | 34 | Create this tracker | Claude | 1 Nov 2026 | |
 | 38 | Match every Court Rules 1997 form (framed under the 1984 Ordinance) to the Companies Act 2017 | Claude | 1 Nov 2026 | 115 forms on a new page; compromise forms 19–21 have no counterpart (the Commission now sanctions compromises) |
 | 42 | Read the third round of downloads | Claude | 1 Nov 2026 | Sindh High Court order (s.482), Offences in Respect of Banks (Special Courts) Ordinance 1984 (two copies), an unofficial summary (not used as a source); filed under s.482. S.R.O. 1715 PDF and screenshots filed |
+| 26 | Add the Easy Exit amendment S.R.O.s to the register's Easy Exit Regulations entry | Claude | 1 Nov 2026 | S.R.O. 1083(I)/2014 (the regulations), 846(I)/2015 and 456(I)/2016 recorded; 314(I)/2016 is only the draft. PDFs and three Gazette strike-off lists filed under s.426 |
 | 44 | Second pass over the remaining sections | Claude | 1 Nov 2026 | s.187 (PSC Rules 2013, rule 5(2)) and s.315 (Panel Regulations 2019, to confirm) linked; 9 sections marked "Set in each order"; 17 left |
 | 41 | Sections to identify, batch 6 (ss.472–506) — last unsearched sections | Claude | 1 Nov 2026 | ss.472, 506 (Companies Regulations 2024, regs. 94 and 30) and 482 (s.37 SECP Act notification, to confirm) linked; 474, 475, 484 set in each order |
 | 39 | Sections to identify, batch 5 (ss.423–470) | Claude | 1 Nov 2026 | ss.423, 446 (447), 461, 470 linked; 440, 454, 456, 457, 459, 467 left open |
