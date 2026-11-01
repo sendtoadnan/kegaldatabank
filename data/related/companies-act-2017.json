@@ -1,5 +1,5 @@
 {
- "_about": "Rules, regulations and notifications made under the Companies Act, 2017, with the sections they carry out. `library` names the instrument's id when its text is in the library; `sections` lists the Act's sections; `basis` says where the link comes from; `confirm` lists what still has to be checked against the instrument itself. Sections cited by instruments in the library are found automatically and need not be listed here. `url` links to the instrument's page on the regulator's website; `found` records how the details were found (`search-index`: from a web search engine's index of the regulator's site, to be confirmed against the instrument). `madeUnder` names the other law under which an instrument was made, for instruments not made under this Act that do what a section leaves to be specified (shown as “Other law”).",
+ "_about": "Rules, regulations and notifications made under the Companies Act, 2017, with the sections they carry out. `library` names the instrument's id when its text is in the library; `sections` lists the Act's sections; `basis` says where the link comes from; `confirm` lists what still has to be checked against the instrument itself. Sections cited by instruments in the library are found automatically and need not be listed here. `url` links to the instrument's page on the regulator's website; `found` records how the details were found (`search-index`: from a web search engine's index of the regulator's site, to be confirmed against the instrument). `madeUnder` names the other law under which an instrument was made, for instruments not made under this Act that do what a section leaves to be specified (shown as “Other law”). `setInOrder` lists sections whose details are fixed in each order or notice, so no rule or regulation is expected (shown as “Set in each order”, not “To identify”).",
  "act": "companies-act-2017",
  "secpPages": {
   "acts": "https://www.secp.gov.pk/laws/acts/",
@@ -279,12 +279,13 @@
    "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
    "type": "rules",
    "sections": [
+    "187",
     "508",
     "509"
    ],
    "status": "in-force",
    "secpPage": "notifications",
-   "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024. The draft amendments (S.R.O. 124(I)/2020) say the rules are made under section 508.",
+   "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024. The draft amendments (S.R.O. 124(I)/2020) say the rules are made under section 508. Rule 5(2) (Word copy amended to 1 July 2019) sets how a public sector company's chief executive is chosen: the board evaluates candidates against the fit and proper criteria and recommends at least three to the Government for concurrence, except where the Government nominates the chief executive, which bears on section 187(4). Section 188(2) (terms set by the Government) is not covered.",
    "confirm": [
     "an official consolidated PDF of the rules amended up to 1 July 2019 (the amending S.R.O. 715(I)/2019 is now saved; only a Word file of the rules)"
    ],
@@ -452,6 +453,25 @@
     "the amending S.R.O.s and their dates (the updated copy's footnotes)",
     "SECP listing (no screenshot yet)"
    ]
+  },
+  {
+   "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+   "type": "regulations",
+   "sections": [
+    "315"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 315 requires the Commission to keep a panel from which the Court appoints provisional managers and official liquidators, with qualifications and a code of conduct as specified. Reports in a search engine's index (a copy of the regulations hosted by KPMG Pakistan, Business Recorder, Mettis Global) say SECP notified these regulations in terms of section 315, with eligibility criteria and the application procedure.",
+   "confirm": [
+    "the S.R.O. number, date and text, from SECP's Regulations page",
+    "later amendments; SECP has also published a draft accreditation framework for insolvency professionals (not yet in force as far as seen)"
+   ],
+   "url": "https://assets.kpmg.com/content/dam/kpmg/pk/pdf/2020/05/Panel of Provisional Managers and Official Liquidators Regulations 2019.pdf",
+   "found": {
+    "date": "2026-11-01",
+    "how": "search-index"
+   }
   },
   {
    "title": "Notification under section 37 of the SECP Act, 1997 — court for offences under the Companies Act (Special Court (Offences in Banks), Karachi)",
@@ -889,5 +909,16 @@
    "replacedBy": "companies-cost-accounts-regulations-2020",
    "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
   }
- ]
+ ],
+ "setInOrder": {
+  "238": "statements are required by an order of the Commission in each case",
+  "264": "changes, meetings and contracts are set in each order of the Commission",
+  "270": "the share of investigation expenses is set by the Commission or Court in each case",
+  "272": "restrictions on shares are set in each order (up to one year)",
+  "292": "terms and period are set in each rehabilitation plan",
+  "420": "the time is set in each order of the Court",
+  "474": "the time is set in each order",
+  "475": "the time is set in each order of the Court",
+  "484": "details are set in each notice to the body corporate"
+ }
 }

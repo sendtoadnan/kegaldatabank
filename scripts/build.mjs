@@ -360,6 +360,7 @@ ${body}
         .join('');
       let covered = 0;
       let open = 0;
+      let byOrder = 0;
       const sectionRows = act.parts
         .flatMap((p) => p.sections)
         .map((s) => {
@@ -370,9 +371,12 @@ ${body}
             .map((i) => (i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : `${e(i.title)}${i.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : ' <span class="badge warn">Not in library yet</span>'}${otherLaw(i)}`));
           const found = [...fromLibrary, ...fromRegister];
           if (!words && !found.length) return '';
+          // Sections whose details are fixed in each order or notice need no rule or regulation.
+          const inOrder = !found.length && register.setInOrder?.[s.no];
           if (found.length) covered++;
+          else if (inOrder) byOrder++;
           else open++;
-          return `<tr data-open="${found.length ? 0 : 1}"><td><a href="index.html#${provisionAnchor(s.no)}">${e(displayNo(s.no))}</a></td><td>${e(stripMarkers(s.title || ''))}</td><td class="small">${words ? `“…${e(words)}…”` : '<span class="muted">—</span>'}</td><td>${found.length ? found.join('<br>') : '<span class="badge warn">To identify</span>'}</td></tr>`;
+          return `<tr data-open="${found.length || inOrder ? 0 : 1}"><td><a href="index.html#${provisionAnchor(s.no)}">${e(displayNo(s.no))}</a></td><td>${e(stripMarkers(s.title || ''))}</td><td class="small">${words ? `“…${e(words)}…”` : '<span class="muted">—</span>'}</td><td>${found.length ? found.join('<br>') : inOrder ? `<span class="badge other">Set in each order</span> <span class="muted small">${e(inOrder)}</span>` : '<span class="badge warn">To identify</span>'}</td></tr>`;
         })
         .join('');
       write(
@@ -394,7 +398,7 @@ ${body}
       <tbody>${instrumentRows}</tbody>
     </table></div>
     <h2>Section by section</h2>
-    <p>Sections that leave details to be specified, prescribed or made by regulations or rules, and the instruments that carry them out: <strong>${covered}</strong> with an instrument identified, <strong>${open}</strong> still to identify.</p>
+    <p>Sections that leave details to be specified, prescribed or made by regulations or rules, and the instruments that carry them out: <strong>${covered}</strong> with an instrument identified, <strong>${byOrder}</strong> set case by case in an order or notice (no instrument expected), <strong>${open}</strong> still to identify.</p>
     <label class="toggle" id="to-identify"><input type="checkbox" id="only-open"> Show only sections still to identify</label>
     <div class="table-wrap"><table class="sources-table related-sections">
       <thead><tr><th>Section</th><th>Heading</th><th>What the Act leaves to rules or regulations</th><th>Instruments</th></tr></thead>
