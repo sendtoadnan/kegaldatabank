@@ -68,13 +68,32 @@
   function highlight(raw, terms) {
     var t = terms.filter(Boolean);
     if (!t.length) return esc(raw);
-    var re = new RegExp('(' + t.map(reEscape).sort(function (a, b) { return b.length - a.length; }).join('|') + ')', 'ig');
-    return raw
-      .split(re)
-      .map(function (piece, i) {
-        return i % 2 ? '<mark>' + esc(piece) + '</mark>' : esc(piece);
-      })
-      .join('');
+    var re = new RegExp('(^|[^a-z0-9])(' + t.map(reEscape).sort(function (a, b) { return b.length - a.length; }).join('|') + ')', 'ig');
+    var out = '';
+    var last = 0;
+    var m;
+    while ((m = re.exec(raw))) {
+      var at = m.index + m[1].length;
+      out += esc(raw.slice(last, at)) + '<mark>' + esc(m[2]) + '</mark>';
+      last = at + m[2].length;
+      if (!m[0].length) re.lastIndex++;
+    }
+    return out + esc(raw.slice(last));
+  }
+
+  // Search words match only at the start of a word, so "gst" does not find "amongst" and "ITO" not "monitoring".
+  function wordStart(t) {
+    return new RegExp('(?:^|[^a-z0-9])' + reEscape(t), 'g');
+  }
+  function countWord(re, text) {
+    re.lastIndex = 0;
+    var n = 0;
+    while (re.exec(text)) n++;
+    return n;
+  }
+  function hasWord(re, text) {
+    re.lastIndex = 0;
+    return re.test(text);
   }
 
   // ---------- theme ----------
@@ -316,6 +335,7 @@
   function runSearch(index, q, cat, type) {
     var parsed = parseQuery(q);
     if (!parsed.terms.length) return [];
+    var res = parsed.terms.map(wordStart);
     var acts = {};
     index.acts.forEach(function (a) { acts[a.id] = a; });
     var out = [];
@@ -327,12 +347,13 @@
       var text = p.text.toLowerCase();
       var actHay = (a.title + ' ' + a.aliases.join(' ')).toLowerCase();
       var score = 0;
-      var ok = parsed.terms.every(function (t) {
-        var inTitle = title.indexOf(t) !== -1;
-        var inText = text.indexOf(t) !== -1;
-        var inAct = actHay.indexOf(t) !== -1;
+      var ok = res.every(function (re) {
+        var inTitle = hasWord(re, title);
+        var hits = countWord(re, text);
+        var inText = hits > 0;
+        var inAct = hasWord(re, actHay);
         if (inTitle) score += 10;
-        if (inText) score += 2 + Math.min(text.split(t).length - 2, 5);
+        if (inText) score += 2 + Math.min(hits - 1, 5);
         if (inAct) score += 1;
         return inTitle || inText || inAct;
       });
@@ -348,12 +369,36 @@
     var lower = text.toLowerCase();
     var at = -1;
     terms.some(function (t) {
-      at = lower.indexOf(t);
+      var m = wordStart(t).exec(lower);
+      at = m ? m.index + m[0].length - t.length : -1;
       return at !== -1;
     });
     var start = Math.max(0, at - 90);
     var s = text.slice(start, start + 260).replace(/\n/g, ' ');
     return (start > 0 ? '… ' : '') + s + (start + 260 < text.length ? ' …' : '');
+  }
+
+  // Laws and rules whose title, short names or topics (search guide) contain every word searched for.
+  function findInstruments(index, q, cat, type) {
+    var parsed = parseQuery(q);
+    if (!parsed.terms.length) return [];
+    var whole = q.trim().toLowerCase();
+    var res = parsed.terms.map(wordStart);
+    var matches = function (text) { return res.every(function (re) { return hasWord(re, text); }); };
+    var out = [];
+    index.acts.forEach(function (a) {
+      if (cat && a.categories.indexOf(cat) === -1) return;
+      if (type && a.type !== type) return;
+      var names = [a.title].concat(a.aliases, a.terms || []);
+      var hay = names.join(' | ').toLowerCase();
+      if (!matches(hay)) return;
+      var exact = names.some(function (n) { return n.toLowerCase() === whole; });
+      var hit = (a.terms || []).concat(a.aliases).filter(function (n) {
+        return matches(n.toLowerCase());
+      })[0];
+      out.push({ act: a, score: (exact ? 10 : 0) + (a.title.toLowerCase().indexOf(whole) !== -1 ? 5 : 0), hit: hit });
+    });
+    return out.sort(function (x, y) { return y.score - x.score; });
   }
 
   function resultHtml(r, terms, hl) {
@@ -384,6 +429,7 @@
   function searchNotes(index, notes, q, cat, type) {
     var parsed = parseQuery(q);
     if (!parsed.terms.length) return [];
+    var res = parsed.terms.map(wordStart);
     var acts = {};
     index.acts.forEach(function (a) { acts[a.id] = a; });
     var out = [];
@@ -393,10 +439,10 @@
       var text = n.t.toLowerCase();
       var actHay = (a.title + ' ' + a.aliases.join(' ')).toLowerCase();
       var score = 0;
-      var ok = parsed.terms.every(function (t) {
-        var inText = text.indexOf(t) !== -1;
+      var ok = res.every(function (re) {
+        var inText = hasWord(re, text);
         if (inText) score += 2;
-        return inText || actHay.indexOf(t) !== -1;
+        return inText || hasWord(re, actHay);
       });
       if (ok && score) out.push({ n: n, a: a, score: score });
     });
@@ -459,6 +505,14 @@
             esc(j.act.unit + ' ' + j.prov.no + ' — ' + j.prov.title) + ', ' + esc(j.act.title) + '</a></div>';
         }
         var terms = parseQuery(q).terms;
+        var found = findInstruments(index, q, fCat.value, fType.value);
+        if (found.length) {
+          html += '<h2 class="result-head">Laws and rules <span class="count">' + found.length + '</span></h2><ul class="instrument-hits">' +
+            found.slice(0, 8).map(function (r) {
+              return '<li><a href="' + BASE + 'acts/' + r.act.id + '/index.html">' + esc(r.act.title) + '</a>' +
+                (r.hit ? ' <span class="muted small">found by “' + esc(r.hit) + '”</span>' : '') + '</li>';
+            }).join('') + '</ul>';
+        }
         if (inText.checked) {
           var hits = runSearch(index, q, fCat.value, fType.value);
           html += '<h2 class="result-head">Provisions <span class="count">' + hits.length + '</span></h2>';

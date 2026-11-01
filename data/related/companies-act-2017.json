@@ -1,5 +1,5 @@
 {
- "_about": "Rules, regulations and notifications made under the Companies Act, 2017, with the sections they carry out. `library` names the instrument's id when its text is in the library; `sections` lists the Act's sections; `basis` says where the link comes from; `confirm` lists what still has to be checked against the instrument itself. Sections cited by instruments in the library are found automatically and need not be listed here. `url` links to the instrument's page on the regulator's website; `found` records how the details were found (`search-index`: from a web search engine's index of the regulator's site, to be confirmed against the instrument).",
+ "_about": "Rules, regulations and notifications made under the Companies Act, 2017, with the sections they carry out. `library` names the instrument's id when its text is in the library; `sections` lists the Act's sections; `basis` says where the link comes from; `confirm` lists what still has to be checked against the instrument itself. Sections cited by instruments in the library are found automatically and need not be listed here. `url` links to the instrument's page on the regulator's website; `found` records how the details were found (`search-index`: from a web search engine's index of the regulator's site, to be confirmed against the instrument). `madeUnder` names the other law under which an instrument was made, for instruments not made under this Act that do what a section leaves to be specified (shown as “Other law”). `setInOrder` lists sections whose details are fixed in each order or notice, so no rule or regulation is expected (shown as “Set in each order”, not “To identify”).",
  "act": "companies-act-2017",
  "secpPages": {
   "acts": "https://www.secp.gov.pk/laws/acts/",
@@ -23,7 +23,14 @@
     "227",
     "271",
     "285",
-    "479"
+    "479",
+    "53",
+    "54",
+    "132",
+    "461",
+    "470",
+    "472",
+    "506"
    ],
    "status": "in-force",
    "latest": "Amended by S.R.O. 1355(I)/2025 of 25 July 2025 (SECP lists it as “SRO 1356”)",
@@ -32,7 +39,7 @@
     "screenshot": "secp-regulations-2026-10-04.webp"
    },
    "secpPage": "regulations",
-   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67)."
+   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67), 53 and 54 (reg. 34, service of documents on the Commission, registrar or company), 132(2) (reg. 56, video link on demand of members holding ten percent of paid-up capital), 461 (reg. 19(3), security clearance from the Ministry of Interior for foreign subscribers and officers), 470 (reg. 64, maximum fees companies may charge for copies, inspection and other services), 472 (reg. 94, destruction of physical records with the registrar's approval after ten years, or five years after dissolution), 506 (reg. 30, the statutory forms and application formats)."
   },
   {
    "title": "Third Schedule to the Companies Act, 2017 (updated)",
@@ -211,7 +218,7 @@
    "secpPage": "regulations",
    "basis": "Section 218 lets employees’ funds invest “subject to the conditions as may be specified”.",
    "confirm": [
-    "download the “updated – July 2019” edition; the copy saved is the 2018 text as made"
+    "the “updated – July 2019” text: SECP's page for it (created 17/08/2019) shows a 0.00 KB file and the download is the 2018 text as made (screenshot of 1 November 2026, secp-regulations-ecf-updated-2026-11-01.jpg); obtain the 2019 amending S.R.O.s or ask SECP"
    ],
    "url": "https://www.secp.gov.pk/wp-content/uploads/2018/06/Press-Release-June-12-EMPLOYEE%E2%80%99S-CONTRIBUTORY-FUNDS-INVESTMENT-IN-LISTED-SECURITIES-REGULATIONS-2018.pdf",
    "number": "Gazette of 6 June 2018 (S.R.O. number left blank in the copy saved; drafts were S.R.O. 34(I)/2018 and 435(I)/2018)",
@@ -220,6 +227,17 @@
     "date": "2026-10-04",
     "screenshot": "secp-regulations-ecf-2026-10-04.jpg"
    }
+  },
+  {
+   "title": "Employees' Provident Fund (Investment in Listed Securities) Rules, 2016",
+   "type": "rules",
+   "number": "S.R.O. 770(I)/2016 (17 August 2016)",
+   "sections": [
+    "218"
+   ],
+   "status": "repealed",
+   "madeUnder": "Companies Ordinance, 1984 (section 506)",
+   "basis": "Made under section 506 of the Companies Ordinance, 1984 read with section 43(b) of the SECP Act, 1997 (recital). Repealed by regulation 6(1) of the Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018, which also repealed S.R.O. 261(I)/2002 and S.R.O. 537(I)/2004."
   },
   {
    "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
@@ -261,20 +279,24 @@
    "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
    "type": "rules",
    "sections": [
+    "187",
     "508",
     "509"
    ],
    "status": "in-force",
    "secpPage": "notifications",
-   "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024. The draft amendments (S.R.O. 124(I)/2020) say the rules are made under section 508.",
+   "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024. The draft amendments (S.R.O. 124(I)/2020) say the rules are made under section 508. Rule 5(2) (Word copy amended to 1 July 2019) sets how a public sector company's chief executive is chosen: the board evaluates candidates against the fit and proper criteria and recommends at least three to the Government for concurrence, except where the Government nominates the chief executive, which bears on section 187(4). Section 188(2) (terms set by the Government) is not covered.",
    "confirm": [
-    "an official PDF of the rules amended up to 1 July 2019 (only a Word file was saved)"
+    "an official consolidated PDF of the rules amended up to 1 July 2019 (the amending S.R.O. 715(I)/2019 is now saved; only a Word file of the rules)"
    ],
    "latest": "Last amendment notified by S.R.O. 715(I)/2019 (listed 03/07/2019); draft amendments S.R.O. 124(I)/2020 not notified",
    "seen": {
     "date": "2026-10-04",
     "screenshot": "secp-notifications-psc-rules-2026-10-04.jpg"
-   }
+   },
+   "amendments": [
+    "S.R.O. 715(I)/2019 (1 July 2019), made under section 508 of this Act read with section 43(b) of the SECP Act, 1997, with the approval of the Federal Government (recital): replaces references to the 1984 Ordinance with this Act, including sections 159, 161, 163 and 165"
+   ]
   },
   {
    "title": "Unclaimed Shares, Modaraba Certificates, Dividend, Other Instruments and Undistributed Assets Regulations, 2017",
@@ -328,6 +350,258 @@
     "SECP listing (no screenshot yet)"
    ],
    "url": "https://www.secp.gov.pk/document/sro-1300-i-2018-notification-under-section-66-of-the-companies-act-2017-issue-of-securities-and-redeemable-capital-not-based-on-interest/"
+  },
+  {
+   "title": "S.R.O. 464(I)/2024 — notification under section 17(2) (subscription money)",
+   "type": "notification",
+   "number": "S.R.O. 464(I)/2024 (15 March 2024)",
+   "sections": [
+    "17"
+   ],
+   "status": "in-force",
+   "secpPage": "notifications",
+   "basis": "Made under section 17(2) read with section 510 (recital).",
+   "confirm": [
+    "that it is not amended or replaced (SECP's page shows last update 01/04/2024)"
+   ],
+   "url": "https://www.secp.gov.pk/document/notification-u-s-172-of-the-companies-act-2017/",
+   "library": "sro-464-2024-section-17",
+   "seen": {
+    "date": "2026-11-01",
+    "screenshot": "secp-sro-464-2024-2026-11-01.jpg"
+   }
+  },
+  {
+   "title": "SECP Circular 15 of 2017 — exemption from the requirement of a National Tax Number",
+   "type": "circular",
+   "number": "Circular No. 15 of 2017",
+   "sections": [
+    "153"
+   ],
+   "status": "in-force",
+   "basis": "Section 153(h) lets the Commission grant exemption from the National Tax Number requirement “as may be notified”; a search engine's index of SECP's website describes this circular as giving that exemption under the Companies Act, 2017.",
+   "confirm": [
+    "the circular's text, date and who it exempts",
+    "that it was issued under section 153(h)",
+    "that it is still in force",
+    "its page on SECP's website (not found in the index)"
+   ],
+   "found": {
+    "date": "2026-11-01",
+    "how": "search-index"
+   }
+  },
+  {
+   "title": "S.R.O. 1715 of 2023 — IFRS 17 (Insurance Contracts)",
+   "type": "notification",
+   "number": "S.R.O. 1715(I)/2023 (21 November 2023)",
+   "sections": [
+    "225",
+    "228"
+   ],
+   "status": "in-force",
+   "secpPage": "notifications",
+   "amendments": [
+    "S.R.O. 1336(I)/2025 (extension in implementation date of IFRS 17, per SECP's listing title)"
+   ],
+   "basis": "Made under section 510 read with section 225(1) (recital): IFRS 17 is to be followed by companies engaged in insurance/takaful and re-insurance/re-takaful business for periods from 1 January 2026, with power to exempt. Section 228(1) requires consolidated financial statements to comply with standards so notified. Other notified standards (for example IFRS 9) are not yet recorded.",
+   "confirm": [
+    "the full text of S.R.O. 1336(I)/2025 and the date it now sets",
+    "SECP listing (no screenshot yet)"
+   ],
+   "url": "https://www.secp.gov.pk/document/sro-1715-of-2023-ifrs-17/"
+  },
+  {
+   "title": "SECP Circular 7 of 2025 — holding of election of directors",
+   "type": "circular",
+   "number": "Circular No. 07 of 2025 (13 March 2025)",
+   "sections": [
+    "158",
+    "161"
+   ],
+   "status": "in-force",
+   "basis": "Issued under section 510 read with section 458A (circular). Allows companies to hold the election of directors at the AGM where it falls due within fifteen days after the AGM; directors take office when the previous board's term ends. Supersedes Circular No. 03/2006.",
+   "confirm": [
+    "SECP listing (no screenshot yet)"
+   ]
+  },
+  {
+   "title": "SECP Circular 21 of 2025 — company's responsibility for ultimate beneficial owner information",
+   "type": "circular",
+   "number": "Circular No. 21 of 2025 (8 August 2025)",
+   "sections": [
+    "123A"
+   ],
+   "status": "in-force",
+   "basis": "Issued under section 510 (circular). Explains the duty under section 123A, read with regulation 48 of the Companies Regulations, 2024, to hold, verify and keep up to date information on ultimate beneficial owners and provide it to authorities and financial institutions.",
+   "confirm": [
+    "SECP listing (no screenshot yet)"
+   ]
+  },
+  {
+   "title": "Companies (Asset Backed Securitization) Rules, 1999",
+   "type": "rules",
+   "number": "S.R.O. 1338(I)/99 (14 December 1999)",
+   "sections": [
+    "508"
+   ],
+   "status": "in-force",
+   "secpPage": "rules",
+   "latest": "Amended up to 14 April 2022 (SECP's updated copy)",
+   "basis": "The recital, as amended, cites section 508 of this Act read with section 43(b) of the SECP Act, 1997 and section 175 of the Securities Act, 2015 (originally section 506 of the 1984 Ordinance). They apply to offers of debt securities or Shariah-compliant securities by special purpose vehicles in a securitization.",
+   "confirm": [
+    "the amending S.R.O.s and their dates (the updated copy's footnotes)",
+    "SECP listing (no screenshot yet)"
+   ]
+  },
+  {
+   "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+   "type": "regulations",
+   "sections": [
+    "315"
+   ],
+   "status": "in-force",
+   "secpPage": "regulations",
+   "basis": "Section 315 requires the Commission to keep a panel from which the Court appoints provisional managers and official liquidators, with qualifications and a code of conduct as specified. Reports in a search engine's index (a copy of the regulations hosted by KPMG Pakistan, Business Recorder, Mettis Global) say SECP notified these regulations in terms of section 315, with eligibility criteria and the application procedure.",
+   "confirm": [
+    "the S.R.O. number, date and text, from SECP's Regulations page",
+    "later amendments; SECP has also published a draft accreditation framework for insolvency professionals (not yet in force as far as seen)"
+   ],
+   "url": "https://assets.kpmg.com/content/dam/kpmg/pk/pdf/2020/05/Panel of Provisional Managers and Official Liquidators Regulations 2019.pdf",
+   "found": {
+    "date": "2026-11-01",
+    "how": "search-index"
+   }
+  },
+  {
+   "title": "Notification under section 37 of the SECP Act, 1997 — court for offences under the Companies Act (Special Court (Offences in Banks), Karachi)",
+   "type": "notification",
+   "number": "Notification of 2 August 2024 (number not known)",
+   "sections": [
+    "482"
+   ],
+   "status": "in-force",
+   "madeUnder": "Securities and Exchange Commission of Pakistan Act, 1997 (section 37)",
+   "basis": "Section 482 makes offences punishable with imprisonment triable by the court of sessions or such other court as may be notified under section 37 of the SECP Act, 1997. The Sindh High Court's order of 6 September 2024 in J.C.M. No. 28 of 2021 (N.P. Spinning Mills Limited v. Muhammad Siddique) says: “By a recent notification dated 02-08-2024 issued under section 37 of the SECP Act, 1997, that court is now the Special Court (Offences in Banks), Karachi.” Special Courts (Offences in Banks) are set up under the Offences in Respect of Banks (Special Courts) Ordinance, 1984.",
+   "confirm": [
+    "the notification itself: its S.R.O. number, issuing authority and text (seen only as cited in the Sindh High Court order)",
+    "an unofficial summary saved by the user (no letterhead or number) mentions an earlier S.R.O. of 26 December 2017 and the Ministry of Law and Justice as issuer: both unconfirmed",
+    "whether courts are notified for other provinces"
+   ],
+   "url": "https://caselaw.shc.gov.pk/caselaw/view-file/MjE5MTM1Y2Ztcy1kYzgz"
+  },
+  {
+   "title": "Debt Securities Trustees Regulations, 2017",
+   "type": "regulations",
+   "number": "S.R.O. 15(I)/2017 (11 January 2017)",
+   "sections": [
+    "63"
+   ],
+   "status": "in-force",
+   "madeUnder": "Securities Act, 2015",
+   "secpPage": "regulations",
+   "amendments": [
+    "S.R.O. 1384(I)/2020 (per SECP's listing title)"
+   ],
+   "basis": "Made under section 169 read with sections 63, 64, 65, 68 and 69 of the Securities Act, 2015 (recital), not under this Act. They cover debt securities trustees and the trust deed for debt securities, including debentures, which section 63(2) leaves to be specified.",
+   "confirm": [
+    "whether the Commission treats them as specifying the matters in section 63",
+    "latest amended edition, including S.R.O. 1384(I)/2020"
+   ]
+  },
+  {
+   "title": "Public Offering Regulations, 2017",
+   "type": "regulations",
+   "number": "S.R.O. 296(I)/2017 (2 May 2017)",
+   "sections": [
+    "68",
+    "446",
+    "447"
+   ],
+   "status": "in-force",
+   "madeUnder": "Securities Act, 2015",
+   "secpPage": "regulations",
+   "latest": "Updated to 15 September 2021 (SECP's consolidated copy)",
+   "basis": "Made under sections 19, 87, 88, 89, 90, 91, 94 and 95 read with section 169 of the Securities Act, 2015 (recital), not under this Act. Regulation 6(10) requires the subscription money of unsuccessful applicants to be unblocked or refunded within 10 working days of the close of the public subscription period (fixed price method); similar provisions apply to book building and debt securities. Regulation 3(18) provides that securities of a company established outside Pakistan may be offered to the public under sections 87 and 88 of the Securities Act read with sections 446 and 447 of the Companies Act, if the foreign company complies with Part XII of the Companies Act.",
+   "confirm": [
+    "whether the Commission treats them as specifying the time in section 68",
+    "amendments after 15 September 2021"
+   ],
+   "url": "https://www.secp.gov.pk/document/public-offering-regulations-2017-updated-september-15-2021/"
+  },
+  {
+   "title": "Share Registrars and Balloters Regulations, 2017",
+   "type": "regulations",
+   "number": "S.R.O. 16(I)/2017 (11 January 2017)",
+   "sections": [
+    "195"
+   ],
+   "status": "in-force",
+   "madeUnder": "Securities Act, 2015",
+   "secpPage": "regulations",
+   "basis": "Made under section 169(1) read with sections 63, 64, 65, 68 and 69 of the Securities Act, 2015 (recital), not under this Act. They set the licensing, eligibility and duties of share registrars, which section 195 leaves to be specified.",
+   "confirm": [
+    "whether the Commission treats them as specifying the matters in section 195",
+    "whether any amendment was issued (S.R.O. 261(I)/2021 seen only as a draft)"
+   ],
+   "url": "https://www.secp.gov.pk/document/sro-16i2017-share-registrars-and-balloters-regulations-2017/"
+  },
+  {
+   "title": "Companies (Court) Rules, 1997",
+   "type": "rules",
+   "number": "S.R.O. 187(I)/97 (26 March 1997)",
+   "sections": [
+    "5",
+    "6",
+    "89",
+    "90",
+    "91",
+    "92",
+    "286",
+    "287",
+    "301",
+    "304",
+    "308",
+    "309",
+    "314",
+    "317",
+    "320",
+    "321",
+    "323",
+    "325",
+    "326",
+    "327",
+    "329",
+    "330",
+    "334",
+    "335",
+    "339",
+    "351",
+    "355",
+    "357",
+    "359",
+    "369",
+    "374",
+    "388",
+    "392",
+    "397",
+    "398",
+    "407",
+    "415",
+    "416",
+    "417",
+    "423"
+   ],
+   "status": "in-force",
+   "madeUnder": "Companies Ordinance, 1984 (section 438)",
+   "basis": "Made by the Federal Government on the advice of the Supreme Court, in consultation with the High Courts, under section 438 of the Companies Ordinance, 1984 (recital). Section 423 of this Act is the corresponding rule-making power for proceedings before the Court; no rules under section 423 have been found. They also contain what sections 317, 320 and 339 leave to be prescribed: limits of the official liquidator's remuneration (rule 256), the statement of affairs and its form (rules 104–106), and the official liquidator's accounts, their forms and audit (rules 259–264, Forms 101–103). These rules refer to the sections of the 1984 Ordinance (for example section 328 for the statement of affairs) and require quarterly accounts, whereas section 339 provides for half-yearly accounts. For voluntary winding up they give forms for the declaration of solvency (rule 269, Form 107; 1984 section 362, now section 351), the statement of assets and liabilities laid before creditors (rule 270, Form 108; 1984 section 368, now section 357), the notice of the final meeting and the account laid before it (rule 279, Forms 111 and 112) and the returns to the registrar after it (rule 281, Forms 113 and 114; 1984 sections 370 and 382, now sections 359 and 369), and the liquidator's periodical statements of pending liquidations (rule 267, Forms 104–106; 1984 section 430, now section 415). Rules 252–254 deal with moneys of a company in liquidation paid into the bank (section 416). Sections 351, 357, 359 and 369 leave these particulars to be specified by regulations, which have not been found; the rules are the nearest existing provision. All 115 forms of the rules are matched by subject to sections of this Act on a separate page; the compromise forms (19–21) have no counterpart because the Commission, not the Court, now sanctions compromises (sections 279 and 280). Sections 315, 337 and 341 are not linked here although forms touch them, because what they leave to be specified or prescribed (the panel of liquidators, persons to assist the official liquidator, transfer of a section 42 company's assets) is not in the rules. Section 423 of this Act is the power under which rules of this kind are now to be made; no rules made under it have been found.",
+   "confirm": [
+    "whether the rules continue in force under this Act",
+    "whether rules have been made under section 423 (functions of the Registrar of the Company Bench, section 5(6)–(7))",
+    "whether rules 104–106, 256 and 259–264 still apply to winding up under this Act, given the differences from sections 317, 320 and 339",
+    "whether SECP has specified forms or particulars for sections 351, 357, 359 and 369 (voluntary winding up), which would replace rules 269, 270, 279 and 281"
+   ],
+   "formsMap": "court-rules-1997"
   },
   {
    "title": "Investor Education and Awareness Fund",
@@ -415,10 +689,16 @@
    ],
    "status": "in-force",
    "secpPage": "notifications",
-   "basis": "Made under section 506A of the repealed Companies Ordinance, 1984. Gazette notices of 2024–2025 (SECP Company Registration Office Lahore) strike off companies under section 426(1) of the Companies Act, 2017 “read with Companies (Easy Exit) Regulations, 2014”.",
+   "basis": "Made under section 506A of the repealed Companies Ordinance, 1984 (recital; draft published as S.R.O. 581(I)/2014 of 27 June 2014). They apply to private and public unlisted companies, including associations licensed under section 42, that are not carrying on business and wish to be struck off (section 439 of the Ordinance). Gazette notices of 2024–2025 (SECP Company Registration Office Lahore) strike off companies under section 426(1) of the Companies Act, 2017 “read with Companies (Easy Exit) Regulations, 2014”.",
    "confirm": [
-    "S.R.O. number of the 2014 regulations and of each amendment (the saved copies of the 2014 regulations and the 2016 amendments are scanned images; the 2015 amendment was previously published as S.R.O. 624(I)/2015)",
-    "whether SECP has issued a consolidated edition"
+    "the 2014 and 2015 S.R.O. numbers are handwritten on the saved copies (1083 and 846)",
+    "whether SECP has issued a consolidated edition or later amendments",
+    "how the regulations apply under section 426 of this Act (they refer to section 439 of the Ordinance)"
+   ],
+   "number": "S.R.O. 1083(I)/2014 (2 December 2014)",
+   "amendments": [
+    "S.R.O. 846(I)/2015 (25 August 2015; draft S.R.O. 624(I)/2015): Forms EE-III and EE-IV, declaration that the company has not undertaken housing, real estate development or real estate marketing business",
+    "S.R.O. 456(I)/2016 (27 May 2016; draft S.R.O. 314(I)/2016 of 6 April 2016): public sector companies no longer excluded (regulation 1(3)(b) omitted); their applications need a no-objection certificate from the controlling Government or agency (new regulation 3(3))"
    ]
   },
   {
@@ -635,5 +915,16 @@
    "replacedBy": "companies-cost-accounts-regulations-2020",
    "basis": "Repealed by regulation 8 of the Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020."
   }
- ]
+ ],
+ "setInOrder": {
+  "238": "statements are required by an order of the Commission in each case",
+  "264": "changes, meetings and contracts are set in each order of the Commission",
+  "270": "the share of investigation expenses is set by the Commission or Court in each case",
+  "272": "restrictions on shares are set in each order (up to one year)",
+  "292": "terms and period are set in each rehabilitation plan",
+  "420": "the time is set in each order of the Court",
+  "474": "the time is set in each order",
+  "475": "the time is set in each order of the Court",
+  "484": "details are set in each notice to the body corporate"
+ }
 }

@@ -1069,6 +1069,36 @@
     }
   },
   {
+    "id": "sro-464-2024-section-17",
+    "file": "sro-464-2024-section-17.pdf",
+    "title": "S.R.O. 464(I)/2024 — Payment of subscription money (section 17(2))",
+    "number": "S.R.O. 464(I)/2024",
+    "type": "notification",
+    "unit": "Paragraph",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SRO 464",
+      "SRO 464 2024",
+      "subscription money"
+    ],
+    "enacted": "2024-03-15",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2024-03-15",
+    "amendedUpToLabel": "15 March 2024",
+    "pdfOnly": true,
+    "summary": "Made under section 17(2) read with section 510: moneys payable by a subscriber under the memorandum and articles are payable in cash through a banking channel immediately after incorporation and within thirty days; share certificates (physical or book-entry) follow full payment; any impediment is reported to the registrar within thirty days.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/notifications/",
+      "manual": true
+    }
+  },
+  {
     "id": "companies-act-2017-third-schedule",
     "file": "updated-3rd-schedule-to-the-companies-act-2017-29-12-2025.pdf",
     "title": "Third Schedule to the Companies Act, 2017 (Classification of Companies)",

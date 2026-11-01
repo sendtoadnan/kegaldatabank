@@ -33,6 +33,11 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
   const byId = new Map(acts.map((a) => [a.id, a]));
   const children = (id) => acts.filter((a) => a.parent === id);
   const registerFor = (id) => extras.registers.find((r) => r.act === id);
+  // Short names (manifest aliases) and everyday search words (data/search-terms.json), without repeats.
+  const searchTermsFor = (a) => {
+    const seen = new Set();
+    return [...(a.aliases || []), ...(extras.searchTerms[a.id] || [])].filter((t) => !seen.has(t.toLowerCase()) && seen.add(t.toLowerCase()));
+  };
   const dateLabel = (d) => new Date(`${d}T00:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
   const evidenceLink = (base, file, text = 'Screenshot') => `<a href="${base}evidence/${e(file)}" target="_blank" rel="noopener">${text}</a>`;
   const written = [];
@@ -85,7 +90,7 @@ ${body}
 </main>
 <footer class="footer">
   <p><strong>Disclaimer.</strong> Reference text is provided for convenience. Always confirm against the official Gazette or the issuing authority before relying on it in advice, pleadings or filings. Each instrument shows its verification status.</p>
-  <p>${e(site.name)} · ${e(site.jurisdiction)}</p>
+  <p>${e(site.name)} · ${e(site.jurisdiction)} · <a href="${base}search-guide.html">Search guide</a></p>
 </footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="${base}assets/app.js" defer></script>
@@ -167,6 +172,7 @@ ${body}
       <input id="q" name="q" type="search" placeholder="Search, or jump: s 3 STA" autocomplete="off">
       <button type="submit">Search</button>
     </form>
+    <p class="hint">Try <a href="search.html?q=withholding%20tax">withholding tax</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=related%20party">related party</a> or <a href="search.html?q=KYC">KYC</a> · <a href="search-guide.html">Search guide</a></p>
     <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
   </section>
   <div id="shelf-preview"></div>
@@ -185,6 +191,8 @@ ${body}
     const pdf = act.sourcePdf ? pdfHref(act, base) : null;
     const register = registerFor(act.id);
     const cited = register ? citedSections(act, kids) : new Map();
+    // Register entries made under another law (e.g. the Securities Act) that do what a section leaves to be specified.
+    const otherLaw = (i) => (i.madeUnder ? ` <span class="badge other">Other law</span> <span class="muted small">made under ${e(i.madeUnder)}</span>` : '');
     // Instruments related to each section: those in the library that cite it, then the register's entries.
     const relatedTo = (no) => {
       const out = [...(cited.get(no)?.values() || [])].map(
@@ -194,7 +202,7 @@ ${body}
         if (!(i.sections || []).includes(no) || (i.library && cited.get(no)?.has(i.library))) continue;
         const name = i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : i.url ? `<a href="${e(i.url)}" target="_blank" rel="noopener">${e(i.title)}</a>` : e(i.title);
         const tag = i.status === 'repealed' ? '<span class="badge bad">Repealed</span>' : i.library ? '' : '<span class="badge warn">Not in library yet</span>';
-        out.push(`<li>${name} ${tag}</li>`);
+        out.push(`<li>${name} ${tag}${otherLaw(i)}</li>`);
       }
       return out.length ? `<aside class="prov-related"><h4>Rules, regulations and notifications</h4><ul>${out.join('')}</ul></aside>` : '';
     };
@@ -260,6 +268,7 @@ ${body}
       act.enacted ? ['Enacted / notified', e(act.enacted)] : null,
       ['Amended up to', act.amendedUpToLabel ? e(act.amendedUpToLabel) : 'Not stated'],
       parent ? ['Made under', `<a href="../${parent.id}/index.html">${e(parent.title)}</a>`] : null,
+      searchTermsFor(act).length ? ['Also found by', `${searchTermsFor(act).map(e).join(' · ')} <a class="small" href="../../search-guide.html">Search guide</a>`] : null,
       ['Source', `<a href="${e(act.source.url)}" rel="noopener" target="_blank">${e(act.source.name)}</a>`],
       pdf ? ['Official PDF', `<a href="${pdf}" target="_blank" rel="noopener">Open the source PDF</a>`] : null,
       hand
@@ -337,17 +346,21 @@ ${body}
           const name = i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : i.url ? `<a href="${e(i.url)}" target="_blank" rel="noopener">${e(i.title)}</a>` : e(i.title);
           const state = i.status === 'repealed'
             ? `<span class="badge bad">Repealed</span>${i.replacedBy ? ` <span class="muted small">replaced by <a href="../${i.replacedBy}/index.html">${e(byId.get(i.replacedBy).title)}</a></span>` : ''}`
-            : i.library ? '<span class="badge ok">In library</span>' : '<span class="badge warn">Not in library yet</span>';
+            : i.library ? '<span class="badge ok">In library</span>' : '<span class="badge warn">Not in library yet</span>'
+          const other = otherLaw(i);
           const secs = (i.sections || []).map((n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`).join(', ') || '<span class="muted">to confirm</span>';
           const latest = [i.latest ? e(i.latest) : '', i.seen ? `<span class="muted small">seen ${dateLabel(i.seen.date)} · ${evidenceLink(base, i.seen.screenshot)}</span>` : '', pageLink(i.secpPage)].filter(Boolean).join('<br>');
           const amends = i.amendments?.length ? `<br><span class="muted small">Amended by ${i.amendments.map(e).join(', ')}</span>` : '';
           const found = i.found?.how === 'search-index' ? `<br><span class="muted small">Found ${dateLabel(i.found.date)} through a search engine's index of SECP's website; confirm against the instrument.</span>` : '';
           const confirm = i.confirm?.length ? `<br><span class="muted small">To confirm: ${i.confirm.map(e).join('; ')}</span>` : '';
-          return `<tr><td>${name}${i.number ? `<br><span class="muted small">${e(i.number)}</span>` : ''}</td><td>${secs}</td><td>${state}</td><td>${latest || '<span class="muted">—</span>'}</td><td class="small">${e(i.basis || '')}${amends}${found}${confirm}</td></tr>`;
+          const fm = i.formsMap && extras.formMaps.find((m) => m.id === i.formsMap);
+          const formsLink = fm ? `<br><a class="small" href="forms-${fm.id}.html">How its ${fm.forms.length} forms match this Act's sections</a>` : '';
+          return `<tr><td>${name}${i.number ? `<br><span class="muted small">${e(i.number)}</span>` : ''}</td><td>${secs}</td><td>${state}${other}</td><td>${latest || '<span class="muted">—</span>'}</td><td class="small">${e(i.basis || '')}${amends}${found}${confirm}${formsLink}</td></tr>`;
         })
         .join('');
       let covered = 0;
       let open = 0;
+      let byOrder = 0;
       const sectionRows = act.parts
         .flatMap((p) => p.sections)
         .map((s) => {
@@ -355,12 +368,15 @@ ${body}
           const fromLibrary = [...(cited.get(s.no)?.values() || [])].map(({ kid, provisions }) => `<a href="../${kid.id}/index.html#${provisionAnchor(provisions[0])}">${e(kid.title)}</a> <span class="muted small">(${provisions.map(displayNo).join(', ')})</span>`);
           const fromRegister = register.instruments
             .filter((i) => (i.sections || []).includes(s.no) && !(i.library && cited.get(s.no)?.has(i.library)))
-            .map((i) => (i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : `${e(i.title)}${i.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : ' <span class="badge warn">Not in library yet</span>'}`));
+            .map((i) => (i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : `${e(i.title)}${i.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : ' <span class="badge warn">Not in library yet</span>'}${otherLaw(i)}`));
           const found = [...fromLibrary, ...fromRegister];
           if (!words && !found.length) return '';
+          // Sections whose details are fixed in each order or notice need no rule or regulation.
+          const inOrder = !found.length && register.setInOrder?.[s.no];
           if (found.length) covered++;
+          else if (inOrder) byOrder++;
           else open++;
-          return `<tr data-open="${found.length ? 0 : 1}"><td><a href="index.html#${provisionAnchor(s.no)}">${e(displayNo(s.no))}</a></td><td>${e(stripMarkers(s.title || ''))}</td><td class="small">${words ? `“…${e(words)}…”` : '<span class="muted">—</span>'}</td><td>${found.length ? found.join('<br>') : '<span class="badge warn">To identify</span>'}</td></tr>`;
+          return `<tr data-open="${found.length || inOrder ? 0 : 1}"><td><a href="index.html#${provisionAnchor(s.no)}">${e(displayNo(s.no))}</a></td><td>${e(stripMarkers(s.title || ''))}</td><td class="small">${words ? `“…${e(words)}…”` : '<span class="muted">—</span>'}</td><td>${found.length ? found.join('<br>') : inOrder ? `<span class="badge other">Set in each order</span> <span class="muted small">${e(inOrder)}</span>` : '<span class="badge warn">To identify</span>'}</td></tr>`;
         })
         .join('');
       write(
@@ -382,7 +398,7 @@ ${body}
       <tbody>${instrumentRows}</tbody>
     </table></div>
     <h2>Section by section</h2>
-    <p>Sections that leave details to be specified, prescribed or made by regulations or rules, and the instruments that carry them out: <strong>${covered}</strong> with an instrument identified, <strong>${open}</strong> still to identify.</p>
+    <p>Sections that leave details to be specified, prescribed or made by regulations or rules, and the instruments that carry them out: <strong>${covered}</strong> with an instrument identified, <strong>${byOrder}</strong> set case by case in an order or notice (no instrument expected), <strong>${open}</strong> still to identify.</p>
     <label class="toggle" id="to-identify"><input type="checkbox" id="only-open"> Show only sections still to identify</label>
     <div class="table-wrap"><table class="sources-table related-sections">
       <thead><tr><th>Section</th><th>Heading</th><th>What the Act leaves to rules or regulations</th><th>Instruments</th></tr></thead>
@@ -391,6 +407,40 @@ ${body}
   </section>`,
         })
       );
+
+      // ---------- forms of older rules matched to this Act's sections ----------
+      for (const m of extras.formMaps.filter((x) => x.act === act.id)) {
+        const secLink = (n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`;
+        // One heading row per subject, then its forms.
+        const rows = m.forms
+          .map((f, i) => {
+            const head = i === 0 || m.forms[i - 1].subject !== f.subject
+              ? `<tr class="group-row"><th colspan="5" scope="rowgroup">${e(f.subject)}${f.note ? ` — <span class="muted small">${e(f.note)}</span>` : ''}</th></tr>`
+              : '';
+            return `${head}<tr><td>${f.form}</td><td>${e(f.rule || '')}</td><td>${e(f.title)}</td><td>${f.ordinance1984.length ? f.ordinance1984.map(e).join(', ') : '<span class="muted">—</span>'}</td><td>${f.act2017.map(secLink).join(', ')}</td></tr>`;
+          })
+          .join('');
+        write(
+          `acts/${act.id}/forms-${m.id}.html`,
+          layout({
+            title: `Forms of the ${m.instrument} and the ${act.title} — ${site.name}`,
+            description: `Each form of the ${m.instrument} with the section of the ${act.title} on the same subject.`,
+            base,
+            page: 'act',
+            body: `
+  <section class="prose related-page">
+    <p class="crumbs"><a href="${base}index.html">Library</a> / <a href="index.html">${e(act.title)}</a> / <a href="related.html">Rules, regulations and notifications</a></p>
+    <h1>Forms of the ${e(m.instrument)} and the ${e(act.title)}</h1>
+    <p>${e(m._about)}</p>
+    <p class="muted small">Matched on ${dateLabel(m.matched)}. ${m.forms.length} forms.</p>
+    <div class="table-wrap"><table class="sources-table related-table">
+      <thead><tr><th>Form</th><th>Rule</th><th>Title</th><th>Companies Ordinance, 1984</th><th>${e(act.title)}</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table></div>
+  </section>`,
+          })
+        );
+      }
     }
   }
 
@@ -422,7 +472,7 @@ ${body}
       <label><input type="checkbox" id="in-text" checked> Provision text and headings</label>
       <label><input type="checkbox" id="in-notes"> Amendment notes (footnotes)</label>
     </fieldset>
-    <p class="muted small">Tips: use quotes for an exact phrase (<code>"proceeds of crime"</code>). All words must match.</p>
+    <p class="muted small">Tips: use quotes for an exact phrase (<code>"proceeds of crime"</code>). All words must match. Laws and rules can be found by short names and topics too: see the <a href="search-guide.html">Search guide</a>.</p>
     <div id="results" aria-live="polite"></div>
   </section>`,
     })
@@ -523,6 +573,32 @@ ${body}
     );
   }
 
+  // ---------- search guide: every instrument with the names and topics it can be found by ----------
+  write(
+    'search-guide.html',
+    layout({
+      title: `Search guide — ${site.name}`,
+      description: 'Short names, abbreviations and topics that find each law, rule and regulation in the library.',
+      base: '',
+      page: 'search-guide',
+      body: `
+  <section class="prose search-guide">
+    <h1>Search guide</h1>
+    <p>Type any of these in the search box. A short name or topic lists the matching law or rule above the provision results; a short name also works for jumping to a provision, for example <a href="search.html?q=s%20149%20ITO"><code>s 149 ITO</code></a> or <a href="search.html?q=s%20204%20CA%202017"><code>s 204 CA 2017</code></a>.</p>
+    <p class="muted small">Topics point to a whole law or rule, not to a particular provision. Use the provision search for the words of the law itself.</p>
+    ${catalog.categories
+      .map((c) => {
+        const list = acts.filter((a) => a.categories.includes(c.id));
+        if (!list.length) return '';
+        return `<h2 id="cat-${c.id}">${e(c.name)}</h2><dl class="term-list">${list
+          .map((a) => `<div><dt><a href="acts/${a.id}/index.html">${e(a.title)}</a>${a.number ? ` <span class="muted small">${e(a.number)}</span>` : ''}</dt><dd>${searchTermsFor(a).map((t) => `<a class="chip" href="search.html?q=${encodeURIComponent(t)}">${e(t)}</a>`).join(' ') || '<span class="muted">—</span>'}</dd></div>`)
+          .join('')}</dl>`;
+      })
+      .join('')}
+  </section>`,
+    })
+  );
+
   // ---------- about ----------
   write(
     'about.html',
@@ -563,6 +639,7 @@ ${body}
       unit: a.unit,
       categories: a.categories,
       aliases: a.aliases || [],
+      terms: extras.searchTerms[a.id] || [],
       verified: a.verification.status === 'verified',
       placeholder: !!a.placeholder,
     })),

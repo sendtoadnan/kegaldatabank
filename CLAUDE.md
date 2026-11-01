@@ -9,6 +9,8 @@ Deployed by Netlify from `main`; every change goes through a branch and a pull r
 - `scripts/extract_pdf.py` — PDF → `data/acts/<id>.json` (PyMuPDF). Options are documented in `docs/CONTENT_GUIDE.md`.
 - `scripts/build.mjs` — builds `dist/` (pages, search indexes, Sources page, service worker). `scripts/lib.mjs` validates.
 - `scripts/related.mjs` + `data/related/companies-act-2017.json` — register of rules/regulations/notifications under the Companies Act 2017, by section; shown under each section and on `acts/companies-act-2017/related.html`.
+- `data/forms/<id>.json` — forms of older rules matched by subject to an Act's sections (e.g. the 115 forms of the Companies (Court) Rules 1997, framed under the repealed 1984 Ordinance), shown on `acts/<act>/forms-<id>.html` and linked from the register entry with `formsMap`.
+- `data/search-terms.json` — everyday words and topics per instrument (whole instruments only, never sections); with the manifest's `aliases` they appear on each instrument page ("Also found by"), on `search-guide.html`, and as "Laws and rules" above search results.
 - `data/manual-checks.json` + `sources/evidence/` — hand checks of SECP listings with screenshots (shown on the Sources page).
 - `scripts/check_updates.mjs` — compares editions with regulator websites (weekly GitHub workflow). `--saved <folder>` reads listing pages saved from a browser.
 - `scripts/sync_folders.py` — gathers the newest edition of each PDF from Google Drive, OneDrive and `sources/pdf` into one OneDrive "Unified" folder (`docs/FOLDER_SYNC.md`).
@@ -46,11 +48,13 @@ Daily routine for the user: `cd ~/Documents/kegaldatabank && git pull && claude`
 - Anything found through search or memory is recorded with what still needs confirming (`confirm`), never as fact.
 - The user's credit is limited: prefer running the scripts over reading large files, keep sessions focused, and batch new PDFs.
 
-## State (October 2026)
-- 29 instruments; all up to date with the regulators per the 4 Oct 2026 checks (SECP by screenshot). Nine Companies Act regulations/notifications added on 4 Oct 2026 are Unverified.
+## State (November 2026)
+- **Tasks: `docs/TODO.md` is the one task list (owner You/Claude, status Pending/Waiting/Done/Deferred). Read it at the start of every session, add new tasks with the next number, mark finished ones Done with the date, never delete rows, and update it before the session ends.**
+- 30 instruments; all up to date with the regulators per the 4 Oct 2026 checks (SECP by screenshot). Nine Companies Act regulations/notifications added on 4 Oct 2026 are Unverified. S.R.O. 464(I)/2024 (s.17(2), subscription money) added on 1 Nov 2026, Unverified.
 - Companies (Related Party Transactions) Regulations 2018 added from S.R.O. 1194(I)/2018 and verified by Abdullah on 4 Oct 2026. Re-extracting resets `verification` to unverified, so re-verify after any re-extraction (restore it with `git checkout` when the text did not change).
+- Instruments made under another law (e.g. Securities Act 2015, Companies Ordinance 1984) that do what a Companies Act section leaves to be specified go in the register with `madeUnder` (shown as "Other law"), the basis taken from their recital.
 - Repealed instruments are kept for cases about past periods: add them to the library with `"status": "repealed"` and a `caution` naming what repealed them (e.g. Unlisted Companies (Buy-Back of Shares) Regulations 2023), and list predecessors named in repeal provisions in the register with `replacedBy`.
 - Still needed from SECP (user's browser): Employees Contributory Funds Regulations "updated – July 2019"; Listed Companies (Buy-back of Shares) Regulations 2019 with the 2022 amendments; an official PDF of the Public Sector Companies (Corporate Governance) Rules 2013 as amended to 2019; a listing screenshot for S.R.O. 1300(I)/2018. Investor Education and Awareness Fund: only draft rules found. PDFs of the repealed instruments in the register.
-- Next: the 56 sections still marked "To identify" on `acts/companies-act-2017/related.html` (linked from the Act page as "Sections still to identify").
+- Sections still marked "To identify": 17 (56 before 1 Nov 2026), after two passes; 9 more are marked `setInOrder` in the register (set in each order, no instrument expected). Revisit as new SECP material arrives on `acts/companies-act-2017/related.html` (linked from the Act page as "Sections still to identify").
 - SECP blocks automated access even from the user's Mac (Cloudflare check): the user downloads each issued edition in the browser and saves it with a screenshot of the listing in the section's Unified folder. Check the PDF is not a draft for comments (S.R.O. 768(I)/2018 was).
 - Deferred by the user: Modaraba Rules 1981, CRC Rules 2019 and SRO 243/2024.

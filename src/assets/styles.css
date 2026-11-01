@@ -142,6 +142,7 @@ main { max-width: 1200px; margin: 0 auto; padding: 24px 16px 48px; }
 .badge.ok { background: var(--ok-bg); color: var(--ok-fg); }
 .badge.warn { background: var(--warn-bg); color: var(--warn-fg); }
 .badge.bad { background: var(--bad-bg); color: var(--bad-fg); }
+.badge.other { background: var(--surface); color: var(--muted); border: 1px solid var(--border); }
 
 /* ---------- instrument page ---------- */
 .act-layout { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 32px; align-items: start; }
@@ -280,3 +281,14 @@ select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid
 .evidence figcaption { padding: 8px 12px; font-size: 0.85rem; }
 .related-page .toggle { display: inline-flex; gap: 6px; align-items: center; margin-bottom: 8px; }
 .related-page { max-width: 1100px; }
+
+/* ---------- search guide and search hints ---------- */
+.hero .hint { color: var(--muted); font-size: 0.9rem; margin: 0.5rem 0 0; }
+.term-list { margin: 0 0 1.5rem; }
+.term-list > div { padding: 0.75rem 0; border-bottom: 1px solid var(--border); }
+.term-list dt { font-weight: 600; margin-bottom: 0.35rem; }
+.term-list dd { margin: 0; display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.term-list .chip { font-size: 0.8rem; }
+.instrument-hits { list-style: none; padding: 0; margin: 0 0 1.25rem; }
+.instrument-hits li { padding: 0.4rem 0; border-bottom: 1px solid var(--border); }
+.group-row th { text-align: left; font-weight: 600; background: var(--bg); padding-top: 0.9rem; }
