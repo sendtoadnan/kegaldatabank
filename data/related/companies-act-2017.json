@@ -28,7 +28,9 @@
     "54",
     "132",
     "461",
-    "470"
+    "470",
+    "472",
+    "506"
    ],
    "status": "in-force",
    "latest": "Amended by S.R.O. 1355(I)/2025 of 25 July 2025 (SECP lists it as “SRO 1356”)",
@@ -37,7 +39,7 @@
     "screenshot": "secp-regulations-2026-10-04.webp"
    },
    "secpPage": "regulations",
-   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67), 53 and 54 (reg. 34, service of documents on the Commission, registrar or company), 132(2) (reg. 56, video link on demand of members holding ten percent of paid-up capital), 461 (reg. 19(3), security clearance from the Ministry of Interior for foreign subscribers and officers), 470 (reg. 64, maximum fees companies may charge for copies, inspection and other services)."
+   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67), 53 and 54 (reg. 34, service of documents on the Commission, registrar or company), 132(2) (reg. 56, video link on demand of members holding ten percent of paid-up capital), 461 (reg. 19(3), security clearance from the Ministry of Interior for foreign subscribers and officers), 470 (reg. 64, maximum fees companies may charge for copies, inspection and other services), 472 (reg. 94, destruction of physical records with the registrar's approval after ten years, or five years after dissolution), 506 (reg. 30, the statutory forms and application formats)."
   },
   {
    "title": "Third Schedule to the Companies Act, 2017 (updated)",
@@ -450,6 +452,27 @@
     "the amending S.R.O.s and their dates (the updated copy's footnotes)",
     "SECP listing (no screenshot yet)"
    ]
+  },
+  {
+   "title": "Notification under section 37 of the SECP Act, 1997 — court for offences under the Companies Act (Special Court (Offences in Banks), Karachi)",
+   "type": "notification",
+   "number": "Notification of 2 August 2024 (number not known)",
+   "sections": [
+    "482"
+   ],
+   "status": "in-force",
+   "madeUnder": "Securities and Exchange Commission of Pakistan Act, 1997 (section 37)",
+   "basis": "Section 482 makes offences punishable with imprisonment triable by the court of sessions or such other court as may be notified under section 37 of the SECP Act, 1997. A Sindh High Court judgment in a search engine's index refers to a notification of 2 August 2024 under section 37 naming the Special Court (Offences in Banks), Karachi, for offences listed in the Eighth Schedule.",
+   "confirm": [
+    "the notification itself: its S.R.O. number, issuing authority and text",
+    "whether courts are notified for other provinces",
+    "the judgment that cites it"
+   ],
+   "url": "https://caselaw.shc.gov.pk/caselaw/view-file/MjE5MTM1Y2Ztcy1kYzgz",
+   "found": {
+    "date": "2026-11-01",
+    "how": "search-index"
+   }
   },
   {
    "title": "Debt Securities Trustees Regulations, 2017",
