@@ -174,6 +174,7 @@ ${body}
     </form>
     <p class="hint">Try <a href="search.html?q=withholding%20tax">withholding tax</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=related%20party">related party</a> or <a href="search.html?q=KYC">KYC</a> · <a href="search-guide.html">Search guide</a></p>
     <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
+    <p class="stats small"><a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
   </section>
   <div id="shelf-preview"></div>
   <nav class="chips" aria-label="Practice areas">
@@ -293,8 +294,21 @@ ${body}
           .join('')}</ul></section>`
       : '';
 
-    const subsidiary = kids.length
-      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2>${register ? `<p><a class="btn" href="related.html">All rules, regulations and notifications, section by section</a> <a href="related.html#to-identify">Sections still to identify</a></p>` : ''}<ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul></section>`
+    // Instruments recorded in the register whose text is not in the library yet.
+    const outside = (register?.instruments || []).filter((i) => !i.library);
+    const outsideList = outside.length
+      ? `<details class="register-more"><summary>${outside.length} more instruments recorded under this ${typeLabel(act.type)}, not yet in the library</summary><ul>${outside
+          .map((i) => {
+            const name = i.url ? `<a href="${e(i.url)}" target="_blank" rel="noopener">${e(i.title)}</a>` : e(i.title);
+            const tag = i.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : '';
+            const other = i.madeUnder ? ` <span class="badge other">Other law</span>` : '';
+            const secs = (i.sections || []).length ? ` <span class="muted small">s. ${i.sections.slice(0, 6).map(displayNo).join(', ')}${i.sections.length > 6 ? ', …' : ''}</span>` : '';
+            return `<li>${name}${tag}${other}${secs}</li>`;
+          })
+          .join('')}</ul><p class="small"><a href="related.html">Details, sources and what is still to confirm</a></p></details>`
+      : '';
+    const subsidiary = kids.length || outside.length
+      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2>${register ? `<p><a class="btn" href="related.html">All rules, regulations and notifications, section by section</a> <a href="related.html#to-identify">Sections still to identify</a></p>` : ''}<ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul>${outsideList}</section>`
       : '';
 
     const pdfOnly = act.pdfOnly
@@ -474,6 +488,20 @@ ${body}
     </fieldset>
     <p class="muted small">Tips: use quotes for an exact phrase (<code>"proceeds of crime"</code>). All words must match. Laws and rules can be found by short names and topics too: see the <a href="search-guide.html">Search guide</a>.</p>
     <div id="results" aria-live="polite"></div>
+    <section id="search-help" class="search-help">
+      <h2>How to search</h2>
+      <div class="help-grid">
+        <div><h3>Words</h3><p>Every word must appear. Words match from their start, so <a href="search.html?q=deprec">deprec</a> finds depreciation but <em>gst</em> does not find “amongst”.</p></div>
+        <div><h3>Exact phrase</h3><p>Put a phrase in quotes: <a href="search.html?q=%22proceeds%20of%20crime%22">"proceeds of crime"</a>, <a href="search.html?q=%22related%20party%22">"related party"</a>.</p></div>
+        <div><h3>Go straight to a provision</h3><p>Type the unit, number and short name: <a href="search.html?q=s%20149%20ITO">s 149 ITO</a>, <a href="search.html?q=section%20204%20CA%202017">section 204 CA 2017</a>, <a href="search.html?q=rule%2044%20ITR">rule 44 ITR</a>, <a href="search.html?q=reg%2048%20CR%202024">reg 48 CR 2024</a>.</p></div>
+        <div><h3>Short names and topics</h3><p>Abbreviations and everyday terms find the law itself: <a href="search.html?q=WHT">WHT</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=KYC">KYC</a>, <a href="search.html?q=e-voting">e-voting</a>. Every term is listed in the <a href="search-guide.html">Search guide</a>.</p></div>
+        <div><h3>Narrow down</h3><p>Choose a practice area or instrument type above, combine words (<a href="search.html?q=penalty%20return%20default">penalty return default</a>), or add a law's short name (<a href="search.html?q=penalty%20STA">penalty STA</a>).</p></div>
+        <div><h3>Amendment history</h3><p>Tick <em>Amendment notes</em> to search the footnotes, for example a Finance Act or an S.R.O. number (<a href="search.html?q=%22Finance%20Act%2C%202024%22&notes=1">"Finance Act, 2024"</a>).</p></div>
+      </div>
+      <h3>Short names for jumping</h3>
+      <p class="small">${acts.filter((a) => (a.aliases || []).length).map((a) => `<span class="nowrap"><code>${e(a.aliases[0])}</code> ${e(a.title)}</span>`).join(' · ')}</p>
+      <p class="muted small">Results show provisions with your words in the heading first. Text marked <span class="badge warn">Unverified</span> has not yet been checked word for word against the official PDF; confirm it there before quoting.</p>
+    </section>
   </section>`,
     })
   );
@@ -502,7 +530,7 @@ ${body}
     const byId = new Map(report.results.map((r) => [r.id, r]));
     const STATUS = {
       newer: ['bad', 'Newer edition published'],
-      current: ['ok', 'Up to date'],
+      current: ['ok', 'Latest edition'],
       manual: ['warn', 'Check on the website'],
     };
     const order = { newer: 0, manual: 1, current: 2 };
@@ -529,6 +557,7 @@ ${body}
           <td><a href="acts/${a.id}/index.html">${e(a.title)}</a></td>
           <td>${a.amendedUpToLabel ? e(a.amendedUpToLabel) : a.enacted ? `As enacted (${e(a.enacted)})` : 'Not stated'}</td>
           <td><span class="badge ${cls}">${label}</span>${latest}</td>
+          <td>${verificationBadge(a)}</td>
           <td><a href="${e(page)}" target="_blank" rel="noopener">${e(new URL(page).hostname.replace(/^www\./, ''))}</a></td>
         </tr>`;
       })
@@ -558,12 +587,13 @@ ${body}
     <h1>Sources and updates</h1>
     <p>Each instrument is taken from the regulator's own consolidated edition. This page compares the edition in the library with the latest edition listed on the regulator's website, so you can see which laws need checking.</p>
     ${report.checkedAt
-      ? `<p><strong>Status:</strong> ${count('newer')} with a newer edition, ${count('manual')} to check on the website, ${count('current')} up to date. <span class="muted small">Automated check ${e(report.checkedAt)}${extras.checks.length ? `; latest hand check ${e(extras.checks.map((c) => c.date).sort().pop())}` : ''}.</span></p>`
+      ? `<p><strong>Status:</strong> ${count('newer')} with a newer edition, ${count('manual')} to check on the website, ${count('current')} the latest edition. <span class="muted small">Automated check ${e(report.checkedAt)}${extras.checks.length ? `; latest hand check ${e(extras.checks.map((c) => c.date).sort().pop())}` : ''}.</span></p>`
       : '<p>No automated check has been run yet.</p>'}
+    <div class="note-box"><strong>Two different checks.</strong> <em>Edition status</em> says whether the library holds the latest edition the regulator lists (<span class="badge ok">Latest edition</span>). <em>Text checked</em> says whether a person has compared the library's text word for word with that PDF (<span class="badge ok">Verified</span>); until then it is <span class="badge warn">Unverified</span> and should be confirmed against the PDF before it is quoted. An instrument can be the latest edition and still unverified.</div>
     <p class="muted small">The check runs every week. FBR and FMU pages are read automatically. SECP's website blocks automated access and Pakistan Code lists no edition dates, so those laws are checked by hand and a screenshot of each check is kept below.</p>
     <div class="table-wrap">
       <table class="sources-table">
-        <thead><tr><th>Instrument</th><th>Edition in the library</th><th>Status</th><th>Regulator page</th></tr></thead>
+        <thead><tr><th>Instrument</th><th>Edition in the library</th><th>Edition status</th><th>Text checked</th><th>Regulator page</th></tr></thead>
         <tbody>${rows}</tbody>
       </table>
     </div>
@@ -622,7 +652,7 @@ ${body}
       <li>Search and every instrument you have opened keep working offline. The site can be installed on a phone or desktop from the browser menu.</li>
     </ul>
     <h2>Verification</h2>
-    <p>Every instrument carries a verification status. <span class="badge ok">Verified</span> means an editor has checked the text against the named official source on the stated date. <span class="badge warn">Unverified</span> text has not yet been checked and should not be quoted without confirming it.</p>
+    <p id="verification">Every instrument carries a verification status. <span class="badge ok">Verified</span> means an editor has checked the text against the named official source on the stated date. <span class="badge warn">Unverified</span> text has not yet been checked and should not be quoted without confirming it.</p>
     <h2>Disclaimer</h2>
     <p>This library is a research aid and not a substitute for the official Gazette. It does not constitute legal advice.</p>
   </section>`,
