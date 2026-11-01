@@ -14,7 +14,16 @@
    "number": "S.R.O. 201(I)/2024 (12 February 2024)",
    "library": "companies-regulations-2024",
    "sections": [
-    "512"
+    "512",
+    "26",
+    "27",
+    "28",
+    "103",
+    "112",
+    "227",
+    "271",
+    "285",
+    "479"
    ],
    "status": "in-force",
    "latest": "Amended by S.R.O. 1355(I)/2025 of 25 July 2025 (SECP lists it as “SRO 1356”)",
@@ -23,14 +32,15 @@
     "screenshot": "secp-regulations-2026-10-04.webp"
    },
    "secpPage": "regulations",
-   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically."
+   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67)."
   },
   {
    "title": "Third Schedule to the Companies Act, 2017 (updated)",
    "type": "schedule",
    "library": "companies-act-2017-third-schedule",
    "sections": [
-    "507"
+    "507",
+    "224"
    ],
    "status": "in-force",
    "latest": "Updated to 29 December 2025",
@@ -39,7 +49,7 @@
     "screenshot": "secp-acts-2026-10-04.png"
    },
    "secpPage": "acts",
-   "basis": "Schedules are altered by notification under section 507."
+   "basis": "Schedules are altered by notification under section 507. It sets out the classification of companies referred to in section 224."
   },
   {
    "title": "Seventh Schedule to the Companies Act, 2017 (updated)",
@@ -251,11 +261,12 @@
    "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
    "type": "rules",
    "sections": [
+    "508",
     "509"
    ],
    "status": "in-force",
    "secpPage": "notifications",
-   "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024.",
+   "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024. The draft amendments (S.R.O. 124(I)/2020) say the rules are made under section 508.",
    "confirm": [
     "an official PDF of the rules amended up to 1 July 2019 (only a Word file was saved)"
    ],
@@ -378,6 +389,39 @@
    }
   },
   {
+   "title": "Companies (Mediation and Conciliation) Regulations, 2018",
+   "type": "regulations",
+   "sections": [
+    "276"
+   ],
+   "status": "in-force",
+   "secpPage": "notifications",
+   "basis": "The draft S.R.O. 1208(I)/2017 is made under section 512(1) read with section 276. SECP's Mediation and Conciliation page refers to the Panel kept under regulation 3 of the Companies (Mediation and Conciliation) Regulations, 2018.",
+   "confirm": [
+    "the final 2018 regulations (search SECP's Regulations page for “Mediation”); only the 2017 draft has been seen"
+   ],
+   "url": "https://www.secp.gov.pk/company-formation/mediation-and-conciliation/",
+   "latest": "Only the draft is listed on SECP's Notifications page: S.R.O. 1208(I)/2017, the draft Companies (Mediation and Conciliation) Regulations, 2017 (listed 22/11/2017)",
+   "seen": {
+    "date": "2026-10-04",
+    "screenshot": "secp-notifications-mediation-2026-10-04.jpg"
+   }
+  },
+  {
+   "title": "Companies (Easy Exit) Regulations, 2014",
+   "type": "regulations",
+   "sections": [
+    "426"
+   ],
+   "status": "in-force",
+   "secpPage": "notifications",
+   "basis": "Made under section 506A of the repealed Companies Ordinance, 1984. Gazette notices of 2024–2025 (SECP Company Registration Office Lahore) strike off companies under section 426(1) of the Companies Act, 2017 “read with Companies (Easy Exit) Regulations, 2014”.",
+   "confirm": [
+    "S.R.O. number of the 2014 regulations and of each amendment (the saved copies of the 2014 regulations and the 2016 amendments are scanned images; the 2015 amendment was previously published as S.R.O. 624(I)/2015)",
+    "whether SECP has issued a consolidated edition"
+   ]
+  },
+  {
    "title": "Companies (Incorporation) Regulations, 2017",
    "type": "regulations",
    "sections": [],
@@ -435,7 +479,8 @@
    "number": "S.R.O. 1441(I)/2023 (12 October 2023)",
    "library": "unlisted-companies-buy-back-regulations-2023",
    "sections": [
-    "88"
+    "88",
+    "458A"
    ],
    "status": "repealed",
    "replacedBy": "companies-regulations-2024",
