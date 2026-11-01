@@ -454,14 +454,18 @@
    "number": "S.R.O. 187(I)/97 (26 March 1997)",
    "sections": [
     "5",
-    "6"
+    "6",
+    "317",
+    "320",
+    "339"
    ],
    "status": "in-force",
    "madeUnder": "Companies Ordinance, 1984 (section 438)",
-   "basis": "Made by the Federal Government on the advice of the Supreme Court, in consultation with the High Courts, under section 438 of the Companies Ordinance, 1984 (recital). Section 423 of this Act is the corresponding rule-making power for proceedings before the Court; no rules under section 423 have been found.",
+   "basis": "Made by the Federal Government on the advice of the Supreme Court, in consultation with the High Courts, under section 438 of the Companies Ordinance, 1984 (recital). Section 423 of this Act is the corresponding rule-making power for proceedings before the Court; no rules under section 423 have been found. They also contain what sections 317, 320 and 339 leave to be prescribed: limits of the official liquidator's remuneration (rule 256), the statement of affairs and its form (rules 104–106), and the official liquidator's accounts, their forms and audit (rules 259–264, Forms 101–103). These rules refer to the sections of the 1984 Ordinance (for example section 328 for the statement of affairs) and require quarterly accounts, whereas section 339 provides for half-yearly accounts.",
    "confirm": [
     "whether the rules continue in force under this Act",
-    "whether rules have been made under section 423 (functions of the Registrar of the Company Bench, section 5(6)–(7))"
+    "whether rules have been made under section 423 (functions of the Registrar of the Company Bench, section 5(6)–(7))",
+    "whether rules 104–106, 256 and 259–264 still apply to winding up under this Act, given the differences from sections 317, 320 and 339"
    ]
   },
   {
