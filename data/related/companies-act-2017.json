@@ -26,7 +26,9 @@
     "479",
     "53",
     "54",
-    "132"
+    "132",
+    "461",
+    "470"
    ],
    "status": "in-force",
    "latest": "Amended by S.R.O. 1355(I)/2025 of 25 July 2025 (SECP lists it as “SRO 1356”)",
@@ -35,7 +37,7 @@
     "screenshot": "secp-regulations-2026-10-04.webp"
    },
    "secpPage": "regulations",
-   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67), 53 and 54 (reg. 34, service of documents on the Commission, registrar or company), 132(2) (reg. 56, video link on demand of members holding ten percent of paid-up capital)."
+   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67), 53 and 54 (reg. 34, service of documents on the Commission, registrar or company), 132(2) (reg. 56, video link on demand of members holding ten percent of paid-up capital), 461 (reg. 19(3), security clearance from the Ministry of Interior for foreign subscribers and officers), 470 (reg. 64, maximum fees companies may charge for copies, inspection and other services)."
   },
   {
    "title": "Third Schedule to the Companies Act, 2017 (updated)",
@@ -473,13 +475,15 @@
    "type": "regulations",
    "number": "S.R.O. 296(I)/2017 (2 May 2017)",
    "sections": [
-    "68"
+    "68",
+    "446",
+    "447"
    ],
    "status": "in-force",
    "madeUnder": "Securities Act, 2015",
    "secpPage": "regulations",
    "latest": "Updated to 15 September 2021 (SECP's consolidated copy)",
-   "basis": "Made under sections 19, 87, 88, 89, 90, 91, 94 and 95 read with section 169 of the Securities Act, 2015 (recital), not under this Act. Regulation 6(10) requires the subscription money of unsuccessful applicants to be unblocked or refunded within 10 working days of the close of the public subscription period (fixed price method); similar provisions apply to book building and debt securities.",
+   "basis": "Made under sections 19, 87, 88, 89, 90, 91, 94 and 95 read with section 169 of the Securities Act, 2015 (recital), not under this Act. Regulation 6(10) requires the subscription money of unsuccessful applicants to be unblocked or refunded within 10 working days of the close of the public subscription period (fixed price method); similar provisions apply to book building and debt securities. Regulation 3(18) provides that securities of a company established outside Pakistan may be offered to the public under sections 87 and 88 of the Securities Act read with sections 446 and 447 of the Companies Act, if the foreign company complies with Part XII of the Companies Act.",
    "confirm": [
     "whether the Commission treats them as specifying the time in section 68",
     "amendments after 15 September 2021"
@@ -546,11 +550,12 @@
     "407",
     "415",
     "416",
-    "417"
+    "417",
+    "423"
    ],
    "status": "in-force",
    "madeUnder": "Companies Ordinance, 1984 (section 438)",
-   "basis": "Made by the Federal Government on the advice of the Supreme Court, in consultation with the High Courts, under section 438 of the Companies Ordinance, 1984 (recital). Section 423 of this Act is the corresponding rule-making power for proceedings before the Court; no rules under section 423 have been found. They also contain what sections 317, 320 and 339 leave to be prescribed: limits of the official liquidator's remuneration (rule 256), the statement of affairs and its form (rules 104–106), and the official liquidator's accounts, their forms and audit (rules 259–264, Forms 101–103). These rules refer to the sections of the 1984 Ordinance (for example section 328 for the statement of affairs) and require quarterly accounts, whereas section 339 provides for half-yearly accounts. For voluntary winding up they give forms for the declaration of solvency (rule 269, Form 107; 1984 section 362, now section 351), the statement of assets and liabilities laid before creditors (rule 270, Form 108; 1984 section 368, now section 357), the notice of the final meeting and the account laid before it (rule 279, Forms 111 and 112) and the returns to the registrar after it (rule 281, Forms 113 and 114; 1984 sections 370 and 382, now sections 359 and 369), and the liquidator's periodical statements of pending liquidations (rule 267, Forms 104–106; 1984 section 430, now section 415). Rules 252–254 deal with moneys of a company in liquidation paid into the bank (section 416). Sections 351, 357, 359 and 369 leave these particulars to be specified by regulations, which have not been found; the rules are the nearest existing provision. All 115 forms of the rules are matched by subject to sections of this Act on a separate page; the compromise forms (19–21) have no counterpart because the Commission, not the Court, now sanctions compromises (sections 279 and 280). Sections 315, 337 and 341 are not linked here although forms touch them, because what they leave to be specified or prescribed (the panel of liquidators, persons to assist the official liquidator, transfer of a section 42 company's assets) is not in the rules.",
+   "basis": "Made by the Federal Government on the advice of the Supreme Court, in consultation with the High Courts, under section 438 of the Companies Ordinance, 1984 (recital). Section 423 of this Act is the corresponding rule-making power for proceedings before the Court; no rules under section 423 have been found. They also contain what sections 317, 320 and 339 leave to be prescribed: limits of the official liquidator's remuneration (rule 256), the statement of affairs and its form (rules 104–106), and the official liquidator's accounts, their forms and audit (rules 259–264, Forms 101–103). These rules refer to the sections of the 1984 Ordinance (for example section 328 for the statement of affairs) and require quarterly accounts, whereas section 339 provides for half-yearly accounts. For voluntary winding up they give forms for the declaration of solvency (rule 269, Form 107; 1984 section 362, now section 351), the statement of assets and liabilities laid before creditors (rule 270, Form 108; 1984 section 368, now section 357), the notice of the final meeting and the account laid before it (rule 279, Forms 111 and 112) and the returns to the registrar after it (rule 281, Forms 113 and 114; 1984 sections 370 and 382, now sections 359 and 369), and the liquidator's periodical statements of pending liquidations (rule 267, Forms 104–106; 1984 section 430, now section 415). Rules 252–254 deal with moneys of a company in liquidation paid into the bank (section 416). Sections 351, 357, 359 and 369 leave these particulars to be specified by regulations, which have not been found; the rules are the nearest existing provision. All 115 forms of the rules are matched by subject to sections of this Act on a separate page; the compromise forms (19–21) have no counterpart because the Commission, not the Court, now sanctions compromises (sections 279 and 280). Sections 315, 337 and 341 are not linked here although forms touch them, because what they leave to be specified or prescribed (the panel of liquidators, persons to assist the official liquidator, transfer of a section 42 company's assets) is not in the rules. Section 423 of this Act is the power under which rules of this kind are now to be made; no rules made under it have been found.",
    "confirm": [
     "whether the rules continue in force under this Act",
     "whether rules have been made under section 423 (functions of the Registrar of the Company Bench, section 5(6)–(7))",

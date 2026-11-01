@@ -14,7 +14,7 @@ Last updated: 1 November 2026.
 | 12 | Merge PR #25 on github.com (one Netlify deploy) | You | Pending | https://github.com/sendtoadnan/kegaldatabank/pull/25 — all work since 4 Oct 2026 |
 | 13 | After the merge: switch to `main`, pull, delete the branch | Claude | Waiting | Waits on 12; say "pull" |
 | 14 | Delete five empty folders in `Unified/Corporate & Securities` | You | Pending | Old S.R.O. 464, Companies (Court) Rules, Debt Securities Trustees, Public Offering, Share Registrars folders (Claude's safety check blocks folder removal) |
-| 15 | Work through the Companies Act sections still marked "To identify" | Claude | Pending | 35 left after batches 1–4; ten per batch, lowest first, skipping those already searched |
+| 15 | Work through the Companies Act sections still marked "To identify" | Claude | Pending | 31 left after batches 1–5; ten per batch, lowest first, skipping those already searched |
 | 16 | Download S.R.O. 1336(I)/2025 (IFRS 17 date extension) and screenshot the S.R.O. 1715(I)/2023 listing | You | Pending | Section 225/228 entry |
 | 17 | Download SECP Circular 15 of 2017 (exemption from NTN requirement) | You | Pending | Section 153 entry is from the search index only |
 | 18 | Screenshot SECP's listings of Circulars 7 and 21 of 2025 | You | Pending | PDFs already saved |
@@ -53,4 +53,5 @@ Last updated: 1 November 2026.
 | 33 | Download S.R.O. 1715(I)/2023 (IFRS 17) and screenshot S.R.O. 464 and the ECF "updated" page | You | 1 Nov 2026 | |
 | 34 | Create this tracker | Claude | 1 Nov 2026 | |
 | 38 | Match every Court Rules 1997 form (framed under the 1984 Ordinance) to the Companies Act 2017 | Claude | 1 Nov 2026 | 115 forms on a new page; compromise forms 19–21 have no counterpart (the Commission now sanctions compromises) |
+| 39 | Sections to identify, batch 5 (ss.423–470) | Claude | 1 Nov 2026 | ss.423, 446 (447), 461, 470 linked; 440, 454, 456, 457, 459, 467 left open |
 | 35 | Sections to identify, batch 4 (ss.351–420) | Claude | 1 Nov 2026 | ss.351, 357, 359, 369, 415, 416 linked to the Court Rules 1997; 362, 376, 396, 420 left open |
