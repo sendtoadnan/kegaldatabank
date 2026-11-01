@@ -292,3 +292,17 @@ select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid
 .instrument-hits { list-style: none; padding: 0; margin: 0 0 1.25rem; }
 .instrument-hits li { padding: 0.4rem 0; border-bottom: 1px solid var(--border); }
 .group-row th { text-align: left; font-weight: 600; background: var(--bg); padding-top: 0.9rem; }
+
+/* ---------- sources note, register list on act pages, search help ---------- */
+.note-box { border: 1px solid var(--border); background: var(--surface); border-radius: 10px; padding: 0.8rem 1rem; margin: 1rem 0; font-size: 0.92rem; }
+.register-more { margin-top: 1rem; }
+.register-more summary { cursor: pointer; font-weight: 600; }
+.register-more ul { margin: 0.6rem 0; padding-left: 1.2rem; }
+.register-more li { margin: 0.25rem 0; }
+.search-help { margin-top: 2rem; }
+.search-help h2 { font-size: 1.15rem; }
+.search-help h3 { font-size: 0.95rem; margin: 0 0 0.3rem; }
+.help-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 0.8rem; margin-bottom: 1.2rem; }
+.help-grid > div { border: 1px solid var(--border); border-radius: 10px; padding: 0.8rem; background: var(--surface); }
+.help-grid p { margin: 0; font-size: 0.9rem; }
+.nowrap { white-space: nowrap; }
