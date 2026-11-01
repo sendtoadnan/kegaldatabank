@@ -34,6 +34,10 @@ Last updated: 1 November 2026.
 | 37 | Check the matching of the 115 Court Rules 1997 forms to Companies Act 2017 sections | You | Pending | Page `acts/companies-act-2017/forms-court-rules-1997.html`; matched by subject, each to be confirmed |
 | 40 | Get the notification of 2 August 2024 under section 37 of the SECP Act naming the court for Companies Act offences (S.R.O. number, text) | You | Pending | Section 482. The Sindh High Court order of 6 Sep 2024 citing it is saved; the notification itself is still needed. An unofficial summary you saved mentions an S.R.O. of 26 Dec 2017 and the Ministry of Law and Justice: unconfirmed |
 | 43 | Download the Panel of Provisional Managers and Official Liquidators Regulations 2019 from SECP's Regulations page, with a listing screenshot | You | Pending | Section 315; found only through a KPMG copy and news reports |
+| 46 | Download the main SECP Acts as text PDFs for the library: Securities Act 2015 (the saved copy is a scan), Central Depositories Act 1997, SECP Act 1997, Futures Market Act 2016, LLP Act 2017, Modaraba Ordinance 1980 | You | Pending | From SECP's Acts and Ordinances pages, with listing screenshots; see `laws.html` |
+| 47 | Download the main capital-market and NBFC regulations (Securities Brokers, Securities Exchanges, Central Depositories, Clearing Houses, Securities and Futures Advisers, Takeovers, NBFC & NE Regulations 2008, REIT 2022, LLP Regulations 2018), latest editions with screenshots | You | Pending | Listed on `laws.html` with SECP links |
+| 48 | Extend the SECP catalogue to directives, circulars, guidelines and orders; re-check titles and editions as screenshots arrive | Claude | Pending | `data/catalogue/secp.json` |
+| 49 | Add the catalogued instruments to the library as their PDFs arrive (tasks 27, 46, 47), batching new PDFs | Claude | Waiting | Scanned PDFs need OCR first |
 | 31 | Modaraba Rules 1981, CRC Rules 2019 and S.R.O. 243/2024 | You | Deferred | Deferred by the user (Oct 2026); PDFs now in `_To sort` |
 
 ## Done
@@ -56,6 +60,7 @@ Last updated: 1 November 2026.
 | 34 | Create this tracker | Claude | 1 Nov 2026 | |
 | 38 | Match every Court Rules 1997 form (framed under the 1984 Ordinance) to the Companies Act 2017 | Claude | 1 Nov 2026 | 115 forms on a new page; compromise forms 19–21 have no counterpart (the Commission now sanctions compromises) |
 | 42 | Read the third round of downloads | Claude | 1 Nov 2026 | Sindh High Court order (s.482), Offences in Respect of Banks (Special Courts) Ordinance 1984 (two copies), an unofficial summary (not used as a source); filed under s.482. S.R.O. 1715 PDF and screenshots filed |
+| 50 | Separate edition status from text checking; show register instruments on Act pages; search help; SECP laws catalogue page | Claude | 1 Nov 2026 | Sources: "Latest edition" + "Text checked"; Companies Act page lists 40 instruments not in the library (incl. Easy Exit); `laws.html` lists 51 SECP instruments (7 in library) |
 | 26 | Add the Easy Exit amendment S.R.O.s to the register's Easy Exit Regulations entry | Claude | 1 Nov 2026 | S.R.O. 1083(I)/2014 (the regulations), 846(I)/2015 and 456(I)/2016 recorded; 314(I)/2016 is only the draft. PDFs and three Gazette strike-off lists filed under s.426 |
 | 44 | Second pass over the remaining sections | Claude | 1 Nov 2026 | s.187 (PSC Rules 2013, rule 5(2)) and s.315 (Panel Regulations 2019, to confirm) linked; 9 sections marked "Set in each order"; 17 left |
 | 41 | Sections to identify, batch 6 (ss.472–506) — last unsearched sections | Claude | 1 Nov 2026 | ss.472, 506 (Companies Regulations 2024, regs. 94 and 30) and 482 (s.37 SECP Act notification, to confirm) linked; 474, 475, 484 set in each order |

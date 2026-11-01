@@ -78,6 +78,7 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
     <a href="${base}index.html"${page === 'home' ? ' aria-current="page"' : ''}>Library</a>
     <a href="${base}search.html"${page === 'search' ? ' aria-current="page"' : ''}>Search</a>
     <a href="${base}shelf.html"${page === 'shelf' ? ' aria-current="page"' : ''}>My shelf</a>
+    <a href="${base}laws.html"${page === 'laws' ? ' aria-current="page"' : ''}>SECP laws</a>
     <a href="${base}sources.html"${page === 'sources' ? ' aria-current="page"' : ''}>Sources</a>
     <a href="${base}about.html"${page === 'about' ? ' aria-current="page"' : ''}>About</a>
   </nav>
@@ -174,7 +175,7 @@ ${body}
     </form>
     <p class="hint">Try <a href="search.html?q=withholding%20tax">withholding tax</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=related%20party">related party</a> or <a href="search.html?q=KYC">KYC</a> · <a href="search-guide.html">Search guide</a></p>
     <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
-    <p class="stats small"><a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
+    <p class="stats small"><a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
   </section>
   <div id="shelf-preview"></div>
   <nav class="chips" aria-label="Practice areas">
@@ -598,6 +599,42 @@ ${body}
       </table>
     </div>
     ${gallery ? `<h2>Screenshots of the regulator's listings</h2><p>Each screenshot shows the regulator's own list of editions on the day it was checked, so you can see that the edition in the library is the latest one published.</p><div class="evidence-grid">${gallery}</div>` : ''}
+  </section>`,
+      })
+    );
+  }
+
+  // ---------- catalogue of what a regulator administers, and what the library covers ----------
+  for (const cat of extras.catalogues) {
+    const all = cat.categories.flatMap((g) => g.items);
+    const state = (x) =>
+      x.library ? '<span class="badge ok">In library</span>'
+      : x.register ? '<span class="badge other">In register</span>'
+      : x.status === 'repealed' ? '<span class="badge bad">Repealed</span>'
+      : '<span class="badge warn">Not in library yet</span>';
+    const name = (x) =>
+      x.library ? `<a href="acts/${x.library}/index.html">${e(x.title)}</a>`
+      : x.register ? `<a href="acts/${x.register}/related.html">${e(x.title)}</a>`
+      : x.url ? `<a href="${e(x.url)}" target="_blank" rel="noopener">${e(x.title)}</a>` : e(x.title);
+    const sections = cat.categories
+      .map((g) => `<h2 id="${g.id}">${e(g.name)}</h2><div class="table-wrap"><table class="sources-table"><thead><tr><th>Instrument</th><th>Type</th><th>Coverage</th><th>Notes</th></tr></thead><tbody>${g.items
+        .map((x) => `<tr><td>${name(x)}${x.number ? `<br><span class="muted small">${e(x.number)}</span>` : ''}</td><td>${typeLabel(x.type === 'register' ? 'regulations' : x.type)}</td><td>${state(x)}${x.saved ? ' <span class="muted small">PDF saved</span>' : ''}</td><td class="small">${e(x.note || '')}${x.found ? `${x.note ? '<br>' : ''}<span class="muted">Found ${dateLabel(x.found.date)} through a search engine's index of SECP's website; confirm the edition.</span>` : ''}</td></tr>`)
+        .join('')}</tbody></table></div>`)
+      .join('');
+    write(
+      cat.id === 'secp' ? 'laws.html' : `laws-${cat.id}.html`,
+      layout({
+        title: `SECP laws and regulations — ${site.name}`,
+        description: 'Acts, rules and regulations administered by the Securities and Exchange Commission of Pakistan, and which of them are in the library.',
+        base: '',
+        page: 'laws',
+        body: `
+  <section class="prose related-page">
+    <h1>Laws and regulations administered by SECP</h1>
+    <p>What the Securities and Exchange Commission of Pakistan administers, sector by sector, and how much of it the library already holds: <strong>${all.filter((x) => x.library).length}</strong> in the library, <strong>${all.filter((x) => x.register && !x.library).length}</strong> recorded in a register, <strong>${all.filter((x) => !x.library && !x.register && x.status !== 'repealed').length}</strong> not in the library yet.</p>
+    <p class="muted small">${e(cat.intro || '')}</p>
+    <nav class="chips" aria-label="Sectors">${cat.categories.map((g) => `<a class="chip" href="#${g.id}">${e(g.name)}</a>`).join('')}</nav>
+    ${sections}
   </section>`,
       })
     );
