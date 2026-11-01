@@ -16,6 +16,7 @@ Deployed by Netlify from `main`; every change goes through a branch and a pull r
 ## Commands
 - `npm test` (must pass before any PR), `npm run validate`, `npm run build`, `npm run serve` (http://localhost:8080)
 - `python3 scripts/extract_pdf.py <id>` then `python3 scripts/check_sequence.py` to check numbering
+- `python3 scripts/verify_sheet.py <id>` (or `--unverified`) makes a checklist in `verification/` for a person to check the text against the PDF; then `python3 scripts/mark_verified.py <id> --by "Name" --against "SECP PDF of …"`
 - `npm run check-updates -- --json data/update-check.json` (add `--saved <folder>` for SECP pages saved from the browser)
 - `python3 scripts/sync_folders.py --from <Google Drive folder> --from <OneDrive folder> --from sources/pdf --to <OneDrive>/Unified` (add `--apply`; dry run otherwise)
 

@@ -111,7 +111,7 @@ Notes whose markers sit in a chapter or part heading are stored on that heading 
    The importer detects `PART`/`CHAPTER` headings and provisions written as `12. Heading.—(1) Text`, and indents `(a)` and `(i)` clauses.
 3. **Proof-read.** PDF extraction breaks lines, drops dashes and confuses `(i)` (letter) and `(i)` (roman). Compare every provision line by line.
 4. **Complete metadata:** dates, source, aliases, and amendment notes.
-5. **Verify.** A second person checks the file against the source, then sets `verification.status` to `verified` with their name and date.
+5. **Verify.** A second person checks the file against the source, then sets `verification.status` to `verified` with their name and date. `python3 scripts/verify_sheet.py <id>` (or `--unverified` for all) writes a printable checklist to `verification/<id>.html`: one row per provision with its heading, first and last words, amendment-note count and a link that opens the PDF at its page. When every row is ticked, `python3 scripts/mark_verified.py <id> --by "Name" --against "SECP PDF of …"` records it.
 6. **Test and publish:** `npm test`, then push. The website rebuilds automatically.
 
 ## 4. Keeping the law current
