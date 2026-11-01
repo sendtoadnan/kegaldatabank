@@ -142,10 +142,7 @@
      "number": "S.R.O. 110(I)/96",
      "note": "Made under the 1984 Ordinance; PDF saved by the user.",
      "saved": true,
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     }
+     "library": "companies-issue-of-capital-rules-1996"
     }
    ]
   },
@@ -159,7 +156,8 @@
      "url": "https://www.secp.gov.pk/document/public-offering-regulations-2017-updated-september-15-2021/",
      "number": "S.R.O. 296(I)/2017",
      "register": "companies-act-2017",
-     "saved": true
+     "saved": true,
+     "library": "public-offering-regulations-2017"
     },
     {
      "title": "Public Offering (Regulated Securities Activities Licensing) Regulations, 2017",
@@ -225,10 +223,7 @@
      "number": "S.R.O. 504(I)/2005 (1 June 2005)",
      "note": "Made under section 39 of the SECP Act, 1997; PDF saved by the user. Status under the Securities Act, 2015 to confirm.",
      "saved": true,
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     }
+     "library": "clearing-houses-rules-2005"
     },
     {
      "title": "Securities and Futures Advisers (Licensing and Operations) Regulations, 2017",
@@ -372,10 +367,7 @@
      "number": "S.R.O. 310(I)/2003",
      "note": "Made under section 282B of the 1984 Ordinance; PDF updated to 14 September 2023 saved by the user.",
      "saved": true,
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     }
+     "library": "nbfc-rules-2003"
     },
     {
      "title": "Non-Banking Finance Companies and Notified Entities Regulations, 2008",
@@ -509,10 +501,7 @@
      "number": "S.R.O. 713(I)/2019 (1 July 2019)",
      "note": "Made under section 39 of the SECP Act, 1997; PDF saved by the user.",
      "saved": true,
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     }
+     "library": "secp-search-seizure-rules-2019"
     }
    ]
   }
