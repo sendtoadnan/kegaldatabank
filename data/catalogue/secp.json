@@ -14,21 +14,23 @@
     {
      "title": "Securities and Exchange Commission of Pakistan Act, 1997",
      "type": "act",
-     "note": "Section 37 (court for offences) and section 43 (rules) are cited by several instruments in the library.",
+     "note": "Saved: text PDF updated till 2016. Later amendments to confirm. Section 37 (court for offences) and section 43 (rules) are cited by several instruments in the library.",
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "saved": true
     },
     {
      "title": "Securities Act, 2015",
      "type": "act",
      "url": "https://www.secp.gov.pk/laws/acts/",
-     "note": "A Gazette scan is saved in the user's _To sort folder; it needs OCR before it can be added.",
+     "note": "Saved: Gazette copy, scanned (no text layer). A text edition (for example from Pakistan Code) or OCR is needed before it can be added.",
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "saved": true
     },
     {
      "title": "Central Depositories Act, 1997",
@@ -37,7 +39,9 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "saved": true,
+     "note": "Saved: Gazette of 10 June 1997 as enacted (text and scan). An amended edition is needed for the library."
     },
     {
      "title": "Futures Market Act, 2016",
@@ -46,7 +50,9 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "saved": true,
+     "note": "Saved: Pakistan Code text (Act No. XIV of 2016) and a scanned copy."
     },
     {
      "title": "Limited Liability Partnership Act, 2017",
@@ -55,7 +61,9 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "saved": true,
+     "note": "Saved: Pakistan Code text updated till 15 October 2021 (Act No. XV of 2017) and the Gazette of 3 May 2017."
     },
     {
      "title": "Corporate Restructuring Companies Act, 2016",
@@ -78,7 +86,9 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "saved": true,
+     "note": "Saved: text amended till 2012. Later amendments to confirm."
     },
     {
      "title": "Anti-Money Laundering Act, 2010",
@@ -200,7 +210,19 @@
      "title": "Central Depositories (Licensing and Operations) Regulations, 2016",
      "type": "regulations",
      "url": "https://www.secp.gov.pk/document/central-depositories-licensing-and-operations-regulations-2016/",
-     "note": "SECP lists an edition amended to 13 August 2023.",
+     "note": "Saved: S.R.O. 120(I)/2016 (15 February 2016), amended to 16 June 2026, made under section 169 of the Securities Act, 2015.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     },
+     "saved": true,
+     "number": "S.R.O. 120(I)/2016"
+    },
+    {
+     "title": "Central Depository Company of Pakistan Regulations (CDC Regulations)",
+     "type": "regulations",
+     "note": "Rules of the Central Depository Company itself, approved by SECP. Saved: master copy updated October 2025 and an Urdu version of March 2025.",
+     "saved": true,
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
