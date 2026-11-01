@@ -14,7 +14,7 @@ Last updated: 1 November 2026.
 | 12 | Merge PR #25 on github.com (one Netlify deploy) | You | Pending | https://github.com/sendtoadnan/kegaldatabank/pull/25 — all work since 4 Oct 2026 |
 | 13 | After the merge: switch to `main`, pull, delete the branch | Claude | Waiting | Waits on 12; say "pull" |
 | 14 | Delete five empty folders in `Unified/Corporate & Securities` | You | Pending | Old S.R.O. 464, Companies (Court) Rules, Debt Securities Trustees, Public Offering, Share Registrars folders (Claude's safety check blocks folder removal) |
-| 15 | Work through the Companies Act sections still marked "To identify" | Claude | Pending | 41 left after batches 1–3; ten per batch, lowest first, skipping those already searched |
+| 15 | Work through the Companies Act sections still marked "To identify" | Claude | Pending | 35 left after batches 1–4; ten per batch, lowest first, skipping those already searched |
 | 16 | Download S.R.O. 1336(I)/2025 (IFRS 17 date extension) and screenshot the S.R.O. 1715(I)/2023 listing | You | Pending | Section 225/228 entry |
 | 17 | Download SECP Circular 15 of 2017 (exemption from NTN requirement) | You | Pending | Section 153 entry is from the search index only |
 | 18 | Screenshot SECP's listings of Circulars 7 and 21 of 2025 | You | Pending | PDFs already saved |
@@ -30,6 +30,7 @@ Last updated: 1 November 2026.
 | 28 | Tidy `_To sort`: remove the duplicate Secured Transactions Registry Rules copy and the Competition Commission registrar regulations (wrong download) | You | Pending | |
 | 29 | Look at the results of the first weekly update check (Monday 2 Nov 2026) | Claude | Pending | `data/update-check.json`; the workflow pushes to `main`, which deploys |
 | 30 | Investor Education and Awareness Fund rules | You | Waiting | Only draft rules found so far |
+| 36 | If SECP lists regulations or forms for voluntary winding up (declaration of solvency, statement to creditors, final meeting report), download them | You | Pending | Sections 351, 357, 359, 369 are linked to the Court Rules 1997 only as the nearest provision |
 | 31 | Modaraba Rules 1981, CRC Rules 2019 and S.R.O. 243/2024 | You | Deferred | Deferred by the user (Oct 2026); PDFs now in `_To sort` |
 
 ## Done
@@ -50,3 +51,4 @@ Last updated: 1 November 2026.
 | 32 | Download the panel of liquidators register and panel of mediators | You | 1 Nov 2026 | Lists only; filed under s.315 and s.276 |
 | 33 | Download S.R.O. 1715(I)/2023 (IFRS 17) and screenshot S.R.O. 464 and the ECF "updated" page | You | 1 Nov 2026 | |
 | 34 | Create this tracker | Claude | 1 Nov 2026 | |
+| 35 | Sections to identify, batch 4 (ss.351–420) | Claude | 1 Nov 2026 | ss.351, 357, 359, 369, 415, 416 linked to the Court Rules 1997; 362, 376, 396, 420 left open |
