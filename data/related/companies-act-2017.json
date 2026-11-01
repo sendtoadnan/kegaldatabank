@@ -354,6 +354,51 @@
    }
   },
   {
+   "title": "SECP Circular 15 of 2017 — exemption from the requirement of a National Tax Number",
+   "type": "circular",
+   "number": "Circular No. 15 of 2017",
+   "sections": [
+    "153"
+   ],
+   "status": "in-force",
+   "basis": "Section 153(h) lets the Commission grant exemption from the National Tax Number requirement “as may be notified”; a search engine's index of SECP's website describes this circular as giving that exemption under the Companies Act, 2017.",
+   "confirm": [
+    "the circular's text, date and who it exempts",
+    "that it was issued under section 153(h)",
+    "that it is still in force",
+    "its page on SECP's website (not found in the index)"
+   ],
+   "found": {
+    "date": "2026-11-01",
+    "how": "search-index"
+   }
+  },
+  {
+   "title": "S.R.O. 1715 of 2023 — IFRS 17 (Insurance Contracts)",
+   "type": "notification",
+   "number": "S.R.O. 1715 of 2023",
+   "sections": [
+    "225",
+    "228"
+   ],
+   "status": "in-force",
+   "secpPage": "notifications",
+   "amendments": [
+    "S.R.O. 1336(I)/2025 (extension in implementation date of IFRS 17, per SECP's listing title)"
+   ],
+   "basis": "Section 228(1) requires consolidated financial statements to comply with the financial reporting standards notified by the Commission, which are notified under section 225. This is one such notification; others (for example IFRS 9) are not yet recorded.",
+   "confirm": [
+    "the enabling section, from the recital",
+    "date and the classes of companies it applies to",
+    "the full text of S.R.O. 1336(I)/2025 and the date it sets"
+   ],
+   "url": "https://www.secp.gov.pk/document/sro-1715-of-2023-ifrs-17/",
+   "found": {
+    "date": "2026-11-01",
+    "how": "search-index"
+   }
+  },
+  {
    "title": "Investor Education and Awareness Fund",
    "type": "rules",
    "sections": [
