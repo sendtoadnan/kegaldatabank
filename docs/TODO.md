@@ -12,6 +12,7 @@ Last updated: 1 November 2026.
 | # | Task | Owner | Status | Notes |
 |---|---|---|---|---|
 | 12 | Merge PR #25 on github.com (one Netlify deploy) | You | Pending | https://github.com/sendtoadnan/kegaldatabank/pull/25 — all work since 4 Oct 2026 |
+| 45 | Close old PR #5 (validation fix already in `main`; it now conflicts) | You | Pending | Claude was not permitted to close it; on github.com or `! gh pr close 5` |
 | 13 | After the merge: switch to `main`, pull, delete the branch | Claude | Waiting | Waits on 12; say "pull" |
 | 14 | Delete five empty folders in `Unified/Corporate & Securities` | You | Pending | Old S.R.O. 464, Companies (Court) Rules, Debt Securities Trustees, Public Offering, Share Registrars folders (Claude's safety check blocks folder removal) |
 | 15 | Work through the Companies Act sections still marked "To identify" | Claude | Waiting | Two passes done 1 Nov 2026 (56 → 17). 9 more are marked "Set in each order" (no instrument expected). The 17 left: 86, 104, 162, 188, 216, 258, 337, 341, 362, 376, 396, 440, 454, 456, 457, 459, 467. Revisit when new SECP material arrives |
