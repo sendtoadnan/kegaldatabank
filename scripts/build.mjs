@@ -185,6 +185,8 @@ ${body}
     const pdf = act.sourcePdf ? pdfHref(act, base) : null;
     const register = registerFor(act.id);
     const cited = register ? citedSections(act, kids) : new Map();
+    // Register entries made under another law (e.g. the Securities Act) that do what a section leaves to be specified.
+    const otherLaw = (i) => (i.madeUnder ? ` <span class="badge other">Other law</span> <span class="muted small">made under ${e(i.madeUnder)}</span>` : '');
     // Instruments related to each section: those in the library that cite it, then the register's entries.
     const relatedTo = (no) => {
       const out = [...(cited.get(no)?.values() || [])].map(
@@ -194,7 +196,7 @@ ${body}
         if (!(i.sections || []).includes(no) || (i.library && cited.get(no)?.has(i.library))) continue;
         const name = i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : i.url ? `<a href="${e(i.url)}" target="_blank" rel="noopener">${e(i.title)}</a>` : e(i.title);
         const tag = i.status === 'repealed' ? '<span class="badge bad">Repealed</span>' : i.library ? '' : '<span class="badge warn">Not in library yet</span>';
-        out.push(`<li>${name} ${tag}</li>`);
+        out.push(`<li>${name} ${tag}${otherLaw(i)}</li>`);
       }
       return out.length ? `<aside class="prov-related"><h4>Rules, regulations and notifications</h4><ul>${out.join('')}</ul></aside>` : '';
     };
@@ -337,13 +339,14 @@ ${body}
           const name = i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : i.url ? `<a href="${e(i.url)}" target="_blank" rel="noopener">${e(i.title)}</a>` : e(i.title);
           const state = i.status === 'repealed'
             ? `<span class="badge bad">Repealed</span>${i.replacedBy ? ` <span class="muted small">replaced by <a href="../${i.replacedBy}/index.html">${e(byId.get(i.replacedBy).title)}</a></span>` : ''}`
-            : i.library ? '<span class="badge ok">In library</span>' : '<span class="badge warn">Not in library yet</span>';
+            : i.library ? '<span class="badge ok">In library</span>' : '<span class="badge warn">Not in library yet</span>'
+          const other = otherLaw(i);
           const secs = (i.sections || []).map((n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`).join(', ') || '<span class="muted">to confirm</span>';
           const latest = [i.latest ? e(i.latest) : '', i.seen ? `<span class="muted small">seen ${dateLabel(i.seen.date)} · ${evidenceLink(base, i.seen.screenshot)}</span>` : '', pageLink(i.secpPage)].filter(Boolean).join('<br>');
           const amends = i.amendments?.length ? `<br><span class="muted small">Amended by ${i.amendments.map(e).join(', ')}</span>` : '';
           const found = i.found?.how === 'search-index' ? `<br><span class="muted small">Found ${dateLabel(i.found.date)} through a search engine's index of SECP's website; confirm against the instrument.</span>` : '';
           const confirm = i.confirm?.length ? `<br><span class="muted small">To confirm: ${i.confirm.map(e).join('; ')}</span>` : '';
-          return `<tr><td>${name}${i.number ? `<br><span class="muted small">${e(i.number)}</span>` : ''}</td><td>${secs}</td><td>${state}</td><td>${latest || '<span class="muted">—</span>'}</td><td class="small">${e(i.basis || '')}${amends}${found}${confirm}</td></tr>`;
+          return `<tr><td>${name}${i.number ? `<br><span class="muted small">${e(i.number)}</span>` : ''}</td><td>${secs}</td><td>${state}${other}</td><td>${latest || '<span class="muted">—</span>'}</td><td class="small">${e(i.basis || '')}${amends}${found}${confirm}</td></tr>`;
         })
         .join('');
       let covered = 0;
@@ -355,7 +358,7 @@ ${body}
           const fromLibrary = [...(cited.get(s.no)?.values() || [])].map(({ kid, provisions }) => `<a href="../${kid.id}/index.html#${provisionAnchor(provisions[0])}">${e(kid.title)}</a> <span class="muted small">(${provisions.map(displayNo).join(', ')})</span>`);
           const fromRegister = register.instruments
             .filter((i) => (i.sections || []).includes(s.no) && !(i.library && cited.get(s.no)?.has(i.library)))
-            .map((i) => (i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : `${e(i.title)}${i.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : ' <span class="badge warn">Not in library yet</span>'}`));
+            .map((i) => (i.library ? `<a href="../${i.library}/index.html">${e(i.title)}</a>` : `${e(i.title)}${i.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : ' <span class="badge warn">Not in library yet</span>'}${otherLaw(i)}`));
           const found = [...fromLibrary, ...fromRegister];
           if (!words && !found.length) return '';
           if (found.length) covered++;

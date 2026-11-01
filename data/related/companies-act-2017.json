@@ -1,5 +1,5 @@
 {
- "_about": "Rules, regulations and notifications made under the Companies Act, 2017, with the sections they carry out. `library` names the instrument's id when its text is in the library; `sections` lists the Act's sections; `basis` says where the link comes from; `confirm` lists what still has to be checked against the instrument itself. Sections cited by instruments in the library are found automatically and need not be listed here. `url` links to the instrument's page on the regulator's website; `found` records how the details were found (`search-index`: from a web search engine's index of the regulator's site, to be confirmed against the instrument).",
+ "_about": "Rules, regulations and notifications made under the Companies Act, 2017, with the sections they carry out. `library` names the instrument's id when its text is in the library; `sections` lists the Act's sections; `basis` says where the link comes from; `confirm` lists what still has to be checked against the instrument itself. Sections cited by instruments in the library are found automatically and need not be listed here. `url` links to the instrument's page on the regulator's website; `found` records how the details were found (`search-index`: from a web search engine's index of the regulator's site, to be confirmed against the instrument). `madeUnder` names the other law under which an instrument was made, for instruments not made under this Act that do what a section leaves to be specified (shown as “Other law”).",
  "act": "companies-act-2017",
  "secpPages": {
   "acts": "https://www.secp.gov.pk/laws/acts/",
@@ -393,6 +393,76 @@
     "date": "2026-11-01",
     "how": "search-index"
    }
+  },
+  {
+   "title": "Debt Securities Trustees Regulations, 2017",
+   "type": "regulations",
+   "number": "S.R.O. 15(I)/2017 (11 January 2017)",
+   "sections": [
+    "63"
+   ],
+   "status": "in-force",
+   "madeUnder": "Securities Act, 2015",
+   "secpPage": "regulations",
+   "amendments": [
+    "S.R.O. 1384(I)/2020 (per SECP's listing title)"
+   ],
+   "basis": "Made under section 169 read with sections 63, 64, 65, 68 and 69 of the Securities Act, 2015 (recital), not under this Act. They cover debt securities trustees and the trust deed for debt securities, including debentures, which section 63(2) leaves to be specified.",
+   "confirm": [
+    "whether the Commission treats them as specifying the matters in section 63",
+    "latest amended edition, including S.R.O. 1384(I)/2020"
+   ]
+  },
+  {
+   "title": "Public Offering Regulations, 2017",
+   "type": "regulations",
+   "number": "S.R.O. 296(I)/2017 (2 May 2017)",
+   "sections": [
+    "68"
+   ],
+   "status": "in-force",
+   "madeUnder": "Securities Act, 2015",
+   "secpPage": "regulations",
+   "latest": "Updated to 15 September 2021 (SECP's consolidated copy)",
+   "basis": "Made under sections 19, 87, 88, 89, 90, 91, 94 and 95 read with section 169 of the Securities Act, 2015 (recital), not under this Act. Regulation 6(10) requires the subscription money of unsuccessful applicants to be unblocked or refunded within 10 working days of the close of the public subscription period (fixed price method); similar provisions apply to book building and debt securities.",
+   "confirm": [
+    "whether the Commission treats them as specifying the time in section 68",
+    "amendments after 15 September 2021"
+   ],
+   "url": "https://www.secp.gov.pk/document/public-offering-regulations-2017-updated-september-15-2021/"
+  },
+  {
+   "title": "Share Registrars and Balloters Regulations, 2017",
+   "type": "regulations",
+   "number": "S.R.O. 16(I)/2017 (11 January 2017)",
+   "sections": [
+    "195"
+   ],
+   "status": "in-force",
+   "madeUnder": "Securities Act, 2015",
+   "secpPage": "regulations",
+   "basis": "Made under section 169(1) read with sections 63, 64, 65, 68 and 69 of the Securities Act, 2015 (recital), not under this Act. They set the licensing, eligibility and duties of share registrars, which section 195 leaves to be specified.",
+   "confirm": [
+    "whether the Commission treats them as specifying the matters in section 195",
+    "whether any amendment was issued (S.R.O. 261(I)/2021 seen only as a draft)"
+   ],
+   "url": "https://www.secp.gov.pk/document/sro-16i2017-share-registrars-and-balloters-regulations-2017/"
+  },
+  {
+   "title": "Companies (Court) Rules, 1997",
+   "type": "rules",
+   "number": "S.R.O. 187(I)/97 (26 March 1997)",
+   "sections": [
+    "5",
+    "6"
+   ],
+   "status": "in-force",
+   "madeUnder": "Companies Ordinance, 1984 (section 438)",
+   "basis": "Made by the Federal Government on the advice of the Supreme Court, in consultation with the High Courts, under section 438 of the Companies Ordinance, 1984 (recital). Section 423 of this Act is the corresponding rule-making power for proceedings before the Court; no rules under section 423 have been found.",
+   "confirm": [
+    "whether the rules continue in force under this Act",
+    "whether rules have been made under section 423 (functions of the Registrar of the Company Bench, section 5(6)–(7))"
+   ]
   },
   {
    "title": "Investor Education and Awareness Fund",
