@@ -22,12 +22,9 @@
      "title": "Securities Act, 2015",
      "type": "act",
      "url": "https://www.secp.gov.pk/laws/acts/",
-     "note": "Saved: Gazette copy, scanned (no text layer). A text edition (for example from Pakistan Code) or OCR is needed before it can be added.",
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     },
-     "saved": true
+     "note": "In the library from the scanned Gazette (as enacted): sections listed with headings and links to the scan; text to be read in the PDF until a text edition is obtained.",
+     "saved": true,
+     "library": "securities-act-2015"
     },
     {
      "title": "Central Depositories Act, 1997",

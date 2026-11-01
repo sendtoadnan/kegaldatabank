@@ -1,5 +1,5 @@
 // OCR a scanned PDF with macOS's built-in Vision text recognition (no install needed).
-// Usage: swift scripts/ocr_pdf.swift <in.pdf> <out.txt> [firstPage] [lastPage]
+// Usage: swift scripts/ocr_pdf.swift <in.pdf> <out.txt> [firstPage] [lastPage]   (OCR_DPI=400 for a second, sharper reading)
 // Writes the recognised lines in reading order, with "<<<page N>>>" before each page,
 // so a reader can find the page in the scan. The text is unverified: OCR makes mistakes.
 import Foundation
@@ -17,9 +17,10 @@ var out = ""
 
 for n in first...last {
   guard let page = doc.page(at: n - 1) else { continue }
-  // Render at about 300 dpi for accurate recognition.
+  // Render at 300 dpi by default for accurate recognition.
   let box = page.bounds(for: .mediaBox)
-  let scale: CGFloat = 300.0 / 72.0
+  let dpi = Double(ProcessInfo.processInfo.environment["OCR_DPI"] ?? "300") ?? 300
+  let scale = CGFloat(dpi / 72.0)
   let size = CGSize(width: box.width * scale, height: box.height * scale)
   let image = page.thumbnail(of: size, for: .mediaBox)
   guard let cg = image.cgImage(forProposedRect: nil, context: nil, hints: nil) else { continue }

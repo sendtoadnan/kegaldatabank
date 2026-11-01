@@ -1760,5 +1760,45 @@
       "page": "https://www.secp.gov.pk/laws/regulations/",
       "manual": true
     }
+  },
+  {
+    "id": "securities-act-2015",
+    "file": "securities-act-2015.pdf",
+    "title": "Securities Act, 2015",
+    "number": "Act No. III of 2015",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SA 2015",
+      "Securities Act",
+      "Securities Act 2015"
+    ],
+    "enacted": "2015-05-13",
+    "amendedUpTo": "2015-05-18",
+    "amendedUpToLabel": "As enacted (Gazette, 18 May 2015)",
+    "scannedContents": "securities-act-2015.json",
+    "numberingGaps": [
+      158
+    ],
+    "caution": "Shown from a scanned copy of the Gazette that has no text layer: each section is listed with its heading and a link to its page in the official PDF, and the text must be read there. This is the Act as enacted; later amendments are not reflected. Gazette page 280 (section 158 and the end of section 157) is missing from the saved scan.",
+    "sourceNotes": "Section headings were read from the scan by OCR (two readings) and checked against the scan where the readings differed. Section 158 is on Gazette page 280, which the saved scan omits.",
+    "summary": "Assented to on 13 May 2015; Part V comes into force on a date the Federal Government notifies (section 1(3)).",
+    "source": {
+      "name": "Gazette of Pakistan (copy saved from SECP)",
+      "url": "https://www.secp.gov.pk/laws/acts/"
+    },
+    "schedules": [
+      {
+        "title": "The Schedule — repeals (section 178)",
+        "page": 127
+      }
+    ],
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "manual": true
+    }
   }
 ]

@@ -410,9 +410,11 @@ def base_record(entry, parts, preamble, schedules):
         "sourcePdf": entry["file"],
         "verification": {
             "status": "unverified",
-            "note": ("Text machine-extracted from the %s consolidated edition%s. Check against the Gazette before quoting."
+            "note": ("Section headings read by OCR from a scanned copy with no text layer; read each section in the official PDF and check the heading against it before quoting."
+                     if entry.get("scannedContents") else
+                     ("Text machine-extracted from the %s consolidated edition%s. Check against the Gazette before quoting."
                      if not entry.get("pdfOnly") else "Official %s PDF shown as published%s. Check against the Gazette before quoting.") % (
-                entry["source"]["name"], (" updated to " + entry["amendedUpToLabel"]) if entry.get("amendedUpToLabel") else ""),
+                entry["source"]["name"], (" updated to " + entry["amendedUpToLabel"]) if entry.get("amendedUpToLabel") else "")),
         },
         "preamble": preamble,
         "parts": parts,
@@ -594,6 +596,17 @@ def extract(entry):
     doc = pymupdf.open(pdf)
     if entry.get("pdfOnly"):
         return base_record(entry, [], "", []), {"id": entry["id"], "pages": len(doc), "pdfOnly": True}
+    if entry.get("scannedContents"):
+        # A scanned edition with no text layer: list each provision from a checked contents file
+        # (sources/contents/<file>) with a pointer to its page in the scan. No body text is taken from OCR.
+        contents = json.loads((ROOT / "sources" / "contents" / entry["scannedContents"]).read_text(encoding="utf-8"))
+        unit = entry.get("unit", "Section").lower()
+        parts = [{"heading": p["heading"], "sections": [
+            {"no": s["no"], "title": s["title"], "page": s["page"],
+             "text": ["This %s is shown from the scanned Gazette, which has no text layer; read it in the official PDF (page %d)." % (unit, s["page"])]}
+            for s in p["sections"]]} for p in contents["parts"]]
+        n = sum(len(p["sections"]) for p in parts)
+        return base_record(entry, parts, "", entry.get("schedules", [])), {"id": entry["id"], "pages": len(doc), "provisions": n, "scannedContents": True}
     pages = load_lines(doc, entry.get("spaceGaps", False))
     bs = body_size(pages)
     running = running_lines(pages)
