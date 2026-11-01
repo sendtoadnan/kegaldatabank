@@ -225,6 +225,17 @@
    }
   },
   {
+   "title": "Employees' Provident Fund (Investment in Listed Securities) Rules, 2016",
+   "type": "rules",
+   "number": "S.R.O. 770(I)/2016 (17 August 2016)",
+   "sections": [
+    "218"
+   ],
+   "status": "repealed",
+   "madeUnder": "Companies Ordinance, 1984 (section 506)",
+   "basis": "Made under section 506 of the Companies Ordinance, 1984 read with section 43(b) of the SECP Act, 1997 (recital). Repealed by regulation 6(1) of the Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018, which also repealed S.R.O. 261(I)/2002 and S.R.O. 537(I)/2004."
+  },
+  {
    "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
    "type": "regulations",
    "number": "S.R.O. 1163(I)/2019 (25 September 2019)",
@@ -271,13 +282,16 @@
    "secpPage": "notifications",
    "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024. The draft amendments (S.R.O. 124(I)/2020) say the rules are made under section 508.",
    "confirm": [
-    "an official PDF of the rules amended up to 1 July 2019 (only a Word file was saved)"
+    "an official consolidated PDF of the rules amended up to 1 July 2019 (the amending S.R.O. 715(I)/2019 is now saved; only a Word file of the rules)"
    ],
    "latest": "Last amendment notified by S.R.O. 715(I)/2019 (listed 03/07/2019); draft amendments S.R.O. 124(I)/2020 not notified",
    "seen": {
     "date": "2026-10-04",
     "screenshot": "secp-notifications-psc-rules-2026-10-04.jpg"
-   }
+   },
+   "amendments": [
+    "S.R.O. 715(I)/2019 (1 July 2019), made under section 508 of this Act read with section 43(b) of the SECP Act, 1997, with the approval of the Federal Government (recital): replaces references to the 1984 Ordinance with this Act, including sections 159, 161, 163 and 165"
+   ]
   },
   {
    "title": "Unclaimed Shares, Modaraba Certificates, Dividend, Other Instruments and Undistributed Assets Regulations, 2017",
@@ -393,6 +407,49 @@
     "date": "2026-11-01",
     "how": "search-index"
    }
+  },
+  {
+   "title": "SECP Circular 7 of 2025 — holding of election of directors",
+   "type": "circular",
+   "number": "Circular No. 07 of 2025 (13 March 2025)",
+   "sections": [
+    "158",
+    "161"
+   ],
+   "status": "in-force",
+   "basis": "Issued under section 510 read with section 458A (circular). Allows companies to hold the election of directors at the AGM where it falls due within fifteen days after the AGM; directors take office when the previous board's term ends. Supersedes Circular No. 03/2006.",
+   "confirm": [
+    "SECP listing (no screenshot yet)"
+   ]
+  },
+  {
+   "title": "SECP Circular 21 of 2025 — company's responsibility for ultimate beneficial owner information",
+   "type": "circular",
+   "number": "Circular No. 21 of 2025 (8 August 2025)",
+   "sections": [
+    "123A"
+   ],
+   "status": "in-force",
+   "basis": "Issued under section 510 (circular). Explains the duty under section 123A, read with regulation 48 of the Companies Regulations, 2024, to hold, verify and keep up to date information on ultimate beneficial owners and provide it to authorities and financial institutions.",
+   "confirm": [
+    "SECP listing (no screenshot yet)"
+   ]
+  },
+  {
+   "title": "Companies (Asset Backed Securitization) Rules, 1999",
+   "type": "rules",
+   "number": "S.R.O. 1338(I)/99 (14 December 1999)",
+   "sections": [
+    "508"
+   ],
+   "status": "in-force",
+   "secpPage": "rules",
+   "latest": "Amended up to 14 April 2022 (SECP's updated copy)",
+   "basis": "The recital, as amended, cites section 508 of this Act read with section 43(b) of the SECP Act, 1997 and section 175 of the Securities Act, 2015 (originally section 506 of the 1984 Ordinance). They apply to offers of debt securities or Shariah-compliant securities by special purpose vehicles in a securitization.",
+   "confirm": [
+    "the amending S.R.O.s and their dates (the updated copy's footnotes)",
+    "SECP listing (no screenshot yet)"
+   ]
   },
   {
    "title": "Debt Securities Trustees Regulations, 2017",
