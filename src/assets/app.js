@@ -356,6 +356,30 @@
     return (start > 0 ? '… ' : '') + s + (start + 260 < text.length ? ' …' : '');
   }
 
+  // Laws and rules whose title, short names or topics (search guide) contain every word searched for.
+  function findInstruments(index, q, cat, type) {
+    var parsed = parseQuery(q);
+    if (!parsed.terms.length) return [];
+    var whole = q.trim().toLowerCase();
+    // Each word must start a word in the name, so "ITO" does not match "monitoring".
+    var starts = parsed.terms.map(function (t) { return new RegExp('(^|[^a-z0-9])' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')); });
+    var matches = function (text) { return starts.every(function (re) { return re.test(text); }); };
+    var out = [];
+    index.acts.forEach(function (a) {
+      if (cat && a.categories.indexOf(cat) === -1) return;
+      if (type && a.type !== type) return;
+      var names = [a.title].concat(a.aliases, a.terms || []);
+      var hay = names.join(' | ').toLowerCase();
+      if (!matches(hay)) return;
+      var exact = names.some(function (n) { return n.toLowerCase() === whole; });
+      var hit = (a.terms || []).concat(a.aliases).filter(function (n) {
+        return matches(n.toLowerCase());
+      })[0];
+      out.push({ act: a, score: (exact ? 10 : 0) + (a.title.toLowerCase().indexOf(whole) !== -1 ? 5 : 0), hit: hit });
+    });
+    return out.sort(function (x, y) { return y.score - x.score; });
+  }
+
   function resultHtml(r, terms, hl) {
     var url = BASE + 'acts/' + r.a.id + '/index.html' + (r.p.anchor ? (hl ? '?hl=' + encodeURIComponent(hl) : '') + '#' + r.p.anchor : '');
     var heading = r.p.no ? r.a.unit + ' ' + r.p.no + (r.p.title ? ' — ' + r.p.title : '') : r.p.title;
@@ -459,6 +483,14 @@
             esc(j.act.unit + ' ' + j.prov.no + ' — ' + j.prov.title) + ', ' + esc(j.act.title) + '</a></div>';
         }
         var terms = parseQuery(q).terms;
+        var found = findInstruments(index, q, fCat.value, fType.value);
+        if (found.length) {
+          html += '<h2 class="result-head">Laws and rules <span class="count">' + found.length + '</span></h2><ul class="instrument-hits">' +
+            found.slice(0, 8).map(function (r) {
+              return '<li><a href="' + BASE + 'acts/' + r.act.id + '/index.html">' + esc(r.act.title) + '</a>' +
+                (r.hit ? ' <span class="muted small">found by “' + esc(r.hit) + '”</span>' : '') + '</li>';
+            }).join('') + '</ul>';
+        }
         if (inText.checked) {
           var hits = runSearch(index, q, fCat.value, fType.value);
           html += '<h2 class="result-head">Provisions <span class="count">' + hits.length + '</span></h2>';

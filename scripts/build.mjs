@@ -33,6 +33,11 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
   const byId = new Map(acts.map((a) => [a.id, a]));
   const children = (id) => acts.filter((a) => a.parent === id);
   const registerFor = (id) => extras.registers.find((r) => r.act === id);
+  // Short names (manifest aliases) and everyday search words (data/search-terms.json), without repeats.
+  const searchTermsFor = (a) => {
+    const seen = new Set();
+    return [...(a.aliases || []), ...(extras.searchTerms[a.id] || [])].filter((t) => !seen.has(t.toLowerCase()) && seen.add(t.toLowerCase()));
+  };
   const dateLabel = (d) => new Date(`${d}T00:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
   const evidenceLink = (base, file, text = 'Screenshot') => `<a href="${base}evidence/${e(file)}" target="_blank" rel="noopener">${text}</a>`;
   const written = [];
@@ -85,7 +90,7 @@ ${body}
 </main>
 <footer class="footer">
   <p><strong>Disclaimer.</strong> Reference text is provided for convenience. Always confirm against the official Gazette or the issuing authority before relying on it in advice, pleadings or filings. Each instrument shows its verification status.</p>
-  <p>${e(site.name)} · ${e(site.jurisdiction)}</p>
+  <p>${e(site.name)} · ${e(site.jurisdiction)} · <a href="${base}search-guide.html">Search guide</a></p>
 </footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="${base}assets/app.js" defer></script>
@@ -167,6 +172,7 @@ ${body}
       <input id="q" name="q" type="search" placeholder="Search, or jump: s 3 STA" autocomplete="off">
       <button type="submit">Search</button>
     </form>
+    <p class="hint">Try <a href="search.html?q=withholding%20tax">withholding tax</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=related%20party">related party</a> or <a href="search.html?q=KYC">KYC</a> · <a href="search-guide.html">Search guide</a></p>
     <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
   </section>
   <div id="shelf-preview"></div>
@@ -262,6 +268,7 @@ ${body}
       act.enacted ? ['Enacted / notified', e(act.enacted)] : null,
       ['Amended up to', act.amendedUpToLabel ? e(act.amendedUpToLabel) : 'Not stated'],
       parent ? ['Made under', `<a href="../${parent.id}/index.html">${e(parent.title)}</a>`] : null,
+      searchTermsFor(act).length ? ['Also found by', `${searchTermsFor(act).map(e).join(' · ')} <a class="small" href="../../search-guide.html">Search guide</a>`] : null,
       ['Source', `<a href="${e(act.source.url)}" rel="noopener" target="_blank">${e(act.source.name)}</a>`],
       pdf ? ['Official PDF', `<a href="${pdf}" target="_blank" rel="noopener">Open the source PDF</a>`] : null,
       hand
@@ -425,7 +432,7 @@ ${body}
       <label><input type="checkbox" id="in-text" checked> Provision text and headings</label>
       <label><input type="checkbox" id="in-notes"> Amendment notes (footnotes)</label>
     </fieldset>
-    <p class="muted small">Tips: use quotes for an exact phrase (<code>"proceeds of crime"</code>). All words must match.</p>
+    <p class="muted small">Tips: use quotes for an exact phrase (<code>"proceeds of crime"</code>). All words must match. Laws and rules can be found by short names and topics too: see the <a href="search-guide.html">Search guide</a>.</p>
     <div id="results" aria-live="polite"></div>
   </section>`,
     })
@@ -526,6 +533,32 @@ ${body}
     );
   }
 
+  // ---------- search guide: every instrument with the names and topics it can be found by ----------
+  write(
+    'search-guide.html',
+    layout({
+      title: `Search guide — ${site.name}`,
+      description: 'Short names, abbreviations and topics that find each law, rule and regulation in the library.',
+      base: '',
+      page: 'search-guide',
+      body: `
+  <section class="prose search-guide">
+    <h1>Search guide</h1>
+    <p>Type any of these in the search box. A short name or topic lists the matching law or rule above the provision results; a short name also works for jumping to a provision, for example <a href="search.html?q=s%20149%20ITO"><code>s 149 ITO</code></a> or <a href="search.html?q=s%20204%20CA%202017"><code>s 204 CA 2017</code></a>.</p>
+    <p class="muted small">Topics point to a whole law or rule, not to a particular provision. Use the provision search for the words of the law itself.</p>
+    ${catalog.categories
+      .map((c) => {
+        const list = acts.filter((a) => a.categories.includes(c.id));
+        if (!list.length) return '';
+        return `<h2 id="cat-${c.id}">${e(c.name)}</h2><dl class="term-list">${list
+          .map((a) => `<div><dt><a href="acts/${a.id}/index.html">${e(a.title)}</a>${a.number ? ` <span class="muted small">${e(a.number)}</span>` : ''}</dt><dd>${searchTermsFor(a).map((t) => `<a class="chip" href="search.html?q=${encodeURIComponent(t)}">${e(t)}</a>`).join(' ') || '<span class="muted">—</span>'}</dd></div>`)
+          .join('')}</dl>`;
+      })
+      .join('')}
+  </section>`,
+    })
+  );
+
   // ---------- about ----------
   write(
     'about.html',
@@ -566,6 +599,7 @@ ${body}
       unit: a.unit,
       categories: a.categories,
       aliases: a.aliases || [],
+      terms: extras.searchTerms[a.id] || [],
       verified: a.verification.status === 'verified',
       placeholder: !!a.placeholder,
     })),

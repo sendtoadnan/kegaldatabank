@@ -14,12 +14,18 @@ export function loadExtras(dataDir = DATA_DIR) {
   const registers = fs.existsSync(relatedDir)
     ? fs.readdirSync(relatedDir).filter((f) => f.endsWith('.json')).sort().map((f) => ({ ...JSON.parse(fs.readFileSync(path.join(relatedDir, f), 'utf8')), _file: f }))
     : [];
-  return { checks, registers };
+  const termsPath = path.join(dataDir, 'search-terms.json');
+  const searchTerms = fs.existsSync(termsPath) ? JSON.parse(fs.readFileSync(termsPath, 'utf8')).terms : {};
+  return { checks, registers, searchTerms };
 }
 
-export function validateExtras({ acts }, { checks, registers }, evidenceDir = EVIDENCE_DIR) {
+export function validateExtras({ acts }, { checks, registers, searchTerms }, evidenceDir = EVIDENCE_DIR) {
   const errors = [];
   const byId = new Map(acts.map((a) => [a.id, a]));
+  for (const [id, list] of Object.entries(searchTerms || {})) {
+    if (!byId.has(id)) errors.push(`search-terms.json: unknown instrument "${id}"`);
+    if (!Array.isArray(list) || list.some((t) => typeof t !== 'string' || !t.trim())) errors.push(`search-terms.json: "${id}" must be a list of words or phrases`);
+  }
   for (const c of checks) {
     const where = `manual-checks.json (${c.page} on ${c.date})`;
     if (!/^\d{4}-\d\d-\d\d$/.test(c.date || '')) errors.push(`${where}: date must be YYYY-MM-DD`);
