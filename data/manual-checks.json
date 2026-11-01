@@ -130,6 +130,15 @@
    "covers": {
     "insurance-ordinance-2000": { "listed": "Insurance Ordinance, 2000", "listedOn": "07/04/2000", "status": "current", "note": "SECP lists one undated edition; the library uses its consolidated text to November 2011." }
    }
+  },
+  {
+   "date": "2026-11-01",
+   "page": "https://www.secp.gov.pk/document/notification-u-s-172-of-the-companies-act-2017/",
+   "listing": "SECP › S.R.O. 464 (I)/2024 – Notification u/s 17(2) of the Companies Act, 2017",
+   "screenshot": "secp-sro-464-2024-2026-11-01.jpg",
+   "covers": {
+    "sro-464-2024-section-17": { "listed": "S.R.O. 464 (I)/2024 - Notification u/s 17(2) of the Companies Act, 2017", "listedOn": "21/03/2024", "status": "current", "note": "SECP's page shows one file (Notification-Subscription-Money.pdf), created 21/03/2024 and last updated 01/04/2024; the library uses that file." }
+   }
   }
  ]
 }

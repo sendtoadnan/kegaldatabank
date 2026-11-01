@@ -214,7 +214,7 @@
    "secpPage": "regulations",
    "basis": "Section 218 lets employees’ funds invest “subject to the conditions as may be specified”.",
    "confirm": [
-    "download the “updated – July 2019” edition; the copy saved is the 2018 text as made"
+    "the “updated – July 2019” text: SECP's page for it (created 17/08/2019) shows a 0.00 KB file and the download is the 2018 text as made (screenshot of 1 November 2026, secp-regulations-ecf-updated-2026-11-01.jpg); obtain the 2019 amending S.R.O.s or ask SECP"
    ],
    "url": "https://www.secp.gov.pk/wp-content/uploads/2018/06/Press-Release-June-12-EMPLOYEE%E2%80%99S-CONTRIBUTORY-FUNDS-INVESTMENT-IN-LISTED-SECURITIES-REGULATIONS-2018.pdf",
    "number": "Gazette of 6 June 2018 (S.R.O. number left blank in the copy saved; drafts were S.R.O. 34(I)/2018 and 435(I)/2018)",
@@ -357,11 +357,14 @@
    "secpPage": "notifications",
    "basis": "Made under section 17(2) read with section 510 (recital).",
    "confirm": [
-    "that it is in force and not amended or replaced",
-    "SECP listing (no screenshot yet)"
+    "that it is not amended or replaced (SECP's page shows last update 01/04/2024)"
    ],
    "url": "https://www.secp.gov.pk/document/notification-u-s-172-of-the-companies-act-2017/",
-   "library": "sro-464-2024-section-17"
+   "library": "sro-464-2024-section-17",
+   "seen": {
+    "date": "2026-11-01",
+    "screenshot": "secp-sro-464-2024-2026-11-01.jpg"
+   }
   },
   {
    "title": "SECP Circular 15 of 2017 — exemption from the requirement of a National Tax Number",
@@ -386,7 +389,7 @@
   {
    "title": "S.R.O. 1715 of 2023 — IFRS 17 (Insurance Contracts)",
    "type": "notification",
-   "number": "S.R.O. 1715 of 2023",
+   "number": "S.R.O. 1715(I)/2023 (21 November 2023)",
    "sections": [
     "225",
     "228"
@@ -396,17 +399,12 @@
    "amendments": [
     "S.R.O. 1336(I)/2025 (extension in implementation date of IFRS 17, per SECP's listing title)"
    ],
-   "basis": "Section 228(1) requires consolidated financial statements to comply with the financial reporting standards notified by the Commission, which are notified under section 225. This is one such notification; others (for example IFRS 9) are not yet recorded.",
+   "basis": "Made under section 510 read with section 225(1) (recital): IFRS 17 is to be followed by companies engaged in insurance/takaful and re-insurance/re-takaful business for periods from 1 January 2026, with power to exempt. Section 228(1) requires consolidated financial statements to comply with standards so notified. Other notified standards (for example IFRS 9) are not yet recorded.",
    "confirm": [
-    "the enabling section, from the recital",
-    "date and the classes of companies it applies to",
-    "the full text of S.R.O. 1336(I)/2025 and the date it sets"
+    "the full text of S.R.O. 1336(I)/2025 and the date it now sets",
+    "SECP listing (no screenshot yet)"
    ],
-   "url": "https://www.secp.gov.pk/document/sro-1715-of-2023-ifrs-17/",
-   "found": {
-    "date": "2026-11-01",
-    "how": "search-index"
-   }
+   "url": "https://www.secp.gov.pk/document/sro-1715-of-2023-ifrs-17/"
   },
   {
    "title": "SECP Circular 7 of 2025 — holding of election of directors",
