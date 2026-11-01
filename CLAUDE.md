@@ -9,6 +9,7 @@ Deployed by Netlify from `main`; every change goes through a branch and a pull r
 - `scripts/extract_pdf.py` — PDF → `data/acts/<id>.json` (PyMuPDF). Options are documented in `docs/CONTENT_GUIDE.md`.
 - `scripts/build.mjs` — builds `dist/` (pages, search indexes, Sources page, service worker). `scripts/lib.mjs` validates.
 - `scripts/related.mjs` + `data/related/companies-act-2017.json` — register of rules/regulations/notifications under the Companies Act 2017, by section; shown under each section and on `acts/companies-act-2017/related.html`.
+- `data/forms/<id>.json` — forms of older rules matched by subject to an Act's sections (e.g. the 115 forms of the Companies (Court) Rules 1997, framed under the repealed 1984 Ordinance), shown on `acts/<act>/forms-<id>.html` and linked from the register entry with `formsMap`.
 - `data/search-terms.json` — everyday words and topics per instrument (whole instruments only, never sections); with the manifest's `aliases` they appear on each instrument page ("Also found by"), on `search-guide.html`, and as "Laws and rules" above search results.
 - `data/manual-checks.json` + `sources/evidence/` — hand checks of SECP listings with screenshots (shown on the Sources page).
 - `scripts/check_updates.mjs` — compares editions with regulator websites (weekly GitHub workflow). `--saved <folder>` reads listing pages saved from a browser.

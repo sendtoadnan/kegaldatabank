@@ -1,0 +1,1468 @@
+{
+ "_about": "Forms in Appendix I of the Companies (Court) Rules, 1997 (S.R.O. 187(I)/97), which were made under section 438 of the Companies Ordinance, 1984. For each form: the rule that prescribes it and its title (from the official PDF), the 1984 Ordinance sections the rules or the form cite, and the sections of the Companies Act, 2017 that deal with the same subject. The 2017 sections are matched by subject against the text of this Act; they are not stated in the rules and are to be confirmed. Nothing here says that the rules or forms are in force under the 2017 Act.",
+ "instrument": "Companies (Court) Rules, 1997",
+ "act": "companies-act-2017",
+ "matched": "2026-11-01",
+ "forms": [
+  {
+   "form": 1,
+   "rule": "16",
+   "title": "Affidavit verifying petition",
+   "subject": "Petitions: verification, notice, service and appearance",
+   "ordinance1984": [],
+   "act2017": [
+    "5",
+    "6"
+   ],
+   "note": "General procedure for petitions to the Company Bench; no single corresponding section."
+  },
+  {
+   "form": 2,
+   "rule": "20",
+   "title": "Notice of petition",
+   "subject": "Petitions: verification, notice, service and appearance",
+   "ordinance1984": [],
+   "act2017": [
+    "5",
+    "6"
+   ],
+   "note": "General procedure for petitions to the Company Bench; no single corresponding section."
+  },
+  {
+   "form": 3,
+   "rule": "22",
+   "title": "Notice of petition (served)",
+   "subject": "Petitions: verification, notice, service and appearance",
+   "ordinance1984": [],
+   "act2017": [
+    "5",
+    "6"
+   ],
+   "note": "General procedure for petitions to the Company Bench; no single corresponding section."
+  },
+  {
+   "form": 4,
+   "rule": "25",
+   "title": "Affidavit of service of petition on company",
+   "subject": "Petitions: verification, notice, service and appearance",
+   "ordinance1984": [],
+   "act2017": [
+    "5",
+    "6"
+   ],
+   "note": "General procedure for petitions to the Company Bench; no single corresponding section."
+  },
+  {
+   "form": 5,
+   "rule": "25",
+   "title": "Affidavit of service of petition or application on liquidator",
+   "subject": "Petitions: verification, notice, service and appearance",
+   "ordinance1984": [],
+   "act2017": [
+    "5",
+    "6"
+   ],
+   "note": "General procedure for petitions to the Company Bench; no single corresponding section."
+  },
+  {
+   "form": 6,
+   "rule": "29",
+   "title": "Notice of intention to appear",
+   "subject": "Petitions: verification, notice, service and appearance",
+   "ordinance1984": [],
+   "act2017": [
+    "5",
+    "6"
+   ],
+   "note": "General procedure for petitions to the Company Bench; no single corresponding section."
+  },
+  {
+   "form": 7,
+   "rule": "30",
+   "title": "List of persons intending to appear",
+   "subject": "Petitions: verification, notice, service and appearance",
+   "ordinance1984": [],
+   "act2017": [
+    "5",
+    "6"
+   ],
+   "note": "General procedure for petitions to the Company Bench; no single corresponding section."
+  },
+  {
+   "form": 8,
+   "rule": "37",
+   "title": "Petition under section 97 for confirming reduction of share capital",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 9,
+   "rule": "39",
+   "title": "Application for directions (reduction of capital)",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 10,
+   "rule": "40",
+   "title": "List of creditors",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 11,
+   "rule": "41",
+   "title": "Affidavit verifying list of creditors",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 12,
+   "rule": "43",
+   "title": "Notice to creditors",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 13,
+   "rule": "44",
+   "title": "Advertisement of petition and list of creditors",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 14,
+   "rule": "45",
+   "title": "Affidavit as to the result of notices issued",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 15,
+   "rule": "45",
+   "title": "Affidavit of person who sent notices",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 16,
+   "rule": "46",
+   "title": "Notice to creditor to establish his title or prove his claim",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 17,
+   "rule": "49",
+   "title": "Advertisement of hearing of petition",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 18,
+   "rule": "52",
+   "title": "Order confirming reduction of capital and approving minute",
+   "subject": "Reduction of share capital",
+   "ordinance1984": [
+    "97"
+   ],
+   "act2017": [
+    "89",
+    "90",
+    "91",
+    "92"
+   ]
+  },
+  {
+   "form": 19,
+   "rule": "60",
+   "title": "Petition for confirming compromise or arrangement",
+   "subject": "Compromise or arrangement",
+   "ordinance1984": [
+    "284",
+    "287"
+   ],
+   "act2017": [
+    "279",
+    "280"
+   ],
+   "note": "Under this Act the Commission, not the Court, orders the meetings and sanctions the compromise (sections 279 and 280), so these Court forms have no direct use."
+  },
+  {
+   "form": 20,
+   "rule": "62",
+   "title": "Order on petition (compromise or arrangement)",
+   "subject": "Compromise or arrangement",
+   "ordinance1984": [
+    "284",
+    "287"
+   ],
+   "act2017": [
+    "279",
+    "280"
+   ],
+   "note": "Under this Act the Commission, not the Court, orders the meetings and sanctions the compromise (sections 279 and 280), so these Court forms have no direct use."
+  },
+  {
+   "form": 21,
+   "rule": "65",
+   "title": "Application for order under section 287",
+   "subject": "Compromise or arrangement",
+   "ordinance1984": [
+    "284",
+    "287"
+   ],
+   "act2017": [
+    "279",
+    "280"
+   ],
+   "note": "Under this Act the Commission, not the Court, orders the meetings and sanctions the compromise (sections 279 and 280), so these Court forms have no direct use."
+  },
+  {
+   "form": 22,
+   "rule": "69",
+   "title": "Petition by minority shareholders under section 290",
+   "subject": "Oppression and mismanagement",
+   "ordinance1984": [
+    "290"
+   ],
+   "act2017": [
+    "286",
+    "287"
+   ]
+  },
+  {
+   "form": 23,
+   "rule": "69",
+   "title": "Petition under section 290 for relief against mismanagement",
+   "subject": "Oppression and mismanagement",
+   "ordinance1984": [
+    "290"
+   ],
+   "act2017": [
+    "286",
+    "287"
+   ]
+  },
+  {
+   "form": 24,
+   "rule": "75",
+   "title": "Petition for winding up (general form)",
+   "subject": "Winding-up petition and its advertisement",
+   "ordinance1984": [],
+   "act2017": [
+    "301",
+    "304"
+   ]
+  },
+  {
+   "form": 25,
+   "rule": "75",
+   "title": "Petition for winding up by creditor",
+   "subject": "Winding-up petition and its advertisement",
+   "ordinance1984": [],
+   "act2017": [
+    "301",
+    "304"
+   ]
+  },
+  {
+   "form": 26,
+   "rule": "75",
+   "title": "Petition for winding up by company",
+   "subject": "Winding-up petition and its advertisement",
+   "ordinance1984": [],
+   "act2017": [
+    "301",
+    "304"
+   ]
+  },
+  {
+   "form": 27,
+   "rule": "78",
+   "title": "Advertisement of winding-up petition",
+   "subject": "Winding-up petition and its advertisement",
+   "ordinance1984": [],
+   "act2017": [
+    "301",
+    "304"
+   ]
+  },
+  {
+   "form": 28,
+   "rule": "85",
+   "title": "Order appointing Provisional Manager",
+   "subject": "Order appointing a provisional manager",
+   "ordinance1984": [],
+   "act2017": [
+    "308",
+    "315"
+   ]
+  },
+  {
+   "form": 29,
+   "rule": "88",
+   "title": "Order for winding up by Court where no Official Liquidator is appointed",
+   "subject": "Winding-up order, appointment of official liquidator and advertisement",
+   "ordinance1984": [],
+   "act2017": [
+    "308",
+    "309",
+    "315"
+   ]
+  },
+  {
+   "form": 30,
+   "rule": "88",
+   "title": "Order for winding up where an official liquidator is appointed at the same time",
+   "subject": "Winding-up order, appointment of official liquidator and advertisement",
+   "ordinance1984": [],
+   "act2017": [
+    "308",
+    "309",
+    "315"
+   ]
+  },
+  {
+   "form": 31,
+   "rule": "92",
+   "title": "Advertisement of order to wind up",
+   "subject": "Winding-up order, appointment of official liquidator and advertisement",
+   "ordinance1984": [],
+   "act2017": [
+    "308",
+    "309",
+    "315"
+   ]
+  },
+  {
+   "form": 32,
+   "rule": "98",
+   "title": "Recognizance of the Provisional Manager/official liquidator and sureties",
+   "subject": "Security by provisional manager or official liquidator",
+   "ordinance1984": [],
+   "act2017": [
+    "315"
+   ],
+   "note": "No section of this Act on a liquidator's security was found."
+  },
+  {
+   "form": 33,
+   "rule": "103",
+   "title": "Notice to submit statement of affairs and attend provisional manager or official liquidator",
+   "subject": "Statement of affairs",
+   "ordinance1984": [
+    "328"
+   ],
+   "act2017": [
+    "320"
+   ]
+  },
+  {
+   "form": 34,
+   "rule": "104",
+   "title": "Application by official liquidator under section 328",
+   "subject": "Statement of affairs",
+   "ordinance1984": [
+    "328"
+   ],
+   "act2017": [
+    "320"
+   ]
+  },
+  {
+   "form": 35,
+   "rule": "106",
+   "title": "Statement of affairs under section 328",
+   "subject": "Statement of affairs",
+   "ordinance1984": [
+    "328"
+   ],
+   "act2017": [
+    "320"
+   ]
+  },
+  {
+   "form": 36,
+   "rule": "106",
+   "title": "Affidavit of concurrence in statement of affairs",
+   "subject": "Statement of affairs",
+   "ordinance1984": [
+    "328"
+   ],
+   "act2017": [
+    "320"
+   ]
+  },
+  {
+   "form": 37,
+   "rule": "113",
+   "title": "Preliminary report of the official liquidator under section 329",
+   "subject": "Preliminary report of the official liquidator",
+   "ordinance1984": [
+    "329"
+   ],
+   "act2017": [
+    "321"
+   ]
+  },
+  {
+   "form": 38,
+   "rule": "119",
+   "title": "Report of result of meetings of creditors and contributories under section 331",
+   "subject": "Result of meetings of creditors and contributories",
+   "ordinance1984": [
+    "331",
+    "332"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ]
+  },
+  {
+   "form": 39,
+   "rule": "119",
+   "title": "Notice to creditors and contributories",
+   "subject": "Result of meetings of creditors and contributories",
+   "ordinance1984": [
+    "331",
+    "332"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ]
+  },
+  {
+   "form": 40,
+   "rule": "126",
+   "title": "Advertisement of notice to creditors to prove their claims",
+   "subject": "Proof of debts",
+   "ordinance1984": [],
+   "act2017": [
+    "334",
+    "388"
+   ]
+  },
+  {
+   "form": 41,
+   "rule": "126",
+   "title": "Notice to creditor to prove his debt",
+   "subject": "Proof of debts",
+   "ordinance1984": [],
+   "act2017": [
+    "334",
+    "388"
+   ]
+  },
+  {
+   "form": 42,
+   "rule": "129",
+   "title": "Affidavit of proof of debt",
+   "subject": "Proof of debts",
+   "ordinance1984": [],
+   "act2017": [
+    "334",
+    "388"
+   ]
+  },
+  {
+   "form": 43,
+   "rule": "130",
+   "title": "Proof of debt of workmen",
+   "subject": "Proof of debts",
+   "ordinance1984": [],
+   "act2017": [
+    "334",
+    "388"
+   ]
+  },
+  {
+   "form": 44,
+   "rule": "141",
+   "title": "Notice of rejection of proof of debt",
+   "subject": "Proof of debts",
+   "ordinance1984": [],
+   "act2017": [
+    "334",
+    "388"
+   ]
+  },
+  {
+   "form": 45,
+   "rule": "141",
+   "title": "Notice of admission of proof",
+   "subject": "Proof of debts",
+   "ordinance1984": [],
+   "act2017": [
+    "334",
+    "388"
+   ]
+  },
+  {
+   "form": 46,
+   "rule": "145",
+   "title": "Certified list of proofs tendered to, and admitted or rejected by, the Official Liquidator",
+   "subject": "Proof of debts",
+   "ordinance1984": [],
+   "act2017": [
+    "334",
+    "388"
+   ]
+  },
+  {
+   "form": 47,
+   "rule": "152",
+   "title": "Provisional list of contributories",
+   "subject": "List of contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "323"
+   ]
+  },
+  {
+   "form": 48,
+   "rule": "153",
+   "title": "Notice to contributory of date fixed to settle list of contributories",
+   "subject": "List of contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "323"
+   ]
+  },
+  {
+   "form": 49,
+   "rule": "155",
+   "title": "Certificate of final settlement of the list of contributories",
+   "subject": "List of contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "323"
+   ]
+  },
+  {
+   "form": 50,
+   "rule": "156",
+   "title": "Notice to contributory of final settlement of list of contributories",
+   "subject": "List of contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "323"
+   ]
+  },
+  {
+   "form": 51,
+   "rule": "160",
+   "title": "Application by contributory to vary the list",
+   "subject": "List of contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "323"
+   ]
+  },
+  {
+   "form": 52,
+   "rule": "160",
+   "title": "Application by contributory to vary the list (order)",
+   "subject": "List of contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "323"
+   ]
+  },
+  {
+   "form": 53,
+   "rule": "166",
+   "title": "Notice of meetings of creditors and contributories under section 331",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 54,
+   "rule": "166",
+   "title": "Notice of creditors' meeting under section 331",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 55,
+   "rule": "166",
+   "title": "Notice of contributories' meeting under section 331",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 56,
+   "rule": "166",
+   "title": "Notice of meeting (general form)",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 57,
+   "rule": "166",
+   "title": "Notice of meeting (general form, advertisement)",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 58,
+   "rule": "168",
+   "title": "Notice to officers of company to attend meeting of creditors or contributories",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 59,
+   "rule": "171",
+   "title": "Nomination of chairman by Official Liquidator",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 60,
+   "rule": "185",
+   "title": "List of creditors or contributories present at a meeting",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 61,
+   "rule": "186",
+   "title": "Report of result of meeting of creditors or contributories held under order of Court",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 62,
+   "rule": "188",
+   "title": "Form of proxy",
+   "subject": "Meetings of creditors or contributories: notices, chairman, attendance, report, proxies",
+   "ordinance1984": [
+    "331",
+    "373",
+    "379",
+    "382"
+   ],
+   "act2017": [
+    "314",
+    "407"
+   ],
+   "note": "The general notice forms were also used for meetings in a voluntary winding up (1984 sections 373, 379 and 382)."
+  },
+  {
+   "form": 63,
+   "rule": "199",
+   "title": "Notice by official liquidator requiring payment of money or delivery of property and books",
+   "subject": "Delivery of money or property to the official liquidator",
+   "ordinance1984": [
+    "340"
+   ],
+   "act2017": [
+    "325"
+   ]
+  },
+  {
+   "form": 64,
+   "rule": "202",
+   "title": "Application for leave to make a call",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 65,
+   "rule": "202",
+   "title": "Affidavit of official liquidator in support of application to make a call",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 66,
+   "rule": "203",
+   "title": "Advertisement of application to make a call",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 67,
+   "rule": "204",
+   "title": "Order making a call",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 68,
+   "rule": "204",
+   "title": "Document making the call",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 69,
+   "rule": "205",
+   "title": "Notice of call to contributories",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 70,
+   "rule": "206",
+   "title": "Summons to enforce call",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 71,
+   "rule": "206",
+   "title": "Affidavit in support of application for payment of call",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 72,
+   "rule": "206",
+   "title": "Order for payment of call",
+   "subject": "Calls on contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "329",
+    "330"
+   ]
+  },
+  {
+   "form": 73,
+   "rule": "208",
+   "title": "Summons for leave to examine persons under section 351",
+   "subject": "Summons for examination of persons having company property",
+   "ordinance1984": [
+    "351"
+   ],
+   "act2017": [
+    "326"
+   ]
+  },
+  {
+   "form": 74,
+   "rule": "209",
+   "title": "Directions at hearing of summons for examination",
+   "subject": "Summons for examination of persons having company property",
+   "ordinance1984": [
+    "351"
+   ],
+   "act2017": [
+    "326"
+   ]
+  },
+  {
+   "form": 75,
+   "rule": "214",
+   "title": "Order directing public examination",
+   "subject": "Public examination of promoters, directors and officers",
+   "ordinance1984": [
+    "352"
+   ],
+   "act2017": [
+    "327"
+   ]
+  },
+  {
+   "form": 76,
+   "rule": "215",
+   "title": "Notice of public examination",
+   "subject": "Public examination of promoters, directors and officers",
+   "ordinance1984": [
+    "352"
+   ],
+   "act2017": [
+    "327"
+   ]
+  },
+  {
+   "form": 77,
+   "rule": "215",
+   "title": "Notice to attend public examination",
+   "subject": "Public examination of promoters, directors and officers",
+   "ordinance1984": [
+    "352"
+   ],
+   "act2017": [
+    "327"
+   ]
+  },
+  {
+   "form": 78,
+   "rule": "217",
+   "title": "Report to the Court where person examined refuses to answer",
+   "subject": "Public examination of promoters, directors and officers",
+   "ordinance1984": [
+    "352"
+   ],
+   "act2017": [
+    "327"
+   ]
+  },
+  {
+   "form": 79,
+   "rule": "220",
+   "title": "Warrant against person who fails to attend examination",
+   "subject": "Warrant, committal and bail of persons failing to attend examination",
+   "ordinance1984": [
+    "351",
+    "352"
+   ],
+   "act2017": [
+    "326",
+    "327"
+   ]
+  },
+  {
+   "form": 80,
+   "rule": "221",
+   "title": "Warrant of committal",
+   "subject": "Warrant, committal and bail of persons failing to attend examination",
+   "ordinance1984": [
+    "351",
+    "352"
+   ],
+   "act2017": [
+    "326",
+    "327"
+   ]
+  },
+  {
+   "form": 81,
+   "rule": "221",
+   "title": "Order to liberate prisoner on his finding bail",
+   "subject": "Warrant, committal and bail of persons failing to attend examination",
+   "ordinance1984": [
+    "351",
+    "352"
+   ],
+   "act2017": [
+    "326",
+    "327"
+   ]
+  },
+  {
+   "form": 82,
+   "rule": "224",
+   "title": "Application under section 412 or 413",
+   "subject": "Applications against delinquent directors and for fraudulent conduct of business",
+   "ordinance1984": [
+    "412",
+    "413"
+   ],
+   "act2017": [
+    "397",
+    "398"
+   ]
+  },
+  {
+   "form": 83,
+   "rule": "224",
+   "title": "Application under section 412 or 413 (against several respondents)",
+   "subject": "Applications against delinquent directors and for fraudulent conduct of business",
+   "ordinance1984": [
+    "412",
+    "413"
+   ],
+   "act2017": [
+    "397",
+    "398"
+   ]
+  },
+  {
+   "form": 84,
+   "rule": "225",
+   "title": "Points of claim under section 412(1)",
+   "subject": "Applications against delinquent directors and for fraudulent conduct of business",
+   "ordinance1984": [
+    "412",
+    "413"
+   ],
+   "act2017": [
+    "397",
+    "398"
+   ]
+  },
+  {
+   "form": 85,
+   "rule": "225",
+   "title": "Points of claim under section 412(1) (several respondents)",
+   "subject": "Applications against delinquent directors and for fraudulent conduct of business",
+   "ordinance1984": [
+    "412",
+    "413"
+   ],
+   "act2017": [
+    "397",
+    "398"
+   ]
+  },
+  {
+   "form": 86,
+   "rule": "227",
+   "title": "Notice to liquidator (disclaimer)",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 87,
+   "rule": "227",
+   "title": "Notice by liquidator of intention to apply for leave to disclaim",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 88,
+   "rule": "227",
+   "title": "Summons for extension of time to disclaim",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 89,
+   "rule": "227",
+   "title": "Order extending time for disclaimer",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 90,
+   "rule": "227",
+   "title": "Notice of interest in property sought to be disclaimed",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 91,
+   "rule": "227",
+   "title": "Summons for leave to disclaim",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 92,
+   "rule": "227",
+   "title": "Affidavit in support of summons for leave to disclaim",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 93,
+   "rule": "230",
+   "title": "Notice to parties interested in property sought to be disclaimed",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 94,
+   "rule": "231",
+   "title": "Order granting leave to disclaim",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 95,
+   "rule": "232",
+   "title": "Disclaimer of lease",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 96,
+   "rule": "232",
+   "title": "Notice of filing of disclaimer",
+   "subject": "Disclaimer of onerous property",
+   "ordinance1984": [
+    "407"
+   ],
+   "act2017": [
+    "392"
+   ]
+  },
+  {
+   "form": 97,
+   "rule": "240",
+   "title": "Notice of dividend",
+   "subject": "Declaration of dividend",
+   "ordinance1984": [],
+   "act2017": [
+    "337",
+    "341"
+   ]
+  },
+  {
+   "form": 98,
+   "rule": "240",
+   "title": "Advertisement as to declaration of dividend",
+   "subject": "Declaration of dividend",
+   "ordinance1984": [],
+   "act2017": [
+    "337",
+    "341"
+   ]
+  },
+  {
+   "form": 99,
+   "rule": ".243",
+   "title": "Schedule of contributories to whom capital is to be returned",
+   "subject": "Return of capital to contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "335"
+   ]
+  },
+  {
+   "form": 100,
+   "rule": "243",
+   "title": "Notice of return to contributories",
+   "subject": "Return of capital to contributories",
+   "ordinance1984": [],
+   "act2017": [
+    "335"
+   ]
+  },
+  {
+   "form": 101,
+   "rule": "260",
+   "title": "Statement of receipts and payments of official liquidator, with instructions",
+   "subject": "Official liquidator's accounts",
+   "ordinance1984": [],
+   "act2017": [
+    "339"
+   ],
+   "note": "The rules require quarterly accounts; section 339 provides for half-yearly accounts."
+  },
+  {
+   "form": 102,
+   "rule": "",
+   "title": "Affidavit verifying account",
+   "subject": "Official liquidator's accounts",
+   "ordinance1984": [],
+   "act2017": [
+    "339"
+   ],
+   "note": "The rules require quarterly accounts; section 339 provides for half-yearly accounts."
+  },
+  {
+   "form": 103,
+   "rule": "260",
+   "title": "Official Liquidator's Final Account",
+   "subject": "Official liquidator's accounts",
+   "ordinance1984": [],
+   "act2017": [
+    "339"
+   ],
+   "note": "The rules require quarterly accounts; section 339 provides for half-yearly accounts."
+  },
+  {
+   "form": 104,
+   "rule": "267",
+   "title": "Statement by official liquidator under section 430",
+   "subject": "Liquidator's statements of pending liquidations",
+   "ordinance1984": [
+    "430"
+   ],
+   "act2017": [
+    "415"
+   ],
+   "note": "The rules require quarterly statements; section 415 provides for half-yearly statements."
+  },
+  {
+   "form": 105,
+   "rule": "267",
+   "title": "Statement of account under section 430, with instructions",
+   "subject": "Liquidator's statements of pending liquidations",
+   "ordinance1984": [
+    "430"
+   ],
+   "act2017": [
+    "415"
+   ],
+   "note": "The rules require quarterly statements; section 415 provides for half-yearly statements."
+  },
+  {
+   "form": 106,
+   "rule": "267",
+   "title": "Affidavit verifying statement under section 430",
+   "subject": "Liquidator's statements of pending liquidations",
+   "ordinance1984": [
+    "430"
+   ],
+   "act2017": [
+    "415"
+   ],
+   "note": "The rules require quarterly statements; section 415 provides for half-yearly statements."
+  },
+  {
+   "form": 107,
+   "rule": "269",
+   "title": "Declaration of solvency, with statement of assets and liabilities (members' voluntary winding up)",
+   "subject": "Declaration of solvency (members' voluntary winding up)",
+   "ordinance1984": [
+    "362"
+   ],
+   "act2017": [
+    "351"
+   ]
+  },
+  {
+   "form": 108,
+   "rule": "270",
+   "title": "Statement of assets and liabilities to be laid before meeting of creditors (members' voluntary winding up)",
+   "subject": "Statement of assets and liabilities laid before creditors (members' voluntary winding up)",
+   "ordinance1984": [
+    "368"
+   ],
+   "act2017": [
+    "357"
+   ]
+  },
+  {
+   "form": 109,
+   "rule": "271",
+   "title": "Notice of appointment of liquidator for the Gazette (voluntary winding up)",
+   "subject": "Notice of appointment of liquidator (voluntary winding up)",
+   "ordinance1984": [
+    "389"
+   ],
+   "act2017": [
+    "355",
+    "374"
+   ]
+  },
+  {
+   "form": 110,
+   "rule": "271",
+   "title": "Notice of appointment of liquidator to the registrar (voluntary winding up)",
+   "subject": "Notice of appointment of liquidator (voluntary winding up)",
+   "ordinance1984": [
+    "389"
+   ],
+   "act2017": [
+    "355",
+    "374"
+   ]
+  },
+  {
+   "form": 111,
+   "rule": "279",
+   "title": "Notice convening final meeting (voluntary winding up)",
+   "subject": "Notice of final meeting and account of the winding up (voluntary winding up)",
+   "ordinance1984": [
+    "370"
+   ],
+   "act2017": [
+    "359",
+    "369"
+   ]
+  },
+  {
+   "form": 112,
+   "rule": "279",
+   "title": "Account of the winding up laid before final meeting",
+   "subject": "Notice of final meeting and account of the winding up (voluntary winding up)",
+   "ordinance1984": [
+    "370"
+   ],
+   "act2017": [
+    "359",
+    "369"
+   ]
+  },
+  {
+   "form": 113,
+   "rule": "281",
+   "title": "Return of final winding-up meeting (members' voluntary winding up)",
+   "subject": "Return of final meeting to the registrar",
+   "ordinance1984": [
+    "370",
+    "382"
+   ],
+   "act2017": [
+    "359",
+    "369"
+   ]
+  },
+  {
+   "form": 114,
+   "rule": "281",
+   "title": "Return of final winding-up meeting of members and creditors (creditors' voluntary winding up)",
+   "subject": "Return of final meeting to the registrar",
+   "ordinance1984": [
+    "370",
+    "382"
+   ],
+   "act2017": [
+    "359",
+    "369"
+   ]
+  },
+  {
+   "form": 115,
+   "rule": "285",
+   "title": "Statement accompanying payment of unclaimed dividends or undistributed assets",
+   "subject": "Statement accompanying payment of unclaimed dividends or undistributed assets",
+   "ordinance1984": [
+    "432"
+   ],
+   "act2017": [
+    "417"
+   ]
+  }
+ ]
+}

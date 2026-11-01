@@ -353,7 +353,9 @@ ${body}
           const amends = i.amendments?.length ? `<br><span class="muted small">Amended by ${i.amendments.map(e).join(', ')}</span>` : '';
           const found = i.found?.how === 'search-index' ? `<br><span class="muted small">Found ${dateLabel(i.found.date)} through a search engine's index of SECP's website; confirm against the instrument.</span>` : '';
           const confirm = i.confirm?.length ? `<br><span class="muted small">To confirm: ${i.confirm.map(e).join('; ')}</span>` : '';
-          return `<tr><td>${name}${i.number ? `<br><span class="muted small">${e(i.number)}</span>` : ''}</td><td>${secs}</td><td>${state}${other}</td><td>${latest || '<span class="muted">—</span>'}</td><td class="small">${e(i.basis || '')}${amends}${found}${confirm}</td></tr>`;
+          const fm = i.formsMap && extras.formMaps.find((m) => m.id === i.formsMap);
+          const formsLink = fm ? `<br><a class="small" href="forms-${fm.id}.html">How its ${fm.forms.length} forms match this Act's sections</a>` : '';
+          return `<tr><td>${name}${i.number ? `<br><span class="muted small">${e(i.number)}</span>` : ''}</td><td>${secs}</td><td>${state}${other}</td><td>${latest || '<span class="muted">—</span>'}</td><td class="small">${e(i.basis || '')}${amends}${found}${confirm}${formsLink}</td></tr>`;
         })
         .join('');
       let covered = 0;
@@ -401,6 +403,40 @@ ${body}
   </section>`,
         })
       );
+
+      // ---------- forms of older rules matched to this Act's sections ----------
+      for (const m of extras.formMaps.filter((x) => x.act === act.id)) {
+        const secLink = (n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`;
+        // One heading row per subject, then its forms.
+        const rows = m.forms
+          .map((f, i) => {
+            const head = i === 0 || m.forms[i - 1].subject !== f.subject
+              ? `<tr class="group-row"><th colspan="5" scope="rowgroup">${e(f.subject)}${f.note ? ` — <span class="muted small">${e(f.note)}</span>` : ''}</th></tr>`
+              : '';
+            return `${head}<tr><td>${f.form}</td><td>${e(f.rule || '')}</td><td>${e(f.title)}</td><td>${f.ordinance1984.length ? f.ordinance1984.map(e).join(', ') : '<span class="muted">—</span>'}</td><td>${f.act2017.map(secLink).join(', ')}</td></tr>`;
+          })
+          .join('');
+        write(
+          `acts/${act.id}/forms-${m.id}.html`,
+          layout({
+            title: `Forms of the ${m.instrument} and the ${act.title} — ${site.name}`,
+            description: `Each form of the ${m.instrument} with the section of the ${act.title} on the same subject.`,
+            base,
+            page: 'act',
+            body: `
+  <section class="prose related-page">
+    <p class="crumbs"><a href="${base}index.html">Library</a> / <a href="index.html">${e(act.title)}</a> / <a href="related.html">Rules, regulations and notifications</a></p>
+    <h1>Forms of the ${e(m.instrument)} and the ${e(act.title)}</h1>
+    <p>${e(m._about)}</p>
+    <p class="muted small">Matched on ${dateLabel(m.matched)}. ${m.forms.length} forms.</p>
+    <div class="table-wrap"><table class="sources-table related-table">
+      <thead><tr><th>Form</th><th>Rule</th><th>Title</th><th>Companies Ordinance, 1984</th><th>${e(act.title)}</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table></div>
+  </section>`,
+          })
+        );
+      }
     }
   }
 

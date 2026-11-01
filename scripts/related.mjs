@@ -16,12 +16,23 @@ export function loadExtras(dataDir = DATA_DIR) {
     : [];
   const termsPath = path.join(dataDir, 'search-terms.json');
   const searchTerms = fs.existsSync(termsPath) ? JSON.parse(fs.readFileSync(termsPath, 'utf8')).terms : {};
-  return { checks, registers, searchTerms };
+  // Maps of old forms (e.g. the Companies (Court) Rules, 1997) to the sections of an Act, one file each.
+  const formsDir = path.join(dataDir, 'forms');
+  const formMaps = fs.existsSync(formsDir)
+    ? fs.readdirSync(formsDir).filter((f) => f.endsWith('.json')).sort().map((f) => ({ ...JSON.parse(fs.readFileSync(path.join(formsDir, f), 'utf8')), id: f.replace(/\.json$/, '') }))
+    : [];
+  return { checks, registers, searchTerms, formMaps };
 }
 
-export function validateExtras({ acts }, { checks, registers, searchTerms }, evidenceDir = EVIDENCE_DIR) {
+export function validateExtras({ acts }, { checks, registers, searchTerms, formMaps }, evidenceDir = EVIDENCE_DIR) {
   const errors = [];
   const byId = new Map(acts.map((a) => [a.id, a]));
+  for (const m of formMaps || []) {
+    const act = byId.get(m.act);
+    if (!act) { errors.push(`forms/${m.id}.json: unknown act "${m.act}"`); continue; }
+    const nos = new Set(act.parts.flatMap((p) => p.sections.map((s) => s.no)));
+    for (const f of m.forms || []) for (const n of f.act2017 || []) if (!nos.has(n)) errors.push(`forms/${m.id}.json: form ${f.form} names unknown section ${n}`);
+  }
   for (const [id, list] of Object.entries(searchTerms || {})) {
     if (!byId.has(id)) errors.push(`search-terms.json: unknown instrument "${id}"`);
     if (!Array.isArray(list) || list.some((t) => typeof t !== 'string' || !t.trim())) errors.push(`search-terms.json: "${id}" must be a list of words or phrases`);

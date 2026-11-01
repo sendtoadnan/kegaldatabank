@@ -31,6 +31,7 @@ Last updated: 1 November 2026.
 | 29 | Look at the results of the first weekly update check (Monday 2 Nov 2026) | Claude | Pending | `data/update-check.json`; the workflow pushes to `main`, which deploys |
 | 30 | Investor Education and Awareness Fund rules | You | Waiting | Only draft rules found so far |
 | 36 | If SECP lists regulations or forms for voluntary winding up (declaration of solvency, statement to creditors, final meeting report), download them | You | Pending | Sections 351, 357, 359, 369 are linked to the Court Rules 1997 only as the nearest provision |
+| 37 | Check the matching of the 115 Court Rules 1997 forms to Companies Act 2017 sections | You | Pending | Page `acts/companies-act-2017/forms-court-rules-1997.html`; matched by subject, each to be confirmed |
 | 31 | Modaraba Rules 1981, CRC Rules 2019 and S.R.O. 243/2024 | You | Deferred | Deferred by the user (Oct 2026); PDFs now in `_To sort` |
 
 ## Done
@@ -51,4 +52,5 @@ Last updated: 1 November 2026.
 | 32 | Download the panel of liquidators register and panel of mediators | You | 1 Nov 2026 | Lists only; filed under s.315 and s.276 |
 | 33 | Download S.R.O. 1715(I)/2023 (IFRS 17) and screenshot S.R.O. 464 and the ECF "updated" page | You | 1 Nov 2026 | |
 | 34 | Create this tracker | Claude | 1 Nov 2026 | |
+| 38 | Match every Court Rules 1997 form (framed under the 1984 Ordinance) to the Companies Act 2017 | Claude | 1 Nov 2026 | 115 forms on a new page; compromise forms 19–21 have no counterpart (the Commission now sanctions compromises) |
 | 35 | Sections to identify, batch 4 (ss.351–420) | Claude | 1 Nov 2026 | ss.351, 357, 359, 369, 415, 416 linked to the Court Rules 1997; 362, 376, 396, 420 left open |
