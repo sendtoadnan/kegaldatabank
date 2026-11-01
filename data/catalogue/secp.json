@@ -15,11 +15,8 @@
      "title": "Securities and Exchange Commission of Pakistan Act, 1997",
      "type": "act",
      "note": "Saved: text PDF updated till 2016. Later amendments to confirm. Section 37 (court for offences) and section 43 (rules) are cited by several instruments in the library.",
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     },
-     "saved": true
+     "saved": true,
+     "library": "secp-act-1997"
     },
     {
      "title": "Securities Act, 2015",
@@ -36,34 +33,25 @@
      "title": "Central Depositories Act, 1997",
      "type": "act",
      "url": "https://www.secp.gov.pk/laws/acts/",
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     },
      "saved": true,
-     "note": "Saved: Gazette of 10 June 1997 as enacted (text and scan). An amended edition is needed for the library."
+     "note": "Saved: Gazette of 10 June 1997 as enacted (text and scan). An amended edition is needed for the library.",
+     "library": "central-depositories-act-1997"
     },
     {
      "title": "Futures Market Act, 2016",
      "type": "act",
      "url": "https://www.secp.gov.pk/document/futures-market-act-2016/",
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     },
      "saved": true,
-     "note": "Saved: Pakistan Code text (Act No. XIV of 2016) and a scanned copy."
+     "note": "Saved: Pakistan Code text (Act No. XIV of 2016) and a scanned copy.",
+     "library": "futures-market-act-2016"
     },
     {
      "title": "Limited Liability Partnership Act, 2017",
      "type": "act",
      "url": "https://www.secp.gov.pk/document/limited-liability-partnership-act-2017/",
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     },
      "saved": true,
-     "note": "Saved: Pakistan Code text updated till 15 October 2021 (Act No. XV of 2017) and the Gazette of 3 May 2017."
+     "note": "Saved: Pakistan Code text updated till 15 October 2021 (Act No. XV of 2017) and the Gazette of 3 May 2017.",
+     "library": "llp-act-2017"
     },
     {
      "title": "Corporate Restructuring Companies Act, 2016",
@@ -83,12 +71,9 @@
      "title": "Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980",
      "type": "ordinance",
      "url": "https://www.secp.gov.pk/document/modaraba-companies-modaraba-floatation-control-ordinance-1980/",
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     },
      "saved": true,
-     "note": "Saved: text amended till 2012. Later amendments to confirm."
+     "note": "Saved: text amended till 2012. Later amendments to confirm.",
+     "library": "modaraba-ordinance-1980"
     },
     {
      "title": "Anti-Money Laundering Act, 2010",
@@ -211,12 +196,9 @@
      "type": "regulations",
      "url": "https://www.secp.gov.pk/document/central-depositories-licensing-and-operations-regulations-2016/",
      "note": "Saved: S.R.O. 120(I)/2016 (15 February 2016), amended to 16 June 2026, made under section 169 of the Securities Act, 2015.",
-     "found": {
-      "date": "2026-11-01",
-      "how": "search-index"
-     },
      "saved": true,
-     "number": "S.R.O. 120(I)/2016"
+     "number": "S.R.O. 120(I)/2016",
+     "library": "central-depositories-regulations-2016"
     },
     {
      "title": "Central Depository Company of Pakistan Regulations (CDC Regulations)",

@@ -350,7 +350,7 @@ def section_start(l, bs, untitled=False):
 
 def clean_heading(h):
     h = re.sub(r"^[\s\-–—―“\"]+", "", h.strip())
-    h = re.sub(r"[\s.\-–—―−⸺⸻:]+$", "", h)
+    h = re.sub(r"[\s.\-–—―−⸺⸻:_,(]+$", "", h)  # also underlines (___) and a dangling "(" from "(1)"
     return h.strip()
 
 
@@ -778,7 +778,9 @@ def extract(entry):
                 # provisions printed with a regular-weight number and no heading, named in the manifest
                 mm = re.match(r"^(\d+[A-Z]{0,4})\.\s+(\S.*)$", text)
                 if mm and mm.group(1) in entry["plainNumberProvisions"]:
-                    st = (mm.group(1), "", "", mm.group(2))
+                    # a heading may follow the number in body type: "42D. Heading.—(1) …"
+                    hm = re.match(r"^((?:\{fn:[^}]+\})*)\s*([A-Z][^.—–]{3,120}?)\.\s*[—–-]+\s*(.*)$", mm.group(2))
+                    st = (mm.group(1), hm.group(2), hm.group(1), hm.group(3)) if hm else (mm.group(1), "", "", mm.group(2))
             if st:
                 base = int(re.match(r"\d+", st[0]).group())
                 prev_no = last_no[0]
@@ -790,6 +792,9 @@ def extract(entry):
                     st = None
             if st:
                 number, heading, lead, rest = st
+                if re.search(r"\(\s*$", heading) and re.match(r"\s*[0-9a-z]{1,3}\)", rest or ""):
+                    # "Heading, -(1) text": the "(" of the first sub-number belongs to the text
+                    heading, rest = re.sub(r"\(\s*$", "", heading), "(" + rest.lstrip()
                 if part is None:
                     new_part("Preliminary")
                 section = {"no": number, "title": clean_heading(re.sub(r"\{fn:[^}]+\}", "", heading)), "page": pno + 1, "text": [], "fn": []}

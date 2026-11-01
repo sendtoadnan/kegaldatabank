@@ -12,6 +12,7 @@ Last updated: 1 November 2026.
 | # | Task | Owner | Status | Notes |
 |---|---|---|---|---|
 | 51 | Merge PR #26 (the website changes pushed after #25 was merged) | You | Pending | One more Netlify deploy |
+| 52 | After #26 is merged: push the library batch (six SECP instruments) as one PR | Claude | Waiting | Local branch `claude/library-acts-batch` |
 | 45 | Close old PR #5 (validation fix already in `main`; it now conflicts) | You | Pending | Claude was not permitted to close it; on github.com or `! gh pr close 5` |
 | 14 | Delete five empty folders in `Unified/Corporate & Securities` | You | Pending | Old S.R.O. 464, Companies (Court) Rules, Debt Securities Trustees, Public Offering, Share Registrars folders (Claude's safety check blocks folder removal) |
 | 15 | Work through the Companies Act sections still marked "To identify" | Claude | Waiting | Two passes done 1 Nov 2026 (56 → 17). 9 more are marked "Set in each order" (no instrument expected). The 17 left: 86, 104, 162, 188, 216, 258, 337, 341, 362, 376, 396, 440, 454, 456, 457, 459, 467. Revisit when new SECP material arrives |
@@ -36,7 +37,7 @@ Last updated: 1 November 2026.
 | 46 | Text PDFs of the main SECP Acts for the library | You | Pending | Saved 1 Nov 2026: SECP Act 1997 (to 2016), CD Act 1997 (as enacted only), Futures Market Act 2016, LLP Act 2017 (to 15.10.2021), Modaraba Ordinance 1980 (to 2012). Still needed: Securities Act 2015 as text (only a scan saved), amended CD Act 1997, later editions of the SECP Act and Modaraba Ordinance |
 | 47 | Download the main capital-market and NBFC regulations (Securities Brokers, Securities Exchanges, Central Depositories, Clearing Houses, Securities and Futures Advisers, Takeovers, NBFC & NE Regulations 2008, REIT 2022, LLP Regulations 2018), latest editions with screenshots | You | Pending | Listed on `laws.html` with SECP links |
 | 48 | Extend the SECP catalogue to directives, circulars, guidelines and orders; re-check titles and editions as screenshots arrive | Claude | Pending | `data/catalogue/secp.json` |
-| 49 | Add the catalogued instruments to the library as their PDFs arrive (tasks 27, 46, 47), batching new PDFs | Claude | Waiting | Scanned PDFs need OCR first |
+| 49 | Add the catalogued instruments to the library as their PDFs arrive | Claude | Waiting | 1 Nov 2026: SECP Act 1997 (to 2016), CD Act 1997 (as enacted), Futures Market Act 2016, LLP Act 2017 (to 15.10.2021), Modaraba Ordinance 1980 (to 2012), CD (Licensing and Operations) Regulations 2016 (to 16.6.2026) added, Unverified. Next: Securities Act 2015 (needs a text PDF), CDC Regulations (252 pages), saved rules in `_To sort` (task 27) |
 | 31 | Modaraba Rules 1981, CRC Rules 2019 and S.R.O. 243/2024 | You | Deferred | Deferred by the user (Oct 2026); PDFs now in `_To sort` |
 
 ## Done

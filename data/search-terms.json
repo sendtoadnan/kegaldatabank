@@ -30,6 +30,12 @@
     "insurance-rules-2017": ["insurance", "insurer", "solvency", "insurance agent", "SECP"],
     "takaful-rules-2012": ["takaful", "Islamic insurance", "window takaful", "participants' takaful fund", "SECP"],
     "aml-act-2010": ["anti-money laundering", "money laundering", "AML", "FMU", "financial monitoring unit", "STR", "CTR", "terrorist financing", "predicate offence"],
-    "benami-transactions-act-2017": ["benami", "benamidar", "benami property", "FBR"]
+    "benami-transactions-act-2017": ["benami", "benamidar", "benami property", "FBR"],
+    "secp-act-1997": ["Policy Board", "appeal", "Appellate Bench", "administered legislation", "Commissioner"],
+    "central-depositories-act-1997": ["central depository", "book-entry", "pledge", "jumbo certificate"],
+    "futures-market-act-2016": ["futures contract", "commodity", "futures exchange", "futures broker", "clearing house"],
+    "llp-act-2017": ["LLP", "limited liability partnership", "designated partner", "incorporation document", "winding up"],
+    "modaraba-ordinance-1980": ["modaraba", "modaraba company", "modaraba certificate", "Registrar", "religious board"],
+    "central-depositories-regulations-2016": ["central depository", "fit and proper", "licence"]
   }
 }

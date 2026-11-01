@@ -1453,5 +1453,171 @@
       "page": "https://www.pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2NoaJg=-sg-jjjjjjjjjjjjj",
       "manual": true
     }
+  },
+  {
+    "id": "secp-act-1997",
+    "file": "secp-act-1997.pdf",
+    "title": "Securities and Exchange Commission of Pakistan Act, 1997",
+    "number": "Act No. XLII of 1997",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SECP Act",
+      "SECP Act 1997"
+    ],
+    "amendedUpTo": "2016-12-31",
+    "amendedUpToLabel": "2016 (as stated on the saved copy)",
+    "caution": "This edition is described as updated till 2016. Amendments made after 2016 are not reflected; check the current text before relying on it.",
+    "plainNumberProvisions": ["42D"],
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "manual": true
+    }
+  },
+  {
+    "id": "central-depositories-act-1997",
+    "file": "central-depositories-act-1997.pdf",
+    "title": "Central Depositories Act, 1997",
+    "number": "Act No. XIX of 1997",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CD Act",
+      "CDC Act",
+      "CD Act 1997"
+    ],
+    "enacted": "1997-06-10",
+    "amendedUpTo": "1997-06-10",
+    "amendedUpToLabel": "As enacted (Gazette, 10 June 1997)",
+    "caution": "This is the text as enacted in 1997. Later amendments are not reflected; check the current text before relying on it.",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "manual": true
+    }
+  },
+  {
+    "id": "futures-market-act-2016",
+    "file": "futures-market-act-2016.pdf",
+    "title": "Futures Market Act, 2016",
+    "number": "Act No. XIV of 2016",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "FMA",
+      "FMA 2016",
+      "Futures Market Act"
+    ],
+    "enacted": "2016-04-09",
+    "amendedUpTo": "2016-04-09",
+    "amendedUpToLabel": "Pakistan Code edition (no amendment date stated)",
+    "caution": "Taken from Pakistan Code, which states no amendment date; check SECP's current edition before relying on it.",
+    "source": {
+      "name": "Pakistan Code (Ministry of Law and Justice)",
+      "url": "https://pakistancode.gov.pk"
+    },
+    "bodyStartPage": 8,
+    "plainHeadings": true,
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "manual": true
+    }
+  },
+  {
+    "id": "llp-act-2017",
+    "file": "llp-act-2017.pdf",
+    "title": "Limited Liability Partnership Act, 2017",
+    "number": "Act No. XV of 2017",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "LLP Act",
+      "LLP Act 2017"
+    ],
+    "amendedUpTo": "2021-10-15",
+    "amendedUpToLabel": "15 October 2021",
+    "source": {
+      "name": "Pakistan Code (Ministry of Law and Justice)",
+      "url": "https://pakistancode.gov.pk"
+    },
+    "bodyStartPage": 5,
+    "plainHeadings": true,
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "manual": true
+    }
+  },
+  {
+    "id": "modaraba-ordinance-1980",
+    "file": "modaraba-ordinance-1980.pdf",
+    "title": "Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980",
+    "number": "Ordinance No. XXXI of 1980",
+    "type": "ordinance",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Modaraba Ordinance",
+      "Modaraba Ordinance 1980"
+    ],
+    "amendedUpTo": "2012-12-31",
+    "amendedUpToLabel": "2012 (as stated on the saved copy)",
+    "caution": "This edition is described as amended up to 2012. Later amendments are not reflected; check the current text before relying on it.",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "bodyStartPage": 2,
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/ordinances/",
+      "manual": true
+    }
+  },
+  {
+    "id": "central-depositories-regulations-2016",
+    "file": "central-depositories-regulations-2016.pdf",
+    "title": "Central Depositories (Licensing and Operations) Regulations, 2016",
+    "number": "S.R.O. 120(I)/2016",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CD Regulations 2016",
+      "Central Depositories Regulations"
+    ],
+    "enacted": "2016-02-15",
+    "amendedUpTo": "2026-06-16",
+    "amendedUpToLabel": "16 June 2026",
+    "summary": "Made under section 169 of the Securities Act, 2015 (recital).",
+    "source": {
+      "name": "Securities and Exchange Commission of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
   }
 ]
