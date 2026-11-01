@@ -23,7 +23,10 @@
     "227",
     "271",
     "285",
-    "479"
+    "479",
+    "53",
+    "54",
+    "132"
    ],
    "status": "in-force",
    "latest": "Amended by S.R.O. 1355(I)/2025 of 25 July 2025 (SECP lists it as “SRO 1356”)",
@@ -32,7 +35,7 @@
     "screenshot": "secp-regulations-2026-10-04.webp"
    },
    "secpPage": "regulations",
-   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67)."
+   "basis": "Made under section 512(1) (recital to the regulations). The sections each regulation cites are linked automatically. Also carries out sections it cites in table or sub-section form, which are not linked automatically: 26–28 (reg. 30, Form-4; reg. 36), 103 and 112 (reg. 30, Registers R-4 and R-5), 227(2)(f) (reg. 30, Form-20), 271 (reg. 58), 285 (reg. 30, Form-22; reg. 59), 479 (reg. 67), 53 and 54 (reg. 34, service of documents on the Commission, registrar or company), 132(2) (reg. 56, video link on demand of members holding ten percent of paid-up capital)."
   },
   {
    "title": "Third Schedule to the Companies Act, 2017 (updated)",
@@ -328,6 +331,27 @@
     "SECP listing (no screenshot yet)"
    ],
    "url": "https://www.secp.gov.pk/document/sro-1300-i-2018-notification-under-section-66-of-the-companies-act-2017-issue-of-securities-and-redeemable-capital-not-based-on-interest/"
+  },
+  {
+   "title": "S.R.O. 464(I)/2024 — notification under section 17(2) (subscription money)",
+   "type": "notification",
+   "number": "S.R.O. 464(I)/2024",
+   "sections": [
+    "17"
+   ],
+   "status": "in-force",
+   "secpPage": "notifications",
+   "basis": "Section 17(2) leaves the time, manner and conditions for paying subscription money to be notified by the Commission; SECP lists this S.R.O. as a notification under section 17(2).",
+   "confirm": [
+    "date and terms of the notification, from the S.R.O. itself",
+    "that it is in force and not amended or replaced",
+    "SECP listing (no screenshot yet)"
+   ],
+   "url": "https://www.secp.gov.pk/document/notification-u-s-172-of-the-companies-act-2017/",
+   "found": {
+    "date": "2026-11-01",
+    "how": "search-index"
+   }
   },
   {
    "title": "Investor Education and Awareness Fund",
