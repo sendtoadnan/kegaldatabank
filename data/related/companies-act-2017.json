@@ -462,17 +462,13 @@
    ],
    "status": "in-force",
    "madeUnder": "Securities and Exchange Commission of Pakistan Act, 1997 (section 37)",
-   "basis": "Section 482 makes offences punishable with imprisonment triable by the court of sessions or such other court as may be notified under section 37 of the SECP Act, 1997. A Sindh High Court judgment in a search engine's index refers to a notification of 2 August 2024 under section 37 naming the Special Court (Offences in Banks), Karachi, for offences listed in the Eighth Schedule.",
+   "basis": "Section 482 makes offences punishable with imprisonment triable by the court of sessions or such other court as may be notified under section 37 of the SECP Act, 1997. The Sindh High Court's order of 6 September 2024 in J.C.M. No. 28 of 2021 (N.P. Spinning Mills Limited v. Muhammad Siddique) says: “By a recent notification dated 02-08-2024 issued under section 37 of the SECP Act, 1997, that court is now the Special Court (Offences in Banks), Karachi.” Special Courts (Offences in Banks) are set up under the Offences in Respect of Banks (Special Courts) Ordinance, 1984.",
    "confirm": [
-    "the notification itself: its S.R.O. number, issuing authority and text",
-    "whether courts are notified for other provinces",
-    "the judgment that cites it"
+    "the notification itself: its S.R.O. number, issuing authority and text (seen only as cited in the Sindh High Court order)",
+    "an unofficial summary saved by the user (no letterhead or number) mentions an earlier S.R.O. of 26 December 2017 and the Ministry of Law and Justice as issuer: both unconfirmed",
+    "whether courts are notified for other provinces"
    ],
-   "url": "https://caselaw.shc.gov.pk/caselaw/view-file/MjE5MTM1Y2Ztcy1kYzgz",
-   "found": {
-    "date": "2026-11-01",
-    "how": "search-index"
-   }
+   "url": "https://caselaw.shc.gov.pk/caselaw/view-file/MjE5MTM1Y2Ztcy1kYzgz"
   },
   {
    "title": "Debt Securities Trustees Regulations, 2017",
