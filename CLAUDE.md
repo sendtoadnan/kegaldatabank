@@ -47,7 +47,7 @@ Daily routine for the user: `cd ~/Documents/kegaldatabank && git pull && claude`
 - The user's credit is limited: prefer running the scripts over reading large files, keep sessions focused, and batch new PDFs.
 
 ## State (October 2026)
-- 29 instruments; all up to date with the regulators per the 4 Oct 2026 checks (SECP by screenshot). Nine Companies Act regulations/notifications added on 4 Oct 2026 are Unverified.
+- 30 instruments; all up to date with the regulators per the 4 Oct 2026 checks (SECP by screenshot). Nine Companies Act regulations/notifications added on 4 Oct 2026 are Unverified. S.R.O. 464(I)/2024 (s.17(2), subscription money) added on 1 Nov 2026, Unverified.
 - Companies (Related Party Transactions) Regulations 2018 added from S.R.O. 1194(I)/2018 and verified by Abdullah on 4 Oct 2026. Re-extracting resets `verification` to unverified, so re-verify after any re-extraction (restore it with `git checkout` when the text did not change).
 - Repealed instruments are kept for cases about past periods: add them to the library with `"status": "repealed"` and a `caution` naming what repealed them (e.g. Unlisted Companies (Buy-Back of Shares) Regulations 2023), and list predecessors named in repeal provisions in the register with `replacedBy`.
 - Still needed from SECP (user's browser): Employees Contributory Funds Regulations "updated – July 2019"; Listed Companies (Buy-back of Shares) Regulations 2019 with the 2022 amendments; an official PDF of the Public Sector Companies (Corporate Governance) Rules 2013 as amended to 2019; a listing screenshot for S.R.O. 1300(I)/2018. Investor Education and Awareness Fund: only draft rules found. PDFs of the repealed instruments in the register.

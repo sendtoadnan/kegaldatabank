@@ -335,23 +335,19 @@
   {
    "title": "S.R.O. 464(I)/2024 — notification under section 17(2) (subscription money)",
    "type": "notification",
-   "number": "S.R.O. 464(I)/2024",
+   "number": "S.R.O. 464(I)/2024 (15 March 2024)",
    "sections": [
     "17"
    ],
    "status": "in-force",
    "secpPage": "notifications",
-   "basis": "Section 17(2) leaves the time, manner and conditions for paying subscription money to be notified by the Commission; SECP lists this S.R.O. as a notification under section 17(2).",
+   "basis": "Made under section 17(2) read with section 510 (recital).",
    "confirm": [
-    "date and terms of the notification, from the S.R.O. itself",
     "that it is in force and not amended or replaced",
     "SECP listing (no screenshot yet)"
    ],
    "url": "https://www.secp.gov.pk/document/notification-u-s-172-of-the-companies-act-2017/",
-   "found": {
-    "date": "2026-11-01",
-    "how": "search-index"
-   }
+   "library": "sro-464-2024-section-17"
   },
   {
    "title": "SECP Circular 15 of 2017 — exemption from the requirement of a National Tax Number",
