@@ -28,7 +28,6 @@ Last updated: 3 November 2026.
 | 25 | Check the text of Unverified instruments against their PDFs | You | Pending | Nine Companies Act instruments of 4 Oct 2026 and S.R.O. 464(I)/2024. Claude makes checklists (`python3 scripts/verify_sheet.py --unverified`) and records the result (`mark_verified.py`) |
 | 27 | Decide which other laws in `_To sort` to add to the library | You | Pending | NBFC Rules 2003, VPS Rules (S.R.O. 298(I)/2024), Centralized KYC Organization Rules 2017, Search and Seizure Rules 2019, Clearing Houses Rules 2005, Secured Transactions Registry Rules 2019, Companies (Issue of Capital) Rules 1996, General Provisions and Forms Rules 1985 (Word only) |
 | 28 | Tidy `_To sort`: remove the duplicate Secured Transactions Registry Rules copy and the Competition Commission registrar regulations (wrong download) | You | Pending | |
-| 29 | Look at the results of the first weekly update check (Monday 2 Nov 2026) | Claude | Pending | `data/update-check.json`; the workflow pushes to `main`, which deploys |
 | 30 | Investor Education and Awareness Fund rules | You | Waiting | Only draft rules found so far |
 | 36 | If SECP lists regulations or forms for voluntary winding up (declaration of solvency, statement to creditors, final meeting report), download them | You | Pending | Sections 351, 357, 359, 369 are linked to the Court Rules 1997 only as the nearest provision |
 | 37 | Check the matching of the 115 Court Rules 1997 forms to Companies Act 2017 sections | You | Pending | Page `acts/companies-act-2017/forms-court-rules-1997.html`; matched by subject, each to be confirmed |
@@ -62,6 +61,7 @@ Last updated: 3 November 2026.
 | 42 | Read the third round of downloads | Claude | 1 Nov 2026 | Sindh High Court order (s.482), Offences in Respect of Banks (Special Courts) Ordinance 1984 (two copies), an unofficial summary (not used as a source); filed under s.482. S.R.O. 1715 PDF and screenshots filed |
 | 12 | Merge PR #25 | You | 1 Nov 2026 | Merged 19:10; the last two commits were pushed after the merge and went into PR #26 |
 | 13 | After the merge: switch to `main`, pull, delete the branch | Claude | 1 Nov 2026 | |
+| 29 | Look at the results of the first weekly update check (Monday 2 Nov 2026) | Claude | 3 Nov 2026 | 8 FBR/FMU instruments current, none newer; 34 could not be compared automatically (33 SECP, plus Benami Act on Pakistan Code): SECP needs a check by hand |
 | 52 | Put the library batch (twelve SECP instruments) into PR #26 | Claude | 2 Nov 2026 | At the user's request, instead of a separate PR |
 | 50 | Separate edition status from text checking; show register instruments on Act pages; search help; SECP laws catalogue page | Claude | 1 Nov 2026 | Sources: "Latest edition" + "Text checked"; Companies Act page lists 40 instruments not in the library (incl. Easy Exit); `laws.html` lists 51 SECP instruments (7 in library) |
 | 52 | Decide whether to add written AI answers ("Ask AI") to the site | You | 3 Nov 2026 | Not added. Tested in the browser with Qwen3-0.6B, Phi-3.5-mini and Granite 4.0 Micro: each wrong or misleading on some legal questions (none got the late-filing penalty in ITO s.182 right) |
