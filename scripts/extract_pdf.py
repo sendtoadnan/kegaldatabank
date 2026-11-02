@@ -350,7 +350,7 @@ def section_start(l, bs, untitled=False):
 
 def clean_heading(h):
     h = re.sub(r"^[\s\-–—―“\"]+", "", h.strip())
-    h = re.sub(r"[\s.\-–—―−⸺⸻:]+$", "", h)
+    h = re.sub(r"[\s.\-–—―−⸺⸻:_,(]+$", "", h)  # also underlines (___) and a dangling "(" from "(1)"
     return h.strip()
 
 
@@ -410,9 +410,11 @@ def base_record(entry, parts, preamble, schedules):
         "sourcePdf": entry["file"],
         "verification": {
             "status": "unverified",
-            "note": ("Text machine-extracted from the %s consolidated edition%s. Check against the Gazette before quoting."
+            "note": ("Section headings read by OCR from a scanned copy with no text layer; read each section in the official PDF and check the heading against it before quoting."
+                     if entry.get("scannedContents") else
+                     ("Text machine-extracted from the %s consolidated edition%s. Check against the Gazette before quoting."
                      if not entry.get("pdfOnly") else "Official %s PDF shown as published%s. Check against the Gazette before quoting.") % (
-                entry["source"]["name"], (" updated to " + entry["amendedUpToLabel"]) if entry.get("amendedUpToLabel") else ""),
+                entry["source"]["name"], (" updated to " + entry["amendedUpToLabel"]) if entry.get("amendedUpToLabel") else "")),
         },
         "preamble": preamble,
         "parts": parts,
@@ -594,6 +596,17 @@ def extract(entry):
     doc = pymupdf.open(pdf)
     if entry.get("pdfOnly"):
         return base_record(entry, [], "", []), {"id": entry["id"], "pages": len(doc), "pdfOnly": True}
+    if entry.get("scannedContents"):
+        # A scanned edition with no text layer: list each provision from a checked contents file
+        # (sources/contents/<file>) with a pointer to its page in the scan. No body text is taken from OCR.
+        contents = json.loads((ROOT / "sources" / "contents" / entry["scannedContents"]).read_text(encoding="utf-8"))
+        unit = entry.get("unit", "Section").lower()
+        parts = [{"heading": p["heading"], "sections": [
+            {"no": s["no"], "title": s["title"], "page": s["page"],
+             "text": ["This %s is shown from the scanned Gazette, which has no text layer; read it in the official PDF (page %d)." % (unit, s["page"])]}
+            for s in p["sections"]]} for p in contents["parts"]]
+        n = sum(len(p["sections"]) for p in parts)
+        return base_record(entry, parts, "", entry.get("schedules", [])), {"id": entry["id"], "pages": len(doc), "provisions": n, "scannedContents": True}
     pages = load_lines(doc, entry.get("spaceGaps", False))
     bs = body_size(pages)
     running = running_lines(pages)
@@ -778,7 +791,9 @@ def extract(entry):
                 # provisions printed with a regular-weight number and no heading, named in the manifest
                 mm = re.match(r"^(\d+[A-Z]{0,4})\.\s+(\S.*)$", text)
                 if mm and mm.group(1) in entry["plainNumberProvisions"]:
-                    st = (mm.group(1), "", "", mm.group(2))
+                    # a heading may follow the number in body type: "42D. Heading.—(1) …"
+                    hm = re.match(r"^((?:\{fn:[^}]+\})*)\s*([A-Z][^.—–]{3,120}?)\.\s*[—–-]+\s*(.*)$", mm.group(2))
+                    st = (mm.group(1), hm.group(2), hm.group(1), hm.group(3)) if hm else (mm.group(1), "", "", mm.group(2))
             if st:
                 base = int(re.match(r"\d+", st[0]).group())
                 prev_no = last_no[0]
@@ -790,6 +805,9 @@ def extract(entry):
                     st = None
             if st:
                 number, heading, lead, rest = st
+                if re.search(r"\(\s*$", heading) and re.match(r"\s*[0-9a-z]{1,3}\)", rest or ""):
+                    # "Heading, -(1) text": the "(" of the first sub-number belongs to the text
+                    heading, rest = re.sub(r"\(\s*$", "", heading), "(" + rest.lstrip()
                 if part is None:
                     new_part("Preliminary")
                 section = {"no": number, "title": clean_heading(re.sub(r"\{fn:[^}]+\}", "", heading)), "page": pno + 1, "text": [], "fn": []}

@@ -1,0 +1,911 @@
+{
+ "id": "llp-act-2017",
+ "title": "Limited Liability Partnership Act, 2017",
+ "number": "Act No. XV of 2017",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "LLP Act",
+  "LLP Act 2017"
+ ],
+ "lastAmended": "2021-10-15",
+ "amendedUpToLabel": "15 October 2021",
+ "status": "in-force",
+ "source": {
+  "name": "Pakistan Code (Ministry of Law and Justice)",
+  "url": "https://pakistancode.gov.pk"
+ },
+ "sourcePdf": "llp-act-2017.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Pakistan Code (Ministry of Law and Justice) consolidated edition updated to 15 October 2021. Check against the Gazette before quoting."
+ },
+ "preamble": "WHEREAS it is expedient to make provisions for the formation and regulation of limited liability partnerships and for matters connected therewith or incidental thereto; It is hereby enacted as follows:—",
+ "parts": [
+  {
+   "heading": "Part I — Prelimnary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, extent and commencement",
+     "page": 5,
+     "text": [
+      "(1) This Act may be called the Limited Liability Partnership Act, 2017.",
+      "(2) It extends to the whole of Pakistan.",
+      "(3) It shall come into force at once:",
+      "Provided that different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 5,
+     "text": [
+      "(1) In this Act, unless the context otherwise requires,—",
+      ">(a) “address” in relation to a partner of a limited liability partnership, means,—",
+      ">>(i) if an individual, his usual residential address or service address provided by him; and",
+      ">>(ii) if a body corporate or company, the address of its registered office;",
+      ">(b) “advocate” means an Advocate within the meaning of the Legal Practitioners and Bar Councils Act, 1973 (XXXV of 1973);",
+      ">(c) “Appellate Bench” means Appellate Bench of the Commission constituted under sub-section (2) of section 33 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(d) “body corporate” includes,—",
+      ">>(i) limited liability partnership registered under this Act;",
+      ">>(ii) limited liability partnership registered or incorporated outside Pakistan; and",
+      ">>(iii) company incorporated outside Pakistan, but does not include,—",
+      ">(a) sole proprietorship;",
+      ">(b) co-operative society registered under any law relating to cooperative societies; and",
+      ">(c) any other body corporate, not being a company as defined in the Ordinance, which the Federal Government may, by notification in the official Gazette, specify in this behalf;",
+      ">(e) “business” includes every trade, profession and occupation;",
+      ">(f) “chartered accountant” means a chartered accountant as defined in clause (b) of sub-section (1) of section 2 of the Chartered Accountants Ordinance, 1961 (X of 1961) and who has obtained a certificate of practice under sub-section (1) of section 6 thereto;",
+      ">(g) “Commission” means Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(h) “cost and management accountant” means a cost and management accountant within the meaning of the Cost and Management Accountants Act, 1966 (XIV of 1966);",
+      ">(i) “Court” means the Company Bench of a High Court as provided in section 7 and section 8 of the Ordinance;",
+      ">(j) “designated partner” means any partner designated as such pursuant to section 10;",
+      ">(k) “financial year” means the period commencing on the first day of July of any year and ending on the thirtieth day of June of the succeeding year;",
+      ">(l) “firm” shall have the same meaning as assigned to it under the Partnership Act, 1932 (IX of 1932);",
+      ">(m) “foreign limited liability partnership” means a limited liability partnership that is formed, registered or incorporated outside Pakistan;",
+      ">(n) “limited liability partnership” means a partnership registered under this Act;",
+      ">(o) “limited liability partnership agreement” means any written agreement between partners of the limited liability partnership which determines mutual rights and duties of the partners and their rights and duties in relation to the limited liability partnership;",
+      ">(p) “officer” in relation to a limited liability partnership, means,‑",
+      ">>(i) any manager of the limited liability partnership;",
+      ">>(ii) a receiver and manager of any part of the undertaking of the limited liability partnership appointed under a power contained in any instrument; and",
+      ">>(iii) any liquidator of the limited liability partnership appointed in a voluntary winding up;",
+      ">(q) “Ordinance” means the Companies Ordinance, 1984 (XLVII of 1984);",
+      ">(r) “partner”, in relation to a limited liability partnership, means any person who has been admitted as a partner in the limited liability partnership in accordance with the limited liability partnership agreement;",
+      ">(s) “prescribed” means prescribed through regulations made by the Commission for carrying out the purposes of this Act; and",
+      ">(t) “Registrar” means a Registrar, an Additional, a Joint, a Deputy or an Assistant Registrar, performing under this Act the duty of registering limited liability partnership.",
+      "(2) The words and expressions used but not defined in this Act shall have the same meaning as defined in the Securities and Exchange Commission of Pakistan Act, 1997 (XLI1 of 1997)."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part II — Nature Of Limited Liability Partnership",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Separate legal personality",
+     "page": 7,
+     "text": [
+      "(1) A limited liability partnership shall be a body corporate by registration under this Act and shall be a legal entity separate from its partners.",
+      "(2) A limited liability partnership shall have perpetual succession.",
+      "(3) Any change in the partners of a limited liability partnership shall not affect the existence, rights or liabilities of the Limited Liability Partnership."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Capacity and execution of documents",
+     "page": 7,
+     "text": [
+      "(1) A limited liability partnership shall, by its name, be capable to,—",
+      ">(a) sue and be sued;",
+      ">(b) acquire, own, hold and develop or dispose of property of every description, both movable and immovable;",
+      ">(c) have a common seal; and",
+      ">(d) do and suffer such other acts and things as bodies corporate may lawfully do and suffer.",
+      "(2) An agreement in writing made before the registration of a limited liability partnership, between the persons who subscribe their names to the incorporation document, may impose obligations on the limited liability partnership:",
+      "Provided that such agreement is ratified by all the partners after the registration of the limited liability partnership:",
+      "Provided further that prior to ratification by the limited liability partnership, the person or persons who purported to act in the name or on behalf of the limited liability partnership shall in the absence of express agreement to the contrary be personally bound by the contract or other transaction and entitled to the benefit thereof.",
+      "(3) Contracts on behalf of a limited liability partnership shall be made in writing under common seal of the limited liability partnership and any contract so made shall be effectual in law and shall bind the limited liability partnership and its successors and all parties thereto.",
+      "(4) A document or proceeding requiring authentication by a limited liability partnership may be signed by a designated partner of the limited liability partnership.",
+      "(5) A limited liability partnership may by writing under its common seal empower any person, either generally or in respect of any specified matters, as its agent or attorney to execute deeds on its behalf and a deed signed by such an agent or attorney on behalf of the limited liability partnership and under his seal or, subject to sub-sections (7) and (8), under the appropriate official seal of the limited liability partnership shall bind it and have the same effect as if it were under its common seal.",
+      "(6) The authority of any such agent or attorney specified under sub-section (5) shall as between the limited liability partnership and any person dealing with him continue during the period, if any, mentioned in the instrument conferring the authority or if no period is therein mentioned then until notice of the revocation or determination of his authority has been given to the person dealing with him.",
+      "(7) The name of a limited liability partnership shall appear in legible letters on,—",
+      ">(a) its seal; and",
+      ">(b) all business letters, statements of account, invoices, official notices, publications, bills of exchange, promissory notes, endorsements, cheques, orders, receipts and letters of credit of or purporting to be issued or signed by or on behalf of the limited liability partnership.",
+      "(8) If an officer of a limited liability partnership or any person on its behalf,—",
+      ">(a) uses or authorizes the use of any seal purporting to be a seal of the limited liability partnership whereon its name does not so appear;",
+      ">(b) issues or authorizes the issue of any business letter, statement of accounts, invoice or official notice wherein its name is not so mentioned; or",
+      ">(c) signs, issues or authorizes to be signed or issued on behalf of the limited liability partnership any bill of exchange, promissory note, cheque or other negotiable instrument or any endorsement, order, receipt or letter of credit wherein its name is not so mentioned, he shall be guilty of an offence punishable with a fine which may extend to five hundred thousand rupees."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part III — Registration",
+   "sections": [
+    {
+     "no": "5",
+     "title": "Incorporation document",
+     "page": 9,
+     "text": [
+      "(1) For a limited liability partnership to be registered,—",
+      ">(a) two or more persons associated for carrying on a lawful business with a view to profit shall have subscribed their names to an incorporation document containing such particulars as provided in sub­section (2);",
+      ">(b) it shall have a registered office to which all communications, notices and other documents may be addressed and served by registered post or by courier, or",
+      "by leaving it at its registered office or by any other mode as may be prescribed by the Commission through regulations:",
+      "Provided that a limited liability partnership may change the place of its registered office and where there is any change in the registered office of the limited liability partnership, notice must be delivered to the Registrar within fifteen days of such change in such a manner as may be prescribed by the Commission through regulations and any such change shall only take effect upon serving such notice;",
+      ">(c) the incorporation document shall be filed in such manner and with such fees, as may be prescribed by the Commission through regulations; and",
+      ">(d) there shall be filed a statement, in the form prescribed by the Commission through regulations, made by either an advocate or a member of the Institute of Chartered Accountants or the Institute of Cost and Management Accountants, who is engaged in formation of the limited liability partnership or by anyone who has subscribed his name to the incorporation document, that all the requirements of this Act and the rules and regulations made there under have been complied with, in respect of registration and matters precedent and incidental thereto.",
+      "(2) The incorporation document shall,—",
+      ">(a) be in a form as may be prescribed by the Commission through regulations;",
+      ">(b) state the name of the limited liability partnership;",
+      ">(c) state general nature of its main business and any other incidental or ancillary object thereto, which it proposes to carry on as a limited liability partnership;",
+      ">(d) state the province or the part of the Pakistan not forming part of a province, as the case may be in which the registered office is to be situated;",
+      ">(e) state the name and residential address of each of the persons who are to be partners of the limited liability partnership on incorporation;",
+      ">(f) either specify which of those persons are to be designated partners or state that every person who from time to time is a partner of the limited liability partnership is designated partner on incorporation;",
+      ">(g) state that the liability of its partners shall be limited; and",
+      ">(h) contain such other information concerning the proposed limited liability partnership as may be prescribed by the Commission through regulations.",
+      "(3) A person, who makes a statement or provides any information under sub-section (1) and sub-section (2) which he,—",
+      ">(a) knows to be false; or",
+      ">(b) does not believe to be true,",
+      "commits an offence for which he shall be punishable with imprisonment for a term which may extend to two years and with fine which may extend to one million rupees."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Provision related to name",
+     "page": 10,
+     "text": [
+      "(1) Every limited liability partnership shall have the acronym “LLP” as the last letters of its name.",
+      "(2) No limited liability partnership shall be registered by a name which, in opinion of the Registrar, is,—",
+      ">(a) undesirable, inappropriate or deceptive or is designed to exploit or offend religious susceptibilities of the people; and",
+      ">(b) identical to that of any limited liability partnership or body corporate or company or so nearly resembling that name as to be calculated to deceive.",
+      "(3) Except with prior approval of the Commission in writing, no limited liability partnership shall be registered by a name which contains any words suggesting or calculated to suggest,—",
+      ">(a) the patronage of any past or present Pakistani or foreign head of State;",
+      ">(b) any connection with the Federal Government or a Provincial Government or any department or authority of any such Government;",
+      ">(c) any connection with any corporation set up by or under any Federal or Provincial law; or",
+      ">(d) the patronage of, or any connection with, any foreign government or any international organization.",
+      "(4) Whenever a question arises as to whether or not the name of a limited liability partnership is in violation of the foregoing provisions of this section, decision of the Commission thereon shall be final.",
+      "(5) Every limited liability partnership shall paint or affix and keep painted or affixed, its name, in a conspicuous position, on outside of every office or place in which its business is carried on in letters easily legible and in English or Urdu characters, and also, if the registered office is situated in a place beyond local limits of ordinary original civil jurisdiction of a High Court, in the characters of one of the vernacular languages used in that place.",
+      "(6) If a limited liability partnership does not paint or affix and keep painted or affixed, its name in a manner directed by this Act, it shall be liable to a fine which may extend to ten thousand rupees for every day during which its name is not so kept painted or affixed and every designated partner of the limited liability partnership who knowingly and wilfully authorizes or permits the default shall be liable to the like penalty.",
+      "(7) Without prejudice to the generality of the foregoing, the Commission may through regulations prescribe for provisions relating to,—",
+      ">(a) reservation of name of limited liability partnership;",
+      ">(b) rectification of name of limited liability partnership;",
+      ">(c) change of name of limited liability partnership;",
+      ">(d) publication of name and statement with respect to limited liability; and",
+      ">(e) fee to be prescribed for any ancillary matter."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Registration of incorporation document",
+     "page": 11,
+     "text": [
+      "(1) When the requirements imposed by clauses (b) and (c) of sub-section (1) of section 5 have been complied with, the Registrar shall retain the incorporation document and, unless the requirement imposed by clause (a) of that sub-section has not been complied with, he shall,—",
+      ">(a) register the incorporation document; and",
+      ">(b) give a certificate that the limited liability partnership is registered by the name",
+      "specified in the incorporation document.",
+      "(2) The Registrar may accept the statement delivered under clause (d) of sub-section (1) of section 5 as sufficient evidence that the requirement imposed by clause (a) of that sub-section has been complied with.",
+      "(3) The certificate issued under clause (b) of sub-section (1) shall be signed by the Registrar and authenticated by his official seal.",
+      "(4) The certificate shall be conclusive evidence that the limited liability partnership is registered by the name specified in the incorporation document.",
+      "(5) Notwithstanding any provision of this Act or any other law for the time being in force, the Registrar shall refuse to register the incorporation document where he has reasons to believe that the proposed business,—",
+      ">(a) is undesirable or unlawful; or",
+      ">(b) is deceptive; or",
+      ">(c) would be contrary to the national security or interest for the limited liability partnership to be registered."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part IV — Partners, Partnership And Their Relations",
+   "sections": [
+    {
+     "no": "8",
+     "title": "Partners",
+     "page": 12,
+     "text": [
+      "(1) Any individual or body corporate or company may become a partner in a limited liability partnership:",
+      "Provided that an individual shall not be capable of becoming a partner of a limited liability partnership, if,—",
+      ">(a) he has been found, to be of unsound mind by a court of competent jurisdiction and the finding is in force; or",
+      ">(b) he is an undischarged insolvent; or",
+      ">(c) he has applied to be adjudicated as an insolvent and his application is pending.",
+      "(2) On the incorporation of a limited liability partnership, the persons who subscribed their names to the incorporation document shall be its partners and any other person may become a partner of the limited liability partnership by and in accordance with the limited liability partnership agreement {fn:12-1}[:]",
+      "{fn:12-1}[Provided that a limited liability partnership shall obtain, maintain and timely update particulars of ultimate beneficial owner, including any change therein, of any person who is a partner in limited liability partnership in such form, manner and submit such declaration to the registrar as may be specified.",
+      "Explanation.—For the purpose of this section the term ‘ultimate beneficial owner’ means a natural person who ultimately and effectively owns or controls a limited liability partnership through direct or indirect rights or who shares at least one fourth of the net profits and losses of the partnership.]",
+      "{fn:12-1}[(3) Any contravention or default in complying with requirement of this section shall be an offence liable in case of,—",
+      ">(a) a partner, designated partner or officer, to a fine which may extend to one million rupees; and",
+      ">(b) the limited liability partnership, to a fine which may extend to ten million rupees.]"
+     ],
+     "fn": [
+      {
+       "n": "12-1",
+       "text": "Subs. and added by the Limited Liability Partnership (Amendment) Act, 2020 (XXVI of 2020), s. 2."
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Minimum number of partners",
+     "page": 13,
+     "text": [
+      "(1) Every limited liability partnership shall have at least two partners.",
+      "(2) If at any time the number of partners of a limited liability partnership is reduced below two and the limited liability partnership carries on business for more than six months or such other period as may be prescribed while the number is so reduced, the person who is the only partner of the limited liability partnership during the time that it so carries on business after those six months or such other period as may be prescribed and has the knowledge of the fact that it is carrying on business with him alone, he shall be liable personally for the obligations of the limited liability partnership incurred during that period.",
+      "(3) A person may cease to be a partner of a limited liability partnership,—",
+      ">(a) in the event of his death;",
+      ">(b) in the event of dissolution of limited liability partnership; and",
+      ">(c) in accordance with an agreement with other partners or, in the absence of agreement with the other partners as to cessation of partnership, by giving reasonable notice to the other partners.",
+      "(4) Every partner of a limited liability partnership is its agent subject to its agreement."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Designated partners",
+     "page": 13,
+     "text": [
+      "(1) Every limited liability partnership shall have at least one designated partner who,—",
+      ">(a) is an individual; and",
+      ">(b) a resident in Pakistan:",
+      "Provided that in case of a limited liability partnership in which all the partners are bodies corporate, or in which one or more partners are individuals and bodies corporate, at least two individuals who are partners of such limited liability partnership or nominees of such bodies corporate shall act as designated partners and one of the nominees or partners, as the case may be, shall be a resident in Pakistan.",
+      "Explanation.—For the purpose of this section, “resident in Pakistan” means a person who has stayed in Pakistan for a period of not less than six months during the immediately preceding one year.",
+      "(2) Subject to the provisions of sub-section (1), if the incorporation document,—",
+      ">(a) specifies who are to be designated partners such persons shall be designated partners on incorporation; and",
+      ">(b) states that each of the partners from time to time of the limited liability partnership is to be a designated partner, every such partner shall be a designated partner.",
+      "(3) Subject to the provisions of sub-section (1), any partner may become a designated partner by and in accordance with an agreement with the other partners and a partner may cease to be a designated partner in accordance with an agreement with other partners.",
+      "(4) Subject to the provisions of this section, a limited liability partnership shall appoint a designated partner within thirty days of a vacancy arising for any reason:",
+      "Provided that if no designated partner is appointed, each partner shall be deemed to be a designated partner.",
+      "(5) An individual shall not become a designated partner in a limited liability partnership unless he has given his prior consent to act as such to the limited liability partnership in such form and manner as may be prescribed by the Commission through regulations.",
+      "(6) Every limited liability partnership shall ensure that the particulars of every individual who agrees to act as a designated partner of the limited liability partnership and his consent to act as such are within thirty days of the appointment of the designated partner filed with the Registrar in such form and manner as may be prescribed by the Commission through regulations.",
+      "(7) An individual eligible to be designated partner shall satisfy such conditions and requirements as may be prescribed by the Commission through regulations.",
+      "(8) A person ceases to be a designated partner if he, or the body corporate or company for which he is a nominee, ceases to be a partner in the limited liability partnership.",
+      "(9) Unless expressly provided otherwise in this Act, a designated partner shall be responsible for the doing of all acts, matters and things as are required to be done by the limited liability partnership in respect to compliance of the provisions of this act including filing any document, return, statement and the like report pursuant of the provisions of this act and as may be specified in the limited liability partnership agreement."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Joint liability",
+     "page": 14,
+     "text": [
+      "If the limited liability partnership contravenes the provisions of sections 8, 9 and 10, the limited liability partnership and every designated partner commits an offence and shall be punishable with fine which may extend to one million rupees."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Relationship of partners",
+     "page": 14,
+     "text": [
+      "(1) Save as otherwise provided by this Act, the mutual rights and duties of the partners of a limited liability partnership, and the mutual rights and duties of a limited liability partnership and its partners, shall be governed by the limited liability partnership agreement between the partners.",
+      "(2) The limited liability partnership agreement and any changes made therein shall be filed with the Registrar in the form and manner, accompanied by such fee, as may be prescribed by the Commission through regulations.",
+      "(3) An agreement in writing made before the incorporation of a limited liability partnership between the persons who subscribe their names to the incorporation document may impose obligations on the limited liability partnership, provided such agreement is ratified by all the partners after the incorporation of the limited liability partnership.",
+      "Explanation.—Any reference to a resolution of partners for a particular matter is a reference to a resolution passed by all or such number of partners as may be required by the limited liability partnership agreement for that matter.",
+      "(4) In absence of agreement as to any matter, the mutual rights and duties of the partners and the mutual rights and duties of the limited liability partnership and the partners shall be determined by the provisions relating to that matter as are set out in the First Schedule."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Cessation of partnership interest",
+     "page": 15,
+     "text": [
+      "(1) A person may cease to be a partner of a limited liability partnership in accordance with an agreement with the other partners or, in absence of the agreement with the other partners as to cessation of being a partner, by giving a notice of not less than thirty days to the other partners of his intention to cease as partner:",
+      "Provided that a notice in writing to this effect shall be delivered by the limited liability partnership to the Registrar.",
+      "(2) A person may also cease to be a partner of a limited liability partnership by his death or by dissolution of the limited liability partnership.",
+      "(3) Where a person has ceased to be a partner of a limited liability partnership, hereinafter referred to as “former partner”, the former partner is to be regarded (in relation to any person dealing with the limited liability partnership) as still being a partner of the limited liability partnership unless,__",
+      ">(a) the person has notice that the former partner has ceased to be a partner of the limited liability partnership; or",
+      ">(b) notice, that the former partner has ceased to be a partner of the limited liability partnership, has been delivered to the Registrar.",
+      "(4) The cessation of a partner from the limited liability partnership does not by itself discharge the partner from any obligation to the limited liability partnership or to the other partners or to any other person which he incurred while being a partner.",
+      "(5) Where a partner of a limited liability partnership ceases to be a partner, unless otherwise provided in the limited liability partnership agreement, the former partner or a person entitled to his share in consequence of the death or insolvency of the former partner, shall be entitled to receive from the limited liability partnership an amount,—",
+      ">(a) equal to the capital contribution of the former partner actually made to the limited liability partnership; and",
+      ">(b) his right to share in the accumulated profits of the limited liability partnership after the deduction of losses of the limited liability partnership determined as at the date the former partner ceased to be a partner.",
+      "(6) A former partner or a person entitled to his share in consequence of death or insolvency of the former partner shall not have any right to interfere in the management of the limited liability partnership.",
+      "(7) Any former partner or the former partner's personal representative or liquidator who fails to comply with sub-section (6) commits an offence."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Registration of changes in partners",
+     "page": 16,
+     "text": [
+      "(1) A limited liability partnership shall ensure that,—",
+      ">(a) where a person becomes or ceases to be a partner or designated, notice is filed with the Registrar within fifteen days from the date he becomes or ceases to be a partner; and",
+      ">(b) where there is any change in the name or address of a partner, notice is filed with the Registrar within fifteen days of such change in respect of designated partner:",
+      "Provided that where all the partners of a limited liability partnership are, from time to time, designated partners notice under clause (a) will not be required.",
+      "(2) A notice filed with the Registrar under sub-section (1),—",
+      ">(a) shall be in such form and accompanied by such fee as may be prescribed by the Commission through regulations;",
+      ">(b) shall be signed by the designated partner of the limited liability partnership and authenticated in a manner as may be prescribed by the Commission through regulations; and",
+      ">(c) if it relates to admission of a partner, shall contain a statement by the incoming partner that he consents to becoming a partner, signed by him and authenticated in a manner as may be prescribed by the Commission through regulations.",
+      "(3) If the limited liability partnership contravenes the provisions of sub-section (1), the limited liability partnership and every designated partner of the limited liability partnership shall be punishable with fine which may extend to one million rupees.",
+      "(4) Any person who ceases to be a partner of a limited liability partnership may himself file with the Registrar the notice referred to in sub-section (2) if he has reasonable cause to believe that the limited liability partnership may not file the notice with the Registrar and in case of any such statement filed by a partner, the Registrar shall obtain a confirmation to this effect from the limited liability partnership unless the limited liability partnership has also filed such notice."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part V — Extent Of Liability",
+   "sections": [
+    {
+     "no": "15",
+     "title": "Extent of liability of limited liability partnership",
+     "page": 16,
+     "text": [
+      "(1) A limited liability partnership is not bound by anything done by a partner in dealing with a person, if,—",
+      ">(a) the partner in fact has no authority to act for the limited liability partnership in doing a particular act; and",
+      ">(b) the person knows that he has no authority or does not know or believe him to be a partner of the limited liability partnership.",
+      "(2) A limited liability partnership is liable if a partner of the limited liability partnership is liable to any person as a result of a wrongful act or omission on his part in the course of business of the limited liability partnership or with its authority.",
+      "(3) An obligation of a limited liability partnership, whether arising in contract or otherwise, is solely obligation of the limited liability partnership.",
+      "(4) The liabilities of a limited liability partnership shall be met out of the property of the limited liability partnership."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Extent of liability of a partner",
+     "page": 17,
+     "text": [
+      "(1) A partner is not personally liable, directly or indirectly, for an obligation referred to in sub-section (3) of section 15 solely by reason of being a partner of the limited liability partnership.",
+      "(2) The provisions of sub-section (3) of section 15 and sub-section (l) of this section shall not affect the personal liability of a partner for his own wrongful act or omission, but a partner shall not be personally liable for the wrongful act or omission of any other partner of the limited liability partnership."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Unlimited liability in case of fraud",
+     "page": 17,
+     "text": [
+      "(1) In the event of an act carried out by a limited liability partnership or any of its partners with intent to defraud creditors of the limited liability partnership or any other person or for any fraudulent purpose, the liability of the limited liability partnership and partners who acted with intent to defraud creditors or for any fraudulent purpose shall be unlimited for all or any of the debts or other liabilities of the limited liability partnership:",
+      "Provided that in case any such act is carried out by a partner, the limited liability partnership is liable to the same extent as the partner unless it is established by the limited liability partnership that such act was without the knowledge or the authority of the limited liability partnership.",
+      "(2) Where any business is carried on with such intent or for such purpose as mentioned in sub- section (1), every person who was knowingly a party to the carrying on of the business in the manner aforesaid shall be punishable with imprisonment for a term which may extend to two years and with fine which may extend to two million rupees."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part VI — Contributions",
+   "sections": [
+    {
+     "no": "18",
+     "title": "Form of contribution",
+     "page": 17,
+     "text": [
+      "(1) The form and value of contribution to the partnership of a partner, if any, will be decided mutually by the partners and may consist of moneys, negotiable instruments, properties including valuable rights, intangibles, knowledge and skills, etc. which the partners deem to add value to partnership.",
+      "(2) The monetary value of contribution of partners representing intangible properties including valuable rights, intangibles, knowledge and skills etc. may be accounted for and disclosed in the accounts of the limited liability partnership which can be valued reliably and can be legally enforced, subject to the conditions as may be prescribed by the Commission through regulations."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Liability for contribution",
+     "page": 18,
+     "text": [
+      "(1) The obligation of a partner to contribute money or other property or other benefit, whether tangible or intangible, or to perform services for a limited liability partnership shall be as per the limited liability partnership agreement.",
+      "(2) A creditor of a limited liability partnership, which extends credit or otherwise acts in reliance on an obligation described in that agreement, without notice of any compromise between partners, may enforce the original obligation against such partner."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part VII — Financial Disclosures",
+   "sections": [
+    {
+     "no": "20",
+     "title": "Maintenance of books of accounts, other records and audit, etc",
+     "page": 18,
+     "text": [
+      "(1) The limited liability partnership shall maintain such proper books of accounts as may be prescribed by the Commission through regulations relating to its affairs for each year of its existence on accrual basis and according to double entry system of accounting and shall maintain the same at its registered office for such period as may be prescribed through such regulations.",
+      "(2) Every limited liability partnership shall, within a period of four months from the end of each financial year, prepare a statement of accounts for the said financial year as at the last day of the said financial year and the designated partners of the limited liability partnership shall put their signature on such statement evidencing their acceptance thereof.",
+      "(3) The Commission may, through notification in the official Gazette, specify such class or classes of limited liability partnerships who shall file the statement of accounts prepared pursuant to sub-section (2) with the Registrar every year in such form and manner and accompanied by such fee as may be prescribed by the Commission through regulations.",
+      "(4) The statement of accounts of limited liability partnerships shall be audited in accordance with the regulations as may be prescribed by the Commission:",
+      "Provided that the Commission may, by notification, exempt any class or classes of limited liability partnerships from the requirements of this sub-section.",
+      "(5) A person shall not be qualified to be the auditor of a limited liability partnership unless he is a chartered accountant.",
+      "(6) Any limited liability partnership which fails to comply with the provisions of this section, unless otherwise provided, shall be punishable with fine which may extend to two million rupees and the designated partners of such limited liability partnership shall be punishable with fine which may extend to one million rupees."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Inspection of documents kept by Registrar",
+     "page": 18,
+     "text": [
+      "The incorporation document, names of partners and changes, if any, made therein and any other documents filed by the limited liability partnership from time to time, shall be available for inspection in office of the Registrar by any person during business hours and in such manner and on payment of such fees as may be prescribed by the Commission through regulations."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Penalty for false statement",
+     "page": 19,
+     "text": [
+      "If in any return, statement or other document required by or for the purposes of any of the provisions of this Act, any person makes a statement,—",
+      ">(a) which is false in any material particular, knowing it to be false; or",
+      ">(b) which omits any material fact knowing it to be material,",
+      "he shall, save as otherwise expressly provided in this Act, be punishable with imprisonment for a term which may extend to two years or with a fine which may extend to two million rupees or with both."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Filing and registration of documents",
+     "page": 19,
+     "text": [
+      "(1) Where in opinion of the Registrar, any document required or authorized by or under this Act to be filed or registered with the Registrar,___",
+      ">(a) does not comply with the requirements of law, or any regulations made by the Commission; or",
+      ">(b) is not complete owing to any defect, error or omission; or",
+      ">(c) is insufficiently legible or is written upon paper which is not durable; or",
+      ">(d) is not properly authenticated; or",
+      ">(e) is not in the prescribed form, if any,",
+      "the Registrar may refuse to accept the document for filing or registration and direct the limited liability partnership to file a revised document in the form and within the period to be specified through order:",
+      "Provided that the limited liability partnership may appropriately amend or complete and resubmit the document again or submit a fresh document in its place.",
+      "(2) If the document is filed or registered and its contents are detected to be defective, false, forged or not capable of rectification, the Registrar may, through order in writing, return or cancel the registration of the document.",
+      "(3) If the Registrar returns or cancels the registration of document under sub-section (2), the same shall not be deemed to be delivered in accordance with the provisions of this Act.",
+      "(4) The registration or filing of document with the Registrar does not affect or create a presumption as to the validity or invalidity of the document or the correctness or otherwise of the information contained in it."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part VIII — Assignment And Transfer Of Partnership Rights",
+   "sections": [
+    {
+     "no": "24",
+     "title": "Partner's transferable interest",
+     "page": 19,
+     "text": [
+      "(1) The rights of a partner to a share of the profits and losses of the limited liability partnership and to receive distributions in accordance with the limited liability partnership agreement are transferable either wholly or in part and such change shall be communicated to the Registrar within seven days.",
+      "(2) The transfer of any right by any partner pursuant to sub-section (1) does not by itself cause the disassociation of the partner or a dissolution and winding up of the limited liability partnership.",
+      "(3) The transfer of right pursuant to this section does not, by itself, entitle the transferee or assignee to participate in the management or conduct of the activities of the limited liability partnership or access information concerning the transactions of the limited liability partnership."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part IX — Conversion To Limited Liability Partnership",
+   "sections": [
+    {
+     "no": "25",
+     "title": "Conversion from firm to limited liability partnership",
+     "page": 20,
+     "text": [
+      "The provisions of the Second Schedule shall apply to the conversion from firm to a limited liability partnership."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Conversion from private limited company to limited liability partnership",
+     "page": 20,
+     "text": [
+      "The provisions of the Third Schedule shall apply to the conversion from private limited company to a limited liability partnership."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part X — Foreign Limited Liability Partnership",
+   "sections": [
+    {
+     "no": "27",
+     "title": "Foreign limited liability partnership",
+     "page": 20,
+     "text": [
+      "(1) Foreign limited liability partnership shall not carry on business in Pakistan unless it is registered as a foreign limited liability partnership as may be prescribed.",
+      "(2) The Federal Government shall make rules in relation to establishment of place of business by foreign limited liability partnership within Pakistan and carrying on their business or through notification in the official Gazette direct that any provisions of the Ordinance specified in such notification shall apply to any foreign limited liability partnership, with such exception, modification and adaptation as may be specified in the notification.",
+      "(3) In all other respects, the provisions of this Act shall apply to a foreign limited liability partnership."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part XI — Compromise, Arrangement Or Reconstruction Of Limited Liability Partnerships",
+   "sections": [
+    {
+     "no": "28",
+     "title": "Compromise, arrangement or reconstruction of limited liability partnerships",
+     "page": 20,
+     "text": [
+      "(1) The Federal Government shall make rules in relation to compromise, arrangement or reconstruction of limited liability partnership or through notification in the official Gazette direct that any provisions of the Ordinance specified in such notification shall apply to any scheme of compromise, arrangement or reconstruction of limited liability partnerships with such exception, modification and adaptation as may be specified in the notification.",
+      "(2) In all other respects, the provisions of this Act shall apply to compromise, arrangement or reconstruction under sub-section (1)."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part XII — Winding Up And Dissolution",
+   "sections": [
+    {
+     "no": "29",
+     "title": "Winding up",
+     "page": 21,
+     "text": [
+      "The winding up of a limited liability partnership may be either voluntary or by the Court."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Circumstances in which limited liability partnership may be wound up by Court",
+     "page": 21,
+     "text": [
+      "A limited liability partnership may be wound up by the Court,—",
+      ">(a) if the limited liability partnership decides that limited liability partnership be wound up by the Court;",
+      ">(b) if the number of partners of the limited liability partnership is reduced below two;",
+      ">(c) if the limited liability partnership is unable to pay its debts;",
+      ">(d) if the limited liability partnership has acted against the interests of the sovereignty, or integrity of Pakistan, the security of the State or public order;",
+      ">(e) if the limited liability partnership has made a default in filing with the Registrar the statement of accounts for any five consecutive financial years;",
+      ">(f) if the limited liability partnership has been conceived or brought forth or is or has been carrying on unlawful or fraudulent activities; or",
+      ">(g) if the Court is of the opinion that it is just and equitable that the limited liability partnership be wound up."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Procedure for winding up",
+     "page": 21,
+     "text": [
+      "(1) The Federal Government shall make rules in relation to winding up and dissolution of limited liability partnerships or through notification in the official Gazette direct that any provisions of the Ordinance specified in such notification shall apply to any winding up and dissolution proceedings of limited liability partnerships with such exception, modification and adaptation as may be specified in the notification.",
+      "(2) In all other respects, the provisions of this Act shall apply to the procedure for winding up."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part XIII — Miscellaneous",
+   "sections": [
+    {
+     "no": "32",
+     "title": "Non-applicability of Act IX of 1932",
+     "page": 21,
+     "text": [
+      "Save as otherwise provided by this Act, the provisions of the Partnership Act, 1932 (IX of 1932) shall not apply to a limited liability partnership."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Business transactions of partner with limited liability partnership",
+     "page": 22,
+     "text": [
+      "A partner may lend money to and transact other business with the limited liability partnership as may be prescribed and shall have the same rights and obligations with respect to the loan or other transactions as a person who is not a partner."
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Application of company law",
+     "page": 22,
+     "text": [
+      "The Federal Government may, by notification in the official Gazette, direct that any of the provisions of the Ordinance specified in the notification,—",
+      ">(a) shall apply to any limited liability partnership; or",
+      ">(b) shall apply to any limited liability partnership with such exception, modification and adaptation as may be specified in the notification."
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Electronic filing of documents",
+     "page": 22,
+     "text": [
+      "(1) Any document required to be filed or registered under this Act may be filed or registered in such manner and subject to such conditions as may be prescribed by the Commission through regulations.",
+      "(2) A copy of or an extract from any document electronically filed with or submitted to the Registrar which is supplied or issued by the Registrar and certified in such manner as may be prescribed by the Commission through regulations to be a true copy of or extract from such document shall, in any proceedings, be admissible in evidence as of equal validity with the original document.",
+      "(3) Any information supplied by the Registrar that is certified by the Registrar in such manner as may be prescribed by the Commission through regulations to be a true extract from any document filed or filed with or submitted to the Registrar shall, in any proceedings, be admissible in evidence and be presumed, unless evidence to the contrary is adduced, to be a true extract from such document."
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Payment of default fee",
+     "page": 22,
+     "text": [
+      "Subject to the provisions of this Act, if any document or return required to be filed or registered under this Act with the Registrar, is not filed or registered in time and is allowed to be filed or registered after that time, then, without prejudice to any other action or liability under this Act, such document or return may be filed or registered with the Registrar on payment of a default fee of five thousand rupees for every day of such delay in addition to any fee as is payable for filing of such document or return, as the case may be."
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Power of Registrar to strike defunct limited liability partnership off register",
+     "page": 22,
+     "text": [
+      "Where the Registrar has reasonable cause to believe that a limited liability partnership is not carrying on business or its operation in accordance with the provisions of this Act, or has failed to comply with any provision of this Act the name of the limited liability partnership may be struck off the register of limited liability partnerships in such manner and following such procedure as may be prescribed by the Commission through regulations:",
+      "Provided that the Commission through regulations may provide for provisions related to voluntary strike off from the register and dormant limited liability partnerships."
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Penalty for improper use of word “limited liability partnership” or “LLP”",
+     "page": 22,
+     "text": [
+      "If any person or persons carry on business under any new name or title of which the word “limited liability partnership” or “LLP” or any contraction or imitation thereof is or are the last word or words, that person or each of those persons shall, unless duly incorporated as limited liability partnership be punishable with fine which may extend to two million rupees."
+     ]
+    },
+    {
+     "no": "39",
+     "title": "General penalties",
+     "page": 23,
+     "text": [
+      "Any person guilty of an offence under this Act for which no punishment is expressly provided shall be liable to a fine which may extend to one million rupees and with a further fine which may extend to ten thousand rupees for every day during which the default continues, after the first day."
+     ]
+    },
+    {
+     "no": "40",
+     "title": "Offences by limited liability partnerships",
+     "page": 23,
+     "text": [
+      "Where an offence under this Act committed by a limited liability partnership is proved,—",
+      ">(a) to have been committed with the consent or connivance of a partner or partners or designated partner or designated partners of the Limited Liability Partnership; or",
+      ">(b) to be attributable to any neglect on the part of the partner or partners or designated partner of that limited liability partnership,",
+      "the partner or partners or designated partner or designated partners of the limited liability partnership, as the case may be, as well as that limited liability partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly."
+     ]
+    },
+    {
+     "no": "41",
+     "title": "Appeal to Appellate Bench",
+     "page": 23,
+     "text": [
+      "Any person aggrieved by an order or decision of Registrar or any Commissioner or officer of the Commission may prefer an appeal to the Appellate Bench and the provisions of section 33 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), shall be applicable in respect of such appeal:",
+      "Provided that such appeal shall be filed within sixty days of the date of the decision and shall be accompanied by such fee as may be notified by the Commission."
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Appointment of Registrar of limited liability partnerships, etc",
+     "page": 23,
+     "text": [
+      "(1) The Commission may,—",
+      ">(a) designate an officer of the Commission to be the Registrar of limited liability partnerships; and",
+      ">(b) from amongst the officers of the Commission, appoint such number of Additional Registrars, Joint Registrars, Deputy Registrars and Assistant Registrars of limited liability partnerships as the Commission considers necessary, for the proper administration of this Act.",
+      "(2) The Registrar shall be responsible generally for the carrying out of the provisions of this Act and for the collection of the fees thereunder and shall pay all amounts so collected into the funds of the Commission.",
+      "(3) The Commission may give to the Registrar such directions as to the exercise of his powers, functions or duties under this Act and the Registrar shall give effect to such directions.",
+      "(4) The Commission may subject to such conditions or restrictions as it deems fit, for the purposes of the administration of this Act delegate to any person all or any of the powers, functions and duties vested in the Registrar or may empower the Registrar to sub-delegate his powers to that person except the power of delegation conferred by this sub-section."
+     ]
+    },
+    {
+     "no": "43",
+     "title": "Power of Registrar to obtain information",
+     "page": 24,
+     "text": [
+      "(1) In order to obtain such information as a Registrar may consider necessary for the purposes of carrying out the provisions of this Act, the Registrar may require any person including any present or former partner or designated partner or employee of a limited liability partnership to answer any question or make any declaration or supply any details or particulars in writing to him within a reasonable period.",
+      "(2) In case any person referred to in sub-section (1) does not answer such question or make such declaration or supply such details or particulars asked for by the Registrar within a reasonable time or time given by the Registrar or when the Registrar is not satisfied with the reply or declaration or details or particulars provided by such person, the Registrar shall have power to summon that person to appear before him to answer such question or make such declaration or supply such details as the case may be.",
+      "(3) Any person who fails to comply with any summons or requisition of the Registrar under this section shall be punishable with a fine which may extend to two million rupees."
+     ]
+    },
+    {
+     "no": "44",
+     "title": "Inspection of books of account by Registrar, etc",
+     "page": 24,
+     "text": [
+      "(1) The books of account and books and papers of every limited liability partnership shall be open to inspection by the Registrar or by any officer authorized by the Commission in this behalf if the Registrar or the Commission considers it necessary so to do.",
+      "(2) It shall be the duty of every partner, officer or other employee of the Limited liability partnership to produce to the person making inspection under sub-section (1) all such books of account and books and papers of the limited liability partnership in his custody or under his control, and to furnish him with any such statement, information or explanation relating to the affairs of the limited liability partnership, as the said person may require of him within such time and at such place as he may specify.",
+      "(3) It shall also be the duty of every partner, officer or other employee of the limited liability partnership to give to the person making inspection under this section all assistance in connection with the inspection which the limited liability partnership may be reasonably expected to give.",
+      "(4) The person making the inspection under this section may, during the course of inspection,—",
+      ">>(i) make or cause to be made copies of books of account and other books and papers; or",
+      ">>(ii) place or cause to be placed by marks of identification thereon in token of the inspection having been made.",
+      "(5) Where an inspection of the books of account and books and papers of the limited liability partnership has been made under this section by the Registrar or an officer authorized by the Commission, such officer shall make a report to the Commission.",
+      "(6) Any officer authorized to make an inspection under this section shall have all the powers that the Registrar have under this Act in relation to the making of inquiries.",
+      "(7) A limited liability partnership or any person commits an offence who,‑",
+      ">(a) fails to produce any book, minute book, register or other document as required by the Registrar under this section; or",
+      ">(b) obstructs, intimidates, distracts, harasses or hinders the Registrar while exercising any of the powers under this section."
+     ]
+    },
+    {
+     "no": "45",
+     "title": "Punishment for default in compliance with provisions of section 44",
+     "page": 25,
+     "text": [
+      "If default is made in complying with the provisions of section 44, every person who is in default shall be punishable with imprisonment for a term which may extend to one year and with fine which shall not be less than one million rupees."
+     ]
+    },
+    {
+     "no": "46",
+     "title": "Investigation of affairs of limited liability partnership",
+     "page": 25,
+     "text": [
+      "(1) The Commission may appoint one or more competent persons as investigators on receipt of a report under sub-section (5) of section 44, to investigate the affairs of any limited liability partnership and to report thereon in such manner as the Commission may direct.",
+      "(2) A person appointed as inspector under this section, for the purposes of his investigation, have the same powers as are vested in a court under the Code of Civil Procedure, 1908 (Act V of 1908), while trying a suit, in respect of the following matters, namely:—",
+      ">(a) enforcing the attendance of persons and examine them on oath or affirmation;",
+      ">(b) compelling the discovery and production of books and papers and any material objects; and",
+      ">(c) issuing commissions for the examination of witnesses;",
+      "and every proceeding before such person shall be deemed to be judicial proceeding within the meaning of sections 193 and 228 of the Pakistan Penal Code, 1860 (Act XLV of 1860).",
+      "(3) Any contravention of or non-compliance with any orders, directions or requirement of the inspector exercising powers of a court under sub-section (2) shall, in all respects, entail the same liabilities, consequences and penalties as are provided for such contravention, non-compliance or default under the Code of Civil Procedure, 1908 (Act V of 1908) and the Pakistan Penal Code, 1860 (Act XLV of 1860)."
+     ]
+    },
+    {
+     "no": "47",
+     "title": "Penalty to be imposed by the Commission",
+     "page": 25,
+     "text": [
+      "Wherever a penalty is provided for any offence, contravention of or default in complying with, any of the provisions of this Act, rules or regulations made under this Act, such penalty shall be imposed by the Commission after providing a reasonable opportunity of hearing to the party."
+     ]
+    },
+    {
+     "no": "48",
+     "title": "Appeal to the Court",
+     "page": 25,
+     "text": [
+      "(1) Any person aggrieved by the final decision of the Commission may, within sixty days of the decision communicated to him, prefer an appeal to the Court.",
+      "(2) The Court may, on an appeal made to it under sub-section (1), accept, set aside or vary the decision of the Commission or make such other order as the interests of justice require.",
+      "Explanation.—For the purposes of sub-section (1), “final decision of the Commission” means a decision of the Appellate Bench of the Commission under section 33 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997).",
+      "(3) The Court shall, at the stage of admission of the appeal or at any time thereafter on the application of the aggrieved person and after due notice to the Commission, decide by means of a reasoned order whether the appeal is to be admitted in part or in whole depending on the facts and circumstances of the case:",
+      "Provided that the admission of the appeal shall not per se operate as a stay and nor shall any stay be granted therein unless the Commission has been given an opportunity of being heard.",
+      "(4) Notwithstanding anything contained in any other law, the hearing of appeal shall continue day-to-day, unless sufficient cause has been shown by the parties jointly or severally which is beyond the control of the parties, the Court may adjourn the hearing for maximum of two dates and such adjournment shall not be more than fifteen days at any one time or for more than thirty days in all.",
+      "(5) Where on third hearing any party fails to appear and address arguments before the Court the Court shall proceed and decide appeal on merits and it shall be deemed that such party has relinquished its rights to address arguments."
+     ]
+    },
+    {
+     "no": "49",
+     "title": "Recovery of penalties",
+     "page": 26,
+     "text": [
+      "(1) Any penalty imposed by the Commission in exercise of its powers under this Act or any rules or any regulations made under this Act, shall be payable to the Commission and may be recovered by the Commission as a decree for the payment of money. In case the person aggrieved by such order has,___",
+      ">(a) preferred an appeal under section 48 and the Court upheld the final order of the Commission and it will automatically be converted into execution proceeding and no fresh notices need to be issued to appellant; or",
+      ">(b) not preferred an appeal to the Appellate Bench of the Commission under section 33 of the Securities and Exchange Commission of Pakistan Act, 1997 (Act XLII of 1997) and the Court on application of the Commission has confirmed and allowed conversion or initiation of execution proceedings after notices to the parties as deemed appropriate by the Court.",
+      "(2) The Court shall exercise all the powers of executing court as provided in the Code of Civil Procedure, 1908 (Act V of 1908), for the purposes of recovery of penalties:",
+      "Provided that the Court may, for reasons to be recorded, dispense with any procedure in the Code of Civil Procedure, 1908 (Act V of 1908) and follow such procedure as it may deem fit in the circumstances of the case for expeditious disposal.",
+      "(3) The executing Court may attach any immovable property or sale of any movable property, including bank accounts, of the person or company on whom a penalty has been imposed under this Act by the Commission and any transaction or attempt to alienate, transfer, encumber or mortgage such property shall be void, illegal and without any lawful authority.",
+      "(4) All Government departments, authorities, bodies, private entities, housing societies or schemes, by whatever name called, banks and any other concerned entity shall on the orders of the Court be bound to assist the Commission in providing details of moveable or immovable property of judgment debtor."
+     ]
+    },
+    {
+     "no": "50",
+     "title": "Cognizance of offences",
+     "page": 27,
+     "text": [
+      "Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (Act V of 1898), no court shall take cognizance of any offence punishable with imprisonment or fine or both, under this Act except on a complaint, in writing of the facts constituting the offence, by an officer authorized in this behalf by the Commission singed by a commissioner and no court inferior to that of court of sessions shall try any such offence."
+     ]
+    },
+    {
+     "no": "51",
+     "title": "Power of the Federal Government to make rules",
+     "page": 27,
+     "text": [
+      "(1) In addition to the powers conferred by any other section, the Federal Government may, by notification in the official Gazette, make rules,___",
+      ">(a) for all or any of the matters which by this Act are to be or may be made prescribed by the Federal Government;",
+      ">(b) for establishment and regulating the activities of any limited liability partnership or class of limited liability partnerships; and",
+      ">(c) generally for carrying out the purposes of this Act.",
+      "(2) Before making any such rules under sub-section (1), the draft thereof shall be published by the Federal Government in the official Gazette for eliciting public opinion thereon within a period of not less than fourteen days from the date of publication.",
+      "(3) Any rules made under sub-section (1) may provide that a contravention thereof shall be punishable with a fine which may extend to two million rupees and, where the contravention is a continuing one, with a further fine which may extend to ten thousand rupees for every day after the first during which such contravention continues."
+     ]
+    },
+    {
+     "no": "52",
+     "title": "Power to issue directives, circulars, guidelines, etc",
+     "page": 27,
+     "text": [
+      "(1) The Commission may issue such directives, prudential requirements, codes, circulars, guidelines or notifications as may be necessary to carry out the purposes of this Act and the rules and regulations made therein.",
+      "(2) Non-compliance or contravention of directives, prudential requirements, codes, circulars, guidelines, notifications etc. shall be punishable with a fine which may extend to two million rupees and where the contravention is a continuing one, with a further fine which may extend to ten thousand rupees for every day after the first during which such contravention continues."
+     ]
+    },
+    {
+     "no": "53",
+     "title": "Power to make regulations",
+     "page": 27,
+     "text": [
+      "(1) Subject to sub-section (2), the Commission may make such regulations, which shall not be inconsistent with the rules made under this Act and which, may be required to carry out the purposes of this Act.",
+      "(2) Before making any regulations, the draft thereof shall be published by the Commission in the official Gazette for eliciting public opinion thereon within a period of not less than fourteen days from the date of publication.",
+      "(3) Any regulation made under sub-section (1) may provide that a contravention thereof shall be punishable with a fine which may extend to two million rupees and, where the contravention is a continuing one, with a further fine which may extend to ten thousand rupees for every day after the first during which such contravention continues."
+     ]
+    },
+    {
+     "no": "54",
+     "title": "Power of the Commission to alter Schedules",
+     "page": 27,
+     "text": [
+      "The Commission may by notification in the official Gazette, alter or add any entry in the Schedules and such alterations or additions shall have the effect as if enacted in this Act and shall come into force on the date of the notification, unless the notification otherwise directs."
+     ]
+    },
+    {
+     "no": "55",
+     "title": "Power to remove difficulty",
+     "page": 28,
+     "text": [
+      "If any difficulty arises in giving effect to the provisions of this Act, the Federal Government may, by order published in the official Gazette, make such provisions, as may appear to it to be necessary for removing the difficulty.",
+      "THE FIRST SCHEDULE [See Section 12(4)]",
+      "DEFAULT PROVISIONS FOR LIMITED LIABILITY PARTNERSHIPS",
+      "1. The mutual rights and duties of the partners and the mutual rights and duties of the Limited Liability Partnership and its partners shall be determined, subject to the terms of any Limited Liability Partnership Agreement or in the absence of any such agreement, by the provisions in this Schedule.",
+      "2. All the partners of a Limited Liability Partnership are entitled to share equally in the capital, profits and losses of the Limited Liability Partnership. .",
+      "3. The Limited Liability Partnership shall indemnify each partner in respect of payments made and personal liabilities incurred by him,—",
+      ">(a) in the ordinary and proper conduct of the business of the Limited Liability Partnership; or",
+      ">(b) in or about anything necessarily done for the preservation of the business or property of the Limited Liability Partnership.",
+      "4. Every partner may take part in the management of the Limited Liability Partnership.",
+      "5. No partner shall be entitled to remuneration for acting in the business or management of the Limited Liability Partnership.",
+      "6. No person may be introduced as a partner without the consent of all the existing partners.",
+      "7. Any matter or issue relating to the Limited Liability Partnership shall be decided by resolution passed by a majority in number of the partners, and for this purpose, each partner shall have one vote. However, no change may be made in the nature of business of the Limited Liability Partnership without resolution passed by majority of less than three-fourth.",
+      "8. Each partner shall render true accounts and full information of all things affecting the Limited Liability Partnership to any partner or his authorized representatives.",
+      "9. If a partner, without the consent of the Limited Liability Partnership, carries on any business of the same nature as and competing with the Limited Liability Partnership, he must account for and pay over to the Limited Liability Partnership all profits made by him in that business.",
+      "10. Every partner shall account to the Limited Liability Partnership for any benefit derived by him without the consent of the Limited Liability Partnership from any transaction concerning the Limited Liability Partnership, or from any use by him of the property, name or any business connection of the Limited Liability Partnership.",
+      "11. No majority of the partners can expel any partner unless a power to do so has been conferred by express agreement between the partners.",
+      "___________",
+      "THE SECOND SCHEDULE [See section 25]",
+      "CONVERSION FROM FIRM TO LIMITED LIABILITY PARTNERSHIP",
+      "Conversion of firms to limited liability partnership",
+      "1. (1) A firm may convert to a Limited Liability Partnership by complying with the requirements as to the conversion set out in this Schedule.",
+      "(2) Upon such conversion, the partners of the firm shall be bound by the provisions of this Schedule that are applicable to them.",
+      "Explanation.—In this paragraph, “convert”, in relation to a firm converting to a Limited Liability Partnership, means a transfer of the property, assets, interests, rights, privileges, liabilities, obligations and the undertaking of the firm to the Limited Liability Partnership in accordance with the provisions of this Schedule.",
+      "Eligibility for conversion",
+      "2. A firm may apply to convert to a Limited Liability Partnership in accordance with this Schedule if and only if the partners of the Limited Liability Partnership to which the firm is to be converted comprise all the partners of the firm and no one else.",
+      "Statements to be filed",
+      "3. A firm may apply to convert to a Limited Liability Partnership by filing with the Registrar,—",
+      ">(a) a statement signed by all of its partners in such medium and form and accompanied by such fees as the Commission may prescribe, containing the following particulars, namely:—",
+      ">>(i) the name and registration number (if applicable) of the firm; •",
+      ">>(ii) the date on which the firm was registered under the Partnership Act, 1932 (IX of 1932) or any written law (if applicable);",
+      ">>(iii) as of the application date, the firm appears to be able to pay its debts as they become due in the normal course of business; and",
+      ">>(iv) that all of its creditors have agreed with the application to convert to a limited liability partnership; and",
+      ">(b) incorporation document and statement referred to in section 5.",
+      "Registration of Conversion 4. On receiving the documents referred to in paragraph 3, the Registrar shall subject to the provisions of this Act, register the documents and issue a certificate of registration in such form as the Registrar may determine stating that the Limited Liability Partnership is, on and from the date specified in the certificate, registered under this Act.",
+      "Registrar may refuse to register",
+      "5. (1) Nothing in this Schedule shall be construed as to require the Registrar to register any Limited Liability Partnership if he is not satisfied with the particulars or other information furnished under the provisions of this Act..",
+      "(2) The Registrar may, in any particular case, require the documents referred to in paragraph 3 to be verified in such manner as he considers fit.",
+      "Effect of registration",
+      "6. On and from the date of registration specified in the certificate of registration issued under paragraph 4,—",
+      ">(a) there shall be a Limited Liability Partnership by the name specified in the certificate of registration registered under this Act;",
+      ">(b) all movable and immovable property vested in the firm, all assets, interests, rights, privileges, liabilities, obligations relating to the firm and the whole of the undertaking of the firm shall be transferred to and shall vest in the Limited Liability Partnership without further assurance, act or deed; and",
+      ">(c) the firm shall be deemed to be dissolved and if earlier registered under the Partnership Act, 1932 (IX of 1932) removed from the records maintained under that Act.",
+      "Registration in relation to property",
+      "7. If any property to which sub-paragraph (b) of paragraph 6 applies is registered with any authority, the Limited Liability Partnership shall, as soon as practicable after the date of registration, take all necessary steps as required by the relevant authority to notify the authority of the conversion and of the particulars of the Limited Liability Partnership in such medium and form as the authority may specify.",
+      "Pending proceedings",
+      "8. All proceedings by or against the firm which are pending in any Court or before any authority on the date of registration may be continued, completed and enforced by or against the Limited Liability Partnership.",
+      "Continuance of conviction, ruling, order or judgment",
+      "9. Any conviction, ruling, order or judgment of any court, Court or other authority in favour of or against the firm may be enforced by or against the Limited Liability Partnership.",
+      "Existing agreements",
+      "10. Every agreement to which the firm was a party immediately before the date of registration, whether or not of such nature that the rights and liabilities there under could be assigned, shall have effect as from that day as if,—",
+      ">(a) the Limited Liability Partnership were a party to such an agreement instead of the firm; and",
+      ">(b) for any reference to the firm, there were substituted in respect of anything to be done on or after the date of registration a reference to the Limited Liability Partnership.",
+      "Existing contracts etc.",
+      "11. All deeds, contracts, schemes, bonds, agreements, applications, instruments and arrangements subsisting immediately before the date of registration relating to the firm or to which the firm is a party, shall continue in force on and after that date as if they relate to the Limited Liability Partnership and shall be enforceable by or against the Limited Liability Partnership as if the Limited Liability Partnership were named therein or were a party thereto instead of the firm.",
+      "Continuance of employment",
+      "12. Every contract of employment to which paragraphs 10 or 11 applies shall continue to be in force on or after the date of registration as if the Limited Liability Partnership were the employer there under instead of the firm.",
+      "Existing appointment, authority or power",
+      "13. (1) Every appointment of the firm in any role or capacity which is in force immediately before the date of registration shall take effect and operate from that date as if the Limited Liability Partnership were appointed.",
+      "(2) Any authority or power conferred on the firm which is in force immediately before the date of registration shall take effect and operate from that date as if it were conferred on the Limited Liability Partnership.",
+      "Application of paragraphs 6 to 13",
+      "14. The provisions of paragraphs 6 to 13 (both inclusive) shall not apply to any approval, permit or license issued under any written law to the firm which is in force immediately before the date of registration of the Limited Liability Partnership.",
+      "Partner liable for liabilities and obligations of firm before conversion",
+      "15. (1) Notwithstanding anything in paragraphs 6 to 13 (both inclusive), every partner of a firm that has converted to a Limited Liability Partnership shall continue to be personally liable (jointly and severally with the Limited Liability Partnership) for the liabilities and obligations of the firm which were incurred prior to the conversion or which arose from any contract entered into prior to the conversion.",
+      "(2) If any such partner discharges any liability or obligation referred to in sub-paragraph (1), he shall be entitled (subject to any agreement with the Limited Liability Partnership to the contrary) to be fully indemnified by the Limited Liability Partnership in respect of such liability or obligation..",
+      "Notice of conversion in correspondence",
+      "16. (1) The Limited Liability Partnership shall ensure that for a period of twelve months commencing not later than fourteen days after the date of registration, every official correspondence of the Limited Liability Partnership bears the following:",
+      ">(a) statement that it was, as from the date of registration, converted from a firm to a Limited Liability Partnership; and",
+      ">(b) the name and registration number (if applicable) of the firm from which it was converted.",
+      "(2) Any Limited Liability Partnership which contravenes the provisions of sub-paragraph (1) shall be punishable with fine which may extend to one million rupees and with a further fine which may extend to ten thousand rupees for every day after the first day after which the default continues.",
+      "__________",
+      "THE THIRD SCHEDULE [See section 26]",
+      "CONVERSION FROM PRIVATE COMPANY TO LIMITED LIABILITY PARTNERSHIP",
+      "Interpretation",
+      "1. In this Schedule, unless the context otherwise requires,—",
+      ">(a) “company” means a private company as defined in sub-section (7) of section 2 of the Companies Ordinance, 1984 (XLVI1 of 1984); and",
+      ">(b) “convert”, in relation to a private company converting to a Limited Liability Partnership, means a transfer of the property, assets, interests, rights, privileges, liabilities, obligations and the undertaking of the private company to the Limited Liability Partnership in accordance with this Schedule.",
+      "Eligibility for conversion of private companies to Limited Liability Partnership",
+      "2. (1) A company may convert to a Limited Liability Partnership by complying with the requirements as to the conversion set out in this Schedule.",
+      "(2). A company may apply to convert to a Limited Liability Partnership in accordance with this Schedule if and only if,—",
+      ">(a) there is no security interest in its assets subsisting or in force at the time of application; and",
+      ">(b) the partners of the Limited Liability Partnership to which it converts comprise all the shareholders of the company and no one else.",
+      "(3) Upon such conversion, the company, its shareholders, the Limited Liability Partnership to which the company has converted and the partners of that Limited Liability Partnership shall be bound by the provisions of this Schedule that are applicable to them.",
+      "Statement to be filed",
+      "3. A company may apply to convert to a Limited Liability Partnership by filing with the Registrar,—",
+      ">(a) a statement by all its shareholders in such form and manner to be accompanied by such fees as the Commission may prescribe, containing the following particulars, namely:‑",
+      ">>(i) the name and registration number of the company; and",
+      ">>(ii) the date on which the company was incorporated under the Companies Ordinance, 1984 (XLVII of 1984); and",
+      ">(b) incorporation document and statement referred to in section 5.",
+      "Registration of conversion",
+      "4. On receiving the documents referred to in paragraph 3, the Registrar shall, subject to the provisions of this Act and the rules made there under register the documents and issue a certificate of registration in such form as the Commission may prescribe stating that the Limited Liability Partnership is, on and from the date specified in the certificate, registered under this Act.",
+      "Registrar may refuse to register",
+      "5. (1) Nothing in this Schedule shall be construed as to require the Registrar to register any Limited Liability Partnership if he is not satisfied with the particulars or other information furnished under the provisions of this Act.",
+      "(2) The Registrar may, in any particular case, require the documents referred to in paragraph 3 to be verified in such manner as he considers fit.",
+      "Effect of registration",
+      "6. On and from the date of registration specified in the notice of registration issued under paragraph 4,___",
+      ">(a) there shall be a Limited Liability Partnership by the name specified in the certificate of registration registered under this Act;",
+      ">(b) all movable and immovable property vested in the company, all assets, interests, rights, privileges, liabilities, obligations relating to the company and the whole of the undertaking of the company shall be transferred to and shall vest in the Limited Liability Partnership without further assurance, act or deed; and",
+      ">(c) the company shall be deemed to be dissolved and removed from the records of the Registrar of Companies.",
+      "Registration in relation to property",
+      "7. If any property to which clause (b) of paragraph 7 applies is registered with any authority, the Limited Liability Partnership shall as soon as practicable after the date of registration, take all necessary steps as required by the relevant authority to notify the authority of the conversion and of the particulars of the Limited Liability Partnership in such medium and form as the authority may determine.",
+      "Pending proceedings",
+      "8. All proceedings by or against the company which are pending before any court, Court or other authority on the date of registration may be continued, completed and enforced by or against the Limited Liability Partnership.",
+      "Continuance of conviction, ruling, order or judgement",
+      "9.Any conviction, ruling, order or judgment of any court, Court or other authority in favour of or against the company may be enforced by or against the Limited Liability Partnership.",
+      "Existing agreements",
+      "10. Every agreement to which the company was a party immediately before the date of registration, whether or not of such nature that the rights and liabilities there under could be assigned, shall have effect as from that day as if,___",
+      ">(a) the Limited Liability Partnership were a party to such an agreement instead of the company; and",
+      ">(b) for any reference to the company, there were substituted in respect of anything to be done on or after the date of registration a reference to the Limited Liability Partnership.",
+      "Existing contracts, etc.",
+      "11. All deeds, contracts, schemes, bonds, agreements, applications, instruments and arrangements subsisting immediately before the date of registration relating to the company or to which the company is a party shall continue in force on and after that date as if they relate to the Limited Liability Partnership and shall be enforceable by or against the Limited Liability Partnership as if the Limited Liability Partnership were named therein or were a party thereto instead of the company.",
+      "Continuance of employment",
+      "12. Every contract of employment to which paragraph 11 or 12 applies shall continue in force on or after the date of registration as if the Limited Liability Partnership were the employer there under instead of the company.",
+      "Existing appointment, authority or power",
+      "13. (1) Every appointment of the company in any role or capacity which is in force immediately before the date of registration shall take effect and operate from that date as if the Limited Liability Partnership were appointed.",
+      "(2) Any authority or power conferred on the company which is in force immediately before the date of registration shall take effect and operate from that date as if it were conferred on the Limited Liability Partnership.",
+      "Application of paragraphs 7 to 14",
+      "14. The provisions of paragraphs 7 to 14 (both inclusive) shall not apply to any approval, permit or license issued under any written law to the company which is in force immediately before the date of registration of the Limited Liability Partnership.",
+      "Notice of conversion in correspondence",
+      "15. (1) The Limited Liability Partnership shall ensure that for a period of twelve months commencing not later than fourteen days after the date of registration, every official correspondence of the Limited Liability Partnership bears the following, namely:— Shamil Hassan (a) statement that it was, as from the date of registration, converted from a company to a Limited Liability Partnership; and",
+      ">(b) the name and registration number of the company from which it was converted.",
+      "(2) Any Limited Liability Partnership which contravenes the provisions of sub-paragraph (1) shall be punishable with fine which may extend to one million rupees and with a further fine which may extend to ten thousand rupees for every day after the first day after which the default continues.",
+      "Shamil Hassan"
+     ]
+    }
+   ]
+  }
+ ]
+}

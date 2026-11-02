@@ -1,0 +1,507 @@
+{
+ "_about": "Catalogue of the laws, rules and regulations administered by the Securities and Exchange Commission of Pakistan, built from a search engine's index of SECP's website on 1 November 2026 (SECP blocks automated access, so its pages were not opened) and from documents the user saved. Titles, S.R.O. numbers and edition dates are as shown in SECP's listing titles or the saved documents and are to be confirmed. `library` names the instrument's id when its text is in the library; `register` names the Act whose register records it; `saved` means a PDF is in the user's OneDrive folder. Not a complete list yet: directives, circulars, guidelines and orders are not covered.",
+ "checked": "2026-11-01",
+ "categories": [
+  {
+   "id": "acts",
+   "name": "Acts and Ordinances",
+   "items": [
+    {
+     "title": "Companies Act, 2017",
+     "type": "act",
+     "library": "companies-act-2017"
+    },
+    {
+     "title": "Securities and Exchange Commission of Pakistan Act, 1997",
+     "type": "act",
+     "note": "Saved: text PDF updated till 2016. Later amendments to confirm. Section 37 (court for offences) and section 43 (rules) are cited by several instruments in the library.",
+     "saved": true,
+     "library": "secp-act-1997"
+    },
+    {
+     "title": "Securities Act, 2015",
+     "type": "act",
+     "url": "https://www.secp.gov.pk/laws/acts/",
+     "note": "In the library from the scanned Gazette (as enacted): sections listed with headings and links to the scan; text to be read in the PDF until a text edition is obtained.",
+     "saved": true,
+     "library": "securities-act-2015"
+    },
+    {
+     "title": "Central Depositories Act, 1997",
+     "type": "act",
+     "url": "https://www.secp.gov.pk/laws/acts/",
+     "saved": true,
+     "note": "Saved: Gazette of 10 June 1997 as enacted (text and scan). An amended edition is needed for the library.",
+     "library": "central-depositories-act-1997"
+    },
+    {
+     "title": "Futures Market Act, 2016",
+     "type": "act",
+     "url": "https://www.secp.gov.pk/document/futures-market-act-2016/",
+     "saved": true,
+     "note": "Saved: Pakistan Code text (Act No. XIV of 2016) and a scanned copy.",
+     "library": "futures-market-act-2016"
+    },
+    {
+     "title": "Limited Liability Partnership Act, 2017",
+     "type": "act",
+     "url": "https://www.secp.gov.pk/document/limited-liability-partnership-act-2017/",
+     "saved": true,
+     "note": "Saved: Pakistan Code text updated till 15 October 2021 (Act No. XV of 2017) and the Gazette of 3 May 2017.",
+     "library": "llp-act-2017"
+    },
+    {
+     "title": "Corporate Restructuring Companies Act, 2016",
+     "type": "act",
+     "note": "Named in the recital of the CRC Rules, 2019 (saved by the user).",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Insurance Ordinance, 2000",
+     "type": "ordinance",
+     "library": "insurance-ordinance-2000"
+    },
+    {
+     "title": "Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980",
+     "type": "ordinance",
+     "url": "https://www.secp.gov.pk/document/modaraba-companies-modaraba-floatation-control-ordinance-1980/",
+     "saved": true,
+     "note": "Saved: text amended till 2012. Later amendments to confirm.",
+     "library": "modaraba-ordinance-1980"
+    },
+    {
+     "title": "Anti-Money Laundering Act, 2010",
+     "type": "act",
+     "library": "aml-act-2010",
+     "note": "Administered with FMU; SECP regulations under section 6A are in the library."
+    },
+    {
+     "title": "Companies Ordinance, 1984",
+     "type": "ordinance",
+     "url": "https://www.secp.gov.pk/laws/ordinances/",
+     "status": "repealed",
+     "note": "Repealed by the Companies Act, 2017; still listed on SECP's Ordinances page and needed for past periods.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Securities and Exchange Ordinance, 1969",
+     "type": "ordinance",
+     "url": "https://www.secp.gov.pk/laws/ordinances/",
+     "status": "repealed",
+     "note": "Listed on SECP's Ordinances page; replaced by the Securities Act, 2015 (to confirm).",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    }
+   ]
+  },
+  {
+   "id": "corporate",
+   "name": "Corporate: companies and LLPs",
+   "items": [
+    {
+     "title": "Rules, regulations and notifications under the Companies Act, 2017",
+     "type": "register",
+     "register": "companies-act-2017",
+     "note": "About 60 instruments, section by section, in the Companies Act register."
+    },
+    {
+     "title": "Limited Liability Partnership Regulations, 2018",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/limited-liability-partnership-regulation-2018/",
+     "note": "Notified 14 May 2018 under the LLP Act, 2017 (press release); amendments listed.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Corporate Restructuring Companies Rules, 2019",
+     "type": "rules",
+     "number": "S.R.O. 1306(I)/2019 (1 November 2019)",
+     "note": "PDF updated to 20 February 2024 saved by the user; deferred by the user.",
+     "saved": true,
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Companies (Issue of Capital) Rules, 1996",
+     "type": "rules",
+     "number": "S.R.O. 110(I)/96",
+     "note": "Made under the 1984 Ordinance; PDF saved by the user.",
+     "saved": true,
+     "library": "companies-issue-of-capital-rules-1996"
+    }
+   ]
+  },
+  {
+   "id": "capital",
+   "name": "Capital markets",
+   "items": [
+    {
+     "title": "Public Offering Regulations, 2017",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/public-offering-regulations-2017-updated-september-15-2021/",
+     "number": "S.R.O. 296(I)/2017",
+     "register": "companies-act-2017",
+     "saved": true,
+     "library": "public-offering-regulations-2017"
+    },
+    {
+     "title": "Public Offering (Regulated Securities Activities Licensing) Regulations, 2017",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/the-public-offering-regulated-securities-activities-licensing-regulations-2017-updated-till-october-27-2021/",
+     "number": "S.R.O. 295(I)/2017",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Securities Brokers (Licensing and Operations) Regulations, 2016",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/the-securities-brokers-licensing-and-operations-regulations-2016/",
+     "note": "SECP lists an edition updated 29 March 2023.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Securities Exchanges (Licensing and Operations) Regulations, 2016",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/s-r-o-413-i-2023-amendment-to-the-securities-exchanges-licensing-and-operations-regulations-2016/",
+     "note": "Amended by S.R.O. 958(I)/2022 and S.R.O. 413(I)/2023 (listing titles).",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Central Depositories (Licensing and Operations) Regulations, 2016",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/central-depositories-licensing-and-operations-regulations-2016/",
+     "note": "Saved: S.R.O. 120(I)/2016 (15 February 2016), amended to 16 June 2026, made under section 169 of the Securities Act, 2015.",
+     "saved": true,
+     "number": "S.R.O. 120(I)/2016",
+     "library": "central-depositories-regulations-2016"
+    },
+    {
+     "title": "Central Depository Company of Pakistan Regulations (CDC Regulations)",
+     "type": "regulations",
+     "note": "Rules of the Central Depository Company itself, approved by SECP. Saved: master copy updated October 2025 and an Urdu version of March 2025.",
+     "saved": true,
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Clearing Houses (Licensing and Operations) Regulations, 2016",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/clearing-house-licensing-operations-regulations-2016/",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Clearing Houses (Registration and Regulation) Rules, 2005",
+     "type": "rules",
+     "number": "S.R.O. 504(I)/2005 (1 June 2005)",
+     "note": "Made under section 39 of the SECP Act, 1997; PDF saved by the user. Status under the Securities Act, 2015 to confirm.",
+     "saved": true,
+     "library": "clearing-houses-rules-2005"
+    },
+    {
+     "title": "Securities and Futures Advisers (Licensing and Operations) Regulations, 2017",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/securities-and-future-advisers-regulations-2017-update-january-15-2021/",
+     "number": "S.R.O. 274(I)/2017",
+     "note": "Updated edition of 15 January 2021 listed; amended by S.R.O. 742(I)/2023.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Research Analyst Regulations, 2015",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/media-center/press-releases/secp-issues-research-analyst-regulations/",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Credit Rating Companies Regulations, 2016",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/sro-1223-i-2019-amendments-to-the-credit-rating-companies-regulation-2016/",
+     "note": "Amended by S.R.O. 1223(I)/2019.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Debt Securities Trustees Regulations, 2017",
+     "type": "regulations",
+     "number": "S.R.O. 15(I)/2017",
+     "register": "companies-act-2017",
+     "saved": true
+    },
+    {
+     "title": "Share Registrars and Balloters Regulations, 2017",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/sro-16i2017-share-registrars-and-balloters-regulations-2017/",
+     "number": "S.R.O. 16(I)/2017",
+     "register": "companies-act-2017",
+     "saved": true
+    },
+    {
+     "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/listed-companies-substantial-acquisition-of-voting-shares-and-takeovers-regulations-2017-updated-january-24-2024/",
+     "note": "SECP lists an edition updated 24 January 2024.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Reporting and Disclosure (of Shareholding by Directors, Executive Officers and Substantial Shareholders in Listed Companies) Regulations, 2015",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/reporting-and-disclosure-of-shareholding-by-directors-executive-officers-and-substantial-shareholders-in-listed-companies-regulations-2015/",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Securities (Leveraged Markets and Pledging) Rules, 2011",
+     "type": "rules",
+     "url": "https://www.secp.gov.pk/laws/rules/",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Valuers (Registration and Governance) Regulations, 2016",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/sro-348-of-2016-valuers-registration-governance-regulations-2016/",
+     "number": "S.R.O. 348 of 2016 (listing title)",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Centralized Know Your Customer (KYC) Organization Rules, 2017",
+     "type": "rules",
+     "number": "S.R.O. 298(I)/2017 (28 April 2017)",
+     "note": "Made under section 175 of the Securities Act, 2015; scanned PDF saved by the user.",
+     "saved": true,
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    }
+   ]
+  },
+  {
+   "id": "futures",
+   "name": "Futures and commodities",
+   "items": [
+    {
+     "title": "Futures Exchanges (Licensing and Operations) Regulations, 2017",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/s-r-o-1063i-2023-amendments-to-the-future-exchanges-licensing-operations-regulations2017/",
+     "note": "Amended by S.R.O. 1913(I)/2022 and S.R.O. 1063(I)/2023 (listing titles).",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/futures-brokers-licensing-and-operations-regulations-2018-updated-upto-dec-13-2023/",
+     "note": "SECP lists an edition updated to 13 December 2023.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Commodity Exchange and Futures Contracts Rules, 2005",
+     "type": "rules",
+     "url": "https://www.secp.gov.pk/licensing/capital-markets/commodity-exchanges/",
+     "note": "Status under the Futures Market Act, 2016 to confirm.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nbfc",
+   "name": "NBFCs, funds, pensions and modarabas",
+   "items": [
+    {
+     "title": "Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003",
+     "type": "rules",
+     "number": "S.R.O. 310(I)/2003",
+     "note": "Made under section 282B of the 1984 Ordinance; PDF updated to 14 September 2023 saved by the user.",
+     "saved": true,
+     "library": "nbfc-rules-2003"
+    },
+    {
+     "title": "Non-Banking Finance Companies and Notified Entities Regulations, 2008",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/nbfc-and-ne-regulation-2008-updated-as-of-february-22-2024/",
+     "note": "SECP lists an edition updated 22 February 2024.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Private Funds Regulations, 2015",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/licensing/nbfcs/pe-and-vc-fund-management-services/",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Real Estate Investment Trust Regulations, 2022",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/real-estate-investment-trust-regulations-2022/",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Voluntary Pension System Rules, 2005",
+     "type": "rules",
+     "note": "Amended by S.R.O. 298(I)/2024 (22 February 2024), saved by the user.",
+     "saved": true,
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Unit Linked Product and Fund Rules, 2015",
+     "type": "rules",
+     "note": "Named in SECP Circular 29 of 2025 (saved by the user).",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Modaraba Companies and Modaraba Rules, 1981",
+     "type": "rules",
+     "number": "S.R.O. 83(I)/81",
+     "note": "PDF updated to 15 February 2024 saved by the user; deferred by the user.",
+     "saved": true,
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "Modaraba Regulations, 2021",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/the-modaraba-regulations-2021-updated-august-15-2022/",
+     "note": "SECP lists an edition updated 15 August 2022.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    }
+   ]
+  },
+  {
+   "id": "insurance",
+   "name": "Insurance and takaful",
+   "items": [
+    {
+     "title": "Insurance Rules, 2017",
+     "type": "rules",
+     "library": "insurance-rules-2017"
+    },
+    {
+     "title": "Takaful Rules, 2012",
+     "type": "rules",
+     "library": "takaful-rules-2012"
+    },
+    {
+     "title": "Insurance Accounting Regulations, 2017",
+     "type": "regulations",
+     "url": "https://www.secp.gov.pk/document/sro-88-i2017-insurance-accounting-regulations-2017/",
+     "number": "S.R.O. 88(I)/2017",
+     "note": "Draft amendments S.R.O. 1916(I)/2025 listed.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    },
+    {
+     "title": "General Takaful Accounting Regulations",
+     "type": "regulations",
+     "note": "Amended by S.R.O. 311(I)/2025 of 3 March 2025 (search result); year of the regulations to confirm.",
+     "found": {
+      "date": "2026-11-01",
+      "how": "search-index"
+     }
+    }
+   ]
+  },
+  {
+   "id": "shariah",
+   "name": "Shariah and Islamic finance",
+   "items": [
+    {
+     "title": "Shariah Governance Regulations, 2023",
+     "type": "regulations",
+     "library": "shariah-governance-regulations-2023"
+    }
+   ]
+  },
+  {
+   "id": "aml",
+   "name": "AML/CFT",
+   "items": [
+    {
+     "title": "SECP (Anti Money Laundering, Combating the Financing of Terrorism and Countering Proliferation Financing) Regulations, 2020",
+     "type": "regulations",
+     "library": "secp-aml-cft-cpf-regulations-2020"
+    },
+    {
+     "title": "Securities and Exchange Commission of Pakistan (Search and Seizure) Rules, 2019",
+     "type": "rules",
+     "number": "S.R.O. 713(I)/2019 (1 July 2019)",
+     "note": "Made under section 39 of the SECP Act, 1997; PDF saved by the user.",
+     "saved": true,
+     "library": "secp-search-seizure-rules-2019"
+    }
+   ]
+  }
+ ],
+ "intro": "Built on 1 November 2026 from a search engine's index of SECP's website (SECP blocks automated access, so its pages were not opened) and from documents saved from SECP. Titles, S.R.O. numbers and edition dates are as SECP lists them and are still to be confirmed against each instrument. Directives, circulars, guidelines and orders are not listed yet."
+}

@@ -470,6 +470,7 @@
     var inText = document.getElementById('in-text');
     var inNotes = document.getElementById('in-notes');
     var results = document.getElementById('results');
+    var help = document.getElementById('search-help');
     var params = new URLSearchParams(location.search);
     input.value = params.get('q') || '';
     fCat.value = params.get('cat') || '';
@@ -487,6 +488,7 @@
       if (!inText.checked) url.searchParams.set('text', '0');
       if (inNotes.checked) url.searchParams.set('notes', '1');
       history.replaceState(null, '', url);
+      if (help) help.hidden = !!q;
       if (!q) {
         results.innerHTML = '';
         return;

@@ -1,0 +1,780 @@
+{
+ "id": "nbfc-rules-2003",
+ "title": "Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003",
+ "number": "S.R.O. 310(I)/2003",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "NBFC Rules",
+  "NBFC Rules 2003"
+ ],
+ "enacted": "2003-04-01",
+ "lastAmended": "2023-09-14",
+ "amendedUpToLabel": "14 September 2023",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "nbfc-rules-2003.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 14 September 2023. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These rules may be called the Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these Rules, unless there is anything repugnant in the subject or context,",
+      ">>(iii) “asset management services” mean the {fn:1-1}[business of providing services] for management of collective investment schemes;",
+      ">>(iv) “assets” mean properties of all kinds tangible or intangible, including shares, units, certificates, securities, deposits, right and bonus shares, cash, bank balances, profits, dividends, fees, commissions, all receivables, claims, derivatives contract, licences, privileges, accrued or accruing or contingent”;",
+      ">>(v) “associated companies” means associated companies and associated undertakings as defined in sub-section (2) of section 2 of the Ordinance;",
+      ">>(vi) “brokerage business” means the services being provided by a broker registered under the Brokers and Agents Registration Rules, 2001;",
+      ">>(vii) “central depository company” means central depository as defined under the Securities and Exchange Ordinance, 1969 (XVII of 1969);",
+      ">>(ix) “closed-end fund” means {fn:2-2}[ ] a closed-end scheme;",
+      ">>{fn:2-3}[(x) “closed end scheme” means a collective investment scheme having a specified period of maturity which does not continuously offer its certificates for sale to investors and entitles the holder of certificates, to receive, proportionate share of the net assets of the closed end scheme {fn:2-4}[;]",
+      ">>(xi) “close relative” includes spouse, lineal ascendants and descendants and brothers and sisters;",
+      ">>{fn:2-5}[(xii) “collective investment scheme” means any arrangement whose sole purpose is the collective investment of funds in a portfolio of securities, or other financial assets for profits, income or other returns, and where the participants, who have pooled in the funds, do not have any day to day control over the management of the scheme, whether or not they have the right to be consulted or to give direction in respect of such management:",
+      "Provided that the following shall not be considered as a Collective Investment Scheme for the purpose of these rules:-",
+      ">>(i) employee welfare trusts or gratuity trusts or employees provident funds or employees pension funds setup for the benefit of employees by companies; and",
+      ">>(ii) any such pool of funds which is separately regulated by the Commission or which is already established under any specific law;]",
+      "(xiii) “Commission\" means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997(XLII of 1997);",
+      ">>(xiv) “company” means a company as defined under the Companies Ordinance, l984 (XLVII of l984);",
+      ">>(xv) “connected person\" in relation to an NBFC or a {fn:3-6}[notified entity], means,-",
+      ">(a) any person or trust beneficially owning, directly or indirectly, ten percent or more of capital of the NBFC or the {fn:3-7}[notified entity];",
+      ">(b) any person able to exercise, directly or indirectly, ten percent or more of the total voting power in that NBFC or the {fn:3-8}[notified entity];",
+      ">(c) a {fn:3-9}[notified entity] being managed by an NBFC;",
+      ">(d) the NBFC managing a {fn:3-10}[notified entity];",
+      ">{fn:3-11}[(da) notified entities being managed by the same NBFC;]",
+      ">(e) a trustee or custodian of the {fn:3-12}[notified entity];",
+      ">(f) any person or trust controlled by a person who or which meets the descriptions given in sub-clause (a) to (e);",
+      ">(g) any member of the group of which that person, or trust forms part; and",
+      ">(h) any director or officer of that NBFC {fn:3-13}[ ] or of any of their connected persons as specified in sub-clauses (a) to (g); {fn:3-14}[ ]",
+      "(xvii) “custodian” includes a bank licensed under the Banking Companies Ordinance, 1962 (LVII of 1962) or a trust company which is a subsidiary of such bank or a central depository company approved by the Commission or an NBFC carrying out investment finance services provided it has been approved by the Commission to act as custodian or such other company as may be approved by the Commission to act as custodian;",
+      "{fn:3-15}[(xviia) “discounting services” means the business of discounting of financial instruments on conventional or Islamic basis;]",
+      "{fn:4-16}[(xviib) “deposit” means any deposit of money with, or any money borrowed or raised by an NBFC, but shall not include,-",
+      ">(a) redeemable capital issued under section 120 of the Ordinance;",
+      ">(b) finance obtained from a financial institution;",
+      ">(c) advance, application or subscription money for shares in the NBFC;",
+      ">(d) cash margin or security deposit received in respect of finance provided by NBFC;",
+      ">(e) subordinated loans; and",
+      ">(f) finance obtained from major shareholders, sponsors, and associated companies:",
+      "Provided that the Commission shall be the final authority to determine, by an order in writing, whether any money deposited, raised or borrowed falls under the definition of deposit or otherwise;]",
+      ">>{fn:4-17}[(xix) “equity” includes paid up ordinary share capital, preference shares which are compulsorily convertible into ordinary shares, general reserves, statutory reserves, balance in share premium account, reserve for issue of bonus shares, subordinated loans and unappropriated profits, excluding accumulated losses.",
+      "Explanation.-",
+      ">>(i) Surplus on revaluation of fixed assets as described in section 235 of the Ordinance, treasury stocks, intangible assets, deferred tax reserves, and surplus on revaluation of investments shall not be included in the equity.",
+      ">>(ii) A loan may be classified as subordinated loan if it complies with the following conditions:-",
+      ">(a) subordinated loan can be raised from any person, preferably from the sponsors;",
+      ">(b) rate of profit on subordinated loan, if any shall be decided by NBFC subject to the clearance of the Commission;",
+      ">(c) neither the interest nor the principal shall be paid even at maturity if such payment would result in non-compliance with the equity or capital adequacy requirements;",
+      ">(d) subordinated loan shall be un-secured and sub-ordinate to all other indebtedness including deposits;",
+      ">(e) subordinated loan shall be in the form of cash or liquid assets only;",
+      ">(f) auditor certificate evidencing injection of funds into NBFC as subordinated loan;",
+      ">(g) minimum tenor of subordinated loan shall be specifically mentioned; and",
+      ">(h) prior approval of the Commission is required for repayment of subordinated loan.",
+      ">>(iii) For the purpose of calculating minimum equity requirements for licensing purposes, the exposure of an NBFC in its subsidiaries and strategic investments shall be deducted from equity:",
+      "Provided that the equity investment in subsidiary and strategic investment shall be taken at cost.;]",
+      ">>{fn:5-18}[(xx) “finance\" means provision of,-",
+      ">(i) any accommodation or facility on the basis of participation in profit and loss, musharika or modaraba basis, mark-up or mark-down in price, hirepurchase, lease, rent-sharing, bills of exchange, promissory notes or other instruments with or without buy-back arrangement by a seller, participation term certificate, musharika or modaraba certificate, term finance certificate;",
+      ">>(ii) guarantees, indemnities, letters of credit or any other financial engagement, issued or undertaken on behalf of a person, with a corresponding obligation of that person;",
+      ">>(iii) a loan, advance, discounting services to any person;",
+      ">>(iv) micro financing including any form of finance such as leases advances, consumer loans, housing finance;",
+      ">>(v) a financial facility or accommodation provided on the basis of Islamic mode of financing; and",
+      ">>(vi) any other form of financial facility provided to a person;]",
+      ">{fn:6-19}[(xxa) “financial services company” for the purposes of these rules, means a financial institution incorporated in Pakistan or outside Pakistan, insurance company, broker i.e. of stock market or money market or commodities market; a company which is primarily involved in distribution of securities, insurance products and units or certificates of a notified entity, and any other company as notified by the Commission in the official Gazette;]",
+      ">>(xxi) \"form\" means the forms annexed to the rules;",
+      "{fn:6-20}[(xxia) “forms of business” means following forms of business as notified in the official Gazette by the Federal Government or any other form of business which the Federal Government may, by notification in the official Gazette specify from time to time, namely:-",
+      ">(a) asset management services;",
+      ">(b) discounting services;",
+      ">(c) housing finance services;",
+      ">(d) investment advisory services;",
+      ">(e) investment finance services;",
+      ">(f) leasing;",
+      ">(g) pension fund scheme business;",
+      ">(h) private equity and venture capital fund management services;",
+      ">(i) REIT management services; and",
+      ">(j) venture capital investment;]",
+      "{fn:7-21}[(xxiaa) “fund management NBFC” means an NBFC licenced by the Commission to undertake Asset Management Services or REIT Management Services or Pension Fund Scheme Business or Private Equity and Venture Capital Fund Management Services or Investment Advisory Services or any combination thereof;]",
+      "(xxib) “group” means persons, whether natural or legal, if one of them or his close relatives, in case of a natural person, or, its subsidiary or associated company, if it is a legal person, have control or hold {fn:7-22}[direct or indirect] substantial ownership interest or have power to exercise significant influence over the other. For the purpose of this clause the expression-",
+      ">(a) subsidiary shall have the same meaning as defined in sub-section (2) of section 3 of the Ordinance;",
+      ">(b) control shall have the same meaning as defined {fn:7-23}[Securities Act, 2015 (III of 2015)];",
+      ">(c) substantial ownership means beneficial shareholding of ten percent by a person or by close relative; and",
+      ">(d) “significant influence” refers to the management control of the company or the ability to participate in financial {fn:7-24}[operational and risk management] policies, either exercised by representation on the Board of Directors, through partnership or by statute or by agreement in the policy making process;",
+      "{fn:7-25}[(xxiii) “housing finance services” means the business of providing consumer or commercial Finance on conventional or Islamic basis to a person for the purchase or construction of house or apartment or for purchase of land and construction thereupon including the facilities availed for the purpose of making improvements in house or apartment;]",
+      "{fn:7-26}[(xxiiia) “independent director” shall have the same meaning as assigned to it in regulation 35 of the Listing Regulations of Karachi Stock Exchange;]",
+      ">>(xxv) “investment advisory services” means the services provided for, managing discretionary or non-discretionary portfolios for both individual and institutional clients and include the business of advising others as to the value of securities or as to the advisability of investing in, purchasing or selling of securities, for remuneration;",
+      "{fn:8-27}[omitted]",
+      "{fn:8-28}[(xxviii) “investment finance services” means the business of providing finance on conventional or Islamic basis;",
+      "(xxix) “leasing” means the business of providing finance on operating lease or finance lease or Ijarah basis;]",
+      "(xxxii) “major shareholder” means a person who, individually or in concert with his family or as part of a group, holds ten percent or more shares having voting rights of the paid-up capital of the company;",
+      "{fn:8-29}[(xxxiii) “lending NBFC” means an NBFC licenced by the Commission to undertake leasing or housing finance services or investment finance services or discounting services;",
+      "(xxxiiia) “NBFC” means a non-banking finance company which includes company licenced by the Commission to carry out any one or more forms of business as specified in clause (a) of section 282A of the Ordinance;]",
+      "{fn:8-30}[(xxxiv) “non-bank micro finance company” means a non-deposit taking NBFC primarily engaged in the business of Micro Financing as specified by the Commission from time to time;]",
+      "{fn:8-31}[(xxxvii) “Open End Scheme” means a collective Investment Scheme which offers units for sale based on net asset value on continuous basis without specifying any duration for redemption and which entitles the holder of such units on demand to receive his proportionate share of the net assets of the scheme less any applicable charges on redemption or revocation;]",
+      "(xxxviii) “Ordinance” means the Companies Ordinance, l984 (XLVII of l984);",
+      "(xxxvix) “person” includes an individual, a Hindu undivided family, a firm, an association or body of individuals whether incorporated or not, a company and every other legal person;",
+      "(xxxixa) “promoter or sponsor” means a person who has made an application to the Commission to form an NBFC under rule 4 and has contributed initial capital in the proposed company or a person who replaces him;”",
+      "{fn:9-32}[(xxxixb) “Private Fund” means an arrangement which has the purpose of pooling funds from one or more Eligible Investors for investment in a portfolio of securities or other financial assets for profit, income or other returns and where participants of the funds, neither have day to day control over the management of fund property, nor the right to give directions in respect of such management and which is established and operated by private fund management company:",
+      "Provided that for the purpose of these rules following shall not classify as a private fund:",
+      ">>(i) collective investment schemes regulated under the Non-Banking Finance Companies and Notified Entities Regulations, 2008;",
+      ">>(ii) employee welfare trusts or gratuity trusts or employees provident fund or employee pension fund setup for the benefit of employees by companies; and",
+      ">>(iii) any such pool of funds which is separately regulated by the Commission or which is already established under any other specific law.",
+      "(xxxixc) “private fund management company” means company licenced by the Commission to provide private equity and venture capital fund management services;",
+      "(xxxixd) “private equity and venture capital fund management services” means services provided for management of private funds;]",
+      ">(xl) “records” mean all documentary and electronic materials created, generated, sent, communicated, received or stored, regardless of physical form or characteristics;",
+      ">(xli) “regulations” means the regulations made by the Commission in exercise of its powers under Part VIIIA of the Ordinance;",
+      "(xlii) “Schedule” means the schedule to these rules;",
+      "{fn:10-33}[(xliia) “securities broker” means a trading right entitlement certificate holder or “TRE” certificate holder who, by way of business,",
+      ">(a) makes or offers to make with any person or induces or attempts to induce any person to enter into or to offer to enter into, any agreement for or with a view to buying, selling, exchanging or subscribing for, securities; or",
+      ">(b) solicits or accepts any order for or otherwise trading in, or effects transactions in, securities for clients or on its own account;”;]",
+      "{fn:10-34}[(xliib) “strategic investment” means an investment which an NBFC makes with the intention to hold it for a period of minimum 5 years and is more than 10% of its equity;]",
+      "(xliv) “trust” means a trust established by a deed under the provisions of the Trusts Act, 1882 (II of 1882);",
+      ">{fn:10-35}[(xlv) “trustee” means a company appointed as a trustee of a notified entity as per the rules and regulations made under Part VIII A of the Ordinance;]",
+      "(2) Words and expressions used but not defined in these rules shall have the same meaning as assigned to them in the Ordinance or the {fn:10-36}[Securities Act, 2015 (III of 2015) or Rules and Regulations made thereunder]."
+     ],
+     "fn": [
+      {
+       "n": "1-1",
+       "text": "Substituted for “services provided” vide SRO 1002(I)/2015 dated October 15, 2015 2 Deleted the text vide SRO 1313(I)/2023 dated September 14, 2023"
+      },
+      {
+       "n": "2-3",
+       "text": "Substituted for“(x) “closed-end scheme” means a scheme constituted by way of trust to raise funds through issue of certificates to the public for investing in securities including money market instruments for a definite or indefinite period but which does not continuously offer certificates entitling the holder of such certificates, to receive, on demand, his proportionate share of the net assets of the closed-end scheme;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "2-4",
+       "text": "Substituted for the text “: Provided that existing closed end scheme shall be classified as closed end scheme until revoked or converted into open end scheme for the purpose of these rules,” vide SRO 1313(I)/2023 dated September 14, 2023"
+      },
+      {
+       "n": "2-5",
+       "text": "Substituted for “(xii) “collective investment scheme” means a closed-end fund and an open-end scheme; “vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-6",
+       "text": "Substituted for “collective investment scheme” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-7",
+       "text": "Substituted for “collective investment scheme” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-8",
+       "text": "Substituted for “collective investment scheme” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-9",
+       "text": "Substituted for “collective investment scheme” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-10",
+       "text": "Substituted for “collective investment scheme” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-11",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-12",
+       "text": "Substituted for “collective investment scheme” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-13",
+       "text": "Deleted the text “or the investment company being managed by that NBFC” vide SRO 1313(I)/2023 dated September 14, 2023 14 Deleted clause (xvi) “(xvi) “constitutive documents” means the trust deed, offering documents and other principal documents governing the formation of a closed-end scheme or an open-end scheme including all related material agreements;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "3-15",
+       "text": "Substituted for “(xviia) “discounting services” means the services relating to the discounting of financial instruments;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "4-16",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "4-17",
+       "text": "Substituted for “(xix) “equity” includes paid up share capital, reserves, subordinated loans and unappropriated profits (minus accumulated losses) excluding deferred tax reserves, Surplus on Revaluation of Fixed Assets Account as described in section 235 of the Ordinance, treasury stocks and redeemable preference shares: Explanation.- For the purpose of this clause the expression “subordinated loans” means loans given or arranged by the sponsors, free of cost, to meet any short fall in the minimum equity requirement specified under these rules;”"
+      },
+      {
+       "n": "5-18",
+       "text": "Substituted for “(xx)“facility” includes a financing under a system which is based on participation in profit and loss, mark-up or mark-down in price, hire-purchase, lease, rent-sharing, bills of exchange, promissory notes or other instruments with or without buy-back arrangement by a seller, participation term certificate, musharika or modaraba certificate, term finance certificate or any other mode, guarantee, indemnity, letter of credit and any other obligation, whether fund based or non-fund based;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "6-19",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "6-20",
+       "text": "Substituted for “(xxia) “forms of business” means any of the forms of business specified in clause (a) of section 282A of the Ordinance;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "7-21",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015 22 22 Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "7-23",
+       "text": "Substituted for “in section 2 of the Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Ordinance, 2002 (CIII of 2002)” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "7-24",
+       "text": "Substituted for “and operating” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "7-25",
+       "text": "Substituted for “(xxiii) “housing finance services” means the loan provided to individuals for the purchase of residential house or apartment or land including the facilities availed for the purpose of making improvements in house or apartment or land;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "7-26",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "8-27",
+       "text": "Deleted the text “(xxvi) “investment company” means a company registered with the Commission under the Ordinance in accordance with such criteria as may be specified by the Commission by notification in the official Gazette;” vide SRO 1313(I)/2023 dated September 14, 2023"
+      },
+      {
+       "n": "8-28",
+       "text": "Substituted for “(xxviii) “investment finance services” include money market activities, capital market activities, project finance activities, corporate finance services and general services as specified by the Commission by notification in the official Gazette; (xxix) “leasing” includes financial services provided on operating lease or finance lease basis, in accordance with (in accordance with applicable International Accounting Standards) or any other admissible mode determined by the Commission from time to time;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "8-29",
+       "text": "Substituted for “(xxxiii) “NBFC” means a non-banking finance company as defined in clause (a) of section 282A of the Ordinance;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "8-30",
+       "text": "Substituted for (xxxiv) “net assets”, in relation to a collective investment scheme, means the excess of assets over liabilities of the collective investment scheme, such excess being computed in the manner specified by the Commission by notification in the official Gazette;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "8-31",
+       "text": "Substituted for “(xxxvii) “open-end scheme” means a scheme constituted by way of a trust deed that continuously offers for sale its units as specified in the constitutive document that entitle the holder of such units on demand to receive his proportionate share of the net assets of the scheme less any applicable charges;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "9-32",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "10-33",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "10-34",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "10-35",
+       "text": "Substituted for “(xlv) “trustee” includes a bank licensed under the Banking Companies Ordinance, 1962 (LVII of 1962) or a trust company which is a subsidiary of such a bank or a central depository company approved by the Commission or a NBFC carrying out investment finance services provided it has been approved by the Commission to act as trustee or such other company or trust as may be approved by the Commission to act as trustee;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "10-36",
+       "text": "Substituted for “Securities and Exchange Ordinance, 1969 (XVII of 1969)” vide SRO 1002(I)/2015 dated October 15, 2015"
+      }
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Eligibility criteria for the establishment of a NBFC",
+     "page": 10,
+     "text": [
+      "A NBFC may be established, if each of its promoters, proposed directors, chief executive and chairman of the Board of Directors fulfills the terms and conditions mentioned in the fit and proper criteria as may be specified by the Commission by notification in the official Gazette and complies with the requirements of the Ordinance, these rules and the regulations made under the Ordinance."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Permission to form a NBFC",
+     "page": 10,
+     "text": [
+      "(1) A person desirous of forming a NBFC {fn:10-37}[to undertake any form of business] shall make an application to the Commission as set out in Form1 providing information, as given in Annexure thereto, along with all the relevant documents and receipt evidencing the payment of non-refundable processing fee as may be specified by the Commission by notification in the official Gazette.",
+      "(2) The Commission, if it is satisfied that the person seeking permission to form the NBFC {fn:11-38}[to undertake any form of business] has fulfilled the criteria in terms of rule 3 and the regulations, may permit by an order in writing {fn:11-39}[ ] to establish a NBFC.",
+      "{fn:11-40}[(3) The permission granted under sub-rule (2) shall be valid for a period of six months unless extended for a maximum period of further three months under special circumstances, on the application of the promoters made before the expiry of initial six months. During the validity of this permission, the promoters shall get the NBFC incorporated and submit an application to the Commission for grant of licence, after fulfilling all the conditions specified in these rules.]"
+     ],
+     "fn": [
+      {
+       "n": "10-37",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "11-38",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015 39 Deleted the words ‘such person”"
+      },
+      {
+       "n": "11-40",
+       "text": "Substituted for “(3) The permission granted under sub-rule (2) shall be valid for a period of six months unless extended for a maximum period of three months under special circumstances, on the application of the promoters made before the expiry of said six months. During the validity of this permission, the promoters of the NBFC shall get the NBFC incorporated as a public limited company or any other form of company as may be specified by the Commission by notification in the official Gazette.” Vide SRO 1002(I)/2015 dated October 15, 2015"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Conditions for grant of licence",
+     "page": 11,
+     "text": [
+      "{fn:11-41} [(1) An NBFC or any other company subject to eligibility in terms of schedule I shall make separate applications to the Commission for grant of licence for carrying out each form of business. The said application shall be submitted to the Commission in Form-II along with a non-refundable processing fee as may be specified by the Commission by notification in the official Gazette for each licence.",
+      "(2) A fund management NBFC shall not be eligible for seeking licence for any form of business allowed to lending NBFC and a lending NBFC shall not be eligible for seeking licence for any form of business allowed to fund management NBFC.",
+      "(3) An NBFC or any other company may apply to the Commission for grant of licence subject to eligibility criteria given in Schedule I.",
+      "(4) The Commission may issue a licence for asset management services to manage only closed end fund. Licence granted to an NBFC for investment finance services shall be valid for undertaking leasing, housing finance services and discounting services and such an NBFC shall not be required to obtain separate licences for each form of business i-e., leasing, housing finance services and discounting services specified in these rules.",
+      "(5) Every other person engaged in any form of business shall within a period of six months of coming into force of these rules apply in writing to the Commission, for grant of a licence along with a non-refundable processing fee as specified by the Commission by notification in the official Gazette] {fn:12-42}[:",
+      "Provided that persons already engaged in business of micro financing shall for grant of licence apply in writing to the Commission within six months from the date of publication of this Notification or such other extended date as may be specified by the Commission through Notification in the official Gazette:",
+      "Provided further that a person shall not be required to obtain licence, if engaged in business of micro financing, but having less than five thousand active borrowers or having outstanding loan portfolio of less than fifty million rupees:",
+      "Provided also that such person should be receiving funding or financing from a bona fide source such as local or international donor agencies of repute or Federal or Provincial Governments or their agencies or entities regulated by the Commission or State Bank of Pakistan or such other sources as specified by the Commission and such providers of fund shall endeavor to route the funding through proper banking channels and to oversee its operations so that these are conducted legitimately, as specified by the Commission.]",
+      "{fn:12-43}[(6) The Commission shall, after making necessary inquiries and after obtaining such further information, as it may consider necessary, and if it is satisfied that each of its promoters, directors, chief executive and chairman of the Board of Directors fulfills the terms and conditions mentioned in the fit and proper criteria, grant licence as per Form-III for one or more forms of businesses subject to compliance of all or any of following conditions:-",
+      ">(a) the company fulfills the eligibility criteria given in Schedule I;",
+      ">(b) the company is not part of a group of companies already holding a licence, under these rules, for the same form of business;",
+      ">(c) the company meets minimum equity requirements or any other requirement in lieu of minimum equity requirement as may be prescribed by the Commission for specific form of business or class of companies by notification in the official Gazette, in respect of each form of business;",
+      ">(d) the company has allotted at least twenty five percent of the paid-up share capital to the promoters;",
+      ">(e) the company’s promoters or majority shareholders and directors have deposited their shares with Central Depository Company of Pakistan Limited in an account marked as blocked and such shares shall not be sold or transferred without prior approval of the Commission and shall be kept unencumbered:",
+      "Provided that directors holding qualifying shares, maximum up to 2 per cent of the total share capital shall be exempt from this requirement;",
+      ">(f) the company’s promoters or majority shareholders and directors have given an undertaking that they shall not enter into any agreement for sale or transfer of their shares in any manner without prior approval of the Commission;",
+      "Provided that directors holding qualifying shares, up to maximum up to 2 per cent of the total share capital shall be exempt from this requirement;",
+      ">(g) the company appoints its chief executive who does not hold such office in any other company {fn:13-44}[ ], provided that prior approval of the Commission has been obtained in this regard;",
+      ">(h) the company shall not make any change in the Memorandum of Association, other than increase in the authorized share capital, without prior approval of the Commission;",
+      ">(i) the company shall comply with the conditions as set out in these rules, the regulations or any direction given by the Commission;",
+      ">(j) the company shall furnish evidence to the satisfaction of the Commission that the personnel employed by it for executive positions, research or other related functions possess sufficient educational qualifications and professional experience to undertake the proposed form of business:",
+      "Provided that a new company shall furnish the evidence within 90 days of grant of licence;",
+      ">(k) the company obtaining licences for multiple forms of business or any company undertaking any form of business as an ancillary activity must have, other than chief executive, at least one person responsible for heading each licenced form of business;",
+      ">(l) the company incorporated as NBFC in accordance with criteria mentioned in rule 4 shall not undertake any other activity except the licenced activity; and",
+      ">(m) the company, its promoters and major shareholders, its chief executive and its directors shall furnish separate undertakings to the Commission that they shall comply in letter and spirit with the requirements of the Ordinance, these rules, the regulations made under the Ordinance and the directions issued by the Commission:",
+      "Provided that the Commission may, impose additional conditions or grant time to the company for compliance with any of the above conditions as it deems appropriate:",
+      "Provided further that the Commission may further extend the time granted to the company for compliance.]",
+      "(7) Without prejudice to the conditions prescribed under sub-rule (6) above, the Commission may, while granting licence, impose such additional conditions, as it may deem necessary.",
+      "{fn:14-45}[(7a) If a company fails to commence business within the period as specified by the Commission while issuing licence, the licence shall be deemed to be cancelled unless the specified period is extended by the Commission on the application made by the company.]",
+      "(8) The licence granted {fn:14-46}[ ] shall be valid for {fn:14-47}[three years] from the date of its issuance and shall be renewable upon expiry of the said period by making an application at least one month prior to the expiry as set out in Form IV along with payment of a fee as specified by the Commission by notification in the official Gazette.",
+      "(9) The Commission may, after making such inquiry and after obtaining such further information, as it may consider necessary, renew the licence {fn:15-48}[ ], for {fn:15-49}[three years] in Form V on such conditions, as it may deem necessary:",
+      "Provided that till such time that the licence is renewed, the existing licence shall be deemed valid for the purposes of these rules and the regulations unless the company fails to apply as specified in sub-rule (8) and fulfill all the requirements to the satisfaction of the Commission for the {fn:15-50}[renewal] of a licence:",
+      "Provided further that if the company fails to apply within the stipulated time period and fulfills all the requirements to the satisfaction of the Commission its licence shall stand cancelled and the Commission may initiate further proceedings to give effect to the cancellation.",
+      "{fn:15-51}[(10) Without prejudice to the terms and conditions prescribed in rule 7, the Commission may, subsequent to the grant or renewal of licence, impose any other condition as it may deem necessary in the public interest.]",
+      "{fn:15-52}[ ]"
+     ],
+     "fn": [
+      {
+       "n": "11-41",
+       "text": "Substituted for “(1) An NBFC shall make separate applications to the Commission for grant of licence for carrying out different forms of business. The said application shall be submitted to the Commission in Form-II along with a non-refundable processing fee as may be specified by the Commission by notification in the official Gazette for each licence. (2) An NBFC seeking licence for undertaking investment advisory or asset management services or both shall not be eligible for seeking licence for any other form of business. Explanation.- (i) For the purpose of sub-rule (2), the Commission may issue a licence for asset management services to manage only closed-end funds. (ii) All existing NBFCs licensed to provide investment advisory services that are managing closed-end funds shall, within six months of the coming into effect of this provision, apply for an asset management services licence to manage closed-end funds. (3) An NBFC licenced to carry out asset management services shall be eligible, subject to the criteria as may be specified by notification in the official Gazette, to undertake pension fund scheme business as specified by the Federal Government to be a form of business in terms of section 282A of the Ordinance. (4) An NBFC seeking licence for undertaking investment finance services or leasing or housing finance services or discounting services or all of the said forms of business shall not be eligible for seeking licence for any other form of business Explanation.- For the purpose of sub-rule (3), licence granted for investment finance services shall be valid for undertaking discounting services, and separate licence for undertaking discounting services shall not be required. (5) All existing NBFCs shall comply with the requirements set out in sub-rule (2) and (3) within a period of one year from the date of coming into effect of this provision or any other time as may be specified by the Commission by notification in the official Gazette.” Vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "12-42",
+       "text": "Substituted for the full stop (.) vide SRO 437 (I)/2019 dated April 8, 2019"
+      },
+      {
+       "n": "12-43",
+       "text": "Substituted for “(6) The Commission, after making necessary inquiries and after obtaining such further information, as it may consider necessary, and if it is satisfied that the company has fulfilled the criteria in terms of rule 3 and the regulations, and that the promoters thereof are persons of means and integrity having knowledge of matters which the company may have to deal with, in respect of the forms of businesses for which the licence is being sought, shall grant licence to such company in Form-III for one or more of the forms of businesses subject to compliance of the following conditions, namely:- (a) the company is incorporated as a public limited company or such other form of company as may be specified by the Commission by notification in the official Gazette; (b) the company is not part of a group of companies already holding a licence, under these rules, for the same form of business; (c) the company has minimum equity as may be specified by the Commission by notification in the official Gazette, in respect of each form of business; (d) the company has allotted at least twenty five percent of the paid-up share capital to the promoters; (e) the company’s promoters or majority shareholders and directors have deposited their shares with Central Depository Company of Pakistan Limited in an account marked as blocked and such shares shall not be sold or transferred without prior approval of the Commission and shall be kept unencumbered. (f) the company’s promoters or majority shareholders and directors have given an undertaking that they shall not enter into any agreement for sale or transfer of their shares in any manner without prior approval of the Commission; (g) the company appoints its chief executive who does not hold such office in any other company except for an investment company being managed by the said company, provided that prior approval of the Commission has been obtained in this regard; (h) the company has given an undertaking that no change in the Memorandum of Association, other than increase in the authorized share capital, shall be made without prior approval of the Commission; (i) the company has given an undertaking that the conditions as set out in these rules, the regulations or prudential regulations or any direction given by the Commission shall be duly complied with; and (j) the company has furnished an undertaking that within ninety days of the grant of certificate of registration it shall furnish evidence to the satisfaction of the Commission that the personnel employed by it for executive positions, research or other related functions possess sufficient educational qualifications and professional experience to undertake the proposed form of business of the NBFC.” Vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "13-44",
+       "text": "Deleted the text “except for an investment company being managed by the said company” vide SRO 1313(I)/2023 dated September 14, 2023"
+      },
+      {
+       "n": "14-45",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015 46 Deleted the words “to the NBFC” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "14-47",
+       "text": "Substituted for “one year” vide S.R.O. 271 (I)/2010 dated April 21,2010 48 Deleted the words “of such NBFC” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "15-49",
+       "text": "Substituted for “one year” vide S.R.O. 271 (I)/2010 dated April 21,2010"
+      },
+      {
+       "n": "15-50",
+       "text": "Substituted for “grant” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "15-51",
+       "text": "Substituted for “(10) Every company in existence which is engaged in one or more forms of businesses shall apply in writing to the Commission, as provided by sub-section (3) of section 282C of the Ordinance, for grant of a licence along with a non-refundable processing fee as specified by the Commission: Provided that till such time that a new licence is issued, the existing licences or registrations shall be deemed to be valid for the purposes of these rules unless the company fails to apply for licence as specified in sub-rule (8) or the Commission declines to grant such licence for reasons to be recorded in writing.”.” vide SRO 1002(I)/2015 dated October 15, 2015 52 Deleted the words “6. Commencement of operations by NBFC. (1) An NBFC shall commence or continue its business and operations only after it has complied with the requirements of these rules and the regulations and has been issued a licence to carry out a form of business. (2) Without prejudice to the terms and conditions prescribed in rule 7, the Commission may, subsequent to the grant of licence to the NBFC, impose any other condition, as it may deem necessary in the public interest. (3) If an NBFC fails to commence business within one year of the issuance of licence, the licence shall be deemed to be cancelled or otherwise as specified by the Commission by notification in the official Gazette.”"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Conditions applicable to a NBFC",
+     "page": 15,
+     "text": [
+      "(1) A NBFC shall,",
+      ">(a) maintain such books of accounts and other records, as prescribed under the Ordinance, as shall depict a true and fair view of its state of affairs, including,-",
+      ">>(i) journals, cash books and other records of original entry forming the basis of entry in any ledger;",
+      ">>(ii) ledgers (or other comparable record) reflecting assets, liabilities, income and expenses along with all supporting documents or records;",
+      ">>(iii) ledgers (or other comparable record) showing securities in the portfolio;",
+      ">>(iv) record of transactions with banks;",
+      ">>(v) record of the meetings of the board of directors and all relevant committees including the audit committee, credit committee and investment committee; and",
+      ">>(vi) original record of all reports, analysis and memoranda containing investment advice distributed;",
+      ">(b) maintain such books of accounts and other records, as prescribed under the Ordinance, to depict a true and fair view of its state of affairs for a period of not less than ten years;",
+      ">(ba) ensure that its statutory auditors are from the approved list of auditors circulated by the Commission;",
+      ">(c) appoint an individual, having minimum three years experience, as its financial or chief accounting officer who is-",
+      ">>(i) a chartered accountant; or",
+      ">>(ii) a cost and management accountant; or",
+      ">>(iii) a member of a recognized foreign accountancy organization; or",
+      ">>(iv) a person having master’s degree in commerce or business administration with specialization in finance,",
+      "{fn:16-53}[Provided that a non-deposit taking and unlisted lending NBFC may designate another officer as its financial or chief accounting officer;]",
+      ">(ca) appoint {fn:16-54}[as internal auditor];",
+      ">>{fn:16-55}[(i) a person having minimum three years relevant experience who is-]",
+      ">(a) a chartered accountant; or",
+      ">(b) a cost and management accountant; or",
+      ">(c) a certificated internal auditor; or",
+      ">(d) a certified information system auditor; or",
+      ">(e) a member of recognized foreign accountancy organization; or",
+      ">(f) an individual having master degree in commerce or business administration with specialization in finance; or",
+      ">>(ii) a chartered accountancy firm having satisfactory Quality Control Review (QCR) and not being the statutory auditors to whom this function is outsourced {fn:17-56}[.",
+      "Provided that the internal auditor shall report directly to the board of directors or the audit committee of the board of the NBFC.]",
+      ">(cb) appoint a person as compliance officer to ensure reporting to the Commission of status of compliance with the existing regulatory framework by the NBFC {fn:17-57}[:",
+      "Provided that a non-deposit taking and unlisted Lending NBFC may designate another officer as its compliance officer;]",
+      ">(cc) appoint such executives who shall fulfill the terms and conditions mentioned in the fit and proper criteria specified by the Commission by notification in the official Gazette;",
+      ">{fn:17-58}[(cd) appoint the directors in accordance with Schedule I, provided that the Commission shall be the final authority to determine the status of a director as independent or otherwise;]",
+      ">(d) prepare its accounts in conformity with the International Accounting Standards notified under sub-section (3) of section 234 of the Ordinance and technical releases issued by Institute of Chartered Accountants of Pakistan from time to time;",
+      ">{fn:17-59}[(da) furnish to the Commission its quarterly and annual financial statements in accordance with Schedule I;]",
+      "{fn:18-60}[ ]",
+      ">(g) follow directions issued to protect NBFCs against their involvement in money laundering activities {fn:18-61}[, terrorist financing] and other unlawful trades;",
+      ">(h) {fn:18-62}[obtain rating in accordance with Schedule-I] as and when it becomes eligible for rating as per the rating criteria of a rating agency registered with the Commission, and such rating shall be updated at least once every financial year:",
+      "Provided that the NBFC shall within one year of the decrease in its rating from the grade specified by the Commission by notification in the official Gazette, obtain a fresh rating and during the period that its rating is below the grade so specified, the NBFC may be allowed by the Commission to continue its operations on such conditions as are deemed appropriate by the Commission;",
+      ">{fn:18-63}[(i) publish the rating in its annual report and quarterly reports, annual and quarterly reports of the collective investment schemes managed by it, if applicable, and any advertisement and brochures in relation to promotion of its business;] and",
+      ">(j) acquire and maintain membership of the relevant association and follow the code of conduct specified by the said association approved by the Commission.”;",
+      ">{fn:18-64}[(k) seek registration of notified entities as per the regulations notified by the Commission in the Official Gazette before offering of unit, certificates or shares of notified entities:]",
+      "(2) A NBFC shall not,",
+      ">(a) appoint as directors {fn:18-65}[those] persons who hold such office in any other NBFC licensed for the same form of business.",
+      "Provided that this clause shall not apply to the nominees of the Federal or Provincial Governments on the board of any NBFC or, any exception specified by the Commission;",
+      ">(aa) appoint or change its chief executive or any of its directors subject to fulfillment of the fit and proper criteria and prior approval of the Commission provided that the Commission may refuse appointment of any person {fn:19-66}[ ];",
+      "Explanation.- This clause shall not apply to a director nominated by the Federal Government or Provincial Governments;",
+      ">{fn:19-67}[(b) enter into premises leasing or renting, and sale or purchase of any kind with their directors, officers, employees or their close relatives or any person acting on their behalf or such persons who either individually or in concert with family members beneficially own 10% or more of the equity of the NBFC:",
+      "Provided that this restriction shall not apply to such NBFCs that have a policy to this effect duly approved by their board of directors:",
+      "Provided further that in case of any sale and purchase to the directors the prior approval in writing of the board, excluding the participation of the beneficiary directors, is required;]",
+      ">{fn:19-68}[(ba) hold or make investment in a subsidiary other than that which is a financial services company:",
+      "Provided that an NBFC may make strategic investments in financial services company with the approval of the Commission] {fn:19-69}[:",
+      "Provided further that non-banking microfinance companies may set up non-financial subsidiaries with intimation to the Commission, whose business is conducted so as to supplement or complement the community service objective of the non-bank microfinance company:",
+      "Provided also that the conditionalities and modalities pertaining to these investments shall be specified by the Commission and any exceptions thereto shall be decided by the Commission on case to case basis;]",
+      ">{fn:19-70}[(c) form, sell or transfer ownership of shares in subsidiary or associated company, merge with, acquire or takeover any other company unless it has obtained prior approval of the Commission in writing to such formation or sale or transfer;]",
+      ">{fn:20-71}[(ca) sell strategic investment unless it has obtained prior approval of the Commission in writing to such sale;",
+      ">(cb) merge with, acquire or takeover any other company unless it has obtained prior approval of the Commission in writing to such scheme of merger, acquisition or takeover;]",
+      "{fn:20-72}[ ]",
+      ">(f) remove any of its records or documents relating to its business from Pakistan to a place outside Pakistan without the prior permission of the Commission;",
+      ">{fn:20-73}[(h) make aggregate investment in shares of unlisted company in excess of twenty percent of its equity. Investment in unlisted company shall be approved in a board meeting after carefully analyzing the merits and financial impact of the investment and recording the decision in detail in minutes of the meeting and such decisions shall be communicated to the Commission within fourteen days of the board meeting along with copy of the minutes:",
+      "Provided that the NBFC shall not own shares of any one unlisted company in excess of ten per cent of its own equity or of the issued capital of that company, whichever is less:",
+      "Provided further that investment by an NBFC out of its surplus equity (i.e. over and above the required minimum equity requirements) in unlisted shares of its subsidiaries or any other financial services company in the group, shall not be taken into account for calculating the limit for unquoted shares;]",
+      ">(i) offer any of its own or other securities for any consideration other than cash {fn:21-74}[or liquid assets] nor make any loan or advance against these securities. Unless otherwise specified by the Commission by notification in the official Gazette;",
+      ">(j) hold, deal or trade in real estate except for the use of NBFC itself or where specified by the Commission by notification in the official Gazette {fn:21-75}[:",
+      "Provided that properties acquired by lending NBFC in satisfaction of its claims shall be disposed of within a maximum period of seven years from the date of acquisition;]",
+      ">{fn:21-76}[(k) raise deposits in any form by whatever name called except as specified by the Commission in the Non-Banking Finance Companies and Notified Entities Regulations, 2008;]",
+      ">(l) provide unsecured facilities or exposures except as specified by the Commission by notification in the official Gazette;",
+      ">(m) encumber or mortgage or pledge or transfer clients’ assets deposited as security with the NBFC against any facility extended to the client, for securing its own obligation;",
+      ">(n) undertake the brokerage business in capital market except by forming a separate company for this purpose {fn:21-77}[.] {fn:21-78}[ ]",
+      "{fn:21-79}[(3) An NBFC shall comply with such minimum equity requirement or any other requirement in lieu of minimum equity requirement as may be prescribed by the Commission from time to time for specific form of business or class of companies by notification in the official Gazette.]"
+     ],
+     "fn": [
+      {
+       "n": "16-53",
+       "text": "Substituted for “;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "16-54",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "16-55",
+       "text": "Substituted for “(i) a person having minimum three years experience as internal auditor who is-“ vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "17-56",
+       "text": "Substituted for “;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "17-57",
+       "text": "Substituted for “;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "17-58",
+       "text": "Substituted for “(cd) appoint- (i) at least one third of its directors who shall be independent directors; and Provided that at least two of its directors, excluding the chief executive officer, shall have relevant experience of at least five years at a senior management level in the financial sector; Explanation.- For the purpose of this sub-clause, the expression \"independent director\" means a director who is not connected with the company or its promoters or directors on the basis of family relationship and who does not have any other relationship, whether pecuniary or otherwise, with the company, its associated companies, directors, executives or related parties. The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgment without being subservient to any apparent form of interference. Provided further that the Commission shall be the final authority to determine the status of a director as independent or otherwise;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "17-59",
+       "text": "Substituted for “(da) furnish to the Commission within one month of the close of first and third quarter and within two months of the close of second quarter of the year of account of its financial year, a balance sheet along with an income statement, cash flow statement and the statement of changes in equity for the respective quarters, whether audited or otherwise;” 60 Deleted the words “(db) furnish a copy of its annual report together with copies of the balance sheet, income statement, cash flow statement and statement of changes in equity along with the auditors report to the Commission or any other person as required by the Commission within three months of the close of the accounting period; (e) separately disclose in relevant notes to its quarterly and annual accounts all those facilities and exposures whose carrying value exceeds twenty percent of its equity;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "18-61",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "18-62",
+       "text": "Substituted for “obtain credit rating and, management quality rating, wherever applicable” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "18-63",
+       "text": "Substituted for “(i) publish the credit rating and management quality rating, as the case may be, in its annual report and quarterly reports, annual and quarterly reports of the collective investment schemes managed by the NBFC, if applicable, and any advertisement and brochures in relation to promotion of its business;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "18-64",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "18-65",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015 66 Deleted the words “without assigning any reason” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "19-67",
+       "text": "Substituted for “(b) purchase anything from, or sell anything to any director, officer, employee of the NBFC or to a person who either individually or in concert with close relatives beneficially owns ten percent or more either of the equity or other securities with voting rights, if any, issued by such NBFC; Provided that this restriction shall not apply to such NBFCs that have a policy to this effect duly approved by their board of directors: Provided further that in case of any sale and purchase to the directors the prior approval in writing of the board, excluding the participation of the beneficiary directors, is required;”vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "19-68",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "19-69",
+       "text": "Substituted for semi colon (;) vide SRO 437 (I)/2019 dated April 8, 2019"
+      },
+      {
+       "n": "19-70",
+       "text": "Substituted for “(c) sell or transfer ownership of shares in subsidiary or associated company, merge with, acquire or takeover any other company unless it has obtained prior approval of the Commission in writing to such sale or transfer or scheme of merger, acquisition or takeover;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "20-71",
+       "text": "Substituted for “(ca) make investment in its subsidiary except out of its surplus equity (i.e. over and above the specified minimum equity requirement for the licences held by such NBFC);” vide SRO 1002(I)/2015 dated October 15, 2015 72 Deleted the words “(e) enter into transactions with any broker which exceed ten percent of the total brokerage expense of the NBFC in any one accounting year Provided that the NBFC shall not have a common director or officer or employee with the broker;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "20-73",
+       "text": "Substituted for “(h) make an investment in unquoted shares of any company in excess of twenty percent of its equity. Unquoted investment shall be approved in a board meeting after carefully analyzing the merits and financial impact of the investment and recording the decision in detail in minutes of the meeting and such decisions shall be communicated to the Commission within fourteen days of the board meeting along with copy of the minutes; Provided further that all existing NBFCs, who have investment in unquoted shares exceeding twenty percent of their equity , shall bring such investments down to twenty percent within a period of six months from the date of this provision taking effect. Provided also that an investment by an NBFC out of its surplus equity (i.e. over and above the minimum specified regulatory requirement for the licences held by the NBFC) in its wholly owned subsidiaries, for undertaking a form of business, shall not be taken into account for calculating the limit for unquoted shares;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "21-74",
+       "text": "Inserted vide vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "21-75",
+       "text": "Substituted for “;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "21-76",
+       "text": "Substituted for “(k) raise funds in any form from individuals except as specified by the Commission by notification in the official Gazette;” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "21-77",
+       "text": "Substituted for “Provided that the NBFCs already engaged in brokerage business shall comply with this requirement within a period of one year of coming into effect of this provision” vide S.R.O. 1002(I)/2015 dated October 15, 2015 78 Deleted the words “: Provided that this sub-rule shall not apply to NBFC which have a valid license to undertake investment finance services business and have been, to such terms and conditions as Commission may impose, granted permission by the Commission to undertake brokerage business without forming a separate company: and” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "21-79",
+       "text": "Substituted for “(3) An NBFC shall comply with such minimum equity requirement in respect of each form of business specified by the Commission from time to time by notification in the official Gazette.” Vide SRO 1002(I)/2015 dated October 15,"
+      }
+     ]
+    },
+    {
+     "no": "7A",
+     "title": "Payment of fee",
+     "page": 22,
+     "text": [
+      "{fn:22-80}[ An NBFC shall pay such non-refundable fee as may be specified by the Commission through notification in the official Gazette.]"
+     ],
+     "fn": [
+      {
+       "n": "22-80",
+       "text": "Substituted for “7A. Monitoring fee.- An NBFC engaged in deposit taking shall, within three months of the close of its financial year, pay to the Commission an annual fee as may be specified by the Commission by notification in the official Gazette.” Vide SRO 1002(I)/2015 dated October 15, 2015"
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Opening or closure of bank account, account with a broker or branch",
+     "page": 22,
+     "text": [
+      "{fn:22-81}[ An NBFC shall inform its board of director regarding opening or closure of any bank accounts, accounts with a brokers or branches of an NBFC and the same must be recorded in the minutes of board meeting.]"
+     ],
+     "fn": [
+      {
+       "n": "22-81",
+       "text": "Substituted for “8. Opening or closure of bank account, account with a broker or branch.- Opening or closure of any bank accounts, account with a broker or branches of an NBFC shall be approved in a board meeting by the board of directors of the NBFC after carefully analyzing its merits and financial impact and the reasons must be recorded in the minutes of board meeting. Such decisions and minutes of the board meeting shall be communicated to the Commission within fourteen days of the said meeting.” Vide SRO 1002(I)/2015 dated October 15, 2015"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Insurance coverage",
+     "page": 22,
+     "text": [
+      "{fn:22-82}[ An NBFC shall obtain sufficient insurance coverage from an insurance company rated minimum A- by a credit rating agency registered with the Commission against any losses that may be incurred as a result of employee’s fraud or gross negligence. The NBFC shall make disclosure about the insurance coverage in its financial statements.]"
+     ],
+     "fn": [
+      {
+       "n": "22-82",
+       "text": "Substituted for “9. Insurance coverage. A NBFC shall obtain sufficient insurance coverage on its own or for its clients’ benefit against any losses that may be incurred as a result of employee’s fraud or gross negligence” vide SRO 1002(I)/2015 dated October 15, 2015"
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Exchange fluctuation risk",
+     "page": 22,
+     "text": [
+      "A NBFC shall make satisfactory arrangement to insulate itself from exchange fluctuation risks associated with foreign currency obligations and transactions."
+     ]
+    },
+    {
+     "no": "10A",
+     "title": "Transitional provisions",
+     "page": 22,
+     "text": [
+      "Within {fn:22-83}[six months] from the coming into force of these provisions {fn:22-84}[or any amendments thereto], all NBFCs shall {fn:22-85}[ ] take such other actions as are necessary to {fn:22-86}[comply] with the provisions of these rules:",
+      "Provided that, notwithstanding the fact that such actions have not been taken or such changes have not been made, the NBFC shall comply with the provisions of these rules as if they are licensed or registered under these rules."
+     ],
+     "fn": [
+      {
+       "n": "22-83",
+       "text": "Substituted for “one year” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "22-84",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015 85 Deleted the words “alter their memoranda and articles of association or any existing contract or agreement and shall” vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "22-86",
+       "text": "Substituted for the words “bring the memoranda and articles of association and working procedures of the NBFC in conformity” vide SRO 1002(I)/2015 dated October 15, 2015"
+      }
+     ]
+    },
+    {
+     "no": "10B",
+     "title": "Exemption from certain rules to specified Companies",
+     "page": 22,
+     "text": [
+      "{fn:22-87}[ The companies specified in Schedule II shall be exempt from certain rules specified in the said Schedule or as may be prescribed by the Commission by notification in the official gazette.]",
+      "FORM-I [see rule 4(1)] APPLICATION FOR PERMISSION TO FORM A NON – BANKING FINANCE COMPANY Dated: _______________ To The Securities and Exchange Commission of Pakistan, Islamabad.",
+      "Dear Sir,",
+      "We hereby apply for grant of permission under rule 4 of the Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003, to form a Non-Banking Finance Company under the name and style of * ---------------------------------------------",
+      "The information and documents as required in the Annexure to this form duly verified and signed by all promoters and proposed directors along with five spare copies of this application and an affidavit by them as to the correctness of the details is submitted.",
+      "We undertake to keep this information upto date by communicating changes or modifications therein within fourteen days of such changes or modifications.",
+      "A receipt of rupees {fn:23-88}[(Rs._________)] being the processing fee, deposited in-------------- on -----------------------is enclosed.",
+      "Yours faithfully, -----------------------Verification by Oath Commissioner.",
+      "· Name of the company ANNEXURE TO FORM-I [see rule 4] INFORMATION TO BE SUPPLIED FOR OBTAINING PERMISSION TO FORM A NON – BANKING FINANCE COMPANY AND SUBSEQUENT CHANGE IN DIRECTORSHIP AND CHIEF EXECUTIVE",
+      "1. Full name, former name if any, father’s or husband’s name, nationality, residential and business address, national tax number, present occupation of each sponsor, proposed director, proposed chief executive and proposed chairman of the Board. (Institutional sponsors shall mention their names and addresses only instead of giving all these particulars of their nominee directors).",
+      "2. Names and addresses of companies, firms and other organizations of which the aforesaid sponsors, proposed chief executive and proposed chairman are or have been directors, partners or office holders during the last ten years. Copies of annual accounts of such companies and firms for the last three years alongwith summary of their paid-up share capital, free reserves, profit after tax and dividend payment to be provided.",
+      "3. Financial standing, educational as well as professional qualifications and experience of persons mentioned in paragraph 1 above, supported by documentary evidence.",
+      "4. Percentage of capital, each sponsor proposes to contribute in the proposed company.",
+      "5. Feasibility report of the proposed company.",
+      "6. Evidence of payment of income tax and wealth tax by the sponsors in individual capacity as well as by the companies, firms, etc., wherein they are or have been directors during the preceding one year.",
+      "7. Net-worth certificate of each sponsor supported by a duly authenticated copy of the latest wealth statement filed with the taxation department. In the case of sponsors or directors residing in countries where filing of wealth statement is not the requirement of law, a certificate of personal net-worth and general reputation issued by a bank of international repute shall be acceptable.",
+      "8. Names of the bankers of the sponsors alongwith their account numbers.",
+      "9. Draft of the Memorandum and Articles of Association.",
+      "10. Affidavit from each person mentioned in paragraph 1 above, stating that-",
+      ">(a) he has not been associated with any illegal banking business, deposit taking or financial dealings;",
+      ">(b) he and companies in which he is a director or major shareholder have no over-due loans or installments outstanding towards banks or other financial institutions;",
+      ">(c) neither he nor companies in which he is a director or major shareholder has defaulted in paying taxes as on the date of application;",
+      ">(d) he has not been sponsor, director or chief executive of a defaulting cooperative finance society or finance company;",
+      ">(e) he has never been convicted of fraud or breach of trust or of an offence involving moral turpitude or removed from service for misconduct;",
+      ">(f) he has neither been adjudged an insolvent nor has defaulted in making payments, to his creditors; and",
+      ">(g) his net-worth is not less than twice the amount to be subscribed by him personally (not applicable to a nominee director).",
+      "11. Latest CIB report in respect of sponsors (individuals and institutions) as an evidence for statement in clause (b) of paragraph 10 FORM-II [see rule 5(1)] APPLICATION FOR OBTAINING LICENCE TO UNDERTAKE OR CARRY OUT *_________________ AS NON – BANKING FINANCE COMPANY",
+      "Dated, the-------------To, The Securities and Exchange Commission of Pakistan, Islamabad.",
+      "Dear Sir,",
+      "We hereby apply for grant of licence under rule 5 of the Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003, to undertake __________* as a Non-Banking Finance Company.",
+      "2. We hereby furnish the following information, __",
+      ">(a) date of incorporation as a limited company;",
+      ">(b) authorised, subscribed and paid-up share capital of the company (sponsors' equity indicated separately);",
+      ">(c) names and addresses of directors and number of shares held by each of them;",
+      ">(d) directors' interest, direct or indirect, in any other company with details of such interest;",
+      ">(e) details of persons or group controlling the company including major shareholders with number and value of shares held;",
+      ">(f) names of holding, subsidiary and associated undertaking, if any;",
+      ">(g) details of qualified staff engaged; {fn:26-89}[ ]",
+      "{fn:26-90}[ ]",
+      "5. A receipt of rupees {fn:26-91}[(Rs._________)] being the processing fee for each license, deposited in __________ on ________ is enclosed. Yours faithfully,",
+      "Signature----------------(To be signed by all the directors)",
+      "*Any one or more of the activities or functions as mentioned under section 282 (A) of the Companies Ordinance, 1984.",
+      "{fn:27-92}[We the above-named deponent, do hereby solemnly affirm and declare that the contents of the afore-mentioned information are true and correct to the best of our knowledge and belief and nothing has been concealed therein.",
+      "We also undertake to keep this information up to date and shall convey any change or modification therein within fourteen days of such change or modification.",
+      "Signatures of the directors]",
+      "FORM -III [see rule 5({fn:28-93}[6])] SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+      "Islamabad, Dated, the __________ Registration No. _________",
+      "LICENCE TO CARRY OUT OR UNDERTAKE *_________AS NON-BANKING FINANCE COMPANY",
+      "The Securities and Exchange Commission of Pakistan having considered the application for grant of licence under rule 5 of the Non-Banking Finance Company (Establishment and Regulation) Rules, 2003, by **_______________________________ and being satisfied that the said **________________________________________ is eligible for the licence, hereby grants, in exercise of the powers conferred by {fn:28-94}[sub-rule (6)] of rule 5 of the Non- Banking Finance Company (Establishment and Regulation) Rules, 2003, licence to **______________________________________ to undertake or carry out *__________ subject to the conditions stated herein below or as may be prescribed or imposed hereafter.",
+      "The license is valid from __________________________to_____________________. (date) (date)",
+      "Signature of the Officer",
+      "*Any one or more of the activities or functions as mentioned under section 282 A of the Companies Ordinance, 1984",
+      "** Name of the Company",
+      "(Official Seal and Stamp)",
+      "FORM IV [see rule 5(8)] APPLICATION FOR RENEWAL OF LICENCE TO CARRY OUT *_______________ AS NON-BANKING FINANCE COMPANY",
+      "Islamabad the ................... Securities and Exchange Commission of Pakistan, Government of Pakistan, Islamabad",
+      "Dear Sir,",
+      "We hereby apply for renewal of the licence to carry out *...............................of by **_____________ under rule 5 of the Non-Banking Finance Company (Establishment and Regulation) Rules, 2003.",
+      "The licence issued or renewed earlier is due to expire on.......................",
+      "Original receipt of challan evidencing payment of renewal fee of rupees {fn:29-95}[(Rs.__________)] is enclosed.",
+      "It is requested that the licence may be renewed w.e.f. ..................... for a period of {fn:29-96}[three years].",
+      "Yours faithfully,",
+      "Name and Signature of the Secretary or a director of the company.",
+      "*Any one or more of the activities or functions as mentioned under section 282 A of the Companies Ordinance, 1984.",
+      "** Name of the company.",
+      "FORM V [see rule 5({fn:30-97}[9])] SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN LICENCE TO CARRY ON *_______________ AS NON-BANKING FINANCE COMPANY",
+      "Islamabad, the ............",
+      "The Securities and Exchange Commission of Pakistan, having considered the application for renewal of licence to carry out *_________________submitted by **..............................under rule 5 of the Non-Banking Finance Company (Establishment and Regulation) Rules, 2003, and being satisfied that it would be in the public interest so to do, in exercise of powers conferred by {fn:30-98}[subrule (9)] of rule 5 of the said rules, hereby renews the licence of**.......................... to carry out *___________ subject to the conditions stated herein below or as may be prescribed or imposed hereafter.",
+      "......................................... (Signature of the officer)",
+      "* Any or more one of the activities or functions as mentioned under section 282 A of the Companies Ordinance, 1984. ** Name of the company."
+     ],
+     "fn": [
+      {
+       "n": "22-87",
+       "text": "Inserted vide SRO 1002(I)/2015 dated October 15, 2015"
+      },
+      {
+       "n": "23-88",
+       "text": "Substituted for “five hundred thousand (Rs. 500,000/-)” vide S.R.O.570(I)/2012 dated May 25, 2012"
+      },
+      {
+       "n": "26-89",
+       "text": "Deleted the text “(h) reasons for selecting the proposed place of business with statistical data; and (i) additional facts in support of this application.” Vide SRO 1313(I)/2023 dated September 14, 2023"
+      },
+      {
+       "n": "26-90",
+       "text": "Deleted the text “3. Certified copies of the memorandum and articles of association and certificate of incorporation are enclosed."
+      },
+      {
+       "n": "26-4",
+       "text": "An affidavit as to the correctness of the above information by the chief executive and two directors is also furnished herewith. We undertake to keep this information upto date by communicating changes or modifications therein within fourteen days of such change or modifications.” Vide SRO 1313(I)/2023 dated September 14, 2023"
+      },
+      {
+       "n": "26-91",
+       "text": "Substituted for “two hundred and fifty thousand (Rs. 250,000/-)” vide S.R.O.570(I)/2012 dated May 25, 2012"
+      },
+      {
+       "n": "27-92",
+       "text": "Inserted vide SRO 1313(I)/2023 dated September 14, 2023"
+      },
+      {
+       "n": "28-93",
+       "text": "Substituted for “2” vide S.R.O.570(I)/2012 dated May 25, 2012"
+      },
+      {
+       "n": "28-94",
+       "text": "Substituted for “sub-rule (2)” vide S.R.O.570(I)/2012 dated May 25, 2012"
+      },
+      {
+       "n": "29-95",
+       "text": "Substituted for “two hundred and fifty thousand (Rs.250, 000/-)” vide S.R.O.570(I)/2012 dated May 25, 2012"
+      },
+      {
+       "n": "29-96",
+       "text": "Substituted for “one year” vide S.R.O. 271 (I)/2010 dated April 21,2010"
+      },
+      {
+       "n": "30-97",
+       "text": "Substituted for “5” vide S.R.O.570(I)/2012 dated May 25, 2012"
+      },
+      {
+       "n": "30-98",
+       "text": "Substituted for “sub-rule 5” vide S.R.O.570(I)/2012 dated May 25, 2012 Eligibility Criteria Forms of business Type of Minimum Number of Number of company number of independent directors with directors directors relevant experience of at least five Submission of years at a Rating financial senior statements management level for a particular form of business"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "Made by the Federal Government under section 282B of the Companies Ordinance, 1984 (recital).",
+ "sourceNotes": "Rule 6 (Commencement of operations by NBFC) is printed only as an empty bracket; the edition's note 52 records that its words were deleted.",
+ "numberingGaps": [
+  6
+ ]
+}

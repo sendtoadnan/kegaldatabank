@@ -1,0 +1,794 @@
+{
+ "id": "central-depositories-regulations-2016",
+ "title": "Central Depositories (Licensing and Operations) Regulations, 2016",
+ "number": "S.R.O. 120(I)/2016",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "CD Regulations 2016",
+  "Central Depositories Regulations"
+ ],
+ "enacted": "2016-02-15",
+ "lastAmended": "2026-06-16",
+ "amendedUpToLabel": "16 June 2026",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "central-depositories-regulations-2016.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 16 June 2026. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Central Depositories (Licensing and Operations) Regulations, 2016.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these Regulations, unless there is anything repugnant in the subject or context, –",
+      ">(a) \"Act\" means the Securities Act, 2015 (III of 2015);",
+      ">(b) “Depositories Act” means the Central Depositories Act, 1997 (XIX of 1997)",
+      ">(c) “Ordinance” means the Companies Ordinance, 1984 (XLVII of 1984); and",
+      ">(d) “senior management officer” for the purposes of these regulations in addition to the persons mentioned in clause (lviii) of section (2) of the Act include the following, by whatever name called:",
+      ">>(i) company secretary (ii) chief financial officer (iii) head of internal audit (iv) head of IT, IT security or technology (v) chief risk and compliance officer",
+      "(2) Words and expressions used but not defined in these Regulations shall have the same meaning as assigned to them in the Act, the Ordinance, the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) or the Depositories Act or any rules or regulations made thereunder."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Licensing Of Central Depository",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Application for grant of license",
+     "page": 2,
+     "text": [
+      "(1) Subject to compliance with the requirements of section 48 of the Act and these regulations, an application for grant of license as a central depository shall be submitted to the Commission in Form A.",
+      "(2) An applicant seeking a license as central depository shall pay an amount of rupees one million as license fee and submit the following documents along-with its application:",
+      ">>(i) copy of challan evidencing payment of license fee;",
+      ">>(ii) copies of its memorandum of association and articles of association;",
+      ">>(iii) proposed regulations under section 51 of the Act; and",
+      ">>(iv) proposed regulations under section 35 of the Depositories Act.",
+      "(3) The Commission, while considering the application for license, may require the applicant to furnish such further information or clarification regarding its activities and businesses as it deems appropriate.",
+      "(4) The applicant shall, if so required, appear before the Commission for a representation through an officer duly authorized for this purpose in writing by the board of directors of the applicant.",
+      "(5) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (2) and (3) above shall be intimated to the Commission within five working days from the date of such change.",
+      "(6) No application for grant of license made under sub-regulation (1) above shall be refused except after giving the applicant an opportunity of being heard."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Grant of license",
+     "page": 2,
+     "text": [
+      "(1) The Commission, while considering the application made under regulation 3, shall inter-alia take into account the following matters, -",
+      ">(a) that the eligibility requirements of the Act and these regulations have been complied with;",
+      ">(b) that the applicant has demonstrated its ability to perform its duties in accordance with the provisions of the Act, the Depositories Act and any rules and regulations made or codes, guidelines, directions and circulars issued thereunder;",
+      ">(c) the applicant has shareholding and governance structure as provided in these regulations; and",
+      ">(d) that the applicant has the necessary infrastructure including but not limited to adequate office space, equipment, experienced human resource and technical capabilities, financial resources, policies, procedures, systems and controls to effectively and efficiently discharge its responsibilities as a central depository.",
+      "(2) The Commission may inspect the premises of the applicant to determine whether it fulfills the eligibility criteria and may also require the applicant to submit reports from experts in the manner specified by the Commission to confirm compliance with the Act and these regulations including the existence of adequate infrastructure, technical capacity, financial standing and other requisite benchmarks.",
+      "(3) The Commission, after conducting such inquiries and after obtaining such further information as it deems appropriate, and upon being satisfied. -",
+      ">(a) that the applicant is eligible for a licence;",
+      ">(b) its memorandum of association specifically allows it to act as a central depository;",
+      ">(c) the applicant is in compliance with the provisions of the Act and these regulations; and",
+      ">(d) it is in the public and capital market interest;",
+      "may grant licence to the applicant in Form-B under the sub-section (4) of section 49 of the Act subject to the conditions as provided in regulation 5.",
+      "(4) A central depository shall pay an annual renewal fee of rupees one million."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Conditions of licensing",
+     "page": 3,
+     "text": [
+      "{fn:3-2}[(1)] A central depository shall, in addition to the requirements of the Act, comply with the following conditions on {fn:3-3}[an] ongoing basis {fn:3-4}[or within such time as the Commission may direct]: -",
+      ">(a) ensure availability and maintenance of necessary infrastructure for the establishment and operation of book-entry systems for the transfer of securities;",
+      ">{fn:3-5}[(b) make adequate arrangements including insurance cover for indemnifying the beneficial owners of the securities for any loss that may be caused to such beneficial owners by the wrongful act, negligence or default of the depository or any of its employees for a minimum amount as may be annually determined by the central depository based on predetermined criteria as approved by the Commission from time to time;]",
+      ">(c) put in place adequate systems, procedures and necessary {fn:4-6}[capacity] to have a wide network of CDS elements;",
+      ">(d) put in place adequate monitoring, inspection and enforcement mechanism for CDS elements {fn:4-7}[including any outsourcing arrangements as allowed",
+      "under these regulations;",
+      ">{fn:4-8}[(e) establish and maintain connectivity with the clearing house(s) and CDS",
+      "elements and enter into service level agreement(s) with the securities exchange(s) and clearing house(s);]",
+      ">{fn:4-9}[(f) have a documented business continuity plan including a disaster recovery",
+      "site;]",
+      ">{fn:4-10}[(fa) continuously improve the quality and efficiency of its systems and",
+      "procedures, and attain relevant internationally recognized certifications;",
+      ">(fb) put in place necessary controls and safeguards to ensure cyber security, access to confidential information and alteration, destruction, disclosure or dissemination of records and data;]",
+      ">(g) put in place necessary arrangements, for resolving disputes and redressal of grievances of CDS elements, beneficial owners of securities, customers or any other person;",
+      ">{fn:4-11}[(h) comply with the code of corporate governance for listed companies to the extent consistent with the provisions of the Act, rules and regulations made thereunder;]",
+      ">(i) ensure that its memorandum and articles of association contain no provision inconsistent with the provisions of the Act and these regulations and that no change is made in its memorandum and articles of association except with the prior written approval of the Commission;",
+      ">(j) ensure that its directors shall not register {fn:5-12}[or allow] the transfer of any of",
+      "its shares without prior written approval of the Commission;",
+      ">(k) shall facilitate access to its depository function by securities exchange, clearing house or other central depository;",
+      ">{fn:5-13}[(l) shall not carry on any activity other than that of a central depository unless",
+      "the activity is incidental to the functions of the central depository:",
+      "Provided that a central depository {fn:5-14}[directly or by forming subsidiary(ies)] may carry-out",
+      "such activity which is not incidental to functions of a central depository, as may be allowed by the Commission and subject to such conditions as may be imposed:",
+      "{fn:5-15}[Omitted]",
+      ">{fn:5-16}[(la) prescribe a code of conduct for its employees and ensure compliance with",
+      "the same; and]",
+      ">(m) any further condition as may be imposed by the Commission from time to time."
+     ],
+     "fn": [
+      {
+       "n": "3-2",
+       "text": "Insertion made by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "3-3",
+       "text": "Insertion made by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "3-4",
+       "text": "Insertion made by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "3-5",
+       "text": "Sub-clause (b) substituted by S.R.O. 82(I)/2017 dated 7th February, 2017. The substituted sub-clause read as follows: “(b) make adequate arrangements including insurance for indemnifying the beneficial owners for any loss that may be caused to such beneficial owners by the wrongful act, negligence or default of the depository or any of its employees;”"
+      },
+      {
+       "n": "4-6",
+       "text": "The word “capability” substituted by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "4-7",
+       "text": "Inserted by S. R. O. 1304 (I)/2019 dated 1st November, 2019."
+      },
+      {
+       "n": "4-8",
+       "text": "Sub-clause (e) substituted by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-clause read as follows: “(e) establish and maintain connectivity with the clearing house and CDS elements and have documented business continuity plan;”"
+      },
+      {
+       "n": "4-9",
+       "text": "Sub-clause (f) substituted by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-clause read as follows: “(f) ensure data secrecy and have systems for protection against unauthorized access, alteration, destruction, disclosure or dissemination of records and data;”"
+      },
+      {
+       "n": "4-10",
+       "text": "Inserted sub-clause (fa) and sub-clause (fb) by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "4-11",
+       "text": "Sub-clause (h) substituted by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-clause read as follows: “(h) comply with the code of corporate governance for listed companies or other requirements as may be specified by the Commission from time to time;”"
+      },
+      {
+       "n": "5-12",
+       "text": "Inserted by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "5-13",
+       "text": "Sub-clause (l) substituted by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-clause read as: “(l) shall not carry on any activity other than that of a central depository unless the activity is incidental to the activity of the central depository: Provided that a central depository may carry-out such activity not incidental to its activities as a central depository, as may be assigned by the Commission and subject to such conditions as may be imposed. Provided further that a central depository may carry-out such activity not incidental to its activities as a central depository, by forming subsidiary(ies) subject to the approval of the Commission; and”"
+      },
+      {
+       "n": "5-14",
+       "text": "Inserted by S.R.O. 994 (I)/2018 dated 10th August, 2018."
+      },
+      {
+       "n": "5-15",
+       "text": "The following two provisos have been omitted by S.R.O. 994 (I)/2018 dated 10th August, 2018: “Provided further that, subject to the approval of the Commission, a central depository may carry-out such activity which is not incidental to functions of a central depository, by forming subsidiary(ies) subject to the approval of the Commission for formation of such subsidiary (ies) and investment in such subsidiary(ies): Provided further that a central depository registered with the Commission prior to commencement of these regulations shall be required to transfer any such activity which is not incidental to its functions as a central depository to its subsidiary company(ies) within one year from the date of grant of license under these regulations;”"
+      },
+      {
+       "n": "5-16",
+       "text": "Inserted sub-clause (la) by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Obligations Of Central Depository",
+   "sections": [
+    {
+     "no": "6",
+     "title": "Financial resource requirements",
+     "page": 6,
+     "text": [
+      "{fn:6-17}[ (1) An applicant seeking license under",
+      "regulation 4 shall have an initial paid-up capital and net worth of not less than rupees one billion:",
+      "Provided that the Commission may require the applicant to achieve and maintain, as a licensing condition, a higher paid-up capital and net-worth in a progressive manner:",
+      "{fn:6-18}[Provided further that a central depository registered with the Commission prior to",
+      "commencement of this notification shall be required to maintain such minimum paid-up capital and net-worth and within such timelines as may be notified by the Commission.]",
+      "Explanation: For the purpose of these regulations, net worth shall be calculated as total assets less total liabilities. {fn:6-19}[ ]"
+     ],
+     "fn": [
+      {
+       "n": "6-17",
+       "text": "Substituted regulation 7 by regulation 6 by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted regulation read as follows: “7. Financial resource requirements, -(1) An applicant seeking license under regulation 4 shall have and maintain at all times, a minimum paid-up capital (net of losses) of rupees four billion and net worth of rupees seven billion. Provided that an existing central depository shall meet these requirements within the timelines given below commencing from the date of publication of these regulations in the official gazette. Minimum Paid-up Capital Minimum net-worth Time period allowed Rs.1 billion Rs. 3 billion Within one year Rs. 2.5 billion Rs.5 billion Within 3 years Rs. 4 billion Rs.7 billion Within 5 years Explanation: For the purpose of these regulations, net worth shall be calculated as total assets less total liabilities less surplus on revaluation, if any, created upon revaluation of fixed assets.”"
+      },
+      {
+       "n": "6-18",
+       "text": "Substituted the second sub-proviso and table in regulation 6 vide S.R.O. 1227 (I)/2020 dated 17th November, 2020."
+      },
+      {
+       "n": "6-19",
+       "text": "In the Regulation 6 the words “less surplus on revaluation, if any, created upon revaluation of fixed assets” omitted vide S.R.O 994 (I)/2018 dated 10th August, 2018."
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Application of fit and proper criteria",
+     "page": 6,
+     "text": [
+      "{fn:6-20}[ (1) The applicant and its promoters, substantial shareholders, directors and senior management officers shall at all times be fit and proper persons as per the criteria specified as Annexure-I:",
+      "Provided that while evaluating fit and proper criteria in respect of promoters and substantial shareholders of the central depository, the fit and proper criteria shall also be applied to the extent practical on the directors and majority shareholders of such promoters and substantial shareholders.]"
+     ],
+     "fn": [
+      {
+       "n": "6-20",
+       "text": "Substituted regulation 6 by regulation 7 by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted regulation read as follows: “6. Application of fit and proper criteria, - The substantial shareholders, directors and senior management officers of a central depository shall at all times be fit and proper persons as per the criteria specified as Annexure-I. Provided that in case of substantial shareholders, the requirements of fit and proper criteria shall also be applicable to the directors, sponsors and majority shareholders of such substantial shareholders to the extent as may be practical. Provided further that, in addition to the relevant/applicable clauses, past track record including the history of regulatory compliance and any disciplinary action taken against such substantial shareholder by the relevant regulatory authority shall also be duly considered.”"
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Shareholding requirements",
+     "page": 7,
+     "text": [
+      "{fn:7-21}[ (1) No person other than the following shall,",
+      "directly or indirectly, acquire or hold shares of a central depository:",
+      ">(a) a securities exchange or a connected company or the majority shareholder of such securities exchange, or an associate of the majority shareholder of such securities exchange;",
+      ">(b) any of the following institutions subject to compliance with the conditions provided under sub-regulation (2) below:",
+      ">>(i) a financial institution operating as a development finance institution, an insurance company, or a non-banking finance company;",
+      ">>(ii) a licensed local or a foreign bank operating in Pakistan;",
+      ">>(iii) a local or foreign body corporate constituted or recognized for providing trading, custodial, clearing or settlement services in the securities market as may be approved by the Commission;",
+      ">>(iv) an institution engaged in providing financial services established outside Pakistan as may be approved by the Commission; or",
+      ">>(v) An institution as may be notified by the Commission from time to time:",
+      "Provided that any person other than the above holding shares in an existing central depository shall dispose of its shareholding to an eligible person within a time period of three years from the date of commencement of these regulations.",
+      "(2) Shareholding in a central depository by institutions referred at clause (b) of subregulation (1) shall be subject to the following conditions:",
+      ">(a) the institution or any of its sponsors or directors are not associated person(s) of a TRE certificate holder or any of its sponsors or directors;",
+      ">(b) it complies with the capital requirements specified under the relevant provisions of applicable laws;",
+      ">(c) it has a minimum long-term credit rating, where applicable, not below Aor equivalent;",
+      ">(d) has the capacity and demonstrated the commitment to meet any capital call by the central depository in accordance with the requirements of the Act or regulations made thereunder;",
+      ">(e) its license for providing any financial services has not been suspended or cancelled by any regulatory authority during the last five years;",
+      ">(f) no investigation or enquiry conducted under the relevant laws has been concluded against it by the Commission, State Bank of Pakistan, National Accountability Bureau, Federal Investigation Agency or any other regulatory or government body, with any material adverse findings;",
+      ">(g) an order restraining, prohibiting or debarring it from providing any financial services has not been passed by any regulatory authority, government body or agency or a court of law; and",
+      ">(h) it has not been declared defaulter in payment of taxes.",
+      "(3) Shareholding in a central depository shall be subject to the following limits:",
+      ">(a) collective shareholding of {fn:9-22}[all shareholders other than those mentioned",
+      "at clause (a) of sub-regulation (1) above shall not exceed forty nine percent];",
+      ">(b) collective shareholding of persons residing outside Pakistan, directly or indirectly, shall not exceed {fn:9-23}[twenty five percent] {fn:9-24}[:",
+      "Provided that shareholding of the following shall be excluded from the prescribed limit applicable to foreign investors:",
+      ">>(i) shareholding of foreign strategic investors or foreign anchor investors in the securities exchange; and",
+      ">>(ii) shareholding acquired by foreign investors in financial institutions, insurance companies and Development Finance Institutions which are shareholders of the Central Depository and listed at securities exchange, excluding shareholding held or acquired by foreign sponsors, promoters, or majority shareholders of such listed institutions.]",
+      ">(c) a single shareholder, other than a securities exchange, directly or indirectly, shall not hold more than fifteen percent shares in a central depository.",
+      "(4) Any person holding shares in an existing central depository on the date of commencement of these regulations, shall comply with requirements of sub-regulations (2) and",
+      "(3) above within a time period of three years from the date of commencement of these regulations.]"
+     ],
+     "fn": [
+      {
+       "n": "7-21",
+       "text": "Substituted regulation 8 by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted regulation read as follows: “8. Shareholding requirements, -(1) No person other than the following shall, directly or indirectly, acquire or hold shares of a central depository: a. A public financial institution operating as a development finance institution, an insurance company, and a non-banking finance company; b. A licensed local or a foreign bank operating in Pakistan; c. A licensed securities exchange; d. A local or foreign body corporate constituted or recognized for providing custodial, clearing or settlement services in the securities market as may be approved by the Commission; e. An institution engaged in providing financial services established outside Pakistan as may be approved by the Commission; or f. An institution as may be notified by the Commission from time to time. Provided that any person other than the above holding shares in an existing central depository shall dispose of its shareholding to an eligible person within a time period of three years from the date of commencement of these regulations. (2) Shareholding in a central depository shall be subject to the following limits: (a) collective shareholding of securities exchanges, directly or indirectly, shall not exceed forty percent; (b) collective shareholding of persons residing outside Pakistan, directly or indirectly, shall not exceed twenty percent; (c) a single shareholder, other than a securities exchange, directly or indirectly, shall not hold more than fifteen percent shares in a central depository. Provided that any person holding shares in an existing central depository in excess of the above limits on the date of commencement of these regulations, shall bring its holding in accordance with the above specified limits within a time period of three years from the date of commencement of these regulations.”"
+      },
+      {
+       "n": "9-22",
+       "text": "Substituted the words “securities exchanges, directly or indirectly, shall not exceed forty percent” by S.R.O. 1417 (I)/2021 dated 3rd November, 2021."
+      },
+      {
+       "n": "9-23",
+       "text": "Substituted the word “twenty percent” by S.R.O.1031(I)/2026 dated June 16, 2026."
+      },
+      {
+       "n": "9-24",
+       "text": "Inserted by S.R.O.1031(I)/2026 dated June 16, 2026."
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Composition of [board] of directors and related matters",
+     "page": 9,
+     "text": [
+      "{fn:9-25}(1) The board of",
+      "directors of a central depository shall have following categories of directors:",
+      ">(a) Independent directors;",
+      ">(b) Shareholder directors; and",
+      ">(c) Chief executive officer.",
+      "Explanation: - For the purposes of this clause the term \"independent director\" means a director who is not connected or does not have any other relationship, whether pecuniary or otherwise, with the {fn:9-26}[central depository], its associated companies, subsidiaries, holding",
+      "company or directors. The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgment without being subservient to any form of conflict of interest:",
+      "Provided that without prejudice to the generality of this explanation no director shall be considered independent if one or more of the following circumstances exist:",
+      ">(a) he/she has been an employee of the {fn:10-2}[central depository], any of its",
+      "subsidiaries or holding company within the last three years;",
+      ">(b) he/she is or has been the chief executive officer of subsidiaries, associated company, associated undertaking or holding company {fn:10-27}[of a central",
+      "depository] in the last three years;",
+      ">(c) he/she has, or has had within the last three years, a material business relationship with the {fn:10-2}[central depository] either directly, or indirectly as",
+      "a partner, substantial shareholder or director of a body that has such a relationship with the {fn:10-2}[central depository] {fn:10-28}[;]",
+      ">(d) he/she has received remuneration in the three years preceding his/her appointment as a director or receives additional remuneration, excluding retirement benefits from the applicant apart from a director’s fee or has participated in the {fn:10-29}[central depository’s] share option or a performance",
+      "related pay scheme;",
+      ">(e) he/she is a close relative of the {fn:10-30}[central depository’s] promoters, directors or {fn:10-31}[substantial] shareholders:",
+      "Explanation: {fn:10-32}[“close relative”] means spouse(s), lineal ascendants and descendants and",
+      "siblings;",
+      ">(f) he/she holds cross-directorships or has significant links with other directors through involvement in other companies or bodies; or",
+      ">(g) {fn:10-33}[“he/she has served on the board for more than two terms from the date of his/her first appointment:",
+      "Provided that no individual shall serve as an independent director for more than three terms in total across all capital market infrastructure institutions i.e. securities exchanges, clearing houses, central depositories and futures exchanges:",
+      "Provided further that any person nominated as a director under sections 182 and 183 of the Ordinance shall not be taken to be an \"independent director\" for the above-mentioned purposes:",
+      "Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the central depository.”]",
+      "{fn:11-34}[(2) The central depository shall not have more than two directors associated with a",
+      "TRE certificate holder on its board of directors and shall have independent directors not less than one third of its total directors.]",
+      "{fn:11-35}[(3) An independent director shall be appointed by the board of directors of the central",
+      "depository with prior written approval of the Commission in the following manner:",
+      ">(a) a central depository shall maintain a panel of fit and proper persons suitable for appointment as independent directors {fn:11-36}[in accordance with the guidelines issued by the Commission];",
+      ">(b) a minimum of two names from the panel maintained under clause (a) above shall be submitted by the central depository to the Commission for each vacancy for its approval;",
+      ">(c) the Commission may, if satisfied that a person is suitable for appointment as independent director grant its approval for the appointment of the selected person by the board of directors of the central depository:",
+      "Provided that where the Commission is not satisfied about the suitability of the proposed persons for appointment as a director, it may refer the matter back to the central depository for proposing other names after following the due process;",
+      ">(d) unless provided otherwise, the term of the independent directors so appointed shall be the same as that of the shareholder directors;",
+      ">(e) an independent director may be removed by the board of directors of the central depository with prior written approval of the Commission if such persons fails to comply with the fit and proper criteria;",
+      ">(f) any vacant position of an independent director shall be filled in the similar manner as provided for initial appointment of an independent director.]",
+      "{fn:12-37}[Omitted]",
+      "(4). At least one independent director shall be present in the meeting of board of directors of {fn:12-38}[the] central depository to constitute the quorum.",
+      "{fn:12-39}[Provided that this condition shall not be applicable in the case of first meeting of the",
+      "board of directors after the election of directors in which the names of the independent directors are to be finalized for submission to Commission as per sub-regulation 9(3):",
+      "Provided further that in the first meeting of the board of directors after the election of directors in which the names of the independent directors are to be finalized no other matter shall be decided by the board of directors.]",
+      "(5) The chairman of the board of directors of a central depository shall be from amongst the independent directors.",
+      "(6) Every director and senior management officer of a central depository shall abide by the code of conduct to be formulated by the central depository in accordance with the guidelines specified at Annexure II.",
+      "{fn:12-40}[(7) A central depository registered with the Commission prior to the commencement",
+      "of these regulations shall ensure compliance with the provisions of this regulation within nine months from the date of commencement of these regulations.]",
+      "{fn:12-41}[(8) The central depository shall obtain clearance from the Commission on the fit and propriety of the directors prior to their appointment or election, as the case may be, on the board of directors of the central depository and shall submit confirmation that it has evaluated the persons against the fit and proper criteria as provided under these regulations and has no adverse findings therein.]"
+     ],
+     "fn": [
+      {
+       "n": "9-25",
+       "text": "Substituted the word “board” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "9-26",
+       "text": "Substituted the word “applicant” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "10-27",
+       "text": "Inserted by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "10-28",
+       "text": "Substituted the colon with a semi-colon."
+      },
+      {
+       "n": "10-29",
+       "text": "Substituted the word “applicant’s” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "10-30",
+       "text": "Substituted the word “applicant’s” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "10-31",
+       "text": "Substituted the word “major” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "10-32",
+       "text": "Inverted commas inserted by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "10-33",
+       "text": "Substituted sub-clause (g) and sub-provisos vide SRO 1064(I)/2023 dated August 13, 2023. The substituted sub- clause reads as follow: “(g) he/she has served on the board for more than three consecutive terms from the date of his/her first appointment provided that such person shall be deemed “independent director” after a lapse of one term. Provided that any person nominated as a director under sections 182 and 183 of the Ordinance shall not be taken to be an \"independent director\" for the above-mentioned purposes. Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the central depository.”"
+      },
+      {
+       "n": "11-34",
+       "text": "Substituted sub-regulation (2) by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-regulation read as follows: “(2) The central depository shall have independent directors not less than one third of its total directors.”"
+      },
+      {
+       "n": "11-35",
+       "text": "Substituted sub-regulation (3), by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-regulation read as: “(3) An independent director shall be appointed in the following manner: (a) A central depository shall forward to the Commission the names of persons to be appointed as independent directors. A minimum of two names shall be submitted to the Commission for each vacancy of independent directors for its approval. (b) The central depository shall ensure that independent directors are selected from diverse field of work with appropriate qualification and experience.”"
+      },
+      {
+       "n": "11-36",
+       "text": "Inserted vide S.R.O. 549 (I)/2020 dated 11th June, 2020."
+      },
+      {
+       "n": "12-37",
+       "text": "Deleted the proviso vide S.R.O. 1270 (I)/2020 dated 26th November, 2020."
+      },
+      {
+       "n": "12-38",
+       "text": "Substituted the word “a” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "12-39",
+       "text": "Inserted vide S.R.O. 549 (I)/2020 dated 11th June, 2020."
+      },
+      {
+       "n": "12-40",
+       "text": "Substituted sub-regulation (7) by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-regulation read as follows: “(7) An existing central depository shall ensure compliance with the provisions of this regulation within three months from the date of commencement of these regulations.”"
+      },
+      {
+       "n": "12-41",
+       "text": "Inserted vide S.R.O. 549 (I)/2020 dated 11th June, 2020."
+      },
+      {
+       "n": "10-2",
+       "text": "Insertion made by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Appointment of chief executive officer",
+     "page": 13,
+     "text": [
+      "{fn:13-42}[(1) The appointment, renewal of",
+      "appointment and termination of services of the chief executive officer of a central depository shall be made subject to prior approval of the Commission and for this purpose the term “removal and/or termination” shall include non-renewal of his contract.]",
+      "(2) The board of directors of a central depository shall determine the manner of appointment, terms and conditions of appointment and other procedural formalities associated with the selection/ appointment of the chief executive officer.",
+      "{fn:13-43}[(3) A chief executive officer shall be appointed by the central depository through",
+      "following process:",
+      ">(a) a central depository shall shortlist names of three persons meeting the fit and proper criteria provided in these regulations and shall submit one name with its recommendation for approval of the Commission;",
+      ">(b) the Commission may, if satisfied that such person is suitable for appointment by the central depository as chief executive officer of the central depository, grant its approval for the same:",
+      "Provided that, if the Commission is not satisfied with the suitability of the proposed person for appointment as chief executive officer, it may refer the matter back to the central depository for proposing another name for consideration of the Commission.]",
+      "(4) {fn:13-44}[The appointment of the chief executive officer shall be made for a period of",
+      "three years, which may be renewed for one more term of three years, with the prior approval of the Commission:",
+      "Provided that a person may be appointed for third and final term of three years, based on exceptional performance that is substantiated by the board of directors through a rigorous review, subject to following a competitive hiring process and final review and approval by the Commission.]"
+     ],
+     "fn": [
+      {
+       "n": "13-42",
+       "text": "Substituted sub-regulation (1) by S.R.O. 82 (I)/2017 dated 7th February, 2017. The sub-regulation read as: “(1) The appointment, renewal of appointment and termination of service of the chief executive officer of a central depository shall be subject to prior approval of the Commission. Explanation: For this purpose, removal shall include non-renewal of the contract of chief executive officer."
+      },
+      {
+       "n": "13-43",
+       "text": "Substituted sub-regulation (3) by S.R.O. 82 (I)/2017 dated 7th February, 2017. The sub-regulation (3) read as follows: “(3) A chief executive officer shall be appointed in the following manner: (a) A central depository shall forward to the Commission names of three persons meeting fit and proper criteria provided in these regulations for selection and approval of one of them as chief executive officer. (b) The Commission may, if satisfied that the person is suitable for appointment as chief executive officer of the central depository, grant its approval for the appointment of the selected person as chief executive officer of the central depository.”"
+      },
+      {
+       "n": "13-44",
+       "text": "Substituted sub-clause 4 of the Regulation 10 vide SRO 1064(I)/2023 dated August 13, 2023. The substituted sub-clause reads as follows: “The appointment of the chief executive officer shall be made for a period of three years subject to renewal with the prior approval of the Commission. “"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Appointment of compliance officer",
+     "page": 14,
+     "text": [
+      "{fn:14-45}[(1) The appointment and termination",
+      "of services of the compliance officer of a central depository shall be subject to prior written approval of the Commission.]",
+      "{fn:14-46}[(2) A compliance officer shall be appointed by the central depository through the",
+      "following process:",
+      ">(a) a central depository shall shortlist names of three persons meeting the fit and proper criteria provided in these regulations and shall submit one name with its recommendation for approval of the Commission;",
+      ">(b) The Commission may, if satisfied that such person is suitable for appointment by the central depository as compliance officer of the central depository, grant its approval for the same:",
+      "Provided that, if the Commission is not satisfied with the suitability of the proposed person for appointment as compliance officer, it may refer the matter back to the central depository for proposing another name for consideration of the Commission.]",
+      "{fn:14-47}[(3) The compliance officer shall be a dedicated position and must not have any other responsibilities except as listed below or any ancillary responsibility;",
+      ">(a) manage, lead and control the compliance and regulatory functions of the central depository {fn:15-48}[unless otherwise outsourced to the extent permitted under these regulations];",
+      ">(b) develop, implement and monitor compliance policies, processes and procedures to cover all aspects relating to regulatory, operational and statutory obligations of the central depository;",
+      ">(c) handle matters relating to the regulations of the central depository, including regular review of the same to ensure their suitability and finalizing proposals for making new regulations or carrying out amendments in the existing regulations for the approval of the board of directors of the central depository;",
+      ">(d) monitor compliance of the central depository and CDS elements with applicable legal and regulatory framework, policies and procedures {fn:15-49}[unless otherwise outsourced to the extent permitted under these regulations] and take enforcement action(s) under the applicable regulatory framework;",
+      ">(e) supervise or conduct any investigation, inspection or enquiry required to be conducted by a central depository {fn:15-50}[unless otherwise outsourced to the extent permitted under these regulations];",
+      ">(f) monitor the redressal of disputes, complaints or grievances arising out of handling of securities in the central depository system in a timely manner;",
+      ">(g) maintain effective liaison with the Commission in respect of the above stated matters {fn:15-51}[through periodic meetings and submission of reports as may be required by the Commission]; and",
+      ">(h) perform any other related function as may be assigned by the central depository or the Commission.]",
+      "{fn:15-52}[(3A) The compliance officer shall functionally report to the board of directors of the",
+      "central depository.",
+      "(3B) In case of any non-compliance, the compliance officer shall take necessary action under the applicable regulatory framework and where the matter requires attention of the board of directors of the central depository, the same shall be reported immediately:",
+      "Provided that where a compliance officer is convinced that the matter also needs immediate attention of the Commission, he shall simultaneously report to the Commission stating the reasons thereof.]",
+      "(4) In case no action is taken by the board of directors within a reasonable time period or the compliance officer is of the view that the action taken by the board of directors is insufficient, {fn:16-53}[he] shall forthwith report the matter to the Commission.",
+      "(5) The compliance officer shall submit a comprehensive report on quarterly basis to the board of directors {fn:16-54}[and the Commission] regarding matters reported during the respective quarter, the corrective actions taken and their status {fn:16-55}[and shall submit such additional reports to",
+      "the Commission as may be specified].",
+      "{fn:16-56}[(6) The board of directors of the central depository shall put in place necessary mechanism to ensure that the compliance officer performs his functions in a transparent, equitable and timely manner]"
+     ],
+     "fn": [
+      {
+       "n": "14-45",
+       "text": "Substituted sub-regulation (1) by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-regulation read as follows: “(1) A central depository shall appoint a compliance officer, with prior written approval of the Commission, who shall be responsible for monitoring compliance of the central depository with the applicable legal and regulatory framework.”"
+      },
+      {
+       "n": "14-46",
+       "text": "Substituted sub-regulation (2) by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-regulation read as follows: “(2) A compliance officer shall be appointed in the following manner: (a) A central depository shall forward to the Commission names of three persons meeting fit and proper criteria provided in these regulations for selection and approval of one of them as compliance officer. The Commission may, if satisfied that the person is suitable for appointment as compliance officer of the central depository, grant its approval for the appointment of the selected person as compliance officer of the central depository.”"
+      },
+      {
+       "n": "14-47",
+       "text": "Substituted sub-regulation (3) by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-regulation read as follows: “(3) The compliance officer shall independently report to the board of directors of the central depository any non-compliance of the applicable legal and regulatory framework. Provided that where a compliance officer is convinced that the matter needs immediate attention of the Commission, it may simultaneously report to the Commission stating the reasons for such simultaneous reporting.”"
+      },
+      {
+       "n": "15-48",
+       "text": "Inserted vide S.R.O. 1304 (I)/2019 dated 1st November, 2019."
+      },
+      {
+       "n": "15-49",
+       "text": "Inserted vide S.R.O. 1304 (I)/2019 dated 1st November, 2019."
+      },
+      {
+       "n": "15-50",
+       "text": "Inserted vide S.R.O. 1304 (I)/2019 dated 1st November, 2019."
+      },
+      {
+       "n": "15-51",
+       "text": "Inserted vide S.R.O. 549 (I)/2020 dated 11th June, 2020."
+      },
+      {
+       "n": "15-52",
+       "text": "Inserted vie S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "16-53",
+       "text": "Substituted the word “it” vide S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "16-54",
+       "text": "Inserted vide S.R.O. 549 (I)/2020 dated 11th June, 2020."
+      },
+      {
+       "n": "16-55",
+       "text": "Inserted vide S.R.O. 549 (I)/2020 dated 11th June, 2020."
+      },
+      {
+       "n": "16-56",
+       "text": "Inserted vide S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      }
+     ]
+    },
+    {
+     "no": "11A",
+     "title": "Outsourcing of compliance functions",
+     "page": 16,
+     "text": [
+      "{fn:16-57}[- (1) A central depository may enter into",
+      "an arrangement with a securities exchange, with the prior approval of the Commission, for outsourcing its compliance function with respect to its CDS elements which are TRE certificate holders in the following manner:",
+      ">(a) the central depository shall enter into a service level agreement with the securities exchange for outsourcing the compliance function after obtaining approval of its board of directors with respect to shifting of employees and defining the role, responsibilities, duties, obligations of securities exchange, scope of services, remuneration of shifting compliance function, indemnification to the central depository and any other important matter;",
+      ">(b) upon signing the service level agreement and from the effective date provided in the agreement, the securities exchange shall, on the behalf of central depository, supervise or conduct any investigation, inspection or enquiry, in accordance with the service level agreement and the regulations of the securities exchange and central depository, required to be conducted by a central depository in respect of CDS elements which are TRE certificate holders;",
+      ">(c) the central depository shall maintain liaison with the chief regulatory officer of the securities exchange and jointly develop procedures for enabling the securities exchange in performing functions relating to monitoring compliance through inspections, investigation or enquiry in respect of CDS elements which are TRE certificate holders and for regular updating with respect to changes in the regulations.",
+      "(2) The central depository shall be fully liable and accountable for the compliance functions that are being outsourced to the same extent as if the functions were performed inhouse.]"
+     ],
+     "fn": [
+      {
+       "n": "16-57",
+       "text": "Inserted vide S.R.O. 1304 (I)/2019 dated 1st November, 2019."
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Manner of outsourcing of important functions",
+     "page": 17,
+     "text": [
+      "(1) A central depository shall not outsource any of its functions without prior written approval of the Commission.",
+      "(2) The board of directors of a central depository shall be responsible for formulation and approval of outsourcing policy describing activities or the nature of activities that can be outsourced, the authorities who can approve outsourcing of such activities, and the selection of third party to whom it can be outsourced.",
+      "(3) The records relating to all activities outsourced shall be preserved centrally by the central depository so that the same is readily accessible for review by the board of directors, the Commission or any other authorized person.",
+      "(4) The central depository shall be fully liable and accountable for the activities that are being outsourced to the same extent as if the service were provided in-house. The facilities, premises or data involved in carrying out the outsourced activity by the service provider shall be deemed to be those of the central depository.",
+      "(5) The central depository shall take appropriate steps to ensure that third parties protect confidential information of both the central depository, its customers and other parties involved from intentional or inadvertent disclosure to unauthorized persons.",
+      "(6) The central depository desirous of outsourcing their activities shall not, however, outsource their core business activities {fn:17-58}[ ].",
+      "{fn:17-59}[(7) The central depository may outsource its compliance function subject to",
+      "compliance with the conditions specified in regulation 11A.]"
+     ],
+     "fn": [
+      {
+       "n": "17-58",
+       "text": "Deleted the words “and compliance functions” vide S.R.O. 1304 (I)/2019 dated 1st November, 2019."
+      },
+      {
+       "n": "17-59",
+       "text": "Inserted vide S.R.O. 1304 (I)/2019 dated 1st November, 2019."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Audit And Accounts",
+   "sections": [
+    {
+     "no": "13",
+     "title": "General",
+     "page": 17,
+     "text": [
+      "These obligations and duties of central depository under these regulations with respect to audit and accounts are in addition to the requirements of the Ordinance, the rules and regulations made thereunder and any directives issued thereunder."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Maintenance of accounting records",
+     "page": 17,
+     "text": [
+      "(1) A central depository shall keep accounting and other records which shall sufficiently explain its business and transactions entered into (whether effected on its own behalf or on behalf of participants) and shall be such as to, –",
+      ">(a) disclose with accuracy the financial position at that time;",
+      ">(b) enable the central depository to prepare financial statements at any time and which comply with requirements of the law;",
+      ">(c) demonstrate whether the central depository is maintaining adequate financial resources to meet its business commitments;",
+      ">(d) demonstrate capacity of the central depository with respect to its duties, functions and operations under the Act and these regulations; and",
+      ">(e) demonstrate its preparedness to manage any risk arising out of its duties, functions and operations",
+      "(2) The central depository shall ensure that all requirements with respect to accounting and audit under these regulations are updated in a timely manner.",
+      "(3) The central depository shall ensure that information which is required to be recorded under the Act and these regulations shall be recorded in such a way as to enable a particular transaction to be identified at any time and traced from initiation of the order to final settlement.",
+      "(4) All records required to be maintained under the Act and these regulations shall be arranged, filed, indexed and cross-referenced so as to permit prompt access to any particular record.",
+      "(5) The central depository shall preserve the records required under these regulations for a period of ten years from the date on which they are made and should seek clearance from the Commission before destruction of any of its records."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Appointment of auditor and related matters",
+     "page": 18,
+     "text": [
+      "(1) A central depository shall ensure that it has appointed an auditor {fn:18-60}[from the list of approved auditors to conduct audit of central",
+      "depository as notified by the Commission] who has inter-alia the powers and duties specified under sub-regulation 3 and, –",
+      ">(a) those powers and duties are set out in an engagement letter;",
+      ">(b) the engagement letter is signed by the central depository and the auditor; and",
+      ">(c) the central depository retains a copy of the engagement letter.",
+      "(2) A central depository shall, within seven days, give written notice to the Commission of the appointment, removal or resignation of an auditor.",
+      "(3) The auditor appointed by a central depository shall have a right to, –",
+      ">(a) access to its accounting and other records and all other documents relating to its business including the documents required to be maintained under the Act and these regulations; and",
+      ">(b) require from it such information and explanations as the auditor considers necessary for the performance of duties.",
+      "(4) In preparing an {fn:19-61}[auditor’s] report of a central depository, the auditor shall carry",
+      "out such relevant audit procedures as will enable him to form an opinion as to the matters required to be stated in the audit report.",
+      "(5) {fn:19-62}[Omitted]",
+      "(6) Where an auditor resigns or is removed by the central depository, a notice to that effect shall be sent to the Commission containing a statement signed by the auditor to the effect that there are no circumstances connected with his resignation or removal which the auditor considers should be brought to the attention of the Commission.",
+      "shall, {fn:20-65}[ ], appoint an independent auditor {fn:20-66}[from the list of approved auditors for a central depository as notified by the Commission, other than the auditor appointed under sub-regulation (1) above] with relevant expertise who shall conduct such audit in accordance with the terms of reference specified in Annexure III.]",
+      "{fn:20-67}[7B For the purposes of audit specified in sub-regulation (7) above, a central depository shall, at the minimum, rotate the auditor after every five years.]",
+      "(8) The {fn:20-68}[Commission] may appoint an auditor to carry out a special audit of the central depository, including {fn:20-69}[ ] regulatory compliance audit, at the expense of the central",
+      "depository, in accordance with the terms of reference as specified in Annexure IV. The audit shall be carried out for such period as the Commission may direct at the time of appointing the auditor."
+     ],
+     "fn": [
+      {
+       "n": "18-60",
+       "text": "Inserted vide S.R.O. 412(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "19-63",
+       "text": "Substituted sub-regulation (7) by S.R.O. 82 (I)/2017 dated 7th February, 2017. The substituted sub-regulation read as follows: “(7) The central depository shall appoint an auditor with the prior approval of the commission to carry out an audit of its systems every alternate year in accordance with the terms of reference specified in Annexure III.”"
+      },
+      {
+       "n": "19-64",
+       "text": "Inserted by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "19-61",
+       "text": "Substituted the word “auditor” vide S.R.O. 82 (I)/2017 dated 7th February, 2017. 62 Sub-regulation (5) of Regulation (15) omitted vide S.R.O.962 (I)/2022 dated 23th June, 2022. the omitted sub- regulations read as follows: (5) The auditor's report shall state all the matters as are required to be stated in accordance with the requirements of the Ordinance and additionally must state whether in the opinion of the auditor. (a) an adequate internal control system commensurate with the size and nature of services performed by the central depository was implemented during the period; and (b) the compliance function had appropriate resources including the human resource and implemented effective compliance procedures and reporting mechanism which can be reasonably expected to ensure compliance with the applicable laws and detect and report any non-compliance in a timely manner."
+      },
+      {
+       "n": "20-65",
+       "text": "Deleted the words “with the prior approval of the Commission” S.R.O. 412(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "20-66",
+       "text": "Inserted vide S.R.O. 412(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "20-67",
+       "text": "Inserted vide S.R.O. 412(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "20-68",
+       "text": "Substituted the word’ “commission” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "20-69",
+       "text": "Omitted the word “a” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      }
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Submission of annual report",
+     "page": 20,
+     "text": [
+      "(1) A central depository shall submit an annual report to the Commission within {fn:20-70}[four] months of the close of financial year, inter alia,",
+      "containing the following information in addition to the requirements of section 61 of the Act;",
+      ">(a) audited financial statements containing information as required under the Act and these regulations;",
+      ">{fn:20-71}[(aa) audit report in respect of audit of operations, regulatory functions",
+      "and IT systems conducted under regulation 15 to demonstrate regulatory compliance of the central depository during the financial year;]",
+      ">(b) report of directors to shareholders;",
+      ">(c) statement of compliance with the code of corporate governance;",
+      ">(d) month-wise transaction volume and value;",
+      ">(e) total number of participants, eligible securities and other elements alongwith information with respect to addition or {fn:20-72}[reduction]during the",
+      "period;",
+      ">(f) summary of assets held under custody by the participants with the central depository;",
+      ">(g) names and brief profiles of members of {fn:20-73}[the] board of directors and senior",
+      "management officers;",
+      ">(h) details of disciplinary actions taken, fines and penalties imposed and recovered;",
+      ">{fn:20-74}[(i) pattern of shareholding with name of each shareholder; and]",
+      ">(j) any other information that may be deemed material by the central depository for disclosure in the annual report.",
+      "{fn:21-75}[(2) In addition to the submission of annual report to the Commission, the central",
+      "depository shall place the annual report on its official website no later than one week from the date of its publication.]"
+     ],
+     "fn": [
+      {
+       "n": "20-70",
+       "text": "Substituted the word “three” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "20-71",
+       "text": "Inserted by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "20-72",
+       "text": "Substituted the word “deletion” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "20-73",
+       "text": "Inserted the word “the” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "20-74",
+       "text": "Substituted sub-clause (i) by S.R.O. 82 (I)/2017 dated 7th February, 2017.The substituted sub-clause (i) read as follows: “(i) pattern of shareholding, giving names of persons holding more than 10% shares and all changes in the shareholding above 10%;”"
+      },
+      {
+       "n": "21-75",
+       "text": "Inserted by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      }
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Submission of information and returns",
+     "page": 21,
+     "text": [
+      "(1) The central depository, with approval of its board of directors, shall submit to the Commission, within {fn:21-76}[two months] of the",
+      "close of its financial year, a yearly performance report of the central depository against the approved targets and plans, highlighting in particular performance of the board of directors, chief executive officer and compliance officer of the central depository.",
+      "(2) The Commission may by written notice require a central depository to submit to it such periodic returns as it may direct.",
+      "(3) In addition to any periodic returns required under {fn:21-77}[sub-regulation (1) and (2)],",
+      "the Commission may by written notice require a central depository, either generally or in a particular case or class of {fn:21-78}[cases], to submit to it such {fn:21-79}[other information or] exceptional",
+      "returns as it may direct.",
+      "FORM A",
+      "APPLICATION FOR GRANT OF LICENSE AS A CENTRAL DEPOSITORY UNDER REGULATION 4",
+      "The Securities and Exchange Commission of Pakistan",
+      "Islamabad",
+      "Subject: Application for grant of license under regulation 4 of the Central Depositories (Licensing and Operations) Regulations, 2016",
+      "Dear Sir, We/I on behalf of.................. (name and address of applicant) hereby apply for grant of license as central depository for the purposes of the Securities Act, 2015 and the Central Depositories (Licensing and Operations) Regulations, 2016.",
+      "All the necessary information required under the laws is enclosed. Any additional information will be furnished as and when called for by the Commission.",
+      "We/I, on behalf of the applicant, hereby undertake to comply with the requirements of the laws and such other conditions and terms as may be communicated while granting the license or imposed subsequently.",
+      "Bank Challan No…….dated……evidencing payment of license fee of rupees one million and collection charges into the designated bank account of the Securities and Exchange Commission of Pakistan is also enclosed",
+      "Yours sincerely,",
+      "Authorised signatory FORM B",
+      "THE SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+      "License of a Central Depository under section 49 of the Securities Act, 2015",
+      "The Securities and Exchange Commission of Pakistan, having considered the application for grant of license under regulation 4 of the Central depositories (Licensing and Operations) Regulations, 2016 by..................... (name and address of central depository) and being satisfied that it would be in the interest of the securities market and also in the public interest so to do, hereby grants license, in exercise of the powers conferred by section 49 of the Securities Act, 2015, to the said central depository on the …. day of ……. 20…. subject to the such conditions as stated in the attached letter or as may be imposed hereafter.",
+      "Seal of the Commission Signature of Officer Islamabad"
+     ],
+     "fn": [
+      {
+       "n": "21-76",
+       "text": "Substituted the words, “one month” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "21-77",
+       "text": "Substituted the words “sub-regulation (1)” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "21-78",
+       "text": "Substituted the word, “case” by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      },
+      {
+       "n": "21-79",
+       "text": "Inserted by S.R.O. 82 (I)/2017 dated 7th February, 2017."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "Made under section 169 of the Securities Act, 2015 (recital).",
+ "schedules": [
+  {
+   "title": "Annexure I",
+   "page": 24
+  },
+  {
+   "title": "Annexure Ii",
+   "page": 35
+  },
+  {
+   "title": "Annexure Iii",
+   "page": 38
+  },
+  {
+   "title": "Annexure – Iv",
+   "page": 40
+  }
+ ],
+ "frontNotes": [
+  {
+   "n": "1-1",
+   "text": "The S.R.O. 120 (I)/2016 dated 15th February, 2016 is further amended vide S.R.O. 82 (I)/2017 dated 7th February, 2017; S.R.O. 994 (I)/2018 dated 10th August, 2018; S.R.O. 1304 (I)/2019 dated 1st November, 2019; S.R.O. 549 (I)/2020 dated 11th June, 2020; S.R.O. 1270(I)/2020 dated 26th November, 2020; S.R.O. 18 (I)/2021 dated 11th January, 2021, S.R.O. 1417 (I)/2021 dated 3rd November, 2021, S.R.O. 962(I)/2022 dated 23rd June, 2022, March 29, 2023, S.R.O.1064(I)/2023 dated August 13, 2023 and S.R.O.1031(I)/2026 dated June 16, 2026."
+  }
+ ]
+}

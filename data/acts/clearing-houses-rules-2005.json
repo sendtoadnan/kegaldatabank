@@ -1,0 +1,217 @@
+{
+ "id": "clearing-houses-rules-2005",
+ "title": "Clearing Houses (Registration and Regulation) Rules, 2005",
+ "number": "S.R.O. 504(I)/2005",
+ "type": "rules",
+ "unit": "Rule",
+ "parent": "secp-act-1997",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Clearing House Rules",
+  "Clearing Houses Rules 2005"
+ ],
+ "enacted": "2005-06-01",
+ "lastAmended": "2005-06-01",
+ "amendedUpToLabel": "As made (1 June 2005)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "clearing-houses-rules-2005.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to As made (1 June 2005). Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, commencement and application",
+     "page": 1,
+     "text": [
+      "(1) These rules may be called the Clearing Houses (Registration and Regulation) Rules, 2005.",
+      "(2) They shall come into force at once.",
+      "(3) These rules shall apply to a clearing house as are required by the Commission to be registered under these rules from time to time.",
+      "(4) Nothing contained in these rules shall apply to a clearing house established by a stock exchange providing in-house facilities to the stock exchange for settlement of securities."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these rules unless there is anything repugnant in the subject or context, -",
+      ">(a) “Act” means the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(b) “CD Act” means the Central Depositories Act, 1997 (XIX of 1997);",
+      ">(c) “clearing and settlement fund” means the fund created pursuant to rule 12;",
+      ">(d) “clearing fund contribution” means the contribution required to be made by a clearing member to the clearing and settlement fund;",
+      ">(e) “clearing house” means a clearing house as defined in clause (f) of section 2 of the Act;",
+      ">(f) “clearing member” means a person who is admitted as a clearing member for clearing and settlement on his own behalf as well as on behalf of other brokers, under the regulations;",
+      ">(g) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Act;",
+      ">(h) “Ordinance of 1969” means the Securities and Exchange Ordinance, 1969 (XVII of 1969); and",
+      ">(i) “Ordinance of 1984” means the Companies Ordinance, 1984 (XLVII of 1984).",
+      "(2) The words and expressions used but not defined in these rules shall have the same meaning as are assigned to them in the Act, Ordinance of 1969, Ordinance of 1984, and the CD Act, as the case may be."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Eligibility for registration",
+     "page": 2,
+     "text": [
+      "A person desirous of commencing business as a clearing house shall be eligible for registration under these rules subject to fulfillment of the following conditions, namely: -",
+      ">(a) That such person is incorporated as a public limited company under the Ordinance of 1984;",
+      ">(b) that at least one stock exchange in Pakistan is a shareholder of such house;",
+      ">(c) that no promoter, director, officer or employee of such house,-",
+      ">>(i) has been convicted of fraud, breach of trust or an offence involving moral turpitude or removed from service for misconduct or has been adjudicated as insolvent;",
+      ">>(ii) has been associated with any illegal banking business, deposit taking or financial dealings;",
+      ">>(iii) has been a sponsor, director, chief executive or a senior management officer of a defaulting co-operative finance society or finance company; or",
+      ">>(iv) has been a defaulter of any commercial bank or financial institution or non-banking financial institution or has suspended payment or has compounded with his creditors;",
+      ">(d) that the promoters of such house are persons of means and integrity and have special knowledge of matters which the house may have to deal with as a clearing house; and",
+      ">(e) that such person has complied with such other conditions as may be required by the Commission in the interest of the capital market."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Registration",
+     "page": 4,
+     "text": [
+      "(1) A person, eligible for registration under rule 3 may make an application to the Commission in such manner as the Commission may, from time to time prescribe.",
+      "(2) An application under sub-rule (1) shall be accompanied by a fee as may be specified by the Commission with the approval of the Board.",
+      "(3) The Commission if it is satisfied, after such inquiry and after obtaining such further information as it may consider necessary, that, -",
+      "a) the applicant is eligible for registration; and",
+      "b) it would be in the interest of the capital market so to do, grant a certificate of registration under its seal to such house."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Refusal to grant registration",
+     "page": 4,
+     "text": [
+      "(1) No application for registration made under rule 4 shall be refused except after giving the applicant an opportunity of being heard.",
+      "(2) In case the Commission refuses to grant registration to an applicant, the decision shall be communicated to the applicant stating therein the reasons for such refusal and the fee collected from the applicant shall be refunded."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Registration of existing clearing houses",
+     "page": 4,
+     "text": [
+      "(1) Notwithstanding anything to the contrary contained in these rules, a clearing house by whatever name or designation already in existence at the time of commencement of these rules, except in-house clearing houses as referred in sub-rule (4) of rule 1, shall apply in writing to the Commission for grant of registration under rule 4, before the expiry of six months from the commencement of these rules.",
+      "(2) The Commission, if it is satisfied that such clearing house has fulfilled the conditions of eligibility for registration as specified under rule 3, may register such clearing house subject to such limitations as it may impose on the scope of its functions as a clearing house, as deemed fit by the Commission."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Renewal of registration",
+     "page": 5,
+     "text": [
+      "(1) The certificate of registration granted under rule 4 shall be valid for one year and shall be renewable on payment of fee as may be specified by the Commission with the approval of the Board.",
+      "(2) The Commission shall, on receipt of payment of renewal fee and after making such inquiries and after obtaining further information as it may consider necessary, within thirty days of the receipt of the application, renew the registration of such house. However, the Commission may impose such further conditions, upon the renewal of registration of a clearing house, as it deems appropriate."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Refusal to grant renewal of registration",
+     "page": 5,
+     "text": [
+      "(1) No application made under rule 7 shall be refused except after giving the applicant an opportunity of being heard.",
+      "(2) In case the Commission refuses to grant renewal of registration to an applicant, the decision shall be communicated to the applicant stating therein the reasons for such refusal and the renewal fee collected from the applicant shall be refunded."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Power to suspend or cancel registration, etc",
+     "page": 6,
+     "text": [
+      "Without prejudice to the powers of the Commission under the Act, the Ordinance of 1969, or the Ordinance of 1984, upon being satisfied that a clearing house is not discharging its functions in accordance with the law, or neglects to so act, or otherwise fails to carry on its business in the interests of the capital market, the Commission may, after providing an opportunity to show cause, take such measures as it deems expedient including but not limited to suspension or cancellation of registration under these rules and take such other action as may be necessary to safeguard the interests of all stakeholders concerned."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Submission of annual report, etc",
+     "page": 6,
+     "text": [
+      "(1) A clearing house shall file its annual report and accounts within four months of the close of the accounting period along with the following information and documents, namely: -",
+      ">(a) Names of the persons admitted or readmitted as clearing members of the clearing house and any change therein;",
+      ">(b) list of shareholders of the clearing house indicating change in the shareholdings, if any;",
+      ">(c) names of the senior management staff of the clearing house with their respective qualifications and experience;",
+      ">(d) names of brokers defaulting during the year along with nature and amounts of default;",
+      ">(e) disciplinary action taken against clearing members;",
+      ">(f) name wise details (nature and amount) of penalties imposed on the clearing members; and",
+      ">(g) action taken to combat any emergency in settlement of securities.",
+      "(2) Without prejudice to the provisions of sub-rule (1), a clearing house shall furnish to the Commission such other documents, information or explanation relating to its affairs as the Commission may, from time to time, require in writing."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Obligation of clearing members towards clearing house",
+     "page": 7,
+     "text": [
+      "(1) A clearing house shall have the power to call for information, undertake inspections, conduct inquiries and audits of its clearing members in relation to the performance of its functions, under the regulations.",
+      "(2) A clearing member shall submit all information and records to the clearing house in respect of inspections, investigations, inquiries and audits whether undertaken at the initiative of the clearing house or on the direction of the Commission and shall respond to all requests by the clearing house for information on a regular or exceptional basis."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Establishment of clearing and settlement fund",
+     "page": 7,
+     "text": [
+      "(1) A clearing house shall establish a clearing and settlement fund from which a clearing member’s obligation to clearing house may be satisfied, in case of default of such member, and every clearing member shall make his clearing fund contribution to the clearing and settlement fund.",
+      "(2) The clearing and settlement fund shall have an initial contribution of rupees one hundred million by the clearing house and shall be funded thereon by a part of clearing and settlement fee paid by the members.",
+      "(3) The clearing and settlement fund may be divided into sub-funds, each of which can be utilized to discharge obligations for any particular service for which the clearing house has assumed responsibility."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Duty to maintain confidentiality",
+     "page": 8,
+     "text": [
+      "(1) No clearing house or any officer or member of a clearing house, whether during the tenure of his office or thereafter, or any other person who has by any means knowledge of any information or document relating to the affairs of any of the clearing member and in particular relating to their accounts, shall give, divulge, reveal or otherwise disclose such information or document to any other person.",
+      "(2) A person who has any information or document which to his knowledge has been disclosed in contravention of sub-rule (1) shall not in any manner, howsoever, disclose it to any other person.",
+      "(3) Notwithstanding anything contained in this rule, the provision of confidentiality shall not entitle any person to refuse disclosure of any information or document, -",
+      ">(a) which a clearing member has himself authorized in writing to disclose;",
+      ">(b) in case where a clearing member is declared bankrupt or in case where the clearing member is a company or body corporate and is being, or has been, wound up within or outside Pakistan;",
+      ">(c) in pursuance of any summons or notice issued by any Court, Tribunal or Authority having competent jurisdiction requiring production of such information or document;",
+      ">(d) to any person duly authorized by a competent Court, the Commission or the State Bank of Pakistan to investigate into any offence under any law;",
+      ">(e) for the purpose of enabling or assisting the Commission or the State Bank of Pakistan to exercise any power conferred on it by any law;",
+      ">(f) for the purpose of enabling or assisting a stock exchange or to discharge its functions; and",
+      ">(g) any such disclosure which may be required under the law."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Power of the Commission to give directions",
+     "page": 9,
+     "text": [
+      "(1) The Commission may, if satisfied that it is necessary or expedient so to do in the public interest or in the interest of the capital market, by order in writing give directions to a clearing house.",
+      "(2) The Commission may, on representation made to it or on its own motion modify or cancel any direction issued under sub-rule (1), and in so modifying or canceling any direction may impose such conditions as it thinks fit."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Power to require information",
+     "page": 9,
+     "text": [
+      "The Commission may, at any time, by notice in writing require any director, officer and member of a clearing house, generally or in particular to furnish it within the time specified therein or such further time as the Commission may allow, with any statement or information or document relating to the business or affairs of such clearing house and without prejudice to the generality of the foregoing power, may call for information, at such intervals as the Commission may deem necessary."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Penalty for failure, refusal to comply with, or contravention with any provision of the rules",
+     "page": 9,
+     "text": [
+      "If any person fails or refuses to comply with, or contravenes any of the provisions of these rules or any direction or order passed by the Commission under these rules or knowingly or willfully authorizes or permit such failure, refusal or contravention, he shall in addition to any other liability under the Act, the Ordinance of 1969, and the Ordinance of 1984, be punishable with a fine as may be specified by the Commission with the approval of the Board."
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "The rules as made in 2005. Clearing houses are now licensed under the Securities Act, 2015 and the Clearing Houses (Licensing and Operations) Regulations, 2016; whether and how far these rules still apply is to be confirmed.",
+ "summary": "Made under section 39 of the SECP Act, 1997 (recital)."
+}

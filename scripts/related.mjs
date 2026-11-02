@@ -21,12 +21,24 @@ export function loadExtras(dataDir = DATA_DIR) {
   const formMaps = fs.existsSync(formsDir)
     ? fs.readdirSync(formsDir).filter((f) => f.endsWith('.json')).sort().map((f) => ({ ...JSON.parse(fs.readFileSync(path.join(formsDir, f), 'utf8')), id: f.replace(/\.json$/, '') }))
     : [];
-  return { checks, registers, searchTerms, formMaps };
+  // Catalogues of what each regulator administers, e.g. data/catalogue/secp.json.
+  const catDir = path.join(dataDir, 'catalogue');
+  const catalogues = fs.existsSync(catDir)
+    ? fs.readdirSync(catDir).filter((f) => f.endsWith('.json')).sort().map((f) => ({ ...JSON.parse(fs.readFileSync(path.join(catDir, f), 'utf8')), id: f.replace(/\.json$/, '') }))
+    : [];
+  return { checks, registers, searchTerms, formMaps, catalogues };
 }
 
-export function validateExtras({ acts }, { checks, registers, searchTerms, formMaps }, evidenceDir = EVIDENCE_DIR) {
+export function validateExtras({ acts }, { checks, registers, searchTerms, formMaps, catalogues }, evidenceDir = EVIDENCE_DIR) {
   const errors = [];
   const byId = new Map(acts.map((a) => [a.id, a]));
+  for (const c of catalogues || [])
+    for (const g of c.categories || [])
+      for (const x of g.items || []) {
+        if (x.library && !byId.has(x.library)) errors.push(`catalogue/${c.id}.json: "${x.title}" names unknown library id "${x.library}"`);
+        if (x.register && !(registers || []).some((r) => r.act === x.register)) errors.push(`catalogue/${c.id}.json: "${x.title}" names unknown register "${x.register}"`);
+        if (x.url && !/^https:\/\//.test(x.url)) errors.push(`catalogue/${c.id}.json: "${x.title}" url must be https`);
+      }
   for (const m of formMaps || []) {
     const act = byId.get(m.act);
     if (!act) { errors.push(`forms/${m.id}.json: unknown act "${m.act}"`); continue; }

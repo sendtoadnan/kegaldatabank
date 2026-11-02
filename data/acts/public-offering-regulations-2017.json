@@ -1,0 +1,1623 @@
+{
+ "id": "public-offering-regulations-2017",
+ "title": "Public Offering Regulations, 2017",
+ "number": "S.R.O. 296(I)/2017",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Public Offering Regulations",
+  "PO Regulations 2017"
+ ],
+ "enacted": "2017-05-02",
+ "lastAmended": "2021-09-15",
+ "amendedUpToLabel": "15 September 2021",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "public-offering-regulations-2017.pdf",
+ "verification": {
+  "status": "unverified",
+  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 15 September 2021. Check against the Gazette before quoting."
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, commencement and applicability",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Public Offering Regulations, 2017.",
+      "(2) They shall come into force at once.",
+      "(3) They shall apply to:",
+      ">>(i) a public limited company or body corporate proposing to issue securities to the general public;",
+      ">>(ii) an Offeror who intends to offer securities to the general public; and",
+      ">>(iii) sponsors of the public limited company or body corporate, the Consultants to the Issue, the Underwriter, the Book Runner, the Designated Institution, the Banker to an Issue, Investment Agent and Issuing and Paying Agent.",
+      "(4) These Regulations shall not apply to an Issue by Special Purpose Vehicle or body corporate specifically setup by the Federal Government or any provincial Government for the purpose of issue of any debt security, under any other law or offer of securities as mentioned under sub-section (4) of section 87 of the Act."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "__ (1) In these Regulations, unless there is anything repugnant in the subject or context, –",
+      ">>(i) “Abridged Prospectus” means condensed form of the Prospectus containing such information and disclosures as mentioned in Second Schedule to these Regulations;",
+      ">>(ii) “Act” means the Securities Act, 2015 (III of 2015);",
+      ">>(iii) “Application Supported by Blocked Amount” means an application for subscription to shares or bidding, where money is blocked in the applicant’s or bidder’s respective bank account;",
+      ">>(iv) “Banker to an Issue” means a scheduled bank licensed by the Commission as a Banker to an Issue.;",
+      ">>{fn:2-1}[(v) “Bid” in case of shares means an intention to buy a specified number of shares at a specified price;]",
+      ">{fn:2-2}[(va) “Bid” in case of debt securities means an intention to buy a specified number of debt securities for a particular profit rate/spread;]",
+      ">>(vi) “Bid Amount or Bid Money” {fn:2-3}[in case of shares] means the amount equal to the product of the number of shares bid for and the Bid Price;",
+      ">{fn:2-4}[(via) “Bid Amount or Bid Money” in case of debt securities means the amount equal to the product of the number of debt securities bid for and the face value of debt security;]",
+      ">>(vii) “Bid Collection Center” includes designated offices of the Book Runner, specified branches of any scheduled bank and offices of any other institution specified by the Book Runner where bids are received and processed;",
+      "(viii) “Bidder” means an investor who makes a bid for subscription of {fn:2-5}[securities] in the Book Building process;",
+      ">>(ix) “Bidding Period” means the period during which bids for subscription of {fn:2-6}[securities] are received;",
+      ">>(x) “Bid Price” means the price at which Bid is made for a specified number of shares;",
+      ">>{fn:2-7}[(xi) “Book Building” in case of shares means a process undertaken to elicit demand for shares under which bids are collected from the Bidders and a book is built which depicts demand for the shares at different price levels;]",
+      ">{fn:2-8}[(xia) “Book Building” in case of debt securities means a process undertaken to elicit demand for debt securities under which bids are collected from the Bidders and a book is built which depicts demand for the debt securities at different profit rate/spread levels;]",
+      ">>(xii) “Book Building Portion” means the part of the total Issue which has been allocated for subscription through Book Building;",
+      "(xiii) “Book Building System” means an online electronic system operated by the Designated Institution for conducting Book Building;",
+      ">>(xiv) “Book Runner” means a securities broker or a scheduled bank who holds a valid license from the Commission to act as an Underwriter;",
+      ">>(xv) “Centralized E-PO System (CES)” means a centralized system through which applications for subscription of securities through Public Offering can be made electronically through internet, Automated Teller Machines (ATM) and mobile phones;",
+      ">>(xvi) “Commercial Paper” means an unsecured debt security with a maturity of not less than 30 days and not more than one year;",
+      "{fn:3-1}[(xvia) Companies Act” means Companies Act, 2017 (XIX of 2017);]",
+      "(xvii) “Consultants to the Issue” means any person licensed by the Commission to act as a Consultant to the Issue {fn:3-2}[, which may also be called Lead Manager or Advisor];",
+      "(xviii) “Consolidated Bid” mean a bid which is fully or partially beneficially owned by persons other than the one named therein.",
+      "{fn:3-3}[(xviiia) “Cut off profit rate/spread” mean the profit rate/spread of a debt security determined on the basis of book building process.]",
+      "{fn:3-4}[(xviiib) “Custodian” means an investment agent/debt securities trustee, Bank, Investment Finance Service license holder and Depository Company engaged in regulated activities, not being an associate of the Special Purpose Acquisition Company, appointed for securing the monies of investors in the escrow account;]",
+      ">>(xix) “Debt Securities Trustee” means a person licensed by the Commission under the Act and appointed as a Debt Securities Trustee by an Issuer {fn:3-5}[through execution of trust deed];",
+      ">>(xx) “Designated Institution” includes the securities exchange, central depository and clearing company to provide Book Building System;",
+      "{fn:3-6}[(xxia) “Escrow Account” means an account maintained with a scheduled bank (having an investment grade rating) by a custodian;]",
+      ">>(xxi) “Dutch Auction Method” means the method through which Strike Price is determined by arranging all the Bids in descending order based on the Bids Prices along with the number of shares and the cumulative number of shares bid for. The Strike Price is determined by lowering the Bid Price to the extent that the total number of securities offered under the Book Building Portion are subscribed;",
+      "(xxii) “Financial Institution” means a financial institution as defined in the {fn:4-1}[Companies Act];",
+      "(xxiii) “Floor Price” in case of book building means the minimum price per share set by the Issuer in consultation with Consultant to an Issue;",
+      "{fn:4-2}[(xxiiia) “Green Field Project” includes a project that is being newly built by the Issuer and has not commenced commercial production/operation;]",
+      "{fn:4-3}[(xxiiib) “Government Guaranteed Sukuk” means Sukuk issued by any corporation or body corporate owned and controlled by the Federal Government and such Sukuk is guaranteed by the Federal Government;]",
+      "(xxiv) “Green Shoe Option” means a pre-determined number of securities to be issued by the Issuer in case of over-subscription of the issue;",
+      ">>(xxv) “Initial Public Offering or IPO” means first time offer of securities to the general public;",
+      "(xxvi) “Institutional Investors” means any of the following entities:",
+      ">(a) A financial institution;",
+      ">(b) A company as defined in the {fn:4-4}[Companies Act];",
+      ">(c) An insurance company established under the Insurance Ordinance, 2000;",
+      ">(d) A securities broker;",
+      ">(e) A fund established as Collective Investment Scheme under the NonBanking Finance Companies and Notified Entities Regulations, 2008;",
+      ">(f) A fund established as Voluntary Pension Scheme under the Voluntary Pension System Rules, 2005;",
+      ">(g) A private fund established under Private Fund Regulations, 2015;",
+      ">(h) Any employee’s fund established for beneficial of employees;",
+      ">(i) Any other fund established under any special enactment; {fn:4-5}[ ]",
+      ">{fn:4-6}[(ia) A foreign company or any other foreign legal person; and]",
+      ">(j) Any other entity as specified by the Commission.",
+      "{fn:4-7}[(xxvii) “Investment agent means an entity that holds a valid license to act as Consultant to the Issue under the Act and is appointed by the issuer through execution of issuance agreement;]",
+      "(xxviii) “Issue” means public offer of securities to the general public or a class thereof by an Issuer;",
+      "{fn:5-1}[(xxix) “Issuer” in relation to securities, means any person including a company, a Special Purpose Vehicle and a body corporate who has issued or proposes to issue a security and includes an Offeror;]",
+      ">(xxx) “Issuing and Paying Agent” means a Financial Institution appointed by an Issuer of Commercial Paper under these Regulations as an Issuing and Paying Agent;",
+      "{fn:5-2}[omitted]",
+      "{fn:5-3}[(xxxii) “Limit Bid” in case of shares mean a bid placed by the bidder at a maximum price that he is willing to pay for shares under the Book Building method;]",
+      "{fn:5-4}[(xxxiib) Limit bid in case of debt security means a bid placed by the bidder for a particular profit rate/spread under the book building method.]",
+      "{fn:5-5}[(xxxiia) “Limited Liability Partnership (LLP)” means a partnership registered under the Limited Liability Partnership Act, 2017;]",
+      "(xxxiii) “Minimum Bid Size” means the Bid Amount equal to {fn:5-6}[one] million rupees under the Book Building method;",
+      "{fn:5-7}[(xxxiiia) “Merger” means the merger, acquisition, amalgamation, combination or joining of two or more companies or other entities as may be specified by the Commission for the purpose of merger or part thereof into an existing company;]",
+      "(xxxiv) “Offeror” means any person or entity holding, directly or indirectly, such number of securities as prescribed in these Regulations and offers such securities for sale to the public or invites any other person to make subscription for such an offer and includes an Issuer;",
+      "(xxxv) “Offer Size” means the total number of securities offered for sale comprising allocation to the Book Building Portion and allocation to the retail portion, if any, excluding pre-IPO placement;",
+      "{fn:5-8}[(xxxva) “Offer Price” means the price per share at which shares are offered to the general public in case of Fixed Price method and the retail investors in case of the Book Building and set by the Issuer in consultation with the Consultant to the Issue;]",
+      "(xxxvi) “Offer for Sale” means an offer of securities for sale to the general public by an Offeror;",
+      "{fn:6-1}[(xxxvia) “Permitted Investments” means investments in Government securities, mutual funds (except equity based), money market instruments, debt securities and sukuks with investment grade ratings;]",
+      "{fn:6-2}[(xxxvii) “Price Band” in case of Book Building means Floor Price with an upper limit of 40% above the Floor Price, allowing Bidder to make Bid at Floor Price or within the Price Band;]",
+      "{fn:6-3}[Omitted]",
+      "(xxxviii) “Prospectus” includes any document, notice, circular, material, advertisement, offer for sale document, publication or other invitation offering to the public (or any section of the public) or inviting offers from the public for the subscription or purchase of any securities of a company, body corporate or entity, other than deposits invited by a bank and certificate of investments and certificate of deposits issued by non-banking finance companies;",
+      "(xxxix) “Public Offer” means offer of securities by an Issuer including an offer to the general public or a section of the public but does not include Private Offer or Private Placement;",
+      ">(xl) “Regulations” means the Public Offering Regulations, 2017;",
+      ">(xli) “Related Employees” mean such employees of the Issuer, the Offeror, the Book Runner, the Underwriters, and the Consultants to the Issue, who are involved in the Issue or the Offer for Sale;",
+      "(xlii) “Retail Investor” means an investor who bids for a security or make an application for subscription of a security out of the offer size allocated to the general public;",
+      "{fn:6-4}[(xliia) “Reverse Dutch Auction Method” means the method through which the cutoff profit rate/spread is determined by arranging all the profit rate/spread in an ascending order along with the number of debt securities and the cumulative number of debt securities bid for at each profit rate/spread. The cut off profit rate/spread is determined by increasing the profit rate/spread to the extent that the total number of debt securities offered under the Book Building portion are subscribed.]",
+      "(xliii) “securities” means shares and debt securities",
+      "(xliv) “Schedule” means a schedule to these Regulations;",
+      ">(xlv) “Secondary Public Offering” means offer of securities to the general public subsequent to IPO;",
+      "{fn:7-1}[(xlvi) “Shariah Advisor” means an individual, a Limited Liability Partnership (LLP) or a company who/that meets the fit and proper standards specified by the Commission;]",
+      "{fn:7-2}[(xlvii) “Shariah Compliant Security” means a security structured on the basis of any of the Shariah concepts;]",
+      "{fn:7-3}[(xlviia) “Shariah concepts” for the purpose of these Regulations includes Ijarah, Musharakah, Murabahah, Modaraba, Salam and any other concept allowed by the Shariah Advisor;]",
+      "{fn:7-4}[(xlviii) “Shariah certificate” for the purpose of these Regulations means a Shariah pronouncement, a fatwa or Shariah opinion signed by Shariah Advisor in such form and manner as notified by the Commission from time to time;]",
+      "{fn:7-5}[(xlix) “Shelf Registration” means an arrangement that allows the Issuer to make offering in multiple tranches through a single offering document i.e. Prospectus;]",
+      ">(l) “Supplement to the shelf prospectus” means an updated condensed form of the full prospectus for inviting public subscription through subsequent tranche(s);",
+      ">(li) “Step Bid” {fn:7-6}[in case of shares] means a series of Limit Bids at increasing prices provided that Bid Amount of any step is not less than {fn:7-7}[one] million rupees under the Book Building method;",
+      ">{fn:7-8}[(lia) “Step Bid” in case of debt securities means a series of Limit Bids at different profit rates/spreads provided that Bid Amount of any step is not less than one million rupees under the Book Building method;]",
+      ">(lii) “Strike Price” means the price per share determined on the basis of Book Building process;",
+      "{fn:7-9}[(liii) “Special Purpose Vehicle (SPV)” for the purpose of these regulations means a public limited company or a body corporate registered with the Commission under the Companies (Asset Backed Securitization) Rules, 1999;]",
+      "{fn:8-1}[(liiia) “Special Purpose Acquisition Company” or “SPAC” means a Company formed and registered under the Companies Act, 2017, having sole principal line of business to raise money through public offering for entering into merger or acquisition transactions;]",
+      ">(liv) “Sponsor” means:",
+      ">(a) a person who has contributed initial capital in the issuing company or has the right to appoint majority of the directors on the board of the issuing company directly or indirectly;",
+      ">(b) A person who replaces the person referred to in clause (a) above; and",
+      ">(c) A person or group of persons who has control of the issuing company whether directly or indirectly.",
+      ">(lv) “Sukuk” means an instrument of equal value representing undivided share {fn:8-2}[ ] in ownership of the identified tangible assets, usufruct and services or in the ownership of the assets of particular projects or special investment activity;",
+      ">{fn:8-3}[(lvi) “Tranche” means offer of a certain portion out of the total issue size as disclosed in the shelf prospectus; and]",
+      "(lvii) “Valuation Section” means a section in the prospectus containing the justifications given by the Consultant to the Issue in support of the offer price or Floor Price set by the Issuer {fn:8-4}[and disclosure of post issue Free Float as number of shares as well as in percentage].",
+      "(2) Words and expressions used but not defined in these Regulations shall have the same meaning as are assigned to them in the Act, the {fn:8-5}[Companies Act], or the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
+     ],
+     "fn": [
+      {
+       "n": "2-1",
+       "text": "Substituted for the text “(v) “Bid” means an intention to buy a specified number of securities at a specified price;” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "2-2",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "2-3",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "2-4",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "2-5",
+       "text": "Substituted for the word “shares” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "2-6",
+       "text": "Substituted for the word “shares” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "2-7",
+       "text": "Substituted for the text “(xi) “Book Building” means a process undertaken to elicit demand for shares offered for sale through which bids are collected from the Bidders and a book is built which depicts demand for the securities at different price levels;” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "2-8",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "3-1",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "3-2",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "3-3",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "3-4",
+       "text": "Inserted vide SRO 1214 (I)/2021 dated September 15, 2021"
+      },
+      {
+       "n": "3-5",
+       "text": "Substituted for the words “of debt security” vide SRO 1383(I)/2020 December 23, 2020"
+      },
+      {
+       "n": "3-6",
+       "text": "Inserted vide SRO 1214 (I)/2021 dated September 15, 2021"
+      },
+      {
+       "n": "4-1",
+       "text": "Substituted for the word “Ordinance” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "4-2",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "4-3",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "4-4",
+       "text": "Substituted for the words “Companies Ordinance, 1984 (XLVII of 1984)” vide SRO 838(I)/2017 dated August 23, 2017 5 Deleted the word “and” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "4-6",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "4-7",
+       "text": "Substituted for the text “(xxvii) “Investment Agent” means an Institution licensed by the Commission as a Debt Securities Trustee and appointed by the Issuer through execution of investment agency agreement. The Investment Agent shall be responsible to facilitate issue and sale of Sukuk and other Shariah compliant securities under these Regulations and to safeguard interest of the holders of Sukuk and other Shariah compliant securities;” vide SRO 1383(I)/2020 December 23, 2020"
+      },
+      {
+       "n": "5-1",
+       "text": "Substituted for the words “(xxix) “Issuer” in relation to securities, means any person who has issued or proposes to issue a security and includes an Offeror;” vide SRO 838(I)/2017 dated August 23, 2017 2 Deleted the text “(xxxi) “Limit Price” means the maximum price a prospective Bidder is willing to pay for a share under the Book Building method;” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "5-3",
+       "text": "Substituted for the text “(xxxii) “Limit Bid” means a bid by the Bidder at a Limit Price under the Book Building method;” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "5-4",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "5-5",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "5-6",
+       "text": "Substituted for the word “6two” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "5-7",
+       "text": "Inserted vide SRO 1214 (I)/2021 dated September 15, 2021"
+      },
+      {
+       "n": "5-8",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "6-1",
+       "text": "Inserted vide SRO 1214 (I)/2021 dated September 15, 2021"
+      },
+      {
+       "n": "6-2",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018 3 Deleted the words “(xxxvii)“Ordinance” means the Companies Ordinance, 1984 (XLVII of 1984);” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "6-4",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "7-1",
+       "text": "Substituted for the words “(xlvi) “Shariah Advisor” means a firm or a company who/that meets the fit and proper standards specified by the Commission or the State Bank of Pakistan for Shariah advisory services.” Vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "7-2",
+       "text": "Substituted for the words “(xlvii) “Shariah Compliant Security” means a security structured on the basis of any of the Shariah concepts including Ijarah, Musharika, Morabiha, Modaraba, Salam and any other concept allowed by the Shariah Advisor;” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "7-3",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "7-4",
+       "text": "Substituted for the words “(xlviii) “Shariah certificate” for the purpose of these Regulations includes a Shariah pronouncement or fatwa by the Shariah Advisor;” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "7-5",
+       "text": "Substituted for the text “(xlix) “Shelf Registration” means the sanctioned amount of securities to be issued in tranches over a period of time as specified in the Prospectus. Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "7-6",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "7-7",
+       "text": "Substituted for the word “7two” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "7-8",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "7-9",
+       "text": "Substituted for the words “(liii) “Special Purpose Vehicle” means a special purpose vehicle as defined in the Companies (Asset Backed Securitization) Rules, 1999;” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "8-1",
+       "text": "Inserted vide SRO 1214 (I)/2021 dated September 15, 2021 2 Deleted comma “,” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "8-3",
+       "text": "Substituted for the text “(lvi) “Tranche” means offer of a certain portion out of the total amount of securities approved by the Commission; and” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "8-4",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "8-5",
+       "text": "Substituted for the word “Ordinance” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "4-5",
+       "text": "Substituted for the words “of debt security” vide SRO 1383(I)/2020 December 23, 2020"
+      },
+      {
+       "n": "5-2",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "6-3",
+       "text": "Substituted for the text “(xxxii) “Limit Bid” means a bid by the Bidder at a Limit Price under the Book Building method;” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "8-2",
+       "text": "Substituted for the words “(xlvii) “Shariah Compliant Security” means a security structured on the basis of any of the Shariah concepts including Ijarah, Musharika, Morabiha, Modaraba, Salam and any other concept allowed by the Shariah Advisor;” vide SRO 838(I)/2017 dated August 23, 2017"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — General Conditions",
+   "sections": [
+    {
+     "no": "3",
+     "title": "General Conditions for Public Offer of Securities",
+     "page": 8,
+     "text": [
+      "(1) An Issuer shall make a public offer of securities, subject to the following general conditions, namely. –",
+      "{fn:8-6}[ {fn:8-7}[omitted]",
+      ">>{fn:8-8}[(i) the Issuer has obtained approval from its Board of Directors relating to Public Offering.]",
+      ">>(ii) the Issuer has profitable track record for at least 2 preceding financial years from its core business activities;",
+      "{fn:9-1}[Provided that in case of non-compliance with profitability criteria, the sponsors of the Issuer shall retain at least 51% of the post issue paid-up capital till the company reports net profit after tax for two consecutive financial years including profit from its core business activities;",
+      "Provided further that the issuer shall: (a) submit a business plan to turnaround the company into a profitable venture; and (b) disclose the following on the cover page of the Prospectus in bold language:",
+      "“This is a loss-making company. The risks associated with loss making companies are comparatively much higher than profitable companies. The prospective investor should, therefore, be aware of the risk of investing in such companies and should make the decision to invest only after careful due diligence. It is advisable to consult any independent investment advisor before making any investment.”]",
+      ">>(iii) not less than 51% of the shares of the issuer are held by same persons for at least 2 preceding financial years;",
+      "{fn:9-2}[Provided that this clause shall not apply in case of new issuance of shares by the issuer.",
+      "{fn:9-3}[Provided further that the above clauses (ii) and (iii) shall not apply in case of: (i) Green Field Project; (ii) public offering of debt security whose debt servicing is guaranteed from the Government. (iii) public offering of debt security by multilateral agencies. (iv) public offering of debt security by state owned enterprises having entity rating of BBB+ and above.]",
+      "Provided further that Commission may consider relaxing any of the above clauses (ii) to (iii) in case of privatization of government owned entities by Privatisation Commission through capital markets.]",
+      ">>{fn:9-4}[(iv) In case of green field project, following criteria shall be applicable:",
+      "a. Sponsors’ contribution, in the form of equity in a green field project at the time of IPO, shall not be less than 51% of the entire equity and shall be retained till the commencement of commercial production.",
+      "b. In case the project requires debt financing, in addition to equity funding, financial close shall be mandatory.",
+      "c. Successful business track record of sponsors preferably running a listed company/ies, manufacturing/industrial units etc. considering various parameters such as operational profitability, operating cash flows, EPS and dividend payout etc.",
+      "d. Experience and skills of the Management to run the proposed project.",
+      "e. If required, Engineering, Procurement and Construction (EPC) contract shall be in place.",
+      "f. Land for the project, if required is acquired by the Issuer and the same is in the name of the issuer.",
+      "g. the sponsors of the Issuer shall retain at least 51% of the post issue paidup capital till the company reports net profit after tax for two consecutive financial years including profit from its core business activities.",
+      "h. The Issuer shall disclose the following on the cover page of the Prospectus in bold language:",
+      "“It is a green field project. The risks associated with the green field project are much higher than a project that has commenced commercial production/operations. The prospective investor should, therefore, be aware of the risk of investing in such projects and should make the decision to invest only after careful due diligence. It is advisable to consult any independent investment advisor before making any investment.”]",
+      ">>(v) The securities shall be issued in book-entry form only;]",
+      "(2) No Issuer shall make a public offer if",
+      ">>(i) the Issuer, its sponsors, promoters, substantial shareholders {fn:10-1}[and ] directors {fn:10-2}[ ] have over dues or defaults, irrespective of the amount, appearing in the report obtained from the credit information bureau; and",
+      "{fn:10-3}[Provided that the clause (i) above shall not apply to the nominee director of the government and financial institution/ creditor.",
+      "Provided further that the clause (i) shall not apply to independent director.]",
+      ">>(ii) the Issuer or its directors, sponsors or substantial shareholders have been holding the office of the directors, or have been sponsors or substantial shareholders in any company,",
+      ">(a) which had been declared defaulter by the securities exchange or futures exchange; or",
+      ">(b) whose TRE certificate has been cancelled or forfeited by the securities exchange; or",
+      ">(c) which has been de-listed by the securities exchange due to non-",
+      "compliance of its regulations.",
+      "Provided that Commission may grant relaxation upon reasons to be recorded, and rectification of cause leading to such delisting",
+      "{fn:11-1}[(3) The Issuer shall appoint Consultant to the Issue, Book Runner, Underwriter, Balloter and Share Registrar and Banker to an Issue, where required, through separate agreements in writing.",
+      "Provided that appointment of consultant to the Issue shall not be mandatory in case of initial public offering of other class of shares by listed companies.",
+      "Provided further that the Commission may consider relaxing the appointment of Consultant to the Issue in case of privatization of government owned entities by Privatization Commission through capital markets",
+      "Provided further, that in case the Consultant to the Issue is not appointed by the Issuer than a specific disclosure in this context shall be made on the Cover page of the Prospectus.",
+      "Provided further, that scheduled bank, investment finance service license holder and development financial institution can only act as Consultant to the Issue in case of public offering of debt securities.",
+      "Provided further, that sub-regulation (3) shall not apply to the extent if the issue or offer of securities is made simultaneously both in domestic and international markets.]",
+      "(4) The Consultant to the Issue, Book Runner and Underwriter and their associates shall not publish any research report by whatever name called in respect of the Issuer or Issue from the date of their appointment as Consultant to the Issue, Book Runner and Underwriter {fn:11-2}[till] the date of allotment of securities to the general public {fn:11-3}[:",
+      "Provided that information memorandum and other marketing material may be prepared and shared with the prospective investors through private arrangement.]",
+      "(5) Subsequent to the underwriting agreement with the issuer, the underwriter to the issue may enter into separate agreements with other underwriters {fn:11-4}[duly licensed by the Commission], with the consent of the issuer {fn:11-5}[and any such arrangement shall be disclosed in the Prospectus in case of fixed price method and in supplement to the Prospectus in case of book building method].",
+      "(6) The Consultant to the Issue may enter into separate agreements with any expert for performance of its duties;",
+      "Provided that the said agreement(s) shall not absolve the Consultant to the Issue from its obligations as specified in these Regulations and the agreement entered with the Issuer.",
+      "(7) Issuer shall ensure that Centralized E-PO System (CES) is available for the general public",
+      "(8) The Issuer {fn:12-1}[itself or] through its Consultant to the Issue, {fn:12-2}[if any] shall submit an application along with draft prospectus for listing of its securities to the securities exchange under section 19 of the Act read with the relevant regulations of the securities exchange. The copy of the said application along with draft prospectus shall also be sent to the Commission for its record;",
+      "(9) The Issuer while submitting draft prospectus to the securities exchange shall comply with the following requirements with respect to the contents of the draft prospectus and advertisement;",
+      ">>{fn:12-3}[(i) Prepare the draft prospectus as per the format and disclosures prescribed in First Schedule and should be translated into Urdu in addition to English version.]",
+      ">>(ii) Prepare the draft abridge prospectus, if any, {fn:12-4}[as per the disclosures] prescribed in Second Schedule.",
+      ">>(iii) Prepare the draft advertisement, if any, {fn:12-5}[as per the disclosures] prescribed in Third Schedule.",
+      ">>(iv) Prepare the draft supplement to the prospectus, in case of shelf registration, {fn:12-6}[as per the disclosures] prescribed in Fourth Schedule.",
+      "{fn:12-7}[(9a) The Issuer and Consultant to the Issue, if any shall ensure that all applicable disclosures as prescribed under First Schedule are made in the draft prospectus.",
+      "(9b) In case, some disclosures are not applicable to a particular issue, the Issuer and Consultant to the Issue, if any shall report the same to the Commission along with rationale.]",
+      "(10) The language of the draft prospectus should be simple, plain, clear, precise and easily understandable.",
+      "(11) The draft prospectus as submitted by the Issuer shall be placed by the securities exchange on its website for a period of seven working days and the same shall be notified by the securities exchange to its members, for seeking public comments. The draft prospectus shall also be placed on the website of the Issuer and Consultant to the Issue {fn:12-8}[, if any];",
+      "(12) The securities exchange shall ensure that all comments received on the draft prospectus have been incorporated and suitably addressed by the Consultant to the Issue and the Issuer to the satisfaction of the securities exchange.",
+      "{fn:12-9}[Provided that in case where Consultant to the Issue is not appointed, the Issuer, itself shall address the comments received on the draft prospectus.]",
+      "{fn:13-1}[(13) While processing any application submitted by the Issuer {fn:13-2}[itself or through its] Consultant to the Issue {fn:13-3}[, if any] under section 19 of the Act for its approval, the securities exchange, in addition to any other requirements, shall examine the proposed issue from various aspects including eligibility requirements and suitability of the Issuer or security for listing considering the interest of general public and its benefits to the capital market. In order to assess the suitability aspect, the securities exchange shall ensure that the Issuer has made all such disclosures as are necessary to comply with the requirements of sub-section 4(a) of Section 20 read with Section 22 of the SECP Act, 1997. The securities exchange may ask for any additional information as required.]",
+      "{fn:13-4}[(14) The securities exchange shall communicate its approval or reasons for rejection of the application to the Consultant to the Issue, if any, the Issuer and the Commission.]",
+      "{fn:13-5}[(15) After obtaining the approval of the securities exchange, the Issuer itself or through its Consultant to the Issue, if any, shall submit an application along with the documents prescribed in Eight Schedule to the Commission for its approval under section 87 and 88 of the Act. The application shall be accompanied by the processing fee as prescribed in Fifth Schedule.]",
+      "{fn:13-6}[(15a) Any change in the Prospectus subsequent to its approval by the Commission and prior to its publication, may be made only with prior written approval of the securities exchange and the Commission.”; and",
+      "(15b) Any change in the Prospectus subsequent to its publication, may be made only with the prior written approval of the securities exchange and the Commission and such change shall be disseminated to the public through publication of addendum to the Prospectus in at least all those newspapers, websites in which the Prospectus has been published earlier]",
+      "{fn:13-7}[(16) In case application for listing is refused by the securities exchange, the Issuer itself or through its Consultant to the Issue, if any, may file a petition before the Commission within thirty days of such refusal.]",
+      "(17) A company may issue securities outside Pakistan subject {fn:13-8}[to] prior approval of the Commission under section 95 of the Act and payment of non-refundable fee of one million rupees and submission of such documents as prescribed in Sixth Schedule.",
+      "(18) Securities of any company established outside Pakistan can be offered for sale to the public under sections 87 and 88 of the Act read with {fn:14-1}[section 446 and 447 of the Companies Act].",
+      "Provided such foreign company is compliant with the provision of Part {fn:14-2}[XII of the Companies Act], these Regulations and meets requirements of regulations of the securities exchange for listing of companies and securities.",
+      "{fn:14-3}[(19) The securities subscription form on the format provided in Seventh Schedule shall be made part of the Prospectus.",
+      "{fn:14-4}[(20) the Issuer, the Consultant to the Issue, the Underwriter, the Book Runner and the Designated institution shall maintain record of the issue for a period of at least ten years from the closing of the public subscription.]",
+      "(21) The offer size and allocation of capital to the general public shall be as per the requirements of the relevant regulations of the securities exchange.]"
+     ],
+     "fn": [
+      {
+       "n": "8-6",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018 7 Deleted the text “(i) the Issuer shall have been in operations for at least 3 financial years;” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "8-8",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "9-1",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "9-2",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "9-3",
+       "text": "Substituted for the text “Provided further that the above clauses (ii) to (iii) shall not apply in case of Green Field Project;” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "9-4",
+       "text": "Substituted for the text “(iv) its book value per share is not less than its face value per share; Provided that clause (iii) above shall not apply in case of new issuance of shares; Provided further that the above clauses (i) to (iv) shall not apply in case of Green Field Project; and” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "10-1",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019 2 Deleted the words “and associates” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "10-3",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "11-1",
+       "text": "Substituted for the text “1[(3) The Issuer shall appoint Consultant to the Issue, Book Runner, Underwriter, Balloter and Share Registrar and Banker to an Issue, where required, through separate agreements in writing. The Book Runner, Underwriter and Balloter and Share Registrar shall be independent of the Issuer in case of issuance of equity securities. Explanation: For the purpose of this clause, Independent means that the above regulated persons do not have any conflict of interest and relationship or connection whether pecuniary or otherwise including but not limited to shareholding, directorship and employment etc. with the issuer, its associated companies and other regulated persons involved in Public offering process: Provided that sub-regulation (3) shall not apply to the extent if the issue or offer of securities is made simultaneously both in domestic and international markets.]” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "11-2",
+       "text": "Substituted for the word “to” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "11-3",
+       "text": "Substituted for the semi colon “;” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "11-4",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "11-5",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "12-1",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "12-2",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "12-3",
+       "text": "Substituted for the text “(i) Prepare the draft prospectus in the format as prescribed in First Schedule and should be translated into Urdu in addition to English version.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "12-4",
+       "text": "Substituted for the words “in the form as” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "12-5",
+       "text": "Substituted for the words “in the form as” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "12-6",
+       "text": "Substituted for the words “in the form as” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "12-7",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "12-8",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "12-9",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "13-1",
+       "text": "Substituted for the text “(13) While processing any application submitted by the Issuer through the Consultant to the Issue under section 19 of the Act for its approval, the securities exchange, in addition to any other requirements, shall examine the proposed issue from various aspects including eligibility requirements and suitability of the Issuer or security for listing considering the interest of general public and its benefits to the capital market. In order to assess the suitability aspect, the securities exchange may ask for any additional information from the Issuer and the Consultant to the Issue including financial projections, future strategies of the Issuer, experts’ reports, etc. Explanation: The term suitability with regard to listing of securities includes assessing various risks involved such as sector risk, operational risk, legal risk, etc, track record of sponsors, quality and capability of the management, past financial performance of the Issuer, future strategies of the Issuer, dividend payout history, financial projections, financial viability, dividend policy, etc.” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "13-2",
+       "text": "Substituted for the words “through the” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "13-3",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "13-4",
+       "text": "Substituted for the text “(14) The securities exchange shall communicate its approval or reasons for rejection of the application to the Consultant to the Issue with a copy to the Issuer and Commission. 4[ ]” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "13-5",
+       "text": "Substituted for the text “(15) After obtaining the approval of the securities exchange, the Issuer through the Consultant to the Issue shall submit an application 5[along with the documents prescribed in Eight Schedule] to the Commission for its approval under section 87 and 88 of the Act. The application shall be accompanied by the processing fee as prescribed in Fifth Schedule.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "13-6",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "13-7",
+       "text": "Substituted for the text “(16) In case application for listing is refused by the securities exchange, the Issuer through the Consultant to the Issue may file a petition before the Commission within thirty days of such refusal.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "13-8",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "14-1",
+       "text": "Substituted for the words “Sections 461 and 462 of the Ordinance” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "14-2",
+       "text": "Substituted for the words “XIV of the Ordinance” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "14-3",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "14-4",
+       "text": "Substituted for the text “(20) The percentage utilization of the excess IPO proceeds, in case the Strike Price is determined above the Floor Price.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "8-7",
+       "text": "Substituted for the word “7two” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "10-2",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III",
+   "sections": [
+    {
+     "no": "4",
+     "title": "Methods for public offer of shares",
+     "page": 14,
+     "text": [
+      "An Issuer including an Offeror may make public offer of shares as per any of the method given below:",
+      "(1) Fixed Price Method: Under the fixed price method, the offer price is set by the Issuer in consultation with the Consultant to the Issue.",
+      "(2) Book Building Method: Book building is a mechanism of price discovery of shares through {fn:14-5}[Bidders who make Bids at Floor Price or within the Price Band]. Bids received are listed in descending order of price evidencing demand at different price levels {fn:14-6}[at Floor Price or within the Price Band] . A Strike Price is arrived at through Dutch Auction Method."
+     ],
+     "fn": [
+      {
+       "n": "14-5",
+       "text": "Substituted for the words “bidders who make bids not below the Floor Price” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "14-6",
+       "text": "Substituted for the words “at or above the Floor Price” vide SRO 7(I)/2018 dated January 5, 2018"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Conditions for public offer of Shares",
+     "page": 14,
+     "text": [
+      "An Issuer shall comply with the following conditions, namely,-",
+      "(1) The sponsors of the Issuer shall retain their entire shareholding in the company for a period of not less than twelve months from the last date for public subscription or in case of green field projects from the date of commencement of commercial operations or production by the company, whichever is later;",
+      "(2) The sponsors of the Issuer shall retain not less than twenty five percent of the paid up capital of the company for not less than three financial years from the last date for the public subscription or, in case of green field projects, from the date of commencement of commercial operations or production by the company, whichever is later;",
+      "{fn:15-1}[Provided that sub regulation (1) and (2) shall not apply in case of: (i) secondary public offering; and (ii) initial public offering of other class of shares by listed companies.]",
+      "(3) The shares of the sponsors mentioned at (1) and (2) above shall be kept unencumbered in a blocked account with central depository;",
+      "(4) Subject to compliance with sub-regulation (1) and (2) above, and with the approval of the securities exchange, the sponsors of the Issuer may sell their shareholding through block-sale to any other person who shall be deemed sponsor for the purposes of these Regulations. Any such person and its directors, sponsors and substantial shareholders shall comply with conditions as stipulated in sub regulation (1) of regulation 3 above;",
+      "(5) The issuer may allot shares on account of preferential allocation to its employees at the same price at which shares are offered to the general public;",
+      "(6) In case of public offer of shares for a green field project, balancing, modernization and replacement or expansion,-",
+      ">>(i) The public offer of shares shall be in accordance with the financial plan approved by the board of directors of the Issuer. The financial plan shall be disclosed in the prospectus along with rationale for variations, if any;",
+      "{fn:15-2}[omitted]"
+     ],
+     "fn": [
+      {
+       "n": "15-1",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020 2 Deleted the text “(ii) the Issuer shall before making the offer of shares to the public, provide the Commission a certificate from Consultants to the Issue confirming that,- (a) viability of the financial plan as disclosed in the prospectus has been carried out considering overall fund raising avenues, proceed utilization, time involved etc. (b) various components of financial plan have been verified by the auditors; (c) shares allocated to sponsors, foreign and local investors, if any, have been fully paid for; (d) land for the project, where required, has been acquired and is in the name of Issuer; and (e) irrevocable letter(s) of credit, where required, has been opened. (iii) the Consultant to the issue shall verify implementation status of the project, as disclosed in the prospectus, by obtaining a report from an independent valuer; and (iv) The Issuer shall submit, progress report on implementation of the project on quarterly basis till commencement of the commercial production or operations of the project, to the Commission for information and the securities exchange for public dissemination.” Vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "15-2",
+       "text": "Substituted for the words “XIV of the Ordinance” vide SRO 838(I)/2017 dated August 23, 2017"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV",
+   "sections": [
+    {
+     "no": "6",
+     "title": "Conditions for public offer of shares through fixed price method",
+     "page": 15,
+     "text": [
+      "In addition to the conditions as mentioned at regulation 5 above, an Issuer shall comply with the following conditions, namely,-",
+      "{fn:15-3}[(1) The Issuer shall decide the offer price in consultation with the Consultant to the Issue, if any. The Consultant to the Issue, if any or the Issuer shall provide explanations in support of the offer price under a separate section titled as “Valuation Section” of the prospectus.]",
+      "(2) The public offer under the fixed price method shall be fully underwritten.",
+      "(3) An issuer shall issue shares to the general public at the price not higher than the price at which the shares were issued to investor during the period of six months prior to the date of public subscription.",
+      "{fn:16-1}[(4) After approval of the prospectus by the Commission, the Issuer itself or through its Consultant to the Issue, if any shall seek from the securities exchange the dates for the publication of prospectus and the subscription period.]",
+      "(5) Non-compliance with any of the condition imposed by the securities exchange and the Commission while granting approval for issuance, circulation and publication of the prospectus shall be considered as violation of the prospectus and the Act.",
+      "{fn:16-2}[(6) After inserting the dates of the subscription period, the copy of the approved Prospectus shall be placed on the website of the Issuer, the securities exchange and the Consultant to the Issue, if any.]",
+      "(7) The prospectus shall be issued, circulated and published not less than seven days and not more than thirty days before the commencement of the subscription period for the retail portion of the Issue.",
+      "(8) The prospectus or abridged prospectus, as approved by the Commission shall be published in at least one English and one Urdu Newspaper.",
+      "(9) The general public shall submit application for the subscription of shares to the Banker to an Issue either in physical form or electronically. The application shall be duly accompanied by a crossed cheque or demand draft or pay order in the name of the Issuer or evidence of direct debit of subscription money from the applicant’s bank account or blocking of the subscription money in the applicant’s bank account.",
+      "(10) Within {fn:16-3}[10 working] days of the close of public subscription period or such shorter period of time as may be specified by the Commission from time to time, the shares shall be allotted and issued against the accepted and successful applications and the subscription money of the unsuccessful applicants shall be unblocked/ refunded.",
+      "{fn:16-4}[(11) The company whose shares are offered through fixed price method shall not be provisionally listed.]"
+     ],
+     "fn": [
+      {
+       "n": "15-3",
+       "text": "Substituted for the text “(1) The Issuer shall decide the offer price in consultation with the Consultant to the Issue. The explanations given by the Consultant to the Issue in support of the offer price set by the Issuer shall be provided under a separate section titled as “Valuation Section” of the prospectus.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "16-1",
+       "text": "Substituted for the text “(4) After approval of the prospectus by the Commission, the Consultant to the Issue shall seek from the securities exchange the dates for the publication of prospectus and the subscription period.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "16-2",
+       "text": "Substituted for the text “(6) Consultant to the Issue shall immediately place a copy of the approved Prospectus on its website and the websites of the Issuer and the securities exchange after inserting dates of the subscription period.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "16-3",
+       "text": "Substituted for the figure “7” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "16-4",
+       "text": "Substituted for the text “(11) The Issuer, the Consultant to the Issue and the Underwriter shall maintain record of the issue for a period of at least ten years from the closing of the public subscription.” Vide SRO 819(I)/2020 dated September 7, 2020 1 Deleted the words “Provided that in case retail portion of the offer size is oversubscribed, the portion allocated to book building investors at strike price shall be allotted to the retail investors in the manner given below: # Times retail portion oversubscribed Percentage of the offer size to be allotted to retail investors out of book building portion on proportionate basis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V",
+   "sections": [
+    {
+     "no": "7",
+     "title": "Conditions for offer of shares through Book Building",
+     "page": 16,
+     "text": [
+      "In addition to the conditions as mentioned at regulation 5 above, the Issuer shall comply with the following conditions, namely:",
+      "(1) The offer Size is not less than twenty five million shares and two hundred fifty million rupees or such higher number of shares and amount as may be specified by the Commission from time to time;",
+      "(2) The company whose shares are issued through Book Building shall not be provisionally listed.",
+      "(3) Maximum seventy-five percent of the offer size is allocated to book building portion and the remaining minimum twenty-five percent to the retail investors. The retail portion of the public offer shall be fully underwritten.",
+      "{fn:17-1}[Omitted]",
+      "Provided further that the Commission may allow undertaking of book building process and subscription by retail investors simultaneously, subject to the condition that the Consultant to the Issue, the Book Builder and the Issuer shall satisfy the Commission that the necessary arrangements in terms of IT infrastructure, underwriting for the retail portion, distribution network, etc are in place for simultaneously undertaking book building and retail subscription;",
+      "(4) The bidders may be allowed to place bids for hundred percent of the offer size and the strike price shall be the price at which the hundred percent of the offer size is subscribed. However, the successful bidders would be allotted and issued only seventy-five percent of the offer size and the remaining twenty five percent would be offered to the retail investors. The bidders shall give an undertaking along with the application that they would subscribe to the unsubscribed shares, if any, by the retail investors and their remaining bid money would remain deposited/ blocked till allotment of unsubscribed shares by the retail investors, if any, to them on pro-rata basis. In case the retail portion is fully subscribed, the bid money shall be immediately refunded or unblocked. In this case, the retail portion may not be underwritten.",
+      "{fn:17-2}[Omitted]",
+      "(6) Book building portion shall be {fn:17-3}[credit] underwritten by one or more book runners.",
+      "(7) The Issuer and the Consultant to the Issue {fn:17-4}[, if any] shall provide names and Unique Identification Numbers of all their associates, if any, to the Book Runner; at least three working days before the commencement of the Bidding Period. The book runner shall enter the names and UIN number of associates of the Issuer, the associates of the Consultant to the Issue and its associates, if any in the book building system in order to ensure compliance with these regulations.",
+      "{fn:18-1}[(8) The associates of the Issuer as disclosed in the Prospectus shall not in aggregate make bids in excess of ten percent of the shares offered though Book Building.]",
+      "{fn:18-2}[(9) The associates of the Consultant to the Issue and Book Runner shall not in aggregate make bids in excess of {fn:18-3}[ten percent] of the shares offered through Book Building:",
+      "Provided that sub-regulation (9) shall not apply to such associates of the Consultant to the Issue and the Book Runner that are Financial Institutions {fn:18-4}[,] Mutual Funds {fn:18-5}[and Insurance Companies].]",
+      "(10) The consultant to the issue shall ensure that the issuer has entered into a tripartite agreement in writing with the Designated Institution and the Book Runner. The said agreement shall specify inter-alia, the rights, privileges, duties, responsibilities and obligations of each party to the agreement and shall provide a clause on dispute resolution mechanism among the parties to the agreement.",
+      "{fn:18-6}[Provided that in case where there is no consultant to the Issue, the Issuer itself shall ensure that tripartite agreements contain the required content as prescribed above.]",
+      "(11) The Issuer, the Consultant to the Issue, the Book Runner, the Underwriter and the Designated Institution shall maintain record of the issue for a period of at least ten years from the closing of the public subscription."
+     ],
+     "fn": [
+      {
+       "n": "17-1",
+       "text": "10 to 20 times 10%"
+      },
+      {
+       "n": "17-2",
+       "text": "21 to 30 times 15%"
+      },
+      {
+       "n": "17-3",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "17-4",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "18-1",
+       "text": "Substituted for the words “(8) The associates of the Issuer as disclosed in the prospectus shall not in aggregate make bids for shares in excess of five per cent of the Book Building Portion;” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "18-2",
+       "text": "Substituted for the words “(9) The associates of the Consultant to the Issue and the Book Runner shall not in aggregate make bids for shares in excess of two per cent of the Book Building Portion;” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "18-3",
+       "text": "Substituted for the words “five percent” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "18-4",
+       "text": "Substituted for the word “and” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "18-5",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "18-6",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Procedure for public offer of shares through Book Building",
+     "page": 18,
+     "text": [
+      "The following procedure shall be adopted for book building process:",
+      "{fn:18-7}[(1) The Issuer shall decide the Floor Price and the Price Band in consultation with the Consultant to the Issue, if any.",
+      "Provided that the upper limit of the Price Band should not be more than 40% of the Floor Price. The Floor Price and its determination shall be disclosed under a separate section titled as “Valuation Section” in the prospectus. The Consultant to the Issue, if any or the Issuer shall Justify the Floor price.]",
+      "(2) After approval of the prospectus by the Commission, the {fn:19-1}[Issuer itself or through its] Consultant to the Issue {fn:19-2}[, if any] shall seek from the securities exchange the dates for the publication of prospectus and the Bidding Period.",
+      "(3) Non-compliance with any of the condition imposed by the securities exchange and the Commission while granting approval for issue, circulation and publication of the prospectus shall be considered as violation of the prospectus and the Act.",
+      "(4) The prospectus and abridged prospectus as approved by the Commission shall be published in at least one English and one Urdu Newspaper.",
+      "(5) The prospectus shall be issued, circulated and published not less than seven days and not more than thirty days before the commencement of the subscription period for the retail portion of the Issue.",
+      "{fn:19-3}[(6) After inserting the dates of the Bidding period, the copy of the approved Prospectus shall be placed on the website of the Issuer, the Book Runner, the Designated Institution, the securities exchange and the Consultant to the Issue, if any.]",
+      "{fn:19-4}[6(a) The Issuer shall publish the Prospectus at least one day before the commencement of registration of bidders by the Book Runner]",
+      "(7) The bidding shall be conducted electronically through the System in a fair, efficient and transparent manner.",
+      "{fn:19-5}[(8) Save as provided in regulation 3(15)(a) and (b), Floor price shall not be revised once the Prospectus has been approved by the Commission.]",
+      "(9) The registration of bidders by the Book Runner shall commence at least three working days before the start of the bidding period and shall remain open till 03:00 pm on the last date of the bidding period.",
+      "(10) The Book Runner shall at least establish bid collection centers in Islamabad, all the provincial capitals, Azad Kashmir and Gilgit/ Baltistan. The Book Runner may also designate any of the Bankers to an Issue as its collection agent.",
+      "(11) The Book Runner shall provide a mechanism for registration of the bidders at the bid collection centers and collection agents.",
+      "(12) The Book Runner shall make all necessary arrangements for receiving bids and the instruments evidencing payment of the bid money",
+      "(13) The Book Runner shall put in place a mechanism to enter details including the maximum Bid amount of the Bidders into the System (14) Once details of the bidders are entered into the System, the Designated Institution shall assign and communicate password and user ID to the bidders enabling them to directly place the bid and revise the bid {fn:20-1}[ ], if required.",
+      "{fn:20-2}[(15) The bidding shall remain open for at least one working day.]",
+      "(16) The Book Building process shall be considered as cancelled if the Issuer does not receive bids for the number of shares allocated under the Book Building Portion and the same shall be immediately intimated by the Book Runner and Consultant to the Issue to the Commission, the securities exchange, the Designated Institution and the bankers to an issue. All the Bankers to an Issue shall be advised by the book runner for refund/ unblocking of the Bid Money of the bidders. The margin money shall be unblocked/ refunded to the bidders, where required, immediately but not later than three working days of the closing of the Bidding Period;",
+      "(17) The Book Building process shall be considered as cancelled if the total number of bids received is less than {fn:20-3}[forty]; and",
+      "(18) The Book-Runner shall ensure that subscription money received against the bids accepted shall not be released to the Issuer by the Banker to the Book Building Portion until:",
+      ">>(i) credit {fn:20-4}[ ] of all shares allocated under the retail portion of the issue; and",
+      ">>(ii) issuance of NOC by the securities exchange in case the company is already listed or formal trading of the company in case of new listing."
+     ],
+     "fn": [
+      {
+       "n": "18-7",
+       "text": "Substituted for the text “(1) The Issuer shall decide the Floor Price 7[and the Price Band] in consultation with the Consultant to the Issue. 7[Provided that the upper limit of the Price Band should not be more than 40% of the Floor Price.] The Floor Price and its determination shall be disclosed under a separate section titled as “Valuation Section” in the prospectus containing the justifications given by the Consultant to the Issue in support of the Floor Price set by the Issuer 7[along with post issue Free Float disclosure].” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "19-1",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "19-2",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "19-3",
+       "text": "Substituted for the text “(6) Consultant to the Issue shall immediately place copy of the approved Prospectus on its website and the websites of the Book Runner, the Designated Institution, the Issuer and the securities exchange after inserting dates of the Bidding Period.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "19-4",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "19-5",
+       "text": "Substituted for the words “(8) Floor Price shall not be revised upward once the Prospectus has been approved.” Vide SRO 7(I)/2018 dated January 5, 2018 1 Deleted the words “upward only” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "20-2",
+       "text": "Substituted for the text “(15) The bidding shall remain open for at least two consecutive working days.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "20-3",
+       "text": "Substituted for the word “hundred” vide SRO 1619 (I)/2019 dated December 26, 2019 4 Deleted the words “or dispatch” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "20-1",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "20-4",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Procedure for bidding",
+     "page": 20,
+     "text": [
+      "The following procedure shall be followed for bidding:",
+      "(1) Bids can be placed {fn:20-5}[as] ‘Limit {fn:20-6}[Bid]’ or a ‘Step Bid’ either electronically or with the bid collection centers and collection agent.",
+      "Provided that the minimum size of a limit bid and that of any step, in case of a Step Bid, shall not be less than {fn:20-7}[one] million rupees;",
+      "(2) The book runner shall vet the bid applications and accept only such bid applications that are duly filled in and supported by a crossed cheque or demand draft or pay order or confirmation from the Banker to an Issue that Bid Money has been electronically debited from the bidder account or is blocked in the bidder account;",
+      "(3) In case of institutional investors, the book runner may accept bid applications with minimum 25% margin money.",
+      "{fn:21-1}[Provided that the book runner may waive this margin requirement for institutional investors at its own discretion.]",
+      "(4) On receipt of bid application, the Book Runner shall enter the Bid into the System and issue to the bidder an electronic receipt bearing name of the book runner, name of the bidding center, date and time;",
+      "(5) The bidding shall commence from 09:00 a.m. and close at 05:00 p.m. on all days of the Bidding Period. The bids shall be collected and entered into the system by the Book-Runner till 05:00 p.m. on the last day of the bidding period;",
+      "(6) The bidders can revise the bids upward till 05:00 p.m. on the last day of the Bidding Period;",
+      "(7) The Book Runner may reject any bid application for reasons to be recorded in writing provided the reason of rejection is disclosed to such bidder. Decision of the Book Runner shall not be challengeable by the bidder.",
+      "(8) The Designated Institution shall through the System display live throughout the bidding period an order book in descending order showing demand for shares at various prices and the accumulated number of shares bid for along with percentage of the total shares offered. The order book should also show the revised bids. The order book shall be accessible through websites of the Designated Institution, Book Runner, the Consultant to the Issue, securities exchange, clearing house and the central depository;",
+      "(9) At the close of the bidding period, Strike Price shall be determined on the basis of Dutch Auction Method by the Designated Institution;",
+      "(10) The bidders who have made bids at prices above the Strike Price shall be allotted shares at the Strike Price;",
+      "(11) In case the bids received are sufficient to allot the total number of shares offered for sale under the Book Building Portion, the allotment shall be made on the basis of highest bid priority that is the bid made at the highest price shall be considered first for allotment of shares.",
+      "{fn:21-2}[(12) In case all the bids made above the Strike Price are accommodated and shares are still available for allotment, such available shares shall be allotted against the bids made at the Strike Price on proportionate basis]",
+      "(13) The bidders who have made bids below the Strike Price shall not qualify for allotment of securities and the book runner shall intimate their respective banks for unblocking their Bid Money within one working day of the close of the bidding period;",
+      "(14) Within one day of the closing of the bidding period, successful bidders shall be intimated the Strike Price and the number of shares provisionally allotted to each of them;",
+      "(15) The bid money of bidders who have undertaken to subscribe the unsubscribed retail portion shall remain deposited or blocked till allotment of unsubscribed retail portion, if any, to them on pro-rata basis; and",
+      "(16) The successful bidders shall be issued securities only after the end of the public subscription, in the form of book-entry to be credited in their respective accounts. All the bidders shall, therefore, provide number of their accounts in the bid application; and",
+      "(17) The Designated Institution shall continue to display on its website, the data pertaining to the Book Building and determination of the Strike Price for a period of at least three working days after closure of the bidding period."
+     ],
+     "fn": [
+      {
+       "n": "20-5",
+       "text": "Substituted for the words “at a” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "20-6",
+       "text": "Substituted for the word “Price” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "20-7",
+       "text": "Substituted for the word “7two” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "21-1",
+       "text": "Substituted for the text “Provided that the book runner may waive this margin requirement for institutional investors subject to confirmation from their respective banks or custodian banks (in case of foreign institutional investors) that an amount equivalent to the bid money is available in the respective bank or custodian account and would be paid directly to the book runner on its request and confirmation of allocation of shares;” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "21-2",
+       "text": "Substituted for the words “(12) In case all the bids made above the Strike Price are accommodated and shares are still available for allotment, such available shares will be allotted against the bids made at the Strike Price strictly on time priority basis.” Vide SRO 7(I)/2018 dated January 5, 2018 1 Deleted the word “make” vide SRO 7(I)/2018 dated January 5, 2018"
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Restrictions",
+     "page": 22,
+     "text": [
+      "(1) The biding period shall not be extended except in extra ordinary circumstances like closure of banks, failure of System, etc. In such case, Book Runner shall apply to the Commission for extension in the Bidding Period after obtaining NOC from securities exchange. In case extension is granted, the same shall be disseminated through publication in all those newspapers where the prospectus was published and the website of the issuer, consultant to the issue, book runner, the designated institution and the securities exchange.",
+      "(2) The bidder shall not {fn:22-1}[ ]–",
+      ">>(i) {fn:22-2}[make] bid below the Floor Price {fn:22-3}[and above the upper limit of the Price Band];",
+      ">>(ii) {fn:22-4}[make] bid for more than {fn:22-5}[10%] of the shares allocated under the Book Building Portion {fn:22-6}[ ];",
+      ">>(iii) subject to the provision of clause (i) above, {fn:22-7}[make] bid with price variation of more than 10% of the prevailing indicative strike price or such other percentage as may be specified by the Commission;",
+      ">>(iv) {fn:22-8}[make] consolidated bid;",
+      ">>(v) {fn:22-9}[make more] than one bid either severally or jointly; {fn:22-10}[",
+      ">>(vi) make downward revision both in terms of Bid Price and Bid Volume;",
+      "Provided that in case of upward revision of the Bid Price, the number of shares Bid for i.e. Bid Volume may be adjusted ensuring that the bid amount or bid money remains the same; or]",
+      ">>{fn:23-1}[(vii) withdraw the Bid.]",
+      "(3) No person shall take part in the book building process, directly or indirectly severally or jointly in any manner or engage in any act or practice which create a false and misleading appearance of active bidding for raising or depressing strike price in the book building process."
+     ],
+     "fn": [
+      {
+       "n": "22-2",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "22-3",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "22-4",
+       "text": "Substituted for the word “a” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "22-5",
+       "text": "Substituted for the expression “5%” vide SRO 1619 (I)/2019 dated December 26, 2019 6 Deleted the text “except for institutional investors who may make bid up to 10% of the shares allocated under the Book Building Portion” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "22-7",
+       "text": "Substituted for the word “a” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "22-8",
+       "text": "Substituted for the word “a” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "22-9",
+       "text": "Substituted for the word “More” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "22-10",
+       "text": "Substituted for the words “or (vi) downward revision or withdraw the bid.” Vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "23-1",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "22-1",
+       "text": "Substituted for the text “Provided that the book runner may waive this margin requirement for institutional investors subject to confirmation from their respective banks or custodian banks (in case of foreign institutional investors) that an amount equivalent to the bid money is available in the respective bank or custodian account and would be paid directly to the book runner on its request and confirmation of allocation of shares;” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "22-6",
+       "text": "Substituted for the word “Price” vide SRO 819(I)/2020 dated September 7, 2020"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Procedure for allocation of shares to retail investors",
+     "page": 23,
+     "text": [
+      "The following procedure shall be followed for allocation of shares to retail investors:",
+      "{fn:23-2}[(1) Within three working days of the closing of the Bidding Period, the Issuer itself or through its Consultant to the Issue, if any shall publish supplement to the prospectus in those newspapers in which the prospectus was earlier published and also disseminate the same to the securities exchange, banker to an issue and underwriter. For this clause the term supplement to the prospectus means information relating to results of the Book Building or any other information prescribed below that is important for the retail investors.]",
+      "{fn:23-3}[(1a) The supplement to the prospectus shall contain the information relating to the Strike Price, the Offer Price, names of the underwriters of the retail portion of the Issue if any, underwriting commission bifurcating as take up commission or any other, commitment by the successful bidders for subscribing the undersubscribed retail portion in case of hundred percent book building, category wise breakup of the successful bidders along with number of shares allocated to them, dates of public subscription and such other information as specified by the Commission.]",
+      "(2) The issuer may offer the shares to the retail investors at a certain discount to the strike price.",
+      "(3) The general public shall submit application for the subscription of shares to the Banker to an Issue either in physical form or electronically. The application shall be duly accompanied by a crossed cheque or demand draft or pay order in the name of the Issuer or evidence of direct debit of subscription money from the applicant’s bank account or blocking of the subscription money in the applicant’s bank account.",
+      "(4) Within 10 {fn:23-4}[working] days of the close of public subscription period or such shorter period of time as may be specified by the Commission from time to time, the shares shall be allotted and issued against the accepted and successful applications and the subscription money of the unsuccessful applicants shall be unblocked/ refunded.",
+      "(5) In case retail portion of the issue, if any, remains unsubscribed, the unsubscribed shares shall either be taken up by the underwriters or allotted to successful bidders at the strike price determined in the book building process on pro-rata basis."
+     ],
+     "fn": [
+      {
+       "n": "23-2",
+       "text": "Substituted for the text “(1) Within three working days of the closing of the Bidding Period, the Consultant to the Issue shall publish all supplement to the prospectus in those newspapers in which the prospectus was earlier published and also disseminate the same to the securities exchange, banker to an issue and underwriter. Explanation: - For the purposes of this clause the expression supplement to the prospectus means information relating to the Strike Price, the Offer Price, names of the underwriters of the retail portion of the Issue if any, underwriting commission bifurcating as take up commission or any other, commitment by the successful bidders for subscribing the undersubscribed retail portion in case of hundred percent book building, category wise breakup of the successful bidders along with number of shares allocated to them, dates of public subscription and such other information as specified by the Commission.” Vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "23-3",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "23-4",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI",
+   "sections": [
+    {
+     "no": "12",
+     "title": "Offer for sale of shares by the Offeror.__ 1",
+     "page": 24,
+     "text": [
+      "[(1) A person or group of persons, holding more than ten per cent shares of a listed company or listed body corporate, may offer such shares for sale to the public subject to the conditions that the offer size (product of the offer price or floor price and number of shares being offered) of capital to the public shall not be less than one hundred million rupees.]",
+      "(2) In case of offer for sale of shares of an unlisted company or unlisted body corporate, the size of the offer of capital to be offered to the public shall be in accordance with these Regulations and regulations of the securities exchange;",
+      "{fn:24-2}[Provided that offer for sale of shares by the existing shareholders of a company is not allowed in case of green field project]",
+      "{fn:24-3}[CHAPTER VIA",
+      "Special Purpose Acquisition Company, Functions and other Requirements",
+      "12a. Eligibility to Commence business as SPAC.__ (1) No person shall commence business as a SPAC unless,-",
+      ">>(i) it is registered as a public limited company having principle line of business of SPAC, having a paid-up capital of not less than ten million rupees, and shall not carry out any commercial business other than the business of SPAC; and",
+      ">>(ii) its promoters, sponsors, directors and chief executive officer fulfil the Fit and Proper criteria as specified in the Ninth Schedule.",
+      "12b. Functions of SPAC – (1) A SPAC shall be responsible, -",
+      ">>(i) to raise and utilize funds for the sole purpose of merger or acquisition transaction and complete the transaction within permitted time frame as per these regulations;",
+      ">>(ii) to open an escrow account and maintain custodial arrangements for escrow account at all times as required under these regulations;",
+      ">>(iii) to act in the best interests of the investors and to ensure that merger transactions shall be structured in such a manner to avoid any conflict of interest;",
+      ">>(iv) to be obliged to manage its assets, in the interest of the investors in good faith and to the best of its ability and without undue advantage for itself or any of its related parties, associates or its officers;",
+      ">>(v) to ensure that at least 15% shareholding of merged entity (post-merger) are held by the sponsors for a period of at least one year from the date of merger:",
+      "Provided that SPAC sponsors may increase shareholding percentage in the merged entity, if merged entity (subsequent to merger) starts generating operating profit within specified time (as disclosed in prospectus);",
+      ">>(vi) to ensure that sponsor’s shareholding in the target company premerger/acquisition should be less than 30% of the total shareholding of the target company;",
+      ">>(vii) to prepare the draft prospectus as per format and disclosures prescribed in Schedule Eleven and shall submit application for approval of the prospectus as per these regulations and the Act, 2015.",
+      "12c. Listing. - A SPAC offering securities to the public shall be listed on the securities exchange.",
+      "12d. Modes of fund raising. – (1) A SPAC can raise funds through issuance of equity securities and/or warrants either by way of;",
+      ">>(i) Initial Public Offer (IPO); or",
+      ">>(ii) Private placements",
+      "12e. Minimum Fund Raised.- A SPAC shall raise at least Rs. 200 million to undertake a merger or acquisition transaction. The offering document/prospectus should clearly provide the justification that the funds raised are sufficient enough to enable the SPAC to have a core business with sufficient size and scale relative to the industry in which the business operates.",
+      "12f. Time frame for completion of qualifying acquisition.- SPAC must complete the merger or acquisition transaction within the permitted time frame of thirty six (36) months from the date of listing of SPAC on the exchange:",
+      "Provided that the Commission may, upon request by the SPAC, after reasons to be recorded in writing, extend the permitted time by six months subject to terms and conditions as deem appropriate by Commission.",
+      "12g. Shareholders’ Approval. – (1) Each merger or acquisition transaction shall be approved by the shareholders by way of special resolution. The SAPC shall provide the disclosures as specified in Schedule Twelve, while presenting to the shareholder.",
+      "(2) SPAC shall ensure mandatory implementation of e-voting.",
+      "(3) The notice of general meeting by SPAC shall not be less than 21 days.",
+      "12h. Rights of holders of voting securities who vote against a qualifying acquisition /Refund to Investors Or incase where SPAC fails to complete the merger or acquisition transaction- (1) A SPAC shall be entitled to make refund to the entitled shareholders from the Escrow account in the following scenarios, -",
+      ">>(i) where the company is unable to complete the merger or acquisition transaction within the permitted time period as specified in these regulations or as approved by the Commission; or",
+      ">>(ii) to those entitled shareholders, who do not approve the merger or acquisition transaction.",
+      "(2) if the SPAC is unable to complete the merger or acquisition transaction within the permitted time period, the securities holders, will receive pro rata amount out of the Escrow account including any profit accrued/credited in the Escrow account, net of any taxes payable.",
+      "(3) The SPAC shareholder/(s), other than directors, sponsors and chief executive offer, disapproving the merger or acquisition transaction shall be –",
+      ">>(i) entitled to receive, in exchange for their securities, a sum equivalent to 90% of their initial investment, net of any taxes payable and expenses related to the facilitation of the exchange, provided that such merger or acquisition transaction is approved and completed within the permitted time frame; and",
+      ">>(ii) paid as soon as practicable upon completion of the merger or acquisition transaction should they elect to exchange their securities. The securities tendered in exchange for cash must be cancelled. In complying with this requirement, the SPAC must specify, in the circular to shareholders in relation to the qualifying acquisition, the timeframe for payment to holders of securities electing to exchange their securities. The SPAC must also demonstrate that this timeframe is reasonable, including providing details of all milestones or steps to be taken.",
+      ">>(iii) the basis of computation for refund must be disclosed in the prospectus and notice of the general meeting.",
+      ">>(iv) SPAC shall notify through its share registrar the list of dissenting shareholders to CDC. Shares of the dissenting shareholder shall immediately be blocked by CDC.",
+      ">>(v) for the purpose of processing the list of dissenting shareholder/(s) and freezing, SPAC shares shall not be tradeable on the securities exchange for one day i.e. immediately after the date of book closure.",
+      "(4) SPAC immediately after processing payments from the Escrow account as per the procedure specified in these regulations shall stand delisted and process of its voluntary winding up shall be initiated by the SPAC as specified in Companies Act, 2017.",
+      "12i. Management of Escrow Account. – (1) SPAC must place at least ninety percent (90%) of the funds raised in an escrow account immediately upon receipt of all proceeds. 10% of the total proceeds may be utilized to defray expenses related to the initial public offering/private placements, operating costs, fund the search for a target business and complete the qualifying acquisition;",
+      "(2) The monies in the escrow account shall only be utilized for the purpose of merger or acquisition transaction.",
+      "(3) The monies in the escrow account can be released by the custodian for such purposes as permitted under these regulations and upon termination of the escrow account.",
+      "(4) The escrow account can be terminated-",
+      ">>(i) following the completion of all merger or acquisition within the permitted time frame; or",
+      ">>(ii) upon failure to complete merger or acquisition transaction by SPAC.",
+      "(5) The proceeds in the escrow account can be invested in permitted investments and any income generated by the funds held in the escrow account, including profit or dividend income derived from the permitted investments, must accrue to the escrow account and SPAC must ensure that in such investments initial capital is preserved.",
+      "(6) Members of the management team shall not be eligible for any other payments from escrow account other than in relation to securities purchased by them during and after the public offering.",
+      "12j. Fair market value of Acquisition. – (1) The fair market value of the target company or companies, as the case may be, must equal to at least eighty percent (80%) of the aggregate amount in the escrow account, net of any taxes payable and the losses incurred on the investments made out of the escrow account.",
+      "(2) The fair market value should be supported by a valuer’s report recognized under the Companies Act, 2017",
+      "12k. Additional financing.- (1) SPAC can raise additional funds by way of rights issue or other than right issue or through secondary public offering to complete its merger or acquisition transaction within the permitted time period specified in these regulations or as approved by the Commission. At least ninety percent (90%) of the proceeds received, as a result, shall also immediately be deposited into escrow account.",
+      "(2) Where a SPAC proposes to obtain debt financing, the SPAC must ensure that–",
+      ">>(i) any credit facility obtained prior to the completion of the merger or acquisition transaction, may only be drawn after the approval of the merger or acquisition through special resolution;",
+      ">>(ii) the funds from the credit facility obtained must be applied towards the financing of the merger or acquisition, defraying related costs or enhancing the business(es) acquired under the merger or acquisition; and",
+      ">>(iii) the monies in the escrow account must not be used as collateral for the debt financing.",
+      "12l. Majority ownership and management control:- The merger or acquisition by SPAC should result in majority ownership or management control by the SPAC of the merged/target entity.",
+      "12m. Change in board of directors and management team.- Any change in the board, if so required, shall only be made in a manner provided in the Companies Act, 2017, provided that the directors of SPAC shall at all times comply with fit and proper criteria given under Ninth Schedule.",
+      "12n. The Custodian - its roles and responsibilities. – (1) The funds raised by SPAC from issuance of securities shall be kept by the custodian in escrow account, in accordance with the custodian agreement, these Regulations and applicable laws.",
+      "(2) Contents of the custodian agreement must be in accordance and in compliance with these regulations and at minimum should include such information as specified in Schedule Ten.",
+      "(3) SPAC must secure and maintain custodial arrangements at all times over the monies in the escrow account until the termination of the escrow account.",
+      "(4) A custodian must take appropriate measures to ensure the safekeeping of the monies held in the escrow account.",
+      "(5) A custodian must ensure that proper accounting records and other records of escrow account are maintained.",
+      "(6) A custodian may be provided a mandate by the SPACs to invest the amounts held in the escrow account in permitted investments.",
+      "(7) A custodian may only distribute the funds held in the escrow account in accordance with the provisions of the custodian agreement.",
+      "(8) The custodian shall disclose any information to the Commission and PSX upon request;",
+      "(9) The custodian agreement will terminate–",
+      ">>(i) on the appointment of a new custodian following the resignation or termination of services of the existing custodian; or",
+      ">>(ii) following the termination of the escrow account.",
+      "12o. Failure to complete merger or acquisition transaction- (1) In case SPAC fails to complete merger or acquisition transaction within the permitted time frame or within such extended time as approved by the Commission it shall notify the Commission and the concerned securities exchange of the same fact within seven days.",
+      "(2) In case where SPAC fails to complete the merger or acquisition transaction prior to expiry of the permitted time frame due to any unforeseen circumstances/reasons, it shall immediately notify the same to the Commission and the concerned securities exchange of the fact.",
+      "12p. Power of the Commission to issue directions. – The Commission may issue such directions to the SPAC, including but not limited to filing of reports and furnishing such documents and information to the Commission or to the investors, as it may deem fit, and SPAC shall comply with such requirements.",
+      "12q. Relaxation: The Commission may, if deems appropriate based on valid justification provided by the SPAC, upon reasons to be recorded in writing, relax any of the requirements of Chapter VIA subject to such conditions or limitations as it deems appropriate.]"
+     ],
+     "fn": [
+      {
+       "n": "24-1",
+       "text": "Substituted for the text “(1) A person or group of persons, holding more than ten per cent shares of a listed company or listed body corporate, may offer such shares for sale to the public subject to the conditions that the offer size of capital to the public shall not be less than one hundred million rupees. Explanation.- For the purpose of this clause, the term, “offer size ” means the product of the offer price 1[or floor price] and the number of shares being offered;” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "24-2",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "24-3",
+       "text": "Inserted vide SRO 1214 (I)/2021 dated September 15, 2021"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Public Offer Of Debt Securities",
+   "sections": [
+    {
+     "no": "13",
+     "title": "General Conditions for public offer of Debt Securities",
+     "page": 28,
+     "text": [
+      "An issuer may make a public offer of debt security under section 87 and 88 of the Act, if it fulfills the following conditions, namely.-",
+      "(1) It is authorized by its Memorandum and Articles of Association to issue debt securities;",
+      "{fn:29-1}[(2) For issuance of debt security, other than the commercial paper, the Issuer shall appoint, as applicable, -",
+      ">>(i) Debt Securities Trustee;",
+      ">>(ii) Investment Agent;",
+      ">>(iii) Shariah Advisor.]",
+      "(3) It has obtained rating of the debt security from a credit rating company licensed by the Commission and the rating shall not be more than six months old. The minimum rating shall be A2 (short term) in case of short term debt securities (instruments with tenor of up to one year) and BBB+ (long term)/ A2 (short term)in case of long term debt securities (instruments with tenor exceeding one year) ;",
+      "Provided that in case of short term debt securities (instruments with tenor of up to one year), the condition of instrument rating may be waived, if the issuer has obtained entity rating and such rating is not less than “A-” (long term)/ “A2” (short term) and not more than six months old {fn:29-2}[:",
+      "Provided further that this clause shall not apply to a Sovereign Sukuk {fn:29-3}[,] a Government Guaranteed Sukuk {fn:29-4}[and any other debt security whose debt servicing is guaranteed from the Government;]",
+      "(4) The public offer for debt securities shall be fully underwritten, except in case of issuance of Sukuk, where underwriting may not be required in the following conditions:",
+      "i. The issue is made for the repayment of debt;",
+      "ii. Utilization of the proceeds of the issue is solely for meeting the working capital requirement; and",
+      "iii. The issuer has alternative funding arrangements in place for meeting short fall, if any, in the event of undersubscription of the issue.",
+      "(5) The long term debt securities {fn:29-5}[including Sukuk and other Shariah compliant securities] shall not be restructured or rescheduled unless approval of two third of the debt securities holders in value for the time being outstanding is obtained;",
+      "(6) It shall report profit payment and redemption status of the securities on semiannual basis to the Commission, securities exchange, debt securities trustee, investment agent, and issuing and paying agent, till complete redemption of the issue.",
+      "(7) In case of Shariah compliant debt securities including Sukuk, the following conditions shall also be complied with:",
+      ">>(i) The issuer has appointed Investment Agent through an investment agency agreement which contains at least roles and responsibilities of both parties to the agreement, dispute resolution mechanism and such other clauses as specified by the Commission from time to time;",
+      ">>(ii) The investment agent shall endeavor that assets are transferred to Sukuk holders through an SPV.",
+      ">>(iii) In case the Sukuk is issued without establishment of SPV then Shariah Advisor should give reasons referring to Shariah principles for allowing issuance of Sukuk without establishment of an SPV {fn:30-1}[ ]",
+      ">>(iv) The Investment Agent shall not be {fn:30-2}[associated company or associated undertaking of the Issuer];",
+      ">>{fn:30-3}[(v) In case of secured Sukuk, the Issuer has arranged appropriate security, in the form acceptable to the Investment Agent:",
+      "Provided that this sub-clause shall not apply to {fn:30-4}[ ] Government Guaranteed Sukuk;]",
+      ">>{fn:30-5}[(vi) The Issuer shall, before the issue of Sukuk, engage Shariah Advisor and obtain in writing from it/him/her Shariah certificate and the Shariah certificate must be signed by Shariah Advisor ascertaining that the basis on which the Sukuk are structured is Shariah compliant;]",
+      ">>{fn:30-6}[(vii) The Shariah Advisor may not remain engaged throughout the tenor of the Issue, if the Shariah certificate states so and where an Issuer opts to engage Shariah Advisor for a longer period, the term of engagement shall be at the discretion of the Issuer;]",
+      "(viii) The Issuer has obtained a Shariah Certificate from the Shariah Advisor which must contain at least such information and certification and in the form and manner as notified by the Commission from time to time including the following:",
+      "a. {fn:30-7}[how the structure is free from riba;]",
+      "b. whether and to what extent the return to Sukuk holders is attributable to the underlying assets;",
+      "c. whether and to what extent the ownership of underlying assets, belongs to the Sukuk holders;",
+      "d. whether and to what extent {fn:31-1} [the related agreements and contracts,] separately and collectively, are consistent with the concerned Shariah principles; and",
+      "e. exceptions, reservations, and qualifications regarding Shariah compliance, if any, and details thereof.",
+      "{fn:31-2}[Provided that the Issuer shall ensure that all relevant documents, contracts, details, and information required by the Shariah Advisor for understanding of the transactions, concepts, structure and framing or review of the Shariah certificate are provided and adequately explained to the Shariah Advisor;]",
+      "{fn:31-3}[Omitted]",
+      ">>{fn:31-4}[(x) The Issue shall not embed any swaps, options or other derivatives except in the case of convertible or exchangeable Shariah compliant securities;]",
+      ">>(xi) The Issuer shall ensure that proceeds of the Issue are utilized {fn:31-5}[for Shariah compliant purposes and] in the form and manner as disclosed in the Prospectus.",
+      ">>(xii) Where Shariah compliant debt securities are convertible or exchangeable into ordinary shares of the {fn:31-6} [Issuer], the option of conversion or exchange, as the case may be, shall be at the discretion of the investors and the underlying ordinary shares shall be listed at the time of the offer of such debt securities. {fn:31-7}[ ]",
+      "{fn:31-8}[Provided that this clause shall not apply in case of issuance of Tier 1 and Tier 2 instruments by Scheduled Banks.]",
+      "Chartered Accountants to perform Shariah audit;]",
+      "{fn:32-1}[(xiii) The Shariah audit report where required shall made part of the annual financial report of the Issuer;]",
+      ">>{fn:32-2}[(xiv) The external Shariah audit fee where applicable shall be disclosed in the audited financial statements of the Issuer;]",
+      "{fn:32-3}[(xiva) Where a Sukuk is structured using a single Shariah concept, the Sukuk shall preferably be named according to that concept;",
+      "(xivb) In case of rescheduling or restructuring of an Issue, the Issuer shall seek a fresh Shariah certificate from the Shariah Advisor;",
+      "(xivc) The Prospectus must make it unambiguously clear to the investors whether or not the Sukuk are asset backed, that is, based on true sale, providing investors an unqualified right over the concerned assets and where the Sukuk are not asset backed, the Prospectus shall explain the implications, most notably, if the Sukuk holders are assuming credit risk of the Issuer and their standing in the hierarchy of creditors;",
+      "(xivd) Where Sukuk are issued without transferring concerned assets, where applicable, to an SPV, the Issuer shall explain in the Prospectus why the SPV structure has not been used and any potential implications regarding investor protection and Shariah compliance;",
+      "(xive) The Prospectus shall specify fees and expenses pertaining to Shariah compliance, including the fee, if any, paid to the Shariah Advisor;",
+      "(xivf) The Issuer shall furnish the Shariah certificate and the transaction documents to all the Sukuk holders in physical or electronic form or shall make available the same on its website, in downloadable format, for information of the investors;",
+      "(xivg) The engagement letter or agreement executed with the Shariah Advisor among other things must clearly define the roles and responsibilities of both parties to the agreement, dispute resolution mechanism and such other clauses as specified by the Commission from time to time;]",
+      ">>(xv) Any other condition as may be specified by the Commission from time to time.",
+      "{fn:32-4}[omitted]",
+      "{fn:33-1}[(8) Within 10 working days of the close of public subscription period or such shorter period of time as may be specified by the Commission from time to time, the debt securities shall be allotted and issued against the accepted and successful applications and the subscription money of the unsuccessful applicants shall be unblocked/ refunded.]"
+     ],
+     "fn": [
+      {
+       "n": "29-1",
+       "text": "Substituted for the text “(2) In case of debt securities, other than Commercial Paper and Sukuk, it has appointed debt securities trustee licensed by the Commission;” vide SRO 1383(I)/2020 December 23, 2020"
+      },
+      {
+       "n": "29-2",
+       "text": "Substituted for the full stop “.” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "29-3",
+       "text": "Substituted for the word “and” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "29-4",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "29-5",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017 1 Deleted the words “and what additional measures have been taken for the protection of assets of Sukuk issue and protection of rights of Sukuk holders” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "30-2",
+       "text": "Substituted for the words “associate of the issuer” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "30-3",
+       "text": "Substituted for the words “(v) The issuer may arrange appropriate security, where required, in the form and manner acceptable to the Investment Agent;” vide SRO 838(I)/2017 dated August 23, 2017 4 Deleted the words “a Sovereign Sukuk and a” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "30-5",
+       "text": "Substituted for the words “(vi) The Issuer has appointed a Shariah Advisor, through agreement in writing. The agreement beside other things must clearly define roles and responsibilities of the Shariah Advisor;” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "30-6",
+       "text": "Substituted for the words “(vii) The Shariah Advisor shall remain appointed throughout the tenor of the Issue and replacement or change of the Shariah Advisor shall be reported along with reason to the Commission, the securities exchange, the Investment Agent and all the Shariah compliant debt securities holders within fifteen days of the replacement.” Vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "30-7",
+       "text": "Substituted for the words “why the structure is free from riba, and how it is different from a comparable conventional structure based on lending money at interest;” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "31-9",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "31-2",
+       "text": "Substituted for the words “Provided that the consultant to the issue shall ensure that the Issuer has provided all related documents, contracts, ,access to all books, accounts, transaction documents and information required by the Shariah Advisor for issuance of the said certificate.” Vide SRO 838(I)/2017 dated August 23, 2017 3 Deleted the words “(ix) The Issuer shall at all times during the tenor of the issue ensure that its principal business is not against the Shariah principles.” Vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "31-4",
+       "text": "Substituted for the words “(x) The Issuer shall not embed any options except in the case of convertible or exchangeable Shariah compliant securities;” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "31-5",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017 6 Replaced with the word “issuer” vide SRO 838(I)/2017 dated August 23, 2017 7 Deleted the words “The compliance of features and Shariah requirements of Sukuk shall be audited on annual basis.” Vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "31-8",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "32-1",
+       "text": "Substituted for the words “(xiii) The Shariah audit report shall made part of the annual financial report of the issuer.” Vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "32-2",
+       "text": "Substituted for the words “(xiv) The Shariah audit fee shall be disclosed in the audited financial statements of the issuer.” Vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "32-3",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017 4 Deleted the text “4[Explanation 1.- For the purposes of this regulation the expression “Sovereign Sukuk” shall include Sukuk issued and guaranteed by the Federal Government. Explanation 2.- For the purposes of this regulation the expression “Government Guaranteed Sukuk” shall include Sukuk issued by any corporation or body corporate owned and controlled by the Federal Government and such Sukuk is guaranteed by the Federal Government;]” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "33-1",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "30-1",
+       "text": "Substituted for the text “(2) In case of debt securities, other than Commercial Paper and Sukuk, it has appointed debt securities trustee licensed by the Commission;” vide SRO 1383(I)/2020 December 23, 2020"
+      },
+      {
+       "n": "30-4",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "31-1",
+       "text": "Substituted for the text “(2) In case of debt securities, other than Commercial Paper and Sukuk, it has appointed debt securities trustee licensed by the Commission;” vide SRO 1383(I)/2020 December 23, 2020"
+      },
+      {
+       "n": "31-3",
+       "text": "Substituted for the words “(v) The issuer may arrange appropriate security, where required, in the form and manner acceptable to the Investment Agent;” vide SRO 838(I)/2017 dated August 23, 2017 4 Deleted the words “a Sovereign Sukuk and a” vide SRO 819(I)/2020 dated September 7, 2020"
+      },
+      {
+       "n": "31-6",
+       "text": "Substituted for the words “(vii) The Shariah Advisor shall remain appointed throughout the tenor of the Issue and replacement or change of the Shariah Advisor shall be reported along with reason to the Commission, the securities exchange, the Investment Agent and all the Shariah compliant debt securities holders within fifteen days of the replacement.” Vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "31-7",
+       "text": "Substituted for the words “why the structure is free from riba, and how it is different from a comparable conventional structure based on lending money at interest;” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "32-4",
+       "text": "Substituted for the words “(x) The Issuer shall not embed any options except in the case of convertible or exchangeable Shariah compliant securities;” vide SRO 838(I)/2017 dated August 23, 2017"
+      }
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Conditions for Public Offering of short term debt securities",
+     "page": 33,
+     "text": [
+      "An issuer may make public offer of short term debt securities in the form of Commercial Paper only subject to compliance with the following conditions, namely.-",
+      "(1) The equity of the Issuer is not less than Rs. 50 million as per its latest audited financial statements.",
+      "(2) The commercial paper shall be issued for maturities between thirty days and one year and the date of maturity shall be calculated from the first day of subscription. Where the maturity date happens to be a holiday, the payment shall be made on the immediate following working day.",
+      "(3) The Commercial Paper shall be issued in denomination of Rs.10,000 or multiples thereof.",
+      "(4) The aggregate amount of a Commercial Paper shall be within such limits as may be approved by its Board of Directors, provided the total liabilities of the issuer after the issue of such Commercial Paper do not exceed four times of the issuer’s equity.",
+      "(5) The commercial paper shall be issued at discount to face value.",
+      "(6) The commercial paper shall not be rolled over or restructured or rescheduled.",
+      "(7) The Issuer shall appoint an Issuing and Paying Agent through an agreement in writing. The agreement shall contain all the basic terms and conditions, and role and responsibilities of both the parties to the agreement.",
+      "(8) The Issuing and Paying Agent appointed shall not be associate of the issuer.",
+      "(9) On maturity, the holder shall present the commercial paper for payment to the Issuing and Paying Agent who, having received funds from the Issuer, shall effect repayment through crossed cheque, pay order, demand draft or direct credit in the holders respective account.",
+      "(10) Commercial Paper may be redeemed before maturity under a call option and an investor may ask the Issuer for early redemption under a put option subject to the condition that such options are provided in the offering document."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Conditions for issue of convertible debt securities",
+     "page": 33,
+     "text": [
+      "An issuer may make a public offer of a convertible debt security under {fn:33-2}[clause (b) of sub-section (1) of section 83 of the Companies Act] subject to the following conditions, namely:",
+      "(1) the Issuer is authorized by its Memorandum and Articles of Association to issue convertible securities;",
+      "(2) the Issuer has obtained approval of the Commission under {fn:34-1}[clause (b) of subsection (1) of section 83 of the Companies Act];",
+      "(3) The conversion ratio or mechanism is disclosed in the prospectus; and",
+      "(4) The mechanism for resolution of dispute if arises at the time of conversion is provided in the prospectus.",
+      "{fn:34-2}[15a. Book Building Mechanism for debt securities: An issuer can adopt book building mechanism for discovery of profit rate in case of fixed rate instrument and spread (+/) in relation to the Kibor in case of floating rate instrument.",
+      "Bid for the purpose of this regulation means intention to buy specified number of debt securities for a particular spread/profit rate quoted in basis points.",
+      "The Book Building shall be conducted as per the conditions and procedure prescribed below:",
+      "i. The total issue size of the debt security shall be offered to the General Public including both book building portion and retail portion.",
+      "ii. Maximum Seventy Five percent of the issue size shall be allocated to the Book Building portion and the remaining twenty five percent to the retail investors. The retail portion of the public offer shall be fully underwritten.",
+      "Provided that the requirement of 25% allocation to the retail portion may be relaxed by the Commission upon reasons to be recorded in writing.",
+      "iii. The Issuer shall enter into a tripartite agreement in writing with the Designated Institution and the Book Runner. The said agreement shall specify inter-alia, the rights, privileges, duties, responsibilities and obligations of each party to the agreement and shall provide a clause on dispute resolution mechanism among the parties to the agreement:",
+      "iv. The Issuer shall publish the prospectus at least one day before the commencement of registration of bidders by the book runner;",
+      "v. For Floating rate instruments, Bidder can enter spread on both positive and negative sides in relation to the KIBOR.",
+      "vi. The Book Building shall be considered as cancelled if the Issuer does not receive bids for total number of debt securities offered under the book building.",
+      "vii. Clause (9) to (15) of Regulation 8 and clause (1), (4) and (5) of Regulation 9 relating to procedure for Book Building and bidding of shares shall also apply in case of debt securities.",
+      "viii. The Book Runner shall collect full amount of the bid money as margin money in respect of bids placed by the individual investors.",
+      "ix. In case of Institutional Investors, the Book Runner shall accept application with minimum 10% margin money.",
+      "Provided that Book runner may waive/reduce the margin requirement for institutional investors at its own discretion",
+      "x. Book Building Portion shall be credit underwritten by one or more book runners:",
+      "xi. At the close of the bidding period, cut-off profit rate/ spread shall be determined on the basis of reverse Dutch Auction Method by arranging all the profit rate/spread in an ascending order along with the number of debt securities and the cumulative number of debt securities bid for at each profit rate/spread. The cut off profit rate/spread is determined by increasing the profit rate/ spread to the extent that the total number of debt securities offered under the Book Building portion are subscribed. The allotment shall be made on following basis:",
+      "a. The allotment shall be made on the basis of highest bid priority, i.e. the bid made at the lowest profit rate/ spread shall be considered first for allotment;",
+      "b. The bidders who have made bids at profit rate/spread less than the Cut-off profit rate/ spread shall be allotted the debt securities at the Cut-off profit rate/Spread;",
+      "c. In case all the bids made at profit rate/spread below the cut off profit rate/spread are accommodated and debt securities are still available for allotment. Such available debt securities shall be allotted against the bids made at the Cutoff profit rate/spread on proportionate basis.",
+      "d. The bidders who have made bids at profit rate/spread higher than the Cutoff profit rate/spread shall not qualify for allotment.",
+      "xii. Within one day of the close of the bidding period, successful bidders shall be intimated the Cut-off profit rate/spread and the number of debt securities allotted to each of them;",
+      "xiii. Successful bidders shall deposit remaining amount of bid money within three working days of intimation of successful bid. In case any bidder fails to do so, margin money shall be forfeited without any recourse.",
+      "xiv. The successful bidders shall be issued securities only after the end of the public subscription, in the form of book-entry to be credited in their respective accounts.",
+      "15b. Restrictions:",
+      "(1) The bidding period shall not be extended except in extra ordinary circumstances like closure of banks, failure of System, etc. In such case, Book Runner shall apply to the Commission for extension in the Bidding Period after obtaining NOC from securities exchange. In case extension is granted, the same shall be disseminated through publication in all those newspapers where the prospectus was published and the website of the issuer, consultant to the issue, if any, book runner, the designated institution and the securities exchange.",
+      "(2) The bidder shall not:",
+      ">>(i) make consolidated bid;",
+      ">>(ii) make upward revision in terms of profit rate/spread;",
+      ">>(iii)make downward revision in terms of bid amount; and",
+      ">>(iv) withdraw the Bid:",
+      "(3) No person shall take part in the book building process, directly or indirectly severally or jointly in any manner or engage in any act or practice which create a false and misleading appearance of active bidding for raising or depressing cutoff profit rate/spread in the book building process.",
+      "15c. Procedure for allocation of debt securities to the retail investors:",
+      "i. Within three working days of the closing of the Bidding Period, the Issuer itself or through its Consultant to the Issue, if any shall publish supplement to the prospectus in those newspapers in which the prospectus was earlier published and also disseminate the same to the securities exchange, banker to an issue and underwriter. For this clause the term supplement to the prospectus means information relating to results of the Book Building or any other information prescribed below that is important for the retail investors.",
+      "ii. The supplement to the prospectus shall contain the information relating to the cut off profit rate/spread, names of the underwriters of the retail portion of the Issue , underwriting commission bifurcating as take up commission or any other, category wise breakup of the successful bidders along with number of debt securities allocated to them, dates of public subscription and such other information as specified by the Commission.",
+      "iii. The general public shall submit application for the subscription of debt securities to the Banker to an Issue either in physical form or electronically. The application shall be duly accompanied by a crossed cheque or demand draft or pay order in the name of the Issuer or evidence of direct debit of subscription money from the applicant’s bank account or blocking of the subscription money in the applicant’s bank account.",
+      "iv. Within 10 working days of the close of public subscription period or such shorter period of time as may be specified by the Commission from time to time, the debt securities shall be allotted and issued against the accepted and successful applications and the subscription money of the unsuccessful applicants shall be unblocked/ refunded.]"
+     ],
+     "fn": [
+      {
+       "n": "33-2",
+       "text": "Substituted for the words “the first proviso to sub-section (1) of section 86 of the Ordinance” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "34-1",
+       "text": "Substituted for the words “the first proviso to sub-section (1) of section 86 of the Ordinance” vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "34-2",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VIII — Miscellaneous",
+   "sections": [
+    {
+     "no": "16",
+     "title": "Post Issue Reporting and Disclosures",
+     "page": 36,
+     "text": [
+      "The issuer upon completion of public offering of securities shall,",
+      ">>(i) report detailed break-up of the utilization of the proceeds of the issue in its post issue quarterly/half-yearly and annual accounts {fn:36-1}[till the fulfillment of the commitments mentioned in the prospectus]; and",
+      ">>{fn:37-1}[(ii) submit a: (a) Half yearly progress report; and (b) annual progress report reviewed by the auditor, to the securities exchange till the fulfillment of the commitments mentioned in the prospectus stating the following:",
+      "a. Implementation status of the project/commitment made in the Prospectus as per format given below:",
+      "Commitment Start date Completion Current status Rationale for made in the (disclosed in date (disclosed delay, if any. Prospectus the prospectus) in the Prospectus)",
+      "b. Detailed break-up utilization of the proceeds raised from the issue.]",
+      ">{fn:37-2}[(iia) Submit a final report reviewed by the auditor after the fulfillment of the commitments mentioned in the Prospectus.]",
+      ">>{fn:37-3}[(iii) in case of Sukuk and other Shariah compliant securities, ensure that while preparing their financial reports, all the relevant standards, notified by the Accounting and Auditing Organization of the Islamic Financial Institutions and the Islamic Financial Accounting Standard as notified by the Commission for adoption, from time to time relating to the financial reporting and accounting treatment of Sukuk are complied with.]",
+      "{fn:37-4}[16a. Offering an Exit Opportunity in case of change in principal purpose of Issue as disclosed in prospectus:",
+      "(1) The Issuer shall not, at any time change the principal purpose of the issue as disclosed in the Prospectus.",
+      "(2) In exceptional circumstances, the issuer may change the principal purpose of the issue subject to passing of special resolution and offering an exit opportunity to dissenting shareholders who have not agreed to the change in principal purpose of the issue as disclosed in the Prospectus.",
+      "(3) Offering an exit opportunity shall also be mandatory where the principal purpose of issue was undertaken and thereafter funds were diverted to other purposes, which resulted in non-completion of principal purpose of issue in a timely manner as disclosed in the prospectus.",
+      "(4) The mechanism for an exit offer opportunity shall be as under:",
+      ">>(i) EOGM notice in respect of any change in the principal purpose of the issue as disclosed in the prospectus shall be given along with draft special resolution as required under the provisions of Companies Act, 2017.",
+      ">>(ii) Subject to approval of special resolution as defined in the Companies Act, 2017, the shareholders who have dissented against the special resolution and conveyed their dissent to the company secretary under intimation to PSX, shall be provided an opportunity to exit by offering a price per share, by the sponsors of the issuer that shall be highest of the following:",
+      "a) Intrinsic value based on the latest available audited accounts;",
+      "b) Weighted average closing price for last six preceding months",
+      "c) offer price at which the shares were subscribed through IPO.",
+      ">>(iii) The exit offer shall be executed by the sponsors with in a period of thirty days from the date of passing of special resolution.]",
+      "{fn:38-1}[16(b) Relaxation: The Commission may relax any of the requirements of the Public Offering Regulations, 2017 for privatization of government owned entities by Privatization Commission through capital market.]"
+     ],
+     "fn": [
+      {
+       "n": "36-1",
+       "text": "Substituted for the words “for three years” vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "37-1",
+       "text": "Substituted for the text “(ii) submit a quarterly report providing the status of the commitments mentioned in the prospectus and conditions imposed at the time of granting approval of the prospectus, for at least three years to the securities exchange and the Commission.” Vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "37-2",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "37-3",
+       "text": "Inserted vide SRO 838(I)/2017 dated August 23, 2017"
+      },
+      {
+       "n": "37-4",
+       "text": "Inserted vide SRO 1619 (I)/2019 dated December 26, 2019"
+      },
+      {
+       "n": "38-1",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020 1 Deleted the text “Explanation: The term suitability with regard to listing includes assessing various risks involved such as sector risk, operational risk, legal risk, etc., track record of sponsors, quality and capability of the management, past financial performance of the Issuer, future strategies of the Issuer, dividend payout history, financial projections, financial viability, dividend policy, etc.” vide SRO 1619 (I)/2019 dated December 26, 2019 1 Deleted the words “dispatch and” vide SRO 7(I)/2018 dated January 5, 2018"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IX",
+   "sections": [
+    {
+     "no": "17",
+     "title": "General responsibilities of the Consultant to the Issue, Book Runner Underwriter, Banker to an Issue and Issuing and Paying Agent",
+     "page": 38,
+     "text": [
+      "The Consultant to the Issue, Book Runner, Underwriter, Banker to an Issue and Issuing and Paying Agent shall –",
+      "(1) make all efforts to protect the interests of investors.",
+      "(2) maintain high standards of integrity, dignity and fairness in the conduct of its business.",
+      "(3) fulfill its obligations in a prompt, ethical, and professional manner.",
+      "(4) at all times exercise due diligence, ensure proper care and exercise independent professional judgment.",
+      "(5) endeavor to ensure that inquiries and complaints from investors are dealt with in a timely and appropriate manner;",
+      "(6) avoid conflict of interest and make appropriate disclosure to the customers of their possible source or potential areas of conflict of duties and interest which would impair their ability to render fair, objective and unbiased services;",
+      "(7) ensure that they have made the reporting lines and compensation arrangements for their employees in a way to eliminate or effectively manage actual and potential conflicts of interest;",
+      "(8) ensure that their directors and employees shall not directly or indirectly indulge in any insider trading or other market abuses;",
+      "(9) have internal control procedures and financial and operational capabilities which can be reasonably expected to protect its operations, its customers, investors and other regulated persons from financial loss arising from theft, fraud, and other dishonest acts, professional misconduct or omissions;",
+      "(10) be responsible for the acts or omissions of its employees in respect of the conduct of its business;",
+      "(11) frame policies and procedures to ensure compliance with the requirements of these Regulations by its employees;",
+      "(12) ensure that communications with the securities exchange and the Commission are kept confidential, except as required to be disclosed to the customers;",
+      "(13) render only such services as agreed in writing with their customer and are not prohibited under these Regulations and any other applicable law;",
+      "(14) Maintain a functional website containing all public information about the issue and mechanism for handling of complaints;",
+      "(15) inculcate a culture of compliance of the regulatory requirements through ongoing education and training of their employees.",
+      "(16) ensure that internal control policy is widely disseminated for compliance by all employees and is reviewed for appropriateness and sufficiency by the competent authority at least once every year;",
+      "(17) promptly investigate, in the event of a breach of policies, procedures, controls or misconduct, and take appropriate steps to rectify the weaknesses, if any, to prevent recurrence of such breach;",
+      "(18) Employ sufficient human resource which is adequately trained to efficiently perform its functions;",
+      "(19) Submit any document, report or information as and when required by the Commission;",
+      "(20) ensure that annual review, for appropriateness and sufficiency, of the internal control system is carried out by the internal audit department, which reports directly to the board of directors or its audit committee.",
+      "(21) ensure that any change in license status, any penal action against it or any material change in its financial and operating position which may have adverse effect on the interest of the Issuer, or investors is promptly notified to the Issuer, the offeror, the Commission and the securities exchange;",
+      "(22) ensure that all information provided to the securities exchange and Commission is true, accurate and no material fact is omitted or suppressed; and",
+      "(23) in case of consultant to the issue give, directly or indirectly, any investment advice about any security in the media unless a disclosure of its interest in the said security is made, while giving such advice."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Functions of the Consultant to the Issue",
+     "page": 40,
+     "text": [
+      "The Consultant to the Issue shall perform the following functions, namely:-",
+      "(1) preparation of prospectus, and related documents and ensuring that the same are prepared in accordance with the requirements of the applicable laws including section 89 of the Act, these Regulations, regulations of the securities exchange and other applicable regulatory framework;",
+      "(2) before submitting the application to the securities exchange under section 19 of the Act, the Consultant to the Issue shall examine the proposed issue from various aspects including eligibility requirements and suitability of the Issuer or security for listing considering the interest of general public and its benefits to the capital market.",
+      "{fn:40-1}[ ]",
+      "(3) give justifications in support of the offer/ Floor Price set by the Issuer under a separate section titled as “Valuation section ” in the prospectus.",
+      "(4) assist in the execution of agreements of the issuer with underwriters, bankers to an issue, book runner, Designated Institution, debt security trustee, issuing and paying agent ,balloter and transfer agent and investment agent;",
+      "(5) on behalf of the Issuer, seeking the approval of the securities exchange under section 19 of the Act and Commission under section 87 and 88 of the Act;",
+      "(6) preparation and publication of prospectus and advertisements with regard to public issue;",
+      "(7) ensure that the public offering including book building is carried out in accordance with the prospectus and requirement of these Regulations and the Act;",
+      "(8) preparation and submission of final report on the issue to the Commission;",
+      "(9) comply with all the applicable directives and orders issued by the Commission; and",
+      "(10) any other related function as may be specified by the Commission from time to time."
+     ],
+     "fn": [
+      {
+       "n": "40-1",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      }
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Responsibilities of the Consultants to the Issue",
+     "page": 40,
+     "text": [
+      "(1) The Consultants to the Issue shall.-",
+      ">>(i) ensure that, after having made due and careful enquiry, they have reasonable grounds to believe that-",
+      ">(a) the application submitted to the securities exchange under section 19 of the Act and the prospectus submitted to the Commission under section 87 and 88 of the Act meets the relevant requirements of the Act, these Regulations, regulations of the securities exchange and other applicable regulatory framework; and",
+      ">(b) the documents, reports, statements and information submitted along with the aforesaid application and prospectus are not false or misleading and do not contain any material omission;",
+      ">>(ii) ensure that adequate disclosures are made to the investors in a timely manner so as to enable them to make a balanced and informed decision.",
+      ">>(iii) endeavor to ensure that the investors are provided with true and adequate information without making any misleading or exaggerated claims or any misrepresentation and are made aware of the associated risks before taking any investment decision.",
+      ">>(iv) obtain from their employees an undertaking stating therein that they will not misuse their position of having access to non-public information, if any, relating to the issue for their personal benefit or for the benefit of any other person who does not have or is not authorized to have access to such information;",
+      ">>(v) actively participate in preparation of the prospectus and ensure that all material facts, including all potential risks, as required under the law are disclosed therein and that the Issuer is compliant with all the laws applicable to the issue of securities;",
+      ">>(vi) remain associated with the issue till its completion i.e. {fn:41-1}[ ] credit of securities, submission of final report to the securities exchange and Commission, resolution of the issue related complaints, if any, and implementation of final decision of the Commission on application rejected, if any.",
+      ">>(vii) ensure that they understand the nature of business of their customer.",
+      "(viii) ensure that their customer is fully briefed on its obligations and potential liabilities pertaining to its application and supporting documents including the prospectus, in relation to the requirements stipulated by the Commission.",
+      ">>(ix) ensure that their customer has been made aware of the need for it to extend its full cooperation in the provision and verification of information for the purposes of the assignment;",
+      ">>(x) withdraw from the assignment in case their customer fails or refuses to address its concerns about the issue or any related information provided to it.",
+      "(2) The Consultants to the Issue shall not-",
+      ">>(i) make any false statement, whether oral or written, either about their qualifications or capability to render services or their achievements with regard to services rendered to their potential customers;",
+      ">>(ii) make unsubstantiated claims or statements, in order to acquire business from the customer, about qualifications of their professional staff or their capability to render certain services or their achievements concerning the consultancy services rendered by them;",
+      ">>(iii) submit any document or report to the Commission that contains any untrue or false statement, or any material fact omitted therefrom;",
+      ">>(iv) agree to manage or be associated with any issue as consultant unless its responsibilities relating to the issue are clearly determined through an agreement in writing; and",
+      ">>(v) be a party to or instrumental for -",
+      ">(a) creation of false market;",
+      ">(b) price rigging or manipulation or;",
+      ">(c) Conveying of non-public price sensitive information in respect of securities proposed to be listed in securities exchange to any person."
+     ],
+     "fn": [
+      {
+       "n": "41-1",
+       "text": "Inserted vide SRO 819(I)/2020 dated September 7, 2020"
+      }
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Responsibilities of the book runner",
+     "page": 42,
+     "text": [
+      "_ The Book Runner shall be responsible to:",
+      "(1) ensure that necessary infrastructure and electronic system is available to accept bids and to conduct the whole Book Building process in a fair, efficient and transparent manner;",
+      "(2) ensure blocking of bid and margin money of the Bidders in their respective accounts;",
+      "(3) the Book Runner must be financially capable for honoring its commitments arising out of defaults by their investors, if any;",
+      "(4) use the software provided by the Designated Institution for the Book Building on such terms and conditions as may be agreed through an agreement in writing",
+      "(5) ensure that the software used for Book Building is based on Dutch Auction Method for display of the order book and determination of the strike price;",
+      "(6) ensure that the bidders can access to the System and can revise their bids electronically using the user ID and the password;",
+      "(7) underwrite the Book Building Portion;",
+      "(8) ensure that it has obtained list and Unique Identification Numbers of the associates of the Issuer and the consultant to the issue;",
+      "(9) ensure that names and Unique Identification Numbers of all the persons mentioned above are entered and capped in a manner as prescribed in these Regulations before commencement of the Bidding Period;",
+      "(10) ensure that it blocked all Unique Identification Numbers and names of all related employees for participation in the bidding; and"
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Responsibilities of Banker to an Issue",
+     "page": 42,
+     "text": [
+      "The Banker to an Issue shall.-",
+      "(1) ensure that information related to the subscription of the issue is provided to the Issuer, within the time period and in the form and manner as disclosed in the prospectus or as required under the agreement executed with the them;",
+      "(2) in case of Application Supported by Blocked Amount, on receipt of the application, immediately block the bid money or subscription money in respective account of the bidder or the subscriber;",
+      "(3) Upon receipt of information from the book runner and balloter and share registrar, immediately unblock the bid money or subscription money of the unsuccessful bidders or subscribers;",
+      "(4) Immediately inform the Commission regarding any penal action, legal proceedings initiated against it by the State Bank of Pakistan;",
+      "(5) not accept applications for subscription of securities and subscription money thereof after closing of the subscription period."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Responsibilities of underwriter",
+     "page": 43,
+     "text": [
+      "(1) An underwriter shall, -",
+      ">>(i) obtain from its relevant employees, an undertaking stating therein that they will not misuse their position of having access to the non-public information, if any, relating to the Issue being underwritten for their personal benefit or for the benefits of any other person who does not have or is not authorized to have access to such information;",
+      ">>(ii) ascertain before entering into an underwriting agreement that the regulatory requirement, if any, relating to the exposure limits on investment in securities are not breached in case it is called upon to fulfill its commitment of subscribing the unsubscribed portion of an Issue pursuant to the underwriting agreement;",
+      ">>(iii) in the event of being called upon to subscribe to the securities underwritten pursuant to an agreement, subscribe such securities within such time as specified in the agreement but it shall not exceed fifteen days starting from the date of Issue of such intimation, notice, invitation by the Issuer;",
+      ">>(iv) sell the securities subscribed pursuant to the underwriting agreement in the secondary market or to persons other than the directors, sponsors and associates of the Issuer;",
+      ">>(v) Publish its entity credit rating in its periodic financial reports, and each advertisement and brochure, if any, in relation to promotion of its business;",
+      "(2) The underwriter shall not,-",
+      ">>(i) enter into any buy-back or repurchase arrangement with the Issuer or any other person with respect to the securities underwritten by it;",
+      ">>(ii) derive any undue benefits directly or indirectly, from any underwriting transaction other than the commission payable to it under the underwriting agreement;",
+      ">>(iii) make any oral or written statement, which would misrepresent its underwriting commitment;",
+      ">>(iv) give, directly or indirectly, any investment advice about any security in the media unless a disclosure of its interest in the said security is made, while giving such advice;",
+      ">>(v) willfully make false statement or conceal any material fact in any document, report or paper furnished to the Commission;",
+      ">>(vi) participate itself or through its associates for the subscription of shares out of retail portion of an issue which is underwritten by it;",
+      ">>(vii) be party to or instrumental for creation of false market;",
+      "(viii) be party to or instrumental for price rigging or manipulation;",
+      ">>(ix) be party to or instrumental for passing of unpublished price sensitive information in respect of securities which are listed or proposed to be listed on the securities exchange to any person or intermediary;",
+      ">>(x) undertake underwritings commitments exceeding four times of its equity (excluding unrealized gains and revaluation surplus) as per its latest audited financial statements at any time.",
+      "Provided that any subsequent agreement by the underwriter to the issue with other underwriters {fn:44-1}[duly licensed by the Commission] may be excluded while arriving at exposure limit of an underwriter in respect of its commitment."
+     ],
+     "fn": [
+      {
+       "n": "44-1",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      }
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Responsibilities of Issuing and Paying Agent",
+     "page": 44,
+     "text": [
+      "The issuing and Paying Agent shall,-",
+      "(1) enter into an agreement in writing with the Issuer to act as Issuing and Paying Agent for the issue;",
+      "(2) ensure that the conditions laid down for the issuance of debt securities are strictly adhered to;",
+      "(3) ensure that the Issuer has the minimum credit rating as specified in these Regulations;",
+      "(4) ensure that the Issuer has met all the requirements as prescribed in these Regulations before the issuance of debt securities;",
+      "(5) obtain copies of all the investor agreements i.e. the agreements executed with the initial subscribers and the said agreements contain salient features and other terms and conditions of the issue including the following,-",
+      ">>(i) covenants of the issue of debt securities;",
+      ">>(ii) non availability of any recourse to the initial subscribers on the Issuer and Issuing and Paying Agent and to the subsequent purchasers on the sellers in the secondary market;",
+      ">>(iii) non availability of any guarantee by any bank or other financial institution;",
+      ">>(iv) default history of the Issuer including rescheduling/restructuring of loan for the last 5 years; and",
+      "(6) verify all the documents submitted by the Issuer i.e. copy of Board’s resolution etc. and have in custody certified copies of the original document and issue a certificate that documents are in order;",
+      "(7) Place specimen of the investors’ agreement between the Issuer and the subscribers containing minimum terms and conditions on its website.",
+      "(8) on the issue date, deliver debt securities to investors against proof of payment and at maturity, after receiving funds from the Issuer, effect repayment on receipt of the debt security from the investors;",
+      "(9) make it clear to the initial subscribers in the investor agreement and the general public in the prospectus that their investment is subject to credit and other risks inherent in such instruments and payment would be made to them after the Issuer has made the funds available to Issuing and Paying Agent;",
+      "(10) inform the initial subscribers that in case of any default by the Issuer, it will not be in a position to seek recovery from the Issuer or initiate any action against the Issuer either on its own or on behalf of the investors;",
+      "(11) in case of any default by the Issuer, be responsible for the immediate notification of such default to the holders of the debt security and the Commission",
+      "Explanation.__ For the purpose of these Regulations the term “default” shall include partial payment of redemption amount instead of full amount.",
+      "(12) in case of partial payment by the Issuer, distribute the received funds, among all the holders of the debt securities, on pro-rata basis and while doing so it shall take all necessary measures to safeguard its position against any adverse consequences including incorporation of this provision in the agreement executed between the Issuer and the Issuing and Paying Agent;",
+      "(13) submit a report on the issue to the Commission within fifteen days from the last date for closing of the subscription of the debt security and the report shall contain all the material facts and figures relating to the issue including those as required under these Regulations to be reported to the Commission; and",
+      "(14) obtain from the concerned depository company list of debt security holders on monthly basis."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Responsibilities of Designated Institution in case of book building",
+     "page": 45,
+     "text": [
+      "__ (1) The Designated Institution in case of book building system shall perform following functions namely;",
+      ">>(i) record name, Unique Identification Number (UIN), National Tax Number (NTN), postal and email addresses, land line and cell numbers, bank account Number and branch address and Investor Account Number or Sub-Account Number of the bidder with participant account number;",
+      ">>(ii) provide a mechanism for registration of the bidders before commencement of the bidding period till 03:00 p.m. on the last day of the Bidding Period and require the investors to provide at least such information as mentioned in para (i) above;",
+      ">>(iii) generate bidders’ Internet Protocol (IPs) address and keep record of all IP addresses from where the bids are placed;",
+      ">>(iv) record the number of shares bid for, the Bid Price, type of the bid i.e. Limit Bid or Step Bid, date and time of the entry of the bid;",
+      ">>(v) display the bids revised, and date and time of upward revision;",
+      ">>(vi) {fn:46-1}[neither allow withdrawal of bid, nor] accept the bids placed at a Bid Price that is below the Floor Price {fn:46-2}[or above the upper limit of the Price Band];",
+      ">>(vii) display live the total number of shares offered for sale, the Floor Price, {fn:46-3}[Price Band,] total number of bids received, total number of shares bid for and indicative Strike Price;",
+      "(viii) build an order book showing demand for the shares at various price levels in a descending order along with the accumulated number of shares bid for and percentage of total shares offered under the Book Building Portion;",
+      ">>(ix) discover the strike price at the close of the Bidding Period;",
+      ">>(x) generate alerts for the Bidders via Short Message Service through cell phones and emails upon entry of the bid, at the time of upward revision of the bid, and upon discovery of the strike price; and",
+      ">>(xi) ensure that system must provide the bidders the option to upward revise their bids online or through the Book Runner during the period permitted under these Regulations;",
+      "(2) The Designated Institution shall ensure that:",
+      ">>(i) identity of the bidder is not displayed; and",
+      ">>(ii) no bid is entered into the System after closing of the Bidding Period;"
+     ],
+     "fn": [
+      {
+       "n": "46-1",
+       "text": "Substituted for the word “not” vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "46-2",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      },
+      {
+       "n": "46-3",
+       "text": "Inserted vide SRO 7(I)/2018 dated January 5, 2018"
+      }
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Repeal and Savings",
+     "page": 46,
+     "text": [
+      "(1) The following shall stand repealed;",
+      ">>(i) Book Building Regulations, 2015",
+      ">>(ii) Guidelines for issuance of Prospectus,2002",
+      ">>(iii) Guidelines for Issuance of Term Finance Certificates To The General Public, 2002",
+      "(2) Save as otherwise specifically provided, nothing in these Regulations shall affect or be deemed to affect anything done, action taken, registration granted, investigation or proceedings commenced, order issued, relaxation granted unless withdrawn, appointment, conveyance, mortgage deed, document or agreement made, fee paid or accrued, resolution passed, direction given, proceedings taken or instrument executed or issued, under the repealed regulations and guidelines and any such thing, action, investigation, proceedings, order, appointment, conveyance, mortgage deed, document, agreement, fee, resolution, direction, proceedings or instrument shall if in force at the coming into force of these Regulations and not inconsistent with any of the provisions of these Regulations, continue to be in force, and have effect as if it were respectively done, taken, commenced, made, directed, passed, given, executed or issued under these Regulations.",
+      "SCHEDULES"
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "SECP's consolidated copy updated to 15 September 2021; later amendments, if any, are not reflected.",
+ "summary": "Made under sections 19, 87 to 91, 94 and 95 read with section 169 of the Securities Act, 2015 (recital).",
+ "schedules": [
+  {
+   "title": "First Schedule",
+   "page": 48
+  },
+  {
+   "title": "Second Schedule",
+   "page": 66
+  },
+  {
+   "title": "Third Schedule",
+   "page": 68
+  },
+  {
+   "title": "Fourth Schedule",
+   "page": 70
+  },
+  {
+   "title": "Fifth Schedule",
+   "page": 73
+  },
+  {
+   "title": "Sixth Schedule",
+   "page": 74
+  },
+  {
+   "title": "Eighth Schedule",
+   "page": 81
+  },
+  {
+   "title": "Ninth Schedule",
+   "page": 83
+  },
+  {
+   "title": "Eleven Schedule",
+   "page": 87
+  },
+  {
+   "title": "Twelve Schedule",
+   "page": 127
+  }
+ ]
+}
