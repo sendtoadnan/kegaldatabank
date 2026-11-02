@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-10-01",
+ "checkedAt": "2026-11-02",
  "results": [
   {
    "id": "income-tax-ordinance-2001",
@@ -98,6 +98,114 @@
    "note": "The page could not be read automatically (HTTP 403): check it by hand."
   },
   {
+   "id": "companies-rpt-regulations-2018",
+   "title": "Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018",
+   "edition": "2018-10-02",
+   "editionLabel": "2 October 2018 (S.R.O. 1194(I)/2018, as made)",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "companies-investment-associated-regulations-2017",
+   "title": "Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2017",
+   "edition": "2017-12-06",
+   "editionLabel": "6 December 2017 (S.R.O. 1240(I)/2017, as made)",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "companies-further-issue-of-shares-regulations-2020",
+   "title": "Companies (Further Issue of Shares) Regulations, 2020",
+   "edition": "2026-01-13",
+   "editionLabel": "13 January 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "companies-postal-ballot-regulations-2018",
+   "title": "Companies (Postal Ballot) Regulations, 2018",
+   "edition": "2025-03-20",
+   "editionLabel": "20 March 2025",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "companies-distribution-of-dividends-regulations-2017",
+   "title": "Companies (Distribution of Dividends) Regulations, 2017",
+   "edition": "2022-06-16",
+   "editionLabel": "16 June 2022 (S.R.O. 809(I)/2022)",
+   "page": "https://www.secp.gov.pk/laws/notifications/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "unclaimed-shares-regulations-2017",
+   "title": "Unclaimed Shares, Modaraba Certificates, Dividend, Other Instruments and Undistributed Assets Regulations, 2017",
+   "edition": "2017-10-06",
+   "editionLabel": "6 October 2017 (S.R.O. 1013(I)/2017, as made)",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "listed-companies-ccg-regulations-2019",
+   "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
+   "edition": "2025-03-20",
+   "editionLabel": "20 March 2025",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "shariah-governance-regulations-2023",
+   "title": "Shariah Governance Regulations, 2023",
+   "edition": "2023-09-14",
+   "editionLabel": "14 September 2023 (S.R.O. 1314(I)/2023, as made)",
+   "page": "https://www.secp.gov.pk/laws/notifications/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "companies-cost-accounts-regulations-2020",
+   "title": "Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020",
+   "edition": "2020-12-14",
+   "editionLabel": "14 December 2020 (S.R.O. 1336(I)/2020, as made)",
+   "page": "https://www.secp.gov.pk/laws/notifications/",
+   "status": "manual",
+   "note": "The page could not be read automatically (HTTP 403): check it by hand."
+  },
+  {
+   "id": "unlisted-companies-buy-back-regulations-2023",
+   "title": "Unlisted Companies (Buy-Back of Shares) Regulations, 2023",
+   "edition": "2023-10-12",
+   "editionLabel": "12 October 2023 (S.R.O. 1441(I)/2023, as made)",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "sro-1300-2018-section-66",
+   "title": "S.R.O. 1300(I)/2018 — Persons to whom redeemable capital may be issued (section 66)",
+   "edition": "2018-10-25",
+   "editionLabel": "25 October 2018",
+   "page": "https://www.secp.gov.pk/laws/notifications/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "sro-464-2024-section-17",
+   "title": "S.R.O. 464(I)/2024 — Payment of subscription money (section 17(2))",
+   "edition": "2024-03-15",
+   "editionLabel": "15 March 2024",
+   "page": "https://www.secp.gov.pk/laws/notifications/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
    "id": "companies-act-2017-third-schedule",
    "title": "Third Schedule to the Companies Act, 2017 (Classification of Companies)",
    "edition": "2025-12-29",
@@ -192,6 +300,114 @@
    "edition": "2017-02-14",
    "editionLabel": null,
    "page": "https://www.pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2NoaJg=-sg-jjjjjjjjjjjjj",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "secp-act-1997",
+   "title": "Securities and Exchange Commission of Pakistan Act, 1997",
+   "edition": "2016-12-31",
+   "editionLabel": "2016 (as stated on the saved copy)",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "central-depositories-act-1997",
+   "title": "Central Depositories Act, 1997",
+   "edition": "1997-06-10",
+   "editionLabel": "As enacted (Gazette, 10 June 1997)",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "futures-market-act-2016",
+   "title": "Futures Market Act, 2016",
+   "edition": "2016-04-09",
+   "editionLabel": "Pakistan Code edition (no amendment date stated)",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "llp-act-2017",
+   "title": "Limited Liability Partnership Act, 2017",
+   "edition": "2021-10-15",
+   "editionLabel": "15 October 2021",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "modaraba-ordinance-1980",
+   "title": "Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980",
+   "edition": "2012-12-31",
+   "editionLabel": "2012 (as stated on the saved copy)",
+   "page": "https://www.secp.gov.pk/laws/ordinances/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "central-depositories-regulations-2016",
+   "title": "Central Depositories (Licensing and Operations) Regulations, 2016",
+   "edition": "2026-06-16",
+   "editionLabel": "16 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "nbfc-rules-2003",
+   "title": "Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003",
+   "edition": "2023-09-14",
+   "editionLabel": "14 September 2023",
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "clearing-houses-rules-2005",
+   "title": "Clearing Houses (Registration and Regulation) Rules, 2005",
+   "edition": "2005-06-01",
+   "editionLabel": "As made (1 June 2005)",
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "secp-search-seizure-rules-2019",
+   "title": "Securities and Exchange Commission of Pakistan (Search and Seizure) Rules, 2019",
+   "edition": "2019-07-01",
+   "editionLabel": "As made (1 July 2019)",
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "companies-issue-of-capital-rules-1996",
+   "title": "Companies (Issue of Capital) Rules, 1996",
+   "edition": "2016-01-19",
+   "editionLabel": "Amended by S.R.O. 34(I)/2016 (19 January 2016)",
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "public-offering-regulations-2017",
+   "title": "Public Offering Regulations, 2017",
+   "edition": "2021-09-15",
+   "editionLabel": "15 September 2021",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "securities-act-2015",
+   "title": "Securities Act, 2015",
+   "edition": "2015-05-18",
+   "editionLabel": "As enacted (Gazette, 18 May 2015)",
+   "page": "https://www.secp.gov.pk/laws/acts/",
    "status": "manual",
    "note": "No dated editions to compare: check the page by hand."
   }
