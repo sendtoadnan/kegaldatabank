@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import { passages, AI_MODEL, AI_DIMS } from './ai_chunks.mjs';
 import {
   ROOT,
   loadLibrary,
@@ -486,7 +487,9 @@ ${body}
       <legend>Search in</legend>
       <label><input type="checkbox" id="in-text" checked> Provision text and headings</label>
       <label><input type="checkbox" id="in-notes"> Amendment notes (footnotes)</label>
+      <label><input type="checkbox" id="in-meaning"> Search by meaning (AI)</label>
     </fieldset>
+    <p class="muted small">Search by meaning finds sections on your topic even when the words differ: try a plain question such as <em>can a director borrow money from the company?</em> It runs on your own device, so what you type is not sent anywhere. The first use downloads about 35&nbsp;MB. It shows only the law's own text, but can miss sections, so do not rely on it alone.</p>
     <p class="muted small">Tips: use quotes for an exact phrase (<code>"proceeds of crime"</code>). All words must match. Laws and rules can be found by short names and topics too: see the <a href="search-guide.html">Search guide</a>.</p>
     <div id="results" aria-live="polite"></div>
     <section id="search-help" class="search-help">
@@ -690,6 +693,8 @@ ${body}
     </ul>
     <h2>Verification</h2>
     <p id="verification">Every instrument carries a verification status. <span class="badge ok">Verified</span> means an editor has checked the text against the named official source on the stated date. <span class="badge warn">Unverified</span> text has not yet been checked and should not be quoted without confirming it.</p>
+    <h2>Search by meaning (AI)</h2>
+    <p>Search can also find sections by meaning, using an open-source model (BGE small, MIT licence) that runs on your own device. There is no account or usage limit, and what you type is not sent anywhere. The model downloads once from public hosts (Hugging Face and jsDelivr). It only ranks sections: it writes no text, and it can miss sections, so check the law itself.</p>
     <h2>Disclaimer</h2>
     <p>This library is a research aid and not a substitute for the official Gazette. It does not constitute legal advice.</p>
   </section>`,
@@ -726,6 +731,21 @@ ${body}
     ),
   };
   write('search-index.json', JSON.stringify(index));
+
+  // Search by meaning: vectors are made on a local machine (tools/ai) and committed, so builds need no model.
+  // A passage whose wording has changed has no vector until make_vectors is run again.
+  const aiDir = path.join(ROOT, 'data', 'ai');
+  let aiMissing = 0;
+  if (fs.existsSync(path.join(aiDir, 'hashes.json'))) {
+    const stored = JSON.parse(fs.readFileSync(path.join(aiDir, 'hashes.json'), 'utf8'));
+    const bin = fs.readFileSync(path.join(aiDir, 'vectors.bin'));
+    const where = new Map(stored.hashes.map((h, i) => [h, i]));
+    const all = passages(index);
+    const kept = all.filter((p) => where.has(p.hash));
+    aiMissing = all.length - kept.length;
+    write('ai-passages.json', JSON.stringify({ model: AI_MODEL, dims: AI_DIMS, prov: kept.map((p) => p.prov), start: kept.map((p) => p.start), len: kept.map((p) => p.len) }));
+    write('ai-vectors.bin', Buffer.concat(kept.map((p) => bin.subarray(where.get(p.hash) * AI_DIMS, (where.get(p.hash) + 1) * AI_DIMS))));
+  }
 
   // Amendment notes are searched only when the reader asks for them, so they live in their own file.
   const noteRows = acts.flatMap((a) => [
@@ -780,15 +800,16 @@ ${body}
 
   // The service worker precaches the app shell and search index; instrument pages and PDFs
   // are cached as they are opened, so everything a reader has used stays available offline.
-  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('acts/') && !f.startsWith('sources/') && !f.startsWith('evidence/'));
+  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('ai-') && f !== 'assets/ai-worker.js' && !f.startsWith('acts/') && !f.startsWith('sources/') && !f.startsWith('evidence/'));
   const version = crypto.createHash('sha256').update(precache.map((f) => f + fs.statSync(path.join(outDir, f)).size).join('|')).update(JSON.stringify(index)).digest('hex').slice(0, 12);
   const sw = fs.readFileSync(path.join(ROOT, 'src', 'sw.template.js'), 'utf8').replace('__VERSION__', version).replace('__PRECACHE__', JSON.stringify(precache.map((f) => `./${f}`)));
   write('sw.js', sw);
 
-  return { outDir, files: written, index };
+  return { outDir, files: written, index, aiMissing };
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
-  const { outDir, files, index } = build();
+  const { outDir, files, index, aiMissing } = build();
   console.log(`Built ${files.length} files into ${path.relative(ROOT, outDir)}/ (${index.acts.length} instruments, ${index.provisions.length} provisions).`);
+  if (aiMissing) console.warn(`${aiMissing} passages have no AI search vector: run tools/ai/make_vectors.mjs`);
 }
