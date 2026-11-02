@@ -5,13 +5,14 @@ The one list of everything to do for the Legal Databank. Claude reads it at the 
 - **Owner:** *You* (the user: browser downloads from SECP, decisions, merging on GitHub, checking text) or *Claude* (scripts, data, website, pull requests).
 - **Status:** *Pending* · *Waiting* (blocked on the other owner) · *Done* · *Deferred* (put off by the user).
 
-Last updated: 1 November 2026.
+Last updated: 3 November 2026.
 
 ## Open
 
 | # | Task | Owner | Status | Notes |
 |---|---|---|---|---|
-| 51 | Merge PR #26 (website changes after #25, plus the twelve SECP instruments) | You | Pending | One Netlify deploy |
+| 53 | Merge the search-by-meaning PR | You | Pending | One Netlify deploy. After merging, tick "Search by meaning (AI)" on the live search page and try a plain question |
+| 54 | Look again at written AI answers ("Ask AI") when better small open models appear | Claude | Deferred | Re-test with the same eight questions against the law text before adding anything |
 | 45 | Close old PR #5 (validation fix already in `main`; it now conflicts) | You | Pending | Claude was not permitted to close it; on github.com or `! gh pr close 5` |
 | 14 | Delete five empty folders in `Unified/Corporate & Securities` | You | Pending | Old S.R.O. 464, Companies (Court) Rules, Debt Securities Trustees, Public Offering, Share Registrars folders (Claude's safety check blocks folder removal) |
 | 15 | Work through the Companies Act sections still marked "To identify" | Claude | Waiting | Two passes done 1 Nov 2026 (56 → 17). 9 more are marked "Set in each order" (no instrument expected). The 17 left: 86, 104, 162, 188, 216, 258, 337, 341, 362, 376, 396, 440, 454, 456, 457, 459, 467. Revisit when new SECP material arrives |
@@ -63,6 +64,8 @@ Last updated: 1 November 2026.
 | 13 | After the merge: switch to `main`, pull, delete the branch | Claude | 1 Nov 2026 | |
 | 52 | Put the library batch (twelve SECP instruments) into PR #26 | Claude | 2 Nov 2026 | At the user's request, instead of a separate PR |
 | 50 | Separate edition status from text checking; show register instruments on Act pages; search help; SECP laws catalogue page | Claude | 1 Nov 2026 | Sources: "Latest edition" + "Text checked"; Companies Act page lists 40 instruments not in the library (incl. Easy Exit); `laws.html` lists 51 SECP instruments (7 in library) |
+| 52 | Decide whether to add written AI answers ("Ask AI") to the site | You | 3 Nov 2026 | Not added. Tested in the browser with Qwen3-0.6B, Phi-3.5-mini and Granite 4.0 Micro: each wrong or misleading on some legal questions (none got the late-filing penalty in ITO s.182 right) |
+| 51 | Merge PR #26 (website changes after #25, plus the twelve SECP instruments) | You | 2 Nov 2026 | Merged; confirmed in `main` on 3 Nov 2026 |
 | 26 | Add the Easy Exit amendment S.R.O.s to the register's Easy Exit Regulations entry | Claude | 1 Nov 2026 | S.R.O. 1083(I)/2014 (the regulations), 846(I)/2015 and 456(I)/2016 recorded; 314(I)/2016 is only the draft. PDFs and three Gazette strike-off lists filed under s.426 |
 | 44 | Second pass over the remaining sections | Claude | 1 Nov 2026 | s.187 (PSC Rules 2013, rule 5(2)) and s.315 (Panel Regulations 2019, to confirm) linked; 9 sections marked "Set in each order"; 17 left |
 | 41 | Sections to identify, batch 6 (ss.472–506) — last unsearched sections | Claude | 1 Nov 2026 | ss.472, 506 (Companies Regulations 2024, regs. 94 and 30) and 482 (s.37 SECP Act notification, to confirm) linked; 474, 475, 484 set in each order |

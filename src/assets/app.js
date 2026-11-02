@@ -462,6 +462,58 @@
     );
   }
 
+  // ---------- search by meaning: runs in a worker on the reader's device ----------
+  var aiWorker;
+  var aiSeq = 0;
+  var aiPending = {};
+  var aiOnProgress = function () {};
+  function startAi() {
+    if (aiWorker) return aiWorker;
+    aiWorker = new Worker(BASE + 'assets/ai-worker.js', { type: 'module' });
+    aiWorker.onmessage = function (ev) {
+      var m = ev.data;
+      if (m.type === 'progress') return aiOnProgress(m);
+      var cb = aiPending[m.id];
+      delete aiPending[m.id];
+      if (cb) cb(m);
+    };
+    aiWorker.onerror = function () {
+      var waiting = aiPending;
+      aiPending = {};
+      aiWorker = null;
+      Object.keys(waiting).forEach(function (id) { waiting[id]({ type: 'error', message: 'worker' }); });
+    };
+    return aiWorker;
+  }
+  function aiSearch(q, cb) {
+    var id = ++aiSeq;
+    aiPending[id] = cb;
+    startAi().postMessage({ type: 'search', id: id, q: q, base: new URL(BASE || './', location.href).href });
+  }
+
+  function meaningHtml(hits, index, cat, type) {
+    var acts = {};
+    index.acts.forEach(function (a) { acts[a.id] = a; });
+    var rows = hits.map(function (h) {
+      var p = index.provisions[h.prov];
+      return { h: h, p: p, a: acts[p.act] };
+    }).filter(function (r) {
+      return !(cat && r.a.categories.indexOf(cat) === -1) && !(type && r.a.type !== type);
+    }).slice(0, 15);
+    var head = '<h2 class="result-head">Closest in meaning <span class="count">' + rows.length + '</span></h2>';
+    if (!rows.length) return head + '<p class="empty">Nothing in the library is close to that in meaning. Try rewording it.</p>';
+    return head + '<p class="muted small">Picked by AI and ranked by closeness, not by exact words. The text shown is the law\u2019s own; read the whole section and check nothing relevant was missed.</p><ol class="result-list">' +
+      rows.map(function (r) {
+        var url = BASE + 'acts/' + r.a.id + '/index.html' + (r.p.anchor ? '#' + r.p.anchor : '');
+        var heading = r.p.no ? r.a.unit + ' ' + r.p.no + (r.p.title ? ' \u2014 ' + r.p.title : '') : r.p.title;
+        var badge = r.a.placeholder ? ' \u00b7 <span class="badge bad">Placeholder</span>' : r.a.verified ? '' : ' \u00b7 <span class="badge warn">Unverified</span>';
+        var text = r.p.text.slice(r.h.start, r.h.start + r.h.len).trim();
+        return '<li class="result"><a href="' + url + '"><span class="result-title">' + esc(heading) + '</span>' +
+          '<span class="act-meta">' + esc(r.a.title) + ' \u00b7 ' + esc(r.p.part) + badge + '</span>' +
+          '<span class="result-snippet">' + esc(text.length > 300 ? text.slice(0, 300) + '\u2026' : text) + '</span></a></li>';
+      }).join('') + '</ol>';
+  }
+
   if (PAGE === 'search') {
     var form = document.getElementById('search-form');
     var input = document.getElementById('q');
@@ -469,6 +521,7 @@
     var fType = document.getElementById('f-type');
     var inText = document.getElementById('in-text');
     var inNotes = document.getElementById('in-notes');
+    var inMeaning = document.getElementById('in-meaning');
     var results = document.getElementById('results');
     var help = document.getElementById('search-help');
     var params = new URLSearchParams(location.search);
@@ -477,24 +530,48 @@
     fType.value = params.get('type') || '';
     inText.checked = params.get('text') !== '0';
     inNotes.checked = params.get('notes') === '1';
+    inMeaning.checked = params.has('ai') ? params.get('ai') === '1' : store('ldb-ai-search') === true;
+    var meaningBox = document.createElement('div');
+    meaningBox.id = 'meaning-results';
+    var meaningTimer;
+    var meaningFor;
+    aiOnProgress = function (m) {
+      var bar = document.getElementById('meaning-status');
+      if (bar) bar.textContent = 'Downloading the AI model, once only: ' + Math.round(m.loaded / 1e6) + ' of ' + Math.round(m.total / 1e6) + ' MB\u2026';
+    };
+    // Waits for a pause in typing: working out the meaning takes longer than matching words.
+    var renderMeaning = function (index, q) {
+      clearTimeout(meaningTimer);
+      var mine = meaningFor = {};
+      meaningBox.innerHTML = '<h2 class="result-head">Closest in meaning</h2><p class="muted small" id="meaning-status">Working\u2026</p>';
+      meaningTimer = setTimeout(function () {
+        aiSearch(q, function (m) {
+          if (mine !== meaningFor) return;
+          meaningBox.innerHTML = m.type === 'results'
+            ? meaningHtml(m.hits, index, fCat.value, fType.value)
+            : '<h2 class="result-head">Closest in meaning</h2><p class="empty">Search by meaning could not start: it needs an internet connection the first time, and a recent browser. Ordinary search still works.</p>';
+        });
+      }, 500);
+    };
 
     var render = function () {
       var q = input.value.trim();
       var url = new URL(location.href);
-      ['q', 'cat', 'type', 'text', 'notes'].forEach(function (k) { url.searchParams.delete(k); });
+      ['q', 'cat', 'type', 'text', 'notes', 'ai'].forEach(function (k) { url.searchParams.delete(k); });
       if (q) url.searchParams.set('q', q);
       if (fCat.value) url.searchParams.set('cat', fCat.value);
       if (fType.value) url.searchParams.set('type', fType.value);
       if (!inText.checked) url.searchParams.set('text', '0');
       if (inNotes.checked) url.searchParams.set('notes', '1');
+      if (inMeaning.checked) url.searchParams.set('ai', '1');
       history.replaceState(null, '', url);
       if (help) help.hidden = !!q;
       if (!q) {
         results.innerHTML = '';
         return;
       }
-      if (!inText.checked && !inNotes.checked) {
-        results.innerHTML = '<p class="empty">Tick at least one of “Provision text” or “Amendment notes”.</p>';
+      if (!inText.checked && !inNotes.checked && !inMeaning.checked) {
+        results.innerHTML = '<p class="empty">Tick at least one of “Provision text”, “Amendment notes” or “Search by meaning”.</p>';
         return;
       }
       Promise.all([loadIndex(), inNotes.checked ? loadNotes() : null]).then(function (loaded) {
@@ -530,6 +607,12 @@
             : '<p class="empty">No amendment notes match all of those words.</p>';
         }
         results.innerHTML = html;
+        if (inMeaning.checked) {
+          // After "Laws and rules", before the word matches.
+          var heads = results.querySelectorAll('h2.result-head');
+          results.insertBefore(meaningBox, heads[found.length ? 1 : 0] || null);
+          renderMeaning(index, q);
+        }
       }, function () {
         results.innerHTML = '<p class="empty">The search index could not be loaded.</p>';
       });
@@ -548,6 +631,10 @@
     fType.addEventListener('change', render);
     inText.addEventListener('change', render);
     inNotes.addEventListener('change', render);
+    inMeaning.addEventListener('change', function () {
+      store('ldb-ai-search', inMeaning.checked);
+      render();
+    });
     render();
   }
 
