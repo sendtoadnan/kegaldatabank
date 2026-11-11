@@ -5,13 +5,14 @@ The one list of everything to do for the Legal Databank. Claude reads it at the 
 - **Owner:** *You* (the user: browser downloads from SECP, decisions, merging on GitHub, checking text) or *Claude* (scripts, data, website, pull requests).
 - **Status:** *Pending* · *Waiting* (blocked on the other owner) · *Done* · *Deferred* (put off by the user).
 
-Last updated: 3 November 2026.
+Last updated: 12 November 2026.
 
 ## Open
 
 | # | Task | Owner | Status | Notes |
 |---|---|---|---|---|
 | 53 | Merge the search-by-meaning PR | You | Pending | One Netlify deploy. After merging, tick "Search by meaning (AI)" on the live search page and try a plain question |
+| 55 | Use the S.A. Salam *Complete Company Law and Procedures* scans (Vol I 65th update, Vol II 135th update, both to 20 June 2026; ~3,900 image-only pages) as a reference: index what each file covers, compare its list of rules/regulations/notifications and amendment dates with the library and the register (incl. the 17 sections still "To identify"), and list official SECP/Gazette PDFs still to download | Claude | Pending | Moved 12 Nov 2026 to `Unified/Corporate & Securities/S.A. Salam - Complete Company Law and Procedures (updated to 20 June 2026, scans)`. Private publisher's compilation: never a source of law text on the site (CLAUDE.md rule). No text layer, so OCR needed for anything beyond page images; work file by file to save credit |
 | 54 | Look again at written AI answers ("Ask AI") when better small open models appear | Claude | Deferred | Re-test with the same eight questions against the law text before adding anything |
 | 45 | Close old PR #5 (validation fix already in `main`; it now conflicts) | You | Pending | Claude was not permitted to close it; on github.com or `! gh pr close 5` |
 | 14 | Delete five empty folders in `Unified/Corporate & Securities` | You | Pending | Old S.R.O. 464, Companies (Court) Rules, Debt Securities Trustees, Public Offering, Share Registrars folders (Claude's safety check blocks folder removal) |
