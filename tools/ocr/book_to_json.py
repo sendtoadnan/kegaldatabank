@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parents[2]
 ap = argparse.ArgumentParser()
 ap.add_argument("--vocr", required=True)
 ap.add_argument("--scans", required=True, help="folder holding the scan PDFs and '_ocr text/page-map.json'")
+ap.add_argument("--pages-only", action="store_true", help="only list each instrument's scan pages (for tools/ocr/check_sheet.py)")
 ap.add_argument("ids", nargs="+")
 a = ap.parse_args()
 SC = Path(a.scans)
@@ -309,6 +310,12 @@ def add_to_manifest(spec):
 
 for i in a.ids:
     spec = SPEC[i]
+    if a.pages_only:
+        sc, pgs = scans_for(spec["part"], spec["from"], spec["to"])
+        where = {(l["file"], l["scan"]): pg for pg in pgs for l in PM[pg]}
+        out = ROOT / "data/salam/pages"; out.mkdir(exist_ok=True)
+        json.dump({"id": i, "scans": [{"file": f, "scan": k, "bookPage": where.get((f, k))} for f, k in sc]}, open(out / f"{i}.json", "w"), indent=1)
+        print(i, len(sc), "scan pages"); continue
     preamble, parts = convert(spec)
     pages = {s.pop("bookPage") for p in parts for s in p["sections"]}
     m = re.search(r"S\.\s*R\.\s*O\.?\s*(?:No\.?\s*)?(\d{1,4})\s*\(I\)\s*/\s*(\d{2,4})(?:,?\s*(?:dated|Islamabad,?\s*the)\s*([A-Za-z]+\.?\s+\d{1,2},?\s*\d{4}|\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+,?\s*\d{4}))?", " ".join(preamble))
