@@ -1,0 +1,162 @@
+{
+ "_about": "Instruments converted from the scanned printed edition by tools/ocr/book_to_json.py: book part and page range, and the details shown on the website. Internal; the website never names the printed edition.",
+ "instruments": [
+  {
+   "id": "panel-provisional-managers-liquidators-regulations-2019",
+   "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+   "number": "S.R.O. 1352(I)/2019",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Panel of Provisional Managers Regulations",
+    "Official Liquidators Regulations 2019"
+   ],
+   "enacted": "2019-11-11",
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1025,
+   "to": 1032
+  },
+  {
+   "id": "listed-companies-buy-back-regulations-2019",
+   "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Buy-back Regulations 2019",
+    "Listed Companies Buy-back Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 953,
+   "to": 974
+  },
+  {
+   "id": "employees-contributory-funds-investment-regulations-2018",
+   "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Employees Contributory Funds Regulations",
+    "Provident Fund Investment Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 759,
+   "to": 764
+  },
+  {
+   "id": "public-sector-companies-cg-rules-2013",
+   "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
+   "type": "rules",
+   "unit": "Rule",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "PSC Rules 2013",
+    "Public Sector Companies Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 117,
+   "to": 138
+  },
+  {
+   "id": "companies-registration-offices-regulations-2018",
+   "title": "Companies (Registration Offices) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Registration Offices Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 649,
+   "to": 670,
+   "hold": "Most regulations repealed by S.R.O. 210(I)/2024; the book prints the old text in footnotes. Convert only after checking which regulations remain."
+  },
+  {
+   "id": "foreign-companies-regulations-2018",
+   "title": "Foreign Companies Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Foreign Companies Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 863,
+   "to": 888
+  },
+  {
+   "id": "companies-independent-directors-regulations-2018",
+   "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Independent Directors Regulations",
+    "Selection of Independent Directors Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 687,
+   "to": 690
+  },
+  {
+   "id": "companies-easy-exit-regulations-2014",
+   "title": "Companies (Easy Exit) Regulations, 2014",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Easy Exit Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 139,
+   "to": 146
+  },
+  {
+   "id": "companies-mediation-conciliation-regulations-2018",
+   "title": "Companies (Mediation and Conciliation) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Mediation and Conciliation Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 671,
+   "to": 678
+  },
+  {
+   "id": "corporate-rehabilitation-regulations-2019",
+   "title": "Corporate Rehabilitation Regulations, 2019",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Corporate Rehabilitation Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1033,
+   "to": 1042
+  }
+ ]
+}
