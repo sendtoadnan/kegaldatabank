@@ -157,6 +157,7 @@
    "secpPage": "regulations",
    "basis": "Section 88(1) lets a company buy back its shares “subject to … the regulations specified in this behalf”. Unlisted companies are covered by the Companies Regulations, 2024.",
    "confirm": [
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)",
     "download the Listed Companies 2019 regulations and the 2022 amendments (the file saved in the s.88 folder is the repealed Unlisted Companies Regulations, 2023)"
    ],
    "number": "S.R.O. 574(I)/2019",
@@ -168,7 +169,8 @@
    "seen": {
     "date": "2026-10-04",
     "screenshot": "secp-regulations-buy-back-2026-10-04.jpg"
-   }
+   },
+   "library": "listed-companies-buy-back-regulations-2019"
   },
   {
    "title": "Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018",
@@ -218,7 +220,7 @@
    "secpPage": "regulations",
    "basis": "Section 218 lets employees’ funds invest “subject to the conditions as may be specified”.",
    "confirm": [
-    "the “updated – July 2019” text: SECP's page for it (created 17/08/2019) shows a 0.00 KB file and the download is the 2018 text as made (screenshot of 1 November 2026, secp-regulations-ecf-updated-2026-11-01.jpg); obtain the 2019 amending S.R.O.s or ask SECP"
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)"
    ],
    "url": "https://www.secp.gov.pk/wp-content/uploads/2018/06/Press-Release-June-12-EMPLOYEE%E2%80%99S-CONTRIBUTORY-FUNDS-INVESTMENT-IN-LISTED-SECURITIES-REGULATIONS-2018.pdf",
    "number": "Gazette of 6 June 2018 (S.R.O. number left blank in the copy saved; drafts were S.R.O. 34(I)/2018 and 435(I)/2018)",
@@ -226,7 +228,8 @@
    "seen": {
     "date": "2026-10-04",
     "screenshot": "secp-regulations-ecf-2026-10-04.jpg"
-   }
+   },
+   "library": "employees-contributory-funds-investment-regulations-2018"
   },
   {
    "title": "Employees' Provident Fund (Investment in Listed Securities) Rules, 2016",
@@ -287,7 +290,7 @@
    "secpPage": "notifications",
    "basis": "Made under the Companies Ordinance, 1984 and continued by the savings in section 509; cited by regulation 145 of the Companies Regulations, 2024. The draft amendments (S.R.O. 124(I)/2020) say the rules are made under section 508. Rule 5(2) (Word copy amended to 1 July 2019) sets how a public sector company's chief executive is chosen: the board evaluates candidates against the fit and proper criteria and recommends at least three to the Government for concurrence, except where the Government nominates the chief executive, which bears on section 187(4). Section 188(2) (terms set by the Government) is not covered.",
    "confirm": [
-    "an official consolidated PDF of the rules amended up to 1 July 2019 (the amending S.R.O. 715(I)/2019 is now saved; only a Word file of the rules)"
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)"
    ],
    "latest": "Last amendment notified by S.R.O. 715(I)/2019 (listed 03/07/2019); draft amendments S.R.O. 124(I)/2020 not notified",
    "seen": {
@@ -296,7 +299,9 @@
    },
    "amendments": [
     "S.R.O. 715(I)/2019 (1 July 2019), made under section 508 of this Act read with section 43(b) of the SECP Act, 1997, with the approval of the Federal Government (recital): replaces references to the 1984 Ordinance with this Act, including sections 159, 161, 163 and 165"
-   ]
+   ],
+   "library": "public-sector-companies-cg-rules-2013",
+   "number": "S.R.O. 180(I)/2013"
   },
   {
    "title": "Unclaimed Shares, Modaraba Certificates, Dividend, Other Instruments and Undistributed Assets Regulations, 2017",
@@ -464,14 +469,16 @@
    "secpPage": "regulations",
    "basis": "Section 315 requires the Commission to keep a panel from which the Court appoints provisional managers and official liquidators, with qualifications and a code of conduct as specified. Reports in a search engine's index (a copy of the regulations hosted by KPMG Pakistan, Business Recorder, Mettis Global) say SECP notified these regulations in terms of section 315, with eligibility criteria and the application procedure.",
    "confirm": [
-    "the S.R.O. number, date and text, from SECP's Regulations page",
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)",
     "later amendments; SECP has also published a draft accreditation framework for insolvency professionals (not yet in force as far as seen)"
    ],
    "url": "https://assets.kpmg.com/content/dam/kpmg/pk/pdf/2020/05/Panel of Provisional Managers and Official Liquidators Regulations 2019.pdf",
    "found": {
-    "date": "2026-11-01",
-    "how": "search-index"
-   }
+    "date": "2026-11-12",
+    "how": "instrument"
+   },
+   "library": "panel-provisional-managers-liquidators-regulations-2019",
+   "number": "S.R.O. 1352(I)/2019"
   },
   {
    "title": "Notification under section 37 of the SECP Act, 1997 — court for offences under the Companies Act (Special Court (Offences in Banks), Karachi)",
@@ -634,14 +641,16 @@
    "secpPage": "regulations",
    "basis": "Section 166 provides for the manner of selection of independent directors and the databank; SECP lists these regulations by this title.",
    "confirm": [
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)",
     "the enabling sections, from the recital",
     "latest amended edition on SECP's Regulations page"
    ],
    "url": "https://www.secp.gov.pk/document/sro-556-i-2018-notification-to-the-companies-manner-selection-of-independent-directors-regulations-2018/",
    "found": {
-    "date": "2026-10-04",
-    "how": "search-index"
-   }
+    "date": "2026-11-12",
+    "how": "instrument"
+   },
+   "library": "companies-independent-directors-regulations-2018"
   },
   {
    "title": "Auditors (Reporting Obligations) Regulations, 2018",
@@ -673,6 +682,7 @@
    "secpPage": "notifications",
    "basis": "The draft S.R.O. 1208(I)/2017 is made under section 512(1) read with section 276. SECP's Mediation and Conciliation page refers to the Panel kept under regulation 3 of the Companies (Mediation and Conciliation) Regulations, 2018.",
    "confirm": [
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)",
     "the final 2018 regulations (search SECP's Regulations page for “Mediation”); only the 2017 draft has been seen"
    ],
    "url": "https://www.secp.gov.pk/company-formation/mediation-and-conciliation/",
@@ -680,7 +690,9 @@
    "seen": {
     "date": "2026-10-04",
     "screenshot": "secp-notifications-mediation-2026-10-04.jpg"
-   }
+   },
+   "library": "companies-mediation-conciliation-regulations-2018",
+   "number": "S.R.O. 227(I)/2018"
   },
   {
    "title": "Companies (Easy Exit) Regulations, 2014",
@@ -692,15 +704,15 @@
    "secpPage": "notifications",
    "basis": "Made under section 506A of the repealed Companies Ordinance, 1984 (recital; draft published as S.R.O. 581(I)/2014 of 27 June 2014). They apply to private and public unlisted companies, including associations licensed under section 42, that are not carrying on business and wish to be struck off (section 439 of the Ordinance). Gazette notices of 2024–2025 (SECP Company Registration Office Lahore) strike off companies under section 426(1) of the Companies Act, 2017 “read with Companies (Easy Exit) Regulations, 2014”.",
    "confirm": [
-    "the 2014 and 2015 S.R.O. numbers are handwritten on the saved copies (1083 and 846)",
-    "whether SECP has issued a consolidated edition or later amendments",
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)",
     "how the regulations apply under section 426 of this Act (they refer to section 439 of the Ordinance)"
    ],
    "number": "S.R.O. 1083(I)/2014 (2 December 2014)",
    "amendments": [
     "S.R.O. 846(I)/2015 (25 August 2015; draft S.R.O. 624(I)/2015): Forms EE-III and EE-IV, declaration that the company has not undertaken housing, real estate development or real estate marketing business",
     "S.R.O. 456(I)/2016 (27 May 2016; draft S.R.O. 314(I)/2016 of 6 April 2016): public sector companies no longer excluded (regulation 1(3)(b) omitted); their applications need a no-objection certificate from the controlling Government or agency (new regulation 3(3))"
-   ]
+   ],
+   "library": "companies-easy-exit-regulations-2014"
   },
   {
    "title": "Companies (Incorporation) Regulations, 2017",
@@ -777,7 +789,12 @@
    "sections": [],
    "status": "repealed",
    "replacedBy": "companies-regulations-2024",
-   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024."
+   "basis": "Repealed by regulation 148 of the Companies Regulations, 2024.",
+   "library": "foreign-companies-regulations-2018",
+   "number": "S.R.O. 1224(I)/2018",
+   "confirm": [
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)"
+   ]
   },
   {
    "title": "Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2012",

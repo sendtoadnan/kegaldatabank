@@ -80,7 +80,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 649,
-   "to": 670
+   "to": 670,
+   "hold": "Most regulations repealed by S.R.O. 210(I)/2024; the book prints the old text in footnotes. Convert only after checking which regulations remain."
   },
   {
    "id": "foreign-companies-regulations-2018",
@@ -148,7 +149,6 @@
    "title": "Corporate Rehabilitation Regulations, 2019",
    "type": "regulations",
    "unit": "Regulation",
-   "parent": "companies-act-2017",
    "aliases": [
     "Corporate Rehabilitation Regulations"
    ],

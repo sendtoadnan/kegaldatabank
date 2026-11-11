@@ -110,14 +110,19 @@ def ocr_rows(pdf, idx, tmp):
     r = page.rect
     full = os.path.join(tmp, "full.png"); page.get_pixmap(dpi=300, colorspace=fitz.csGRAY).save(full)
     whole = vision(full)
+    # the bands are cropped to the text column: the vertical page code and punch holes in the
+    # margin make Vision drop the lines beside them
+    lw = [b[0] for b in whole if len(b[4]) > 20]
+    cx = max(0.0, (min(lw) if lw else 0.0) - 0.015)
     banded, n, ov = [], 4, 0.05
     for k in range(n):
         c0, c1 = k / n, (k + 1) / n
         b0, b1 = max(0, c0 - ov), min(1, c1 + ov)
         img = os.path.join(tmp, f"band{k}.png")
-        page.get_pixmap(dpi=300, colorspace=fitz.csGRAY, clip=fitz.Rect(r.x0, r.y0 + r.height * b0, r.x1, r.y0 + r.height * b1)).save(img)
+        page.get_pixmap(dpi=300, colorspace=fitz.csGRAY, clip=fitz.Rect(r.x0 + r.width * cx, r.y0 + r.height * b0, r.x1, r.y0 + r.height * b1)).save(img)
         for x0, y0, x1, y1, t in vision(img):
             y0, y1 = b0 + y0 * (b1 - b0), b0 + y1 * (b1 - b0)
+            x0, x1 = cx + x0 * (1 - cx), cx + x1 * (1 - cx)
             if c0 <= (y0 + y1) / 2 < c1 or (k == n - 1 and (y0 + y1) / 2 >= c1): banded.append([x0, y0, x1, y1, t])
     if not whole and not banded: return [], 0
     rows_b, rows_w = to_rows(banded), to_rows(whole)
@@ -125,8 +130,13 @@ def ocr_rows(pdf, idx, tmp):
     for rb in rows_b:
         match = [rw for rw in rows_w if abs(rw["y"] - rb["y"]) < 0.006]
         rows.append(max([rb] + match, key=lambda x: (quality(x["text"]), len(x["text"]))))
+    def similar(t1, t2):
+        a1, a2 = set(re.findall(r"[a-z]{3,}", t1.lower())), set(re.findall(r"[a-z]{3,}", t2.lower()))
+        return a1 and a2 and len(a1 & a2) / min(len(a1), len(a2)) >= 0.4
     for rw in rows_w:
-        if not any(abs(rw["y"] - rb["y"]) < 0.006 for rb in rows_b): rows.append(rw)
+        if any(abs(rw["y"] - rb["y"]) < 0.006 for rb in rows_b): continue
+        if any(abs(rw["y"] - x["y"]) < 0.02 and similar(rw["text"], x["text"]) for x in rows): continue
+        rows.append(rw)
     rows.sort(key=lambda x: x["y"])
     long = [x for x in rows if len(x["text"]) > 20]
     left = min(x["x"] for x in long) if long else min(x["x"] for x in rows)
@@ -155,6 +165,10 @@ def clean_page(rows, short_names):
     keep, top = [], True
     for i, r in enumerate(rows):
         t = r["text"]
+        if top and len(t.strip()) < 3: continue
+        if top and len(t) < 70 and re.search(r"\b(Regs?|Rules|Regulations|Ord|Act)\.?,?\s*(19|20)\d\d\.?$", t) and not re.match(r"^\W*\d{1,3}[.,]", t): continue
+        t = re.sub(r"^[\W_]+(?=[A-ZПШIl1|]{1,4}\s*[-–]\s*\d)", "", t)
+        if re.sub(r"[^a-z]", "", t.lower()) in short_names and len(t) < 90: continue   # running head lower down
         if top and (HEAD_WORDS.search(t) or re.fullmatch(r"(S|R|Reg|Rr|Ss)\.?\s*[\d\- ,A-Z]+|\d{1,3}", t.strip()) or re.sub(r"[^a-z]", "", t.lower()) in short_names and len(t) < 90):
             continue
         top = False
@@ -167,6 +181,7 @@ def clean_page(rows, short_names):
     return [r for r in keep if not r.get("foot")]
 
 FN = re.compile(r"^\W{0,2}\d{1,2}\s?(Repealed|Substituted|Inserted|Omitted|Deleted|Added|Words?\b|Sub-|Clause|Proviso|Para|Item|S\.\s?No|Sr\.|Earlier|Regulations?\b|Rules?\b|Explanation|Figures?\b|Comma|Full stop|Renumbered|Amended|The (word|words|figure|figures|comma)|For the|Re-?numbered|Heading|Schedule|Annexure|Form)")
+FN2 = re.compile(r"^\W{0,2}(?:\d{1,2}\s?|[il|](?=[A-Z]))[A-Z][\w.()&,'\" -]{0,70}?\b(deleted|substituted|inserted|omitted|added|amended|renumbered|repealed)\b", re.I)
 QUOTE_START = re.compile(r"read as\s*(follows|under)|read as\s*$|^follows\s*:", re.I)
 QUOTE_END = re.compile(r"[\"”'’]\s*[.;:,]?\s*$")
 
@@ -182,7 +197,7 @@ def drop_footnotes(lines):
             page = l["page"]
             mode = "body"   # footnotes continue at the foot of the next page, never at its top
         t = l["text"]
-        if mode == "body" and FN.match(t):
+        if mode == "body" and (FN.match(t) or FN2.match(t)):
             mode = "fn"
         if mode == "fn" and QUOTE_START.search(t):
             mode = "quote"
@@ -198,7 +213,9 @@ def drop_footnotes(lines):
     return out
 
 def strip_markers(t):
+    t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*-\s*\d{1,2}\s*-\s*\d{1,2}\s*-\s*\d{2,4}\b", " ", t)
     t = re.sub(r"(?<![\w(])[0-9¹²³*°•']{1,2}\s?(?=\[)", "", t)       # note number before an amendment bracket
+    t = re.sub(r"(?<=\s)[a-z](?=\[[a-z])", "", t)                     # note number misread as a letter: "a[six months]"
     return re.sub(r"\s+", " ", t).strip()
 
 LABEL = re.compile(r"^(\(\s*(?:[a-z]{1,2}|[ivxlc]{1,6}|\d{1,3}[a-zA-Z]?|[A-Z])\s*\)|Explanation|Provided|\d{1,3}[A-Z]?\.\s)")
@@ -230,8 +247,12 @@ def convert(spec):
     pos, prev = [], None
     for l in lines:
         pos.append(0 if l["page"] != prev else pos[-1] + 1); prev = l["page"]
-    stop = spec.get("stopAt", r"^(\w{1,5}\.\s*)?(FORMS?|Forms?|ANNEXURES?|Annexures?|SCHEDULES?|Schedules?)\b[\s\-–—.:]*([A-Z0-9IVX]{1,5}[A-Z0-9\-]{0,4})?\.?$")
-    end = next((i for i, l in enumerate(lines) if re.search(stop, l["text"].strip()) and len(l["text"]) < 40 and pos[i] <= 3), len(lines))
+    stop = spec.get("stopAt", r"^([A-Za-z]{1,5}\.?[\s-]*)?(FORMS?|Forms?|ANNEXURES?|Annexures?|SCHEDULES?|Schedules?)\b[\s\-–—.:]*([A-Z0-9IVX]{1,5}[A-Z0-9\-]{0,4})?\.?$")
+    end = next((i for i, l in enumerate(lines) if re.search(stop, l["text"].strip()) and len(l["text"]) < 40 and (pos[i] <= 3 or l["x"] > 0.2)), len(lines))
+    first_prov = next((i for i, l in enumerate(lines) if re.match(r"^1[.,]\s*[A-Z]", l["text"])), 0)
+    for i, l in enumerate(lines[:end]):
+        if i > first_prov and pos[i] <= 6 and re.match(r"^[\[(]?\s*See\s+(regulation|rule|section|sub-regulation)", l["text"], re.I):
+            end = i - pos[i]; break
     lines = lines[:end]
     # paragraphs
     paras = []
@@ -246,7 +267,8 @@ def convert(spec):
     for p in paras:
         t = strip_markers(p["text"])
         if re.match(r"^(CHAPTER|PART)\s+[IVXL\d]+", t) and len(t) < 120:
-            cur = {"heading": t.title() if t.isupper() else t, "sections": []}; parts.append(cur); continue
+            h = re.sub(r"\b([IVXL]+)\b", lambda m: m.group(1).upper(), t.title()) if t.isupper() else t
+            cur = {"heading": re.sub(r"\b(Ii|Iii|Iv|Vi|Vii|Viii|Ix|Xi|Xii)\b", lambda m: m.group(1).upper(), h), "sections": []}; parts.append(cur); continue
         m = PROV.match(t)
         if m and (sec is None and int(re.match(r"\d+", m.group(1)).group()) <= 3 or sec and _next(sec["no"], m.group(1))):
             if cur is None: cur = {"heading": spec.get("unit", "Regulation") + "s", "sections": []}; parts.append(cur)
@@ -258,7 +280,7 @@ def convert(spec):
             sec["text"].append((">" if re.match(r"^\(\s*[a-z]{1,4}\s*\)", t) else "") + t)
     for part in parts:
         for s in part["sections"]:
-            s["text"] = [x for x in s["text"] if x]
+            s["text"] = [x for k, x in enumerate(s["text"]) if x and (k == 0 or x != s["text"][k - 1])]
     return preamble, [p for p in parts if p["sections"]]
 
 def _next(prev, nxt):

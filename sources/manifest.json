@@ -1800,5 +1800,242 @@
       "page": "https://www.secp.gov.pk/laws/acts/",
       "manual": true
     }
+  },
+  {
+    "id": "panel-provisional-managers-liquidators-regulations-2019",
+    "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+    "number": "S.R.O. 1352(I)/2019",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Panel of Provisional Managers Regulations",
+      "Official Liquidators Regulations 2019"
+    ],
+    "enacted": "2019-11-11",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1352(I)/2019",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "listed-companies-buy-back-regulations-2019",
+    "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+    "number": "",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Buy-back Regulations 2019",
+      "Listed Companies Buy-back Regulations"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "employees-contributory-funds-investment-regulations-2018",
+    "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
+    "number": "S.R.O. 731(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Employees Contributory Funds Regulations",
+      "Provident Fund Investment Regulations"
+    ],
+    "enacted": "2018-06-06",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 731(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "public-sector-companies-cg-rules-2013",
+    "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
+    "number": "S.R.O. 180(I)/2013",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "PSC Rules 2013",
+      "Public Sector Companies Rules"
+    ],
+    "enacted": "2013-03-08",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 180(I)/2013",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "foreign-companies-regulations-2018",
+    "title": "Foreign Companies Regulations, 2018",
+    "number": "S.R.O. 1224(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Foreign Companies Regulations"
+    ],
+    "enacted": "2018-10-05",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1224(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-independent-directors-regulations-2018",
+    "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
+    "number": "S.R.O. 556(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Independent Directors Regulations",
+      "Selection of Independent Directors Regulations"
+    ],
+    "enacted": "2018-04-26",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 556(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-easy-exit-regulations-2014",
+    "title": "Companies (Easy Exit) Regulations, 2014",
+    "number": "S.R.O. 1083(I)/2014",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Easy Exit Regulations"
+    ],
+    "enacted": "2014-12-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1083(I)/2014",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-mediation-conciliation-regulations-2018",
+    "title": "Companies (Mediation and Conciliation) Regulations, 2018",
+    "number": "S.R.O. 227(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Mediation and Conciliation Regulations"
+    ],
+    "enacted": "2018-02-09",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 227(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "corporate-rehabilitation-regulations-2019",
+    "title": "Corporate Rehabilitation Regulations, 2019",
+    "number": "S.R.O. 1415(I)/2019",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Corporate Rehabilitation Regulations"
+    ],
+    "enacted": "2019-11-19",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1415(I)/2019",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
   }
 ]
