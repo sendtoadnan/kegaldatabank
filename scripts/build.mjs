@@ -580,6 +580,18 @@ ${body}
         </figure>`
       )
       .join('');
+    // Trusted reference: S.A. Salam's Complete Company Law and Procedures (indexes in data/salam/).
+    const salamSection = () => {
+      const dir = path.join(ROOT, 'data', 'salam');
+      const read = (f) => (fs.existsSync(path.join(dir, f)) ? JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')) : null);
+      const cov = read('coverage.json');
+      if (!cov) return '';
+      const notes = ['vol1', 'vol2'].reduce((n, v) => n + (read(`${v}-notifications.json`)?.entries.length || 0), 0);
+      const n = (v) => cov.filter((r) => r.verdict === v).length;
+      return `<h2 id="trusted-reference">Trusted reference: S.A. Salam's Complete Company Law and Procedures</h2>
+    <p>Besides the regulators' own PDFs, the library uses S.A. Salam's looseleaf <em>Complete Company Law and Procedures</em> (Volume I, 65th update, and Volume II, 2nd edition, 135th update, both to 20 June 2026) as a trusted source: to find the rules, regulations, notifications and circulars made under company and securities law, to check that our editions are current, and for the text of instruments whose official PDF we do not yet hold. Only the law's own text is used, never the publisher's notes or commentary, and text taken from it is marked with its source and book page and stays <span class="badge warn">Unverified</span> until a person has checked it.</p>
+    <p>The book reproduces ${cov.length} instruments and indexes ${notes} notifications. Of the instruments, ${n('not in library')} are not in the library yet and ${n('book has later changes')} have changes in the book after our edition; these are being added and updated.</p>`;
+    };
     write(
       'sources.html',
       layout({
@@ -601,6 +613,7 @@ ${body}
         <tbody>${rows}</tbody>
       </table>
     </div>
+    ${salamSection()}
     ${gallery ? `<h2>Screenshots of the regulator's listings</h2><p>Each screenshot shows the regulator's own list of editions on the day it was checked, so you can see that the edition in the library is the latest one published.</p><div class="evidence-grid">${gallery}</div>` : ''}
   </section>`,
       })
