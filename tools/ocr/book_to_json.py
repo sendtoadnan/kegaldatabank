@@ -223,6 +223,9 @@ def drop_footnotes(lines):
     return out
 
 def strip_markers(t):
+    t = re.sub(r"\s*Central Depositor(?:y|ies) Compan(?:y|ies)\s+Form\s+I\b", " ", t)   # running head with the form heading beside it
+    # a running head caught in the middle of a line: "IV -27 R. 3 Part IV, CDC Rules", "Reg. 12 Part III, Listed Companies"
+    t = re.sub(r"\s*(?:[IVX]{1,4}\s*-\s*\d{1,4}\s+)?(?:Reg\.|R\.)\s*\d{1,3}[A-Z]?\s+Part\s+[IVX]+,\s+\S+\s+\S+", " ", t)
     t = re.sub(r"\s*\W?(?:Inserted|Substituted|Omitted|Deleted|Added)\s+by\s+S\.?\s?R\.?\s?O\.?\s*[\dIlD()/\[\] ]+dated\s+[A-Za-z]+\.?\s+\d{1,2},?\s*\d{4}\.?", " ", t)   # unnumbered footnote on a body line
     # the margin's page date code dropped into the middle of a line: "(III of 15-10-2020 2015)"
     t = re.sub(r"(?<!dated)(?<!\bon)(?<!from)(?<!till)(?<!\bto)(?<!before)(?<!after)(?<!\bby)\s(?:[EB]2\s*)?\d{1,2}-\d{1,2}-\d{2,4}(?=\s|$)", "", t)
@@ -237,6 +240,37 @@ def strip_markers(t):
 LABEL = re.compile(r"^(\(\s*(?:[a-z]{1,2}|[ivxlc]{1,6}|\d{1,3}[a-zA-Z]?|[A-Z])\s*\)|Explanation|Provided|\d{1,3}[A-Z]?\.\s)")
 PROV = re.compile(r"^[\"“\[]?(\d{1,3}[A-Z]{0,2})[.,]\s*([A-Z\[][^\n]{1,200}?)\s*(?:[.,:]\s*[-–—_]+|(?<=[a-z])[-–—](?=\s*(?:\(1\)|$))|\.(?=\s*\(\d)|\.(?=\s*\d?\[?\(1\)))\s*(.*)$")
 
+INFERRED = {}
+
+def infer_missing_numbers(lines, sid):
+    """Restore a heading's number the OCR dropped, only when the numbering has a gap and the number of
+    unnumbered heading-shaped lines in that gap is exactly the number of missing provisions. Each
+    inference is recorded (data/salam/inferred-headings.json) for the person checking the text."""
+    NUM = re.compile(r"^[\[\W]{0,3}(\d{1,3})[.,]\s*[A-Z\[]")
+    SHAPE = re.compile(r"[.,:]\s*[-–—_]")
+    HEADLESS = re.compile(r"^[\[\W]{0,2}([A-Z][^.:;\d]{3,90}?)\s*[.,:]\s*[-–—_]+\s*(?:\(1\)|\(a\)|[A-Z(\[])")
+    seq, last = [], 0
+    for i, l in enumerate(lines):
+        m = NUM.match(l["text"])
+        if m and SHAPE.search(l["text"][:130]):
+            n = int(m.group(1))
+            if last < n <= last + 8: seq.append((i, n)); last = n
+    cand = [i for i, l in enumerate(lines) if HEADLESS.match(l["text"]) and not NUM.match(l["text"])
+            and not re.match(r"^\W*(Explanation|Provided|Illustration|Note|Following|Chapter|Part)\b", l["text"])]
+    anchors = [(-1, 0)] + seq
+    done = []
+    for (i1, a), (i2, b) in zip(anchors, seq):
+        gap = b - a - 1
+        if gap <= 0: continue
+        inside = [c for c in cand if i1 < c < i2]
+        if len(inside) == gap:
+            for k, c in enumerate(inside):
+                lines[c]["text"] = f"{a + 1 + k}. " + lines[c]["text"].lstrip("[ ")
+                done.append({"number": a + 1 + k, "page": lines[c]["page"], "line": lines[c]["text"][:70]})
+    if done:
+        INFERRED[sid] = done
+        print(f"  {sid}: restored {len(done)} dropped heading number(s): {[d['number'] for d in done]}")
+
 CODES = {}
 
 def convert(spec):
@@ -247,24 +281,32 @@ def convert(spec):
         scans, pages = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
     if not scans: raise SystemExit(f"{spec['id']}: no book pages found")
     where = {(l["file"], l["scan"]): pg for pg in pages for l in PM[pg]}
-    got = []
-    with tempfile.TemporaryDirectory() as tmp:
-        for f, k in scans: got.append(((f, k),) + ocr_rows(scan_pdf(f), k - 1, tmp))
-    # running heads: short lines that recur among the first rows of the instrument's pages
-    from collections import Counter
-    norm = lambda t: re.sub(r"[^a-z]", "", t.lower())
-    tops = Counter(n for _, rows, _ in got for n in {norm(r["text"]) for r in rows[:4] if len(r["text"]) < 90} if len(n) > 6)
-    heads = [n for n, c in tops.items() if c >= 2] + [norm(h) for h in spec.get("runningHeads", [])]
-    lines = []; CODES = {}
-    for n, ((f, k), rows, left) in enumerate(got):
-        pg = where.get((f, k), f"scan {k}")
-        # circulars filed after the instrument: their pages carry "Circulars" in the running head
-        if n > 2 and any(re.search(r"\bCirculars?\b", r["text"]) and len(r["text"]) < 90 for r in rows[:4]): break
-        mc = re.search(r"\b[EB]2\s*(\d{1,3})\s*[-.]", " ".join(r["text"] for r in rows))
-        CODES[pg] = int(mc.group(1)) if mc else -1          # the page's update number (newer = larger)
-        for r in clean_page(rows, heads):
-            lines.append({"page": pg, "x": r["x"] - left, "text": r["text"]})
-    lines = drop_footnotes(lines)
+    saved = Path(os.environ["BOOK_LINES"]) / (spec["id"] + ".lines.txt") if os.environ.get("BOOK_LINES") else None
+    if saved and saved.exists():
+        # re-parse from the cleaned lines a previous run saved (BOOK_DEBUG): no OCR, takes seconds
+        CODES = {}
+        lines = []
+        for ln in saved.read_text().splitlines():
+            pg, x, t = ln.split("\t", 2); lines.append({"page": pg, "x": float(x), "text": t})
+    else:
+        got = []
+        with tempfile.TemporaryDirectory() as tmp:
+            for f, k in scans: got.append(((f, k),) + ocr_rows(scan_pdf(f), k - 1, tmp))
+        # running heads: short lines that recur among the first rows of the instrument's pages
+        from collections import Counter
+        norm = lambda t: re.sub(r"[^a-z]", "", t.lower())
+        tops = Counter(n for _, rows, _ in got for n in {norm(r["text"]) for r in rows[:4] if len(r["text"]) < 90} if len(n) > 6)
+        heads = [n for n, c in tops.items() if c >= 2] + [norm(h) for h in spec.get("runningHeads", [])]
+        lines = []; CODES = {}
+        for n, ((f, k), rows, left) in enumerate(got):
+            pg = where.get((f, k), f"scan {k}")
+            # circulars filed after the instrument: their pages carry "Circulars" in the running head
+            if n > 2 and any(re.search(r"\bCirculars?\b", r["text"]) and len(r["text"]) < 90 for r in rows[:4]): break
+            mc = re.search(r"\b[EB]2\s*(\d{1,3})\s*[-.]", " ".join(r["text"] for r in rows))
+            CODES[pg] = int(mc.group(1)) if mc else -1          # the page's update number (newer = larger)
+            for r in clean_page(rows, heads):
+                lines.append({"page": pg, "x": r["x"] - left, "text": r["text"]})
+        lines = drop_footnotes(lines)
     if os.environ.get("BOOK_DEBUG"):
         Path(os.environ["BOOK_DEBUG"], spec["id"] + ".dropped.txt").write_text("\n".join(f'{k}\t{l["page"]}\t{l["text"]}' for k, l in DROPPED))
         Path(os.environ["BOOK_DEBUG"], spec["id"] + ".lines.txt").write_text("\n".join(f'{l["page"]}\t{l["x"]:.3f}\t{l["text"]}' for l in lines))
@@ -276,12 +318,14 @@ def convert(spec):
         pos.append(0 if l["page"] != prev else pos[-1] + 1); prev = l["page"]
     stop = spec.get("stopAt", r"^[\W\d]{0,4}([A-Za-z]{1,5}\.?[\s-]*)?(FORMS?|Forms?|ANNEXURES?|Annexures?|SCHEDULES?|Schedules?|APPENDI(?:X|CES)|Appendi(?:x|ces))(?:[A-Z]\b|\b)[\s\-–—.:]*([A-Z0-9IVX]{1,5}[A-Z0-9\-]{0,4})?\.?$")
     end = next((i for i, l in enumerate(lines) if re.search(stop, l["text"].strip()) and len(l["text"]) < 40 and (pos[i] <= 3 or l["x"] > 0.2)), len(lines))
-    first_prov = next((i for i, l in enumerate(lines) if re.match(r"^1[.,]\s*[A-Z]", l["text"])), 0)
+    first_prov = next((i for i, l in enumerate(lines) if re.match(r"^1[.,]\s*[A-Z]", l["text"])), 10**9)   # none found: the number was lost, do not cut at the recital
     for i, l in enumerate(lines[:end]):
         if i > first_prov and pos[i] <= 6 and (re.match(r"^[\[(]?\s*See\s+(regulation|rule|section|sub-regulation)", l["text"], re.I)
                                                or re.match(r"^(Notification No\.\s*)?S\.?\s*R\.?\s*O\.?\s*\d{1,4}\s*\(I\).{0,30}dated", l["text"])):
             end = i - pos[i]; break
+    if os.environ.get("BOOK_TRACE"): print(f"  trace {spec['id']}: start {start}, end {end}, kept {len(lines[:end])} of {len(lines)} lines; stopped at: {lines[end]['text'][:60] if end < len(lines) else '(none)'}")
     lines = lines[:end]
+    infer_missing_numbers(lines, spec["id"])
     # paragraphs
     merged, k = [], 0
     while k < len(lines):
@@ -293,7 +337,11 @@ def convert(spec):
     fixes = spec.get("headingFixes", {})   # {"line start as read": "as printed"}, each confirmed against the scan
     for l in lines:
         t = re.sub(r"^[Il|](?=\d[.,]\s*[A-Z])", "1", l["text"])
-        t = re.sub(r"^[0-9¹²³*']{0,2}[\[(|](?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "[", t)   # "2[19. Mode of payment.-" (substituted provision)
+        t = re.sub(r"\s*[•·]+\s*$", "", t)                                                              # stray bullet at the end of a line
+        t = re.sub(r"^[0-9¹²³*'+°•]{0,2}[\[(|](?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "[", t)
+        t = re.sub(r"^[0-9¹²³*']{0,2}\[(\d{1,3}[A-Z]?)\]\s*[.,]\s*(?=[A-Z])", r"[\1. ", t)       # "2[18]. Pledging…" -> "[18. Pledging…"
+        t = re.sub(r"^(\W{0,3}\d{1,3}[A-Z]?[.,])\s*[•·*]\s*(?=[A-Z])", r"\1 ", t)                  # "8. •Procedure where…" -> "8. Procedure where…"
+        t = re.sub(r"^[•·*]\s*(?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "", t)                                   # "• 26. Refusal…"   # "2[19. Mode of payment.-" (substituted provision)
         for old, new in fixes.items():
             if t.startswith(old): t = new + t[len(old):]
         l["text"] = t
@@ -431,4 +479,8 @@ for i in a.ids:
     json.dump(act, open(out_dir / f"{i}.json", "w"), indent=2, ensure_ascii=False)
     if not os.environ.get("BOOK_OUT"): add_to_manifest(spec)
     nums = [s["no"] for p in parts for s in p["sections"]]
+    if INFERRED and os.environ.get("BOOK_OUT") is None:
+        f = ROOT / "data/salam/inferred-headings.json"
+        d0 = json.load(open(f)) if f.exists() else {}
+        d0.update(INFERRED); json.dump(d0, open(f, "w"), indent=1)
     print(f"{i}: {nsec} provisions ({nums[0] if nums else '-'}..{nums[-1] if nums else '-'}), {len(parts)} part(s), {('scans ' + str(spec['scanFrom']) + '..' + str(spec['scanTo'])) if spec.get('scanFrom') else 'book pages ' + spec['part'] + '-' + str(spec['from']) + '..' + str(spec['to'])}")

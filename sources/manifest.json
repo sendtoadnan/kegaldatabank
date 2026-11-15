@@ -2845,5 +2845,109 @@
       "page": "https://www.secp.gov.pk/laws/acts/",
       "manual": true
     }
+  },
+  {
+    "id": "leveraged-markets-pledging-rules-2011",
+    "title": "Securities (Leveraged Markets and Pledging) Rules, 2011",
+    "number": "S.R.O. 128(I)/2011",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Leveraged Markets Rules",
+      "Margin Financing Rules"
+    ],
+    "enacted": "2011-02-18",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 128(I)/2011",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "public-offering-regulated-securities-licensing-regulations-2017",
+    "title": "Public Offering (Regulated Securities Activities Licensing) Regulations, 2017",
+    "number": "S.R.O. 295(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Regulated Securities Licensing Regulations"
+    ],
+    "enacted": "2017-05-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 295(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "commercial-papers-regulations-2013",
+    "title": "Issue of Commercial Papers Regulations, 2013",
+    "number": "S.R.O. 1036(I)/2013",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Commercial Paper Regulations"
+    ],
+    "enacted": "2013-12-04",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1036(I)/2013",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made under section 506A of the Companies Ordinance, 1984, which the Companies Act, 2017 repealed, with the Securities and Exchange Commission of Pakistan Act, 1997; S.R.O. 315(I)/2017 of 8 May 2017 deleted regulations 6, 9 and 11. Confirm whether it is still in force.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "cdc-establishment-regulation-rules-1996",
+    "title": "Central Depository Companies (Establishment and Regulation) Rules, 1996",
+    "number": "S.R.O. 107(K.E.)/96",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "central-depositories-act-1997",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CDC Rules 1996"
+    ],
+    "enacted": "1996-10-07",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 107(K.E.)/96",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made by the Federal Government under section 33 of the Securities and Exchange Ordinance, 1969. Confirm whether these rules are still in force; central depositories are now governed by the Central Depositories Act, 1997. The forms are not reproduced here.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
   }
 ]

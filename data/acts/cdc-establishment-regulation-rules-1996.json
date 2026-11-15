@@ -1,0 +1,119 @@
+{
+  "id": "cdc-establishment-regulation-rules-1996",
+  "title": "Central Depository Companies (Establishment and Regulation) Rules, 1996",
+  "number": "S.R.O. 107(K.E.)/96",
+  "type": "rules",
+  "unit": "Rule",
+  "parent": "central-depositories-act-1997",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "CDC Rules 1996"
+  ],
+  "enacted": "1996-10-07",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "caution": "Made by the Federal Government under section 33 of the Securities and Exchange Ordinance, 1969. Confirm whether these rules are still in force; central depositories are now governed by the Central Depositories Act, 1997. The forms are not reproduced here.",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 107(K.E.)/96",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "SRO 107(KE)/96, dated October 7, 1996.-In exercise of the powers conferred by section 33 of the Securities and Exchange Ordinance, 1969 (XVII of 1969), the Federal Government is pleased to make the following rules, namely:-",
+  "parts": [
+    {
+      "heading": "Rules",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These rules may be called the Central Depository Companies (Establishment and Regulation) Rules, 1996.",
+            "(2) They shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Interpretation",
+          "text": [
+            "In these rules the words and expressions used but not defined herein shall have the same meanings as are assigned to them in the Securities and Exchange Ordinance, 1969 (XVII of 1969), and the Companies Ordinance, 1984 (XLVII of 1984), as the case may be."
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Eligibility for registration",
+          "text": [
+            "A company desirous of commencing business as a central depository company shall be eligible for registration under these rules if it fulfils the following conditions, namely:-",
+            ">(i) that such company is incorporated as a public limited company under the Companies Ordinance, 1984 (XLVII of 1984);",
+            ">(ii) that such company has entered into equity participation or",
+            "technical collaboration arrangement with an internationally recognized institution or agency;",
+            ">(iii) that at least one stock exchange in Pakistan is a shareholder of such a company;",
+            ">(iv) that no promoter, director, officer or employee of such a company-",
+            ">(a) has been convicted of fraud, breach of trust or an offence involving moral turpitude or removed from service for misconduct or has been adjudicated as insolvent;",
+            ">(b) has been associated with any illegal banking business, associated deposit taking or financial dealings;",
+            ">(c) has been a sponsor, director, chief executive or a senior management officer of a defaulting co-operative finance society or finance company; and",
+            ">(d) has been a defaulter of any commercial bank or financial institution including non-banking financial institution or",
+            "has suspended payment or has compounded with his creditors; and",
+            ">(v) that the promoters of such company are persons of means and",
+            "integrity and have special knowledge of matters which the company may have to deal with as a central depository company."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Registration",
+          "text": [
+            "(1) A company, eligible for registration under rule 3 as a central depository company, may make an application to the Authority in form I providing information as given in the Annex thereto.",
+            "(2) An application under sub-rule (1) shall be accompanied by a fee of five hundred thousand rupees as registration fee.",
+            "(3) The Authority, if it is satisfied, after such inquiry and after obtaining such further information as it may consider necessary, that-",
+            ">(i) the applicant is eligible for registration; and",
+            ">(ii) it would be in the interest of the capital market so to do, may grant a certificate of registration to such company in form II on such conditions as it may deem appropriate."
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Renewal of registration",
+          "text": [
+            "(1) The certificate of registration of a company shall be renewable on payment of a fee of one hundred renewable thousand rupees through an application made in form III.",
+            "(2) The Authority shall, after making such inquiries and after obtaining such further information as it may consider necessary, within thirty days of the receipt of the application, renew the registration of such company for one year in form IV."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Submission of annual report, etc",
+          "text": [
+            "(1) The central depository company shall file its annual report and account within six months of the close of the accounting period alongwith the following information and documents, namely:-",
+            ">(i) Names of the issuers who are members of the company;",
+            ">(ii) names of the participants who are members of the company;",
+            ">(iii) number of account holders as well as sub-account holders;",
+            ">(iv) list of shareholders of the company indicating change in the shareholdings, if any; and",
+            ">(v) names of senior management staff of the company with qualifications and experience.",
+            "(2) Without prejudice to the provisions of sub-rule (1), a central depository company shall furnish to the Authority such other documents, information or explanation relating to its affairs as the Authority may, from time to time, by order in writing, require."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Power of the Authority to give directions",
+          "text": [
+            "The Authority may, if it is satisfied that it is necessary or expedient so to do in the public interest or in the interest of capital market, by order in writing, give directions to a central depository company."
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Establishment of Advisory Committee",
+          "text": [
+            "The Authority may establish an Advisory Committee in respect of a central depository company whose functions shall be-",
+            ">(i) to advise the central depository company on matters relating to the services provided by such depository company; and",
+            ">(ii) to make recommendations for improving the efficiency of the central depository company."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}

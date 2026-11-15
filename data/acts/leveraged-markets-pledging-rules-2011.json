@@ -1,0 +1,655 @@
+{
+  "id": "leveraged-markets-pledging-rules-2011",
+  "title": "Securities (Leveraged Markets and Pledging) Rules, 2011",
+  "number": "S.R.O. 128(I)/2011",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Leveraged Markets Rules",
+    "Margin Financing Rules"
+  ],
+  "enacted": "2011-02-18",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 128(I)/2011",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 128(I)/2011 dated February 18, 2011.- In exercise of the powers conferred by section 33 of the Securities and Exchange Ordinance, 1969 (XVII of 1969) read with section 16 thereof and clause (b) of section 43 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) and having been previously published in the official Gazette vide Notification No. S.R.O. official 384(I)/2010, dated the 3rd June, 2010, as required by sub-section (2) of section 39 of the said Act XLII of 1997, the Securities and Exchange Commission of Pakistan with the approval of the Federal Government, hereby makes the following rules, namely:-. PRELIMINARY",
+  "parts": [
+    {
+      "heading": "Chapter I",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These Rules may be called the (2) They shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these rules, unless there is anything repugnant in the subject or context,-",
+            ">(a) \"Annexure\" means Annexure to these rules;",
+            ">(b) \"authorized intermediary\" means any person referred in sub-rule (2)",
+            "of rule 3 registered with the Commission as an authorized intermediary under these rules;",
+            ">(c) \"borrower\" means a person who borrows securities under these rules from a lender through the platform provided by an authorized intermediary for the purpose of securities lending and borrowing transactions;",
+            ">(d) \"clearing company\" means a company registered as a clearing house under the Clearing Houses (Registration and Regulation) Rules, 2005;",
+            ">(e) \"financee\" means the person availing the facility of margin financing or margin trading;",
+            ">(f) \"lender\" means a person who lends securities to a borrower through the platform provided by an authorized intermediary for the purpose of securities lending and borrowing transactions;",
+            ">(g) \"leveraged market\" means the market for offering any of the leveraged market contracts;",
+            ">(h) \"leveraged market contracts\" means contracts relating to each of margin financing, margin trading and securities lending and 11.70.07.00 70 borrowing;",
+            ">(i) \"leveraged market participants\" means any of the parties to leveraged market contracts or a person offering any leveraged market contract;",
+            ">(j) \"margin financier\" means such person registered and allowed under these rules to provide margin financing;",
+            ">(k) \"margin financing\" means extension or maintenance of credit for the purpose of purchasing or carrying any security through an authorized intermediary, as provided in Chapter III;",
+            "(1) \"margin financing agreement\" means an agreement executed agreement\"",
+            "between the margin financier and the financee for the purpose of margin financing;",
+            ">(m) \"margin trading\" means extension or maintenance of credit through the platform provided by an authorized intermediary for the purpose of purchasing or carrying any security, as provided in Chapter IV;",
+            ">(n) \"Ordinance\" means the Securities and Exchange Ordinance, 1969 (XVII of 1969);",
+            ">(o) \"regulations\" means regulations made by (i) a stock exchange, under the Ordinance; or",
+            ">(ii) a central depository, under the Central Depositories Act, 1997; or",
+            ">(iii) a clearing company, under its bye-laws, for the respective leveraged market contracts with the previous approval of the Commission;",
+            ">(p) \"securities lending and borrowing\" means lending of securities by the lender and borrowing of securities by the borrower, through platform provided by an authorized intermediary, as provided in Chapter V;",
+            ">(q) \"significant shareholder\" means a person holding, directly or",
+            "indirectly, ten percent or more shares in a company;",
+            ">(r) \"spot period\" means the trading period as notified by the stock exchanges prior to the commencement of book closure; and exchanges prior to the commencement of book closure; and",
+            ">(s) \"trading financier\" means such person registered and allowed under these rules to provide financing under margin trading.",
+            "(2) All other words and expressions used but not defined in these rules shall, unless there is anything repugnant in the subject or context, have the same meanings as assigned to them under the Ordinance, the Companies Ordinance, 1984 (XLVII of 1984) and the Central Depositories Act, 1997 (XIX of 1997).",
+            "AUTHORIZED INTERMEDIARIES"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter II",
+      "sections": [
+        {
+          "no": "3",
+          "title": "Authorized intermediary",
+          "text": [
+            "(1) The Commission shall determine the number and places for the establishment of authorized intermediaries.",
+            "(2) A stock exchange, central depository or clearing company desirous of providing a platform to facilitate transactions relating to any of the leveraged market contracts may make an application to the Commission for the purpose of acting as an authorized intermediary for the respective leveraged market contracts.",
+            "(3) The application under sub-rule (2) shall be accompanied by-",
+            ">(a) copies of documents showing the registration of the applicant as a stock exchange, central depository or a clearing company, as the case may be;",
+            ">(b) copies of Memorandum and Articles of Association;",
+            ">(c) particulars of its chief executive officer and directors including their parentage, computerized national identity card numbers, residential addresses, directorships in other companies and significant shareholding in other companies;",
+            ">(d) list of its members in case of a company having no share capital and",
+            "significant shareholders in case of a company having share capital;",
+            ">(e) documents showing that satisfactory internal controls and written compliance procedures are available to act as authorized intermediary for the respective leveraged market contracts;",
+            ">(f) documents showing that adequate financial, technical, organizational and human resources are available to facilitate the activity of the respective leveraged market contracts in a proper and efficient manner, on an ongoing basis;",
+            ">(g) a draft of regulations governing the respective leveraged market contracts;",
+            ">(h) the fee as specified by the Commission; and",
+            ">(i) such other document as may be required by the Commission.",
+            "(4) Upon receipt of the application under sub-rule (2) and the documents specified under sub-rule (3), the Commission, if satisfied that-",
+            ">(a) the applicant is eligible for acting as authorized intermediary;",
+            ">(b) the applicant is in compliance with all applicable regulatory requirements and conditions; and",
+            ">(c) it is in the interest of the capital market for the applicant so to do, may register the applicant as an authorized intermediary and grant certificate of registration as specified in Form I as set out in the Annexure and approve with or without modifications the regulations for the respective leveraged market contracts.",
+            "(5) The Commission may, while registering an applicant as an authorized intermediary, specify conditions for such registration to be complied by the authorized intermediary in such manner and time, as it may think fit."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Refusal to grant registration",
+          "text": [
+            "(1) No application for registration made under rule 3 shall be refused except after giving the applicant an opportunity of being heard.",
+            "(2) In case the Commission refuses to grant registration to an applicant, the decision shall be communicated to the applicant stating therein the reasons for such refusal."
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Suspension or restriction of authorized intermediary",
+          "text": [
+            "(1) The Commission may by an order in writing impose any restrictions on an authorized intermediary or suspend its registration, if-",
+            ">(a) the Commission, on reasonable grounds, believes that such action is in the interest of the capital market;",
+            ">(b) the authorized intermediary fails to comply with the provisions of the Ordinance, these rules, any regulations or any directive or circular issued by the Commission or any condition of registration specified by the Commission;",
+            ">(c) (c) the authorized intermediary fails to effectively implementor comply with the regulations;",
+            ">(d) the authorized intermediary fails to make any amendments to the regulations as may be required by the Commission;",
+            ">(e) the authorized intermediary fails or refuses to furnish the information required under any law to be furnished or required by the Commission or furnishes incorrect or incomplete information;",
+            ">(f) the authorized intermediary fails or refuses to cooperate in any audit, enquiry, inspection or investigation ordered by the Commission; or",
+            ">(g) the authorized intermediary refuses or fails to pay a penalty, if any, imposed by the Commission.",
+            "(2) The order of the Commission imposing any restriction or suspending the registration of the authorized' intermediary shall state the period of restriction or suspension which shall not in the first instance exceed ninety days and such restriction or suspension may be extended by the Commission provided that the period of each such extension shall not exceed ninety days.",
+            "(3) The Commission while suspending the registration of an authorized intermediary may impose such conditions, as it deems proper, on the authorized intermediary.",
+            "(4) During the suspension the leveraged market contracts entered into before the suspension shall, subject to any directions issued by the Commission and regulations made by authorized intermediary, continue to remain valid and leveraged market participants shall fulfill their respective obligations under such leveraged market contracts accordingly."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Cancellation of registration of authorized intermediary",
+          "text": [
+            "(1) The Commission may cancel the registration of an authorized intermediary after providing it an opportunity of hearing, if -",
+            ">(a) the cause of restriction or suspension of registration under rule 5 02-11 continues for a period of not less than ninety days; 33-28-02-11 (b) the authorized intermediary refuses or fails to pay the penalty, if any, imposed by the Commission;",
+            ">(c) the Commission determines that cancellation of registration will be in the interest of the capital market;",
+            ">(d) a court of competent jurisdiction has passed a winding up order of the authorized intermediary or a resolution has been passed or petition has been filed for voluntary winding-up of the authorized intermediary;",
+            ">(e) the Commission, on reasonable grounds, believes that any other person referred to in sub-rule (2) of rule 3 will perform the functions of the authorized intermediary in a better and effective manner;",
+            ">(f) the authorized intermediary does not comply with the restrictions or",
+            "conditions imposed by the Commission at the time of registration, restriction or suspension; or",
+            ">(g) the authorized intermediary requests the Commission, on reasonable grounds, to cancel its registration.",
+            "(2) The Commission while cancelling the registration of an authorized intermediary may take such measures and issue such directions as it deems fit."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Conditions applicable to authorized intermediary",
+          "text": [
+            "An authorized intermediary shall-",
+            ">(a) provide a platform to facilitate transactions of the respective leveraged market contracts;",
+            ">(b) ensure that the requirements of these rules, the regulations and the requiréments specified by the Commission and directions of the Commission are being complied with;",
+            ">(c) ensure that a fair, transparent and efficient system for entering into and carrying out respective leveraged market contracts is provided in accordance with the regulations and all other applicable laws;",
+            ">(d) make suitable amendments in the regulations from time to time with the approval of the Commission;",
+            ">(e) correctly record all transactions relating to respective leveraged market contracts;",
+            ">(f) submit to the Commission such periodic returns and other information as specified by the Commission;",
+            ">(g) correctly disclose such information, as specified by the Commission, to the public relating to the respective leveraged market contracts;",
+            ">(h) collect and maintain margins specified in the regulations;",
+            ">(i) ensure that the total financing provided by a margin financier and/or",
+            "trading financier at any point in time or total financing provided to a single financee or to clients of one broker or total financing provided in respect of any particular security, does not exceed the limits specified in the regulations;",
+            ">(j) ensure that the total financing obtained by a single financee or all financees or in any particular security, at any point in time, does not exceed the limits specified in the regulations;",
+            ">(k) ensure that total lending by a lender or borrowing by a borrower, at any point in time, of a particular security does not exceed the limits specified in the regulations;",
+            "(1) not provide false or misleading or incomplete information to the Commission;",
+            ">(m) cooperate in any audit, enquiry, inspection or investigation ordered by the Commission; and",
+            ">(n) comply with such other directions as may be issued by the Commission.",
+            "MARGIN FINANCING"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter III",
+      "sections": [
+        {
+          "no": "8",
+          "title": "Eligibility criteria for a margin financier",
+          "text": [
+            "A person shall be eligible to apply for registration as a margin financier, if-",
+            ">(a) such person is-",
+            "(1) a broker;",
+            ">(ii) a banking company as defined under the Bauking Companies Ordinance, 1962 (LVII of 1962), with a minimum credit rating as specified in regulations;",
+            ">(iii) a financial institution covered under section 3A of the Banking Companies Ordinance, 1962 (LVII of 1962) with a minimum credit rating as specified in regulations;",
+            ">(iv) an investment finance company licensed by the Commission to provide investment finance services with a minimum credit rating as specified in regulations; or",
+            ">(v) such other corporate entity as may be recommended by the authorized intermediary and approved by the Commission;",
+            ">(b) such person meets the minimum net capital and capital adequacy requirements specified in regulations;",
+            ">(c) such person has adequate financial, technical, organizational and",
+            "human resources for extension and maintenance of credit for the purpose of purchasing or carrying any security;",
+            ">(d) such person is not in default of any regulatory requirement;",
+            ">(e) such person has not been convicted of a fraud under any law, an offence under the laws administered by the Commission or any other offence involving moral turpitude and in case of a company none of its directors or significant shareholders, as the case may be, has been convicted of a fraud under any law, an offence under the laws administered by the Commission or any other offence involving moral turpitude; Commission or any other offence involving moral turpitude;",
+            ">(f) no investigation or enquiry has been concluded by the Commission with any adverse findings of mismanagement or misappropriation against such person or any of its directors or significant shareholders;",
+            ">(g) no proceedings are pending with respect to its winding-up, insolvency or",
+            "any analogous relief;",
+            ">(h) in case of a broker,-",
+            ">(i) it has valid trading rights on a stock exchange and such rights are not suspended;",
+            "(11) it is not in default of any payment obligations under the regulations of a stock exchange;",
+            ">(iii) none of its significant shareholders, directors or chief executive officer by whatever name called have-",
+            ">(i) remained a significant shareholder, director, chief executive officer, partner of a broker who has been expelled or deciared a defaulter on account of default or any other reason under the stock exchange regulations; or",
+            ">(ii) remained a broker who has been expelled or declared a defaulter on account of default or any other reason under the stock exchange regulations;",
+            ">(i) such person is a participant or accountholder in central depository system and its status as a participant or accountholder is not suspended or terminated;",
+            ">(j) such person is a clearing member of a clearing company and its status as a clearing member is not suspended or terminated; and",
+            ">(k) such person meets such other requirements as may be specified by the Commission."
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Registration of a margin financier",
+          "text": [
+            "(1) A person eligible for registration under rule 8 may make an application to the authorized intermediary for registration which shall be accompanied by the following documents, namely:-",
+            ">(a) documents showing that the requirements of clauses (a), (b), (c), (g), (h), (i) and (j) of rule 8 have been fulfilled;",
+            ">(b) in case the applicant is a company, Memorandum and Articles of Association;",
+            ">(c) in case the applicant is a company, particulars of its chief executive officer and directors including their parentage, computerized national identity card numbers, residential addresses, directorships in other companies and significant shareholding in other companies;",
+            ">(d) list of significant shareholders, in case the applicant is a company;",
+            ">(e) an affidavit, in the manner specified in Form-II set out in the Annexure, that the applicant is not in violation of the requirements of rule 8;",
+            ">(t) in case the applicant is a company, a copy of the latest audited financial statements or in the case of an individual a copy of the income tax return as submitted to the Federal Board of Revenue;",
+            ">(g) evidence of payment of application fee, charges, deposits and",
+            "contributions as specified in the regulations; and",
+            ">(h) any other document specified in the regulations.",
+            "(2) If the authorized intermediary is satisfied that the eligibility criteria under rule 8 has been met with and the documents required under rule 9 have been submitted, the authorized intermediary may register the applicant as a margin financier.",
+            "(3) A margin financier shall not commence its business unless it has executed such agreements and assurances and furnished such documents as required by the authorized intermediary and specified in the regulations.",
+            "Explanation.- For the purpose of clause (b) of sub-rule (1) of rule 9 where the applicant is a corporate entity the deponent shall be its chief executive officer, the chief compliance. officer, company secretary or equivalent and where the applicant is a natural person the deponent shall be the applicant himself."
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Refusal to grant registration",
+          "text": [
+            "(1) No application for registration made under rule 9 shall be refused except after giving the applicant an opportunity of being heard.",
+            "(2) In case the authorized intermediary refuses to grant registration to an applicant, the decision shall be communicated to the applicant stating therein the reasons for such refusal."
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Restriction or suspension of a margin financier",
+          "text": [
+            "(1) The financier.- (1) The authorized intermediary may suspend or restrict with immediate effect a margin financier from providing margin financing and shall immediately notify to the Commission and market participants of such restriction or suspension, if such financier -",
+            ">(a) is not in compliance with the eligibility conditions specified in rule 8;",
+            ">(b) fails or refuses to comply with any provision of these rules or any directions, orders or circulars issued by the Commission;",
+            ">(c) fails or refuses to comply with the regulations; or",
+            ">(d) is in breach of any obligation under an agreement or security furnished to the authorized intermediary or performance of any of the material obligations under any such agreement or security becomes unlawful or",
+            "any such agreement or security is declared to be void or is repudiated or",
+            "its validity or enforceability at any time is challenged by the margin financier or any party furnishing such security.",
+            "(2) Where the authorized intermediary neglects or fails to restrict or suspend a margin financier under sub-rule (1), the Commission may restrict or suspend the margin financier from providing margin financing."
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Cancellation of registration of margin financier",
+          "text": [
+            "(1) The authorized intermediary may, after providing an opportunity of hearing to a margin financier, cancel its registration, if-",
+            ">(a) it is not in compliance with the eligibility conditions specified in rule 8;",
+            ">(b) the cause of restriction or suspension under rule 11 continues for more than forty-five days;",
+            ">(c) the margin financier does not furnish the information required by the authorized intermediary or the Commission or furnishes incomplete or incorrect information;",
+            ">(d) it fails or refuses to cooperate in any audit, enquiry, inspection or",
+            "investigation ordered by the Commission;",
+            ">(e) a court of competent jurisdiction orders the winding-up or liquidation of the margin financier;",
+            ">(f) any steps are taken for the winding-up of the margin financier by its shareholders or creditors; or",
+            ">(g) a receiver, administrator or similar official is appointed in respect of the margin financier or a substantial part of its assets.",
+            "(2) Where upon occurrence of any of the events described in sub-rule (1), the authorized intermediary fails to cancel the registration of the authorized financier, the Commission may, after providing an opportunity of hearing to the margin financier, direct the authorized intermediary to cancel the registration of such margin financier and upon such direction the authorized intermediary shall immediately cancel the registration of such margin financier."
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Conditions applicable to margin financiers",
+          "text": [
+            "A margin financier shall-",
+            ">(a) only extend margin financing for purchases or carrying of securities in respect of trades carried out on a stock exchange;",
+            ">(b) not extend margin financing without first executing a margin financing agreement with the financee which shall inter alia contain provisions prescribed in Form V as set out in the Annexure;",
+            ">(c) at all times comply with the regulations and all directives or circulars as may be issued by the Commission;",
+            ">(d) ensure that true and complete information is passed on to the authorized intermediary; and",
+            ">(e) ensure compliance with the provisions of the Anti-Money Laundering Act, 2010 (Act VII of 2010) and any rules and regulations made thereunder."
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Additional conditions applicable to brokers who are margin financiers",
+          "text": [
+            "In addition to the provisions of rule 13, a broker which is registered as a margin financier shall-",
+            ">(a) provide margin financing by using its own funds or funds borrowed from financial institutions specified in sub-clauses (ii), (iii) and (iv) of clause (a) of rule 8;",
+            ">(b) not use the funds of any of its clients for providing margin financing to any other person or for proprietary account;",
+            ">(c) not provide margin financing except through the platform provided by the authorized intermediary;",
+            ">(d) not provide margin financing to any client without evaluating the creditworthiness of the client through a proper credit risk assessment methodology; and",
+            ">(e) not provide margin financing to any person who is not its client."
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Regulatory requirements for margin financing",
+          "text": [
+            "The authorized intermediary shall specify, in such manner as the Commission may direct, the following matters, namely:-",
+            ">(a) the selection criteria, including the minimum liquidity requirements, for securities for which margin financing can be obtained;",
+            ">(b) the maximum limits of margin financing which may be obtained by a broker for its proprietary position, by a single client through one or",
+            "more brokers or by all the clients of a single broker or by a broker collectively for proprietary account and trading for client;",
+            ">(c) the maximum limits of margin financing which may be obtained by a broker for its proprietary position, by a single client through one or",
+            "more brokers or by all the clients of a single broker or by a broker collectively for proprietary account and trading for client, at any point of time, in a particular scrip;",
+            ">(d) the percentage of the total value of securities financed under margin financing which shall be paid by the financee in cash as financee's minimum equity participation for the purchase of such securities;",
+            ">(e) suspension or disciplining of margin financiers including grounds for taking such action;",
+            ">(f) terms and conditions under which margin financing may be provided;",
+            ">(g) recording and publishing of details of margin financing by the authorized intermediary;",
+            ">(h) fees, charges, contributions and deposits payable in respect of margin financing;",
+            ">(i) reporting details relating to margin financing from margin financier and such brokers who are financees or acting on behalf of such clients who are financees; and",
+            ">(j) any other matter as deemed necessary for the effective implementation and enforcement of these rules.",
+            "MARGIN TRADING"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter IV",
+      "sections": [
+        {
+          "no": "16",
+          "title": "Eligibility criteria for trading financier",
+          "text": [
+            "A person shall be eligible to apply for registration as a trading financier, if-",
+            ">(a) such person is-",
+            ">(i) a broker;",
+            ">(ii) a banking company as defined under the Banking Companies Ordinance, 1962 (LVII of 1962), with a minimum credit rating as specified in regulations;",
+            ">(iii) a financial institution covered under section 3A of the Banking Companies Ordinance, 1962 (LVII of 1962) with a minimum credit rating as specified in regulations;",
+            ">(iv) an investment finance company licensed by the Commission to provide investment finance services with a minimum credit rating as specified in regulations;",
+            ">(v) a collective investment scheme as defined in the Non-banking Finance Companies and Notified Entities Regulations, 2008 and",
+            "categorized as equity scheme or any scheme launched for the purpose of investment in margin trading provided its constituent documents allow such scheme to provide financing for margin trading;",
+            ">(vi) such other corporate entity as may be recommended by the authorized intermediary and approved by the Commission;",
+            ">(b) such person meets the minimum net capital and capital adequacy requirements specified in regulations;",
+            ">(c) such person has adequate financial, technical, organizational and",
+            "human resources for extension or maintenance of credit for the purpose of purchasing or carrying any security;",
+            ">(d) such person is not in default of any regulatory requirement;",
+            ">(e) such person has not been convicted of a fraud under any law, an offence under the laws administered by the Commission or any other offence involving moral turpitude and in case of a company or an asset management company, none of its directors and significant shareholders, as the case may be, has been convicted of a fraud under any law, an offence under the laws administered by the Commission or any other offence involving moral turpitude;",
+            ">(f) no investigation or enquiry has been concluded against it by the Commission with any adverse findings of mismanagement or",
+            "misappropriation and in case of a company or an asset management company (where applicant is a collective investment scheme) no such findings have been recorded against any of its directors or significant shareholders;",
+            ">(g) no proceedings are pending with respect to its winding-up, insolvency or",
+            "any analogous relief;",
+            ">(h) in case of a broker,-",
+            ">(i) it has valid trading rights on a stock exchange and such rights are not suspended;",
+            ">(ii) it is not in default of any payment obligations under the regulations of a stock exchange;",
+            ">(iii) none of its significant shareholders, directors or chief executive officer, by whatever name called, have-",
+            ">(i) remained a significant shareholder, director, chief executive officer, partner of a broker who has been expelled or declared a defaulter on account of default or any other reason under the stock exchange regulations; or",
+            ">(ii) remained a broker who has been expelled or declared a defaulter on account of default or any other reason under the stock exchange regulations;",
+            ">(i) such person is a participant or accountholder in a central depository system and its status as a participant or accountholder is not suspended or terminated;",
+            ">(j) such person is a clearing member of a clearing company and its status as a clearing member is not suspended or terminated; and",
+            ">(k) such person meets with such other requirements as may be specified by the Commission."
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Registration of a trading financier",
+          "text": [
+            "(1) A person eligible for registration under rule 16 may make an application to the authorized intermediary for registration which shall be accompanied by the following documents, namely:-",
+            ">(a) documents showing that the requirements of clauses (a), (b), (c), (g), (h), (i) and (j) of rule 16, have been fulfilled;",
+            ">(b) in case the applicant is a company, Memorandum and Articles of Association and in case of a collective investment scheme, its constituent documents;",
+            ">(c) in case the applicant is a company, particulars of its chief executive officer and directors including their parentage, computerized national identity card numbers, residential addresses, directorships in other companies and significant shareholding in other companies and in case of a collective investment scheme, similar particulars of the chief executive officer and directors of the asset management company;",
+            ">(d) list of significant shareholders, in case the applicant is a company;",
+            ">(e) an affidavit, in the manner specified in Form-III as set out in the Annexure that the applicant is not in violation of the requirements of rule 16;",
+            ">(f) in case the applicant is a company, a copy of the latest audited financial statements or in the case of an individual a copy of the income tax return as filed with the Federal Board of Revenue;",
+            ">(g) evidence of payment of application fee, charges, deposits and",
+            "contributions as specified in the regulations; and",
+            ">(h) any other document specified in or required by the regulations.",
+            "(2) If the authorized intermediary is satisfied that the eligibility criteria under rule 16 has been satisfied and the documents required under rule 17 have been submitted, the authorized intermediary may register the applicant as a trading financier.",
+            "(3) A trading financier shall not commence its business as a trading financier unless it has executed such agreements and assurances and furnished such documents as required by the authorized intermediary and specified in the regulations.",
+            "Explanation.— For the purpose of clause (b) of sub-rule (1) where the applicant is a corporate entity the deponent shall be the chief executive officer, the chief compliance officer, company secretary or equivalent of the applicant and",
+            "where the applicant is a natural person the deponent shall be the applicant himself."
+          ]
+        },
+        {
+          "no": "18",
+          "title": "Refusal to grant registration",
+          "text": [
+            "(1) No application for registration made under rule 17 shall be refused except after giving the applicant an opportunity of being heard.",
+            "(2) In case the authorized intermediary refuses to grant registration to an applicant, the decision shall be communicated to the applicant stating therein the reasons for such refusal."
+          ]
+        },
+        {
+          "no": "19",
+          "title": "Restriction or suspension of a trading financier",
+          "text": [
+            "(1) The authorized intermediary may immediately restrict a trading financier from providing financing for margin trading and shall immediately notify to the Commission and market participants of such restriction or suspension, if such trading financier-",
+            ">(a) after registration is not in compliance with the eligibility conditions specified in rule 16;",
+            ">(b) fails or refuses to comply with any provision of these rules or any directions, orders or circulars issued by the Commission;",
+            ">(c) fails or refuses to comply with the regulations; or",
+            ">(d) is in breach of any obligation under an agreement or security furnished to the authorized intermediary or performance of any of the material obligations under any such agreement or security becomes unlawful or",
+            "any such agreement or security is declared to be void or is repudiated or",
+            "its validity or enforceability at any time is challenged by the trading financier or any party furnishing such security.",
+            "(2) Where the authorized intermediary neglects or fails to restrict or suspend a trading financier under sub-rule (1), the Commission may restrict or suspend such trading financier."
+          ]
+        },
+        {
+          "no": "20",
+          "title": "Cancellation of registration of a trading financier",
+          "text": [
+            "(1) The authorized intermediary may, after providing an opportunity of hearing to a trading financier, cancel the registration of such trading financier and shall immediately notify to the Commission of such cancellation, if-",
+            ">(a) the cause of restriction or suspension under rule 19 continues for more than forty five days;",
+            ">(b) the trading financier fails or refuses to furnish the information required by the authorized intermediary or Commission, or furnishes incomplete or incorrect information;",
+            ">(c) it fails or refuses to cooperate in any audit, enquiry, inspection or",
+            "investigation ordered by the Commission;",
+            ">(d) a court of competent jurisdiction orders winding up or liquidation of the trading financier;",
+            ">(e) any step has been taken to seek voluntary winding-up of the trading financier by its shareholders or creditors; or",
+            ">(f) a receiver, administrator or similar official is appointed in respect of the trading financier or a substantial part of its assets.",
+            "(2)",
+            "(2) Upon occurrence of any of the events described in sub-rule (1), the Commission may, after providing an opportunity of hearing to a trading financier, direct the authorized intermediary to cancel the registration of such trading financier and upon such direction the authorized intermediary shall immediately cancel the registration of such trading financier."
+          ]
+        },
+        {
+          "no": "21",
+          "title": "Conditions applicable to trading financiers",
+          "text": [
+            "A trading financier shall-",
+            ">(a)",
+            ">(a) only extend financing to finance purchases or carrying securities in respect of trades carried out on a stock exchange;",
+            ">(b)",
+            ">(b) at all times comply with the regulations and all directives or circulars as may be issued by the Commission;",
+            ">(c)",
+            ">(c) ensure that true and complete information is passed on to the authorized intermediary; and",
+            ">(d) ensure compliance with the provisions of the Anti-Money Laundering Act, 2010 (Act VII of 2010) and any rules and regulations made thereunder."
+          ]
+        },
+        {
+          "no": "22",
+          "title": "Additional conditions applicable to brokers who are trading financiers",
+          "text": [
+            "(1) In addition to the provisions of rule 21, a broker who is registered as a trading financier shall-",
+            ">(a) provide financing under margin trading by using his own funds or funds borrowed from financial institutions specified in sub-clauses (ii), (iii)",
+            "and (iv) of clause (a) of rule 16 or subject to sub-rule (2) use the funds of his corporate clients, provided the broker has entered in to an agreement with such corporate clients, which shall contain inter alia the provisions prescribed in Form VI as set out in the Annexure;",
+            ">(b) not use the funds of any client, except as provided in clause (a), for providing financing under margin trading to any other person or for proprietary account; and",
+            ">(c) not provide financing under margin trading except through the platform provided by the authorized intermediary.",
+            "(2) The Commission may, where it deems necessary in the interest of the market, (a) lay down eligibility criteria for corporate clients which may provide funds to brokers for providing finance under margin trading.",
+            ">(b) restrict or prohibit the use of funds of corporate clients by brokers generally or otherwise."
+          ]
+        },
+        {
+          "no": "23",
+          "title": "Regulatory requirements for Margin Trading",
+          "text": [
+            "(1) The authorized intermediary shall specify, in such manner as the Commission may direct, the following matters, namely:-",
+            ">(a) the selection criteria, including the minimum liquidity requirements, for securities for which financing can be obtained by margin trading;",
+            ">(b) risk management systems, including but not limited to collateral and",
+            "margin requirements, exposure margins, position limits, collection of mark to market losses, deposits provided that all margins, deposits and",
+            "mark to mark losses shall be payable in cash only;",
+            ">(c) the maximum limits of financing which may be obtained by a broker for its proprietary position, by a single client of a broker or by all the clients of a single broker, or by the broker collectively for proprietary account and trading for client;",
+            ">(d) the maximum limits of financing which may be obtained by a broker for its proprietary position, by a single client of a broker or by all the clients of a single broker, or by the broker collectively for proprietary account and trading for client, at any point of time in a particular scrip;",
+            ">(e) the percentage of the total value of securities financed in margin trading which shall be paid by the financee only in cash as financee's minimum equity participation for the purchase of such securities provided that such percentage shall not be less twenty-five per cent and",
+            "provided that such equity participation shall be paid by the financee from his own sources and not through any form of financing or credit from the broker;",
+            ">(f) suspension or disciplining of a trading financier including grounds for taking such action;",
+            ">(g) terms and conditions under which margin trading may be undertaken;",
+            ">(h) the contract period provided that such contract period shall not exceed sixty days;",
+            ">(i) recording and publishing of details of margin trading by the authorized intermediary;",
+            ">(j) fee, charges, contributions and deposits payable in respect of margin trading;",
+            ">(k) reporting details relating to margin trading from a trading financier and such brokers who are financees or acting on behalf of such clients who are financees; and",
+            "(1) any other matter as deemed necessary for the effective enforcement of these rules.",
+            "(2) The funds provided by a corporate client of a broker for margin trading as provided in clause (a) of rule 22 shall be from its surplus funds and provided with the approval of its board of directors.",
+            "SECURITIES LENDING AND BORROWING"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter V",
+      "sections": [
+        {
+          "no": "24",
+          "title": "Eligibility criteria for securities lender and borrower",
+          "text": [
+            "A person shall be eligible to apply for registration as a securities lender and borrower, if-",
+            ">(a) such person is-",
+            ">(i) a broker;",
+            ">(ii) a banking company defined under the Banking Companies Ordinance, 1962 (LVII of 1962), with a minimum credit rating as specified in regulations;",
+            ">(iii) a financial institution covered under section 3A of the Banking Companies Ordinance, 1962 (LVII of 1962) with a minimum credit rating as specified in regulations;",
+            ">(iv) an investment finance company licensed by the Commission to provide investment finance services with a minimum credit rating as specified in regulations; or",
+            ">(v) such other person as may be recommended by the authorized intermediary and approved by the Commission.",
+            ">(b) such person meets the minimum net capital and capital adequacy requirements specified in regulations;",
+            ">(c) such person has adequate financial, technical, organizational and",
+            "human resources to undertake the transaction of securities borrowing and lending;",
+            ">(d) such person is not in default of any regulatory requirement;",
+            ">(e) such person has not been convicted of a fraud under any law, an offence under the laws administered by the Commission or any other offence involving moral turpitude and in case of firms and companies none of their partners, directors and significant shareholders, as the case may be, has been convicted of a fraud under any law, offence under the laws administered by the Commission or any other offence involving moral turpitude;",
+            ">(f) no investigation or enquiry has been concluded by the Commission with any adverse findings of mismanagement or misappropriation against such person or any of their directors, significant shareholders or",
+            "partners, as the case may be;",
+            ">(g) no proceedings are pending with respect to its winding-up or insolvency or an analogous relief;",
+            ">(h) in case of a broker,—",
+            ">(i) it has valid trading rights on a stock exchange and such trading rights are not suspended;",
+            ">(ii) it is not in default of any payment obligations under the regulations of a stock exchange;",
+            ">(iii) none of its significant shareholders, directors or chief executive officer, by whatever name called, have-",
+            ">(i) remained a significant shareholder, director, chief executive officer, partner of a broker who has been expelled or declared a defaulter on account of default or for any other reason under the stock exchange regulations; or",
+            "(11) remained a broker who has been expelled or declared a defaulter on account of default or for any other reason under the stock exchange regulations;",
+            ">(i) such person is a participant or accountholder in a central depository system and its status as a participant or accountholder is not 33-28-02-11 suspended;",
+            ">(j) such person is a clearing member of a clearing company and its status as a clearing member is not suspended or terminated; and",
+            ">(k) such person meets such other requirements as may be specified by the Commission."
+          ]
+        },
+        {
+          "no": "25",
+          "title": "Registration of a securities lender and borrower",
+          "text": [
+            "(1) A person eligible for registration under rule 24 may make an application to the authorized intermediary for registration which shall be accompanied by the following documents, namely:-",
+            ">(a) documents showing that the requirements of clauses (a), (b), (c), (g), (h)",
+            ">(i) and (j) of rule 24 have been fulfilled;",
+            ">(b) in case the applicant is a company, Memorandum and Articles of' Association;",
+            ">(c) in case the applicant is a company, particulars of its chief executive officer and directors including their parentage, computerized national identity card numbers, residential addresses, directorships in other companies and significant shareholding in other companies;",
+            ">(d) list of significant sharéholders, in case the applicant is a company;",
+            ">(e) an affidavit, in the manner specified in Form-IV as set out in the Annexure, that the applicant is not in violation of the requirements of clauses (d), (e) and (f) of rule 24;",
+            ">(f) in the case of a company, a copy of the latest audited financial statements or in the case of an individual a copy of the income tax return as filed with the Federal Board of Revenue;",
+            ">(g) evidence of payment of application fee, charges, deposits and",
+            "contribution as specified in the regulations; and",
+            ">(h) any other document specified in or required by the regulations.",
+            "(2) If the authorized intermediary is satisfied that, the eligibility criteria under rule 24 has been satisfied and the documents required under rule 25(1) have been submitted, the authorized intermediary may register the applicant as a securities lender and borrower.",
+            "(3) A securities lender or borrower shall not commence its business as a securities lender or borrower, as the case may be, unless he has executed such agreements and assurances and furnished such documents as required by the authorized intermediary and specified in the regulations.",
+            "Explanation.- For the purpose of clause (b) of sub-rule (1) where the applicant is a corporate entity, the deponent shall be its chief executive officer, chief compliance officer, company secretary or equivalent and where the applicant is a natural person, the deponent shall be the applicant himself."
+          ]
+        },
+        {
+          "no": "26",
+          "title": "Refusal to grant registration",
+          "text": [
+            "(1) No application for registration made under rule 25 shall be refused except after giving the applicant an opportunity of being heard. 33-28-02-11 (2) In case the authorized intermediary refuses to grant registration to an applicant, the decision shall be communicated to the applicant stating therein the reasons for such refusal."
+          ]
+        },
+        {
+          "no": "27",
+          "title": "Restriction or suspension of a securities lender and borrower",
+          "text": [
+            "(1) The authorized intermediary may immediately restrict or suspend a securities lender and borrower from securities lending and borrowing and shall immediately notify to the Commission and the market participants of such restriction or suspension, if the securities lender and borrower-",
+            ">(a) after registration is not in compliance with the eligibility conditions specified in rule 24; or",
+            ">(b) fails or refuses to comply with any provision of these rules or any directions, orders or circulars issued by the Commission from time to time;",
+            ">(c) fails or refuses to comply with the regulations;",
+            ">(d) is in breach of any obligation under an agreement or security furnished to the authorized intermediary or performance of any of the material obligations under any such agreement or security becomes unlawful or",
+            "any such agreement or security is declared to be void or is repudiated or",
+            "its validity or enforceability at any time is challenged by the securities lender and borrower or any party furnishing such security; or",
+            ">(e) is in a situation where a receiver, administrator or similar official is appointed in respect of the trading financier or a substantial part of its assets.",
+            "(2) Where the authorized intermediary neglects or fails to restrict or suspend a securities lender and borrower under sub-rule (1) of rule 27, the Commission may restrict or suspend the securities lender and borrower."
+          ]
+        },
+        {
+          "no": "28",
+          "title": "Cancellation of registration of a securities lender and borrower",
+          "text": [
+            "(1) The authorized intermediary may, after providing an opportunity of hearing to the securities lender and borrower, cancel its registration and shall immediately notify to the Commission of such cancellation, if-",
+            ">(a) it is not in compliance with the eligibility conditions specified in rule 24;",
+            ">(b) the cause of restriction under rule 27 continues for more than forty-five days;",
+            ">(c) it does not furnish the information required by the authorized intermediary or Commission, or furnishes incomplete or incorrect information;",
+            ">(d) it refuses or fails to cooperate in any audit, enquiry, inspection or",
+            "investigation ordered by the Commission;",
+            ">(e) a court of competent jurisdiction orders winding up or liquidation of the 33-28-02-11 securities lender and borrower; or",
+            ">(f) any step has been taken to seek voluntary winding-up of the securities lender and borrower by its shareholders or creditors.",
+            "(2) Upon occurrence of any of the events described in sub-rule (1), the Commission may, after providing an opportunity of hearing to a securities lender and borrower, direct the authorized intermediary to cancel the registration of such securities lender and borrower and upon such direction the authorized intermediary shall immediately cancel the registration of such securities lender and borrower."
+          ]
+        },
+        {
+          "no": "29",
+          "title": "Conditions applicable to securities lender and borrower",
+          "text": [
+            "(1) A securities lender and borrower shall-",
+            ">(a) only lend or borrow securities through the platform provided by the authorized intermediary;",
+            ">(b) not lend'or borrow securities for his own benefit or on behalf of a client, whether directly or indirectly, of any company where such lender and",
+            "borrower or the client is-",
+            ">(i) a director or sponsor;",
+            ">(il) an associated company and associated undertaking;",
+            ">(iii) a shareholder who is barred from selling such securities; or",
+            ">(iv) any other person as may be specified by the Commission;",
+            ">(c) be eligible to lend or borrow any security or arrange for lending or",
+            "borrowing of any security for his own benefit or on behalf of its clients;",
+            ">(d) at all times comply with the regulations and all directives or circulars as may be issued by the Commission;",
+            ">(e) ensure that true and complete information is passed on to the authorized intermediary; and",
+            ">(f) ensure compliance with the provisions of the Anti-Money Laundering Act, 2010 (Act VII of 2010) and any rules and regulations made thereunder.",
+            "(2) All securities lending and borrowing contracts shall stand released on the last working day before the start of a spot period relating to that security and lenders and borrowers shall not lend or borrow securities during the spot period."
+          ]
+        },
+        {
+          "no": "30",
+          "title": "Regulatory requirements for securities lending and borrowing",
+          "text": [
+            "The authorized intermediary shall specify, in such manner as the Commission may direct, the following matters, namely: -",
+            ">(a) risk management systems, including but not limited to collateral and",
+            "margin requirements, exposure margins, position limits, collection of mark to market losses, forms of deposits, etc. ;",
+            ">(b) the manner in which the authorized intermediary shall put in place a system whereby the- -",
+            "E: 33-28-02-11",
+            ">(i) lender agrees to lend a specified number and class of securities to the borrower at an agreed rate of return, through a platform provided by the authorized intermediary; and",
+            ">(il) borrower agrees to borrow a specified number and class of securities at an agreed rate or return and to return the same to the lender, together with the agreed return, through a platform provided by the authorized intermediary.",
+            ">(c) selection criteria, including minimum liquidity requirements, for securities which shall be available for lending and borrowing;",
+            ">(d) the manner in which the margins including marked-to-market losses shall be deposited by the lender and borrower;",
+            ">(e) suspension or discipline of securities lending and borrower including grounds for taking such actions;",
+            ">(f) terms and conditions under which securities lending and borrowing may be undertaken;",
+            ">(g) recording and publishing of details of securities lending and borrowing by the authorized intermediary;",
+            ">(h) fee, charges, contributions and deposits payable for facilities and",
+            "services provided for securities lending and borrowing; and",
+            ">(i) any other matter as deemed necessary for the effective enforcement of these rules.",
+            "PLEDGING"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter VI",
+      "sections": [
+        {
+          "no": "31",
+          "title": "Conditions applicable for pledge of securities",
+          "text": [
+            "No broker shall pledge or deposit any security on account of a client as collateral except as provided below, namely:-",
+            ">(a) the pledge or deposit is in favour of or with a stock exchange or a clearing company in respect of margin requirements relating to the transactions or trades of such client as required under the relevant regulatory framework;",
+            ">(b) the pledge or deposit is in favour of or with a financial institution in respect of margin financing extended by such financial institutions in respect of transactions of such clients under the margin financing facility or any other form of financing as allowed by the Commission;",
+            ">(c) the pledge or deposit is in favour of or with a financial institution to borrow funds, provided that the client has authorized the broker in the manner specified by the Commission; and",
+            ">(d) the pledge or deposit is for any other purpose as permitted under applicable laws and regulations, provided the client has authorized the broker in the manner specified by the Commission.",
+            "MISCELLANEOUS"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter VII",
+      "sections": [
+        {
+          "no": "32",
+          "title": "Power of the Commission to issue directives, circulars, etc",
+          "text": [
+            "The Commission may issue such directives and circulars, as are necessary to carry out the purposes of these rules."
+          ]
+        },
+        {
+          "no": "33",
+          "title": "Broker's obligations",
+          "text": [
+            "(1) In addition to the brokers' obligations under the Brokers and Agents Registration Rules, 2001, a broker acting on behalf of its clients in any of the leveraged markets or pledging the securities of a client shall ensure that-",
+            ">(a) no transaction is executed by the broker on behalf of a client unless an appropriate agreement has been executed between the broker and such client;",
+            ">(b) all provisions of the Anti-Money Laundering Act, 2010 (Act VII of 2010)",
+            "and any rules and regulations made thereunder are complied with at all times;",
+            ">(c) all risks involved in the relevant transactions have been fully disclosed and the broker has obtained a written confirmation from its clients that they have understood and have the ability to bear the risks in such transactions; and",
+            ">(d) the options available to a client in respect of various financing facilities in the securities markets have been fully disclosed and explained to the clients. ( (2) The broker shall evaluate the credit worthiness of its clients through a proper credit risk assessment methodology and assign credit limits to each client beyond which the client shall not be allowed to avail financing under margin financing and margin trading.",
+            "(3) A broker shall maintain records in respect of its compliance with the aforesaid obligations and such records shall be open to inspection by the Commission at any time."
+          ]
+        },
+        {
+          "no": "34",
+          "title": "Prohibition",
+          "text": [
+            "No person shall carry on any activity, or purport to do so, which is covered under these rules or under section 16 of the Ordinance except in accordance with and to the extent permitted by the provisions of these rules, regulations or any directives or circulars issued by the Commission."
+          ]
+        },
+        {
+          "no": "35",
+          "title": "Fee",
+          "text": [
+            "The Commission may from time to time specify such fee as may be required under these rules."
+          ]
+        },
+        {
+          "no": "36",
+          "title": "Penalty",
+          "text": [
+            "A person who contravenes or fails to comply with any provision of these rules regulations or any directives or circulars issued under the Ordinance by the Commission, shall, in addition to any action authorized under these rules, be liable to any and all actions authorized by the Ordinance for such contravention or failure."
+          ]
+        },
+        {
+          "no": "37",
+          "title": "Repeal",
+          "text": [
+            "The Margin Trading Rules, 2004 are hereby repealed."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}
