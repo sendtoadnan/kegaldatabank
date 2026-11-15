@@ -241,7 +241,10 @@ CODES = {}
 
 def convert(spec):
     global CODES
-    scans, pages = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
+    if spec.get("scanFrom"):     # Volume II: chosen by scan range (its page numbers are irregular)
+        scans, pages = [(spec["file"], k) for k in range(spec["scanFrom"], spec["scanTo"] + 1)], []
+    else:
+        scans, pages = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
     if not scans: raise SystemExit(f"{spec['id']}: no book pages found")
     where = {(l["file"], l["scan"]): pg for pg in pages for l in PM[pg]}
     got = []
@@ -266,7 +269,7 @@ def convert(spec):
         Path(os.environ["BOOK_DEBUG"], spec["id"] + ".dropped.txt").write_text("\n".join(f'{k}\t{l["page"]}\t{l["text"]}' for k, l in DROPPED))
         Path(os.environ["BOOK_DEBUG"], spec["id"] + ".lines.txt").write_text("\n".join(f'{l["page"]}\t{l["x"]:.3f}\t{l["text"]}' for l in lines))
     # start at the S.R.O. recital / title, stop at the end marker
-    start = next((i for i, l in enumerate(lines) if re.search(spec.get("startAt", r"S\.\s*R\.\s*O\.|In exercise"), l["text"])), 0)
+    start = next((i for i, l in enumerate(lines) if re.search(spec.get("startAt", r"S\.\s*R\.\s*O\.|In exercise|^An Act to |^WHEREAS|The following Act of"), l["text"])), 0)
     lines = lines[start:]
     pos, prev = [], None
     for l in lines:
@@ -383,7 +386,8 @@ for i in a.ids:
     spec = SPEC[i]
     SPEC_NOINSERTS = bool(spec.get("excludeInserts"))
     if a.pages_only:
-        sc, pgs = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
+        if spec.get("scanFrom"): sc, pgs = [(spec["file"], k) for k in range(spec["scanFrom"], spec["scanTo"] + 1)], []
+        else: sc, pgs = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
         where = {(l["file"], l["scan"]): pg for pg in pgs for l in PM[pg]}
         out = ROOT / "data/salam/pages"; out.mkdir(exist_ok=True)
         json.dump({"id": i, "scans": [{"file": f, "scan": k, "bookPage": where.get((f, k))} for f, k in sc]}, open(out / f"{i}.json", "w"), indent=1)
@@ -395,6 +399,9 @@ for i in a.ids:
         mt = re.search(r"(?:may|shall)\s+be\s+called\s+(?:as\s+)?(?:the\s+)?[\"“]?(.+?\d{4})", first)
         if mt: spec["title"] = re.sub(r"\.\s*(\d{4})$", r", \1", re.sub(r"\s+", " ", mt.group(1)).strip(" \"”[]"))
     m = re.search(r"S\.\s*R\.\s*O\.?\s*(?:No\.?\s*)?(\d{1,4})\s*\(I\)\s*/\s*(\d{2,4})(?:,?\s*(?:dated|Islamabad,?\s*the)\s*([A-Za-z]+\.?\s+\d{1,2},?\s*\d{4}|\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+,?\s*\d{4}))?", " ".join(preamble))
+    ma = re.search(r"\b(Act|Ordinance)\s+No\.?\s*([IVXLC]+)\s+of\s+(\d{4})", " ".join(preamble), re.I)
+    if ma and not spec.get("number") and spec["type"] in ("act", "ordinance"):
+        spec["number"] = f"{ma.group(1).title()} No. {ma.group(2).upper()} of {ma.group(3)}"
     if m and not spec.get("number"):
         y = m.group(2) if len(m.group(2)) == 4 else ("19" if int(m.group(2)) > 50 else "20") + m.group(2)
         spec["number"] = f"S.R.O. {int(m.group(1))}(I)/{y}"
@@ -422,4 +429,4 @@ for i in a.ids:
     json.dump(act, open(ROOT / "data/acts" / f"{i}.json", "w"), indent=2, ensure_ascii=False)
     add_to_manifest(spec)
     nums = [s["no"] for p in parts for s in p["sections"]]
-    print(f"{i}: {nsec} provisions ({nums[0] if nums else '-'}..{nums[-1] if nums else '-'}), {len(parts)} part(s), book pages {spec['part']}-{spec['from']}..{spec['to']}")
+    print(f"{i}: {nsec} provisions ({nums[0] if nums else '-'}..{nums[-1] if nums else '-'}), {len(parts)} part(s), {('scans ' + str(spec['scanFrom']) + '..' + str(spec['scanTo'])) if spec.get('scanFrom') else 'book pages ' + spec['part'] + '-' + str(spec['from']) + '..' + str(spec['to'])}")

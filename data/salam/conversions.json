@@ -930,6 +930,171 @@
    "fileHint": "Part 2",
    "batch": 3,
    "titleFromText": true
+  },
+  {
+   "id": "securities-exchange-rules-1971",
+   "title": "Securities and Exchange Rules, 1971",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "SE Rules 1971"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [2]_0001",
+   "scanFrom": 94,
+   "scanTo": 113,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): rule 13 not found; S.R.O. number read from the recital is doubtful. Fix and recheck before publishing."
+  },
+  {
+   "id": "leveraged-markets-pledging-rules-2011",
+   "title": "Securities (Leveraged Markets and Pledging) Rules, 2011",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Leveraged Markets Rules",
+    "Margin Financing Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [2]_0001",
+   "scanFrom": 196,
+   "scanTo": 223,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): rule 26 not found. Fix and recheck before publishing."
+  },
+  {
+   "id": "corporate-rehabilitation-act-2018",
+   "title": "Corporate Rehabilitation Act, 2018",
+   "type": "act",
+   "unit": "Section",
+   "aliases": [
+    "CRA 2018",
+    "Rehabilitation Act"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [2]_0001",
+   "scanFrom": 357,
+   "scanTo": 381,
+   "batch": 4,
+   "titleFromText": true
+  },
+  {
+   "id": "commercial-papers-regulations-2013",
+   "title": "Issue of Commercial Papers Regulations, 2013",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Commercial Paper Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [4[_0001",
+   "scanFrom": 13,
+   "scanTo": 22,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): no provisions recognised (heading style differs). Fix and recheck before publishing."
+  },
+  {
+   "id": "cdc-establishment-regulation-rules-1996",
+   "title": "Central Depository Companies (Establishment and Regulation) Rules, 1996",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "CDC Rules 1996"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 29,
+   "scanTo": 36,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): rule 1 not found; no S.R.O. number read; one leak. Fix and recheck before publishing."
+  },
+  {
+   "id": "commodity-exchange-futures-contracts-rules-2005",
+   "title": "Commodity Exchange and Futures Contracts Rules, 2005",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Commodity Exchange Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 37,
+   "scanTo": 50,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): no provisions recognised (heading style differs). Fix and recheck before publishing."
+  },
+  {
+   "id": "stock-exchanges-demutualization-act-2012",
+   "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012",
+   "type": "act",
+   "unit": "Section",
+   "aliases": [
+    "Demutualization Act",
+    "Stock Exchanges Act 2012"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 51,
+   "scanTo": 69,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): sections 6 and 7 not found; Act number not read. Fix and recheck before publishing."
+  },
+  {
+   "id": "stock-exchanges-demutualization-regulations-2012",
+   "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Demutualization Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 71,
+   "scanTo": 126,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): pages out of order at the end (text of earlier regulations after regulation 41); title misread. Fix and recheck before publishing."
+  },
+  {
+   "id": "nbfc-notified-entities-regulations-2008",
+   "title": "Non-Banking Finance Companies and Notified Entities Regulations, 2008",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "NBFC Regulations 2008",
+    "NBFC and NE Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 166,
+   "scanTo": 432,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): regulations 3-9 and 47-49 not found; very long regulation 2; leaks. Fix and recheck before publishing."
   }
  ]
 }

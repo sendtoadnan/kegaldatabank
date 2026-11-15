@@ -2019,6 +2019,7 @@
     "number": "S.R.O. 1415(I)/2019",
     "type": "regulations",
     "unit": "Regulation",
+    "parent": "corporate-rehabilitation-act-2018",
     "categories": [
       "corporate"
     ],
@@ -2816,6 +2817,31 @@
     "amendedUpToLabel": "20 June 2026",
     "watch": {
       "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "corporate-rehabilitation-act-2018",
+    "title": "Corporate Rehabilitation Act, 2018",
+    "number": "Act No. IX of 2018",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CRA 2018",
+      "Rehabilitation Act"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, Act No. IX of 2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
       "manual": true
     }
   }
