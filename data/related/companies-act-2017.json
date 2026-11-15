@@ -549,10 +549,12 @@
    "secpPage": "regulations",
    "basis": "Made under section 169(1) read with sections 63, 64, 65, 68 and 69 of the Securities Act, 2015 (recital), not under this Act. They set the licensing, eligibility and duties of share registrars, which section 195 leaves to be specified.",
    "confirm": [
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)",
     "whether the Commission treats them as specifying the matters in section 195",
     "whether any amendment was issued (S.R.O. 261(I)/2021 seen only as a draft)"
    ],
-   "url": "https://www.secp.gov.pk/document/sro-16i2017-share-registrars-and-balloters-regulations-2017/"
+   "url": "https://www.secp.gov.pk/document/sro-16i2017-share-registrars-and-balloters-regulations-2017/",
+   "library": "share-registrars-balloters-regulations-2017"
   },
   {
    "title": "Companies (Court) Rules, 1997",
@@ -663,14 +665,16 @@
    "secpPage": "regulations",
    "basis": "Likely made under section 249 (duties of auditor); SECP also lists an amending notification, S.R.O. 269(I)/2020.",
    "confirm": [
+    "the text against SECP's or the Gazette copy (converted from a printed consolidated edition)",
     "the enabling sections, from the recital",
     "latest amended edition after S.R.O. 269(I)/2020"
    ],
    "url": "https://www.secp.gov.pk/document/sro-558-i-2018-notification-to-auditors-reporting-obligations-regulations-2018/",
    "found": {
-    "date": "2026-10-04",
-    "how": "search-index"
-   }
+    "date": "2026-11-15",
+    "how": "instrument"
+   },
+   "library": "auditors-reporting-obligations-regulations-2018"
   },
   {
    "title": "Companies (Mediation and Conciliation) Regulations, 2018",

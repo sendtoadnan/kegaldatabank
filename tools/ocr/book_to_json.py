@@ -40,12 +40,14 @@ def book_pages(part, lo, hi):
         if m and lo <= int(m.group(1)) <= hi: out.append(((int(m.group(1)), int(m.group(2) or 0)), pg))
     return [pg for _, pg in sorted(out)]
 
-def scans_for(part, lo, hi):
+def scans_for(part, lo, hi, hint=None):
     """Scan pages to read, in order: every scan from the first to the last mapped page of the range
     (unnumbered pages in between included), the unnumbered title page just before, and only the
     newest copy of a page that was scanned twice."""
     pages = book_pages(part, lo, hi)
-    chosen = {pg: pick(PM[pg]) for pg in pages}
+    if hint:
+        pages = [pg for pg in pages if any(hint in l["file"] for l in PM[pg])]
+    chosen = {pg: pick([l for l in PM[pg] if not hint or hint in l["file"]]) for pg in pages}
     skip = {(l["file"], l["scan"]) for pg in pages for l in PM[pg] if l is not chosen[pg]}
     mapped = {(l["file"], l["scan"]) for locs in PM.values() for l in locs}
     by_file = {}
@@ -173,6 +175,7 @@ def clean_page(rows, short_names):
         if top and (HEAD_WORDS.search(t) or re.fullmatch(r"(S|R|Reg|Rr|Ss)\.?\s*[\d\- ,A-Z]+|\d{1,3}", t.strip()) or re.sub(r"[^a-z]", "", t.lower()) in short_names and len(t) < 90):
             continue
         top = False
+        if re.search(r"Compan(y|ies) Law (&|and) Procedures|Pt\. [IVX]+, Rules", t): continue   # publisher's running heads
         if FOOT.search(t) or re.match(r"^[A-ZПШIl1|]{1,4}\s*[-–]\s*\d{1,4}(\(\d+\))?\s+(Pt\.|Part|Company)", t): continue
         # footnotes: smaller type, starting with a note number
         if r["h"] < body_h * 0.82 and (re.match(r"^\W?\d{1,2}\s?[A-Z]", t) or keep and keep[-1].get("foot")):
@@ -198,6 +201,8 @@ def drop_footnotes(lines):
             page = l["page"]
             mode = "body"   # footnotes continue at the foot of the next page, never at its top
         t = l["text"]
+        if mode == "body" and re.search(r"Before (substitution|omission|deletion|amendment).{0,60}read as", t, re.I):
+            mode = "quote"; DROPPED.append(("Q+", l)); continue
         if mode == "body" and (FN.match(t) or FN2.match(t)):
             mode = "fn"
         if mode == "fn" and QUOTE_START.search(t):
@@ -214,16 +219,16 @@ def drop_footnotes(lines):
     return out
 
 def strip_markers(t):
-    t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*-\s*\d{1,2}\s*-\s*\d{1,2}\s*-\s*\d{2,4}\b", " ", t)
+    t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*[-.]\s*\d{1,2}\s*[-.]\s*\d{1,2}(?:[\s\-.:]*\d{1,4}(?::\d)?)?\b", " ", t)
     t = re.sub(r"(?<![\w(])[0-9¹²³*°•']{1,2}\s?(?=\[)", "", t)       # note number before an amendment bracket
     t = re.sub(r"(?<=\s)[a-z](?=\[[a-z])", "", t)                     # note number misread as a letter: "a[six months]"
     return re.sub(r"\s+", " ", t).strip()
 
 LABEL = re.compile(r"^(\(\s*(?:[a-z]{1,2}|[ivxlc]{1,6}|\d{1,3}[a-zA-Z]?|[A-Z])\s*\)|Explanation|Provided|\d{1,3}[A-Z]?\.\s)")
-PROV = re.compile(r"^[\"“]?(\d{1,3}[A-Z]{0,2})[.,]\s*([A-Z\[][^\n]{1,200}?)\s*(?:[.:]\s*[-–—_]+|\.(?=\s*\(\d)|\.(?=\s*\d?\[?\(1\)))\s*(.*)$")
+PROV = re.compile(r"^[\"“\[]?(\d{1,3}[A-Z]{0,2})[.,]\s*([A-Z\[][^\n]{1,200}?)\s*(?:[.,:]\s*[-–—_]+|(?<=[a-z])[-–—](?=\s*(?:\(1\)|$))|\.(?=\s*\(\d)|\.(?=\s*\d?\[?\(1\)))\s*(.*)$")
 
 def convert(spec):
-    scans, pages = scans_for(spec["part"], spec["from"], spec["to"])
+    scans, pages = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
     if not scans: raise SystemExit(f"{spec['id']}: no book pages found")
     where = {(l["file"], l["scan"]): pg for pg in pages for l in PM[pg]}
     got = []
@@ -248,17 +253,26 @@ def convert(spec):
     pos, prev = [], None
     for l in lines:
         pos.append(0 if l["page"] != prev else pos[-1] + 1); prev = l["page"]
-    stop = spec.get("stopAt", r"^([A-Za-z]{1,5}\.?[\s-]*)?(FORMS?|Forms?|ANNEXURES?|Annexures?|SCHEDULES?|Schedules?)\b[\s\-–—.:]*([A-Z0-9IVX]{1,5}[A-Z0-9\-]{0,4})?\.?$")
+    stop = spec.get("stopAt", r"^([A-Za-z]{1,5}\.?[\s-]*)?(FORMS?|Forms?|ANNEXURES?|Annexures?|SCHEDULES?|Schedules?|APPENDI(?:X|CES)|Appendi(?:x|ces))(?:[A-Z]\b|\b)[\s\-–—.:]*([A-Z0-9IVX]{1,5}[A-Z0-9\-]{0,4})?\.?$")
     end = next((i for i, l in enumerate(lines) if re.search(stop, l["text"].strip()) and len(l["text"]) < 40 and (pos[i] <= 3 or l["x"] > 0.2)), len(lines))
     first_prov = next((i for i, l in enumerate(lines) if re.match(r"^1[.,]\s*[A-Z]", l["text"])), 0)
     for i, l in enumerate(lines[:end]):
-        if i > first_prov and pos[i] <= 6 and re.match(r"^[\[(]?\s*See\s+(regulation|rule|section|sub-regulation)", l["text"], re.I):
+        if i > first_prov and pos[i] <= 6 and (re.match(r"^[\[(]?\s*See\s+(regulation|rule|section|sub-regulation)", l["text"], re.I)
+                                               or re.match(r"^(Notification No\.\s*)?S\.?\s*R\.?\s*O\.?\s*\d{1,4}\s*\(I\).{0,30}dated", l["text"])):
             end = i - pos[i]; break
     lines = lines[:end]
     # paragraphs
-    paras = []
+    paras, last_no = [], 0
+    fixes = spec.get("headingFixes", {})   # {"line start as read": "as printed"}, each confirmed against the scan
     for l in lines:
-        t = l["text"]
+        t = re.sub(r"^[Il|](?=\d[.,]\s*[A-Z])", "1", l["text"])
+        t = re.sub(r"^[0-9¹²³*']{0,2}\[(?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "[", t)   # "2[19. Mode of payment.-" (substituted provision)
+        for old, new in fixes.items():
+            if t.startswith(old): t = new + t[len(old):]
+        l["text"] = t
+        mnum = re.match(r"^[\"“\[]?(\d{1,3})[.,]\s*[A-Z]", t)
+        if mnum and last_no < int(mnum.group(1)) <= last_no + 3:
+            last_no = int(mnum.group(1)); paras.append({"page": l["page"], "text": t}); continue
         ends = not paras or re.search(r"([.:;\-–—\]\"”)]|\band|\bor)\s*$", paras[-1]["text"].rstrip()) or paras[-1]["text"].isupper()
         new = (not paras or PROV.match(t) or re.match(r"^[\"“]?\d{1,3}[A-Z]{0,2}[.,]\s*[A-Z]", t) and ends or t.isupper() and len(t) > 12 or LABEL.match(t) and ends or re.match(r"^(CHAPTER|PART)\b", t)
                or l["x"] > 0.035 and ends)
@@ -311,7 +325,7 @@ def add_to_manifest(spec):
 for i in a.ids:
     spec = SPEC[i]
     if a.pages_only:
-        sc, pgs = scans_for(spec["part"], spec["from"], spec["to"])
+        sc, pgs = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
         where = {(l["file"], l["scan"]): pg for pg in pgs for l in PM[pg]}
         out = ROOT / "data/salam/pages"; out.mkdir(exist_ok=True)
         json.dump({"id": i, "scans": [{"file": f, "scan": k, "bookPage": where.get((f, k))} for f, k in sc]}, open(out / f"{i}.json", "w"), indent=1)
@@ -336,6 +350,7 @@ for i in a.ids:
         **({"enacted": spec["enacted"]} if spec.get("enacted") else {}),
         "lastAmended": spec["amendedUpTo"], "amendedUpToLabel": spec["amendedUpToLabel"],
         "status": spec.get("status", "in-force"),
+        **({"caution": spec["caution"]} if spec.get("caution") else {}),
         "source": {"name": spec.get("sourceName", f"Gazette of Pakistan, {spec.get('number', '')}".strip(", ")), "url": spec.get("sourceUrl", "https://www.secp.gov.pk")},
         "verification": {"status": "unverified", "note": f"Text converted from a printed consolidated edition updated to {spec['amendedUpToLabel']} and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."},
         "preamble": " ".join(preamble),

@@ -17,7 +17,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 1025,
-   "to": 1032
+   "to": 1032,
+   "fileHint": "Part 2"
   },
   {
    "id": "listed-companies-buy-back-regulations-2019",
@@ -33,7 +34,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 953,
-   "to": 974
+   "to": 974,
+   "fileHint": "Part 2"
   },
   {
    "id": "employees-contributory-funds-investment-regulations-2018",
@@ -49,7 +51,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 759,
-   "to": 764
+   "to": 764,
+   "fileHint": "Part 2"
   },
   {
    "id": "public-sector-companies-cg-rules-2013",
@@ -65,7 +68,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 117,
-   "to": 138
+   "to": 138,
+   "fileHint": "Part 2"
   },
   {
    "id": "companies-registration-offices-regulations-2018",
@@ -81,7 +85,8 @@
    "part": "III",
    "from": 649,
    "to": 670,
-   "hold": "Most regulations repealed by S.R.O. 210(I)/2024; the book prints the old text in footnotes. Convert only after checking which regulations remain."
+   "hold": "Most regulations repealed by S.R.O. 210(I)/2024; the book prints the old text in footnotes. Convert only after checking which regulations remain.",
+   "fileHint": "Part 2"
   },
   {
    "id": "foreign-companies-regulations-2018",
@@ -96,7 +101,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 863,
-   "to": 888
+   "to": 888,
+   "fileHint": "Part 2"
   },
   {
    "id": "companies-independent-directors-regulations-2018",
@@ -112,7 +118,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 687,
-   "to": 690
+   "to": 690,
+   "fileHint": "Part 2"
   },
   {
    "id": "companies-easy-exit-regulations-2014",
@@ -127,7 +134,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 139,
-   "to": 146
+   "to": 146,
+   "fileHint": "Part 2"
   },
   {
    "id": "companies-mediation-conciliation-regulations-2018",
@@ -142,7 +150,8 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 671,
-   "to": 678
+   "to": 678,
+   "fileHint": "Part 2"
   },
   {
    "id": "corporate-rehabilitation-regulations-2019",
@@ -156,7 +165,194 @@
    "amendedUpToLabel": "20 June 2026",
    "part": "III",
    "from": 1033,
-   "to": 1042
+   "to": 1042,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "share-registrars-balloters-regulations-2017",
+   "title": "Share Registrars and Balloters Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Share Registrars Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 383,
+   "to": 392,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 16(I)/2017",
+   "enacted": "2017-01-11"
+  },
+  {
+   "id": "auditors-reporting-obligations-regulations-2018",
+   "title": "Auditors (Reporting Obligations) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Auditors Reporting Obligations Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 691,
+   "to": 726,
+   "batch": 2,
+   "parent": "companies-act-2017",
+   "fileHint": "Part 2",
+   "number": "S.R.O. 558(I)/2018",
+   "enacted": "2018-04-26"
+  },
+  {
+   "id": "listed-companies-takeovers-regulations-2017",
+   "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Takeover Regulations 2017",
+    "Takeovers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 529,
+   "to": 560,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 749(I)/2017",
+   "enacted": "2017-08-01"
+  },
+  {
+   "id": "sukuk-privately-placed-regulations-2017",
+   "title": "Sukuk (Privately Placed) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Sukuk Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 147,
+   "to": 156,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 836(I)/2017",
+   "enacted": "2017-08-21"
+  },
+  {
+   "id": "companies-deposit-rules-1987",
+   "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Deposit Rules 1987"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 5,
+   "to": 12,
+   "batch": 2,
+   "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+   "fileHint": "Part 2",
+   "number": "S.R.O. 778(I)/1987",
+   "enacted": "1987-09-26"
+  },
+  {
+   "id": "companies-legal-adviser-rules-1975",
+   "title": "Companies (Appointment of Legal Adviser) Rules, 1975",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Legal Adviser Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1,
+   "to": 4,
+   "batch": 2,
+   "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+   "fileHint": "Part 2",
+   "number": "S.R.O. 373(I)/1975",
+   "enacted": "1975-04-02"
+  },
+  {
+   "id": "companies-management-by-administrator-rules-1993",
+   "title": "Companies (Management by Administrator) Rules, 1993",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Management by Administrator Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 13,
+   "to": 20,
+   "batch": 2,
+   "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+   "fileHint": "Part 2",
+   "number": "S.R.O. 1083(I)/1993",
+   "enacted": "1993-11-08"
+  },
+  {
+   "id": "opportunity-of-hearing-regulations-2016",
+   "title": "Opportunity of Hearing Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "SECP Opportunity of Hearing Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 269,
+   "to": 272,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 315(I)/2016",
+   "enacted": "2016-04-06",
+   "headingFixes": {
+    "Notice Period.": "7. Notice Period.-"
+   }
+  },
+  {
+   "id": "voluntary-winding-up-obligations-regulations-2016",
+   "title": "Obligations under Voluntary Winding-up Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Voluntary Winding-up Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 273,
+   "to": 278,
+   "batch": 2,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "convertible-debt-right-offer-regulations-2022",
+   "title": "Issuance of Convertible Debt Securities through Right Offer Regulations, 2022",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Convertible Debt Securities Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1143,
+   "to": 1150,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 1767(I)/2022",
+   "enacted": "2022-09-21"
   }
  ]
 }
