@@ -2718,5 +2718,105 @@
       "page": "https://www.secp.gov.pk/laws/regulations/",
       "manual": true
     }
+  },
+  {
+    "id": "joint-inspection-regulations-2015",
+    "title": "Joint Inspection Regulations, 2015",
+    "number": "S.R.O. 1020(I)/2015",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Joint Inspection Regulations"
+    ],
+    "enacted": "2015-10-15",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1020(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "securities-managers-regulations-2024",
+    "title": "Securities Managers (Licensing and Operations) Regulations, 2024",
+    "number": "S.R.O. 1805(I)/2024",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Securities Managers Regulations"
+    ],
+    "enacted": "2024-11-06",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1805(I)/2024",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "professional-clearing-members-regulations-2020",
+    "title": "Professional Clearing Members Regulations, 2020",
+    "number": "S.R.O. 913(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Professional Clearing Members Regulations"
+    ],
+    "enacted": "2020-09-23",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 913(I)/2020",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "research-analyst-regulations-2015",
+    "title": "Research Analyst Regulations, 2015",
+    "number": "S.R.O. 709(I)/2015",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Research Analyst Regulations"
+    ],
+    "enacted": "2015-07-27",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 709(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
   }
 ]

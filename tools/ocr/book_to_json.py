@@ -169,6 +169,9 @@ def clean_page(rows, short_names):
     keep, top = [], True
     for i, r in enumerate(rows):
         t = r["text"]
+        # the vertical page code in the margin ("E2 13-05-11-2015") lands in front of the line beside it
+        t2 = re.sub(r"^\W*(?:[EB]2\s*\d{0,3}\s*[-.]?\s*)?\d{1,2}\s*-\s*\d{1,2}\s*-\s*\d{2,4}\s+(?=\S)", "", t)
+        if t2 != t: t = t2; r["text"] = t2
         if top and len(t.strip()) < 3: continue
         if top and len(t) < 70 and re.search(r"\b(Regs?|Rules|Regulations|Ord|Act)\.?,?\s*(19|20)\d\d\.?$", t) and not re.match(r"^\W*\d{1,3}[.,]", t): continue
         t = re.sub(r"^[\W_]+(?=[A-ZПШIl1|]{1,4}\s*[-–]\s*\d)", "", t)
@@ -220,6 +223,9 @@ def drop_footnotes(lines):
     return out
 
 def strip_markers(t):
+    t = re.sub(r"\s*\W?(?:Inserted|Substituted|Omitted|Deleted|Added)\s+by\s+S\.?\s?R\.?\s?O\.?\s*[\dIlD()/\[\] ]+dated\s+[A-Za-z]+\.?\s+\d{1,2},?\s*\d{4}\.?", " ", t)   # unnumbered footnote on a body line
+    # the margin's page date code dropped into the middle of a line: "(III of 15-10-2020 2015)"
+    t = re.sub(r"(?<!dated)(?<!\bon)(?<!from)(?<!till)(?<!\bto)(?<!before)(?<!after)(?<!\bby)\s(?:[EB]2\s*)?\d{1,2}-\d{1,2}-\d{2,4}(?=\s|$)", "", t)
     # a footnote that landed on a body line: "… 25-04-2024 1Clauses (e) to (g) inserted by SRO 742(I)/2023 dated June 15, 2023."
     t = re.sub(r"\s*(?:\d{2}-\d{2}-\d{4}\s*)?\d{1,2}[A-Z][A-Za-z0-9()&,.\- ]{0,60}?\b(?:inserted|substituted|deleted|omitted|added)\s+by\s+S\.?\s?R\.?\s?O\.?\s*[\dIl()/\[\] ]+(?:dated\s+[A-Za-z]+\.?\s+\d{1,2},?\s*\d{4})?\.?", " ", t)
     t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*[-.]\s*\d{1,2}\s*[-.](?!\s*\d)", " ", t)
@@ -265,7 +271,7 @@ def convert(spec):
     pos, prev = [], None
     for l in lines:
         pos.append(0 if l["page"] != prev else pos[-1] + 1); prev = l["page"]
-    stop = spec.get("stopAt", r"^([A-Za-z]{1,5}\.?[\s-]*)?(FORMS?|Forms?|ANNEXURES?|Annexures?|SCHEDULES?|Schedules?|APPENDI(?:X|CES)|Appendi(?:x|ces))(?:[A-Z]\b|\b)[\s\-–—.:]*([A-Z0-9IVX]{1,5}[A-Z0-9\-]{0,4})?\.?$")
+    stop = spec.get("stopAt", r"^[\W\d]{0,4}([A-Za-z]{1,5}\.?[\s-]*)?(FORMS?|Forms?|ANNEXURES?|Annexures?|SCHEDULES?|Schedules?|APPENDI(?:X|CES)|Appendi(?:x|ces))(?:[A-Z]\b|\b)[\s\-–—.:]*([A-Z0-9IVX]{1,5}[A-Z0-9\-]{0,4})?\.?$")
     end = next((i for i, l in enumerate(lines) if re.search(stop, l["text"].strip()) and len(l["text"]) < 40 and (pos[i] <= 3 or l["x"] > 0.2)), len(lines))
     first_prov = next((i for i, l in enumerate(lines) if re.match(r"^1[.,]\s*[A-Z]", l["text"])), 0)
     for i, l in enumerate(lines[:end]):
@@ -274,6 +280,12 @@ def convert(spec):
             end = i - pos[i]; break
     lines = lines[:end]
     # paragraphs
+    merged, k = [], 0
+    while k < len(lines):
+        if re.fullmatch(r"\W{0,2}\d{1,3}[A-Z]?[.,]", lines[k]["text"].strip()) and k + 1 < len(lines) and re.match(r"^[A-Z]", lines[k + 1]["text"]):
+            lines[k + 1]["text"] = lines[k]["text"].strip() + " " + lines[k + 1]["text"]; k += 1; continue
+        merged.append(lines[k]); k += 1
+    lines = merged
     paras, last_no = [], 0
     fixes = spec.get("headingFixes", {})   # {"line start as read": "as printed"}, each confirmed against the scan
     for l in lines:
@@ -297,9 +309,12 @@ def convert(spec):
             h = re.sub(r"\b([IVXL]+)\b", lambda m: m.group(1).upper(), t.title()) if t.isupper() else t
             cur = {"heading": re.sub(r"\b(Ii|Iii|Iv|Vi|Vii|Viii|Ix|Xi|Xii)\b", lambda m: m.group(1).upper(), h), "sections": []}; parts.append(cur); continue
         m = PROV.match(t)
-        if not m and sec is not None:
+        if not m:
             m2 = PROV2.match(t)
-            if m2 and _expected(sec["no"], m2.group(1)) and len(m2.group(2).split()) <= 14: m = m2
+            if m2 and len(m2.group(2).split()) <= 14 and not re.match(r"(Where|If|In case|Subject to|Notwithstanding|Provided|Any person who|No person shall)\b", m2.group(2)) and (sec is not None and _expected(sec["no"], m2.group(1)) or sec is None and m2.group(1) == "1"): m = m2
+        if not m and sec is not None and spec.get("untitledProvisions"):
+            m3 = re.match(r"^[\"“\[]?(\d{1,3}[A-Z]?)[.,]\s+()([A-Z].{40,})$", t)
+            if m3 and _expected(sec["no"], m3.group(1)): m = m3
         no = m.group(1) if m else None
         if m and sec is not None and not _next(sec["no"], no) and len(no) >= 2 and no[1:].isdigit() and _next(sec["no"], no[1:]):
             no = no[1:]                      # a note marker glued to the number: "17. Requirements" is 7

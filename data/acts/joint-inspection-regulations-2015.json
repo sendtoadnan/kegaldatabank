@@ -1,0 +1,401 @@
+{
+  "id": "joint-inspection-regulations-2015",
+  "title": "Joint Inspection Regulations, 2015",
+  "number": "S.R.O. 1020(I)/2015",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Joint Inspection Regulations"
+  ],
+  "enacted": "2015-10-15",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 1020(I)/2015",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 1020(I)/2015 dated October 15, 2015.- In exercise of the powers conferred under clause (ii) of sub-section (2) of section 169 of Securities Act, 2015 (Act No. III of 2015), the Securities and Exchange Commission of Pakistan hereby makes the following regulations, the same being previously published in the Official Gazette Vide S.R.O. 889/2015 dated September 01, 2015 and also placed on its website as required sub section (4) of the said Act, namely:- Chapter I Preliminary",
+  "parts": [
+    {
+      "heading": "Regulations",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title, commencement",
+          "text": [
+            "(1) These Regulations shall be called the Joint Inspection Regulations, 2015.",
+            "(2) They shall come into force at once.",
+            "(3) They shall apply to:",
+            ">(i) the Securities Brokers of all Securities exchanges in Pakistan;",
+            ">(ii) the Broker Participants;",
+            ">(iii) the Broker Clearing Members of NCCPL;",
+            ">(iv) the employees, officers, directors and management of Securities Brokers of the Securities exchanges, Broker Participants and Broker Clearing Members of NCCPL;",
+            ">(v) the members of Oversight Committee;",
+            ">(vi) the members of the Inspection Team including manager and supervisor;",
+            "and",
+            ">(vil) the employees of the SROs, as the case may be, who perform the enforcement related activities under respective regulatory framework."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these Regulations unless there is anything repugnant in the subject or context,-",
+            ">(a) \"Act\" means the Securities Act, 2015 (Act No. III of 2015);",
+            ">(b) \"Articles\" means the Articles of Association of the SROs;",
+            ">(c) \"Branch office\" means an office, or branch thereof, opened and",
+            "maintained by a Securities Broker within or outside the premises of a securities exchange for conducting the business and trading of securities;",
+            ">(d) \"Broker Clearing Member\" (BCM) shall have the same meaning as assigned to it in the NCCPL Regulations 2003;",
+            ">(e) \"CDC Act\" means Central Depositories Act, 1997;",
+            ">(f) \"CDS\" means the Central Depository Systems established and operated by the Central Depository;",
+            ">(g) \"Central Depository\" shall have the same meaning as assigned to it under clause (vi) of section 2 of the Securities Act, 2015;",
+            ">(h) \"Central Depository Regulations\" means Central Depositary Company of Pakistan Limited Regulations for the time being in force;",
+            ">(i) \"Commission\" means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+            ">(i) \"CRO\" means Chief Regulatory Officer of the Securities exchange;",
+            ">(k) \"Days\" wherever used means calendar days;",
+            "(1) \"Demutualization Act\" means the Stock Exchanges (Corporatization, Demutualization and Integration) Act, 2012;",
+            ">(m) \"House Account\" means the house account as defined and prescribed under the Regulations of Central Depository as amended from time to time;",
+            ">(n) \"Joint Inspection\" means inspection of Securities Brokers carried out-",
+            "/ under these regulations;",
+            "(0) \"Inspection Team\" means Inspection Team constituted by the Committee under these regulations;",
+            ">(p) \"Inspection Report\" means the Inspection Report submitted by the Oversight Committee under these Regulations;",
+            ">(q) \"ISE\" means Islamabad Stock Exchange Limited;",
+            ">(r) \"KSE\" means Karachi Stock Exchange Limited;",
+            ">(s) \"LSE\" means Lahore Stock Exchange Limited;",
+            ">(t) \"NCSS\" means the National Clearing and Settlement System of the NCCPL established and operated by NCCPL under NCCPL Regulations and NCSS Procedure made thereunder;",
+            ">(u) \"NCCPL\" means National Clearing Company of Pakistan Limited;",
+            ">(v) \"NCCPL Regulations\" means the National Clearing Company of Pakistan Limited Regulations, 2003;",
+            ">(w) \"Non-Broker Clearing Member\" shall have the same meaning as ascribed thereto in the NCCPL Regulations;",
+            ">(x) \"Ordinance\" means Securities and Exchange Ordinance, 1969;",
+            ">(y) \"Oversight Committee\" means a Committee constituted under these regulations;",
+            ">(z) \"participant\" shall have the same meaning as is assigned to it in clause (17) of section 2 of the Central Depositories Act, 1997 (XIX of 1997);",
+            ">(aa) \"Regulations\" means Joint Inspection Regulations, 2015;",
+            ">(bb) \"Regulations of the Securities exchange\" means and include regulations made by the Securities exchanges and approved by the Commission under Section 34 of the Ordinance and Section 169 of the Securities Act, 2015;",
+            ">(cc) \"SECP Act\" mean Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+            ">(dd) \"SECP Rules\" means the Securities and Exchange Rules, 1971;",
+            ">(ee) \"Secretary\" means secretary of the Oversight Committee;",
+            ">(ff) \"SRO\" means Self-Regulatory Organizations and includes all Securities exchanges, Central Depository and NCCPL;",
+            ">(gg) \"Sub-Account\" means a sub-account as defined under the Central Depository Regulations, as amended from time to time; and",
+            ">(hh) \"Team Member\" means member of Inspection Team as defined under these regulations.",
+            "(2) All words and expressions used but not defined in these Regulations shall, have the same meaning as assigned to them in the Act, SECP Act, the Ordinance, the Companies Ordinance, 1984 and the CDC Act or any rules and regulations made thereunder.",
+            "THE PROCEDURE FOR JOINT INSPECTION"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter II",
+      "sections": [
+        {
+          "no": "3",
+          "title": "Joint inspection of Securities broker",
+          "text": [
+            "(1) The Joint Inspection will be carried out by joint inspection team of SROs as per the requirements of these regulations;",
+            "(2) The Oversight Committee may order Inspection of books and record required to be maintained by a Securities broker of Securities exchange under respective rules and regulations.",
+            "(3) All Securities brokers of the Securities exchanges shall be liable for Inspection under these Regulations. For the purpose of this clause, the selection criteria shall be assessed by the Oversight Committee at the start of each quarter."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Process for issuance of inspection order",
+          "text": [
+            "(1) The Oversight Committee shall determine the total number of Securities brokers for Inspection at the start of the each quarter on the basis of available information and details using risk based approach as per the requirement of this regulations.;",
+            "(2) The Oversight Committee may assign risk based rankings to Securities brokers by giving appropriate weightage to the factors including but not limited to the following at the start of each quarter:",
+            ">(a) net Capital Balance of Securities broker;",
+            ">(b) number of UINs registered with the Securities broker;",
+            ">(c) assets under Custody of the Securities broker;",
+            ">(d) volume of trades in terms of quantity and amount;",
+            ">(e) number of erroneous transactions carried out/rectified;",
+            ">(f) number of NDM Transactions;",
+            ">(g) number of complaints outstanding against the Securities brokers;",
+            ">(h) history of Non-compliances or irregularities identified during last system audit, Central Depository inspection or inspection carried out by the Commission;",
+            ">(i) financial statements analyses of Securities brokers;",
+            ">(j) any news in electronic or print media; and",
+            ">(k) any other factor which could impact investors' rights and functioning of the securities market.",
+            "(3) The cumulative weight should be used to assign risk based ranking and Oversight Committee shall use the latest available data for this purpose and the process shall be repeated at the start of each quarter.",
+            "(4) On the basis of above categorization, Securities brokers with the highest risk rankings shall be selected by the Oversight Committee for Inspection at the start of each quarter;",
+            "(5) The decision of the Oversight Committee regarding selection of securities broker shall be binding on the respective Securities brokers.",
+            "(6) The Securities brokers selected for joint inspection shall be exclude from the forthcoming balloting Cycle of system audit of respective securities exchange in which the said securities broker was required to be considered for selection and the same broker will also be excluded from the forthcoming inspection of CDC.",
+            "(7) The Securities brokers selected by Oversight Committee for inspection and data and basis used including related workings for its selection shall be communicated to the Commission by the Oversight Committee on immediate basis."
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Inspection notice",
+          "text": [
+            "(1) The Oversight Committee shall give a fifteen days prior notice to the Securities broker selected for the purpose of Inspection as per the format attached herewith as Appendix-l:",
+            "Provided that not more than seventy five per cent (75%) of the total number of Securities Brokers selected under regulation 4(1) may be given prior notice and the decision, whether or not to serve the notice, shall be made by the Oversight Committee considering the risk based rankings assigned to Securities Brokers under regulation 4(2) of the regulations and in all cases, Inspections of at least twenty five (25%) of the Securities Brokers will be conducted without prior notice. The Oversight Committee shall record in writing reasons and basis of such decision and report the same to the Commission.",
+            "(2) The Oversight Committee shall appoint two or more officials of SROs as Inspectors to inspect the books and record of the Securities brokers. The inspection team shall at least include one official from central depository.",
+            "(3) The Inspection request communication shall be issued by the inspector which may at least include the minimum list of documents/information/details as specified in Appendix-II or may include a comprehensive list of documents that are required to be made available by the selected Securities broker at the start of the Inspection. The selected Securities brokers shall be liable to ensure the availability of the documents on the date of commencement of Inspection as notified.",
+            "(4) Such Securities brokers shall provide required access to the information and documents needed by the inspector for the Inspection and cooperate with the inspector for timely and smooth completion of the Inspection."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Scope of Inspection",
+          "text": [
+            "(1) The Inspection Team shall carry out the Inspection to ensure compliance with the requirements of the Act, the Ordinance, the Securities and Exchange Rules, 1971, the Code of Conduct for Brokers as enshrined in the Third Schedule of the Brokers and Agents Registration Rules, 2001, Rule Book of KSE, Regulations of LSE and ISE (whichever is applicable), Regulations of Central Depository and NCCPL, Central Depository Act, Demutualization Act, Securities and Exchange Commission of Pakistan Act, 1997 and any other relevant rules/regulations of the Commission, and directives/ circulars/ guidelines issued by the Commission / Securities exchange / Centrai Depository / NCCPL: rovided that the scope of Inspection shall at least include the minimum tivities as specified in Appendix IIl or as may be prescribed by the Commission from time to time under the Act."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Inspection Period",
+          "text": [
+            "The Inspection period shall be at least one year which may be most latest financial year or calendar year at the time of issuance of Inspection Notice:",
+            "Provided that the inspection period may be more or less than one year if considered expedient by the Oversight Committee."
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Team Mix",
+          "text": [
+            "(1) The Inspection shall be carried out by the Inspection Team comprising of members from SROs. The Manager and/or Supervisor of the Inspection Team shall be from respective securities exchange. The Managers and Supervisor of the inspection team shall be from the securities exchange where the respective broker has most actively carried out business in the review period.",
+            "(2) Illustration of Team Mix:",
+            "S# Broker Type Joint Inspection Teams 2 Securities broker of LSE LSE +, Central Depository + NCCPL"
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Inspection Procedures",
+          "text": [
+            "(1) The Inspection Teams shall carry out the inspection in accordance with the scope defined in these Regulations and submit its Report as per the format specified in Appendix V to the Oversight Committee within 75 days from their appointment including the views, counter views and comments of the Securities brokers as well as Inspection Team. The Oversight Committee shall forward to the Commission as well as to respective SRO copies of the Inspection Reports along with comments of Oversight Committee, if any, on the discrepancies/observations, within 30 days of receipt of the Reports from the Inspection Teams. The Oversight Committee shall also forward its adjudication recommendation note to. respective SRO on each observations/non-compliances identified by the inspection team in their inspection report. For the purpose of clarity respective SRO means and include SRO(s) whose rules or regulations have been violated by the inspected Securities brokers as identified by the inspection team in their inspection report:",
+            "Provided, that, if the Report highlights any material non-compliance by the Securities broker, the Oversight Committee shall forward such Report to the Commission immediately. The Oversight Committee shall exercise judgment in determining the severity of noncompliance in the context of protecting the interest of the Investors and reputation of the Securities exchange and capital market.",
+            "(2) The Inspection Team shall ensure that the Securities broker has rectified non-compliances identified in the previous Report and specify the areas along with the reasons where the Securities broker has not been able to rectify the non-compliance(s), if any.",
+            "(3) The Inspection Team shall ensure that the Inspection is carried out in a fair, just, efficient and transparent manner."
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Human Resource Requirement for Inspection",
+          "text": [
+            "(1) The Oversight Committee shall determine number of Inspection staff, their qualifications, education and/or experience level required from each SRO.",
+            "(2) The Inspection staff required to carry out Inspection under thcse å regulations shall include staff of different level including manager, supervisor and field staff.",
+            "(3) The Oversight Committee shall coordinate and liaise with respective SRO to ensure timely availability of required number of Inspection staff for smoothly conducting the Inspection under these regulations.",
+            "(4) Manager and supervisor level staff shall be from Securities exchange.",
+            "(5) An Inspection Team may comprise of two or more members or as may be determined by the Oversight Committee and at least one member of the inspection team should be from Central Depository.",
+            "(6) Staff engaged in conducting Inspection under these regulations shall be an employee of SRO and shall be engaged in conducting Inspection under these regulations as determined by the Oversight Committee from time to time considering materiality and confidentiality factors.",
+            "(7) All SROs shall ensure to provide required number of respective staff as determined by the Oversight Committee from time to time."
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Availability of work place for Inspection",
+          "text": [
+            "(1) The Oversight Committee shall determine the work place to carry out the inspection and its related works and ensure availability of necessary logistic support required from respective SRO.",
+            "(2) The Oversight Committee shall coordinate and liaise with respective SRO to ensure timely availability of required work place, and necessary logistic support referred in 11(1) above for smoothly conducting the Inspection under these regulations.",
+            "(3) The Securities Exchange shall ensure to provide sufficient work place including maintenance of central database for joint inspection at its premises.",
+            "(4) The SROs shall ensure to provide necessary logistic support as determined by the Oversight Committee from time to time."
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Inspection planning",
+          "text": [
+            "The manager/supervisor of Inspection Team shall be responsible for planning, execution and completion of Inspection work of the selected Securities brokers within the time as prescribed in these regulations."
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Comments on observations or findings",
+          "text": [
+            "(1) The Inspection Teams shall forward its findings through a letter on the format specified in Appendix IV to the relevant Securities broker within forty five days of commencement of the Inspection.",
+            "(2) The Securities broker shall respond or submit its comments on findings of Inspection Team within fourteen days of receipt of letter of findings."
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Limited Scope Inspection",
+          "text": [
+            "(1) If the Inspection Report forwarded by the Oversight Committee to the Commission and respective SRO contains any non-compliance(s), the Securities broker shall rectify the same immediately and such Securities broker shall be subject to limited scope Inspection in the same / following year to confirm that it has rectified the non-compliances reported by the Inspection Team.",
+            "(2) The period for limited scope Inspection shall not be less than three months from the date of completion of the last Inspection in order to ensure that discrepancies identified in the Report are rectified and the Securities broker has remained compliant during the said period.",
+            "(3) The decision of limited scope Inspection of a non-compliant Securities broker shall be taken by the Oversight Committee. (4) The Oversight Committee may require the Inspection Teams to initiate limited scope Inspection of a Securities broker, and the inspection team will be required to report to the Oversight Committee rectification status within thirty days from the date of initiation of limited scope inspection.",
+            "(5) The Oversight Committee shall issue Inspection notice at least seven days in advance to the concerned Securities broker.",
+            "(6) The Oversight Committee shall provide a copy of such report of limited scope Inspection to the Commission and! or respective SRO within fifteen days of receipt of the Inspection Report from the Inspection Team.",
+            "(7) The limited scope Inspection shall not alter or affect the Securities broker's normal selection process."
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Reporting Templates",
+          "text": [
+            "(1) Inspection Team shall submit their findings through a report as per formats specified in Appendix V which shall include relevant and necessary details of all queries raised during the Inspection including queries resolved together with the details how those queries were resolved.",
+            "(2) The inspection team will be required to use or follow the specified format or templates to document and report their inspection work."
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Fee Structure",
+          "text": [
+            "(1) The SRO engaged in conducting inspection of Securities broker under these regulations shall be entitled to charge Inspection fee as determined by oversight committee from time to time.",
+            "(2) The Oversight Committee shall liaise with respective Securities broker being inspected for payment of inspection fee.",
+            "(3) For collection of inspection fee, the respective Securities exchange shall issue the invoice to respective Securities broker.",
+            "(4) In respect of collection of Inspection fee, a separate bank account shall be opened by each Securities exchange where amount of fee received from the Securities brokers shall be deposited for onward payment of proportionate amount of fee to Central Depository and NCCPL.",
+            "(5) The manner, mechanism and ratio to proportionate the fee between respective SROs shall be determined by the Oversight Committee. The Oversight Committee shall communicate its decision in this regard in writing to the Commission on immediate basis.",
+            "(6) The Securities broker being inspected shall pay/reimburse all the fees, charges and costs of the Auditors/respective SRO. The said fees, charges and charges and costs of the Auditors/respective SRO. The said fees, charges and The said fees, costs shall be deposited with the respective Securities exchange within fifteen days of receipt of invoice by the Securities broker and no separate fee will be charged for limited scope Inspection."
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Special Inspections",
+          "text": [
+            "In addition to the regular Inspections conducted under these Regulations, the Oversight Committee may, at any time, instruct Inspection Teams to inspect a Securities broker with expanded, restricted or different scope or period of Inspection given in these Regulations. The cost of any such inspections, including but not limited to a financial audit and a regulatory compliance Inspection shall be paid by the Securities broker.",
+            "OVERSIGHT COMMITTEE"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter III",
+      "sections": [
+        {
+          "no": "18",
+          "title": "Formation of Oversight Committee",
+          "text": [
+            "(1) The Commission shall constitute an \"Oversight Committee\" comprising of members from each SRO to provide overall supervision and direction for conducting joint inspection and to liaise with the Commission for all joint inspection related matters.",
+            "(2)' Each SRO shall nominate its CRO, Chief Compliance Officer \"CCO\" or the Chief Compliance and Risk Officer \"CCRO\", as the case may be, as their representative on the Committee.",
+            "(3) Each SRO shall also provide the names and designations of the persons that will represent them on the Committee in the absence of the CRO, CCO or the CCRO and such person nominated by the SRO shall have a senior management level of experience in operations, audit, finance or compliance.",
+            "(4) The Commission shall appoint the Chairman of the Oversight Committee from its members who shall hold the office for a period of at least two years from the date of appointment or a shorter period as determined by the Commission.",
+            "(5) The Commission shall also appoint a Secretary of the Committee from any senior officials of the Securities Exchange for a period of two years who shall be responsible for arranging the Committee meetings, preparing and circulating be responsible for arranging the Committee meetings, preparing and circulating the agenda and working papers for the meeting and recording the minutes of the meetings. The Commission may reduce/change the term of appointment of the chairman and/or secretary of the Oversight Committee if the Commission so desire to improve the performance and efficiency of the Oversight Committee or otherwise as the case may be. The Secretary may not be the member of Oversight Committee.",
+            "(6) All the minutes of the meeting and the joint inspection reports shall be kept in safe custody at a dedicated place and the Committee shall be empowered to determine the place where the records and minutes shall be kept. The Commission shall be informed about the place where the Reports and minutes have been kept.",
+            "(7) The quorum for the Committee meeting shall be one member representing any of the three Securities exchanges, one member from NCCPL and one member from Central Depository. However, where any matter relating to joint Inspection of a member of a particular SRO is on the agenda, then presence of the representative of such SRO shall be compulsory.",
+            "(8) The Committee shall meet at least once on a monthly basis provided that the Chairman of the Committee may call more than one meeting on the request of any of the SRO for reasons to be recorded."
+          ]
+        },
+        {
+          "no": "19",
+          "title": "Powers and responsibilities of the oversight committee",
+          "text": [
+            "The Oversight Committee and all its members shall have following responsibilities:",
+            ">(a) Overall supervision of the joint inspection regime;",
+            ">(b) appoint, save as provided in sub-clause 5(2), the inspectors and issue Inspection notice for commencement of Inspection;",
+            ">(c) review the joint scope of Inspection every six month to ensure that it is comprehensive and covers all the critical areas;",
+            ">(d) review and approve the selection criteria for the joint inspection on continuous basis;",
+            ">(e) ensure that the selection criteria take into account all the relevant factors that will result in selection of topmost brokers from the list of brokers updated on quarterly basis using risk based approach; 82-05-11-2015 brokers updated on quarterly basis using risk based approach; 82-05-11-2015 (f) review and approve the quarterly Inspection plan prepared by the joint inspection team;",
+            ">(g) ensure timely execution of the quarterly Inspection plan during its monthly meetings;",
+            ">(h) review the progress of the Inspection of the Securities brokers selected for Inspection during the quarter;",
+            ">(i) ensure the adequacy of the reporting templates and recommend changes therein for improvement from time to time with the prior approval of the Commission;",
+            ">(j) provide guidance and assistance on technical matters as and when required by the Inspection Team;",
+            ">(k) review all the Inspection Reports containing the observations, comments of the relevant Securities broker, comments of Inspection Team and the action(s) proposed by the Inspection Team; .(1) discuss, where appropriate, the report with the relevant Inspection Team;",
+            ">(m) provide its comments, if any, on observations / recommendations given provide its comments, if any, on observations / recommendations given in the Inspection Report;",
+            ">(n) direct, where appropriate, the Inspection Team to provide documentary supports for the reported observations;",
+            ">(o) direct the Inspection Teams to further investigate any area of concern highlighted during the review performed by the Oversight Committee;",
+            ">(p) summon the team leader, manager, supervisor and member of the Inspection Team for discussion on the Report;",
+            ">(q) ensure adequacy of relevant human resource from each SRO and their proper allocation in teams;",
+            ">(r) call for the special Inspection of a Securities broker which was inspected during the year under these regulations;",
+            ">(s) appoint, if deemed necessary, an audit firm for conducting special Inspection under these regulations at the cost to be borne by the securities broker;",
+            ">(t) review the fee structure for the Inspection on an annual basis and make necessary recommendation to ensure development of an optimal fee structure with prior approval of the Commission;",
+            ">(u) ensure availability of proper work place and necessary logistic supports to carry out the inspection under these regulations by coordinating with respective SRO in this regard;",
+            ">(v) forward copy of Inspection Reports to the Commission and to respective SRO containing comments on each observation by respective Securities broker and counter comments/views of the Inspection Team along with views or comments if any of the Oversight Committee;",
+            ">(w) form sub-committee(s) for performing any role or functions relating to Joint Inspection and determine its terms and conditions;",
+            ">(x) submit status report to the Commission on joint inspection on quarterly basis on the format provided in Appendix VII along with minutes of meetings of the oversight committee and its subcommittees. Where a member of Oversight Committee is of the view that his dissenting note has not been satisfactorily recorded in the minutes of meetings of the Oversight Committee and/or sub-committee of Oversight Committee, he may refer the matter to the Secretary. The member may require the note to be appended to the minutes, failing of which he may file an objection with the Commission in the form of a statement to that effect within thirty days of the date of confirmation of the minutes of the meeting;",
+            ">(y) ensure confidentiality of available data, information/details pertaining to joint inspection and in this regard may determine standardized operating procedures including nature of printer to be used, printing methodology and procedures;",
+            ">(z) prepare, determine, adopt and suggest any procedures, formats, manuals for the purpose of the inspection from time to time;",
+            ">(aa) establish central data base of information and details for selection of Securities brokers for joint inspection including procedures pertaining to access to its data base, its authorization, maintenance of access log;",
+            ">(bb) central data base maintained by the Oversight Committee should also include necessary details and history of enforcement actions against Securities brokers by SROs and the Commission;",
+            ">(cc) to determine and introduce code of conduct for inspection team including its manager and supervisor;",
+            ">(dd) arrange and manage orientation and training for inspection teams; and",
+            ">(ee) any matter as assigned by the Commission."
+          ]
+        },
+        {
+          "no": "20",
+          "title": "Obligations of a Securities broker",
+          "text": [
+            "(1) Every director, officer, employee, sponsor, representatives and major shareholder of a Securities broker being inspected shall produce such books of accounts, record and other documents under its custody or control with information relating to transaction in securities market within such time as may be required by the person inspecting the record.",
+            "(2) A Securities broker shall allow a person carrying out Inspection to have reasonable access to the premises occupied by it or any other person on its behalf and also extend reasonable facility for examining any books, record, documents computer data in possession of the Securities broker or any other person and also provide copies of documents or other materials which, in the opinion of the person carrying out the Inspection are relevant.",
+            "ENFORCEMENT AND HEARING"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter IV",
+      "sections": [
+        {
+          "no": "21",
+          "title": "Action on findings",
+          "text": [
+            "(1) If the Inspection Report identifies any noncompliance(s) including that of the CDC Act, Articles, Rules, Regulations and directives/notices/circulars/guidelines of the Central Depository, NCCPL and/or Securities exchange, the respective SRO(s), as the case may be, may, after giving the Securities broker, an opportunity of being heard and considering the severity and materiality of the non-compliances, take appropriate enforcement action under its regulatory framework;",
+            "Explanation: For the purposes of these regulations the expression \"regulatory framework\" means CDC Act, Rules, Regulations, Guidelines, Guidelines, Directives, Circulars, etc. of NCCPL, Securities Exchange(s), and CDC.",
+            "(2) If a Securities broker fails to provide the documents as per the list included in the Inspection Notice issued and/or any other communication by the inspector in this regard under regulation (5) of these Regulations at the commencement of the Inspection or fails to co-operate with the inspector/ inspector/ Inspection Team including failure to provide the documents required during the course of Inspection, the Oversight Committee shall, upon receiving a written complaint from the inspector through its Secrctary, refer the matter to respective securities exchange to call a hearing of the Securities broker and the Securities exchange may issue a warning letter or may impose a penalty not exceeding Rs.50,0000 per day during which the default continues on the said Securities broker. If the Securities broker, subsequent to the imposition of the said penalty fails to cooperate with the inspector or fails to pay the penalty, the Oversight Committee shall refer the matter to respective securities exchange for initiation of disciplinary actions against non-compliant Securities broker as per law. The entire penalty amount recovered by the.respective Securities broker shall reimburse to the Commission on immediate basis and will be utilized as per applicable law (3) If the Securities broker fails to pay the audit/inspection fees and charges within the specified time, the Oversight Committee shall refer the matter to respective securities exchange and the securities exchange may impose a penalty on such Securities broker as it may deem fit.",
+            "(4) Where the inspector/Inspection Team appointed under these Regulations to conduct inspection, fails on account of intentional misconduct to discharge its duties or does not carry out the Inspection in accordance with the scope of the Inspection on account of the aforesaid reason, the Oversight Committee shall refer the case to respective SRO to initiate such action against the inspector/Inspection Team as deemed appropriate by the SRO in the interest of the capital markets and may remove the inspector from the panel."
+          ]
+        },
+        {
+          "no": "22",
+          "title": "",
+          "text": [
+            "Where the Oversight Committee or any of its members fails to discharge its/his duties or does not carry out the inspection in accordance with the provisions of these regulations on account of intentional misconduct, the Commission may on its own or on receiving any complaint after giving due opportunity of hearing to the member of the Oversight Committee, impose penalties as provided under the law and such other necessary action against such member as it may deem fit for such intentional misconduct."
+          ]
+        },
+        {
+          "no": "23",
+          "title": "",
+          "text": [
+            "Where the Securities Exchange, Central Depository, NCCPL or any of its employees, officers, directors including, where the context so permits, Board, any Committee, subcommittee to whom any function of the securities exchange may for the time delegated fails to discharge its/his duties or does not carry out the enforcement action(s) in accordance with the provisions of these regulations the enforcement action(s) in accordance with the provisions of these regulations on account of intentional misconduct, the Commission may on its own or on receiving any complaint after giving due opportunity of hearing to the employees, officers, directors including members of Committee, sub-committee of Securities Exchange, Central Depository, NCCPL, impose penalties as provided under the . law and such other necessary action against such employees, officers, directors and respective member as it may deem fit for such intentional misconduct."
+          ]
+        },
+        {
+          "no": "24",
+          "title": "Appeals",
+          "text": [
+            "Except as otherwise provided, any person aggrieved by an order passed by the Commission or the respective SRO, may within thirty days of the order, file an appeal to an Appellate Bench of the Commission or Disciplinary Tribunal/Relevant Authority of the SROs, as the case may be, against an Order passed by the Commission and/or the SRO, as provided under the law.",
+            "CONFIDENTIALITY OF INFORMATION"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter V",
+      "sections": [
+        {
+          "no": "25",
+          "title": "Obligation of confidentiality",
+          "text": [
+            "(1) Subject to this section, any person who is or was at any time-",
+            ">(a) acting as a member of Oversight Committee;",
+            ">(b) engaged as a member of the Inspection Team; or",
+            ">(c) authorized to perform or exercise any function or power of the Inspector under these regulations, shall not, except to the extent necessary to • perform his official duties, or in performance or exercise of such a function or power, either directly or indirectly, make a record of, or",
+            "disclose to any person, any information that is or was acquired by him because of having been so appointed, engaged or authorized, or make use of any such information, for any purpose other than the than performance of his official duties or the performance or exercise of that function or power.",
+            "(2) The Oversight Committee may determine the procedure in this regard.",
+            "MISCELLANEOUS"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter VI",
+      "sections": [
+        {
+          "no": "26",
+          "title": "Maintenance of Inspection Record",
+          "text": [
+            "(1) The information and details (in soft or hard form) obtained by the Inspection Team during Inspection under these regulations shall be maintained at the premises provided by the Securities Exchange with appropriate staff! resources from the Securities Exchange under the supervision of Secretary and retained in working paper file;",
+            "(2) All working paper files prepared during inspection under these regulations shall be submitted to the Secretary;",
+            "(3) The Secretary shall preserve the Inspection files under safe custody;",
+            "(4) The information/details/data/explanation obtained during Inspection under these regulations are required to be maintained at least for a period of five years from the completion of inspection; and",
+            "(5) The Secretary shall be responsible to provide information and details/data pertaining to Inspection conducted under these regulations as and when required by the Commission.",
+            "(6) The Secretary shall also be responsible to maintain central database of inspections with assistance from Securities Exchange, pertaining to Inspections conducted under these regulations."
+          ]
+        },
+        {
+          "no": "27",
+          "title": "Penalty",
+          "text": [
+            "Whoever fails or refuses to comply with, or contravenes any provision of these Regulations shall be punishable with a penalty as provided under the Act."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}
