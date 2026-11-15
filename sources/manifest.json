@@ -2292,5 +2292,306 @@
       "page": "https://www.secp.gov.pk/laws/regulations/",
       "manual": true
     }
+  },
+  {
+    "id": "reporting-disclosure-regulations-2015",
+    "title": "Reporting and Disclosure (of Shareholding by Directors, Executive Officers and Substantial Shareholders in Listed Companies) Regulations, 2015",
+    "number": "S.R.O. 1032(I)/2015",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Reporting and Disclosure Regulations"
+    ],
+    "enacted": "2015-10-19",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1032(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "insider-information-regulations-2016",
+    "title": "Access to Insider Information Regulations, 2016",
+    "number": "S.R.O. 457(I)/2016",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Insider Information Regulations"
+    ],
+    "enacted": "2016-05-27",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 457(I)/2016",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "private-placement-rules-2017",
+    "title": "Private Placement of Securities Rules, 2017",
+    "number": "S.R.O. 297(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Private Placement Rules"
+    ],
+    "enacted": "2017-04-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 297(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "centralized-kyc-organization-rules-2017",
+    "title": "Centralized Know Your Customer (KYC) Organization Rules, 2017",
+    "number": "S.R.O. 298(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "KYC Organization Rules",
+      "CKO Rules"
+    ],
+    "enacted": "2017-04-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 298(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "customer-compensation-fund-rules-2017",
+    "title": "Customers Compensation Fund (Establishment and Operation) Rules, 2017",
+    "number": "S.R.O. 299(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Customer Compensation Fund Rules"
+    ],
+    "enacted": "2017-04-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 299(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "centralized-customer-protection-compensation-fund-regulations-2017",
+    "title": "Centralized Customer Protection Compensation Fund Regulations, Fund Regulations, 2017",
+    "number": "S.R.O. 301(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CCPCF Regulations"
+    ],
+    "enacted": "2017-04-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 301(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "cmc-regulations-2017",
+    "title": "Collateral Management Companies (Establishment & Operations) Regulations, 2017",
+    "number": "S.R.O. 302(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CMC Regulations 2017"
+    ],
+    "enacted": "2017-05-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 302(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "llp-regulations-2018",
+    "title": "Limited Liability Partnership Regulations, 2018",
+    "number": "S.R.O. 601(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "LLP Regulations"
+    ],
+    "enacted": "2018-05-10",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 601(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "credit-suretyship-rules-2018",
+    "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
+    "number": "S.R.O. 696(I)/2018",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Credit and Suretyship Rules"
+    ],
+    "enacted": "2018-06-01",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 696(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "oversight-regulations-accountants-2020",
+    "title": "Oversight Regulations for Self-Regulatory Bodies of Accountants, 2020",
+    "number": "S.R.O. 919(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Oversight Regulations 2020"
+    ],
+    "enacted": "2020-09-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 919(I)/2020",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "reinsurance-brokers-regulations-2021",
+    "title": "Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021",
+    "number": "S.R.O. 281(I)/2021",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Reinsurance Brokers Regulations"
+    ],
+    "enacted": "2021-03-04",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 281(I)/2021",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "secured-transactions-registry-regulations-2020",
+    "title": "Secured Transactions Registry Regulations, 2020",
+    "number": "S.R.O. 348(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Secured Transactions Registry Regulations"
+    ],
+    "enacted": "2020-04-30",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 348(I)/2020",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
   }
 ]

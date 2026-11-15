@@ -353,6 +353,591 @@
    "fileHint": "Part 2",
    "number": "S.R.O. 1767(I)/2022",
    "enacted": "2022-09-21"
+  },
+  {
+   "id": "vps-rules-2005",
+   "title": "Voluntary Pension System Rules, 2005",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "VPS Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 49,
+   "to": 84,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "excludeInserts": true,
+   "number": "S.R.O. 88(I)/2005",
+   "enacted": "2005-01-27",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "research-analyst-regulations-2015",
+   "title": "Research Analyst Regulations, 2015",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Research Analyst Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 177,
+   "to": 182,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 709(I)/2015",
+   "enacted": "2015-07-27",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "joint-inspection-regulations-2015",
+   "title": "Joint Inspection Regulations, 2015",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Joint Inspection Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 183,
+   "to": 212,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1020(I)/2015",
+   "enacted": "2015-10-15",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "reporting-disclosure-regulations-2015",
+   "title": "Reporting and Disclosure Regulations, 2015",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Reporting and Disclosure Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 213,
+   "to": 222,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1032(I)/2015",
+   "enacted": "2015-10-19",
+   "titleFromText": true
+  },
+  {
+   "id": "private-funds-regulations-2015",
+   "title": "Private Funds Regulations, 2015",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Private Funds Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 223,
+   "to": 248,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1159(I)/2015",
+   "enacted": "2015-11-25",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "insider-information-regulations-2016",
+   "title": "Insider Information Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Insider Information Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 279,
+   "to": 280,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 457(I)/2016",
+   "enacted": "2016-05-27",
+   "titleFromText": true
+  },
+  {
+   "id": "securities-brokers-regulations-2016",
+   "title": "Securities Brokers (Licensing and Operations) Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Securities Brokers Regulations",
+    "Brokers Regulations 2016"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 281,
+   "to": 308,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 569(I)/2016",
+   "enacted": "2016-06-24",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "credit-rating-companies-regulations-2016",
+   "title": "Credit Rating Companies Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Credit Rating Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 309,
+   "to": 340,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 729(I)/2016",
+   "enacted": "2016-08-05",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "clearing-house-regulations-2016",
+   "title": "Clearing House (Licensing and Operations) Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Clearing House Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 341,
+   "to": 358,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 733(I)/2016",
+   "enacted": "2016-08-09",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "securities-exchanges-regulations-2016",
+   "title": "Securities Exchanges (Licensing and Operations) Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Securities Exchanges Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 359,
+   "to": 372,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1007(I)/2016",
+   "enacted": "2016-10-27",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "structuring-debt-securities-regulations-2020",
+   "title": "Structuring of Debt Securities Regulations, 2020",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Debt Securities Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 373,
+   "to": 382,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 15(I)/2017",
+   "enacted": "2017-01-11",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "securities-futures-advisers-regulations-2017",
+   "title": "Securities and Futures Advisers (Licensing and Operations) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Securities Advisers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 393,
+   "to": 406,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 274(I)/2017",
+   "enacted": "2017-04-21",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "public-offering-regulated-securities-licensing-regulations-2017",
+   "title": "Public Offering (Regulated Securities Activities Licensing) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Regulated Securities Licensing Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 407,
+   "to": 412,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 295(I)/2017",
+   "enacted": "2017-05-02",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "private-placement-rules-2017",
+   "title": "Private Placement of Securities Rules, 2017",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Private Placement Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 439,
+   "to": 442,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "titleFromText": true
+  },
+  {
+   "id": "centralized-kyc-organization-rules-2017",
+   "title": "Centralized Know Your Customer Organization Rules, 2017",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "KYC Organization Rules",
+    "CKO Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 443,
+   "to": 450,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 298(I)/2017",
+   "enacted": "2017-04-28",
+   "titleFromText": true
+  },
+  {
+   "id": "customer-compensation-fund-rules-2017",
+   "title": "Customer Compensation Fund (Establishment and Operation) Rules, 2017",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Customer Compensation Fund Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 451,
+   "to": 454,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 299(I)/2017",
+   "enacted": "2017-04-28",
+   "titleFromText": true
+  },
+  {
+   "id": "centralized-customer-protection-compensation-fund-regulations-2017",
+   "title": "Centralized Customer Protection Compensation Fund Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "CCPCF Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 455,
+   "to": 458,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "titleFromText": true
+  },
+  {
+   "id": "cmc-regulations-2017",
+   "title": "Collateral Management Companies (Establishment and Operation) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "CMC Regulations 2017"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 459,
+   "to": 472,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 302(I)/2017",
+   "enacted": "2017-05-02",
+   "titleFromText": true
+  },
+  {
+   "id": "futures-exchanges-regulations-2017",
+   "title": "Futures Exchanges (Licensing and Operations) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Futures Exchanges Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 473,
+   "to": 488,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 510(I)/2017",
+   "enacted": "2017-06-22",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "bond-pricing-agency-rules-2017",
+   "title": "Bond Pricing Agency Rules, 2017",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Bond Pricing Agency Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 569,
+   "to": 602,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1064(I)/2017",
+   "enacted": "2017-10-18",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "llp-regulations-2018",
+   "title": "Limited Liability Partnership Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "LLP Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 727,
+   "to": 752,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 601(I)/2018",
+   "enacted": "2018-05-10",
+   "titleFromText": true
+  },
+  {
+   "id": "credit-suretyship-rules-2018",
+   "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Credit and Suretyship Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 753,
+   "to": 758,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 696(I)/2018",
+   "enacted": "2018-06-01",
+   "titleFromText": true
+  },
+  {
+   "id": "futures-brokers-regulations-2018",
+   "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Futures Brokers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 813,
+   "to": 856,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1164(I)/2018",
+   "enacted": "2018-09-25",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "collateral-management-companies-regulations-2019",
+   "title": "Collateral Management Companies Regulations, 2019",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Collateral Management Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 985,
+   "to": 1010,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 890(I)/2019",
+   "enacted": "2019-07-31",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "secured-transactions-registry-regulations-2020",
+   "title": "Secured Transactions Registry Regulations, 2020",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Secured Transactions Registry Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1043,
+   "to": 1050,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 348(I)/2020",
+   "enacted": "2020-04-30",
+   "titleFromText": true
+  },
+  {
+   "id": "professional-clearing-members-regulations-2020",
+   "title": "Professional Clearing Members Regulations, 2020",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Professional Clearing Members Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1051,
+   "to": 1066,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 913(I)/2020",
+   "enacted": "2020-09-23",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "oversight-regulations-accountants-2020",
+   "title": "Oversight Regulations for Self-Regulatory Bodies of Accountants, 2020",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Oversight Regulations 2020"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1067,
+   "to": 1070,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 919(I)/2020",
+   "enacted": "2020-09-28",
+   "titleFromText": true
+  },
+  {
+   "id": "reinsurance-brokers-regulations-2021",
+   "title": "Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Reinsurance Brokers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1071,
+   "to": 1092,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 281(I)/2021",
+   "enacted": "2021-03-04",
+   "titleFromText": true
+  },
+  {
+   "id": "modaraba-regulations-2021",
+   "title": "Modaraba Regulations, 2021",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Modaraba Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1093,
+   "to": 1142,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 284(I)/2021",
+   "enacted": "2021-03-05",
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+  },
+  {
+   "id": "securities-managers-regulations-2024",
+   "title": "Securities Managers (Licensing and Operations) Regulations, 2024",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Securities Managers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1189,
+   "to": 1212,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "titleFromText": true,
+   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
   }
  ]
 }

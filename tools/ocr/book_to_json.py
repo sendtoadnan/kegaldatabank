@@ -45,6 +45,7 @@ def scans_for(part, lo, hi, hint=None):
     (unnumbered pages in between included), the unnumbered title page just before, and only the
     newest copy of a page that was scanned twice."""
     pages = book_pages(part, lo, hi)
+    if SPEC_NOINSERTS: pages = [pg for pg in pages if "(" not in pg]
     if hint:
         pages = [pg for pg in pages if any(hint in l["file"] for l in PM[pg])]
     chosen = {pg: pick([l for l in PM[pg] if not hint or hint in l["file"]]) for pg in pages}
@@ -203,7 +204,7 @@ def drop_footnotes(lines):
         t = l["text"]
         if mode == "body" and re.search(r"Before (substitution|omission|deletion|amendment).{0,60}read as", t, re.I):
             mode = "quote"; DROPPED.append(("Q+", l)); continue
-        if mode == "body" and (FN.match(t) or FN2.match(t)):
+        if mode == "body" and (FN.match(t) or FN2.match(t) or re.match(r"^\W{0,3}[A-Z][\w.()&,' -]{0,50}?\b(substituted|inserted|omitted|deleted|added)\s+(by|vide)\s+S\.?\s?R\.?\s?O", t)):
             mode = "fn"
         if mode == "fn" and QUOTE_START.search(t):
             mode = "quote"
@@ -219,6 +220,7 @@ def drop_footnotes(lines):
     return out
 
 def strip_markers(t):
+    t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*[-.]\s*\d{1,2}\s*[-.](?!\s*\d)", " ", t)
     t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*[-.]\s*\d{1,2}\s*[-.]\s*\d{1,2}(?:[\s\-.:]*\d{1,4}(?::\d)?)?\b", " ", t)
     t = re.sub(r"(?<![\w(])[0-9¹²³*°•']{1,2}\s?(?=\[)", "", t)       # note number before an amendment bracket
     t = re.sub(r"(?<=\s)[a-z](?=\[[a-z])", "", t)                     # note number misread as a letter: "a[six months]"
@@ -322,8 +324,10 @@ def add_to_manifest(spec):
     block = "\n".join("  " + ln for ln in json.dumps(e, indent=2, ensure_ascii=False).splitlines())
     mp.write_text(txt.rstrip()[:-1].rstrip() + ",\n" + block + "\n]\n")
 
+SPEC_NOINSERTS = False
 for i in a.ids:
     spec = SPEC[i]
+    SPEC_NOINSERTS = bool(spec.get("excludeInserts"))
     if a.pages_only:
         sc, pgs = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
         where = {(l["file"], l["scan"]): pg for pg in pgs for l in PM[pg]}
@@ -332,6 +336,10 @@ for i in a.ids:
         print(i, len(sc), "scan pages"); continue
     preamble, parts = convert(spec)
     pages = {s.pop("bookPage") for p in parts for s in p["sections"]}
+    if spec.get("titleFromText") and parts and parts[0]["sections"]:
+        first = " ".join(parts[0]["sections"][0]["text"][:1])
+        mt = re.search(r"(?:may|shall)\s+be\s+called\s+(?:as\s+)?(?:the\s+)?[\"“]?(.+?\d{4})", first)
+        if mt: spec["title"] = re.sub(r"\.\s*(\d{4})$", r", \1", re.sub(r"\s+", " ", mt.group(1)).strip(" \"”[]"))
     m = re.search(r"S\.\s*R\.\s*O\.?\s*(?:No\.?\s*)?(\d{1,4})\s*\(I\)\s*/\s*(\d{2,4})(?:,?\s*(?:dated|Islamabad,?\s*the)\s*([A-Za-z]+\.?\s+\d{1,2},?\s*\d{4}|\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+,?\s*\d{4}))?", " ".join(preamble))
     if m and not spec.get("number"):
         y = m.group(2) if len(m.group(2)) == 4 else ("19" if int(m.group(2)) > 50 else "20") + m.group(2)

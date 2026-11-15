@@ -1,0 +1,50 @@
+{
+  "id": "insider-information-regulations-2016",
+  "title": "Access to Insider Information Regulations, 2016",
+  "number": "S.R.O. 457(I)/2016",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Insider Information Regulations"
+  ],
+  "enacted": "2016-05-27",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 457(I)/2016",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 457(I)/2016 dated May 27, 2016.- In exercise of the powers conferred by sub-section (1) of section 169 of the Securities Act, 2015 read with sub-section (2) of section 131 thereof, the securities and Exchange Commission of Pakistan is pleased to make the following Regulations, the same being previously published in the official Gazette vide S.R.O. 73(I)/2016, dated 1st February, 2016 and also placed on its website as required under sub-section (4) of section 169 of the said Act, namely:",
+  "parts": [
+    {
+      "heading": "Regulations",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These Regulations shall be called the Access to Insider Information Regulations. 2016.",
+            "(2) These shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Obligations of listed companies",
+          "text": [
+            "(1) All listed companies shall maintain and regularly update a register to enlist persons employed under contract or otherwise, who have access to inside information, in a manner as provided at Annexure-I (2) For the purpose of sub-regulation (1) above, a listed company shall designate a senior management officer who shall be responsible for entering or removing names of persons in the said register in a timely manner. The said designated officer shall be obliged to keep proper record including basis for Inclusion or exclusion of names of persons in the said list and make the same available as and when required by the Commission."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}

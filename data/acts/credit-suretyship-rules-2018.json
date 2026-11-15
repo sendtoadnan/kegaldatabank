@@ -1,0 +1,125 @@
+{
+  "id": "credit-suretyship-rules-2018",
+  "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
+  "number": "S.R.O. 696(I)/2018",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Credit and Suretyship Rules"
+  ],
+  "enacted": "2018-06-01",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 696(I)/2018",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 696(I)/2018 dated June 01, 2018.- In exercise of the powers conferred by section 83 read with sub-section (2) of section 167 of the Insurance Ordinance (XXXIX of 2000), the Securities and Exchange Commission of Pakistan, with the approval of the Policy Board, is pleased to make the following rules, the same having been previously published in the official Gazette vide S.R.O.511(I)/2016 dated 2nd June, 2016 for seeking comments thereon and for information of all persons likely to be affected. CREDIT AND SURETYSHIP CREDIT AND SURETYSHIP (CONDUCT OF BUSINESS) RULES, 2018",
+  "parts": [
+    {
+      "heading": "Rules",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These Rules shall be called the \"Credit and Suretyship (Conduct of Business) Rules, 2018\".",
+            "(2) These Rules shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these Rules, unless there is anything repugnant in the subject or context,-",
+            ">(a) \"Act\" means the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+            ">(b) \"collateral\" means-",
+            "i. cash, ready money which can be used as money without being converted into another form and which circulates as money including bank bills but does not include promissory notes or",
+            "post-dated cheques;",
+            "ii. bearer bonds which are fixed-income security that is owned by the holder (bearer), rather than a registered owner and are negotiable instruments with a stated maturity date and coupon interest rate;",
+            "iii. back-to-back / counter-guarantees of banks/DFIs/NBFIs rated at least 'A' or equivalent by a credit rating agency, in favor of the insurer;",
+            "iv. an approved security as defined in section 2(iii) of the Ordinance;",
+            "V. other liquid assets duly pledged with the insurer; and",
+            "vi. any other security approved by the Commission.",
+            ">(c) \"Commission\" means the Securities and Exchange Commission of Pakistan established under section 3 of the Act:",
+            ">(d) \"guarantee\" means a contract of guarantee / bond as defined under sub-",
+            "section (4)(f) of section 4 of the Ordinance;",
+            "Ordinance;",
+            ">(f) \"net exposure\" under a guarantee means the guaranteed aggregate amount to be paid upon happening of respective event triggering such payment, net of value of the collateral kept by the insurer, as specitied ın these rules;",
+            ">(g) \"net retained exposure\" means the guaranteed aggregate amount to be paid upon happening of respective event triggering such payment on a particular guarantee issued by that insurer, net of all respective reinsurance ceded and collateral kept by the insurer, as specified in these rules;",
+            ">(h) \"Ordinance\" means the Insurance Ordinance, 2000 (Ordinance No.",
+            "XXXIX of 2000); and",
+            ">(i) \"other liquid assets\" means the assets which are readily convertible into cash without recourse to a court of law and mean encashment/realizable value of government securities, bank deposits, certificates of deposit, shares of listed companies which are actively traded on the stock exchange, NIT Units, certificates of mutual funds, Certificates of Investment (COIs) issued by DFIs/NBFCs rated at least 'A' by a credit rating agency on the approved panel of State Bank of Pakistan, listed TFCs rated at least 'A' by a credit rating agency on the approved panel of State Bank of Pakistan and certificates of asset management companies for which there is a book maker quoting daily offer and bid rates and there is active secondary market trading. These assets with appropriate margins should be in possession of the insurer with perfected lien.",
+            "(2) In these Rules, the word 'takaful' may be used interchangeably with the word 'insurance', 'general takaful' with 'non-life insurance', 'contribution' with 'premium' and 'company' and 'insurer' with 'takaful operator' or 'window takaful operator'.",
+            "(3) The words and expressions used but not defined shall have the same meaning assigned to them in the Ordinance."
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Issuance of Guarantees/Bonds",
+          "text": [
+            "(1) An insurer may issue the following contracts of guarantee/bond:",
+            ">(a) Fidelity Bonds- obligations to protect the bondholders for losses that they incur as a result of fraudulent acts by specified individuals. Typical instance of such bond is to cover an employer's monies, securities, and",
+            "other property from employees who have a manifest intent to cause such loss to that employer. These bonds may also include many other forms of crime-insurance policies such as burglary, fire, general theft, computer theft, disappearance, fraud, forgery, etc., aimed at protecting employer's assets;",
+            ">(b) Bid Bonds- obligations to protect the inviter of the bids for execution of a particular task (or set of particular interrelated tasks) or supply of particular products or services, against inability of the successful bidder to honor the baseline requirements upon winning the bid such as to deposit the security money to the inviter of the bids;",
+            ">(c) Mobilization Advance Guarantee- obligations to protect the awarder",
+            ":: C6-15-08-18",
+            "of a contract against the default of the contractor for the money paid by that awarder of the contract to execute the tasks or deliver the services as laid down in the terms of contract;",
+            ">(d) Payment Bonds- obligations to protect the employer against willful inability of the contractor to pay its own liabilities concerning labour employed by it, material required to execute / fulfill the contract terms and/or other similar overheads, which may directly or indirectly hamper the contractor's performance as per the terms specified in the contract between the employer and the contractor;",
+            ">(e) Performance Bonds- obligations issued to guarantee satisfactory completion of a project by a contractor (or group of contractors)",
+            "concerning supply / delivery of pre-specified products, or construction, maintenance, improvement or expansion of physical infrastructure including power production and distribution, telecommunications, roads, bridges, tunnels, airports, schools, hospitals etc., as per the terms of the underlying contract of supply / delivery of pre-specified products, or construction, maintenance, improvement or expansion of the said physical infrastructure;",
+            ">(f) Administration Bonds- obligations to assure a person who is the administrator of a will acts legally and ethically, in order to protect those in the will against fraud;",
+            ">(g) Bail Bonds- obligations that guarantees to pay to the court the bail amount in full if a defendant / bailee fails to appear for the scheduled court appearances, and/or any other financial obligation towards any other person, as may be decided by the court. The defendant / bailee must have adequate assets to satisfy the face value of the bond;",
+            ">(h) Custom Bonds- obligations to guarantee Pakistan Customs that if it cannot collect monies due from the Principal (who is required to file the bond) it can seek remedy, up to the bond amount, from the insurer; and",
+            ">(i) Other Guarantees / Bonds Approved by the Commission- such other guarantees / bonds as the Commission may notify from time to time through notification:",
+            "Explanation: The guarantee/bonds issued under this rule shall not be construed as bank guarantees issuedby commercial banks and such guarantees/bonds shall be claimable in accordance with the terms and conditions provided in the contract of guarantee; The insurer shall clearly state such disclaimer on the contract of guarantee while issuing guarantees/bonds.",
+            "(2) All types of guarantees / bonds as mentioned under sub-rule (1) are mutually exclusive, that is to say that in case of any difficulty in classifying a guarantee under any of these types of guarantees / bonds, the one, which is the most relevant, shall prevail.",
+            "(3) Every guarantee / bond issued by an insurer shall explicitly state the date ot expiry of that guarantee / bond, and the sum insured / amount of guarantee / bond shall be capped, which shall also be explicitly stated in the guarantee / bond contract."
+          ]
+        },
+        {
+          "no": "3A",
+          "title": "Risk Assessment of Guarantee/Bond Holder",
+          "text": [
+            "(1) An Insurer undertaking credit and suretyship business shall establish and put in place risk prospective guarantee/bond holders.",
+            "(2) The risk assessment mechanism to be devised by the insurer to undertake assessment of the prospective guarantee/bond holder, shall at a minimum cover the following:",
+            ">(a) measures to gauge the ability to meet current and future obligations;",
+            ">(b) experience and expertise in respect of the contract requirements for which guarantee/ bond is being solicited; and",
+            ">(c) financial strength to carry on the project work."
+          ]
+        },
+        {
+          "no": "3B",
+          "title": "Maintenance of Record and Internal Controls",
+          "text": [
+            "(1) An insurer undertaking credit and suretyship business shall maintain record of all bonds/guarantees issued by it.",
+            "(2) All the guarantees/bonds issued by the insurer shall be sequentially numbered and internal control mechanisms shall be put in place by the insurer to ensure that all guarantees/bonds issued by it are recorded on the books of the insurer.]"
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Net Retained Exposure Limit and Collateral Requirement",
+          "text": [
+            "(1) An insurer's net retained exposure under any type of guarantee / bond issued by the insurer to a party or a group shall not exceed 2.5 percent of the insurer's Shareholders' equity as per the latest available audited accounts of the insurer on the date of issuance of a guarantee/bond.",
+            "(2) Subject to limit prescribed under sub-rule (1), an insurer shall procure collateral in case of guarantees / bonds of an amount equivalent to at least +[10] percent of the sum insured / amount of bond/guarantee [ ].",
+            "(3) An insurer shall, at all times, ensure that the aggregate net retained exposure on all outstanding and in-force guarantees/bonds, on which these rules apply, shall not exceed the greater of 100 percent or such other percentage as the Commission may notify from time to time through notification, of the insurer's shareholders' equity.",
+            "5. Treatment for Collateral Procured by an Insurer and Settlement of Claim- ()The foo Ctll cellat al prorered by an insurer shall bekept by the insurer in compliance with section 217 of the Čompanies Act, 2017 (in case the collateral, partially or wholly, is procured in cash).",
+            "(2) In case the collateral is procured in any form other than cash, either partıally or wholly, then such collateral shall be clearly segregated from the insurer's own assets.",
+            "(3) The collateral shall be held in trust and shall be recorded as liability of that insurer until guarantee / bond is either called (i.e. claim is lodged) or the underlying guarantee / bond expires.",
+            "(4) In case of expiry of the guarantee / bond, the insurer shall return the collateral in full upon receiving the cancelled original guarantee / bond and/or a letter of no-objection from the named beneficiary of the underlying guarantee / bond for return of such collateral."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}
