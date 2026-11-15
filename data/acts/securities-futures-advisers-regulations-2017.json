@@ -1,0 +1,471 @@
+{
+  "id": "securities-futures-advisers-regulations-2017",
+  "title": "Securities and Futures Advisers (licensing and Operations) Regulations, 2017",
+  "number": "S.R.O. 274(I)/2017",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Securities Advisers Regulations"
+  ],
+  "enacted": "2017-04-21",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 274(I)/2017",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 274(I)/2017 dated April 21, 2017.- In exercise of powers conferred by sub-section (1) of section 169 of the Securities Act, 2015 and sub-section (1) of section 114 of the Futures Market Act, 2016, read with sections 68, 69, 75, 79, 80, 82, 84 and 151 of the Securities Act, 2015, and sections 51, 52, 58, 63, 64, 66, 68 and 95 of the Futures Market Act, 2016, the Securities and Exchange Commission of Pakistan hereby makes the following regulations, the same being previously published in the official Gazette vide S.R.O. 1039(1)/2016 dated November 9, 2016 and also placed on its website as required under sub-section (4) of section 169 of the Securities Act, 2015 and sub-section (4) of section 114 of the Futures Market Act, 2016, namely:- Chapter I Preliminary",
+  "parts": [
+    {
+      "heading": "Regulations",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These regulations shall be called the Securities and Futures Advisers (licensing and Operations) Regulations, 2017.",
+            "(2) They shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
+            ">(a) \"advertisement\" means dissemination or conveyance of information, or",
+            "an invitation or solicitation, in respect of the services that the securities adviser/futures adviser is licensed to carry on, by any means or in any form, including by means of,-",
+            "i. publication in a newspaper, magazine, journal or other periodical;",
+            "ii. display of posters, notices, billboards, hoardings etc.;",
+            "iii. circulars, handbills, brochures, pamphlets, books or other documents;",
+            "iv. letters addressed to individuals or bodies;",
+            "v. photographs or cinematograph films;",
+            "vi. sound broadcasting, television, the Internet or other media; or",
+            "vii. tele-marketing and SMS marketing.",
+            ">(b) \"Asset Management Company\" or \"AMC\" means an NBFC licensed by.",
+            "the Commissión to provide asset management services; [(ba) Distributor Adviser licensed to undertake only the activity of distribution of units of Collective Investment Schemes (CIS) and/ or Voluntary Pension Fund (VPF) units of multiple Asset Management Companies (AMCs)/Pension Fund Managers (PFM) and includes such distribution through digital means;] [(bb) \"Electronic Money Institution\" or \"EMI\" shall have the same meaning as assigned to it in clause 2 of Regulations for Electronic Money Institutions issued by the State Bank of Pakistan;]",
+            "[(с) \"Futures Act\" means the Futures Market Act, 2016 (as amended or",
+            "replaced from time to time);]",
+            ">(d) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
+            ">(e) \"NSFC\" means a non-banking finance company which includes company licensed by the Commission to carry out anyone or more forms of business as specified in clause (a) of section 282A of the Ordinance;",
+            "[(f) \"Securities Act\" means the Securities Act, 2015 (III of 2015) (as amended or replaced from time to time);] [(g) \"Companies Act\" means the Companies Act, 2017 (XIX of 2017) (as amended or replaced from time to time);] • (h) \"Securities Broker\" for the purposes of these regulations means a broker licensed to undertake securities broker activity under the Securities Act, 2015 and permitted to undertake futures broker activity for futures contract based on securities and financial instruments in terms of section 46 read with section 47 of the Futures Act;",
+            ">(i) \"Futures Contract\" shall have the same meaning as defined in Futures Act;",
+            ">(j) \"Futures Adviser\" means a person, who-",
+            ">(a) gives investment advice on whether, which, the time at which or",
+            "the terms or conditions of which, futures contracts are to be entered into; or",
+            ">(b) issues analysis or reports, for the purposes of facilitating the recipients of the analysis or reports to make decisions on whether, which, the time at which, or the terms or conditions on which, futures contracts are to be entered into, futures contracts are to be entered into, but does not include-",
+            "(A) a person who gives such advice or issues such analysis or reports, including (i) in a newspaper, magazine, book or other publication which is made generally available to the public, and",
+            "which does not have as its principal or only object the provision of advice or the issue of analysis or reports, concerning securities; or",
+            ">(ii) in television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise; and",
+            "(B) any other person excluded to such extent as may be notified by the Commission; and",
+            ">(k) \"Securities Adviser\" means a person, who-",
+            ">(a) gives investment advice on whether, which, the time at which or",
+            "the terms or conditions on which, securities may be bought, sold,.",
+            "exchanged or subscribed for;",
+            ">(b) issues analyses or reports, for the purposes of facilitating the recipients of the analyses or reports to make decisions on whether or the time at which or the terms or conditions on which, specific securities may be bought, sold, exchanged or subscribed for; or",
+            ">(c) advises on the management of a portfolio of securities for another (c) advises on the management of a portfolio of securities\" for another •person-",
+            ">(i) without holding property of the other person; and",
+            ">(ii) on terms that preclude him from deing so, but does not include-",
+            "(I) a bank;",
+            "(II) a person who gives such advice or issues such analyses or reports-",
+            "(A) in a newspaper, magazine, book or other publication which is made generally available to the public, and",
+            "which does not have as its principal or only object the provision of advice or the issue of analyses or reports, concerning securities; or",
+            "(B) in television broadcast or radio broadcast for reception by the public, whether on subscription or otherwise; and",
+            "(III) any other person excluded to the such extent as may be notified by the Commission.]",
+            "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Futures Act, the Securities Act, the Ordinance, the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), the Central Depositories Act, 1997 (XIX of 1997), [the Companies Act, and Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003] and any rules or regulations made thereunder.",
+            "Chapter II Licensing Requirements for Securities and Futures Advisers"
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Prohibition",
+          "text": [
+            "No person shall act as or perform the functions of a securities adviser [and/or] futures adviser unless such person is licensed with the Commission as a securities adviser [and/or] futures adviser under the Securities Act or Futures Act and these regulations and a person performing distribution of Collective Investment Schemes (CIS) and/or Voluntary Pension Fund (VPF) units of multiple AMCs by entering into contracts with such AMCs shall also be required to obtain license as a securities adviser [and/or] under these regulations, in order to perform functions of a distributor:",
+            "i(Provided that in terms of section 2(liii)(III) of the Securities Act, an NBFC duly licensed by the Commission for Investment Advisory Services under PartVIIIA of the Companies Ordinance, 1984 (XLII of 1984) may act as securities adviser and/ or futures adviser without obtaining license under these regulations subject to:",
+            ">(a) maintaining membership of an association of securities advisers and/or",
+            "futures advisers and/or mutual funds, as the case may be, or any other association or self-regulatory organization, which is approved by the Commission for the purpose, and abides by the code of conduct specified by such association at all times;",
+            ">(b) compliance with the regulatory requirements applicable on distribution of CIS and/or VPF units of multiple AMC/PFM:]",
+            "[Provided further that a Scheduled Bank, Microfinance Bank and EMI licensed by the State Bank of Pakistan, and a non-banking microfinance company licensed by the Commission, shall be eligible to undertake activities only to the extent of distributor without obtaining license as a securities adviser subject to compliance with these regulations and following requirements:",
+            ">(i) at least 30 days before initiation of activities as a distributor prior intimation to the Commission shall be made in terms of Form-E, along with receipt evidencing payment of non-refundable fee of such amount as specified in Schedule I;",
+            ">(ii) If the head of distribution function is different from CEO, submission of fit and proper criteria related documents as specified in Annexure A;",
+            ">(iii) Within one month of the close of each financial year, ensure submission of Form-F confirming that it is compliant with the requirements of these regulations along with evidence of payment of non-refundable fee of such amount as specified in Schedule I:",
+            "Provided also that a Scheduled Bank already licensed as a securities adviser performing activities as Distributor under these regulations shall not be required to apply for further renewal of license after coming into force of these regulations provided that it shall ensure compliance with clause (iii) of the above proviso.]",
+            ">(f) the NBFC shall be subject to disciplinary action under the Securities Act, Futures Act and",
+            "these regulations including the revocation of permission to act as a securities adviser or",
+            "futures adviser If it is found to be in non-compliance with the requirements of the Securities Act, Futures Act and these regulations, as applicable, or if it fails to submit the affidavit within the specified time.\"",
+            "Provided further that in terms of section 2(liii) (III) of the Securities Act and section 2 (23) (B) of the Futures Act, a securities broker duly licensed by the Commission to undertake securities broker activity may provide securities and future advisory to its brokerage customers being incidental to the conduct of his business as a securities broker without receiving any separate compensation thereof and may distribute CIS and/or VPF units of multiple AMCs by entering into contracts with such AMCs subject to:",
+            ">(a) maintaining membership of an association of securities advisers and/or futures advisers, as the case may be, or any other association or self-regulatory organization, which is approved by the Commission for the purpose, and abides by the code of conduct specified by such association at all times;",
+            ">(b) compliance with the regulatory requirements applicable on distribution of CISs and/or",
+            "VPFs units of multiple AMCs; and",
+            ">(c) compliance with the regulatory requirements of Chapter III, Chapter IV and clause 24 of Chapter V of these Regulations:",
+            "Provided further that in terms of section 2 (23) (B) of the Futures Act, a futures broker duly licensed by the Commission to undertake future's broker activity for futures contract based on commodities and/or financial instruments may provide futures advisory to the extent of futures contract based on commodities and/or financial instruments to its customers being incidental to the conduct of his business as a futures broker without receiving any separate compensation thereof:",
+            "Provided further that in terms of section 2 (liii) (III) of the Securities Act, an NBFC duly licensed by the Commission for Investment Advisory Services under Part-",
+            "VIIIA of the Companies Ordinance, 1984 (XLII of 1984) may undertake securities advisory and future advisory subject to:",
+            ">(a) maintaining membership of an association of securities advisers and/or futures advisers, as the case may be, or any other association or self-regulatory.",
+            "organization, which is approved by the Commission for the purpose, and abides by the code of conduct specified by such association at all times;",
+            ">(b) compliance with the regulatory requirements applicable on distribution of CISs and/or VPFs units of multiple AMCs; and",
+            ">(c) compliance with the regulatory requirements of Chapter III, Chapter IV and",
+            "clause 24 of Chapter V of these Regulations.",
+            "Provided further that a banking company shall be eligible for applying securities adviser license to the extent of distribution of units of CIS and/or VPS of multiple AMCs only:\""
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Licensing conditions for securities adviser [and/or] futures adviser",
+          "text": [
+            "(1) A person may apply to the Commission for [license to act as a] securities adviser and/or future adviser [ ] under these Regulations if such person is:",
+            ">(a) A company registered under the Companies Act for the purpose of providing advisory including distribution of CIS and/or VPF units of multiple AMCs 3// Pension Fund Manager] by entering into contracts with such AMCs; or",
+            "[ ]",
+            ">(c) Such other company as may be notified by the Commission [; or] [(d) An individual [not employed in a financial institution,] having relevant mandatory certifications from the Institute of Financial Markets as specified by the Commission and meeting fit and proper criteria given at Annexure A.]",
+            "(2) A person referred in sub-regulation (1) may apply to the Commission for license as a securities adviser and/or futures adviser, subject to fulfillment of the following conditions:",
+            ">(a) it has a place of business in Pakistan; [where applicable;] [(b) its memorandum and articles of association allow it to apply for grant of license under the Securities Act or the Futures Act, as the case may be;]",
+            ">(c) it, its sponsors, directors and senior management officers shall fulfill the fit and proper criteria specified in Annexure A; [(d) The change in sponsors shall not be affected without the prior written approval of the Commission;] 3L(e) The CEO or the head of advisory business shall have the requisite qualification, experience and certifications as specified at Annexure-A whereas other employees of the company shall obtain Mutual Fund Distribution Certification or where applicable Equity and Fixed Income Certification;]",
+            ">(f) it meets the financial resource requirements as specified in these regulations, where applicable; and",
+            ">(g) it maintains membership of an association of securities advisers and/or",
+            "futures advisers [and/or mutual funds,] as the case may be, or any other association or self-regulatory organization, which is approved by the Commission for the purpose, and abides by the code of conduct specified by such association at all times:",
+            "[Provided further, that in case of an individual, the conditions referred in sub-regulation (2) above, shall not be applicable except clause (a), (f) and (g).]"
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Application and procedure for grant of licence",
+          "text": [
+            "(1) Subject to regulation 4, an application for licence as a securities adviser [and/lor futures adviser shall be made to the Commission in Form A along with the documents specified in Annexure B and receipt evidencing payment of nonrefundable fee of such amount as specified in Schedule 1.",
+            "[Provided that an applicant which is eligible for Trading Only or Trading and Self-Clearing or Trading and Clearing category of license as a securities broker under the Securities Brokers (Licensing and Operations) Regulations, 2016 and has opted to apply for license as a securities adviser or futures adviser as part of application for license of a securities broker or application for conversion to any category of securities brokers shall not be required to submit a separate application for license under these regulations.]",
+            "(2) The application for licence under these regulations may be made for a securities adviser and/ or a futures adviser.",
+            "(3) The Commission, while considering the application for a licence, may require the applicant to furnish such further information or clarification as it deems appropriate.",
+            "(4) The applicant shall, if so required, appear before the Commission for a representation through a person duly authorized for this purpose in writing by the board of directors of the applicant.",
+            "(5) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be intimated to the Commission within seven working days from the date of such change."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Financial Resources Requirement",
+          "text": [
+            "(1) A person applying for a license of Securities Adviser and/or Futures Adviser under these regulations shall maintain a minimum net worth of Rs. 1 million/- at all times in case of a company [and Rs. 500,000 in case of an individual.",
+            "(2) A person applying for a license of a distributor under these regulations shall maintain a minimum net worth of Rs. 500,000/- at all times in case of a company and Rs. 250,000 in case of an individual.]"
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Grant of licence",
+          "text": [
+            "(1) The Commission, while considering the application for granting a licence, shall inter-alia take into account the following matters,-",
+            ">(a) that the applicant meets the requirements of the Securities Act or the Futures Act as the case may be, these regulations and any direction given by the Commission;",
+            ">(b) that the applicant has the necessary infrastructure, expertise, financial resources, policies, procedures, systems and controls, where necessary, to effectively and efficiently discharge its responsibilities as a securities adviser and/or futures adviser;",
+            ">(c) that the applicant satisfies the Commission that the reasons for an earlier refusal for grant or renewal of licence, if any, as a securities.",
+            "adviser or futures adviser are no longer applicable;",
+            ">(d) involvement of the applicant, its sponsors, directors or senior applicant, (d) involvement of the applicant, its sponsors, directors or senior management officers, as the case may be, in an offence involving fraud or breach of trust; and",
+            ">(e) history of past regulatory compliance and any pending penal action against the applicant, its sponsors, directors or senior management officers, as the case may be, for an offence under the Securities Act or",
+            "the Futures Act as the case may be, or the Ordinance.",
+            "(2) The Commission, upon being satisfied after conducting such inquiries and obtaining such further information as it deems appropriate that,-",
+            ">(a) , the applicant is eligible for a licence;",
+            ">(b) the applicant is in compliance with the provisions of the Securities Act or the Futures Act as the case may be, these regulations and any directives, guidelines, and codes issued thereunder; and",
+            ">(c) it is in the interest of the capital market and public interest;",
+            "may grant a licence to the applicant in Form 8 for a period of one year under the provisions of the Securities Act or Futures Act as applicable. the provisions of the Securities Act or Futures Act as applicable.",
+            "Provided that while deciding to grant licence under these regulations, the Commission may seek additional information from other Government agencies and regulatory bodies including obtaining credit information bureau (CIB) reports and may also conduct a pre-licence assessment or a visit of the premises of the applicant, where deemed necessary, to verify the genuineness of information submitted.",
+            "(3) Nothing in these regulations shall affect the power of the Commission to suspend or cancel the licence of a securities adviser or futures adviser under the Securities Act or the Futures Act, as applicable, if any or all of the of the events as mentioned therein have occurred or the securities adviser or futures adviser fails to comply with any of the requirements of these regulations."
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Renewal of licence",
+          "text": [
+            "[(1) Subject to the provisions of the Securities Act or the Futures Act as the case may be, and these regulations, a securities adviser or futures adviser shall. one month prior to the date of expiry of its license, apply to the Commission, for renewal of its license, in Form C along with an undertaking stating that it is in compliance with all regulatory requirements and evidence of payment of non-refundable renewal fee of such amount as specified in Schedule I.]",
+            "a[Provided that a securities broker which holds a Trading Only or Trading and Self-Clearing or Trading and Clearing category of license as a securities broker under the Securities Brokers (Licensing and Operations) Regulations, 2016 and has opted to apply for renewal of license as a securities adviser or futures adviser as part of application for renewal of license of a securities broker shall not be required to submit a separate application for renewal of licence under these regulations.]",
+            "(2) The Commission upon being satisfied that the applicant continues to meet the requirements for licensing, is In compliance with the provisions of the [Securities Act and/or the Futures Act, as the case may be,], rules, regulations made thereunder and any directives, guidelines and codes issued thereunder, and it is in the interest of the capital market, shall renew the licence of the securities adviser [and/lor futures adviser for one year, and issue a certificate of renewal of licence to the applicant in Form D.",
+            "(3) Where the application for renewal of licence is made within the provided time but has not been decided by the Commission, the licence of the securities adviser or futures adviser shall continue to be valid until the adviser shall application for renewal is decided by the Commission.",
+            "(4) While renewing the licence of a securities adviser or futures adviser, the Commission may, in addition to the criteria laid down for grant of a licence, also take into account history of regulatory compliance of the securities adviser or futures adviser, particularly with reference to customer complaints."
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Procedure where licence is not granted or renewed",
+          "text": [
+            "(1) The Commission, after giving a reasonable opportunity of being heard to the applicant, may refuse to grant or renew a licence if in the opinion of the Commission such applicant does not fulfill the requirements specified in the Securities Act or the Futures Act as the case may be, and these regulations, and where the Commission, after taking into account the facts, is of the view that it is not in the public interest or in the interest of the capital market to grant or renew a licence.",
+            "(2) The applicant, if aggrieved by the decision of the Commission under sub-regulation (i), may, within a period of thirty days from the date of receipt of such refusal, prefer an appeal to the appellate bench of the Commission under section 33 of the Securities and Exchange Commission of Pakistan Act, 1997.",
+            "(3) A securities adviser or futures adviser whose application for renewal of licence is refused shall immediately inform all its existing customers and settle all dues of the customers within fifteen days of the date of receipt of the decision of the Commission or such extended time as may be allowed by the Commission for cogent reasons.",
+            "(4) The Commission may publish its decision of refusal to grant renewal of licence to the securities adviser or futures adviser in a newspaper of wide circulation in Pakistan."
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Cancellation of licence",
+          "text": [
+            "(1) A securities adviser or futures adviser may apply to the Commission for cancellation of its licence along-with a confirmation that such securities adviser or futures adviser has informed all its existing customers and settled all dues and pending claims of the customers, if any.",
+            "(2) The Commission may, after being satisfied that the process of settlement of customer claims if any, has been completed, cancel the licence of such securities adviser or futures adviser.",
+            "Provided that the Commission may impose such conditions as it deems appropriate at the time of such cancellation of licence.",
+            "(3) The Commission may cancel the licence granted to a securities adviser [and/) or futures adviser in accordance with the provisions of the [Securities Act and/ or Futures Act] and/or where:",
+            ">(a) it is a TRE certificate holder of a securities exchange or a futures exchange and such TRE certificate is cancelled by the securities exchange or futures exchange as a disciplinary measure; or",
+            ">(b) it is declared insolvent by a Court; or",
+            ">(c) it fails to apply for renewal of licence within the specified time; or",
+            ">(d) its licence is suspended by the Commission and such suspension has not been revoked till the time of expiry of licence issued to it.",
+            "(4) A securities adviser or futures adviser whose licence is cancelled under sub-regulation (3) shall inform all its existing customers, settle all dues of the customers within fifteen days and shall remain responsible for all its obligations in respect of dealings and business conducted up to the date on which it has been working as a securities adviser or futures adviser.",
+            "[(5) A Scheduled Bank, Microfinance Bank, EMI licensed by the State of Bank of Pakistan and non-banking microfinance company licensed by the Commission performing distribution function under securities adviser license shall become ineligible to act as a distributor if it is non-compliant with any of the requirements of these Regulations including non-submission of applicable Forms or fee(s).]",
+            "Chapter III Conduct of a Securities Adviser or Futures Adviser"
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Invitations and Advertisements",
+          "text": [
+            "(1) A securities adviser or futures adviser shall ensure that.-",
+            "a) it does not'make unsubstantiated claims, in order to induce customers, about qualifications of its professional staff or its capabilities to render certain services or its achievements concerning services rendered to other customers;",
+            "b) it does not get involved in unfair competitive practices, nor shall solicit business from customers on the basis of any undue benefit;",
+            "c) it does not publish, circulate or distribute any advertisement or any information which is false, misleading or deceptive;",
+            "d) any advertisement is written in dear language and is not such which may prejudice interest of any person or customers in general;",
+            "e) it does not make any exaggerated statements regarding its capability to render certain services or its achievements;",
+            "f) it does not willfully make false statements or conceal any material fact in any document, report or paper furnished to the Commission; and",
+            "g) it maintains principle of integrity in seeking business.",
+            "(2) A copy of any advertisement shall be provided by the securities adviser or futures adviser to the Commission, within 36 hours of publication of the same or within such time period as specified by the Commission.",
+            "[(3) it discloses the list/ types of investment products it offers;",
+            "(4) A distributor shall ensure that it clearly specifies that it is only acting as a distributor and shall not use the nomenclatures such as Investment Advisor, Securities Adviser, Futures Advisor or any other similar name, without obtaining requisite license from the Commission.]"
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Agreement with and Disclosures to customers",
+          "text": [
+            "(1) A securities adviser or futures adviser shall, before commencement of business with a customer, enter into an agreement in writing with its customer clearly defining the inter se relationship, and setting out their mutual rights and obligations.",
+            "(2) The agreement between the securities adviser or futures adviser and the customer shall, inter alia, contain:",
+            "i) Name of the customer and the securities adviser or futures adviser;",
+            "ii) Terms and conditions on which the securities or futures advisory services are offered;",
+            "iii) Affiliations. with other licenced persons and intermediaries in the financial sector;",
+            "iv) Conditions, under which agreement may be altered, terminated and",
+            "implications thereof such as:",
+            "a) Voluntary/mandatory termination, by the securities adviser or",
+            "futures adviser;",
+            "•b) Voluntary/mandatory termination by the customer; and",
+            "Mandatory termination in case of cancellation of licence of the securities adviser or futures adviser.",
+            "v) liability of the securities adviser or futures adviser in connection with the recommendations made and liability of the customer, if any; and",
+            "vi) Quantum and manner of fees payable by the customer.",
+            "(3) The securities adviser or futures adviser shall provide a copy of the agreement specified at (1) above to the customer and ensure that any change in terms of the agreement shall only be incorporated through addendum to the initial agreement, after obtaining written approval of the customer.",
+            "(4) A securities adviser or futures adviser, shall not commence business with a customer as a securities adviser or futures adviser unless it furnishes the with a customer as a securities adviser or futures adviser unless it furnishes the customer with a risk disclosure document inter alia containing the nature of services to be provided to customers considering their risk profile and profile and information about basic risks involved in trading in securities or futures contracts, as applicable.",
+            "(5) A securities adviser or futures adviser shall, while making an advice, make adequate disclosure to the customer of all material facts relating to the key features of the securities, futures contracts or portfolio of securities, particularly, performance track record.",
+            "(6) A securities adviser or futures adviser shall draw the customer's attention to the warnings, disclaimers in documents, advertising materials relating to an investment product which it is recommending to the customer.",
+            "i[Provided that requirèments of Regulation 12 shall not be applicable in case of distributors.]"
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Conflict of interest",
+          "text": [
+            "(1) The securities adviser or futures adviser shall take necessary steps to ensure that the customer's interest is kept at the forefront and protected.",
+            "(2) The securities adviser or futures adviser shall take all reasonable steps including the framing of appropriate policies and procedures, where applicable, to minimize conflict of interest between such securities adviser or futures adviser and its customers including in its capacity as performing any other regulated securities activity.",
+            "(3) Subject to the proviston of sub-regulation (1), where any conflict of interest arises between the securities adviser or futures adviser and its customer, the securities adviser or futures adviser shall immediately inform the customer through verifiable means and not gain any direct or indirect advantage from the situation and shall act in the best interests of the customer.",
+            "[(4) A securities adviser and/or futures adviser shall disclose to the customer any actual or potential conflicts of interest arising from any connection to or association with any issuer of securities or AMC and/ or Pension Fund Manager, including any material information or facts that might compromise its objectivity or independence in carrying on activities as a securities and/or futures adviser.]",
+            "(5) A securities adviser or futures adviser shall disclose to its customers, any consideration by way of remuneration or compensation or in any other form whatsoever, received or receivable by it or any of its associates or subsidiaries in respect of the products or securities or futures contracts for which the advice is provided to the customer.",
+            "[(6) A securities adviser and/or futures adviser shat!, before recommending the services of a securities broker, futures broker, AMC and/or Pension Fund Manager or other licensed persons to a customer, disclose any consideration by way of remuneration or compensation orin any other form whatsoever, if any, received or receivable by the securities adviser and/or futures adviser, if the customer desires to avail the services of such intermediary.]",
+            "[(7) If a securities adviser and/or futures adviser has any interest or holding any position in the securities, futures contracts, portfolio of securities or units of CIS and/ or VPF which are subject matter of advice to a customer, it shall make disclosure of such fact to the customer.",
+            "(8) the securities adviser and/or futures adviser shall ensure that its activities as securities adviser and/or futures adviser are clearly segregated from all its other activities if the securities adviser or futures adviser is also engaged in any other activities/ services.",
+            "(9) In case of a company, the securities adviser and/or futures adviser shall ensure segregation, including establishing 'Chinese walls', between its proprietary trading and activities as securities adviser and/or futures adviser.]",
+            "(10) In case of a company, the securities adviser or futures adviser shall put in place a mechanism and take steps to avoid and eliminate the misalignment of incentives due to conflict of interest between the compensation of senior management officers [and] employees [ ] of the securities adviser or futures adviser and interest of the customers.",
+            "(11) In case of a company engaged in other regulated activities, the securities adviser or futures adviser shall ensure that effective and operationally independent compliance functions having appropriately trained and competent staff are in place.",
+            "(12) In case of a company, the securities adviser or futures adviser shall not give advice to customers solely with the objectiveof generating revenues forits other regulated activities or its associated companies or any intermediary its associated referred by it to the customer.",
+            "(13) The securities adviser or futures adviser shall avoid giving advice that results in churning and excessive trading that cannot be directly linked to a profitable trade for the customers.",
+            "(14) The securities adviser or futures adviser must take reasonable steps to ensure that neither it nor any of its employees 4l ] offers or gives, or solicits or accepts, any inducement that is likely to conflict with any duties owed to the customers.",
+            "(15) In case of any breach of policies by its employees 1l 1, the securities adviser or futures adviser shall promptly investigate, and take appropriate action against the persons responsible."
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Confidentiality",
+          "text": [
+            "(1) The securities adviser or futures adviser must have in place proper systems and controls along with clearly documented policies and procedures reasonably designed, for ensuring confidentiality of information in relation to its business as a securities adviser or futures adviser.",
+            "(2) - The securities adviser or futures adviser must devise policies and physical apparatus designed to prevent the improper or unintended dissemination of market sensitive information from one regulated activity to another, where applicable.",
+            "(3) The securities adviser or futures adviser must establish policies and procedures, reasonable under the circumstances, to ensure that it or individuals making proprietary investment decisions are not trading on the basis of material non-public information obtained during its course of business as a securities adviser or futures adviser, where applicable.",
+            "(4) The securities adviser or futures adviser and its employees [ ] shall not disclose or discuss with any other person other than normal course of business or make improper use of any information of confidential nature of a customer, including trading on the basis of such confidential information."
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Risk profiling",
+          "text": [
+            "A securities adviser or futures adviser shall ensure that,-",
+            ">(a) it obtains from the customer, such information as is necessary for the purpose of giving investment advice, including the following:-",
+            ">(i) age;",
+            ">(ii) investment objectives including time for which they wish to stay invested, the purposes of the investment;",
+            ">(iii) income details;",
+            ">(iv) level of understanding and knowledge;",
+            ">(v) existing investments/assets;",
+            ">(vi) risk appetite/tolerance;",
+            ">(vii) liability/borrowing details.",
+            ">(b) it has a process for assessing the risk a customer is willing and able to take, including:",
+            ">(i) assessing a customer's capacity for absorbing loss;",
+            ">(ii) identifying whether customer is unwilling or unable to accept the risk of loss of capital;",
+            ">(iii) appropriately interpreting customer responses to questions and",
+            ">(c) where tools are used for risk profiling, it should be ensured that the tools are fit for the purpose and any limitations are identified and",
+            "mitigated;",
+            ">(d) any questions or description in any questionnaires used to establish the risk a customer is willing and able to take are fair, clear and not misleading, and the questionnaire is not vague or in a complex language that the customer may not understand;",
+            ">(e) risk profile of the customer is communicated to the customer after risk assessment is done; and",
+            "(f information provided by customers and their risk assessment is updated periodically.",
+            "i[Provided that distributor shall use the risk profiling criteria of that AMC and/or Pension Fund Manager whose CIS and/or VPF units are being distributed.]"
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Suitability",
+          "text": [
+            "A securities adviser or futures adviser shall ensure that,-",
+            ">(a) All investment advice provided to the customer is appropriate to the risk profile of the customer, and that no investment or scheme is recommended to the customer on the basis of extra commission or",
+            "incentive earned;",
+            ">(b) It has a documented process for selecting investments based on customer's risk profile investment objectives, tolerance for risk, time horizon, liquidity needs and financial constraints.",
+            ">(c) It understands the nature and risks of products or assets recommended for customers; and",
+            ">(d) It has a reasonable basis for believing that a recommendation:",
+            ">(i) meets the customer's investment objectives and suits the risk profile of such customer;",
+            ">(ii) is such that the customer is ableto bear any related investment risks consistent with its investment objectives and risk tolerance;",
+            "and",
+            ">(iii) is such that the customer has the necessary experience and",
+            "knowledge to understand the risks involved in the transaction. \"[(e) It has governance, risk management and supervision mechanism regarding customer profiling and asset allocation including but not limited to personal information, investment objective, risk tolerance, financial situation, investment experience, ongoing assessment, diversification, rebalancing, market conditions and investment policy statement;] III • 406(5)",
+            "\"((f) It acts diligently and carefully in providing any advice and its advice and recommendations are unbiased and are based on thorough analysis and after considering available alternatives;]",
+            "\"[(g) tools including but not limited to portfolio diversification analysis, value-at-risk model and scenario analysis are available for assessing investor concentration risk.]",
+            "Chapter IV Other Requirements"
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Restriction on keeping custody of customers' assets",
+          "text": [
+            "A securities adviser or futures adviser shall not be eligible for keeping custody of customers' assets 2l J.",
+            "a[Provided that the above restriction shall not be applicable in the case of a securities broker which holds a Trading Only or Trading and Self-Clearing or Trading and Clearing category of license as a securities broker under the Securities Brokers (Licensing and Operations) Regulations, 2016.]"
+          ]
+        },
+        {
+          "no": "18",
+          "title": "General responsibility",
+          "text": [
+            "(1) A securities adviser or futures adviser shall:",
+            "a) on introduction to a prospective customer, disclose that the securities advinerorfuturesaduisertsfctoedvitoeare adviser or futures adviser is licensed with the Commission and",
+            "prominently display the licence granted by the Commission;",
+            "b) maintain high standards of integrity,promptitude, fairness and act with due skill, care and diligence in conduct of its business;",
+            "c) in case of a securities adviser providing advice in respect of CIS,NPF units of an AMC [and/or Pension Fund Manager]:",
+            "i) not involve either directly or indirectly in the mis-selling of CIS/VPF units;",
+            "ii) only deal in units at the unit price quoted by the respective AMC and which are publicly available;",
+            "iii) avoid making negative statements about any AMC or CIS, NPF and ensure that comparisons if any, are made with similar and",
+            "comparable products;",
+            "iv) provide full and latest information of schemes to customers in the form of offering documents, fund manager reports and brochures;",
+            "v) avoid commission-driven malpractices such as encouraging over-",
+            "transacting and churning of investments to earn higher commissions even if they mean higher transaction costs and tax for customers; and",
+            "vi) adhere to these regulations and any other regulations, circulars or guidelines issued by the Commission from time to time.",
+            "d) in case of a securities adviser providing advice in respect of CIS/VPF units of an AMC [and/or Pension Fund Manager], such securities adviser shall adequately explain to a customer, the nature and the nature and",
+            "characteristics of the fund/scheme and shall make clear all essential attributes of the fund/scheme, including:",
+            ">(i) the investment objectives of the fund/scheme;",
+            ">(ii) the Investment strategy to achieve the stated objectives;",
+            ">(iii) the risks of investing in that fund/scheme and CIS/VPF units generally;",
+            ">(iv) the unit prices and how these are calculated: the unit prices and how these are calculated;",
+            ">(v) the fees, charges and expenses involved; and",
+            ">(vi) the tax implications (if any). o/?[e) in case securities adviser is engaged in distributing CIS and/or VPF units of an AMC and/or Pension Fund Manager, it shall disclose the same to its customers and shall not charge any advisory fee for distribution services from its customers in respect of investment in such CIS and/or VPF units;]",
+            "f) unless it complies with the applicable framework for research analysts, not publish a research report or make a public appearance regarding a security, sector or index;",
+            "g) ensure that any performance reporting/presentation is accompanied by all explanations, qualifications, limitations and other statements that are necessary to prevent such information from misleading customers;",
+            "h) ensure compliance with all legal and regulatory requirements applicable to the conduct of its business activities by it and its staff so as to promote the best interests of customers and the integrity of the market;",
+            "i) have and employ effectively appropriate resources and procedures which are needed for the efficient performance of its business activities;",
+            "j) in case of a company engaged in other regulated activities as well, ensure that it has properly designed internal control policies which are duly approved by its board of directors;",
+            "k) ensure that channels of communications are properly documented and",
+            "monitored regularly and effectively. This includes logs of e-mails and",
+            "other inter-office documentation being exchanged;",
+            "1) maintain complete file of each customer and not change any detail provided by the customer in the official documents without prior approval of the customer and keep record of such changes along with necessary documentary evidence;",
+            "m) ensure that the Commission is informed, without undue delay, of serious breaches of these regulations, either directly or through the internal or external auditors where applicable;",
+            "n) put in place a mechanism for proper and timely handling of any customer complaints;",
+            "0) determine the true identity of the prospective customer before extending its services and ensure that Know Your Customer and",
+            "Customer Due Diligence is being conducted properly to ensure risk profiting and suitability for each customer;",
+            "[Provided that this condition shall not be applicable in case of distributors.]",
+            "[ ]",
+            "q) remain in compliance with the licensing requirements at all times and",
+            "inform the Commission immediately when it is non-compliant with any of the said requirements;",
+            "r) ensure that any written or electronic communication or correspondence with the customers or outside parties clearly bears the licence number indicating the licence and type of advisory licence granted by the Commission;",
+            "s) shall ensure that fees charged to the customers are fair and reasonable;",
+            "[ ]",
+            "t) submit any document, report or information as and when required by the Commission;",
+            "[(u) in case of distribution of CIS and/or VPF Units maintain copies of contracts with the AMCs and/or Pension Fund Managers; and] [(w) enter into a standardized distribution agreement with the asset management company as per Annexure C of the Regulations;",
+            ">(x) in case distribution services are provided through digital means, ensure compliance with the \"Guidelines for Mutual Fund Digital Distribution Platform\" issued by the Commission and any other circulars/guidelines for data protection and cyber security as may be issued and made applicable for such distributors by the Commission, from time to time;",
+            ">(y) in case any services are provided through digital means, ensure that the Commission is informed at least fifteen (15) days prior to launch of any advisory/distribution platform, website, online application or any other channels such as social media accounts etc. along with confirmation that such digital channel is fully compliant with the Securities Act, Futures Act, Companies Act, circulars and guidelines issued by the Commission, from time to time:]",
+            "[Provided that securities adviser and/or futures adviser already providing services through digital means shall submit information regarding any such currently operational channels to the Commission within thirty (30) days of coming into effect of this regulation.]",
+            "(2) Any dispute between the securities adviser or futures adviser and its customer may be re solved through arbitration or through a mediator authorized or appointed for the purpose by any regulatory authority, as applicable.",
+            "Chapter V Accounting and Audit"
+          ]
+        },
+        {
+          "no": "19",
+          "title": "General",
+          "text": [
+            "These obligations and duties of a securities adviser and/or futures adviser under these regulations with respect to audit and accounts are in addition to the requirements of the Companies Act, the rules and regulations made thereunder and any directives issued thereunder.",
+            "Provided that in case of a, scheduled bank, microfinance bank, EMI, nonbanking microfinance company, the requirements of this chapter shall not be applicable except regulation 24.]"
+          ]
+        },
+        {
+          "no": "20",
+          "title": "Maintenance of books of accounts and other records",
+          "text": [
+            "(1) In case of a company [and individuall, a securities adviser [and/] or futures adviser shall prepare and maintain all the books of accounts and other records which should:",
+            ">(a) disclose with accuracy the financial position of the securities adviser or",
+            "futures adviser at that time;",
+            ">(b) enable the securities adviser or futures adviser to prepare financial statements at any time and which comply with the requirements of law;",
+            "and",
+            ">(c) demonstrate whether the securities adviser or futures adviser is maintaining in its regulated securities activity adequate financial resources to meet its business commitments, where applicable.",
+            "(2) In addition to requirements of the Securities Act or Futures Act, and the [Companies Act], as applicable, a securities adviser [and/] or futures adviser, other than a distributor, shall also properly maintain the following record s, namely:",
+            "a) All written agreements entered into by the securities adviser or futures adviser with any customers;",
+            "b) Know Your Client records of the customer;",
+            "c) Risk profiling and risk assessment of the customer;",
+            "d) Rationale for arriving at investment advice and assessment of its -aur astemnod ant iavegiment adrico and aseaement of its suitability, duly signed and dated;",
+            "e) A register or record containing list of the customers, the date of advice, nature of the advice; the securities or the futures contracts in which advice was rendered and fee, if any charged for such advice; and",
+            "f) Records of trading in securities and futures contracts by the securities adviser or futures adviser, its directors, employees, their spouses and",
+            "their dependent children, as the case may be.",
+            "[ ]",
+            "(3) Every securities adviser or futures adviser shall ensure that the records referred to in sub-regulation (2) are maintained either in physical or electronic form and preserved in good order for a period of at least ten years.",
+            "Provided that where records are required to be duly signed and are maintained in electronic form, such records shall be digitally signed.",
+            "(4) Every securities adviser or futures adviser shall ensure that the record is kept at such place and maintained in such a manner that it is easily accessible."
+          ]
+        },
+        {
+          "no": "21",
+          "title": "Preparation and submission of financial statements",
+          "text": [
+            "(1) In case of a company, a securities adviser [and/) or futures adviser shall prepare financial statements for each financial year. The financial statements of the alamde wioh the securities adviser or futures adviser saall oe prepared in compliance with the requirements ot the [Companies Act] including conformity with the accounting standards =: dirccted by the Commission.",
+            "(2) In vese of a company, a securities adviser or futures adviser shall submit, within four months after the end of each financial year, its annual financial statements to the Commission along with its audit report."
+          ]
+        },
+        {
+          "no": "22",
+          "title": "Audit and related matters",
+          "text": [
+            "In case of company, a securities adviser [and/] or futures adviser shall appoint an auditor as required under section 83 of the Securities Act [and/) or section 67 of the Futures Act as applicable, from the panel of auditors approved by the Commission to perform functions as specified in the Securities Act or the Futures Act and the [Companies Act], as applicable."
+          ]
+        },
+        {
+          "no": "23",
+          "title": "Appointment of auditor and related matters",
+          "text": [
+            "(1) In case of company, a securities adviser or futures adviser shall ensure that the auditor appointed has inter-alia the powers and duties specified under sub-regulation 3 below and:",
+            ">(a) those powers and duties are set out in an engagement letter;",
+            ">(b) the engagement letter is signed by the securities adviser or futures adviser and the auditor; and",
+            ">(c) the securities adviser or futures adviser retains a copy of the engagement letter.",
+            "(2) A securities adviser or futures adviser shall, within seven days, give written notice to the Commission of the appointment, removal or resignation of an auditor.",
+            "(3) The auditor appointed by a securities adviser or futures adviser shall have the right to,-",
+            ">(a) access the accounting and other records of the securities adviser or",
+            "futures adviser and all other documents relating to its business including the documents the securities adviser or futures adviser is required to maintain under the Act and these regulations; and",
+            ">(b) require from the securities adviser or futures adviser such information and explanations as the auditor considers necessary for the performance of duties.",
+            "(4) The audit report shall state all the matters as are required to be stated in accordance with the requirements of the Ordinance.",
+            "(5) Where an auditor resigns or is removed by the securities adviser or futures adviser, a notice to that effect shall be sent to the Commission containing a statement signed by the auditor to the effect that there are no circumstances connected with his resignation or removal which the auditor considers should be brought to the attention of the Commission."
+          ]
+        },
+        {
+          "no": "24",
+          "title": "Submission of Information and returns",
+          "text": [
+            "[(1) In case of a company, the Securities Adviser and/or Futures Adviser along with its financial statements and in case of an individual, the Securities Adviser and/or Futures Adviser shall submit within four months after the end of each financial year such information as specified by the Commission.]",
+            "(2) In addition to any periodic returns required under sub-regulation (1), the Commission may by written notice require securities adviser or futures adviser, either generally or in a particular case or class of cases, to submit to the Commission such exceptional returns as it may direct. Commission such exceptional returns as it may direct."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}

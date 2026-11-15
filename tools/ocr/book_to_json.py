@@ -220,6 +220,8 @@ def drop_footnotes(lines):
     return out
 
 def strip_markers(t):
+    # a footnote that landed on a body line: "… 25-04-2024 1Clauses (e) to (g) inserted by SRO 742(I)/2023 dated June 15, 2023."
+    t = re.sub(r"\s*(?:\d{2}-\d{2}-\d{4}\s*)?\d{1,2}[A-Z][A-Za-z0-9()&,.\- ]{0,60}?\b(?:inserted|substituted|deleted|omitted|added)\s+by\s+S\.?\s?R\.?\s?O\.?\s*[\dIl()/\[\] ]+(?:dated\s+[A-Za-z]+\.?\s+\d{1,2},?\s*\d{4})?\.?", " ", t)
     t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*[-.]\s*\d{1,2}\s*[-.](?!\s*\d)", " ", t)
     t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*[-.]\s*\d{1,2}\s*[-.]\s*\d{1,2}(?:[\s\-.:]*\d{1,4}(?::\d)?)?\b", " ", t)
     t = re.sub(r"(?<![\w(])[0-9¹²³*°•']{1,2}\s?(?=\[)", "", t)       # note number before an amendment bracket
@@ -229,7 +231,10 @@ def strip_markers(t):
 LABEL = re.compile(r"^(\(\s*(?:[a-z]{1,2}|[ivxlc]{1,6}|\d{1,3}[a-zA-Z]?|[A-Z])\s*\)|Explanation|Provided|\d{1,3}[A-Z]?\.\s)")
 PROV = re.compile(r"^[\"“\[]?(\d{1,3}[A-Z]{0,2})[.,]\s*([A-Z\[][^\n]{1,200}?)\s*(?:[.,:]\s*[-–—_]+|(?<=[a-z])[-–—](?=\s*(?:\(1\)|$))|\.(?=\s*\(\d)|\.(?=\s*\d?\[?\(1\)))\s*(.*)$")
 
+CODES = {}
+
 def convert(spec):
+    global CODES
     scans, pages = scans_for(spec["part"], spec["from"], spec["to"], spec.get("fileHint"))
     if not scans: raise SystemExit(f"{spec['id']}: no book pages found")
     where = {(l["file"], l["scan"]): pg for pg in pages for l in PM[pg]}
@@ -241,10 +246,15 @@ def convert(spec):
     norm = lambda t: re.sub(r"[^a-z]", "", t.lower())
     tops = Counter(n for _, rows, _ in got for n in {norm(r["text"]) for r in rows[:4] if len(r["text"]) < 90} if len(n) > 6)
     heads = [n for n, c in tops.items() if c >= 2] + [norm(h) for h in spec.get("runningHeads", [])]
-    lines = []
-    for (f, k), rows, left in got:
+    lines = []; CODES = {}
+    for n, ((f, k), rows, left) in enumerate(got):
+        pg = where.get((f, k), f"scan {k}")
+        # circulars filed after the instrument: their pages carry "Circulars" in the running head
+        if n > 2 and any(re.search(r"\bCirculars?\b", r["text"]) and len(r["text"]) < 90 for r in rows[:4]): break
+        mc = re.search(r"\b[EB]2\s*(\d{1,3})\s*[-.]", " ".join(r["text"] for r in rows))
+        CODES[pg] = int(mc.group(1)) if mc else -1          # the page's update number (newer = larger)
         for r in clean_page(rows, heads):
-            lines.append({"page": where.get((f, k), f"scan {k}"), "x": r["x"] - left, "text": r["text"]})
+            lines.append({"page": pg, "x": r["x"] - left, "text": r["text"]})
     lines = drop_footnotes(lines)
     if os.environ.get("BOOK_DEBUG"):
         Path(os.environ["BOOK_DEBUG"], spec["id"] + ".dropped.txt").write_text("\n".join(f'{k}\t{l["page"]}\t{l["text"]}' for k, l in DROPPED))
@@ -268,7 +278,7 @@ def convert(spec):
     fixes = spec.get("headingFixes", {})   # {"line start as read": "as printed"}, each confirmed against the scan
     for l in lines:
         t = re.sub(r"^[Il|](?=\d[.,]\s*[A-Z])", "1", l["text"])
-        t = re.sub(r"^[0-9¹²³*']{0,2}\[(?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "[", t)   # "2[19. Mode of payment.-" (substituted provision)
+        t = re.sub(r"^[0-9¹²³*']{0,2}[\[(|](?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "[", t)   # "2[19. Mode of payment.-" (substituted provision)
         for old, new in fixes.items():
             if t.startswith(old): t = new + t[len(old):]
         l["text"] = t
@@ -280,17 +290,38 @@ def convert(spec):
                or l["x"] > 0.035 and ends)
         if new: paras.append({"page": l["page"], "text": t})
         else: paras[-1]["text"] = (paras[-1]["text"][:-1] if re.search(r"[a-z]-$", paras[-1]["text"]) else paras[-1]["text"] + " ") + t
-    preamble, parts, cur, sec = [], [], None, None
+    preamble, parts, cur, sec, skipping = [], [], None, None, False
     for p in paras:
         t = strip_markers(p["text"])
         if re.match(r"^(CHAPTER|PART)\s+[IVXL\d]+", t) and len(t) < 120:
             h = re.sub(r"\b([IVXL]+)\b", lambda m: m.group(1).upper(), t.title()) if t.isupper() else t
             cur = {"heading": re.sub(r"\b(Ii|Iii|Iv|Vi|Vii|Viii|Ix|Xi|Xii)\b", lambda m: m.group(1).upper(), h), "sections": []}; parts.append(cur); continue
         m = PROV.match(t)
-        if m and (sec is None and int(re.match(r"\d+", m.group(1)).group()) <= 3 or sec and _next(sec["no"], m.group(1))):
+        if not m and sec is not None:
+            m2 = PROV2.match(t)
+            if m2 and _expected(sec["no"], m2.group(1)) and len(m2.group(2).split()) <= 14: m = m2
+        no = m.group(1) if m else None
+        if m and sec is not None and not _next(sec["no"], no) and len(no) >= 2 and no[1:].isdigit() and _next(sec["no"], no[1:]):
+            no = no[1:]                      # a note marker glued to the number: "17. Requirements" is 7
+        if m and (sec is None and int(re.match(r"\d+", no).group()) <= 3 or sec and _next(sec["no"], no)):
             if cur is None: cur = {"heading": spec.get("unit", "Regulation") + "s", "sections": []}; parts.append(cur)
-            sec = {"no": m.group(1), "title": m.group(2).strip(), "text": [m.group(3).strip()] if m.group(3).strip() else [], "bookPage": p["page"]}
-            cur["sections"].append(sec); continue
+            sec = {"no": no, "title": m.group(2).strip(), "text": [m.group(3).strip()] if m.group(3).strip() else [], "bookPage": p["page"]}
+            cur["sections"].append(sec); skipping = False; continue
+        if m and sec is not None:
+            # the same provision again: a superseded page and its replacement were both scanned
+            words = lambda x: set(re.findall(r"[a-z]{4,}", x.lower()))
+            old = next(((pt, k) for pt in parts for k, z in enumerate(pt["sections"]) if z["no"] == no and words(z["title"]) and len(words(z["title"]) & words(m.group(2))) / len(words(z["title"])) >= 0.5), None)
+            if old:
+                pt, k = old
+                if CODES.get(p["page"], -1) > CODES.get(pt["sections"][k]["bookPage"], -1):
+                    del pt["sections"][k:]
+                    for later in parts[parts.index(pt) + 1:]: later["sections"].clear()
+                    cur = pt
+                    sec = {"no": no, "title": m.group(2).strip(), "text": [m.group(3).strip()] if m.group(3).strip() else [], "bookPage": p["page"]}
+                    cur["sections"].append(sec); skipping = False
+                else: skipping = True
+                continue
+        if skipping: continue
         if sec is None: preamble.append(t)
         else:
             if cur and not cur["sections"] and parts and len(parts) > 1 and not sec: pass
@@ -299,6 +330,14 @@ def convert(spec):
         for s in part["sections"]:
             s["text"] = [x for k, x in enumerate(s["text"]) if x and (k == 0 or x != s["text"][k - 1])]
     return preamble, [p for p in parts if p["sections"]]
+
+# looser heading endings ("Title: text", "Title. Text", "Title- Text", "Title - (1)"), used only for the
+# number expected next
+PROV2 = re.compile(r"^[\"“\[]?(\d{1,3}[A-Z]{0,2})[.,]\s*([A-Z][^.:;\n]{2,110}?)\s*(?:[.:,]|\s[-–—]|[-–—])\s+(?=[A-Z(\[\d])(.*)$")
+
+def _expected(prev, nxt):
+    a, b = re.match(r"(\d+)([A-Z]*)", prev), re.match(r"(\d+)([A-Z]*)", nxt)
+    return int(b.group(1)) == int(a.group(1)) + 1 and not b.group(2)
 
 def _next(prev, nxt):
     """Accept the next provision number (2 after 1, 5A after 5, 6 after 5A) — guards against cross-references."""

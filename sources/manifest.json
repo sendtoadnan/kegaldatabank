@@ -2593,5 +2593,130 @@
       "page": "https://www.secp.gov.pk/laws/regulations/",
       "manual": true
     }
+  },
+  {
+    "id": "credit-rating-companies-regulations-2016",
+    "title": "Credit Rating Companies Regulations, 2016",
+    "number": "S.R.O. 729(I)/2016",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Credit Rating Regulations"
+    ],
+    "enacted": "2016-08-05",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 729(I)/2016",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "securities-futures-advisers-regulations-2017",
+    "title": "Securities and Futures Advisers (licensing and Operations) Regulations, 2017",
+    "number": "S.R.O. 274(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Securities Advisers Regulations"
+    ],
+    "enacted": "2017-04-21",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 274(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "futures-exchanges-regulations-2017",
+    "title": "Futures Exchanges (Licensing & Operations) Regulations, 2017",
+    "number": "S.R.O. 510(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Futures Exchanges Regulations"
+    ],
+    "enacted": "2017-06-22",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 510(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "bond-pricing-agency-rules-2017",
+    "title": "Bond Pricing Agency Rules, 2017",
+    "number": "S.R.O. 1064(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Bond Pricing Agency Rules"
+    ],
+    "enacted": "2017-10-18",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1064(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "futures-brokers-regulations-2018",
+    "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+    "number": "S.R.O. 1164(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Futures Brokers Regulations"
+    ],
+    "enacted": "2018-09-25",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1164(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
   }
 ]

@@ -369,11 +369,10 @@
    "to": 84,
    "fileHint": "Part 2",
    "batch": 3,
-   "excludeInserts": true,
    "number": "S.R.O. 88(I)/2005",
    "enacted": "2005-01-27",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: rules 11, 23, 31, 41 not found (8, 22, 26, 40 deleted). Fix and recheck before publishing."
   },
   {
    "id": "research-analyst-regulations-2015",
@@ -393,7 +392,7 @@
    "number": "S.R.O. 709(I)/2015",
    "enacted": "2015-07-27",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: annexure forms leak into regulation 13. Fix and recheck before publishing."
   },
   {
    "id": "joint-inspection-regulations-2015",
@@ -413,7 +412,7 @@
    "number": "S.R.O. 1020(I)/2015",
    "enacted": "2015-10-15",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulations 18, 22, 23 not found. Fix and recheck before publishing."
   },
   {
    "id": "reporting-disclosure-regulations-2015",
@@ -452,7 +451,7 @@
    "number": "S.R.O. 1159(I)/2015",
    "enacted": "2015-11-25",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulations 3 and 8 not found. Fix and recheck before publishing."
   },
   {
    "id": "insider-information-regulations-2016",
@@ -492,7 +491,7 @@
    "number": "S.R.O. 569(I)/2016",
    "enacted": "2016-06-24",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulation 31 not found; regulation 16 very long; superseded pages mixed in. Fix and recheck before publishing."
   },
   {
    "id": "credit-rating-companies-regulations-2016",
@@ -511,8 +510,7 @@
    "batch": 3,
    "number": "S.R.O. 729(I)/2016",
    "enacted": "2016-08-05",
-   "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "titleFromText": true
   },
   {
    "id": "clearing-house-regulations-2016",
@@ -532,7 +530,7 @@
    "number": "S.R.O. 733(I)/2016",
    "enacted": "2016-08-09",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulations 4-9 not in the text (pages out of order or unmapped). Fix and recheck before publishing."
   },
   {
    "id": "securities-exchanges-regulations-2016",
@@ -552,7 +550,7 @@
    "number": "S.R.O. 1007(I)/2016",
    "enacted": "2016-10-27",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulation 17 not found. Fix and recheck before publishing."
   },
   {
    "id": "structuring-debt-securities-regulations-2020",
@@ -572,7 +570,7 @@
    "number": "S.R.O. 15(I)/2017",
    "enacted": "2017-01-11",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulations 4-6, 8 not found; S.R.O. number doubtful (15(I)/2017 vs the 2020 regulations). Fix and recheck before publishing."
   },
   {
    "id": "securities-futures-advisers-regulations-2017",
@@ -591,8 +589,7 @@
    "batch": 3,
    "number": "S.R.O. 274(I)/2017",
    "enacted": "2017-04-21",
-   "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "titleFromText": true
   },
   {
    "id": "public-offering-regulated-securities-licensing-regulations-2017",
@@ -612,7 +609,7 @@
    "number": "S.R.O. 295(I)/2017",
    "enacted": "2017-05-02",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulation 8 not found. Fix and recheck before publishing."
   },
   {
    "id": "private-placement-rules-2017",
@@ -723,8 +720,7 @@
    "batch": 3,
    "number": "S.R.O. 510(I)/2017",
    "enacted": "2017-06-22",
-   "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "titleFromText": true
   },
   {
    "id": "bond-pricing-agency-rules-2017",
@@ -743,8 +739,7 @@
    "batch": 3,
    "number": "S.R.O. 1064(I)/2017",
    "enacted": "2017-10-18",
-   "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "titleFromText": true
   },
   {
    "id": "llp-regulations-2018",
@@ -801,8 +796,7 @@
    "batch": 3,
    "number": "S.R.O. 1164(I)/2018",
    "enacted": "2018-09-25",
-   "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "titleFromText": true
   },
   {
    "id": "collateral-management-companies-regulations-2019",
@@ -822,7 +816,7 @@
    "number": "S.R.O. 890(I)/2019",
    "enacted": "2019-07-31",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulations 16, 18, 19, 21, 22 not found. Fix and recheck before publishing."
   },
   {
    "id": "secured-transactions-registry-regulations-2020",
@@ -861,7 +855,7 @@
    "number": "S.R.O. 913(I)/2020",
    "enacted": "2020-09-23",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulation 7 not found; short title read as \"Profession Clearing Members\". Fix and recheck before publishing."
   },
   {
    "id": "oversight-regulations-accountants-2020",
@@ -919,7 +913,7 @@
    "number": "S.R.O. 284(I)/2021",
    "enacted": "2021-03-05",
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulations 7-9, 22, 30 not found. Fix and recheck before publishing."
   },
   {
    "id": "securities-managers-regulations-2024",
@@ -937,7 +931,7 @@
    "fileHint": "Part 2",
    "batch": 3,
    "titleFromText": true,
-   "hold": "Batch 3 conversion has numbering gaps, overlong provisions or leaked forms; improve the converter and recheck before publishing."
+   "hold": "15 Nov 2026: regulation 1 heading not recognised. Fix and recheck before publishing."
   }
  ]
 }

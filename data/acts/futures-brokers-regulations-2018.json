@@ -1,0 +1,628 @@
+{
+  "id": "futures-brokers-regulations-2018",
+  "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+  "number": "S.R.O. 1164(I)/2018",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Futures Brokers Regulations"
+  ],
+  "enacted": "2018-09-25",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 1164(I)/2018",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 1164(I)/2018 dated September 25, 2018.- In exercise of the powers conferred by sub-section (1) of.section 114 read with sections 47, 48, 51, 52, 58, 59, 60,61,62,63,64, 66, 68 and95 oftheFutures Market Act, 2016, (XIV of 2016), the Securities and Exchange Commission of Pakistan hereby makes the following regulations, the same being previously published in the official Gazette vide S.R.O. 600(I)/2018 dated May 9, 2018, namely: Chapter I Preliminary",
+  "parts": [
+    {
+      "heading": "Regulations",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These regulations shall be called the Futures Brokers (Licensing and Operations) Regulations, 2018.",
+            "(2) These regulations shall come into force at once.",
+            "(3) These regulations shall apply to Futures Brokers dealing in Futures contracts based on specified commodities and financial instruments offered by or traded on futures exchange other than a securities exchange."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
+            ">(a) \"Act\" means Futures Market Act, 2016 (XIV of 2016);",
+            ">(b) \"Annexure\" means annexure appended to these regulations;",
+            ">(c) \"advertisement\" means dissemination or conveyance of information, or",
+            "an invitation or solicitation, in respect of the services that the futures broker is licensed to carry on, by any means or in any form, including by means of,-",
+            ">(i) publication in a newspaper, magazine, journal or other periodical;",
+            ">(ii) display of posters, notices, billboards, hoardings etc.;",
+            ">(iii). circulars, handbills, brochures, pamphlets, books or other documents;",
+            ">(iv) letters addressed to individuals or bodies;",
+            ">(v) photographs or cinematograph films;",
+            ">(vi) sound broadcasting, television, the Internet or other media; or",
+            ">(vii) tele-marketing and SMS marketing.",
+            ">(d) \"Companies Act\" means the Companies Act, 2017 (XIX of 2017); [(da) \"Agri-Only futures broker\" mean a sub-category of futures broker, which can provide brokerage services only to the extent of futures contracts based on local agricultural commodities including Electronic [(ea) \"Electronic Warehouse Receipt\" has the same mean.. ... uefined in Collateral Management Companies Regulations, 2019.]",
+            ">(f) \"financail** instrument\" shall have the same meaning as defined in clause (22) of Section 2 of the Act;",
+            ">(g) \"Form\" means Forms appended to these regulations;",
+            ">(h) \"futures broker\" shall have the same meaning as defined in clause (24)",
+            "of Section 2 of the Act;",
+            ">(i) \"futures contract\" shall have the same meaning as defined in clause (25)",
+            "of Section 2 of the Act;",
+            ">(j) \"regulated activity\" shall have the same meaning as defined in clause (40) of Section 2 of the Act;",
+            "]",
+            "(1) \"schedule\" means schedule appended to these regulations; and",
+            ">(m) \"senior management officer\" as defined in the Act for the purposes of these regulations, in addition to the persons mentioned in clause (47) of section (2) of the Act and, includes the Compliance Officer.",
+            ">(n) \"sponsor\" means:",
+            ">(a) a person who has contributed initial capital in the company or",
+            "has the right to appoint majority of the directors on the board of the company directly or indirectly; and",
+            ">(b) a person who replaces the person referred to in clause (a) ahove;",
+            "and",
+            ">(c) a person or group of persons who has control of the company whether directly or indirectly;",
+            ">(o) \"unique identification number (UIN)\" means the unique identification number issued, by a clearing house licensed under the Act, to a person for trading on the futures exchange.",
+            "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the Companies Act and the Securities and Exchange Commission of Pakistan Act, 1997, or any rules or regulations made thereunder.",
+            "Chapter II Licensing Requirements for Futures Broker"
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Prohibition",
+          "text": [
+            "No person shall act or perform the functions of a futures broker unless such person is licensed as a futures broker with the Commission in accordance with the Act and these regulations.",
+            "Provided that any person who is performing. functions of a futures broker and having valid broker registration under the Commodities Exchange and Futures Contract Rules, 2005 shall be deemed licensed to act as Futures broker for a period of one year from the date of commencement of Part IV of the Act in accordance with sub-section (8) of section 123 of the Act."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Eligibility criteria for licensing of a futures broker",
+          "text": [
+            "(1) Subject to compliance with the provisions of the Act, a company may apply to the Commission for licence as a futures broker, if-",
+            ">(a) the applicant has obtained prior permission of the Commission under regulation 5 of these regulations [:]",
+            "i[Provided that a person holding a valid license to act as a Securities/Futures Broker under Securities Brokers (Licensing and",
+            "Operations) Regulations, 2016 may apply for license as a futures broker for commodities and financial instruments without prior permission of the Commission under these regulations.]",
+            ">(b) the applicant's memorandum and articles of association allow it to apply for grant of licence as a futures broker under the Act;",
+            ">(c) it is not a single member company 2l, except in case of Agri-Only category];",
+            ">(d) the applicant holds a valid TRE Certificate issued in its name;",
+            ">(e) the applicant identifies names and details of its sponsors which shall be required to collectively hold and retain not less than fifty one per cent of the share capital of the applicant, and in the case of a listed company, not less than twenty five per cent of the share capital of applicant provided that any change in sponsors shall not be affected without prior written approval of the Commission |:]",
+            "[Provided that no prior approval of the Commission shall be required in case of reduction of number of sponsors through transfer/sale of shares among existing identified sponsors under clause (e) of Regulation 4.]",
+            ">(f) the applicant and its sponsors do not have controlling interest in any other company holding licence as a futures broker;",
+            ">(g) the applicant, its sponsors, directors and senior management officers are fit and proper persons as per the criteria specified in Annexure B;",
+            ">(h) the chief executive of the company does not hold [such] office in any other company;",
+            ">(i) the Director or employee of the company holding licence as a futures broker does not hold the position of a Director or any other position in (j) its sponsors have and will continue to have representation of at least twenty per cent on its board of directors;",
+            "[ ]",
+            "(I) the name of its sponsors, directors and chief executive officer are appearing on the list of Active Tax Payers issued by the Federal Board of Revenue;",
+            ">(m) it meets the financial resource requirements specified in these regulations;",
+            ">(n) it has and shall continue to have the requisite number of personnel or",
+            "employees having mandatory certification as specified by the Commission from time to time; and",
+            ">(o) • (0) its ultimate beneficial owners have not been convicted in any predicate offences provided under Anti-Money Laundering Act, 2010 (VII of 2010), Anti-Terrorist Act 1997 (XXVII of 2010) or any other criminal offence.",
+            "Explanation:- For the purposes of this regulation, the expression \"ultimate beneficial owners\" includes natural person or individual who ultimately own or control [ten percent or more] the entity.\"",
+            "Provided that in case of a company licensed under regulation 3, an additional time of one year from the date of promulgation of these regulations shall be granted for compliance with the requirements of clause (e), (f) and (j) of this regulation.",
+            "(2) Where the sponsor is a company, the requirements applicable to the sponsors shall be applied to such extent as may be practical upon the majority shareholder, sponsors and directors of such company and the applicant shall give an undertaking to the Commission that they will inform the Commission in case of any change in the sponsors of the company and the required documents."
+          ]
+        },
+        {
+          "no": "4A",
+          "title": "Requirements applicable to Agri-Only category of futures brokers",
+          "text": [
+            "All regulations applicable to a futures broker shall be applicable to the subcategory i.e. Agri-Only futures brokers, except where specifically provided otherwise in the regulations.]"
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Prior-Permission from the Commission to undertake Futures undertake Broker activity",
+          "text": [
+            "(1) A person desirous of undertaking futures broker activity shall before obtaining TRE Certificate of PMEX niake an application to the Commission for obtaining permission as set out in Form-A along-with the documents specified in Annexure-A.",
+            "(2) The Commission, while considering the application for permission under sub-regulation (1), may require the applicant to furnish such further information or clarification, as it deems appropriate.",
+            "(3) The Commission, if it is satisfied that the person seeking permission to undertake futures broker activity has fulfilled the criteria in terms of these regulation may permit by an order in writing to establish a futures broker company.",
+            "(4) The permission granted under sub-regulation (3) shall be valid for a period of six months unless extended for a maximum period of further three months under special circumstances, on the application of the sponsors made before the expiry of initial six months.",
+            "(5) During the validity of this permission, the sponsors shall obtain the TRE Certificate from PMEX, get the futures broker company incorporated and submit an application to the Commission for grant of licence, after fulfilling all the conditions specified in these regulations."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Application and procedure for granting a licence",
+          "text": [
+            "(1) Subject to regulation 4, an application for a licence as a futures broker shall be made to the Commission in Form - A-I along with the information and documents specified in Annexure - A-I and receipt evidencing payment of non-refundable fee of such amount as specified in Schedule I.",
+            "(2) A company applying for licence under sub-regulation (1) shall submit its application along-with the supporting information and documents through the futures exchange to the Commission.",
+            "(3) The futures exchange on receipt of application under sub-regulation 2, shall scrutinize the application, make necessary verification to authenticate the contents of the documents submitted and duly certified copies of the same shall be forwarded to the Commission along with a letter of recommendation, inter alia, covering the following,--",
+            ">(a) the contents of the application for licence and supporting documents are in conformity with these regulations;",
+            ">(b) the applicant meets the requirements of the Act and these regulations for the purposes of licence under these regulations;",
+            ">(c) the applicant, its sponsors, directors and senior management officers are fit and proper persons as per the criteria specified in these regulations;",
+            ">(d) the applicant has arrangements for putting in place such trading, clearing and settlement, accounting and recording systems as are necessary for the purposes of the applicant's existing and anticipated operations of business;",
+            "resolve customer complaints, handie conflict management, monitor unethical conduct and market abuse, prevent money laundering and",
+            "combat terrorist financing; and",
+            ">(f) the past track record of regulatory compliance of the applicant, its sponsors, directors and senior management officers is satisfactory.",
+            "(4) The Commission, while considering the application for licence, may require the applicant to furnish such further information or clarification, as it deems appropriate.",
+            "(5) The applicant shall, if so required, appear before the Commission for a representation through a person duly authorized for this purpose in writing by the board of directors of the applicant.",
+            "(6) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be application communicated to the Commission within five working days from the date of such change."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Financial Resources Requirement",
+          "text": [
+            "[(1) An applicant for a licence as a futures broker shall comply with and ensure ongoing compliance with the following minimum net worth requirements for each category:",
+            "Category Minimum Net worth (Rs. in Million)",
+            "Futures Broker 10 Agri-Onlv Futures Broker 5]",
+            "(2) In case a futures broker fails to meet the minimum [ ] net-worth requirements as specified in sub-regulation (1), the futures exchange shall [allow a further period of 30 calendar days to the futures broker to comply with the minimum capital requirement and failing of which the futures exchange shall] restrict the trading facility of such futures broker and its licence shall be licence suspended by the Commission without prejudice to any other disciplinary action under the Act and these regulations.",
+            "]",
+            "(7) The net worth of a futures broker shall be calculated as total assets less total liabilities less surplus on revaluation, if any, created upon revaluation of fixed assets:",
+            "Provided that the Commission may issue clarification in respect of treatment of any item of assets and/or liabilities for the purpose of calculating the net worth of a futures broker."
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Grant of licence",
+          "text": [
+            "(1) The Commission, while considering the application for granting a licence, shall inter-alia take into account the following matters,-",
+            ">(a) that the applicant meets the requirements of the Act and these regulations;",
+            ">(b) that the applicant has the ability to efficiently handle its functions as a futures broker and its obligations under the Act and these regulations;",
+            ">(c) that the applicant has the necessary infrastructure including but not limited to financial resources, policies, procedures, systems and controls broker;",
+            ">(d) that the applicant satisfies the Commission that the reasons for an earlier refusal for grant or renewal of licence, if any, as a futures broker are no longer applicable;",
+            ">(e) adherence to the fit and proper criteria contained in Annexure B; and",
+            ">(f) history of past regulatory compliance and any pending penal action against the applicant, its sponsors, directors or senior management officers for an offence under the Act, the Securities Act, the Securities and Exchange Commission of Pakistan Act, 1997, the repealed Securities and Exchange Ordinance, 1969, the repealed Companies Ordinance, 1984 and the Companies Act, 2017.",
+            "(2) The Commission, upon being satisfied after conducting such inquiries and obtaining such further information as it deems appropriate that,-",
+            ">(a) the applicant is eligible for a licence;",
+            ">(b) the applicant is in compliance with the provisions of the Act, these regulations and any directives or circulars or guidelines or codes issued thereunder; and",
+            ">(c) it is in the public interest and interest of the futures market;",
+            "may grant a licence to the applicant in Form B for a period of one year under the provisions of the Act and communicate this to the futures exchange.",
+            "Provided that the Commission may impose any additional condition on the applicant while granting the license under these regulations as it may deemed appropriate:",
+            "Provided further that while deciding to grant licence to a futures broker, the Commission may seek additional information from other Government agencies or regulatory bodies including obtaining credit information bureau (CIB) reports from the State Bank of Pakistan and may also conduct a pre-licence assessment or a visit of the premises of the applicant to verify the genuineness of information -31-01 submitted.",
+            "(3) Nothing in these regulations shall affect the power of the Commission to restrict, suspend or cancel the licence of a futures broker under the Act if any or all of the events as mentioned therein have occurred or the futures broker fails to comply with any of the requirements of these regulations.",
+            "(4) Within [three months] of the grant of licence, the futures exchange, prior to allowing commencement of business to a futures broker, shall confirm shall confirm through a visit of such futures broker's premises that the futures broker has put in place-",
+            ">(a) adequate professional management including branch heads, system operators and compliance officer, as is necessary to allow the futures broker to carry out its obligations in accordance with the applicable laws, circulars, directives, etc.;",
+            ">(b) necessary technology, systems and internal procedures;",
+            ">(c) organizational structure with clear lines of responsibility and authority;",
+            ">(d) risk management, supervisory system, infrastructure including but not limited to adequate office space, equipment and technical aspects including appropriate arrangement for clearing, and settlement services to effectively and efficiently discharge its responsibilities as a futures broker with capacity for ongoing maintenance of the same;",
+            ">(e) internal control measures to ensure that rustomer's risk profiling is carried out including measures to assess investor suitability, product compatibility and responsible selling; and",
+            ">(f) know-your-customer and customer due diligence measures are in place to combat money laundering."
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Renewal of licence",
+          "text": [
+            "(1) Subject to the provisions of the Act and these regulations, a futures broker having a valid license shall, [thirty (30)] days prior to the date of expiry of its licence, apply to the Commission through futures through futures exchange in Form C along with [an undertaking stating that it is in compliance with all regulatory requirements and] receipt evidencing payment of renewal fee of such amount as specified in Schedule I, for renewal of its licence.",
+            "(2) Any license renewed under these regulations shall be valid for a period of one year unless surrendered by the futures broker or suspended or cancelled earlier by the Commission.",
+            "[(3) The futures exchange shall scrutinize the application for renewal of licence and the documents submitted by the futures broker and submit the same, one month prior to the date of expiry of the license of futures broker, along with a letter of recommendation stating that it has reviewed the contents of the application and the supporting documents and has found the same to be in conformity with the Act and these regulations:",
+            "Provided that while submitting the letter of recommendation to the Commission, the futures exchange shall also consider the futures broker's outstanding customer complaints and its track record with respect to its compliance with the applicable regulatory requirements.]",
+            "[(4) The Commission upon being satisfied that the applicant continues to meet the requirements for licensing, is in compliance with the provisions of the Act, any rules, regulations, notifications, directives, guidelines or codes issued thereunder and it is in the public interest and interest of the commodity market, may renew the licence of a futures broker as recommended by the futures exchange for another calendar year and convey the same to the futures exchange for onward dissemination to all stakeholders.]",
+            "(5) Where the application for renewal of licence is made within the provided time but has not been decided by the Commission, the licence of the futures broker shall continue to be valid until the application for renewal is decided by the Commission.",
+            "(6) While renewing the licence of a futures broker the Commission may, [] take into account the past track record and history of regulatory compliance of the futures broker, its sponsors, directors and senior management officers.",
+            "(7) The Commission shall send an intimation of renewal of licence of the futures broker to 'the futures exchange for onward dissemination to all stakeholders."
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Procedure where licence is not granted or renewed",
+          "text": [
+            "(1) The Commission, after giving a reasonable opportunity of hearing to the applicant, may refuse to grant or renew a licence if in the opinion of the Commission such applicant does not fulfill the requirements specified under the Act and these regulations and where the Commission after taking into account the facts, is of the view that it is not in the public interest or in the interest of the futures market to grant or renew a licence.",
+            "(2) The applicant, if aggrieved by the decision of the Commission under sub-regulation (1) may, within a period of thirty days from the date of receipt of such refusal, prefer an appeal to the appellate bench of the Commission under section 33 of the Securities and Exchange Commission of Pakistan Act, 1997.",
+            "(3) A futures broker whose application for renewal of licence is refused shall immediately inform all its existing customers, settle all dues of the all dues of the customers within fifteen days and shall remain responsible for clearing and settlement of all its obligations up to the date on which it has been working as a futures broker, in the manner specified by the futures exchange with the approval of the Commission.",
+            "(4) The Commission shall communicate its decision of refusal to grant or renew the licence to the applicant or futures broker, as the case may be, and the futures exchange.",
+            "Provided further that the futures exchange shall submit the applications of futures brokers eligible for renewal of licence to the Commission one month prior to the date of expiry of its licence.?"
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Cancellation of licence",
+          "text": [
+            "(1) A futures broker may apply to the Commission for cancellation of its licence along-with a confirmation from the futures exchange that such futures broker has informed all its existing all its existing customers, settled all dues and pending claims of the customers and has completed all formalities for closure of business.",
+            "(2) The Commission may,after being satisfied that all formalities for closure of business including settlement of customer claims have been completed, cancel the licence of such futures broker:",
+            "Provided that the Commission may impose such conditions as it deems appropriate at the time of such cancellation of licence.",
+            "(3) The licence of a futures broker shall [cease to be valid] under the following circumstances.",
+            ">(a) the TRE Certificate of such futures broker is cancelled by the futures exchánge; or",
+            ">(b) the futures broker surrenders its licence; or",
+            ">(c) the futures broker is declared defaulter by the futures exchange or TRE certificate suspended by the futures exchange and the reason for such default and/or suspension is not removed within a period of six months from declaration of such default and/or suspension; or",
+            ">(d) the futures broker surrenders the TRE certificate and the futures exchange cancels such TRE certificate subject to the requirements. of regulations of the futures exchange; or",
+            ">(e) the futures broker is declared insolvent by a Court; or",
+            ">(f) the futures broker fails to apply for renewal of licence before its expiry;",
+            ">(g) the licence is suspended by the Commission and such suspension has not been revoked till the time of expiry of licence issued to the futures broker.",
+            "Provided that the futures broker shall be restrained to take fresh positions, however, it is only allowed to divest its exiting holdings and settle all dues and pending claims of its customers.",
+            "(4) A futures broker whose licence [cease to be valid] under sub-regulation (3) shall inform all its existing customers, settle all dues of the customers within fifteen days and shall remain responsible for clearing and settlement of all its obligations up to the date on which it has been working as a futures broker.",
+            "(5) The Commission shall send an intimation of [cessation] of licence of a futures broker to the futures exchange.",
+            "Chapter III Conduct of a Futures Broker"
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Invitations, Advertisements and Publications",
+          "text": [
+            "(1) A futures broker shall not publish, circulate or distribute any advertisement or any information in any manner which is false, misleading or deceptive.",
+            "(2) A futures broker shall not publish, circulate or distribute any advertisement or any information in any manner which;",
+            ">(a) refers, directly or indirectly, to any past specific recommendations of the futures broker which were or would have been profitable to any person;",
+            "or",
+            ">(b) contains any statement that any report, analysis or other service will.be furnished free or without charge, unless such report, analysis or service is in fact or will in fact be furnished in its entirety and without any condition or obligation.",
+            "(3) The advertisement or any other form of publication shall not promise or guarantee any return or makes any exaggerated statement or presentation to exploit an individual's lack of experience and knowledge and should not include any other thing which otherwise is prohibited.",
+            "(4) The advertisement shall be legible, written in clear language, and should not be such that it may prejudice interest of the investors in general.",
+            "(5) In the event of suspension of any TRE certificate by futures exchange or suspension of licence of a futures broker by the Commission, the TRE certificate holder or futures broker so suspended shall not make any advertisement either singly or jointly with any other futures broker during the period of suspension.",
+            "(6) The advertisement shall not have any adverse reference regarding the reputation of any other futures broker or a participant of the futures market."
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Disclosure of financial risks",
+          "text": [
+            "(1) A futures broker shall not commence business with a customer unless such futures broker provides the customer with a risk disclosure document in accordance with the specimen provided by the futures exchange, inter alia containing the basic risks involved in trading in futures contracts including explanation of the following:",
+            ">(a) the risk of higher volatility which may affect the complete or partial execution of an order and the price at which it may be executed;",
+            ">(b) risk of lower liquidity;",
+            ">(c) speculative trading;",
+            ">(d) risk of wider spread;",
+            ">(e) price fluctuations due to corporate announcements or any other announcement that affect the price of underlying commodity/contract;",
+            ">(f) systemic risk; and [(2) The futures broker shall obtain a written, electronic, online or digital acknowledgment, having verifiable authentication credentials, or duly signed and dated by the customer, confirming that such customer has understood the nature and contents of the risk disclosure document.]"
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Conflict of interest",
+          "text": [
+            "(1) The futures broker shall take all reasonable steps including the framing of appropriate policies and procedures to minimize conflict of interest between such futures broker and its customers.",
+            "(2) Subject to the provision of sub-regulation (1), where any conflict of interest arises between the futures broker and its customer, the futures broker shall immediately inform the customer through verifiable means and not gain any direct or indirect advantage from the situation and shall act in the best interests of the customer.",
+            "(3) The futures broker must take reasonable steps to ensure that neither such futures broker nor any of its employees either offers or gives, or solicits or accepts, any inducement that is likely to conflict with any duties owed to the customers.",
+            "(4) The futures broker shall put in place a mechanism and take steps to avoid and eliminate the misalignment of incentives due to conflict of interest between the compensation of senior management officers, employees of the futures broker and interest of the customers.",
+            "(5) The futures broker shall put in place a mechanism to resolve any conflict of interest that may arise in the conduct of business and take all reasonable steps to resolve all conflicts of interests in an equitable manner.",
+            "(6) Where a futures broker has a material interest in a transaction to be entered into with or for a customer, or a relationship which gives rise to a conflict of interest in relation to such a transaction, the futures broker shall not knowingly either advise, or deal in the exercise of discretion, in relation to that transaction unless the futures broker has, -",
+            ">(a) disclosed that material interest or relationship, as the case may be, to the customer; or",
+            ">(b) taken reasonable steps to ensure that neither the material interest nor the relationship adversely affects the interests of the customer.",
+            "(7) The futures broker shall make appropriate disclosure to customers of possible source or potential areas of conflict of interest which could impair its ability to render fair, objective and unbiased service.",
+            "(8) In case of any breach of policies by its employees, the futures broker shall promptly investigate, and take appropriate action against the persons responsible."
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Confidentiality",
+          "text": [
+            "(1) The futures broker must have in place proper systems and controls along with clearly documented policies and procedures reasonably designed, for ensuring confidentiality of information in relation to its business as a futures broker.",
+            "(2) The futures broker must establish 'Chinese walls' including policies and physical apparatus designed to prevent the improper or unintended dissemination of market sensitive information from one division or department to another.",
+            "(3) The futures broker must establish policies and procedures, reasonable under the circumstances, to ensure that individuals making proprietary investment decisions are not trading on the basis of material non-public information obtained from another departments or units of the futures broker.",
+            "(4) The futures broker and its employees shall neither profit nor seek to profit from confidential information, nor provide such information to anyone with the objective of making profit for itself or for its customers.",
+            "(5) The futures broker and its employees shall refrain from trading on the basis of confidential information, and its employees shall not reveal such information, information outside the company.",
+            "(6) The futures broker and its employees shall not disclose or discuss with any other person other than normal course of business or make improper use of the details of investments of customers and other information of confidential nature of a customer."
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Duties and obligations of a futures broker",
+          "text": [
+            "(1) In addition to the requirements provided under the Act and any other rules or regulations made thereunder, a futures broker shall:",
+            ">(a) ensure fair treatment of its customers, not discriminate amongst them, and treat customers instructions and orders in due turn:",
+            ">(b) prominently display the licence granted by the Commission in a display the conspicuous place at its premises;",
+            ">(c) exercise due care and diligence while handling unsubstantiated market information or non-public price sensitive information;",
+            ">(d) take reasonable steps to ensure that any agreement, written communication, notification or information that such futures broker gives or sends to customers to whom the services are to be provided or",
+            "are being provided is presented fairly and clearly and adequate details regarding the services to be provided by the futures broker are covered therein;",
+            ">(e) ensure that it has adequate infrastructural systems with reliable back up procedures;",
+            ">(f) abide by the Corporate Governance Code provided in Annexure C;",
+            ">(g) ensure compliance with all legal and regulatory requirements applicable to the conduct of its business activities so as to promote the best interests of customers and the integrity of the futures market;",
+            ">(h) remain in compliance with the licensing requirements at all times and",
+            "inform the Commission immediately when it is non-compliant with any of the said requirements;",
+            ">(i) not enter into any transaction that involve foreign currency exposure or",
+            "approval of State Bank of Pakistan..",
+            ">(j) establish an internal code of practice, aimed at ensuring that members of its Board of directors and employees act in accordance with the best interests of its customers, the integrity of the market and are in compliance of the Act, these regulations and any other applicable laws, guidelines, directives and circulars, etc.;",
+            ">(k) frame policies and procedures to ensure compliance with the regulatory requirements governing prohibition of insider dealing and market abuse;",
+            "(1) ensure that Know Your Customer and Customer Due Diligence is being conducted properly in accordance with the relevant rules, regulations, notification, guidelines, directives and circulars etê. issued by the Commission and/or the futures exchange from time to time;",
+            ">(m) maintain membership of an association of futures brokers which is approved by the Commission and abide by the code of conduct specified by such association at all times;",
+            ">(n) inculcate a culture of compliance of the, regulatory requirements through ongoing education and training of its directors, employees;",
+            "specify and enforce any appropriate sanctions for breach by its directors, employees of any policies and procedures regarding market conduct to deter such practices; [ ]",
+            ">(o) ensure accuracy and completeness of the information shared or",
+            "submitted by it to the futures exchange, Commission and any other forum, (p) maintain a functional and accessible website as per requirements [notified] by the Commissfon and submit quarterly compliance report to the futures exchange; 1 ]",
+            ">(g) intimate futures exchange prior to opening of any branch subject to the requirements as prescribed by the futures exchange/ Commission from time to time. Provided that the futures exchange shall conduct [periodic inspection of the branches of brokers on the basis of a risk based inspection plan] to ensure its compliance with the regulatory framework.",
+            ">(r) comply with the requirements prescribed by the futures exchange for opening of branch office *Gl [(s) where it offers internet-based trading facilities, implement adequate measures to ensure that:",
+            ">(i) procedures and controls are in place to monitor and test the systems on a regular basis;",
+            ">(ii) adequate cyber-security mechanism is in place;",
+            ">(iii) operational and technical control systems are in place to manage the risks;",
+            ">(iv) all electronic communication is digitally signed, encrypted and",
+            "secured with a backup stored in soft and secured form; and",
+            ">(v) Technology infrastructure standards, certifications or any other requirement or conditions, as may be specified by the Commission and/or the futures exchange.] \"Substituted for \"prescribed\" by SRO 2445(D)/2025 dated December 12, 2025.",
+            "(2) A futures broker shall not:",
+            ">(a) in any way contribute to manipulating the demand for or supply of commodities contracts in the market or to influence prices of influence commodities and futures contracts, or indulge in any action that can detract from transparent and fair market-driven pricing on the futures markets;",
+            ">(b) encourage sale or purchase of futures contracts on account of a customer with the sole objective of generating commission or any other financial benefit for the futures broker or any of its employees;",
+            ">(c) have an incentive structure that encourages dealing in futures contracts have an incentive structure that encourages dealing in futures contracts not suiting the risk profile of its customers;",
+            ">(d)",
+            "maintain anonymous accounts or accounts that are opened or",
+            "maintained in the name of fictitious persons;",
+            ">(e) deal or transact business directly or indirectly or execute an order for a customer where the name of such customer is appearing on the list of delinquent customers maintained by the futures exchange;",
+            ">(f) operate and have any branch without registration of the same with the operate and have any branch without registration of the same with the futures exchange and after fulfilling all other applicable requirements;",
+            ">(g) engage in manipulative or teceptive conduct or any other form of misconduct which would give other users, of the futures market a false, or misleading impression as to the prevailing market conditions, including but not limited to price, suppl! or demand;",
+            ">(h) spread.rumours or disseminate false or misleading information;",
+            ">(i) engage in any investment transactions and activities that would result in manipulation of prices;",
+            ">(j) accept any money from a customer on a promise of predetermined or",
+            "guaranteed return;",
+            ">(k) accept any money or deposit or borrowing by whatsoever name called and in whatsoever manner from any person including an individual or",
+            "any segment of public or directors and sponsors of a futures broker except in the following manner:-",
+            ">(i) redeemable capital issued by a futures broker under the Companies Act;",
+            ">(ii) finance obtained by a futures broker from a financial institution;",
+            ">(iii) advance, application or subscription money for shares of a futures broker;",
+            ">(iv) subordinated loans from directors, sponsors or substantial shareholders of a futures broker subject to the conditions as may be imposed by the Commission;",
+            "(1) appoint an auditor who is an associate of its director or a senior management office;.",
+            ">(m) engage in any arrangement with a person against fixed fee or",
+            "commission in relation to introducing or facilitating a customer for trading through the futures broker operating from any office or location other than the registered office of the futures broker and branch office of the futures broker registered with the futures exchange; and",
+            ">(n) provide access to the trading terminals other than its authorized employees and customers.",
+            "(3) 3) A tutures broker shall which govern trading or investmen' in futures contracts by its employees, directors, their spouses and dependent children, and such policies shall at the minimum cover following requirements/principles:",
+            ">(a) disclosure by its employee and directors of any open positions in futures contracts held by him/her, his/her spouse and/or dependent children along with details of their accounts with a futures broker and such information shall be reported to the compliance officer of the futures broker;",
+            ">(b) prior written approval for trading by its employees for their own personal accounts or on behalf of their spouses and/or dependent children;",
+            ">(c) periodic disclosure of position in futures contracts held by its employees and directors their spouses and dependent children, and reporting of actual transactions, including volume, date and price, in a timely manner;",
+            ">(d) restriction on employees from deriving any benefit or personal advantage from information which is generally not available and which is obtained by reason of or in the course of their employment with the futures broker;",
+            ">(e) discouraging frequent short-term trading for speculative purposes; and",
+            ">(f) compliance of employees with the requirements specified by the futures exchange and the code of conduct specified by the futures exchange in relation to the trading by employees of a futures broker.",
+            "(4) A futures broker shall not trade through another futures broker of the same futures exchange on its own account or on account of its customers.",
+            "(5) Chief executive of the futures broker and his/her dependent family members can only trade through the futures broker in which he/she holds the said position.",
+            "(6) A futures broker shall formulate policies and take reasonable measures to restrict its employees, including employees serving as directors on its board, from trading through another futures broker of the same futures exchange.",
+            "(7) Shareholders and other directors of futures brokers shall be allowed to trade through another futures broker of the same futures exchange subject to the condition that one-time prior written approval is obtained from the futures broker of which such person is a director or substantial shareholder and the said approval shall also be submitted to the futures exchange.",
+            "(8) A futures broker shall ensure that it has properly designed internal control policies and framework which are duly approved and periodically reviewed by its board of directors and the same shall be widely disseminated for compliance by all employees.",
+            "(9) The internal control policies and framework to be designed under subregulation (8), shall inter alia stipulate the following:",
+            ">(a) ensu.e that clear lines of responsibility, authority and tasks are adequately assigned to its employees;",
+            ">(b) ensure appropriate segregation of duties and information barriers between own account or proprietary trading and customer dealing functions;",
+            ">(c) ensure employment of sufficient human resource which is adequately trained to efficiently perform its functions;",
+            ">(d) ensure that channels of communications are properly documented and",
+            "monitored regularly and effectively, including documentation of logs of e-mails and other inter-office communications;",
+            ">(e) put in place effective and operationally independent internal audit and",
+            "compliance functions having appropriately trained and competent staff;",
+            ">(f) ensure that a periodic or annual review of the internal control system and assessment of overall level of compliance of the futures broker is carried out by the internal audit function, which reports directly to the board of directors or its audit committee;",
+            ">(g) ensure implementation of a trade review procedure, reasonably designed to identify trades that may violate the provisions of the Act and any rules and regulations made thereunder; and",
+            ">(h) provide for periodic inspections of branch offices of the futures broker and supervision of business activities of such branches.",
+            "(10) A futures broker shall establish and implement a contingency plan to \"ure continuity of its operations in the event of a disaster or crisis and such ingency plan shall at the minimum cover the following requirements ciples-",
+            ">(a) offsite backup of key records, systems and information and mechanism for recovery;",
+            ">(b) alternate vays of communications with customers, employees and",
+            "regulators:",
+            ">(c) details of alternate service providers in case of disaster;",
+            ">(d) details of availability of necessary redundancies - including infrastructural redundancies as well as operational and human capital;",
+            "and",
+            ">(e) testing of the contingency plan on [bi-annual] basis or any other interval as may be specified by the Commission.",
+            "(11) A futures broker shall not make a recommendation regarding taking position in any futures contract unless such recommendation is based on reliable information and the source of such information is disclosed. Any recommendation relating to target price shall also disclose the valuation method used to determine such target price and the risk that may impede achievement of the price target.",
+            "(12) A futures broker licensed under these regulations shall ensure:",
+            "[ (b) submission of returns and statements in relation to segregation of customers' assets including reconciliations of customer assets on such frequency and on such formats as may be required by the futures exchange and/or the Commission from time to time;",
+            ">(c) periodic audit of the statements, ret toand reconciliations of custemer assets as per the requirem uts of frtures exchange or in the manner specified by the Commission from time to time;",
+            ">(d) that the compliance officer appointed or designated by the futures broker regularly monitors the customer assets, movements therein, and",
+            "prepares reconciliations as required in clauses (b) and (c);",
+            ">(e) In case any discrepancy is observed or any instance of unauthorized use of customer assets or any violation of law with respect to segregation and safekeeping of customer assets is observed the same must be reported to the futures broker for taking immediate remedial action:",
+            "Provided that in case the futures broker fails to rectify the position within three business days, the matter should be reported to the Commission and the futures exchange by the compliance officer;",
+            ">(f) establishment of systems and controls for maintaining accurate and up-",
+            "to-date records of customers' asset holdings including information specifying the amount, location, and ownership status of customer assets and the records should be maintained in a way that appropriately distinguishes the customer assets account of one customer of the futures broker from the customer assets account of another customer of the futures broker and from the assets of the futures broker itself;",
+            "(13) In addition to meeting the conditions in these regulations, the futures broker licensed under these regulations shall comply with such other conditions as may be imposed by the Commission. } Substituted for \"quarterly\" by SRO 1912(1)/2022 dated October 14, 2022."
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Establishment of relationship with customer",
+          "text": [
+            "(1) A futures broker shall not commence business with a customer including acceptance of cash and/or commodities from it, unless it has entered into an agreement with the customer on the Standardized Account Opening Form specified by the futures exchange, obtained acknowledgment of risk disclosure document, opened an account in the customer's name and completed all other requirements as may be specified by the futures exchange.",
+            "(2) A futures broker shall take reasonable steps to ensure that the shall take identity, address and contact details of its customers are known and verified.",
+            "(3) A futures broker shall ensure that the information contained in the account opening form is updated, complete and correct at all times.",
+            "(4) A futures broker shall ensure maintenance of only true and correct information/particulars of its customers in the system and its records, and shall information/particulars of its customers in the system and its records, and shall not change any detail provided by the customer in the official documents/records without prior approval of the customer and shall keep the record of such changes along with necessary documentary evidence.",
+            "(5) A futures broker shall hold in possession, copies of documentation regarding the identity of customer and the identity of any representative of the customer.",
+            "(6) A futures broker must take reasonable care in evaluating that the customer has sufficient financial resources to settle the transactions the customer wishes to enter into.",
+            "(7) A futures broker shall develop and maintain effective \"know your customers\" and \"customer due diligence\" polices and procedure to determine true identity of its customer, their source of earning and their financial capacity to trade and shall ensure compliance with all the laws regarding anti money laundering."
+          ]
+        },
+        {
+          "no": "18",
+          "title": "Customers' rights",
+          "text": [
+            "(1) A futures broker shall not, in any written communication or agreement, seek to exclude or restrict:",
+            ">(a) any duty or liability to a customer which such customer has under any law or under any regulations made by the Commission;",
+            ">(b) any other duty to act with skill, care and diligence that is owed to a customer in connection with the provision of service as a futures broker;",
+            "and",
+            ">(c) any liability owed to a customer for failure to exercise the degree of anll, care ay ovid to a cuatmay foasoalbly be expected the de futer of skill, care and diligence that may reasonably be expected of the futures broker in the provision of their service.",
+            "(2) A purported exclusion or restriction prohibited by this regulation shall be void and of no effect."
+          ]
+        },
+        {
+          "no": "19",
+          "title": "Execution of customer orders",
+          "text": [
+            "(1) A futures broker shall not deal in futures contracts on account of a customer without prior instructions of such customer. 1(2) A futures broker shall not execute discretionary trades on behalf of customers in any manner.",
+            "(3) A futures broker or any of its employee shall not take or use the password on behalf of its customers.",
+            "(4) A futures broker shall take reasonable measures to execute the orders placed by the customers on the most advantageous terms as expeditiously as practical in the prevailing market conditions.",
+            "(5) A futures broker shall always give priority to outstanding customer orders.",
+            "(6) All orders to buy or sell futures contracts which a futures broker may receive shall be entered, in the chronological order, in a register to be maintained in a form which shows the name, and trad r code and UIN of the person who placed the order, the name and number of the futures contracts to be bought or sold, the nature of the transaction and the limitation, if any as to the price of futures contracts or the period for which the order is to be valid.",
+            "(7) The chronological register to be maintained under sub-regulation (4) may be maintained in electronic form including the logs generated from the may be maintained in electronic form including the logs generated from the system and telephone recording."
+          ]
+        },
+        {
+          "no": "20",
+          "title": "Order recording",
+          "text": [
+            "(1) A futures broker shall ensure that all orders placed by customers through telephone are recorded over dedicated telephone lines.",
+            "(2) A futures broker shall ensure that all orders received in-person from visiting customers are adequately recorded and acknowledgement is obtained •from the customers.",
+            "(3) A futures broker shall ensure that it has preserved all records pertaining to all orders received from customers in writing or through any other document, fax, email, or through any other means,."
+          ]
+        },
+        {
+          "no": "21",
+          "title": "Contract notes",
+          "text": [
+            "(1) A futures broker shall issue without delay to its customers a contract/trade confirmation on the format specified by the futures exchange, in respect of every transaction executed for the purchase or sale of futures contracts entered into by such futures broker for its customers on the trading system of the futures exchange, not later than the start of the next trading day after the contract was entered into, make out a contract note in accordance with sub-regulations (2) and (3) and deliver the contract note/trade confirmation to the customer by means of acceptable mode of communication or by hand subject to the acknowledgement receipt, as per the medium chosen by the customer in the agreement/standardized account opening form and such futures broker shall retain proof of sending the contract notes to the customers.",
+            "(2) The contract notes shall be numbered with unique running serial numbers.",
+            "(3) The contract note shall state the nature of the transaction and shall include:",
+            ">(a) the name and licence number of the futures broker and the address of the principal place at which it carries on its business;",
+            ">(b) the name and address of the customer along with customer's account number;",
+            ">(c) the name of the futures exchange on which the transaction is made;",
+            ">(d) the date on which the transaction is executed, the settlement date, the date the contract note is made out and unique number of the contract (e) the quantity and description of the futures contracts traded;",
+            ">(f) the price and total consideration;",
+            ">(g) the amount of consideration paid or payable under the contract;",
+            ">(h) the rate or amount of the commission, ancillary charges, statutory and",
+            "regulatory levies charged or payable for the transaction;",
+            ">(i) a statement stating that the transaction in the contract note shall be subject to the regulations of the futures exchange and/or the clearing house;",
+            ">(j) name of the authorized person of the futures broker, his/her telephone number and email address; and",
+            ">(k) such other information as may be specified by the Commission from time to time.",
+            "(4) A contract note may contain the particulars of more than one transaction which have been transacted during one market day in relation to a customer."
+          ]
+        },
+        {
+          "no": "22",
+          "title": "Electronic contract notes",
+          "text": [
+            "(1) A contract note that is issued by the futures broker may be in electronic form subject to authorization by the customer in writing.",
+            "(2) The electronic contract note shall be issued to the customer on the email address provided by such customer in writing and any change in the email address must be communicated by the customer to the futures broker in writing under signature and such futures broker must retain record of the same.",
+            "(3) The acknowledgment of the email sent to the customer shall be retained by the futures broker in soft and non-alterable form.",
+            "(4) The proof of delivery i.e., log report generated by the system at the time of sending the contract notes shall be maintained by the futures broker.",
+            "(5) The log report shall also provide the details of the contract notes that are not delivered to the customer's e-mails or are rejected or bounced back.",
+            "(6) Wherever the electronic contract notes have not been delivered to the customer or have been rejected (bouncing of mails), the futures broker shall send a physical contract note to the customer within the timeline specified under [regulation 21]."
+          ]
+        },
+        {
+          "no": "23",
+          "title": "Receipt of customer money",
+          "text": [
+            "A futures broker shall not receive customer money in its own name or hold customer assets for whatsoever purpose.]"
+          ]
+        },
+        {
+          "no": "25",
+          "title": "Periodic reporting to the customer",
+          "text": [
+            "(1) A futures broker shall on a daily basis or on such periodic basis, as may be specified from time to time by the futures exchange and/or the Commission, furnish to the customer, reports containing information regarding handling of contracts executed, receipts and payments, and the holding balance in customer's assets.",
+            "(2) A futures broker shall promptly provide to a customer any report or information pertaining to the account of such customer as and when requested by the customer."
+          ]
+        },
+        {
+          "no": "26",
+          "title": "Customer Complaints",
+          "text": [
+            "(1) A futures broker shall have internal procedures to ensure the proper handling of complaints received from customers and to ensure that appropriate remedial action on those complaints is promptly taken.",
+            "(2) A futures broker shall take all reasonable measures to redress customers' grievances promptly but not later than thirty days of receipt thereof and when called upon by the Commission or the futures exchange or any other regulatory body to do so it shall redress the grievances of customers within the time specified.",
+            "(3) A futures broker shall maintain records regarding customers' shall grievances received by it and redressal of such grievances.",
+            "(6) A futures broker shall keep records of:",
+            ">(a) all amounts deposited into the designated bank account(s), specifying the customer: on whose behalf the amounts are held and the dates on which the amounts were received;",
+            ">(b) all payments from the designated bank account(s), the dates of those payments, and the names of the customers on whose behalf the payments are made; and",
+            ">(c) such other particulars as may be specified by the Commission.",
+            "(7) No amount from customer bank account(s) shall be withdrawn in cash and all payments shall be made through cross cheques or other banking channels and where payment is made through cross cheques, the futures broker shall keep copy of the cheques issued for the purposes of record.",
+            "(8) All payments due to the customer, received from the futures exchange shall be processed within one (01) working day for transfer into the customer's account. No amount from the futures broker's bank account(s) shall be withdrawn in cash, and all payments shall be made through cross cheque(s) or other banking channels.\"",
+            "(4) A futures broker shall at the end of each quarter submit information about the number of customer grievances received, redressed and those remaining unresolved beyond three months of the receipt to the futures exchange along with the reasons thereof for delay."
+          ]
+        },
+        {
+          "no": "27",
+          "title": "Appointment and functions of Compliance Officer",
+          "text": [
+            "(1) A futures broker shall, as applicable, either designate or appoint a compliance officer, fulfilling the fit and proper criteria specified in these regulations and responsible for monitoring compliance of the futures broker with the applicable regulatory regime.",
+            "]",
+            "(3) The compliance officer shall immediately report any non-compliance with any requirement to the futures broker and the futures broker shall immediately take steps to ensure compliance with the regulatory regime.",
+            "(4) Where the futures broker fails to take steps as required under subregulation (3) the compliance officer shall immediately inform the futures exchange and the Commission of the non-compliance by the futures broker.",
+            "(5) The compliance officer shall prepare [quarterly] compliance reports which shall be submitted to the board of directors of the futures broker [:]",
+            "[Provided that any instance of non-compliance would be reported to the board of directors on an immediate basis.]",
+            "Chapter IV Accounting and Audit"
+          ]
+        },
+        {
+          "no": "28",
+          "title": "General",
+          "text": [
+            "(1) The obligations and duties of a futures broker under these regulations with respect to audit and accounts are in addition to the requirements of the Companies Act, the rules and regulations made thereunder and any directives issued thereunder.",
+            "(2) A futures broker may prepare financial statements on trade date or settlement date basis and accordingly account for income, assets and liabilities:",
+            "Provided that the futures broker shall disclose the said basis in its financial statements and shall not change the said basis during a financial year."
+          ]
+        },
+        {
+          "no": "29",
+          "title": "Maintenance of books of accounts and other records",
+          "text": [
+            "(1) A futures broker shall keep accounting and other records for a period of not less than ten financial years immediately preceding a financial year which shall sufficiently explain its business and transactions entered into (whether effected on its own behalf or on behalf of customers) and the financial position of the futures broker, and shall be such as to-",
+            ">(a) disclose with accuracy the financial position at that time;",
+            ">(b) enable the futures broker to prepare financial statements at any time and which comply with the requirements of law; and",
+            ">(c) demonstrate whether the futures broker is maintaining in its regulated activity with adequate financial resources to meet its business commitments.",
+            "(2) A futures broker shall ensure that all books and records with respect to accounting and audit under these regulations are updated in a timely manner.",
+            "(3) A futures broker shall ensure that information which is required to be recorded under the Act and these regulations shall be recorded in such a way as to enable a particular transaction to be identified at any time and traced from initiation of the order to final settlement.",
+            "(4) All records required to be maintained under the Act and these regulations including records maintained in electronic form shall be recorded, arranged, filed, indexed and cross-referenced so as to permit prompt access to any particular record.",
+            "(5) A futures broker shall prepare and maintain books of accounts and other documents in a manner that will disclose a true, accurate and up-to-date position of business, including but not limited to:-",
+            ">(a) record of all assets and liabilities of the futures broker including any commitments or contingent liabilities;",
+            ">(b) journal (or other comparable record), cash book and any other books of original entry, forming the basis of entries into any ledger, the books of original entry which contain a daily record of all orders for purchase or",
+            "sale of futures contracts, all purchases and sales of futures contracts, all receipts and deliveries of commodities and all other debits and credits;",
+            "capital, income and expense accounts;",
+            ">(d) ledgers (or other comparable records) reflecting futures contracts bought or sold;",
+            ">(e) record of all balance of all ledger accounts in the form of trial balances;",
+            ">(f) daily entries of all customer money which is deposited into or out of a designated bank account, where applicable;",
+            ">(g) record of transactions with the banks and the aggregate balances on designated bank accounts;",
+            ">(h) contract books showing details of all contracts entered into by the futures broker;",
+            ">(i) documents relating to opening of trading account of a customer with the futures broker;",
+            "]",
+            ">(k) record of the time, date, and complete particulars of instructions received from and trades executed for customers;",
+            "(1) counterfoils or copies of the contract notes issued to the customers;",
+            ">(m) margin deposit book;",
+            ">(n) daily record of all purchases and sales of futures contracts by the futures broker distinguishing those which are made by the futures broker on his own account and those which are made by him on behalf of others;",
+            ">(o) record of establishment of branch offices with the following information, namely:-",
+            "(1) location of the branch offices;",
+            ">(ii) intimation to the futures exchange of such offices;",
+            ">(iii) details of trading terminals installed at the branch offices;",
+            ">(iv) status of the person authorized to manage the branch office;",
+            ">(v) proof of business being done at the branch office in the name of the futures broker;",
+            ">(vi) proof of maintenance of the branch offices' bank accounts in the name of the futures broker;",
+            ">(vii) proof of proper maintenance of accounts of the customers at the branch offices; and",
+            ">(viii) any other documents and records required to be maintained under regulations made by the futures exchange; and",
+            ">(ix) all customer related record.",
+            "(6) A futures broker shall intimate to the futures exchange and the Commission the place where the books of accounts, records and documents are maintained.",
+            "21 ]"
+          ]
+        },
+        {
+          "no": "30",
+          "title": "Preparation and submission of financial statements",
+          "text": [
+            "(1) A futures broker shall prepare financial statements for each quarter, half year and for each financial year. The financial statements of the futures broker shall be prepared in compliance with the requirements of the Companies Act including conformity with the accounting standards as directed by the Commission.",
+            "(2) A futures broker must also disclose in its financial statements the following, (a) pattern of shareholding, giving names of persons holding more than 5% shares;",
+            ">(b) all changes in shareholding above 5%;",
+            "(3) A futures broker shall submit, within four months after the end of each financial year, its annual financial statements to the Commission along with its audit report."
+          ]
+        },
+        {
+          "no": "31",
+          "title": "Appointment of auditor and related matters",
+          "text": [
+            "(1) A futures broker shall ensure that the auditor appointed has inter-alia the powers and duties specified under sub-regulation 3 and-",
+            ">(a) those powers and duties are set out in an engagement letter;",
+            ">(b) the engagement letter is signed by the futures broker and the auditor;",
+            "and",
+            ">(c) the futures broker retains a copy of the engagement letter.",
+            "(2) A futures broker shall, within fourteen days, give written notice to the Commission of the appointment, removal or resignation of an auditor.",
+            "(3) The auditor appointed by a futures broker shall have the right to,-",
+            ">(a) access the accounting and other records of the futures broker and all other documents relating to its business including the documents the futures broker is required to maintain under the Act and these regulations; and",
+            ">(b) require from the futures broker such information and explanations as the auditor considers necessary for the performance of duties.",
+            "(4) In preparing an audit report, the auditor shall carry out such investigations as will enable him to form an opinion as to the matters required by sub-regulation 5 to be stated in the auditor's report.",
+            "(5) The audit report shall state all the matters as are required to be stated in accordance with the requirements of the Companies Act and where applicable, balance sheet was prepared.",
+            "(6) The auditor shall also make out a limited assurance report of the futures broker stating whether, during the period, the futures broker has, in all material respects:",
+            ">(b) implemented an adequate internal control system and compliance function commensurate with the size and nature of services performed by the 'utures broker; and",
+            ">(c) established a compliance function which performed its functions with efficiency.",
+            "(7) If the auditor is of the opinion that one or more of the requirements of sub-regulation 5 have not been met, such opinion shall be stated in the report and the relevant requirements which they have not been met shall be specified.",
+            "(8) Where an auditor resigns or is removed by the futures broker, a notice to that effect shall be sent to the Commission containing a statement signed by the auditor to the effect that there are no circumstances connected with his resignation or removal which the auditor considers should be brought to the attention of the Commission:",
+            "Provided that where the auditor is removed during their tenure, the futures broker shall appoint the auditor with prior approval of the Commission."
+          ]
+        },
+        {
+          "no": "32",
+          "title": "Submission of information and returns",
+          "text": [
+            "(1) The Commission may by written notice require a futures broker to submit to the Commission such information or periodic returns as it may require.",
+            "(2) In addition to any periodic returns required under sub-regulation (1), the Commission may by written notice require futures broker, either generally or in a particular case or class of cases, to submit to the Commission or to any other entity authorized in the matter, such other information or exceptional returns as it may require."
+          ]
+        },
+        {
+          "no": "33",
+          "title": "Management rating",
+          "text": [
+            "The futures broker licensed under these regulations may obtain management rating on annual basis from a credit rating company licensed by the Commission and disclose such rating at all times on their websites and all advertisements."
+          ]
+        },
+        {
+          "no": "34",
+          "title": "Repeal and Savings",
+          "text": [
+            "(1) The Commodity Exchange and Futures Contracts Rules, 2005 hereinafter referred to as repealed rules are hereby repealed.",
+            "(2) Anything done, actions taken, orders passed, registration granted, notifications issued, proceedings initiated and instituted, prosecutions filed, processes or communications issued and powers conferred, assumed or exercised by the Commission under the repealed rules referred in sub-regulation (1), shall on the coming into operation of these regulations, be deemed to have been validly done, taken, passed, granted, issued, initiated or instituted, filed, conferred, assumed and exercised and every action, prosecution or proceeding instituted and every order, directive, notification, circular etc., issued by the Commission shall be deemed to have been initiated, instituted or issued and shall be proceeded with to'completion and be enforced and have effect accordingly. follows:- \"(a) maintained systems and control adequate to identify with reasonable accuracy the assets held on behalf of customer and distinguish such assets from the proprietary assets of the futures broker;\""
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}
