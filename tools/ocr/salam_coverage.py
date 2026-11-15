@@ -23,6 +23,16 @@ def pkey(pg):
     m = re.match(r"([A-Z]+)-(\d+)(?:\((\d+)\))?", pg or "")
     return (m.group(1), int(m.group(2)), int(m.group(3) or 0)) if m else None
 
+# An S.R.O.'s own date (from the book's notification index) decides whether a change is later than our
+# edition; the date of the update page it was filed with only says when the book was updated.
+SRO_DATE = {}
+for f in ("vol1-notifications", "vol2-notifications"):
+    for e in json.load(open(R / f"data/salam/{f}.json"))["entries"]: SRO_DATE[e["sro"]] = e["date"]
+
+def change_date(c):
+    ds = [SRO_DATE[x] for x in c.get("sros", []) if x in SRO_DATE]
+    return max(ds) if ds else c["date"]
+
 rows, lines = [], []
 for v in ("vol1", "vol2"):
     contents = json.load(open(R / f"data/salam/{v}-contents.json"))
@@ -33,6 +43,7 @@ for v in ("vol1", "vol2"):
         lo = pkey(it["page"]); hi = pkey(items[k + 1]["page"]) if k + 1 < len(items) and items[k + 1]["part"] == it["part"] else (lo[0], 10**6, 0)
         changes = [(u["date"], u["update"], c) for u in updates for c in u["items"] if pkey(c["page"]) and lo <= pkey(c["page"]) < hi]
         l = match(it["title"])
+        changes = [(change_date({"sros": c[2].get("sros", []), "date": c[0]}), c[1], c[2]) for c in changes]
         last = max((c[0] for c in changes), default=None)
         ours = l.get("amendedUpTo") if l else None
         if not l: verdict = "not in library"

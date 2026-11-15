@@ -26,7 +26,7 @@ ap.add_argument("ids", nargs="+")
 a = ap.parse_args()
 SC = Path(a.scans)
 PM = json.load(open(SC / "_ocr text" / "page-map.json"))
-SPEC = {c["id"]: c for c in json.load(open(ROOT / "data/salam/conversions.json"))["instruments"]}
+SPEC = {c["id"]: c for c in json.load(open(os.environ.get("BOOK_SPEC") or ROOT / "data/salam/conversions.json"))["instruments"]}
 
 def scan_pdf(ocr_dir_name):
     vol, _, stem = ocr_dir_name.partition(" - ")
@@ -298,7 +298,8 @@ def convert(spec):
             if t.startswith(old): t = new + t[len(old):]
         l["text"] = t
         mnum = re.match(r"^[\"“\[]?(\d{1,3})[.,]\s*[A-Z]", t)
-        if mnum and last_no < int(mnum.group(1)) <= last_no + 3:
+        looks_heading = bool(mnum) and len(t.split("-")[0].split()) <= 16 and not re.search(r"\b(shall|may|must|should|will)\b", re.split(r"[.:;]\s*[-–—_]|[:;]", t, 1)[0])
+        if mnum and looks_heading and last_no < int(mnum.group(1)) <= last_no + 3:
             last_no = int(mnum.group(1)); paras.append({"page": l["page"], "text": t}); continue
         ends = not paras or re.search(r"([.:;\-–—\]\"”)]|\band|\bor)\s*$", paras[-1]["text"].rstrip()) or paras[-1]["text"].isupper()
         new = (not paras or PROV.match(t) or re.match(r"^[\"“]?\d{1,3}[A-Z]{0,2}[.,]\s*[A-Z]", t) and ends or t.isupper() and len(t) > 12 or LABEL.match(t) and ends or re.match(r"^(CHAPTER|PART)\b", t)
@@ -426,7 +427,8 @@ for i in a.ids:
         "parts": parts, "schedules": [],
         "frontNotes": spec.get("frontNotes", []),
     }
-    json.dump(act, open(ROOT / "data/acts" / f"{i}.json", "w"), indent=2, ensure_ascii=False)
-    add_to_manifest(spec)
+    out_dir = Path(os.environ["BOOK_OUT"]) if os.environ.get("BOOK_OUT") else ROOT / "data/acts"   # BOOK_OUT: compare-only run, library untouched
+    json.dump(act, open(out_dir / f"{i}.json", "w"), indent=2, ensure_ascii=False)
+    if not os.environ.get("BOOK_OUT"): add_to_manifest(spec)
     nums = [s["no"] for p in parts for s in p["sections"]]
     print(f"{i}: {nsec} provisions ({nums[0] if nums else '-'}..{nums[-1] if nums else '-'}), {len(parts)} part(s), {('scans ' + str(spec['scanFrom']) + '..' + str(spec['scanTo'])) if spec.get('scanFrom') else 'book pages ' + spec['part'] + '-' + str(spec['from']) + '..' + str(spec['to'])}")

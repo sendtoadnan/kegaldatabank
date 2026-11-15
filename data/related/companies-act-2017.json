@@ -2267,6 +2267,25 @@
     "date": "2026-11-12",
     "how": "instrument"
    }
+  },
+  {
+   "title": "S.R.O. 1348(I)/2023 — acceptable quantitative tolerance levels for Shariah screening of securities and companies",
+   "type": "notification",
+   "number": "S.R.O. 1348(I)/2023 (19 September 2023)",
+   "sections": [
+    "451",
+    "510"
+   ],
+   "status": "in-force",
+   "basis": "Made under section 510 read with regulation 10(1)(i)(b) of the Shariah Governance Regulations, 2023; sets the minimum acceptable tolerance levels (interest-bearing debt below 37% of total assets, non-Shariah-compliant investments below 33%, non-Shariah-compliant income below 5% of revenue) used under section 451(1) for companies and section 451(2) for listed securities, with conditions for transfers of shares of unlisted companies.",
+   "confirm": [
+    "the text and date against SECP's or the Gazette copy",
+    "whether it has been amended or replaced since"
+   ],
+   "found": {
+    "date": "2026-11-16",
+    "how": "instrument"
+   }
   }
  ],
  "setInOrder": {
