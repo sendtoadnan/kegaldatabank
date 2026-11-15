@@ -324,8 +324,9 @@ ${body}
     ${act.parts.length ? `<aside class="toc" aria-label="Contents">
       <details open>
         <summary>Contents</summary>
-        <label class="sr-only" for="toc-filter">Filter contents</label>
-        <input id="toc-filter" class="toc-filter" type="search" placeholder="Filter ${e(act.unit.toLowerCase())}s…">
+        <label class="sr-only" for="toc-filter">Search the text of this instrument</label>
+        <input id="toc-filter" class="toc-filter" type="search" placeholder="Search in the ${e(act.unit.toLowerCase())}s’ text…">
+        <p id="toc-status" class="toc-status muted small" aria-live="polite"></p>
         <ol class="toc-list">${toc}</ol>
       </details>
     </aside>` : ''}

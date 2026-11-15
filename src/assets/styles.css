@@ -149,6 +149,9 @@ main { max-width: 1200px; margin: 0 auto; padding: 24px 16px 48px; }
 .toc { position: sticky; top: 72px; max-height: calc(100vh - 88px); overflow: auto; font-size: 0.9rem; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 12px; }
 .toc summary { font-weight: 600; cursor: pointer; }
 .toc-filter { width: 100%; margin: 10px 0; font: inherit; padding: 6px 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--bg); color: var(--text); }
+.toc-status { margin: 0 0 8px; }
+.toc-hits { margin-left: auto; padding: 0 6px; border-radius: 999px; background: var(--surface-2); font-size: 0.8em; }
+.toc-hits:empty { display: none; }
 .toc-list, .toc-list ol { list-style: none; padding: 0; margin: 0; }
 .toc-part { display: block; font-weight: 600; color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; margin: 12px 0 4px; }
 .toc-list a { display: flex; gap: 6px; padding: 3px 6px; border-radius: 6px; color: var(--text); text-decoration: none; }

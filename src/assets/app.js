@@ -223,20 +223,48 @@
       });
     });
 
-    // Contents filter
+    // Contents filter: matches the words of each provision's full text, not only its heading,
+    // shows how many times they occur in each provision and the total.
     var filter = document.getElementById('toc-filter');
     if (filter) {
-      filter.addEventListener('input', function () {
-        var q = filter.value.trim().toLowerCase();
+      var tocItems = null;
+      var norm = function (t) { return t.toLowerCase().replace(/[\u2018\u2019]/g, "'").replace(/[\u201c\u201d]/g, '"').replace(/\s+/g, ' '); };
+      var prepare = function () {
+        tocItems = [];
         document.querySelectorAll('.toc-list > li').forEach(function (part) {
-          var any = false;
           part.querySelectorAll('ol li').forEach(function (li) {
-            var hit = !q || li.textContent.toLowerCase().indexOf(q) !== -1;
-            li.hidden = !hit;
-            any = any || hit;
+            var a = li.querySelector('a');
+            var id = a && decodeURIComponent((a.getAttribute('href') || '').slice(1));
+            var prov = id && document.getElementById(id);
+            var badge = document.createElement('span');
+            badge.className = 'toc-hits';
+            if (a) a.appendChild(badge);
+            tocItems.push({ part: part, li: li, badge: badge, head: norm(li.textContent), text: prov ? norm(prov.textContent) : '' });
           });
-          part.hidden = !any;
         });
+      };
+      var status = document.getElementById('toc-status');
+      filter.addEventListener('input', function () {
+        if (!tocItems) prepare();
+        var q = norm(filter.value.trim());
+        var total = 0, provisions = 0, shown = new Set();
+        tocItems.forEach(function (it) {
+          var n = 0;
+          if (q.length > 1) {
+            for (var i = it.text.indexOf(q); i !== -1; i = it.text.indexOf(q, i + q.length)) n++;
+          }
+          var hit = !q || n > 0 || it.head.indexOf(q) !== -1;
+          it.li.hidden = !hit;
+          it.badge.textContent = q && n ? n : '';
+          if (hit) shown.add(it.part);
+          if (q && hit) { provisions++; total += n; }
+        });
+        document.querySelectorAll('.toc-list > li').forEach(function (part) { part.hidden = !shown.has(part); });
+        if (status) {
+          status.textContent = !q ? '' : provisions
+            ? 'Found ' + total + ' time' + (total === 1 ? '' : 's') + ' in ' + provisions + ' ' + (provisions === 1 ? 'provision' : 'provisions') + ' (text on this page; schedules shown as PDF are not searched).'
+            : 'Not found in the text on this page.';
+        }
       });
     }
 
