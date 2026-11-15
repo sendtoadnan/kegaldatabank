@@ -1,0 +1,440 @@
+{
+  "id": "cmc-regulations-2017",
+  "title": "Collateral Management Companies (Establishment & Operations) Regulations, 2017",
+  "number": "S.R.O. 302(I)/2017",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "CMC Regulations 2017"
+  ],
+  "enacted": "2017-05-02",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 302(I)/2017",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 302(I)/2017 dated May 02, 2017.- In exercise of the powers conferred by sub-section (2) of section 282B of the Companies Ordinance, 1984 (XLVII of 1984), the Securities and Exchange Commission of Pakistan is pleased to make the following regulations, the same having been previously published vide SRO 1144(I)/2016 dated December 6, 2016, namely:- Chapter I Preliminary",
+  "parts": [
+    {
+      "heading": "Regulations",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These regulations may be called Collateral Management Companies (Establishment & Operations) Regulations, 2017.",
+            "(2) They shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            ". In these Regulations, unless the context otherwise requires, (a) \"Act\" means Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+            ">(b) \"certificate of accreditation\" means the certificate of accreditation issued to a Warehouse by a Collateral Management Company under these regulations;",
+            ">(c) \"Collateral Management Company\" or \"CMC\" means a Non-Bank Fınance Company licensed by the Commission to provide collateral management services (d) \"Collateral Management Services\" means the activity of managing Produce as collateral, including but not limited to the following-",
+            ">(i) warehousing, i.e. provision of quality, storage and preservation services for a range of agricultural produce;",
+            ">(ii) providing enabling arrangements for collateral commodity financing;",
+            ">(iii) issuance of credible Warehouse receipts and other necessary arrangements for agricultural commodity financing; and",
+            ">(iv) stock audit, evaluation and verification services.",
+            ">(e) \"Commission\" means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997).",
+            ">(e)* \"Central Depository System\" or \"CDS\" shall have the same meaning as assigned to it under the Central Depositories Act, 1997.",
+            ">(f) \"depositor\" means a person who delivers Produce to the Warehouse Operator for storage or transfer of ownership;",
+            "electronic form issued in favour of the holder of the receipt by Collateral Management Company against deposit of specified Produce with the Warehouse as proof of title to the Produce held at the Warehouse; *it should be (f)",
+            ">(h) \"financial institution\" shall have the same meaning as assigned to it in clause (31) of sub-section (1) of section 2 of the Ordinance;",
+            ">(j) \"NBFC Rules\" means the Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003.",
+            ">(k) \"Ordinance\" means Companies Ordinance, 1984;",
+            "(1) \"Pakistan Mercantile Exchange\" or \"PMEX\" means Pakistan Mercantile Exchange duly licensed by the Commission;",
+            ">(m) \"Produce\"",
+            ">(i) means produce of farmers, arising from agriculture (including animal husbandry, forest products, re-vegetation, bee raising and",
+            "farming plantation products), or from any other activity or service which promotes the farming business; or",
+            ">(ii) any product resulting from any of the above activities, including byproducts of such products; and",
+            ">(iii) any activity which is intended to increase the production of anything referred to in above sub-clauses or improve the quality thereof;",
+            ">(n) \"physical warehouse receipt\" means a temporary receipt issued by a Collateral Management Company for a maximum period of seven days to a Depositor upon depositing Produce with the Warehouse, for the purpose of acknowledging the deposit until the issuance of the Electronic Warehouse Receipt to the Depositor;",
+            ">(o) \"Warehouse\" means any premises accredited by the Collateral Management Company to be used for the custody of Produce deposited by a person;",
+            ">(p) \"Warehouse receipts\" includes electronic receipts and physical warehouse receipt;",
+            ">(q) \"Warehousing Guidelines\" means the guidelines issued by the Collateral Management Company, with approval of the Commission, for compliance by all accredited Warehouses in relation to storage, to storage, warehousing management and supply chain/inventory maintenance and",
+            "distribution standards of International Standards Organization (ISO);",
+            ">(r) \"Warehouse operator\" means any person responsible for managing Warehouses;",
+            ">(s) \"Weight or Quantity\" in relation to a specific Produce means such weight or quantity which is duly adjusted for the specified rate of weight reduction due to moisture shrink during the period of storage in a Warehouse.",
+            "(2) Words and expressions used but not defined in these regulations shall, unless there is anything repugnant in the subject or context, have the same meaning as assigned to them in the Ordinance, the Act, or the Futures Market Act, 2016.",
+            "Chapter II Establishment and Licensing of Collateral Management Company"
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Conditions applicable to a CMC",
+          "text": [
+            "(1) No person shall provide collateral management services unless-",
+            ">(a) It has submitted an application along with a non-refundable fee of one hundred thousand rupees for obtaining permission of the Commission in terms of Rule 4 of the NBFC Rules, 2003 and the Commission has granted the requisite permission;",
+            ">(b) it is incorporated as a public or private company in accordance with the procedure and criteria laid down in rule 3 and 4 of the NBFC Rules; and",
+            ">(c) it has obtained a license from the Commission in terms of Rule 5 of the NBFC Rules, 2003.",
+            "(3) A CMC shall not undertake any other form of business as NBFC except for collateral management services."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Conditions for grant of license",
+          "text": [
+            "(1) A NBFC shall make application to the Commission for grant of license for carrying out collateral management services. The said application shall be submitted to the Commission in Form-II of the NBFC Rules along with the following documents-",
+            ">(a) certificate of incorporation and Memorandum and Articles of Association;",
+            ">(b) list of names of sponsors, shareholders, directors and authorized signatory of the applicant, as the case maybe;",
+            ">(c) list of key officers and technical experts engaged and details of their qualifications and experience related to warehousing;",
+            ">(d) list of relevant technology systems in place;",
+            ">(e) five years' business development plan duly detailing how the company shall expand its network of accredited Warehouses to cover major agricultural producing areas in Pakistan;",
+            ">(f) statement of financial credibility in the form of latest audited financial statements, if available; and",
+            ">(g) declaration that the applicant shall comply with the terms and",
+            "conditions of the license; and",
+            ">(h) a non-refundable licensing fee of three-hundred-thousand rupees.",
+            "(2) The Commission, while considering the application for grant of license, may require the applicant to furnish such further information or clarification regarding its activities and businesses as it deems appropriate.",
+            "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be intimated to the Commission within five working days from the date of such change.",
+            "(4) The applicant shall, if so required, appear before the Commission for a representation through an officer duly authorized for this purpose in writing by the board of directors of the applicant.",
+            "(5) The Commission shall, after making necessary inquiries and after obtaining such further information, as it may consider necessary, and if it is satisfied that each of its promoters, directors, chief executive and chairman of the Board of Directors fulfills the terms and conditions mentioned in the fit and Collateral management services subject to compliance with the conditions mentioned in sub-rule (6) of rule 6 of the NBFC Rules and the following conditions:-",
+            ">(a) the company has a minimum equity of ten million rupees or such higher amount as may be specified by the Commission from time to time;",
+            ">(b) the company has necessary infrastructure including adequate office space, equipment, systems and technology;",
+            ">(c) the company has key management personnel and technical experts with relevant qualifications and experience in warehousing; and",
+            ">(d) the company has affiliation with a recognized Collateral Management Company or regulated financial/capital market institution as acceptable to the Commission.",
+            "(6) The Commission may, upon the request of the NBFC or the company along with viable justification, may relax conditions mentioned in clause (a) to (d) of sub-regulation 5 Chapter III Duties and Responsibilities of Collateral Management Company"
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Duties of a Collateral Management Company",
+          "text": [
+            "(1) Every CMC shall-",
+            ">(a) ensure that its Board of directors and the chief executive are appointed with prior approval of the Commission;",
+            ">(b) ensure that key officers fulfill the fit and proper criteria as provided in these regulations;",
+            "maintain the eligibility crițeria provided in the NBFC regulations and",
+            "notify to the Commission immediately if it ceases to fulfill any of the conditions provided in these regulations;",
+            ">(d) maintain high standard of integrity and fairness in discharging its functions and its dealing with other persons with whom they have agreed in writing to render services as CMC;",
+            ">(e) fulfill its obligations in a fair, efficient, transparent and ethical manner;",
+            ">(f) act with due skill, care and diligence in performing all its functions and",
+            "discharging all its obligations and responsibilities;",
+            ">(g) upon obtaining a license, display such license, in a conspicuous place, in the principal place of its business;",
+            ">(h) have its own inspection arrangements or a list of third party examiners responsible for the inspection of the Warehouses for the purpose of accreditation or annual inspection;",
+            ">(i) have a list of approved third party assayers, who shall verify and grade the commodity stored at their accredited Warehouses;",
+            ">(j) accredit a Warehouse, subject to the following conditions and",
+            "requirements-",
+            ">(i) the Warehouse operator has submitted proof of ownership or",
+            "registered-lease deed or rent agreement, along with disclaimer from owner of the Warehouse/property providing waiver of the ownership regarding Produce stored in such Warehouse, in case of leased or rented Warehouse; (ii) the Warehouse is suitable with respect to the kind of Produce being stored;",
+            ">(iii) the Warehouse is equipped with all the necessary equipment and",
+            "apparatus including but not limited to drying, weighing, handling, firefighting, circulation of stock, alternative power source, and insect/pest management;",
+            ">(iv) the Warehouse has adequate arrangements in place for carrying out sampling, grading and testing of Produce stored therein;",
+            ">(v) the Warehouse operator has financial capability, and adequate trained staff with expertise and knowledge for the storage of Produce in the Warehouse;",
+            ">(vi) the Warehouse has an efficient system for loading/unloading of Produce including proper mechanism for segregation of different kinds/quality of produce;",
+            ">(vii) the Warehouse has adequate security arrangements and is located in a place which is accessible and is not excessively prone to natural disasters;",
+            ">(viii) the Warehouse is comprehensively insured for incidents including but not limited to natural disaster, fire, and theft;",
+            ">(ix) the Warehouse is free from litigation or other claims and has provided no objection certificate from local government;",
+            ">(x) the Warehouse Operator is a reputable member of the community, has no criminal convictions, has not defaulted on his financial obligations, has not been convicted of fraud by the court of law, is competent and has control over the operations of the Warehouse;",
+            ">(xi) the Warehouse Operator has submitted an affidavit that he is responsible for ensuring maintenance of quantity, weight and",
+            "quality of Produce that is stored for the Depositor;",
+            ">(xii) the Warehouse is electronically connected with CMC, which in turn has a linkup with PMEX; and",
+            "(хіїї) upon accrediting a Warehouse, the CMC shall forthwith inform the Commission and shall share the copy of accreditation, along with location, capacity, kind of Produce the Warehouse is suitable for storing, and other relevant information;",
+            ">(k) maintain records and documents in respect of accredited Warehouses;",
+            "(1) issue credible Warehouse receipts against Produce stored in the Warehouse;",
+            ">(m) make an initial assessment report at the time of accrediting a Warehouse as well as annual assessment report in relation to each Warehouse accredited, and maintain a copy thereof for a minimum period of 5 years;",
+            ">(n) maintain a register of accredited Warehouses and publish the list on its website;",
+            ">(o) submit a monthly report to the Commission about details of Warehouses accredited and inspections carried out; and",
+            ">(p) allow and assist the Commission to inspect its office(s), accounts, books, records and documents, and its accredited Warehouses at any time."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Maintenance of Record by CMC",
+          "text": [
+            "(1) Every CMC, in addition to the requirements stipulated in Rule 7 of the NBFC Rules, 2003, shall properly maintain the following records, namely:-",
+            ">(a) list of all the applications received for accreditation;",
+            ">(b) list of all the rejected applications and reasons of rejection thereof;",
+            ">(c) list of all accredited warehouses along with criteria, procedure and basis of issuance of accreditation;",
+            ">(d) all the record relating to the depositors' and investors' complaints, if any;",
+            ">(e) such other record as may be required by the Commission.",
+            "(2) Every CMC shall ensure that the record referred to in sub-regulation (1) is maintained and preserved in good order for a period of at least ten years.",
+            "(3) Every CMC shall-",
+            ">(a) ensure that the record is kept at such a place and maintained in such a manner that it is easily accessible; and",
+            ">(b) establish a record-retention-policy which shall ensure that all relevant legal and regulatory requirements are complied with.",
+            "Chapter IV Accreditation of Warehouses"
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Accreditation of Warehouse",
+          "text": [
+            "(1) A CMC may grant certificate of accreditation to a Warehouse, subject to the fulfillment of following conditions or requirements, namely:-",
+            ">(a) Warehouse shall have warehouse operator who will manage and operate • the Warehouse to the satisfaction of the CMC; and",
+            ">(b) Warehouse shall have proper books of accounts and other record and",
+            "documents.",
+            "(2) CMC shall prepare internationally compliant warehousing guidelines and standard operating. procedures for the accreditation, management and inspection of Warehouses and have the same approved by the Commission;",
+            "(3) CMC shall appoint one or more examiners to undertake an inspection of the Warehouse to ensure that all the conditions for accreditation have been fulfilled:-",
+            "Provided that the CMC shall appoint third party examiners for inspection of its own Warehouse(s).",
+            "(4) CMC, shall ensure that the examiners-",
+            ">(i) are competent to undertake evaluation for accreditation of Warehouses;",
+            ">(ii) shall not conduct the annual inspection of the same Warehouse, within a two years' period after accreditation, which has been inspected by them for the purpose of accreditation, however, they may carry out any follow up inspection of the same Warehouse to ascertair. the implementation status of previous directions and recommendations; (iii) have conducted the inspection in a fair and transparent manner; and",
+            "(5) On the complete satisfaction of all the conditions for accreditation, the CMC shall grant a certificate of accreditation to the Warehouse.",
+            "(6) The CMC shall appoint one or more persons as examiners to undertake an inspection of the condition of an accredited Warehouse and the inspection shall include, but not limited to, review of books of accounts, other records and documents of the Warehouse once every twelve months after the grant of accreditation certificate:",
+            "Provided that such inspections shall be carried out by examiners who have not earlier inspected the Warehouse for accreditation purposes."
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Cancellation of Certificate of Accreditation",
+          "text": [
+            "(1) In the event a CMC upon undertaking a periodic inspection determines that the Warehouse Operator or Warehouse is not complying with the requirements of certificate of accreditation, it shall cancel the accreditation and record the same in its periodic inspection report and shall immediately inform of its decision to cancel and the grounds thereof to the Commission, PMEX and relevant financial institution(s).",
+            "(2) In the event of cancellation of certificate of accreditation. of a Warehouse, the Produce stored therein, against which a Warehouse Receipt has been issued, shall be transferred to another acredited Warehouse by a CMC within a period of seven working days.",
+            "(3) The Collateral Management Company shall submit a copy of its inspection report as well as its decision to cancel the certificate of accreditation in respect of a Warehouse to the Commission not later than five working days from the date of such decision.",
+            "(4) Upon cancellation of accreditation of a Warehouse, the CMC shall inform the financial institution(s) that have provided financing against produce stored in such warehouse and shall publish the same on its website immediately."
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Cancellation of Accreditation by the Commission",
+          "text": [
+            "(1) The Commission may cancel the certificate of accreditation granted to a Warehouse by CMC under these Regulations if, -",
+            ">(a) the Warehouse Operator files an application for insolvency;",
+            ">(b) the Warehouse Operator has lost control of the Warehouse or has ceased to conduct the business of warehousing;",
+            ">(c) the Warehouse Operator commits any fraudulent act;",
+            ">(d) the Warehouse Operator has in any other manner become incompetent to conduct the business of warehousing;",
+            ">(e) the Warehouse Operator has not permitted regular audit and random inspection by the Collateral Management Company; and",
+            ">(f) the Warehouse Operator fails to comply with any of the conditions of accreditation or any provision of these Regulations.",
+            "(2) Before passing an order of cancellation of accreditation, the Commission shall give an opportunity of hearing to the Warehouse operator.",
+            "Chapter V Duties of a Warehouse Operator"
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Reasonable care of the Produce deposited/sold/transferred",
+          "text": [
+            "Every Warehouse Operator shall exercise prudence in taking care of the Produce"
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Precautions against damage or harm to Produce",
+          "text": [
+            "(1) Every Warehouse Operator shall keep his Warehouse clean and free from dampness and take all necessary precautions against pests, etc. . (2) No Warehouse Operator shall accept Produce for deposit which is likely to cause damage to other Produce which is or may be deposited in such Warehouse."
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Preservation of identity of Produce",
+          "text": [
+            "Every Warehouse Operator shall keep the Produce of one depositor/seller/transferor separate from the Produce of other depositors/sellers/transferors and from other Produce of the same depositor/seller/transferor for which a separate receipt has been issued, in such a manner so as to permit, at all times, the identification and delivery of the Produce deposited/sold/transferred against the related Warehouse Receipt, duly accounting for the specified weight reduction percentage due to moisture shrink.",
+            "Provided that where standardized and graded Produce are stored in a Warehouse, the same variety of Produce belonging to different depositors/ seller/transferor may be pooled together and each depositor/seller/transferor shall be entitled only to his portion of the Produce according to weight or quantity, as be entitled only to his portion of the Produce according to weight or quantity, as the case may be, as shown in the Warehouse Receipt."
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Produce deteriorating in Warehouse and its disposal",
+          "text": [
+            "(1) Whenever Produce deposited/sold/transferred in a Warehouse deteriorates from causes beyond the control of the Warehouse operator, the Warehouse Operator shall forthwith give notice of such deterioration to the CMC, which in turn may require the depositor/seller/transferor or the Financial Institution in case such Financial Institution is providing financing against such Produce, to take delivery of the Produce immediately, after surrendering the receipt duly discharged and paying all charges due to the CMC.",
+            "(2) If the depositor or the Financial Institution does not comply with a notice given under sub-section (1) within one week, the CMC may cause the Produce to be removed from the Warehouse and sold by public auction at the cost and risk of the depositor/seller/transferor. The proceed realized from such auction shall be transferred to the depositor/seller/transferor after honoring claims of Financial Institution, Warehouse and CMC, as the case maybe."
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Delivery of Produce",
+          "text": [
+            "Every Warehouse operator, in the absence of reasonable excuse, shall, without unnecessary delay, deliver the Produce deposited Warehouse without deterioration the depositor/seller/transferor on demand made by the CMC and surrender of the receipt duly discharged and payment of all charges due to the CMC."
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Excess in Produce stored",
+          "text": [
+            "If there is any excess in the Produce stored/sold/transferred in a Warehouse by absorption of moisture or other causes beyond the control of the Warehouse Operator, the Warehouse Operator shall not be entitled thereto."
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Insurance of Produce in a Warehouse",
+          "text": [
+            "(1) A Warehouse Operator shall be responsible to maintain the quality, quantity and weight of the Produce of the depositor and shall obtain necessary insurance for the Produce stored in his Warehouse.",
+            "(2)",
+            "(2) In case of financing provided by a Financial Institution against an Electronic Warehouse Receipt, the liabilities of such Financial Institution shall be discharged first before the claim of the depositor or the Warehoase in Warehouse in circumstances part or whole Produce is destroyed."
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Lien of Warehouse Operator on Produce",
+          "text": [
+            "(1) Subject to the rights of the Lender, every Warehouse Operator has a lien on goods deposited with him for storage by the depositor/seller/transferor.",
+            "(2) The lien of the Warehouse Operator is for the amount of the storage and maintenance charges including-",
+            ">(a) all lawful charges for storage and preservation of the Produce;",
+            ">(b) all reasonable charges for:",
+            ">(i) any notice required to be given under the provisions of these regulations;",
+            ">(ii) notice and advertisement of sale;",
+            ">(iii) sale of goods where default is made in satisfying the lien of the Warehouse Operator; and",
+            ">(iv) compliance of statutory provisions."
+          ]
+        },
+        {
+          "no": "18",
+          "title": "Warehouse Operator not to deal in or lending/financing against Produce in Warehouse",
+          "text": [
+            "Notwithstanding anything contained in any other law, no Warehouse Operator shall either on his own account or that of others, deal in, or lend money or finance against the Produce received by him for deposit/custody on behalf of owners/transferor of Produce in his Warehouse."
+          ]
+        },
+        {
+          "no": "19",
+          "title": "Transfer of Produce",
+          "text": [
+            "Transfer of Produce from Warehouse to any other location will always require NOC from CMC and a Financial Institution, if relevant and in case the license of such CMC has been cancelled by the Commission, the direction of the Commission shall prevail."
+          ]
+        },
+        {
+          "no": "20",
+          "title": "Accounts and books to be maintained by Warehouse Operator",
+          "text": [
+            "A Warehouse Operator shall maintain accounts, books and records and shall have IT systems in place that will ensure effective functioning of commodity trading."
+          ]
+        },
+        {
+          "no": "21",
+          "title": "Obligations towards the Collateral Management Company",
+          "text": [
+            "A Warehouse Operator shall, in connection with the inspection, allow the CMC to have access to its premises and extend full cooperation for examining any books, accounts, records, and Produce in the custody of the Warehouse.",
+            "Chapter VI Warehouse Receipts"
+          ]
+        },
+        {
+          "no": "22",
+          "title": "Receipt to be issued",
+          "text": [
+            "(1) Against the Produce deposited in the Warehouse by each depositor, the CMC, upon intimation by the Warehouse Operator, shall immediately issue a Physical Warehouse Receipt, which shall contain full particulars of the Produce, as specified under Regulation 28(2) along with the name of the Warehouse Operator and the expiry date of receipt.",
+            "(2) The Physical Warehouse Receipt shall be temporary and remain valld only until the Depositor surrenders it to CMC for its cancellation, whereupon the CMC will issue an Electronic Warehouse Receipt to the Depositor, which shall simultaneously be entered into the system by CMC in favor of the holder of the receipt:",
+            "Provided that the details contained in the Physical Warehouse Receipt must match the contents of the Electronic Warehouse Receipt.",
+            "Provided further that the EWR may be made eligible for induction into the Central Depository System as a CDS-eligible security subject to prior approval of the Commission."
+          ]
+        },
+        {
+          "no": "23",
+          "title": "Transferability of EWR",
+          "text": [
+            "The EWR issued by a Collateral Management Company shall be transferable only upon endorsement of such CMC and shall entitle the lawful holder thereof to receive the Produce specified in it on the same terms and conditions as the original depositor/ owner/ seller/ transferor."
+          ]
+        },
+        {
+          "no": "24",
+          "title": "Standardization and issuance of Warehouse Receipts",
+          "text": [
+            "(1) The CMC shall be the repository of the Electronic Warehouse Receipt books, and shall control and maintain the records of such Warehouse receipt book.",
+            "(2) The Warehouse receipt shall contain all the following particulars, namely:-",
+            ">(a) receipt number;",
+            ">(b) Warehouse registration number and date up to which it is valid;",
+            ">(c) name of the Warehouse and its complete postal address;",
+            ">(d) name and address of the person by whom or on whose behalf the goods are deposited;",
+            ">(e) date of issue of the Electronic Warehouse Receipt;",
+            ">(f) statement that the goods received shall be delivered to the holder thereof;",
+            ">(g) storage charges and handling charges;",
+            ">(h) description of the goods or of the packages containing them with particulars of quantity and quality or grade;",
+            ">(i) market value of the goods at the time of deposit;",
+            ">(j) private marks of Depositor on the goods or packages, if any, except in the case of fungible goods;",
+            ">(k) name of the insurance company indemnifying for fire, flood, theft, burglary, misappropriation, riots, strikes or terrorism;",
+            "•(1) statement of the amount of any advance made and of any liability incurred for which the Warehouse Operator claims his lien;",
+            ">(m) date and signature of the Warehouse Operator or his authorized agent;",
+            ">(n) declared shelf-life of goods;",
+            ">(o) the fact that the Warehouse Operator holds the lien on the goods deposited for his storage and handling charges; and",
+            ">(p) that the receipt would be valid only till the date of expiry of declared shelt-life of the goods for which it is issued.",
+            "(3) In case a CMC willfully omits from an Electronic Warehouse Receipt any of the particulars set out in sub-regulation (2), it shall be liable for damages caused by such omission.",
+            "(4) No Electronic Warehouse Receipt shall, by reason of the omission only of any of the particulars set-forth in sub-regulation (2), be deemed to be invalid for the purpose of settlement of disputes or claims.",
+            "(5) CMC may, with the prior approval of the Commission, add, delete or modify any particulars as specified in sub-regulation (2) for all or any Produce or for any class of Warehouses.",
+            "(6). The Warehouse receipt issued by a CMC under these regulations, shall be in a standard format, size and font as approved by the Commission.",
+            "(7) Each Electronic Warehouse Receipt book and each Electronic Electronic Warehouse Receipt therein shall be allocated a serial number, which shall be duly noted in a separate register by the CMC."
+          ]
+        },
+        {
+          "no": "25",
+          "title": "Maintenance of Record of Warehouse Receipts",
+          "text": [
+            "(1) The CMC shall maintain a record of, -",
+            ">(a) total number and value of the Warehouse Receipts issued;",
+            ">(b) date of issuance of the Electronic Warehouse Receipt;",
+            ">(c) date of expiry of the Electronic Warehouse Receipt issued;",
+            ">(d) the commodities for which the Electronic Warehouse Receipt has been issued;",
+            ">(e) the quality and quantity of the commodities as specified in the electronic Warehouse receipt;",
+            ">(f) any Warehouse receipt that has been surrendered to the CMC by a depositor;",
+            ">(g). any Electronic Warehouse Receipt that has been cancelled by the CMC;",
+            ">(h) any transaction that has been carried out on the Electronic Warehouse Receipt: and",
+            ">(i) any other information prescribed or sought by the Commission.",
+            "(2) The CMC shall submit a summary of total number of Electronic Warehouse Receipts issued commodity-wise, along with the total value of the relevant Produce, on monthly basis to the Commission.",
+            "(3) The CMC shall inform the Commission immediately of any loss, damage or destruction of any record or report in relation to the Electronic • Warehouse Receipts."
+          ]
+        },
+        {
+          "no": "26",
+          "title": "Financing against EWR in respect of Produce",
+          "text": [
+            "(1) The CMC may make necessary arrangements for provision of financing against the EWR, issued in respect of the Produce, including the matters concerning the collateral management of such financing/ownership in accordance with such terms and conditions as may be provided by the CMC with the prior approval of the Commission.",
+            "(2) The CMC may, from time to time, amend, modify, alter, rescind or substitute the terms and conditions referred to in sub-regulation (1) with the prior approval of the Commission.",
+            "Chapter VII Disciplinary Proceedings"
+          ]
+        },
+        {
+          "no": "27",
+          "title": "Restriction or suspension of License",
+          "text": [
+            "(1) Where a CMC contravenes or fails to comply with any provision of these regulations or is not in compliance with the conditions of license or any directive issued or order passed by the Commission, the Commission may, after providing a reasonable opportunity of representation to the CMC, impose-",
+            ">(a) a restriction on its activities as CMC or suspend its license; and",
+            ">(b) penalties provided under sub-section (1) of section 282J of the Ordinance.",
+            "(2) A CMC whose license has been suspended shall not act as, or perform activities as a CMC during the period of suspension and remove the cause of suspension within a period of one hundred and twenty days from the receipt of the suspension order or such earlier period as specified in the order of suspension.",
+            "(3) The Commission while restricting or suspending the license of a CMC may impose such conditions, as it deems appropriate."
+          ]
+        },
+        {
+          "no": "28",
+          "title": "Cancellation of License",
+          "text": [
+            "(1) The Commission, after providing to a CMC a reasonable opportunity of being heard, may cancel the license of a CMC, (a) in the opinion of the Commission a CMC has been in violation of any provision of these regulations or restriction imposed under sub-",
+            "regulation (1) of regulation 27; or",
+            ">(b) it is found guilty of fraud or any criminal offence of moral turpitude; or",
+            ">(c) its license has been suspended and the causes of suspension have not been removed within one hundred and twenty days from the receipt of suspension order or such earlier period as specified in the order of suspension; or",
+            ">(d) it has in any other manner become incompetent to carry out its functions as required under these Regulations.",
+            "(2) The Commission while cancelling the license of a CMC may take such measures and issue such directions as it deems appropriate as are not as are inconsistent with the Act and Ordinance.",
+            "(3) The license of a CMC shall stand automatically cancelled if such CMC-",
+            ">(a) voluntarily surrenders its license to the Commission; or",
+            ">(b) is wound up by an order passed by a court of competent jurisdiction; or",
+            "(4) Notwithstanding anything contained in sub-regulation (1), where the Commission is satisfied that a delay in the cancellation of license of the CMC will be detrimental to the interest of depositors or the public in general, the Commission may immediately cancel the license of the CMC till the time an opportunity of being heard is provided to the CMC and final order is passed:",
+            "Provided that where the Commission cancels the license under sub- Commission regulation (4), the opportunity of being heard and final order must be passed within ninety days of such cancellation..",
+            "(5) Upon cancellation of license, the CMC shall with immediate effect cease its business as a CMC and transfer all the necessary record to another CMC with the prior approval of the Commission.",
+            "(6) A CMC who license has been cancelled shall fulfill its obligations in relation to any accreditation activity pending, inter alia, furnishing of reports, submission of documents etc."
+          ]
+        },
+        {
+          "no": "29",
+          "title": "Dissemination of information of cancellation of license",
+          "text": [
+            "Upon cancellation of license of CMC, the Commission shall publish the said information in widely circulated English and Urdu newspapers, along with the along with the rationale for the said decision, and the order shall also be placed by PMEX on its website:",
+            "Provided that in case of suspension or cancelation, the Electronic Warehouse Receipt issued by a CMC, whose license has been suspended or cancelled, shall be honored by such CMC, provided that such Electronic Warehouse Receipts are bonafide. However, such CMC shall not issue any more Warehouse receipts till its suspension has been removed. Moreover, Operators and their relevant Warehouses, that meet the criteria of these regulations and accredited by such CMC, shall be eligible to operate normally subject to the condition that they shall have them self-accredited by another & registered CMC within a period of six months.",
+            "Chapter VII Miscellaneous"
+          ]
+        },
+        {
+          "no": "30",
+          "title": "Conduct Inspection",
+          "text": [
+            "Notwithstanding anything contained in the provisions herein above, the Commission shall have the power to carry out inspections of the Warehouses and any matter connected with the warehousing business."
+          ]
+        },
+        {
+          "no": "31",
+          "title": "Power of the Commission to issue Directions",
+          "text": [
+            "(1) Where the Commission is satisfied that it is necessary and expedient so to do in the public interest or to prevent the affairs of any Warehouse that are likely to prejudice the interests of the stakeholders, the Commission may issue directions to the Warehouse operator.",
+            "(2) The Commission may, on representation made to it or on its own motion, modify or cancel any direction issued under sub-regulation (1), and in so modifying or canceling any direction may impose such conditions as it deems fit. modifying or canceling any direction may impose such conditions as it deems fit.",
+            "(Schedules & Annexure not reproduced here due to sake of brevity)"
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}

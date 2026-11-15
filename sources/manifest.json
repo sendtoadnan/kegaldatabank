@@ -601,7 +601,7 @@
     ],
     "amendedUpTo": "2022-08-18",
     "amendedUpToLabel": "18 August 2022",
-    "caution": "This SECP edition is updated to 18 August 2022. Later amendments are not reflected; see the updated Third and Seventh Schedules and S.R.O. 239(I)/2024 listed below.",
+    "caution": "This SECP edition is updated to 18 August 2022. Later amendments are not reflected: see the updated Third and Seventh Schedules and S.R.O. 239(I)/2024 listed below; the First Schedule was also amended by S.R.O. 389(I)/2023 (objects clause of the model memorandum) and the Fourth Schedule by S.R.O.s 1278(I)/2024, 1511(I)/2024 and 1516(I)/2024 (Shariah-compliance disclosures). No amendment to the sections themselves has been found after this edition.",
     "source": {
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
@@ -1796,6 +1796,1050 @@
         "page": 127
       }
     ],
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/acts/",
+      "manual": true
+    }
+  },
+  {
+    "id": "panel-provisional-managers-liquidators-regulations-2019",
+    "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+    "number": "S.R.O. 1352(I)/2019",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Panel of Provisional Managers Regulations",
+      "Official Liquidators Regulations 2019"
+    ],
+    "enacted": "2019-11-11",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1352(I)/2019",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "listed-companies-buy-back-regulations-2019",
+    "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+    "number": "",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Buy-back Regulations 2019",
+      "Listed Companies Buy-back Regulations"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "employees-contributory-funds-investment-regulations-2018",
+    "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
+    "number": "S.R.O. 731(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Employees Contributory Funds Regulations",
+      "Provident Fund Investment Regulations"
+    ],
+    "enacted": "2018-06-06",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 731(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "public-sector-companies-cg-rules-2013",
+    "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
+    "number": "S.R.O. 180(I)/2013",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "PSC Rules 2013",
+      "Public Sector Companies Rules"
+    ],
+    "enacted": "2013-03-08",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 180(I)/2013",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "foreign-companies-regulations-2018",
+    "title": "Foreign Companies Regulations, 2018",
+    "number": "S.R.O. 1224(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Foreign Companies Regulations"
+    ],
+    "enacted": "2018-10-05",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1224(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-independent-directors-regulations-2018",
+    "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
+    "number": "S.R.O. 556(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Independent Directors Regulations",
+      "Selection of Independent Directors Regulations"
+    ],
+    "enacted": "2018-04-26",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 556(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-easy-exit-regulations-2014",
+    "title": "Companies (Easy Exit) Regulations, 2014",
+    "number": "S.R.O. 1083(I)/2014",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Easy Exit Regulations"
+    ],
+    "enacted": "2014-12-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1083(I)/2014",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-mediation-conciliation-regulations-2018",
+    "title": "Companies (Mediation and Conciliation) Regulations, 2018",
+    "number": "S.R.O. 227(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Mediation and Conciliation Regulations"
+    ],
+    "enacted": "2018-02-09",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 227(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "corporate-rehabilitation-regulations-2019",
+    "title": "Corporate Rehabilitation Regulations, 2019",
+    "number": "S.R.O. 1415(I)/2019",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "corporate-rehabilitation-act-2018",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Corporate Rehabilitation Regulations"
+    ],
+    "enacted": "2019-11-19",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1415(I)/2019",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "share-registrars-balloters-regulations-2017",
+    "title": "Share Registrars and Balloters Regulations, 2017",
+    "number": "S.R.O. 16(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Share Registrars Regulations"
+    ],
+    "enacted": "2017-01-11",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 16(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "auditors-reporting-obligations-regulations-2018",
+    "title": "Auditors (Reporting Obligations) Regulations, 2018",
+    "number": "S.R.O. 558(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Auditors Reporting Obligations Regulations"
+    ],
+    "enacted": "2018-04-26",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 558(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "listed-companies-takeovers-regulations-2017",
+    "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
+    "number": "S.R.O. 749(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Takeover Regulations 2017",
+      "Takeovers Regulations"
+    ],
+    "enacted": "2017-08-01",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 749(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "sukuk-privately-placed-regulations-2017",
+    "title": "Sukuk (Privately Placed) Regulations, 2017",
+    "number": "S.R.O. 836(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Sukuk Regulations"
+    ],
+    "enacted": "2017-08-21",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 836(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-deposit-rules-1987",
+    "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
+    "number": "S.R.O. 778(I)/1987",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Deposit Rules 1987"
+    ],
+    "enacted": "1987-09-26",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 778(I)/1987",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-legal-adviser-rules-1975",
+    "title": "Companies (Appointment of Legal Adviser) Rules, 1975",
+    "number": "S.R.O. 373(I)/1975",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Legal Adviser Rules"
+    ],
+    "enacted": "1975-04-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 373(I)/1975",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-management-by-administrator-rules-1993",
+    "title": "Companies (Management by Administrator) Rules, 1993",
+    "number": "S.R.O. 1083(I)/1993",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Management by Administrator Rules"
+    ],
+    "enacted": "1993-11-08",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1083(I)/1993",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "opportunity-of-hearing-regulations-2016",
+    "title": "Opportunity of Hearing Regulations, 2016",
+    "number": "S.R.O. 315(I)/2016",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SECP Opportunity of Hearing Regulations"
+    ],
+    "enacted": "2016-04-06",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 315(I)/2016",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "voluntary-winding-up-obligations-regulations-2016",
+    "title": "Obligations under Voluntary Winding-up Regulations, 2016",
+    "number": "S.R.O. 316(I)/2016",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Voluntary Winding-up Regulations"
+    ],
+    "enacted": "2016-04-06",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 316(I)/2016",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "convertible-debt-right-offer-regulations-2022",
+    "title": "Issuance of Convertible Debt Securities through Right Offer Regulations, 2022",
+    "number": "S.R.O. 1767(I)/2022",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Convertible Debt Securities Regulations"
+    ],
+    "enacted": "2022-09-21",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1767(I)/2022",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "reporting-disclosure-regulations-2015",
+    "title": "Reporting and Disclosure (of Shareholding by Directors, Executive Officers and Substantial Shareholders in Listed Companies) Regulations, 2015",
+    "number": "S.R.O. 1032(I)/2015",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Reporting and Disclosure Regulations"
+    ],
+    "enacted": "2015-10-19",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1032(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "insider-information-regulations-2016",
+    "title": "Access to Insider Information Regulations, 2016",
+    "number": "S.R.O. 457(I)/2016",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Insider Information Regulations"
+    ],
+    "enacted": "2016-05-27",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 457(I)/2016",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "private-placement-rules-2017",
+    "title": "Private Placement of Securities Rules, 2017",
+    "number": "S.R.O. 297(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Private Placement Rules"
+    ],
+    "enacted": "2017-04-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 297(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "centralized-kyc-organization-rules-2017",
+    "title": "Centralized Know Your Customer (KYC) Organization Rules, 2017",
+    "number": "S.R.O. 298(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "KYC Organization Rules",
+      "CKO Rules"
+    ],
+    "enacted": "2017-04-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 298(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "customer-compensation-fund-rules-2017",
+    "title": "Customers Compensation Fund (Establishment and Operation) Rules, 2017",
+    "number": "S.R.O. 299(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Customer Compensation Fund Rules"
+    ],
+    "enacted": "2017-04-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 299(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "centralized-customer-protection-compensation-fund-regulations-2017",
+    "title": "Centralized Customer Protection Compensation Fund Regulations, Fund Regulations, 2017",
+    "number": "S.R.O. 301(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CCPCF Regulations"
+    ],
+    "enacted": "2017-04-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 301(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "cmc-regulations-2017",
+    "title": "Collateral Management Companies (Establishment & Operations) Regulations, 2017",
+    "number": "S.R.O. 302(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CMC Regulations 2017"
+    ],
+    "enacted": "2017-05-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 302(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "llp-regulations-2018",
+    "title": "Limited Liability Partnership Regulations, 2018",
+    "number": "S.R.O. 601(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "LLP Regulations"
+    ],
+    "enacted": "2018-05-10",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 601(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "credit-suretyship-rules-2018",
+    "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
+    "number": "S.R.O. 696(I)/2018",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Credit and Suretyship Rules"
+    ],
+    "enacted": "2018-06-01",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 696(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "oversight-regulations-accountants-2020",
+    "title": "Oversight Regulations for Self-Regulatory Bodies of Accountants, 2020",
+    "number": "S.R.O. 919(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Oversight Regulations 2020"
+    ],
+    "enacted": "2020-09-28",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 919(I)/2020",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "reinsurance-brokers-regulations-2021",
+    "title": "Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021",
+    "number": "S.R.O. 281(I)/2021",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Reinsurance Brokers Regulations"
+    ],
+    "enacted": "2021-03-04",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 281(I)/2021",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "secured-transactions-registry-regulations-2020",
+    "title": "Secured Transactions Registry Regulations, 2020",
+    "number": "S.R.O. 348(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Secured Transactions Registry Regulations"
+    ],
+    "enacted": "2020-04-30",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 348(I)/2020",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "credit-rating-companies-regulations-2016",
+    "title": "Credit Rating Companies Regulations, 2016",
+    "number": "S.R.O. 729(I)/2016",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Credit Rating Regulations"
+    ],
+    "enacted": "2016-08-05",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 729(I)/2016",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "securities-futures-advisers-regulations-2017",
+    "title": "Securities and Futures Advisers (licensing and Operations) Regulations, 2017",
+    "number": "S.R.O. 274(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Securities Advisers Regulations"
+    ],
+    "enacted": "2017-04-21",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 274(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "futures-exchanges-regulations-2017",
+    "title": "Futures Exchanges (Licensing & Operations) Regulations, 2017",
+    "number": "S.R.O. 510(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Futures Exchanges Regulations"
+    ],
+    "enacted": "2017-06-22",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 510(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "bond-pricing-agency-rules-2017",
+    "title": "Bond Pricing Agency Rules, 2017",
+    "number": "S.R.O. 1064(I)/2017",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Bond Pricing Agency Rules"
+    ],
+    "enacted": "2017-10-18",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1064(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "futures-brokers-regulations-2018",
+    "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+    "number": "S.R.O. 1164(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Futures Brokers Regulations"
+    ],
+    "enacted": "2018-09-25",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1164(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "joint-inspection-regulations-2015",
+    "title": "Joint Inspection Regulations, 2015",
+    "number": "S.R.O. 1020(I)/2015",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Joint Inspection Regulations"
+    ],
+    "enacted": "2015-10-15",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1020(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "securities-managers-regulations-2024",
+    "title": "Securities Managers (Licensing and Operations) Regulations, 2024",
+    "number": "S.R.O. 1805(I)/2024",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Securities Managers Regulations"
+    ],
+    "enacted": "2024-11-06",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1805(I)/2024",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "professional-clearing-members-regulations-2020",
+    "title": "Professional Clearing Members Regulations, 2020",
+    "number": "S.R.O. 913(I)/2020",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Professional Clearing Members Regulations"
+    ],
+    "enacted": "2020-09-23",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 913(I)/2020",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "research-analyst-regulations-2015",
+    "title": "Research Analyst Regulations, 2015",
+    "number": "S.R.O. 709(I)/2015",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Research Analyst Regulations"
+    ],
+    "enacted": "2015-07-27",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 709(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "corporate-rehabilitation-act-2018",
+    "title": "Corporate Rehabilitation Act, 2018",
+    "number": "Act No. IX of 2018",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CRA 2018",
+      "Rehabilitation Act"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, Act No. IX of 2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
     "watch": {
       "page": "https://www.secp.gov.pk/laws/acts/",
       "manual": true

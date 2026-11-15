@@ -1,0 +1,1100 @@
+{
+ "_about": "Instruments converted from the scanned printed edition by tools/ocr/book_to_json.py: book part and page range, and the details shown on the website. Internal; the website never names the printed edition.",
+ "instruments": [
+  {
+   "id": "panel-provisional-managers-liquidators-regulations-2019",
+   "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+   "number": "S.R.O. 1352(I)/2019",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Panel of Provisional Managers Regulations",
+    "Official Liquidators Regulations 2019"
+   ],
+   "enacted": "2019-11-11",
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1025,
+   "to": 1032,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "listed-companies-buy-back-regulations-2019",
+   "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Buy-back Regulations 2019",
+    "Listed Companies Buy-back Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 953,
+   "to": 974,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "employees-contributory-funds-investment-regulations-2018",
+   "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Employees Contributory Funds Regulations",
+    "Provident Fund Investment Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 759,
+   "to": 764,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "public-sector-companies-cg-rules-2013",
+   "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
+   "type": "rules",
+   "unit": "Rule",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "PSC Rules 2013",
+    "Public Sector Companies Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 117,
+   "to": 138,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "companies-registration-offices-regulations-2018",
+   "title": "Companies (Registration Offices) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Registration Offices Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 649,
+   "to": 670,
+   "hold": "Most regulations repealed by S.R.O. 210(I)/2024; the book prints the old text in footnotes. Convert only after checking which regulations remain.",
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "foreign-companies-regulations-2018",
+   "title": "Foreign Companies Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Foreign Companies Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 863,
+   "to": 888,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "companies-independent-directors-regulations-2018",
+   "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Independent Directors Regulations",
+    "Selection of Independent Directors Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 687,
+   "to": 690,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "companies-easy-exit-regulations-2014",
+   "title": "Companies (Easy Exit) Regulations, 2014",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Easy Exit Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 139,
+   "to": 146,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "companies-mediation-conciliation-regulations-2018",
+   "title": "Companies (Mediation and Conciliation) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Mediation and Conciliation Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 671,
+   "to": 678,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "corporate-rehabilitation-regulations-2019",
+   "title": "Corporate Rehabilitation Regulations, 2019",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Corporate Rehabilitation Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1033,
+   "to": 1042,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "share-registrars-balloters-regulations-2017",
+   "title": "Share Registrars and Balloters Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Share Registrars Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 383,
+   "to": 392,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 16(I)/2017",
+   "enacted": "2017-01-11"
+  },
+  {
+   "id": "auditors-reporting-obligations-regulations-2018",
+   "title": "Auditors (Reporting Obligations) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Auditors Reporting Obligations Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 691,
+   "to": 726,
+   "batch": 2,
+   "parent": "companies-act-2017",
+   "fileHint": "Part 2",
+   "number": "S.R.O. 558(I)/2018",
+   "enacted": "2018-04-26"
+  },
+  {
+   "id": "listed-companies-takeovers-regulations-2017",
+   "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Takeover Regulations 2017",
+    "Takeovers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 529,
+   "to": 560,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 749(I)/2017",
+   "enacted": "2017-08-01"
+  },
+  {
+   "id": "sukuk-privately-placed-regulations-2017",
+   "title": "Sukuk (Privately Placed) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Sukuk Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 147,
+   "to": 156,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 836(I)/2017",
+   "enacted": "2017-08-21"
+  },
+  {
+   "id": "companies-deposit-rules-1987",
+   "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Deposit Rules 1987"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 5,
+   "to": 12,
+   "batch": 2,
+   "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+   "fileHint": "Part 2",
+   "number": "S.R.O. 778(I)/1987",
+   "enacted": "1987-09-26"
+  },
+  {
+   "id": "companies-legal-adviser-rules-1975",
+   "title": "Companies (Appointment of Legal Adviser) Rules, 1975",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Legal Adviser Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1,
+   "to": 4,
+   "batch": 2,
+   "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+   "fileHint": "Part 2",
+   "number": "S.R.O. 373(I)/1975",
+   "enacted": "1975-04-02"
+  },
+  {
+   "id": "companies-management-by-administrator-rules-1993",
+   "title": "Companies (Management by Administrator) Rules, 1993",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Management by Administrator Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 13,
+   "to": 20,
+   "batch": 2,
+   "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+   "fileHint": "Part 2",
+   "number": "S.R.O. 1083(I)/1993",
+   "enacted": "1993-11-08"
+  },
+  {
+   "id": "opportunity-of-hearing-regulations-2016",
+   "title": "Opportunity of Hearing Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "SECP Opportunity of Hearing Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 269,
+   "to": 272,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 315(I)/2016",
+   "enacted": "2016-04-06",
+   "headingFixes": {
+    "Notice Period.": "7. Notice Period.-"
+   }
+  },
+  {
+   "id": "voluntary-winding-up-obligations-regulations-2016",
+   "title": "Obligations under Voluntary Winding-up Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Voluntary Winding-up Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 273,
+   "to": 278,
+   "batch": 2,
+   "fileHint": "Part 2"
+  },
+  {
+   "id": "convertible-debt-right-offer-regulations-2022",
+   "title": "Issuance of Convertible Debt Securities through Right Offer Regulations, 2022",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Convertible Debt Securities Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1143,
+   "to": 1150,
+   "batch": 2,
+   "fileHint": "Part 2",
+   "number": "S.R.O. 1767(I)/2022",
+   "enacted": "2022-09-21"
+  },
+  {
+   "id": "vps-rules-2005",
+   "title": "Voluntary Pension System Rules, 2005",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "VPS Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 49,
+   "to": 84,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 88(I)/2005",
+   "enacted": "2005-01-27",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: rules 11, 23, 31, 41 not found (8, 22, 26, 40 deleted). Fix and recheck before publishing."
+  },
+  {
+   "id": "research-analyst-regulations-2015",
+   "title": "Research Analyst Regulations, 2015",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Research Analyst Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 177,
+   "to": 182,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 709(I)/2015",
+   "enacted": "2015-07-27",
+   "titleFromText": true
+  },
+  {
+   "id": "joint-inspection-regulations-2015",
+   "title": "Joint Inspection Regulations, 2015",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Joint Inspection Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 183,
+   "to": 212,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1020(I)/2015",
+   "enacted": "2015-10-15",
+   "titleFromText": true,
+   "untitledProvisions": true
+  },
+  {
+   "id": "reporting-disclosure-regulations-2015",
+   "title": "Reporting and Disclosure Regulations, 2015",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Reporting and Disclosure Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 213,
+   "to": 222,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1032(I)/2015",
+   "enacted": "2015-10-19",
+   "titleFromText": true
+  },
+  {
+   "id": "private-funds-regulations-2015",
+   "title": "Private Funds Regulations, 2015",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Private Funds Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 223,
+   "to": 248,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1159(I)/2015",
+   "enacted": "2015-11-25",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: regulations 3 and 8 not found. Fix and recheck before publishing.",
+   "untitledProvisions": true
+  },
+  {
+   "id": "insider-information-regulations-2016",
+   "title": "Insider Information Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Insider Information Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 279,
+   "to": 280,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 457(I)/2016",
+   "enacted": "2016-05-27",
+   "titleFromText": true
+  },
+  {
+   "id": "securities-brokers-regulations-2016",
+   "title": "Securities Brokers (Licensing and Operations) Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Securities Brokers Regulations",
+    "Brokers Regulations 2016"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 281,
+   "to": 308,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 569(I)/2016",
+   "enacted": "2016-06-24",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: regulation 31 not found; regulation 16 very long; superseded pages mixed in. Fix and recheck before publishing."
+  },
+  {
+   "id": "credit-rating-companies-regulations-2016",
+   "title": "Credit Rating Companies Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Credit Rating Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 309,
+   "to": 340,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 729(I)/2016",
+   "enacted": "2016-08-05",
+   "titleFromText": true
+  },
+  {
+   "id": "clearing-house-regulations-2016",
+   "title": "Clearing House (Licensing and Operations) Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Clearing House Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 341,
+   "to": 358,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 733(I)/2016",
+   "enacted": "2016-08-09",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: regulations 4-9 not in the text (pages out of order or unmapped). Fix and recheck before publishing."
+  },
+  {
+   "id": "securities-exchanges-regulations-2016",
+   "title": "Securities Exchanges (Licensing and Operations) Regulations, 2016",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Securities Exchanges Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 359,
+   "to": 372,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1007(I)/2016",
+   "enacted": "2016-10-27",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: regulation 17 not found. Fix and recheck before publishing."
+  },
+  {
+   "id": "structuring-debt-securities-regulations-2020",
+   "title": "Structuring of Debt Securities Regulations, 2020",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Debt Securities Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 373,
+   "to": 382,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 15(I)/2017",
+   "enacted": "2017-01-11",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: regulations 4-6, 8 not found; S.R.O. number doubtful (15(I)/2017 vs the 2020 regulations). Fix and recheck before publishing."
+  },
+  {
+   "id": "securities-futures-advisers-regulations-2017",
+   "title": "Securities and Futures Advisers (Licensing and Operations) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Securities Advisers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 393,
+   "to": 406,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 274(I)/2017",
+   "enacted": "2017-04-21",
+   "titleFromText": true
+  },
+  {
+   "id": "public-offering-regulated-securities-licensing-regulations-2017",
+   "title": "Public Offering (Regulated Securities Activities Licensing) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Regulated Securities Licensing Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 407,
+   "to": 412,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 295(I)/2017",
+   "enacted": "2017-05-02",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: regulation 8 not found. Fix and recheck before publishing."
+  },
+  {
+   "id": "private-placement-rules-2017",
+   "title": "Private Placement of Securities Rules, 2017",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Private Placement Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 439,
+   "to": 442,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "titleFromText": true
+  },
+  {
+   "id": "centralized-kyc-organization-rules-2017",
+   "title": "Centralized Know Your Customer Organization Rules, 2017",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "KYC Organization Rules",
+    "CKO Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 443,
+   "to": 450,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 298(I)/2017",
+   "enacted": "2017-04-28",
+   "titleFromText": true
+  },
+  {
+   "id": "customer-compensation-fund-rules-2017",
+   "title": "Customer Compensation Fund (Establishment and Operation) Rules, 2017",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Customer Compensation Fund Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 451,
+   "to": 454,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 299(I)/2017",
+   "enacted": "2017-04-28",
+   "titleFromText": true
+  },
+  {
+   "id": "centralized-customer-protection-compensation-fund-regulations-2017",
+   "title": "Centralized Customer Protection Compensation Fund Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "CCPCF Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 455,
+   "to": 458,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "titleFromText": true
+  },
+  {
+   "id": "cmc-regulations-2017",
+   "title": "Collateral Management Companies (Establishment and Operation) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "CMC Regulations 2017"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 459,
+   "to": 472,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 302(I)/2017",
+   "enacted": "2017-05-02",
+   "titleFromText": true
+  },
+  {
+   "id": "futures-exchanges-regulations-2017",
+   "title": "Futures Exchanges (Licensing and Operations) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Futures Exchanges Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 473,
+   "to": 488,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 510(I)/2017",
+   "enacted": "2017-06-22",
+   "titleFromText": true
+  },
+  {
+   "id": "bond-pricing-agency-rules-2017",
+   "title": "Bond Pricing Agency Rules, 2017",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Bond Pricing Agency Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 569,
+   "to": 602,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1064(I)/2017",
+   "enacted": "2017-10-18",
+   "titleFromText": true
+  },
+  {
+   "id": "llp-regulations-2018",
+   "title": "Limited Liability Partnership Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "LLP Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 727,
+   "to": 752,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 601(I)/2018",
+   "enacted": "2018-05-10",
+   "titleFromText": true
+  },
+  {
+   "id": "credit-suretyship-rules-2018",
+   "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Credit and Suretyship Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 753,
+   "to": 758,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 696(I)/2018",
+   "enacted": "2018-06-01",
+   "titleFromText": true
+  },
+  {
+   "id": "futures-brokers-regulations-2018",
+   "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Futures Brokers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 813,
+   "to": 856,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 1164(I)/2018",
+   "enacted": "2018-09-25",
+   "titleFromText": true
+  },
+  {
+   "id": "collateral-management-companies-regulations-2019",
+   "title": "Collateral Management Companies Regulations, 2019",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Collateral Management Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 985,
+   "to": 1010,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 890(I)/2019",
+   "enacted": "2019-07-31",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: regulations 16, 18, 19, 21, 22 not found. Fix and recheck before publishing."
+  },
+  {
+   "id": "secured-transactions-registry-regulations-2020",
+   "title": "Secured Transactions Registry Regulations, 2020",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Secured Transactions Registry Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1043,
+   "to": 1050,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 348(I)/2020",
+   "enacted": "2020-04-30",
+   "titleFromText": true
+  },
+  {
+   "id": "professional-clearing-members-regulations-2020",
+   "title": "Professional Clearing Members Regulations, 2020",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Professional Clearing Members Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1051,
+   "to": 1066,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 913(I)/2020",
+   "enacted": "2020-09-23",
+   "titleFromText": false
+  },
+  {
+   "id": "oversight-regulations-accountants-2020",
+   "title": "Oversight Regulations for Self-Regulatory Bodies of Accountants, 2020",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Oversight Regulations 2020"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1067,
+   "to": 1070,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 919(I)/2020",
+   "enacted": "2020-09-28",
+   "titleFromText": true
+  },
+  {
+   "id": "reinsurance-brokers-regulations-2021",
+   "title": "Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Reinsurance Brokers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1071,
+   "to": 1092,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 281(I)/2021",
+   "enacted": "2021-03-04",
+   "titleFromText": true
+  },
+  {
+   "id": "modaraba-regulations-2021",
+   "title": "Modaraba Regulations, 2021",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Modaraba Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1093,
+   "to": 1142,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "number": "S.R.O. 284(I)/2021",
+   "enacted": "2021-03-05",
+   "titleFromText": true,
+   "hold": "15 Nov 2026: regulations 7-9, 22, 30 not found. Fix and recheck before publishing."
+  },
+  {
+   "id": "securities-managers-regulations-2024",
+   "title": "Securities Managers (Licensing and Operations) Regulations, 2024",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Securities Managers Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "III",
+   "from": 1189,
+   "to": 1212,
+   "fileHint": "Part 2",
+   "batch": 3,
+   "titleFromText": true
+  },
+  {
+   "id": "securities-exchange-rules-1971",
+   "title": "Securities and Exchange Rules, 1971",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "SE Rules 1971"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [2]_0001",
+   "scanFrom": 94,
+   "scanTo": 113,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): rule 13 not found; S.R.O. number read from the recital is doubtful. Fix and recheck before publishing."
+  },
+  {
+   "id": "leveraged-markets-pledging-rules-2011",
+   "title": "Securities (Leveraged Markets and Pledging) Rules, 2011",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Leveraged Markets Rules",
+    "Margin Financing Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [2]_0001",
+   "scanFrom": 196,
+   "scanTo": 223,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): rule 26 not found. Fix and recheck before publishing."
+  },
+  {
+   "id": "corporate-rehabilitation-act-2018",
+   "title": "Corporate Rehabilitation Act, 2018",
+   "type": "act",
+   "unit": "Section",
+   "aliases": [
+    "CRA 2018",
+    "Rehabilitation Act"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [2]_0001",
+   "scanFrom": 357,
+   "scanTo": 381,
+   "batch": 4,
+   "titleFromText": true
+  },
+  {
+   "id": "commercial-papers-regulations-2013",
+   "title": "Issue of Commercial Papers Regulations, 2013",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Commercial Paper Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [4[_0001",
+   "scanFrom": 13,
+   "scanTo": 22,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): no provisions recognised (heading style differs). Fix and recheck before publishing."
+  },
+  {
+   "id": "cdc-establishment-regulation-rules-1996",
+   "title": "Central Depository Companies (Establishment and Regulation) Rules, 1996",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "CDC Rules 1996"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 29,
+   "scanTo": 36,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): rule 1 not found; no S.R.O. number read; one leak. Fix and recheck before publishing."
+  },
+  {
+   "id": "commodity-exchange-futures-contracts-rules-2005",
+   "title": "Commodity Exchange and Futures Contracts Rules, 2005",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "Commodity Exchange Rules"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 37,
+   "scanTo": 50,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): no provisions recognised (heading style differs). Fix and recheck before publishing."
+  },
+  {
+   "id": "stock-exchanges-demutualization-act-2012",
+   "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012",
+   "type": "act",
+   "unit": "Section",
+   "aliases": [
+    "Demutualization Act",
+    "Stock Exchanges Act 2012"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 51,
+   "scanTo": 69,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): sections 6 and 7 not found; Act number not read. Fix and recheck before publishing."
+  },
+  {
+   "id": "stock-exchanges-demutualization-regulations-2012",
+   "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "Demutualization Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 71,
+   "scanTo": 126,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): pages out of order at the end (text of earlier regulations after regulation 41); title misread. Fix and recheck before publishing."
+  },
+  {
+   "id": "nbfc-notified-entities-regulations-2008",
+   "title": "Non-Banking Finance Companies and Notified Entities Regulations, 2008",
+   "type": "regulations",
+   "unit": "Regulation",
+   "aliases": [
+    "NBFC Regulations 2008",
+    "NBFC and NE Regulations"
+   ],
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "part": "II-vol",
+   "file": "Law & Procedures   Volume [2] Part [1] - File [5]_0001",
+   "scanFrom": 166,
+   "scanTo": 432,
+   "batch": 4,
+   "titleFromText": true,
+   "hold": "16 Nov 2026 (Volume II): regulations 3-9 and 47-49 not found; very long regulation 2; leaks. Fix and recheck before publishing."
+  }
+ ]
+}

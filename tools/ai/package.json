@@ -1,0 +1,8 @@
+{
+  "name": "kegaldatabank-ai-tools",
+  "private": true,
+  "type": "module",
+  "description": "Local tools that make the AI search vectors. Kept apart from the site so Netlify builds stay dependency-free.",
+  "license": "UNLICENSED",
+  "dependencies": { "@huggingface/transformers": "4.3.2" }
+}

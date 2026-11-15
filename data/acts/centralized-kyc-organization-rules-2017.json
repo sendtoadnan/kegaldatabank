@@ -1,0 +1,236 @@
+{
+  "id": "centralized-kyc-organization-rules-2017",
+  "title": "Centralized Know Your Customer (KYC) Organization Rules, 2017",
+  "number": "S.R.O. 298(I)/2017",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "KYC Organization Rules",
+    "CKO Rules"
+  ],
+  "enacted": "2017-04-28",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 298(I)/2017",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 298(I)/2017 dated April 28, 2017.- In exercise of the powers conferred by clause (i) of sub-section (2) of section 175 of the Securities Act, 2015 (III of 2015), read with clause (b) of section 43 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), the Federal Government is pleased to make the following rules, the same having been previously published vide S.R.O. 336(1)/2016, dated the 13th April, 2016 as required by sub-section (3) of the said section 175, namely:- Chapter 1 Preliminary",
+  "parts": [
+    {
+      "heading": "Rules",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These rules shall be called the Centralized Know Your Customer (KYC) Organization Rules, 2017.",
+            "(2) They shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these rules, unless there is anything repugnant in the subject or context,-",
+            ">(a) \"Act\" means the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+            ">(b) \"applicant\" means a person who applies for licence of a centralized KYC organization under these rules;",
+            ">(c) \"authorized intermediary\" means a person who is registered with the centralized KYC organization for performing functions relating to KYC procedures for its customers;",
+            ">(d) \"centralized KYC organization\" means a company licensed by the Commission under these for the purpose of registration, verification, updation and maintenance of KYC information of customers of authorized intermediaries;",
+            ">(e) \"customer\" means a person who applies for performance of his KYC through an authorized intermediary;",
+            ">(f) \"KYC information\" means know your customer information of a customer obtained by an authorized intermediary under the applicable laws including but not limited to personal, financial, occupational, business information and any supporting documents which may be required to develop a customer's profile;",
+            ">(g) \"KYC database\" means a set of KYC information both in electronic and",
+            "physical form collected from the customers;",
+            ">(h) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
+            "and",
+            ">(i) \"Securities Act\" means the Securities Act, 2015 (III of 2015).",
+            "(2) Words and expressions used but not defined in these rules shall have the same meaning as assigned to them in the Securities Act, the Act, the eslco Chapter II Licensing"
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Centralized KYC organization",
+          "text": [
+            "(1) No person shall establish and carryon a business as a centralized KYC organization or hold himself out as carrying. on such a business unless licensed by the Commission as a centralized KYC organization under these rules.",
+            "(2) A securities exchange, central depository or clearing house desirous of providing services as KYC organization and maintenance of KYC information of the customers, may make an application to the Commission under rule 4 for obtaining a licence to act as a centralized KYC organization."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Application and procedure for licensing",
+          "text": [
+            "(1) Subject to rule 3, an application for licensing as a centralized KYC organization shall be made to the Commission in such manner as specified in Form-I along with all documents as specified in Annexures A and B, receipt evidencing payment of non-refundable fee of such amount as specified in Schedule-I, as amended by the Commission from time to time, and regulations as required under clause (r) of sub-rule (1) of rule 9.",
+            "(2) The Commission, while considering the application for licensing under sub-rule (1), may require the applicant to furnish such further information or clarification regarding its activities and businesses as it deems appropriate.",
+            "(3) The applicant shall, if so required, appear before the Commission for a representation through an officer duly authorized for this purpose in writing by the board of directors of the applicant.",
+            "(4) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-rule (1) shall be intimated to the Commission within five working days from the date of such change."
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Grant of licence",
+          "text": [
+            "(1) The Commission, while considering the application for granting a licence made under sub-rule (1) of rule 4, shall inter alia take into account the following matters, namely:-",
+            ">(a) ability of the applicant to efficiently handle its functions as centralized KYC organization, perform its duties and comply with its obligations in accordance with these rules and any other circulars, directive etc.",
+            "issued by the Commission;",
+            ">(b) that the applicant has the capacity to put in place necessary technology, systems, internal procedures, security arrangements for maintaining data privacy and preventing unauthorized use of data and",
+            "infrastructure including but not limited to adequate office space, equipment, experienced manpower and technical aspects to effectively and efficiently discharge its responsibilities as centralized KYC organization;",
+            ">(c) earlier refusal, if any, by the Commission for licensing of the applicant as centralized KYC organization;",
+            ">(d) shareholding and board structure of the applicant to assess its ability to perform its functions as a centralized KYC organization in an independent, fair and equitable manner and in the interest of the E2.96-31-05-2017 capital market and the public;",
+            ">(e) conflict of interest between the role of the applicant as centralized KYC organization and other activities of the applicant; and",
+            ">(f) any other matter as deemed necessary by the Commission.",
+            "(2) The Commission may grant a licence on the format as set out in Form II on being satisfied that the applicant is-",
+            ">(a) eligible for licensing; and",
+            ">(b) it would be in the interest of the public and capital market.",
+            "(3) The licence under sub-rule (2) shall remain valid for a period of three years from the date of licensing unless it is restricted, suspended or cancelled earlier by the Commission.",
+            "(4) The Commission may, while granting the licence under sub-rule (2), impose such conditions on the applicant as it may deem appropriate."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Renewal of licence",
+          "text": [
+            "(1) For renewal of its licence a centralized KYC organization shall, three months prior to the date of expiry of its licence, apply to the Commission in such manner as specified in Form-III along with all the Te cerente as scif n Annesrs n D n rect evdencing payment o non-refundable renewal fee of such amount as specified in Schedule-I, as amended by the Commission from t ime to time.",
+            "(2) The Commission upon being satisfied, after making such inquiries and obtaining further information as it deems necessary, that the centralized KYC organizaticn continues to meet the requirements and conditions for licensing and is eligible for renewal of licence shall renew the licence on the format as set out in Form-IV.",
+            "(3) Where the application for renewal of licence is made within such time as specified in sub-rule (1) but has not been decided by the Commission, the licence shall continue to be valid until the application for renewal is decided by the Commission.",
+            "(4) While granting renewal of licence to a centralized KYC organization, the Commission may, in addition to the criteria laid down for grant of licence, also take into account past performance of the centralized KYC organization and impose such conditions, as it deems appropriate."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Application for cancellation of licence",
+          "text": [
+            "(1) A centralized KYC organization, desirous of doing so, may, three months prior to the date of expiry of its licence, apply to the Commission for cancellation of its license.",
+            "(2) The Commission may, upon being satisfied that the centralized KYC organization has completed all the formalities for closure of business, accept the application made under sub-rule (1) and cancel the licence of such centralized KYC organization.",
+            "(3) The centralized KYC organization, which has applied for cancellation of its licence, shall complete its pending assignments, ifany, comply with any documents, directions of the Commission and protect and transfer all documents, information, data, etc. maintained in any form, to any such organization as directed by the Commission."
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Procedure where licence is not granted or renewed",
+          "text": [
+            "(1) The Commission may, after giving a reasonable opportunity of hearing to the applicant or centralized KYC organization, as the case may be, refuse to grant or renew a licence if in opinion of the Commission such applicant or centralized case may be, does not fulfill the requirements KYC organization, as the case may be, does not fulfill the requirements prescribed under these rules or where the Commission, after taking into account * the facts, is of the view that it Is not in the public interest or in the interest of the capital market to grant or renew such licence.",
+            "(2) The applicant or centralized KYC organization, as the case may be, if aggrieved by the decision of the Commission under sub-rule (1) may, within a period of thirty days from the date of receipt of such refusal, apply to the Commission for review of its decision.",
+            "(3) On receipt of the application made under sub-rule (2), the Commission shall either review its decision or otherwise refuse the application and communicate its findings in writing, within sixty days to the applicant or centralized KYC organization, as the case may be.",
+            "(4) A centralized KYC organization whose application for renewal of licence is refused under sub-rule (1) shall, from the date of receipt of the decision of the Commission, immediately cease its business as centralized KYC organization and protect and transfer all documents, information, data, etc. maintained in any form, to any such organization as directed by the Commission.",
+            "(5) The Commission while refusing to grant renewal of licence to a centralized KYC organization under these rules, may take such measures and issue such directions as it deems necessary or expedient so to do in the public interest or in the interest of the capital market, including but not limited to completion of its pending assignments, if any, and such directions shall be binding on the centralized KYC organization.",
+            "Chapter III Duties and Responsibilities of Centralized KYC Organization and",
+            "Auhorized Intermediary"
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Obligations of a centralized KYC organization",
+          "text": [
+            "(1) A centralizedKYC organization shall be responsible to-",
+            ">(a) ensure compliance at all times with any conditions imposed by the Commission at the time of granting or renewing the licence and other requirements as specified under the Securities Act, these rules, regulations or any directive issued by the Commission;",
+            ">(b) put in place adequate information system for registration, updatior., transmission and maintenance of KYC information of customers; (с) register, verify, update, store, safeguard and retrieve KYC information along with necessary supporting documents;",
+            ">(d) perform independent verification process for KYC information provided by authorized intermediaries in relation to their customers;",
+            ">(e) ensure secure connectivity for transmission of data with all authorized intermediaries for uploading and accessing KYC information on information information system;",
+            ">(f) maintainKYC information along with supporting documents in both electronic and physical form for at least a period of ten years after a customer is no longer associated with any authorized intermediary;",
+            ">(g) ensure the integrity of the information system and KYC database at all times;",
+            ">(h) ensure data encryption and technical and administrative controls, to protect the customers against identity theft and related compromises; E2.96-31-05-2017 (i) ensure deployment of appropriate technical controls to prevent cyber extortion and viruses or malware, leading to- any loss of data, unauthorized access to data etc.;",
+            ">(j) ensure safeguards for maintaining data privacy for and prevent unauthorized sharing of data;",
+            ">(k) ensure adequate measures to prevent unauthorized access to information system and KYC information;",
+            "(1) facilitate all authorized intermediaries for ensuring compliance with the KYC requirements;",
+            ">(m) disseminate all information updated on the request of customers by authorized intermediary to all other relevant authorized intermediaries;",
+            ">(n) take all precautions necessary to ensure that the KYC information is not lost, destroyed or tampered with and that sufficient back up of electronic records is available at all times;",
+            ">(o) submit any document, report or information as and when required by the Commission;",
+            ">(p) ensure that systems, including information system, controls and",
+            "procedures, regulatory functions and operations are audited annually;",
+            ">(q) ensure that a periodic or annual review of the internal control system and assessment of overall level of compliance of the centralized KYC organization with the Securities Act, these rules, regulations and any directions or orders of the Commission is carried out by its head of internal audit and compliance officer, by whatsoever name called, respectively;",
+            ">(r) make company's internal regulations subject to prior concurrence of the Commission and such regulations shall contain provisions including, but not limited to,-",
+            ">(i) eligibility criteria for authorized intermediary;",
+            ">(ii) manner for admission to register as authorized intermediary;",
+            ">(iii) discipline of an authorized intermediary who contravenes regulations or the provisions of these rules or Securities Act or",
+            "any administered legislation and may subject to law provide for fine, suspension or termination or cancelation of its registration;",
+            ">(iv) manner of registration, verification, updation and maintenance of KYC information;",
+            ">(v) handling of customer complaints;",
+            ">(yi) manner for access of KYC information of customers by authorized intermediaries;",
+            ">(vii) actions to be taken by the centralized KYC organization in case of delay in submission of KYC information by the authorized intermediary or customer, or such information cannot be verified or appears to be inaccurate after verification;",
+            ">(viii) manner for performance of KYC and due diligence of customers by authorized intermediary;",
+            ">(ix) responsibilities and obligations in the capacity of centralized KYC organization;",
+            "directors, senior management officers and employces;",
+            ">(xi) responsibilities and obligations for authorized intermediaries;",
+            ">(xii) confidentiality of KYC information available with the authorized intermediary;",
+            ">(xiii) fee to be charged by centralized KYC organization; and",
+            ">(xiv) such other matters as the Commission may specify from time to time."
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Obligations of an authorized intermediary",
+          "text": [
+            "(1) An authorized intermediary shall be responsible to-",
+            ">(a) perform applicable KYC procedures when a customer chooses to trade, invest or deal through such authorized intermediary and undertake enhanced KYC measures commensurate with the risk profile of such customers;",
+            ">(b) upload KYC information on information system and deliver physical copies of KYC information to centralized KYC organization In such manner and within such time as specified by the centralized KYC organization;",
+            ">(c) carry out verification of its customers in accordance with regulations of centralized KYC organization and other applicable laws;",
+            ">(d) ensure the authenticity of KYC information entered by it in the information system;",
+            ">(e) confirm to the centralized KYC organization that it has made its own independent investigation and assessment of the information furnished by customers;",
+            ">(f) protect the integrity of the KYC information of customers available with it and refrain from using such information for purposes other than it is meant for;",
+            ">(g) assume full responsibility for the accuracy, authenticity and validity of KYC information including all supporting documents provided to centralized KYC organization, for registering and updating the KYC information and simultaneously forwarding KYC information in physical form to centralized KYC organization;",
+            ">(h) ensure compliance with all the KYC and customer due diligence policies and procedures under applicable laws; and",
+            ">(i) designate an officer who shall be responsible for coordinating with the centralized KYC organization, monitoring the compliance with regulatory framework and redressal of customers' grievances.",
+            "Chapter IV Disciplinary Proceedings"
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Restriction or suspension of licence, etc",
+          "text": [
+            "(1) Where a centralized KYC organization fails to discharge its functions in accordance with the Securities Act or these rules or fails to comply with or contravenes any provisions of the Securities Act, these rules or any directive issued or order passed by the Commission or otherwise fails to carryon its business in the interest of the capital market or provides false or misleading information to the Commission, the Commission, after providing opportunity of hearing to the centralized KYC organization, may-",
+            ">(a) impose a restriction on its activities as centralized KYC organization; or",
+            ">(b) suspend its licence.",
+            "(2) A centralized KYC organization whose licence has been suspended under sub-rule (1) shall not carry on a business of centralized KYC organization or hold itself out as carrying out such business during the period of suspension and shall also remove the causes of suspension within a period of ninety days from receipt of the suspension order or such period as provided through the order of suspension.",
+            "(3) Notwithstanding anything contained in sub-rule (1), where the Commission is satisfied that delay in imposition of restriction on activities of a centralized KYC organization or suspension of its licence will be detrimental to the interest of investors or the public in general, the Commission may immediately impose such restriction or suspend the licence till the time an opportunity of hearing is provided to the centralized KYC organization and final order is passed:",
+            "Provided that where the Commission imposes restriction or suspends the licence under sub-rule (3), the opportunity of hearing and final order must be passed within sixty days of such suspension.",
+            "(4) The Commission while imposing restrictions or suspending the licence of the centralize KYC organization, may impose such conditions, as it deems appropriate."
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Cancellation of licence",
+          "text": [
+            "(1) The Commission, after providing a reasonable opportunity of hearing, may cancel the licence of centralized KYC organization if-",
+            ">(a) in the opinion of the Commission the centralized KYC organization has been in violation of restriction imposed under rule 11; or",
+            ">(b) its licence has been suspended and the causes of suspension have not been removed within ninety days from the receipt of suspension order or",
+            "such period as provided through the order of suspension; or",
+            "(с) it is being wound up; or",
+            ">(d) it refuses or fails to pay the penalty, if any, imposed by the Commission;",
+            "or",
+            ">(e) it refuses or fails to apply.for renewal of its license within the time provided in rule 6.",
+            "(2) The Commission may, while cancelling the licence of centralized KYC organization, take such measures and issue such directions as it deems appropriate, in the interest of the market and not inconsistent with the Securities Act and the Ordinance.",
+            "(3) Upon cancellation of the licence, the centralized KYC organization shall, with immediate effect, cease to perform Its functions as a centralized KYC organization and protect and transfer all documents, information, data, etc. maintained in any form, to any such organization as directed by the Commission."
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Dissemination of information of cancellation of licence",
+          "text": [
+            "The Commission may, for information of stakeholders, publish press release of its order of cancellation of licence of a centralized KYC organization in at least two newspapers of wide circulation in Pakistan and place the order of canrellation of licence at its official website.",
+            "Chapter V Miscellaneous"
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Power of the Commission to give directions",
+          "text": [
+            "(1) The Commission may, if satisfied that it is necessary or expedient so to do in the publie interest or in the interest of the capital market, by order in writing give directions to a centralized KYC organization not inconsistent with these rules, the Securities Act and the Ordinance.",
+            "(2) The Commission may, on representation made to it or on its own modify or cancel any direction' and in modifying or canceling any direction may impose such conditions as it thinks fit.",
+            "-",
+            "(Schedules & Annexure not reproduced here due to sake of brevity)"
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}

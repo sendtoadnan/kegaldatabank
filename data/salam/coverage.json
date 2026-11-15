@@ -1,0 +1,3426 @@
+[
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "AI-1",
+  "title": "Companies Act, 2017",
+  "status": null,
+  "library": "companies-act-2017",
+  "ourEdition": "2022-08-18",
+  "lastChangeInBook": "2026-06-20",
+  "changes": [
+   {
+    "date": "2026-06-20",
+    "update": 65,
+    "page": "AI-162(89)",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "16 of 2025",
+     "7 of 2026"
+    ]
+   },
+   {
+    "date": "2026-06-20",
+    "update": 65,
+    "page": "AI-162(110)",
+    "kind": "reproduced",
+    "sros": [
+     "875(I)/2026"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2026-06-20",
+    "update": 65,
+    "page": "AI-162(111)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "1 of 2026"
+    ]
+   },
+   {
+    "date": "2026-06-20",
+    "update": 65,
+    "page": "AI-405",
+    "kind": "changed",
+    "sros": [
+     "500(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2026-04-10",
+    "update": 64,
+    "page": "AI-66(9)",
+    "kind": "reproduced",
+    "sros": [
+     "328(I)/2026"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2026-04-10",
+    "update": 64,
+    "page": "AI-162(110)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "6 of 2026"
+    ]
+   },
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "AI-162(1)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "AI-162(16)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "4 of 2018",
+     "4 of 2025"
+    ]
+   },
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "AI-162(100)",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "1 of 2026",
+     "7 of 2025"
+    ]
+   },
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "AI-162(109)",
+    "kind": "reproduced",
+    "sros": [
+     "2444(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "AI-162(109)",
+    "kind": "reproduced",
+    "sros": [
+     "25(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "AI-405",
+    "kind": "amended",
+    "sros": [
+     "2121(I)/2025"
+    ],
+    "circulars": [
+     "12 of 2021",
+     "29 of 2025"
+    ]
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "AI-162(88)",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "15 of 2024",
+     "16 of 2025"
+    ]
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "AI-162(102)",
+    "kind": "reproduced",
+    "sros": [
+     "1336(I)/2025"
+    ],
+    "circulars": [
+     "3 of 2025"
+    ]
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "AI-162(104)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "21 of 2025"
+    ]
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "AI-162(107)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "22 of 2025"
+    ]
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "AI-162(109)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "27 of 2025"
+    ]
+   },
+   {
+    "date": "2025-06-14",
+    "update": 60,
+    "page": "AI-162(101)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "10 of 2025"
+    ]
+   },
+   {
+    "date": "2025-06-14",
+    "update": 60,
+    "page": "AI-414(1)",
+    "kind": "amended",
+    "sros": [
+     "819(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-04-10",
+    "update": 59,
+    "page": "AI-44(29)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-04-10",
+    "update": 59,
+    "page": "AI-66(8)",
+    "kind": "reproduced",
+    "sros": [
+     "246(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-04-10",
+    "update": 59,
+    "page": "AI-162(101)",
+    "kind": "reproduced",
+    "sros": [
+     "451(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-04-10",
+    "update": 59,
+    "page": "AI-162(101)",
+    "kind": "reproduced",
+    "sros": [
+     "452(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-01-10",
+    "update": 58,
+    "page": "AI-162(94)",
+    "kind": "reproduced",
+    "sros": [
+     "1784(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-01-10",
+    "update": 58,
+    "page": "AI-405",
+    "kind": "amended",
+    "sros": [
+     "1806(I)/2024"
+    ],
+    "circulars": [
+     "19 of 2024"
+    ]
+   },
+   {
+    "date": "2024-11-05",
+    "update": 57,
+    "page": "AI-162(1)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "10 of 2024"
+    ]
+   },
+   {
+    "date": "2024-11-05",
+    "update": 57,
+    "page": "AI-162(90)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "11 of 2024",
+     "12 of 2024"
+    ]
+   },
+   {
+    "date": "2024-11-05",
+    "update": 57,
+    "page": "AI-162(93)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "18 of 2024"
+    ]
+   },
+   {
+    "date": "2024-11-05",
+    "update": 57,
+    "page": "AI-388",
+    "kind": "amended",
+    "sros": [
+     "1511(I)/2024",
+     "1516(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-09-10",
+    "update": 56,
+    "page": "AI-162(88)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "15 of 2024"
+    ]
+   },
+   {
+    "date": "2024-07-15",
+    "update": 55,
+    "page": "AI-162(1)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-07-15",
+    "update": 55,
+    "page": "AI-162(87)",
+    "kind": "amended",
+    "sros": [
+     "921(I)/2024"
+    ],
+    "circulars": [
+     "9 of 2024"
+    ]
+   },
+   {
+    "date": "2024-05-25",
+    "update": 54,
+    "page": "AI-162(1)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-05-25",
+    "update": 54,
+    "page": "AI-162(84)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "4 of 2024"
+    ]
+   },
+   {
+    "date": "2024-05-25",
+    "update": 54,
+    "page": "AI-162(85)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "5 of 2024"
+    ]
+   },
+   {
+    "date": "2024-05-25",
+    "update": 54,
+    "page": "AI-162(85)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "6 of 2024"
+    ]
+   },
+   {
+    "date": "2024-05-25",
+    "update": 54,
+    "page": "AI-162(87)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "7 of 2024"
+    ]
+   },
+   {
+    "date": "2024-05-25",
+    "update": 54,
+    "page": "AI-418(1)",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "11 of 2024",
+     "12 of 2021",
+     "13 of 2024"
+    ]
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "AI-44(4)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "AI-44(20)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "AI-44(29)",
+    "kind": "reproduced",
+    "sros": [
+     "464(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "AI-162(83)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "2 of 2024"
+    ]
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "AI-162(83)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "7 of 2024"
+    ]
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "AI-162(84)",
+    "kind": "reproduced",
+    "sros": [
+     "506(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "AI-162(84)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "10 of 2024"
+    ]
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "AI-172(15)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "9 of 2024"
+    ]
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "AI-162(81)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "3 of 2024"
+    ]
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "AI-162(81)",
+    "kind": "reproduced",
+    "sros": [
+     "69(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "AI-162(82)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "4 of 2024"
+    ]
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "AI-162(82)",
+    "kind": "reproduced",
+    "sros": [
+     "240(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "AI-162(82)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "5 of 2024"
+    ]
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "AI-162(83)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "3 of 2024"
+    ]
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "AI-368",
+    "kind": "amended",
+    "sros": [
+     "239(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-01-31",
+    "update": 51,
+    "page": "AI-162(79)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-01-31",
+    "update": 51,
+    "page": "AI-162(80)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "1 of 2024"
+    ]
+   },
+   {
+    "date": "2023-12-10",
+    "update": 50,
+    "page": "AI-66(7)",
+    "kind": "reproduced",
+    "sros": [
+     "1331(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-12-10",
+    "update": 50,
+    "page": "AI-66(8)",
+    "kind": "reproduced",
+    "sros": [
+     "1636(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-12-10",
+    "update": 50,
+    "page": "AI-162(79)",
+    "kind": "reproduced",
+    "sros": [
+     "1715(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-08-20",
+    "update": 48,
+    "page": "AI-162(10)",
+    "kind": "changed",
+    "sros": [],
+    "circulars": [
+     "11 of 2023",
+     "24 of 2017"
+    ]
+   },
+   {
+    "date": "2023-08-20",
+    "update": 48,
+    "page": "AI-162(79)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "11 of 2023"
+    ]
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "AI-162(77)",
+    "kind": "reproduced",
+    "sros": [
+     "389(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "AI-162(77)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "4 of 2023"
+    ]
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "AI-323",
+    "kind": "amended",
+    "sros": [
+     "378(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "AI-405",
+    "kind": "amended",
+    "sros": [
+     "500(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-02-28",
+    "update": 45,
+    "page": "AI-162(71)",
+    "kind": "reproduced",
+    "sros": [
+     "1827(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-02-28",
+    "update": 45,
+    "page": "AI-162(75)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2023-02-28",
+    "update": 45,
+    "page": "AI-162(76)",
+    "kind": "changed",
+    "sros": [
+     "67(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-01-20",
+    "update": 44,
+    "page": "AI-162(1)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2023-01-20",
+    "update": 44,
+    "page": "AI-162(72)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "6 of 2022"
+    ]
+   },
+   {
+    "date": "2023-01-20",
+    "update": 44,
+    "page": "AI-162(73)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "1 of 2023"
+    ]
+   },
+   {
+    "date": "2023-01-20",
+    "update": 44,
+    "page": "AI-413",
+    "kind": "amended",
+    "sros": [
+     "2108(I)/2022",
+     "2308(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-09-30",
+    "update": 41,
+    "page": "AI-162(71)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "4 of 2022"
+    ]
+   },
+   {
+    "date": "2022-09-30",
+    "update": 41,
+    "page": "AI-162(71)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "5 of 2022"
+    ]
+   },
+   {
+    "date": "2022-08-31",
+    "update": 40,
+    "page": "AI-412",
+    "kind": "amended",
+    "sros": [
+     "1373(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-07-15",
+    "update": 39,
+    "page": "AI-407",
+    "kind": "amended",
+    "sros": [
+     "980(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "book has later changes"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "II-1",
+  "title": "Companies (General Provisions and Forms) Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-07-15",
+  "changes": [
+   {
+    "date": "2024-07-15",
+    "update": 55,
+    "page": "II-3",
+    "kind": "repealed",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "II-1",
+    "kind": "amended",
+    "sros": [
+     "210(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-07-10",
+    "update": 47,
+    "page": "II-18(2)",
+    "kind": "amended",
+    "sros": [
+     "627(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "II-24",
+    "kind": "amended",
+    "sros": [
+     "531(I)/2023"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "II-41",
+  "title": "Companies Regulations, 2024",
+  "status": null,
+  "library": "companies-regulations-2024",
+  "ourEdition": "2025-07-25",
+  "lastChangeInBook": "2025-09-15",
+  "changes": [
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "II-56",
+    "kind": "amended",
+    "sros": [
+     "1356(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "II-135",
+    "kind": "amended",
+    "sros": [
+     "1350(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "II-137",
+    "kind": "amended",
+    "sros": [
+     "1356(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "II-241",
+    "kind": "amended",
+    "sros": [
+     "1233(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-04-10",
+    "update": 59,
+    "page": "II-41",
+    "kind": "amended",
+    "sros": [
+     "141(I)/2025",
+     "453(I)/2025",
+     "459(I)/2025",
+     "601(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-09-10",
+    "update": 56,
+    "page": "II-69",
+    "kind": "amended",
+    "sros": [
+     "1221(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-07-15",
+    "update": 55,
+    "page": "II-41",
+    "kind": "amended",
+    "sros": [
+     "210(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "II-41",
+    "kind": "reproduced",
+    "sros": [
+     "210(I)/2024"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "book has later changes"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1",
+  "title": "Companies (Appointment of Legal Adviser) Rules, 1975",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-5",
+  "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-13",
+  "title": "Companies (Management by Administrator) Rules, 1993",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-20(1)",
+  "title": "Companies (Buy-back of Shares) Rules, 1999",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-20(5)",
+  "title": "Companies (Rehabilitation of Sick Industrial Units) Rules, 1999",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-21",
+  "title": "SECP (Appellate Bench Procedure) Rules, 2003",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-49",
+  "title": "Voluntary Pension System Rules, 2005",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-04-25",
+  "changes": [
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-49",
+    "kind": "amended",
+    "sros": [
+     "298(I)/2024"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-85",
+  "title": "Group Companies Registration Regulations, 2008",
+  "status": "Repealed by S.R.O. 210(I)/2024",
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-02-20",
+  "changes": [
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-85",
+    "kind": "repealed",
+    "sros": [
+     "210(I)/2024"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-117",
+  "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-139",
+  "title": "Companies (Easy Exit) Regulations, 2014",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-147",
+  "title": "Sukuk (Privately Placed) Regulations, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-157",
+  "title": "Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2017",
+  "status": null,
+  "library": "companies-investment-associated-regulations-2017",
+  "ourEdition": "2017-12-06",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-177",
+  "title": "Research Analyst Regulations, 2015",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2026-01-10",
+  "changes": [
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "III-177",
+    "kind": "amended",
+    "sros": [
+     "7(I)/2026"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-183",
+  "title": "Joint Inspection Regulations, 2015",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-213",
+  "title": "Reporting and Disclosure Regulations, 2015",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-223",
+  "title": "Private Funds Regulations, 2015",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-249",
+  "title": "Central Depository Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2023-08-20",
+  "changes": [
+   {
+    "date": "2023-08-20",
+    "update": 48,
+    "page": "III-257",
+    "kind": "amended",
+    "sros": [
+     "1064(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-265",
+    "kind": "amended",
+    "sros": [
+     "412(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-07-15",
+    "update": 39,
+    "page": "III-265",
+    "kind": "amended",
+    "sros": [
+     "962(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-269",
+  "title": "Opportunity of Hearing Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-273",
+  "title": "Obligations under Voluntary Winding-up Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-279",
+  "title": "Insider Information Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-281",
+  "title": "Securities Brokers (Licensing and Operations) Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-04-25",
+  "changes": [
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-286(1)",
+    "kind": "amended",
+    "sros": [
+     "570(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-286",
+    "kind": "amended",
+    "sros": [
+     "202(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-286(1)",
+    "kind": "amended",
+    "sros": [
+     "416(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-290(6)",
+    "kind": "amended",
+    "sros": [
+     "360(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-11-10",
+    "update": 43,
+    "page": "III-285",
+    "kind": "changed",
+    "sros": [
+     "1914(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-11-10",
+    "update": 43,
+    "page": "III-308(30)",
+    "kind": "amended",
+    "sros": [
+     "1896(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-07-15",
+    "update": 39,
+    "page": "III-286",
+    "kind": "amended",
+    "sros": [
+     "808(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-04-20",
+    "update": 37,
+    "page": "III-286",
+    "kind": "amended",
+    "sros": [
+     "301(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-309",
+  "title": "Credit Rating Companies Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-04-25",
+  "changes": [
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-335",
+    "kind": "reproduced",
+    "sros": [
+     "1482(I)/2023",
+     "1870(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-10-15",
+    "update": 42,
+    "page": "III-311",
+    "kind": "changed",
+    "sros": [
+     "1755(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-341",
+  "title": "Clearing House (Licensing and Operations) Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2023-08-20",
+  "changes": [
+   {
+    "date": "2023-08-20",
+    "update": 48,
+    "page": "III-347",
+    "kind": "amended",
+    "sros": [
+     "1065(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-355",
+    "kind": "amended",
+    "sros": [
+     "415(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-07-15",
+    "update": 39,
+    "page": "III-356",
+    "kind": "amended",
+    "sros": [
+     "959(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-359",
+  "title": "Securities Exchanges (Licensing and Operations) Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2023-08-20",
+  "changes": [
+   {
+    "date": "2023-08-20",
+    "update": 48,
+    "page": "III-364",
+    "kind": "amended",
+    "sros": [
+     "1062(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-371",
+    "kind": "amended",
+    "sros": [
+     "413(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-07-15",
+    "update": 39,
+    "page": "III-372",
+    "kind": "amended",
+    "sros": [
+     "810(I)/2022",
+     "958(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-373",
+  "title": "Structuring of Debt Securities Regulations, 2020",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-383",
+  "title": "Share Registrars and Balloters Regulations, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-393",
+  "title": "Securities and Futures Advisers (Licensing and Operations) Regulations, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-04-25",
+  "changes": [
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-393",
+    "kind": "amended",
+    "sros": [
+     "742(I)/2023"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-407",
+  "title": "Public Offering (Regulated Securities Licensing) Regulations, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2025-09-15",
+  "changes": [
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "III-407",
+    "kind": "amended",
+    "sros": [
+     "1476(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-412(5)",
+    "kind": "amended",
+    "sros": [
+     "361(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-06-15",
+    "update": 38,
+    "page": "III-410",
+    "kind": "amended",
+    "sros": [
+     "537(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-413",
+  "title": "Public Offering Regulations, 2017",
+  "status": null,
+  "library": "public-offering-regulations-2017",
+  "ourEdition": "2021-09-15",
+  "lastChangeInBook": "2026-06-20",
+  "changes": [
+   {
+    "date": "2026-06-20",
+    "update": 65,
+    "page": "III-421",
+    "kind": "amended",
+    "sros": [
+     "903(I)/2026"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-09-15",
+    "update": 61,
+    "page": "III-413",
+    "kind": "amended",
+    "sros": [
+     "1477(I)/2025"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "book has later changes"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-439",
+  "title": "Private Placement of Securities Rules, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-443",
+  "title": "Centralized KYC Organization Rules, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-451",
+  "title": "Customer Compensation Fund (Establishment and Operation) Rules, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-455",
+  "title": "Centralized Customer Protection Compensation Fund Regulations, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-459",
+  "title": "CMC (Establishment and Operation) Regulations, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-473",
+  "title": "Futures Exchanges (Licensing and Operations) Regulations, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2023-12-10",
+  "changes": [
+   {
+    "date": "2023-12-10",
+    "update": 50,
+    "page": "III-486",
+    "kind": "amended",
+    "sros": [
+     "1666(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-08-20",
+    "update": 48,
+    "page": "III-479",
+    "kind": "amended",
+    "sros": [
+     "1063(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-08-20",
+    "update": 48,
+    "page": "III-477",
+    "kind": "amended",
+    "sros": [
+     "1913(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-485",
+    "kind": "amended",
+    "sros": [
+     "414(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-06-15",
+    "update": 38,
+    "page": "III-477",
+    "kind": "amended",
+    "sros": [
+     "561(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-489",
+  "title": "Companies (Incorporation) Regulations, 2017",
+  "status": "Repealed by S.R.O. 210(I)/2024",
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-02-20",
+  "changes": [
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-489",
+    "kind": "repealed",
+    "sros": [
+     "210(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-498(3)",
+    "kind": "amended",
+    "sros": [
+     "530(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-06-15",
+    "update": 38,
+    "page": "III-498(4)",
+    "kind": "amended",
+    "sros": [
+     "530(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-511",
+  "title": "Intermediaries (Registration) Regulations, 2017",
+  "status": "Repealed by S.R.O. 210(I)/2024",
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-529",
+  "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-02-20",
+  "changes": [
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-529",
+    "kind": "amended",
+    "sros": [
+     "68(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-10-15",
+    "update": 42,
+    "page": "III-531",
+    "kind": "changed",
+    "sros": [
+     "1828(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-561",
+  "title": "Unclaimed Shares and Other Instruments and Undistributed Assets Regulations, 2017",
+  "status": null,
+  "library": "unclaimed-shares-regulations-2017",
+  "ourEdition": "2017-10-06",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-569",
+  "title": "Bond Pricing Agency Rules, 2017",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-603",
+  "title": "Companies (Distribution of Dividends) Regulations, 2017",
+  "status": null,
+  "library": "companies-distribution-of-dividends-regulations-2017",
+  "ourEdition": "2022-06-16",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-611",
+  "title": "Shariah Advisors Regulations, 2017",
+  "status": "Repealed by S.R.O. 1314(I)/2023",
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-629",
+  "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
+  "status": null,
+  "library": "listed-companies-ccg-regulations-2019",
+  "ourEdition": "2025-03-20",
+  "lastChangeInBook": "2024-09-10",
+  "changes": [
+   {
+    "date": "2024-09-10",
+    "update": 56,
+    "page": "III-648(13)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-07-15",
+    "update": 55,
+    "page": "III-632(2)",
+    "kind": "amended",
+    "sros": [
+     "920(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-648(3)",
+    "kind": "changed",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-648(8)",
+    "kind": "changed",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2023-08-20",
+    "update": 48,
+    "page": "III-631",
+    "kind": "amended",
+    "sros": [
+     "905(I)/2023",
+     "906(I)/2023"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-649",
+  "title": "Companies (Registration Offices) Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-02-20",
+  "changes": [
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-649",
+    "kind": "amended",
+    "sros": [
+     "210(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-08-31",
+    "update": 40,
+    "page": "III-664",
+    "kind": "amended",
+    "sros": [
+     "1374(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-671",
+  "title": "Companies (Mediation and Conciliation) Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-679",
+  "title": "Companies (Postal Ballot) Regulations, 2018",
+  "status": null,
+  "library": "companies-postal-ballot-regulations-2018",
+  "ourEdition": "2025-03-20",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-687",
+  "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-691",
+  "title": "Auditors (Reporting Obligations) Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-04-25",
+  "changes": [
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-691",
+    "kind": "amended",
+    "sros": [
+     "505(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-01-31",
+    "update": 51,
+    "page": "III-691",
+    "kind": "amended",
+    "sros": [
+     "9(I)/2024"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-727",
+  "title": "Limited Liability Partnership Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-753",
+  "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2022-08-31",
+  "changes": [
+   {
+    "date": "2022-08-31",
+    "update": 40,
+    "page": "III-755",
+    "kind": "amended",
+    "sros": [
+     "1010(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-759",
+  "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-765",
+  "title": "Associations with Charitable and Not for Profit Objects Regulations, 2018",
+  "status": "Repealed by S.R.O. 210(I)/2024",
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-02-20",
+  "changes": [
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-765",
+    "kind": "repealed",
+    "sros": [
+     "210(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-07-10",
+    "update": 47,
+    "page": "III-767",
+    "kind": "changed",
+    "sros": [],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-793",
+  "title": "SECP (Anti Money Laundering and Countering Financing of Terrorism) Regulations, 2020",
+  "status": null,
+  "library": "secp-aml-cft-cpf-regulations-2020",
+  "ourEdition": "2026-07-03",
+  "lastChangeInBook": "2023-12-10",
+  "changes": [
+   {
+    "date": "2023-12-10",
+    "update": 50,
+    "page": "III-793",
+    "kind": "amended",
+    "sros": [
+     "1356(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-06-15",
+    "update": 38,
+    "page": "III-812(1)",
+    "kind": "amended",
+    "sros": [
+     "562(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-813",
+  "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2026-01-10",
+  "changes": [
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "III-824",
+    "kind": "amended",
+    "sros": [
+     "2445(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-01-31",
+    "update": 51,
+    "page": "III-813",
+    "kind": "amended",
+    "sros": [
+     "1819(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-11-10",
+    "update": 43,
+    "page": "III-813",
+    "kind": "changed",
+    "sros": [
+     "1912(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-857",
+  "title": "Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018",
+  "status": null,
+  "library": "companies-rpt-regulations-2018",
+  "ourEdition": "2018-10-02",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-863",
+  "title": "Foreign Companies Regulations, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2023-05-10",
+  "changes": [
+   {
+    "date": "2023-05-10",
+    "update": 46,
+    "page": "III-866(1)",
+    "kind": "amended",
+    "sros": [
+     "532(I)/2023"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-889",
+  "title": "Shariah Governance Regulations, 2018",
+  "status": "Repealed by S.R.O. 1314(I)/2023",
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-919",
+  "title": "Companies (Further Issue of Shares) Regulations, 2020",
+  "status": null,
+  "library": "companies-further-issue-of-shares-regulations-2020",
+  "ourEdition": "2026-01-13",
+  "lastChangeInBook": "2026-04-10",
+  "changes": [
+   {
+    "date": "2026-04-10",
+    "update": 64,
+    "page": "III-924",
+    "kind": "changed",
+    "sros": [
+     "64(I)/2026"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2026-01-10",
+    "update": 63,
+    "page": "III-921",
+    "kind": "amended",
+    "sros": [
+     "2458(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-919",
+    "kind": "amended",
+    "sros": [
+     "361(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-09-30",
+    "update": 41,
+    "page": "III-919",
+    "kind": "changed",
+    "sros": [
+     "1754(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "book has later changes"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-953",
+  "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2022-11-10",
+  "changes": [
+   {
+    "date": "2022-11-10",
+    "update": 43,
+    "page": "III-953",
+    "kind": "changed",
+    "sros": [
+     "1725(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-975",
+  "title": "Search and Seizure Rules, 2019",
+  "status": null,
+  "library": "secp-search-seizure-rules-2019",
+  "ourEdition": "2019-07-01",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-985",
+  "title": "Collateral Management Companies Regulations, 2019",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1011",
+  "title": "Corporate Restructuring Companies Rules, 2019",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-04-25",
+  "changes": [
+   {
+    "date": "2024-04-25",
+    "update": 53,
+    "page": "III-1011",
+    "kind": "amended",
+    "sros": [
+     "243(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-1024(1)",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "6 of 2024"
+    ]
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1025",
+  "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1033",
+  "title": "Corporate Rehabilitation Regulations, 2019",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1043",
+  "title": "Secured Transactions Registry Regulations, 2020",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1051",
+  "title": "Professional Clearing Members Regulations, 2020",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1067",
+  "title": "Oversight Regulations for Self-Regulatory Bodies of Accountants, 2020",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1070(1)",
+  "title": "Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020",
+  "status": null,
+  "library": "companies-cost-accounts-regulations-2020",
+  "ourEdition": "2020-12-14",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1071",
+  "title": "Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1093",
+  "title": "Modaraba Regulations, 2021",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2024-02-20",
+  "changes": [
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-1105",
+    "kind": "amended",
+    "sros": [
+     "67(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-08-31",
+    "update": 40,
+    "page": "III-1095",
+    "kind": "amended",
+    "sros": [
+     "1547(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1143",
+  "title": "Issuance of Convertible Debt Securities through Right Offer Regulations, 2022",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2022-10-15",
+  "changes": [
+   {
+    "date": "2022-10-15",
+    "update": 42,
+    "page": "III-1143",
+    "kind": "changed",
+    "sros": [
+     "1767(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1151",
+  "title": "Shariah Governance Regulations, 2023",
+  "status": null,
+  "library": "shariah-governance-regulations-2023",
+  "ourEdition": "2023-09-14",
+  "lastChangeInBook": "2023-12-10",
+  "changes": [
+   {
+    "date": "2023-12-10",
+    "update": 50,
+    "page": "III-1183",
+    "kind": "reproduced",
+    "sros": [
+     "1348(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-09-20",
+    "update": 49,
+    "page": "III-1151",
+    "kind": "repealed",
+    "sros": [
+     "1314(I)/2023"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "book has later changes"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1187",
+  "title": "Unlisted Companies (Buy-Back of Shares) Regulations, 2023",
+  "status": "Repealed by S.R.O. 210(I)/2024",
+  "library": "unlisted-companies-buy-back-regulations-2023",
+  "ourEdition": "2023-10-12",
+  "lastChangeInBook": "2024-02-20",
+  "changes": [
+   {
+    "date": "2024-02-20",
+    "update": 52,
+    "page": "III-1187",
+    "kind": "repealed",
+    "sros": [
+     "210(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-12-10",
+    "update": 50,
+    "page": "III-1187",
+    "kind": "reproduced",
+    "sros": [
+     "1441(I)/2023"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "book has later changes"
+ },
+ {
+  "volume": "Volume I (65th update, 20 June 2026)",
+  "page": "III-1189",
+  "title": "Securities Managers (Licensing and Operations) Regulations, 2024",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2025-01-10",
+  "changes": [
+   {
+    "date": "2025-01-10",
+    "update": 58,
+    "page": "III-1193",
+    "kind": "reproduced",
+    "sros": [
+     "1805(I)/2024"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "I-1",
+  "title": "Futures Market Act, 2016",
+  "status": null,
+  "library": "futures-market-act-2016",
+  "ourEdition": "2016-04-09",
+  "lastChangeInBook": "2025-06-14",
+  "changes": [
+   {
+    "date": "2025-06-14",
+    "update": 131,
+    "page": "I-28.61",
+    "kind": "reproduced",
+    "sros": [
+     "888(I)/2024"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "book has later changes"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "I-29",
+  "title": "Securities and Exchange Rules, 1971",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "I-49",
+  "title": "Securities and Exchange Commission of Pakistan Act, 1997",
+  "status": null,
+  "library": "secp-act-1997",
+  "ourEdition": "2016-12-31",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "I-83",
+  "title": "Securities (Leveraged Markets and Pledging) Rules, 2011",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "I-111",
+  "title": "Securities Act, 2015",
+  "status": null,
+  "library": "securities-act-2015",
+  "ourEdition": "2015-05-18",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "I-241",
+  "title": "Corporate Rehabilitation Act, 2018",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "II-1",
+  "title": "SECP: Constitution",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "II-5",
+  "title": "SECP: Regulations, Rules and Procedures",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "III-39",
+  "title": "Corporate Social Responsibility Voluntary Guidelines, 2013",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "III-69",
+  "title": "Issue of Commercial Papers Regulations, 2013",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "IV-1",
+  "title": "Central Depositories Act, 1997",
+  "status": null,
+  "library": "central-depositories-act-1997",
+  "ourEdition": "1997-06-10",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "IV-27",
+  "title": "Central Depository Companies (Establishment and Regulation) Rules, 1996",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "IV-141",
+  "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "IV-161",
+  "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "IX-1",
+  "title": "Anti-Money Laundering Act, 2010",
+  "status": null,
+  "library": "aml-act-2010",
+  "ourEdition": "2020-09-30",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "IX-67",
+  "title": "Anti-Money Laundering (Amendment) Act, 2015",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "V-11",
+  "title": "Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003",
+  "status": null,
+  "library": "nbfc-rules-2003",
+  "ourEdition": "2023-09-14",
+  "lastChangeInBook": "2025-11-10",
+  "changes": [
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-62",
+    "kind": "amended",
+    "sros": [
+     "1416(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-29",
+    "update": 126,
+    "page": "V-14",
+    "kind": "amended",
+    "sros": [
+     "1313(I)/2023"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "book has later changes"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "V-89",
+  "title": "Prudential Regulations for Non-Banking Finance Companies",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "V-117",
+  "title": "Prudential Regulations for Consumer Finance by NBFCs",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "V-127",
+  "title": "Miscellaneous circulars etc. (NBFCs)",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2026-06-20",
+  "changes": [
+   {
+    "date": "2026-06-20",
+    "update": 135,
+    "page": "V-302",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "10 of 2026",
+     "12 of 2023"
+    ]
+   },
+   {
+    "date": "2026-06-20",
+    "update": 135,
+    "page": "V-348",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "13 of 2023",
+     "14 of 2023"
+    ]
+   },
+   {
+    "date": "2026-04-10",
+    "update": 134,
+    "page": "V-345",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "2 of 2026"
+    ]
+   },
+   {
+    "date": "2026-04-10",
+    "update": 134,
+    "page": "V-346",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "3 of 2026",
+     "4 of 2026"
+    ]
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-331",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "6 of 2025"
+    ]
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-333",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "9 of 2025"
+    ]
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-337",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "14 of 2025"
+    ]
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-337",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-338",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "17 of 2025"
+    ]
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-339",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-340",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "23 of 2025"
+    ]
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-342",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-342",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-343",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "V-317",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-06-14",
+    "update": 131,
+    "page": "V-321",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "11 of 2025",
+     "25 of 2024"
+    ]
+   },
+   {
+    "date": "2025-06-14",
+    "update": 131,
+    "page": "V-333",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "12 of 2025"
+    ]
+   },
+   {
+    "date": "2025-06-14",
+    "update": 131,
+    "page": "V-333",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-04-10",
+    "update": 130,
+    "page": "V-326",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-04-10",
+    "update": 130,
+    "page": "V-327",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "3 of 2025"
+    ]
+   },
+   {
+    "date": "2025-04-10",
+    "update": 130,
+    "page": "V-328",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "5 of 2025"
+    ]
+   },
+   {
+    "date": "2025-01-10",
+    "update": 129,
+    "page": "V-317",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2025-01-10",
+    "update": 129,
+    "page": "V-321",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "25 of 2024"
+    ]
+   },
+   {
+    "date": "2025-01-10",
+    "update": 129,
+    "page": "V-326",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2024-05-25",
+    "update": 128,
+    "page": "V-296",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "4 of 2023"
+    ]
+   },
+   {
+    "date": "2024-05-25",
+    "update": 128,
+    "page": "V-303",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "8 of 2024"
+    ]
+   },
+   {
+    "date": "2024-05-25",
+    "update": 128,
+    "page": "V-304",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "10 of 2023",
+     "12 of 2024",
+     "15 of 2023"
+    ]
+   },
+   {
+    "date": "2024-05-25",
+    "update": 128,
+    "page": "V-316",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "14 of 2024"
+    ]
+   },
+   {
+    "date": "2024-04-25",
+    "update": 127,
+    "page": "V-153",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "7 of 2009",
+     "9 of 2023"
+    ]
+   },
+   {
+    "date": "2023-12-10",
+    "update": 125,
+    "page": "V-307",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": []
+   },
+   {
+    "date": "2023-12-10",
+    "update": 125,
+    "page": "V-308",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "15 of 2023"
+    ]
+   },
+   {
+    "date": "2023-12-10",
+    "update": 125,
+    "page": "V-310",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "16 of 2023"
+    ]
+   },
+   {
+    "date": "2023-08-20",
+    "update": 124,
+    "page": "V-306",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "10 of 2023"
+    ]
+   },
+   {
+    "date": "2023-05-10",
+    "update": 122,
+    "page": "V-303",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "3 of 2023",
+     "6 of 2023"
+    ]
+   },
+   {
+    "date": "2023-01-20",
+    "update": 121,
+    "page": "V-296",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "15 of 2022"
+    ]
+   },
+   {
+    "date": "2022-11-10",
+    "update": 120,
+    "page": "V-155",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "10 of 2022",
+     "11 of 2022",
+     "7 of 2009"
+    ]
+   },
+   {
+    "date": "2022-11-10",
+    "update": 120,
+    "page": "V-258",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "11 of 2022",
+     "2 of 2020"
+    ]
+   },
+   {
+    "date": "2022-11-10",
+    "update": 120,
+    "page": "V-284",
+    "kind": "amended",
+    "sros": [],
+    "circulars": [
+     "26 of 2021",
+     "9 of 2022"
+    ]
+   },
+   {
+    "date": "2022-11-10",
+    "update": 120,
+    "page": "V-294",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "10 of 2022"
+    ]
+   },
+   {
+    "date": "2022-11-10",
+    "update": 120,
+    "page": "V-295",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "11 of 2022"
+    ]
+   },
+   {
+    "date": "2022-07-15",
+    "update": 119,
+    "page": "V-293",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "6 of 2022"
+    ]
+   },
+   {
+    "date": "2022-04-20",
+    "update": 118,
+    "page": "V-291",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "3 of 2022"
+    ]
+   },
+   {
+    "date": "2022-04-20",
+    "update": 118,
+    "page": "V-292",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "3 of 2020",
+     "4 of 2022"
+    ]
+   },
+   {
+    "date": "2022-04-20",
+    "update": 118,
+    "page": "V-293",
+    "kind": "reproduced",
+    "sros": [],
+    "circulars": [
+     "5 of 2022"
+    ]
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VA-1",
+  "title": "Non-Banking Finance Companies and Notified Entities Regulations, 2008",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2025-11-10",
+  "changes": [
+   {
+    "date": "2025-11-10",
+    "update": 133,
+    "page": "VA-2",
+    "kind": "amended",
+    "sros": [
+     "1438(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-04-10",
+    "update": 130,
+    "page": "VA-9",
+    "kind": "amended",
+    "sros": [
+     "600(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-04-25",
+    "update": 127,
+    "page": "VA-129",
+    "kind": "amended",
+    "sros": [
+     "203(I)/2024",
+     "297(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-07-10",
+    "update": 123,
+    "page": "VA-5",
+    "kind": "amended",
+    "sros": [
+     "592(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-07-15",
+    "update": 119,
+    "page": "VA-7",
+    "kind": "amended",
+    "sros": [
+     "807(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VI-1",
+  "title": "Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980",
+  "status": null,
+  "library": "modaraba-ordinance-1980",
+  "ourEdition": "2012-12-31",
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "no later change recorded"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VI-19",
+  "title": "Modaraba Companies and Modaraba Rules, 1981",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VI-79",
+  "title": "Prudential Regulations for Modarabas",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2022-01-31",
+  "changes": [
+   {
+    "date": "2022-01-31",
+    "update": 116,
+    "page": "VI-170",
+    "kind": "reproduced",
+    "sros": [
+     "121(I)/2022"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-1",
+  "title": "Competition Act, 2010",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-31",
+  "title": "Competition Commission (Conduct of Business) Regulations, 2007",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-39",
+  "title": "Competition Commission (Investment and Expenditures) Regulations, 2007",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-45",
+  "title": "Competition Commission (General Enforcement) Regulations, 2007",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-71",
+  "title": "Competition Commission (Leniency) Regulations, 2019",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2022-01-31",
+  "changes": [
+   {
+    "date": "2022-01-31",
+    "update": 116,
+    "page": "VII-71",
+    "kind": "repealed",
+    "sros": [
+     "1127(I)/2019"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-77",
+  "title": "Competition Commission (Merger Control) Regulations, 2016",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2025-01-10",
+  "changes": [
+   {
+    "date": "2025-01-10",
+    "update": 129,
+    "page": "VII-84",
+    "kind": "amended",
+    "sros": [
+     "421(I)/2024"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-100(1)",
+  "title": "Competition Commission (Reward Payment to Informants) Regulations, 2014",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-100(5)",
+  "title": "Competition Commission (Exemption) Regulations, 2020",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": "2022-01-31",
+  "changes": [
+   {
+    "date": "2022-01-31",
+    "update": 116,
+    "page": "VII-100(5)",
+    "kind": "repealed",
+    "sros": [
+     "362(I)/2020"
+    ],
+    "circulars": []
+   }
+  ],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-101",
+  "title": "Competition Commission (Appeal) Rules, 2007",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-119",
+  "title": "Competition Commission (Conduct of Investigating Officers) Rules, 2007",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-123",
+  "title": "Competition Commission (Extension in Exemption) Rules, 2007",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-132A",
+  "title": "Competition Appellate Tribunal Rules, 2015",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ },
+ {
+  "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
+  "page": "VII-139",
+  "title": "Competition Commission (Collection of Fees and Charges) Rules, 2009",
+  "status": null,
+  "library": null,
+  "ourEdition": null,
+  "lastChangeInBook": null,
+  "changes": [],
+  "verdict": "not in library"
+ }
+]

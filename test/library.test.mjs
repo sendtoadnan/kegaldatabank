@@ -229,3 +229,13 @@ test('update check reads listing pages saved from a browser', async () => {
   assert.equal(i.latest.date, '2025-03-03');
   assert.match(i.from, /rules\.html/);
 });
+
+test('search by meaning covers every passage', () => {
+  const outDir = fs.mkdtempSync(path.join(os.tmpdir(), 'ldb-'));
+  const { aiMissing, files } = build({ outDir });
+  assert.equal(aiMissing, 0, 'text changed: run npm run build, then node make_vectors.mjs in tools/ai');
+  assert.ok(files.includes('ai-vectors.bin') && files.includes('ai-passages.json'));
+  const meta = JSON.parse(fs.readFileSync(path.join(outDir, 'ai-passages.json'), 'utf8'));
+  assert.equal(fs.statSync(path.join(outDir, 'ai-vectors.bin')).size, meta.prov.length * meta.dims);
+  fs.rmSync(outDir, { recursive: true, force: true });
+});

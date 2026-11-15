@@ -1,0 +1,411 @@
+{
+ "source": "S.A. Salam, Complete Company Law and Procedures",
+ "volume": "Volume I (65th update, 20 June 2026)",
+ "index": "Contents (scan pages 81-85 of Volume [1] Part 1, FILE [1])",
+ "note": "Titles as printed, spelling normalised; book pages. Working index, not published as such.",
+ "items": [
+  {
+   "part": "AI",
+   "title": "Companies Act, 2017",
+   "page": "AI-1",
+   "schedules": {
+    "First": "AI-299",
+    "Second": "AI-371",
+    "Third": "AI-381",
+    "Fourth": "AI-385",
+    "Fifth": "AI-395",
+    "Sixth": "AI-403",
+    "Seventh": "AI-405",
+    "Eighth": "AI-417"
+   }
+  },
+  {
+   "part": "II",
+   "title": "Companies (General Provisions and Forms) Regulations, 2018",
+   "page": "II-1",
+   "note": "Shown with the 2024 Regulations; repealed by S.R.O. 210(I)/2024 (confirm)"
+  },
+  {
+   "part": "II",
+   "title": "Companies Regulations, 2024",
+   "page": "II-41"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Appointment of Legal Adviser) Rules, 1975",
+   "page": "III-1"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
+   "page": "III-5"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Management by Administrator) Rules, 1993",
+   "page": "III-13"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Buy-back of Shares) Rules, 1999",
+   "page": "III-20(1)"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Rehabilitation of Sick Industrial Units) Rules, 1999",
+   "page": "III-20(5)"
+  },
+  {
+   "part": "III",
+   "title": "SECP (Appellate Bench Procedure) Rules, 2003",
+   "page": "III-21"
+  },
+  {
+   "part": "III",
+   "title": "Voluntary Pension System Rules, 2005",
+   "page": "III-49"
+  },
+  {
+   "part": "III",
+   "title": "Group Companies Registration Regulations, 2008",
+   "page": "III-85",
+   "status": "Repealed by S.R.O. 210(I)/2024"
+  },
+  {
+   "part": "III",
+   "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
+   "page": "III-117"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Easy Exit) Regulations, 2014",
+   "page": "III-139"
+  },
+  {
+   "part": "III",
+   "title": "Sukuk (Privately Placed) Regulations, 2017",
+   "page": "III-147"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2017",
+   "page": "III-157"
+  },
+  {
+   "part": "III",
+   "title": "Research Analyst Regulations, 2015",
+   "page": "III-177"
+  },
+  {
+   "part": "III",
+   "title": "Joint Inspection Regulations, 2015",
+   "page": "III-183"
+  },
+  {
+   "part": "III",
+   "title": "Reporting and Disclosure Regulations, 2015",
+   "page": "III-213"
+  },
+  {
+   "part": "III",
+   "title": "Private Funds Regulations, 2015",
+   "page": "III-223"
+  },
+  {
+   "part": "III",
+   "title": "Central Depository Regulations, 2016",
+   "page": "III-249"
+  },
+  {
+   "part": "III",
+   "title": "Opportunity of Hearing Regulations, 2016",
+   "page": "III-269"
+  },
+  {
+   "part": "III",
+   "title": "Obligations under Voluntary Winding-up Regulations, 2016",
+   "page": "III-273"
+  },
+  {
+   "part": "III",
+   "title": "Insider Information Regulations, 2016",
+   "page": "III-279"
+  },
+  {
+   "part": "III",
+   "title": "Securities Brokers (Licensing and Operations) Regulations, 2016",
+   "page": "III-281"
+  },
+  {
+   "part": "III",
+   "title": "Credit Rating Companies Regulations, 2016",
+   "page": "III-309"
+  },
+  {
+   "part": "III",
+   "title": "Clearing House (Licensing and Operations) Regulations, 2016",
+   "page": "III-341"
+  },
+  {
+   "part": "III",
+   "title": "Securities Exchanges (Licensing and Operations) Regulations, 2016",
+   "page": "III-359"
+  },
+  {
+   "part": "III",
+   "title": "Structuring of Debt Securities Regulations, 2020",
+   "page": "III-373"
+  },
+  {
+   "part": "III",
+   "title": "Share Registrars and Balloters Regulations, 2017",
+   "page": "III-383"
+  },
+  {
+   "part": "III",
+   "title": "Securities and Futures Advisers (Licensing and Operations) Regulations, 2017",
+   "page": "III-393"
+  },
+  {
+   "part": "III",
+   "title": "Public Offering (Regulated Securities Licensing) Regulations, 2017",
+   "page": "III-407"
+  },
+  {
+   "part": "III",
+   "title": "Public Offering Regulations, 2017",
+   "page": "III-413"
+  },
+  {
+   "part": "III",
+   "title": "Private Placement of Securities Rules, 2017",
+   "page": "III-439"
+  },
+  {
+   "part": "III",
+   "title": "Centralized KYC Organization Rules, 2017",
+   "page": "III-443"
+  },
+  {
+   "part": "III",
+   "title": "Customer Compensation Fund (Establishment and Operation) Rules, 2017",
+   "page": "III-451"
+  },
+  {
+   "part": "III",
+   "title": "Centralized Customer Protection Compensation Fund Regulations, 2017",
+   "page": "III-455"
+  },
+  {
+   "part": "III",
+   "title": "CMC (Establishment and Operation) Regulations, 2017",
+   "page": "III-459"
+  },
+  {
+   "part": "III",
+   "title": "Futures Exchanges (Licensing and Operations) Regulations, 2017",
+   "page": "III-473"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Incorporation) Regulations, 2017",
+   "page": "III-489",
+   "status": "Repealed by S.R.O. 210(I)/2024"
+  },
+  {
+   "part": "III",
+   "title": "Intermediaries (Registration) Regulations, 2017",
+   "page": "III-511",
+   "status": "Repealed by S.R.O. 210(I)/2024"
+  },
+  {
+   "part": "III",
+   "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
+   "page": "III-529"
+  },
+  {
+   "part": "III",
+   "title": "Unclaimed Shares and Other Instruments and Undistributed Assets Regulations, 2017",
+   "page": "III-561"
+  },
+  {
+   "part": "III",
+   "title": "Bond Pricing Agency Rules, 2017",
+   "page": "III-569"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Distribution of Dividends) Regulations, 2017",
+   "page": "III-603"
+  },
+  {
+   "part": "III",
+   "title": "Shariah Advisors Regulations, 2017",
+   "page": "III-611",
+   "status": "Repealed by S.R.O. 1314(I)/2023"
+  },
+  {
+   "part": "III",
+   "title": "Listed Companies (Code of Corporate Governance) Regulations, 2019",
+   "page": "III-629"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Registration Offices) Regulations, 2018",
+   "page": "III-649"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Mediation and Conciliation) Regulations, 2018",
+   "page": "III-671"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Postal Ballot) Regulations, 2018",
+   "page": "III-679"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
+   "page": "III-687"
+  },
+  {
+   "part": "III",
+   "title": "Auditors (Reporting Obligations) Regulations, 2018",
+   "page": "III-691"
+  },
+  {
+   "part": "III",
+   "title": "Limited Liability Partnership Regulations, 2018",
+   "page": "III-727"
+  },
+  {
+   "part": "III",
+   "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
+   "page": "III-753"
+  },
+  {
+   "part": "III",
+   "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
+   "page": "III-759"
+  },
+  {
+   "part": "III",
+   "title": "Associations with Charitable and Not for Profit Objects Regulations, 2018",
+   "page": "III-765",
+   "status": "Repealed by S.R.O. 210(I)/2024"
+  },
+  {
+   "part": "III",
+   "title": "SECP (Anti Money Laundering and Countering Financing of Terrorism) Regulations, 2020",
+   "page": "III-793"
+  },
+  {
+   "part": "III",
+   "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+   "page": "III-813"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018",
+   "page": "III-857"
+  },
+  {
+   "part": "III",
+   "title": "Foreign Companies Regulations, 2018",
+   "page": "III-863"
+  },
+  {
+   "part": "III",
+   "title": "Shariah Governance Regulations, 2018",
+   "page": "III-889",
+   "status": "Repealed by S.R.O. 1314(I)/2023"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Further Issue of Shares) Regulations, 2020",
+   "page": "III-919"
+  },
+  {
+   "part": "III",
+   "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+   "page": "III-953"
+  },
+  {
+   "part": "III",
+   "title": "Search and Seizure Rules, 2019",
+   "page": "III-975"
+  },
+  {
+   "part": "III",
+   "title": "Collateral Management Companies Regulations, 2019",
+   "page": "III-985"
+  },
+  {
+   "part": "III",
+   "title": "Corporate Restructuring Companies Rules, 2019",
+   "page": "III-1011"
+  },
+  {
+   "part": "III",
+   "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+   "page": "III-1025"
+  },
+  {
+   "part": "III",
+   "title": "Corporate Rehabilitation Regulations, 2019",
+   "page": "III-1033"
+  },
+  {
+   "part": "III",
+   "title": "Secured Transactions Registry Regulations, 2020",
+   "page": "III-1043"
+  },
+  {
+   "part": "III",
+   "title": "Professional Clearing Members Regulations, 2020",
+   "page": "III-1051"
+  },
+  {
+   "part": "III",
+   "title": "Oversight Regulations for Self-Regulatory Bodies of Accountants, 2020",
+   "page": "III-1067"
+  },
+  {
+   "part": "III",
+   "title": "Companies (Maintenance and Audit of Cost Accounts) Regulations, 2020",
+   "page": "III-1070(1)"
+  },
+  {
+   "part": "III",
+   "title": "Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021",
+   "page": "III-1071"
+  },
+  {
+   "part": "III",
+   "title": "Modaraba Regulations, 2021",
+   "page": "III-1093"
+  },
+  {
+   "part": "III",
+   "title": "Issuance of Convertible Debt Securities through Right Offer Regulations, 2022",
+   "page": "III-1143"
+  },
+  {
+   "part": "III",
+   "title": "Shariah Governance Regulations, 2023",
+   "page": "III-1151"
+  },
+  {
+   "part": "III",
+   "title": "Unlisted Companies (Buy-Back of Shares) Regulations, 2023",
+   "page": "III-1187",
+   "status": "Repealed by S.R.O. 210(I)/2024"
+  },
+  {
+   "part": "III",
+   "title": "Securities Managers (Licensing and Operations) Regulations, 2024",
+   "page": "III-1189"
+  }
+ ]
+}

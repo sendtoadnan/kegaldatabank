@@ -1,0 +1,398 @@
+{
+  "id": "llp-regulations-2018",
+  "title": "Limited Liability Partnership Regulations, 2018",
+  "number": "S.R.O. 601(I)/2018",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "LLP Regulations"
+  ],
+  "enacted": "2018-05-10",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 601(I)/2018",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 601(I)/2018 dated May 10, 2018.- In exercise of the powers conferred by section 53 of the Limited Liability Partnership Act, 2017 (XV of 2017), the Securities and Exchange Commission of Pakistan is pleased to make the following regulations, the same having been previously published vide S.R.O. 407(1)/2018 dated 26th March, 2018 as required by sub-section (2) of section 53 of the Act, namely:- Chapter I Preliminary",
+  "parts": [
+    {
+      "heading": "Regulations",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These regulations shall be called the (2) They shall come into force at once. 2."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
+            ">(a) \"Act\" means the Limited Liability Partnership Act, 2017 (XV of 2017);",
+            ">(b) \"annexure\" means an annexure attached to these regulations;",
+            ">(c) \"Companies Act\" means the Companies Act, 2017 (XIX of 2017);",
+            ">(d)",
+            ">(d) \"electronic documents\" includes documents in any electronic form and",
+            "scanned images of physical documents;",
+            ">(e) \"e-service\" means any service or means provided by the Commission for \"e-service\" means any service or means provided by the Commission for the lodging or filing of electronic documents;",
+            ">(f) \"financial statements\" in relation to LLP, includes-",
+            ">(i) a statement of financial position as at the end of the period;",
+            ">(ii) a statement of profit and loss;",
+            ">(iii)",
+            ">(iii) notes, comprising a summary of significant accounting policies and other explanatory information;",
+            ">(iv) comparative information in respect of the preceding period; and",
+            ">(v) any other statement as may be notified by the Commission;",
+            ">(g) \"Form\" means a form appended to these regulations\";",
+            ">(h) \"incorporation documents\" means the documents as prescribed under these regulations for incorporation of LLP;",
+            ">(i) \"LLP\" means Limited Liability Partnership registered under the Act;",
+            ">(j) \"register\" includes manual or electronic registers maintained by the registrar for record of LLP;",
+            ">(k) \"Schedule\" means fee schedule appended to these regulations; [ ] [(m) \"ultimate beneficial owner\" means a natural person who ultimately and",
+            "effectively owns or controls a limited liability partnership through direct or indirect rights or who shares at least one fourth of the net profits and losses of the partnership;]",
+            "(2) The words and expressions used but not defined herein shall have the same meaning as are assigned to them in the Act, the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) and any rules made thereunder.",
+            "Chapter II Provisions Related To Name"
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Reservation of Name",
+          "text": [
+            "(1) Subject to section 6, any person desirous of forming an LLP shall make an application to the registrar as per LLP-Form-I [Part 1] for reservation of name, either online or in physical form, along with fee as specified in Fee Schedule of the regulations.",
+            "(2) The applicant shall ensure that the proposed name of the limited liability partnership shall fulfil the criteria specified in section 6 of the Act and these regulations.",
+            "(3) The registrar if satisfied that the proposed name fulfills the criteria specified in the Act and these regulations, may allow the same as per LLP-Form-I [Part IIl for a period of thirty days from the date of availability of name:",
+            "Provided that where the applicant fails to file application for incorporation of LLP along with payment of fee within the said period, the availability of name shall stand cancelled:",
+            "Provided further that in case of refusal of the proposed name, the registrar shall issue order of refusal as per LLP-Form-I [Part III].",
+            "(4) Any person aggrieved by order of the registrar may prefer an appeal within thirty days of the date of order to the Commission in terms of sub-section (4) of Section 6 of the Act."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Prohibition of certain names",
+          "text": [
+            "(1) Subject to section 6, the following words and combinations thereof shall not be used in the name of a limited liability partnership in English or any of the languages depicting the same meanıng,-",
+            ">(a) Federal Government, Provincial Government, Name depicting Name depicting association with any foreign government, Name suggesting association with any political personality, Commission, Authority, Register/ Authority, Registered, Co-operative, Bureau, Division, Department, Undertaking, Municipal, Union, Republic, Nation, President, Governor, Prime Republic, Governor, Minister, Chief Minister, Minister, Cabinet, Senate, National Assembly, Provincial Assembly, Parliament/ Parliamentary, Statute/ Statutory, Court/ Judiciary/ Judge, Jury, Administrator.",
+            ">(b) Names of International bodies and abbreviations thereof including, but not limited to, United Nations, South Asian Association for Regional Cooperation, Organization of Islamic Conference, World Bank, International Finance Corporation, Asian Development Bank, Islamic Development Bank, International Monetary Fund, Red Cross, Red Crescent:",
+            "Provided that the Commission may allow any of the above names under special circumstances on the request of any government or authority as the case may be."
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Rectification of Name",
+          "text": [
+            "An LLP which, through inadvertence or otherwise, is registered by a name in contravention of the provisions of section 6 of the Act or these regulations or the name was obtained by furnishing false or incorrect information,-",
+            ">(a) may file an application to the registrar in the manner as provided in regulation 6 for change or rectification of name; and",
+            ">(b) shall, if the registrar so directs, within thirty days of receipt of such direction, change its name with approval of the registrar in the manner as provided in regulation 6:",
+            "Provided that the registrar shall, before issuing a direction for change of the name, afford the LLP an opportunity to make representation against the proposed direction."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Change of name by LLP",
+          "text": [
+            "(1) An LLP desirous of changing or rectifying its name shall pass a resolution by majority of not less than three-fourth of partners as are present in the meeting.",
+            "(2) Subsequent to the approval of the partners, the LLP shall make an application to the registrar as per LLP-Form-Il along with fee specified in Fee Schedule for change of name:",
+            "Provided that the new name shall be subject to availability in accordance with the Act and these regulations."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Registration of change of name and effect thereof",
+          "text": [
+            "(1) Where an LLP changes or rectifies its name, the registrar shall enter the new name on the register in place of the former name, and shall issue a certificate as per LLP- Annexure-I.",
+            "(2) Where an LLP changes its name, it shall, for a period of three months from the date of issue of a certificate by the registrar under sub-regulation (1), continue to mention its former name along with its new name on every document of LLP and on the outside of every office or place in which its business is carried on in accordance with sub-section (5) of section 6 of the Act. LLP (3) The change of name shall not affect any rights or obligations of the LLP, or render defective any legal proceedings by or against the LLP and any legal proceedings that might have been continued or commenced against the LLP by its former name may be continued by or commenced against the LLP by its new name.",
+            "Chapter III Incorporation of Limited Liability Partnership"
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Application for incorporation of limited liability partnership",
+          "text": [
+            "Subject to regulation 3, the applicant shall make an application to the registrar as per LLP-Form-III either online or in physical form for incorporation of LLP along with fee as per fee schedule and the following documents, -",
+            ">(a) copies of National Identity Card (NIC) of the partners and of designated partners and in case of physical application, of witness to the documents and in case of foreigner, a copy of passport;",
+            ">(b) attested attested copy of LLP agreement duly executed by the partners, witnessed and notarized;",
+            ">(c) consent of designated partner (if any);",
+            ">(d) In case of physical application, original bank challan evidencing the (d) In case of physical application, original bank challan evidencing the payment of fee as specified in Fee Schedule;",
+            ">(e) any other information and document as required by the registrar.",
+            "9."
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Examination of documents by the registrar",
+          "text": [
+            "The registrar shall examine the incorporation documents submitted for registration of LLP and if satisfied that the same are complete and in conformity with the requirements of the Act and these regulations, shall register the documents."
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Issuance of Certificate of Incorporation",
+          "text": [
+            "[(1)] On registration of incorporation documents, the registrar shall issue certificate of incorporation under his signatures and authenticated by official seal of the Registrar as per LLP-Annexure-II.",
+            "office.] [(2) An LLP shall display certificate of incorporation at its registered Chapter IV Partners and Designated Partners"
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Consent to act as designated Partner",
+          "text": [
+            "Every individual who agrees to act as designated partner shall file his prior consent on LLP-Form-IV [Part I] with the LLP and the LLP shall file the particulars of designated partner along with his consent to act as such with the Registrar as per LLP-Form-IV [Part II]",
+            "within thirty days of the receipt of his consent."
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Eligibility of designated partners",
+          "text": [
+            "Subject to section 10 of the Act, a person shall not be capable of being appointed as a designated partner of LLP, if he-",
+            ">(a) is a minor;",
+            ">(b) is of unsound mind;",
+            ">(c) is an undischarged insolvent;",
+            ">(d)",
+            ">(d) has applied to be adjudicated as an insolvent and his application is (e) any other disability or disqualification that renders him incapable to pertorm as designated partner."
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Registration of changes in Partners",
+          "text": [
+            "(1) A notice in terms of section 14 of the Act to become or cease to be a partner or designated partner as the case may be shall be signed, authenticated under common seal of LLP and filed with the registrar within fifteen days as per LLP-Form-V along with the copy of LLP Agreement and fee as specified in Fee Schedule.",
+            "(2) The notice concerning admission of new partner as per sub-regulation (1), shall be accompaniedby his consent to act as such as per LLP-Form-IV along with a copy of LLP Agreement.",
+            "(3) A notice in terms of section 14 of the Act for any change in the name or address of a partner or designated partner as the case may be, shall be signed, authenticated under common seal of LLP and filed with the registrar within registrar within fifteen days as per LLP-Form-V along with the copy of LLP agreement, if required and fee as specified in Fee Schedule."
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Form of Contribution",
+          "text": [
+            "(1) The contribution of each partner shall include but not limited to moneys, negotiable instruments, properties including valuable rights, intangibles, knowledge and skills in accordance with the partnership agreement.",
+            "(2) The respective contribution of each partner may be accounted for in accounted for in accordance with the partnership agreement and disclosed in the financial statements of the LLP along with nature and value of contribution.",
+            "(3) The monetary value of contribution of partners representing tangible and intangible properties shall be determined in accordance with the Company law and rules and regulations made thereunder. [14A. Register of Ultimate Beneficial Owners (1) Every LLP shall, within three months of coming into force of amended section 8 of the Act, take reasonable measures to identify and obtain the information of its ultimate beneficial owners, as per LLP Form IX, by issuing a notice to every partner who shares at least one fourth of the net profits and losses of the partnership or to the representative of every legal person or legal arrangement which holds at least one fourth of the net profits and losses of the partnership.",
+            "(2) In reply to the notice issued by the LLP, every person to whom the notice has been issued under sub-regulation (1), shall submit a declaration in the form specified as LLP Form X to the LLP, within fourteen days of the notice, indicating the name, address and other particulars as specified therein, as are necessary to properly identify the ultimate beneficial owner.",
+            "Provided that any person, becoming a new partner shall also, within a period of fourteen days of his name being entered in the register of partners, submit the said declaration to the LLP.",
+            "(3) Where any change occurs in the particulars of ultimate beneficial owner or his ownership of the LLP, the person referred to in sub-regulation (2) shall, within a period of fourteen days from the date of any change, submit a declaration to the LLP as per LLP Form XI, stating the nature of change and other particulars as mentioned therein. E2.23-15-10-2020 (4) Where a declaration is made to an LLP under sub-regulation (2) or subregulation (3), the LLP shall make a note of such declaration in a register of ultimate beneficial owners to be maintained by it for such purpose containing the following particulars:-",
+            ">(i) Name (ii) Father's Name/Spouse's Name (iii) CNIC/NICOP/Passport no. alongwith date of issue (iv) Nationality (v) Country of origin (in case of foreign national or dual national)",
+            ">(vi) Usual residential address (vii) Email address (viii) Date on which rights or controlling interest acquired in the LLP (ix) Date on which rights or controlling interest acquired in the LLP from former ultimate beneficial owner (x) In case of indirect rights or controlling interest being exercised through intermediate LLP, entities or other legal persons or legal arrangements in the chain of ownership or control, the LLP shall take reasonable measures to obtain names and particulars of the ultimate beneficial owner of the legal persons or arrangements, as specified below. If there is no natural person, it should obtain the particulars of relevant natural person, who holds the position of senior managing official:",
+            "Name Legal form (Company/LLP/ Partnership Firm/Trust/Any other body corporate (to be specified)) Date of incorporation/ registration Name of registering authority Business Address Country Email address Percentage of rights or controlling interest of UBO in the legal person or legal Percentage of rights or controlling interest of legal person or legal arrangement in the LLP Identity of Natural Person who ultimately owns or controls the legal person or arrangement (a) (b) (c) (d) (e) (f) (g) (h) (i)",
+            ">(xi). Any other information incidental to or relevant to enable the LLP to evaluate this matter.",
+            "(5) Every LLP required to maintain a register of ultimate beneficial owners shall, within fifteen days from the receipt of declaration received under sub-regulation (2) or (3), and thereafter on an annual basis, submit to the registrar concerned a declaration of compliance with section 8 of the Act, as per LLP Form XII.",
+            "(6) Every LLP required to maintain a register of ultimate beneficial owners shall authorize any of its partners or designated partners or officers to verification purposes, or to any other authority or agency pursuant to the powers to call for information entrusted by law to such authority or agency, and to provide further assistance as may be required, and the name and particulars of 'such an authorized person shall be furnished to the registrar along with the declaration specified hereinabove.]"
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Partner's transferable interest",
+          "text": [
+            "The LLP shall inform the Registrar, the transfer of rights of a partner to share the profits and losses of the LLP and to receive distributions to another person and shall file LLP agreement as per LLP- Form-VIII along with fee as specified in Fee Schedule within seven days of such change.",
+            "Chapter V Books of Accounts and Auditors"
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Books of Accounts",
+          "text": [
+            "(1) Subject to section 20 of the Act, each LLP shall maintain books of accounts at its registered office relating to its state of affairs for each year of its existence on accrual basis and according to double entry system of accounting.",
+            "(2) The books of accounts of every LLP relating to a period of not less than ts or ater ure alein toi perid en no i tha order.",
+            "(3) Every LLP shall prepare its financial statements within a period of four months from the end of each financial year.",
+            "Provided that the LLPs as notified by the Commission shall be required to file the financial statements along with the fee with the Registrar.",
+            "(4) The books of account shall contain-",
+            ">(a) particulars of all sums of money received and expended by the LLP and",
+            "the matters in respect of which the receipt and expenditure takes place;",
+            ">(b) a record of the assets and liabilities of the LLP;",
+            ">(c) statements of cost of goods purchased, inventories, work-in- progress, finished goods and cost of goods sold;",
+            ">(d) any other records decided by the partners; and",
+            ">(e) any other particulars as notified by the Commission.",
+            "(5) The financial statements of the LLP shall be approved through resolution passed by a majority in number of partners. The financial statements shall be signed on behalf of the limited liability partnership by its designated partner ard where the designated partner is not available, these shall be signed by all the partners."
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Appointment of Auditor",
+          "text": [
+            "(1) An auditor or auditors of a LLP shall be appointed after seeking approval of partners through resolution passed by a majority of partners.",
+            "(2) The first auditor or auditors of a LLP shall be appointed by the appointed by the partners within sixty days of the date of incorporation of the LLP.",
+            "Provided that the LLP shall obtain a consent in writing from the auditor before his appointment."
+          ]
+        },
+        {
+          "no": "18",
+          "title": "Terms of appointment of Auditors",
+          "text": [
+            "(1) An auditor or auditors of an LLP shall hold office in accordance with the terms ofhis or their appointment. E2. 23-15-10-2020 (2) The remuneration of an auditor appointed by the limited liability partnership may be fixed by the designated partner or by following the procedure as laid down in the limited liability partnership agreement.",
+            "(3) The partners of a limited liability partnership may remove an auditor from office at any time before the expiry of term by three fourth majority of the partners by following the procedure as laid down in the limited liability partnership agreement.",
+            "(4) An auditor of an LLP may resign from his office by giving a notice in writing to that effect at the LLP's registered office.",
+            "(5) Any vacancy of the auditor shall be filled by the partners within thirty days of the date thereof."
+          ]
+        },
+        {
+          "no": "19",
+          "title": "Auditors' right to information",
+          "text": [
+            "(1) An auditor of a LLP has a right,-",
+            ">(a) of access, at all times, to the LLP's books, accounts and vouchers (in whatever form they are held);",
+            ">(b) to require any of the following persons to provide him with such information or explanations as he thinks necessary for the performance of his duties as auditor,-",
+            ">(i) any partner, designated partner, officer or employee of the LLP;",
+            "Or (ii) any person holding or accountable for any of the LLP's books, accounts or vouchers."
+          ]
+        },
+        {
+          "no": "20",
+          "title": "Duties of Auditor",
+          "text": [
+            "(1) The LLP's auditor shall conduct the audit and prepare his report in compliance with the requirements of International Standards on Auditing as adopted by the Institute of Chartered Accountants of Pakistan.",
+            "(2) The LLP's auditor must carry out such examination to enable him to form an opinion as to-",
+            ">(a) whether or not the financial statement present a true and fair view;",
+            ">(b) whether or not the financial statements have been prepared in accordance with the requirements of the Act and the regulations.",
+            "(3) The auditor shall make out a report on the accounts and books of accounts of the LLP on every annual financial statements and on every other document forming part of such statements including notes, statements or schedules appended thereto, the report shall state-",
+            ">(a) whether or not they have obtained ail the information and explanations which to the best of their knowledge and belief were necessary for the purposes of the audit and if not, the details thereof and the effect of such information on the financial statements;",
+            ">(b) whether or not in their opinion proper books of accounts have been kept by the LLP;",
+            ">(c) whether or not in their opinion and to the best of their information and",
+            "according to the explanations given to them, the said financial statements give a true and fair view-",
+            ">(i) in the case of the statement of financial position, of the state of (ii) in the case of the profit and loss account, of the profit or loss for-",
+            "its financial year.",
+            ">(d) whether or not in their opinion-",
+            ">(i) investments made, expenditure incurred and guarantees extended, during the year, were for the purpose of LLP's business;",
+            "and",
+            ">(ii) zakat deductible at source under the Zakat and Usher Ordinance, 1980 (XVIII of 1980), was deducted by the LLP and deposited in the Central Zakat Fund established under section 7 of Zakat and",
+            "Usher Ordinance, 1980.",
+            "(4) Where the auditor's report contains a reference to any other report, statement or remarks which they have made on the financial statements examined by them, such statement or remarks shall be annexed to the auditor's report and shall be deemed to be a part of the auditor's report.",
+            "(5) The auditors' report-",
+            ">(a) must be either unmodified or modified; and",
+            ">(b) must include a reference to any matter, if required, to which the auditor wishes to draw attention by way of emphasis without modifying the report.",
+            "(6) Where the auditor fails to obtain all the information and explanation to the best of his knowledge and belief are necessary for the purposes of his audit, he shall state that fact in the report."
+          ]
+        },
+        {
+          "no": "21",
+          "title": "Authentication of Auditor's Report",
+          "text": [
+            "(1) The auditor's report shall state the name of auditor and be signed and dated.",
+            "(2) Where the auditor is an individual, the report shall be signed by him and where the auditor is a firm, the report must be signed by the partnership firm with the name of the engagement partner.",
+            "Chapter VI Conversion to Limited Liability Partnership"
+          ]
+        },
+        {
+          "no": "22",
+          "title": "Conversion from firm to limited liability partnership",
+          "text": [
+            "(1) The application for conversion from firm to a LLP shall be filed as per LLP-Form-VI [Part I] in terms of requirements specified in Second Schedule of the Act subject to compliance with all the requirements regarding incorporation of LLP and payment of fee as per Fee Schedule of these regulations.",
+            "(2) The registrar on being satisfied with the application, shall register the LLP and issue a certificate of Incorporation as per LLP-Annexure-II."
+          ]
+        },
+        {
+          "no": "23",
+          "title": "Conversion from private limited company to limited liability partnership",
+          "text": [
+            "(1) The application for conversion from private limited company to a LLP shall be filed as per LLP-Form-VI [Part II] in terms of requirements as specified in the third Schedule of the Act subject to payment of fee as per Fee Schedule of these regulations.",
+            "(2) The registrar on being satisfied with the application, shall register the R.2 23-15-10-2020 LLP and issue a Certificate of Incorporation as per LLP-Annexure-II.",
+            "Chapter VII Mode and Manner of Filing of Applications and Documents"
+          ]
+        },
+        {
+          "no": "24",
+          "title": "Electronic Documents",
+          "text": [
+            "(1) The Commission may provide e-service for the electronic filing or lodging of the application, document or report to be filed under any provision of the Act, Rules made under the Act or under these regulations.",
+            "(2) A copy of' er an extract from any document electronically filed or lodged with the Commission or the registrar or supplied or issued by the Commission or the registrar and certified to be a true copy thereof or extract therefrom under the hand and seal of an officer of the Commission or the registrar, shall be admissible in evidence in any proceedings as of equal validity as the original document.",
+            "(3) Where a document is electronically filed or lodged with the Commission or the registrar, the Commission or the registrar shall not be liable for any loss or damage suffered by any person by reason of any error or omission of whatever. nature arising or appearing in any document obtained by any person under the eservice referred under these regulations, if such error or omission was made in good faith and in the ordinary course of the discharge of the duties of the Commission or the registrar."
+          ]
+        },
+        {
+          "no": "25",
+          "title": "Mode of payment",
+          "text": [
+            "The fee for the filing of applications, documents or reports may be paid through any of the acceptable methods of payment notified by the Commission from time to time."
+          ]
+        },
+        {
+          "no": "26",
+          "title": "Payment of fees, etc",
+          "text": [
+            "Except as otherwise provided, all fees and other sums payable, paid or realized under the Act or any rules or regulations made or notification issued there under shall be accounted for to the Commission and deposited with a designated bank branch specified by the Commission for the purpose and the original receipt thereof shall be furnished to the Commission or the registrar, as thecase may be, along withthe document or application for which the same is payable or the other communication intimating payment.",
+            "Chapter VIII Miscellaneous"
+          ]
+        },
+        {
+          "no": "27",
+          "title": "Registered Office",
+          "text": [
+            "[(1)] An LLP shall notify the change in the registered office address or other particulars as per LLP-Form-VII along with fee specified in Fee Schedule within fifteen days of such change.",
+            "[(2) An LLP shall maintain a register of partners with a statement of their ownership percentages and their associated voting rights at its registered office.]"
+          ]
+        },
+        {
+          "no": "28",
+          "title": "Filing of LLP Agreement",
+          "text": [
+            "1(1)] An LLP shall file any change in the partnership agreement within seven days of change with the Registrar as per LLP-Form-VIII along with fee as specified in Fee Schedule of the Regulations.",
+            "[(2) An LLP shall keep copy of LLP Agreement including amended copies, if any, at its registered office.]"
+          ]
+        },
+        {
+          "no": "29",
+          "title": "Striking off name of LLP",
+          "text": [
+            "(1) The Registrar may strike the name of LLP off the register if an LLP is not carrying on any business or its operation in accordance with the provisions of the Act or has failed to comply with any provision of the Act.",
+            "(2) The registrar shall send a notice to the LLP and all its partners, of his intention to strike off the name of the LLP from the register and requesting them to send their representations within a period of one month from the date of the notice:",
+            "Provided that where the LLP is regulated under any special law, the consent in writing of the regulatory body shall be obtained prior to removal of the name of LLP off the register.",
+            "(3) At the expiry of the time mentioned in the notice under sub-regulation (2), the Registrar may, by an order, unless cause to the contrary is shown by the LLP or the registrar is satisfied that the name may not be struck off the register, strike its name off the register, and shall publish notice thereof in the Official Gazette, and on the publication in the Official Gazette of the notice, the LLP shall stand dissolved.",
+            "Provided that where an LLP which has any known assets and liabilities, the name of such LLP shall be struck of and shall be directed to proceed for voluntary winding up in accordance with the provisions of the Act.",
+            "Provided further that the liability, if any, of every designated partner and other partners of the LLP shall continue and may be enforced as if the LLP had not been dissolved."
+          ]
+        },
+        {
+          "no": "30",
+          "title": "Establishment of LLP Registration Office",
+          "text": [
+            "The Commission through notification shall establish offices at such places as deem fit for registration of LIP and performing other duties under the Act and the rules and regulations made thereunder."
+          ]
+        },
+        {
+          "no": "31",
+          "title": "Inspection of documents kept by Registrar",
+          "text": [
+            "(1) The registrar shall permit any person to inspect incorporation document, names of partners and changes if any made therein subject to payment of fee as prescribed in Fee Schedule of these regulations.",
+            "(2) The inspection of documents permitted under sub-regulation (1) shall be carried out in the presence of the registrar or an official authorized by him in this behalf and shall be completed by the applicant during the time specified for the transaction of business with the public.",
+            "(3) The registrar or other authorized official supervising the inspection, may permit notes of the inspected documents to be taken, however, verbatim copy of the document inspected may not be allowed to be taken."
+          ]
+        },
+        {
+          "no": "32",
+          "title": "Issuance of copies of documents",
+          "text": [
+            "The registrar shall, on the application of a person, cause copies of documents of incorporation and other documents as filed under the Act, rules or these regulations on payment of fee prescribed in Fee Schedule of these regulations."
+          ]
+        },
+        {
+          "no": "33",
+          "title": "Destruction of documents",
+          "text": [
+            "(1) Subject to the prior approval of the Registrar of LLP; the LLP records kept in a LLP Registration Office in physical form under the Act may be destroyed, after the expiration of ten years from the date of filing of said record in case of LLP in existence and five years from the date of dissolution in case of dissolved LLP, if the same are not of sufficient public value to justify their further preservation, or have not been ordered by the Commission or any Court or any other competent authority to be preserved for a longer period, or are not likely to be needed in connection with any pending * proceedings, before any Court or authority, of which the LLP Registration Office has notice:",
+            "Provided that the physical documents and record filed at the time of incorporation of a LLP shall be preserved in the physical form permanently:",
+            "Provided further that before destroying any physical documents and record, it shall be ensured that each and every document is duly preserved in the electronic form permanently.",
+            "(2) Save as provided in sub-regulation (1), the physical record relevant to any legal proceeding, inquiry or investigation which has been initiated ın respect of any LLP under any law for the time being in force, shall not be destroyed till the said proceeding attain finality or inquiry or investigation has been closed by the respective authority.",
+            "(3) The documents filed by a LLP through e-service shall be preserved permanently."
+          ]
+        },
+        {
+          "no": "34",
+          "title": "Penalty for contravention of the regulations",
+          "text": [
+            "Whoever fails or refuses to comply with, or contravenes any provisions of these regulations be punishable with fine and, in the case of continuing failure, to a further fine, as provided in sub-section (3) of section 53 of the Act."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}

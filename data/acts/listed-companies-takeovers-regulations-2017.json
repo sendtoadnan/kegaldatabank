@@ -1,0 +1,411 @@
+{
+  "id": "listed-companies-takeovers-regulations-2017",
+  "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
+  "number": "S.R.O. 749(I)/2017",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Takeover Regulations 2017",
+    "Takeovers Regulations"
+  ],
+  "enacted": "2017-08-01",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 749(I)/2017",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "S.R.O. 749(I)/2017 dated August 01, 2017.- In exercise of the powers .conferred by section 124 read with clause (j) of sub-section 169 of the Securities Act, 2015 (III of 2015), and having been previously published in the official Gazette vide notification S.R.O. 1140(1)/2016, dated December 2, 2016 as required by sub-section (4) of section 169 thereof, the Securities and Exchange Commission of Pakistan hereby makes the following Regulations, namely:- Chapter 1 Preliminary",
+  "parts": [
+    {
+      "heading": "Regulations",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These. Regulations shall be called the Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017.",
+            "(2) They shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
+            ">(a) \"acceptance period\" means the period commencing on the forty eighth day of the public announcement of [public] offer and closing with the close of the public offer which shall not be later than the fifty fourth day from the date of the public announcement of [public] offer;",
+            ">(b) \"Act\" means the Securities Act, 2015 (III of 2015); [(ba) \"average daily traded volume\" means total traded volume of shares of a listed company divided by total trading days during the period under consideration;]",
+            ">(c) \"date of public announcement\" means the date on which the public announcement is published in newspapers; [(ca) \"frequently traded shares\" means shares of a listed company meeting following criteria during 180 days prior to the date of public announcement of public offer:",
+            ">(i) the shares have been traded for at least 80 percent of the trading days; and",
+            ">(ii) the average daily traded volume of the shares in the ready market is not less than 0.5 percent of its free float or 100,000 shares whichever is higher;]",
+            ">(d) \"offer letter\" means the letter to be issued by the acquirer to the shareholders whose names appear on the register of members of the target company as on the date of bank closure, the custodians of Global Depository Receipt(s), the custodians of American Depository Receipt(s)",
+            "and holders of convertible securities (where the period of conversion falls within the offer period) in pursuance of section 117 of the Act and",
+            "in accordance with the specifications provided in Schedule 1; +[ 1 (e) \"schedule\" means the schedules attached to these regulations; [(f) \"weighted average share price\" means the price calculated as total traded value divided by total traded volume of the underlying share in the ready market during the period under consideration;]",
+            "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the Companies Act, 2017, the Central Depositories Act, 1997 (XXIX of 1997) and the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 11997)."
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Eligibility",
+          "text": [
+            "(1) A person who is a shareholder of the target company as on the date of book closure shall be eligible to participate in the public offer.",
+            "(2) All Global Depository Receipt and American Depositary Receipt holder(s) entitled to participate in the public offer as on the date of book closure and convertible security holders (where the period of conversion falls within the offer period) shall be eligible to participate in the public offer.",
+            "Chapter II Mandatory disclosure for transactions"
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Mandatory disclosure for transactions under section 109 and 110 of the Act",
+          "text": [
+            "(1).An acquirer who acquires voting shares pursuant to section 109 of the Act within two working days of the acquisition of shares shall make a disclosure of the acquisition to the target company, the securities exchange and exchange and the Commission containing the information as prescribed in Schedule II.",
+            "(2) An acquirer who acquires voting shares beyond the thresholds prescribed under sub-section (1) of section 110 of the Act, shall within two working days of the acquisition of shares make a disclosure of the acquisition to the target company, the securities exchange and the Commission containing the information prescribed in Schedule III.",
+            "(3) An acquirer who acquires additional voting shares after a period of twelve months under sub-section (3) of section 110 of Act shall within two working days of the acquisition of shares make a disclosure of the acquisition to the target company, the securities exchange and the Commission containing the information prescribed in Schedule IV.",
+            "Chapter III Disclosures and Public Announcements"
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Disclosure by the target company",
+          "text": [
+            "(1) A target company shall immediately, in writing, inform the securities exchange and the Commission,-",
+            ">(a) of a firm intention to acquire control or voting shares of the target company, beyond the limits prescribed in section 111 of the Act, [where such intention is notified by the acquirer to the target company];",
+            ">(b) when the target company is subject of rumor and speculation or there is an unusual movement in its share price or traded volume and there are reasonable grounds for concluding that it is the potential acquirer's actions which has led to the situation;",
+            ">(c) when negotiations or discussions are about to commence with a person(s) for acquiring control or voting shares of the target company beyond the limits prescribed in section 111 of the Act; or",
+            ">(d) when a director, chief executive and/ or majority shareholder of a target company informs the target company that they individually or in concert with each other or their family members or associates are entering into negotiations for sale of their shareholding beyond the limits prescribed in section 111 of the Act.",
+            "(2) The disclosure required to be made under sub-regulation (1) shall contain the information as prescribed in Schedule V.",
+            "(3) The securities exchange on being informed by the target company under sub-regulation (1) shall make the information available on the same day to the shareholders of the target company and prospective investors by placing the information on its website, posting it on its notice board through notification on the automated information system and by making an announcement on the house of the securities exchange.",
+            "(4) If any information give by the target company under these regulations is found to be false and the target company gains any benefit from the false information, the target company shall be liable to a penalty under the Act."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Public announcement of intention",
+          "text": [
+            "(1) Before making any public announcement of intention, the acquirer shall appoint a \"Consultant to the Issue\" duly licensed by the Commission, as manager to the offer to assist it in the acquisition of shareholding beyond the limits prescribed in section 111 of the Act or control of the target company;",
+            "(2) Before an acquirer,-",
+            ">(a) enters into negotiations for a share purchase agreement;",
+            "[.",
+            ">(c) starts raising funds; or",
+            ">(d) commences a due diligence process to evaluate the share price of the For the purpose of the acquisition of voting shares beyond the limits prescribed in section 111 of the Act or control of the target company, the acquirer through the manager to the offer shall, after careful and responsible the offer responsible consideration, make a public announcement of intention in the newspapers [:]",
+            "[Provided that in case acquirer is a company, it shall make public shall make announcement of intention immediately after it passes a board resolution.]",
+            "(3) Notice of the public announcement of intention shall be submitted to the target company (at its registered office for placement before the board of directors of such company), the securities exchange and the Commission.",
+            "(4) The securities exchange shall make the information about the public announcement of intention available, on the same day, by placing the information on its website, posting it on its notice board, through notification on the automated information system and by making an announcement on the house of the securities exchange.",
+            "(5) Within two working days of submission of notice of the public announcement of intention to the target company, the securities exchange and the Commission, the public announcement of intention shall be published in English and Urdu language, in at least two daily newspapers having circulation in all provinces. Published copy of public announcement of intention shall be submitted to the Commission, the target company (at its registered office) and the securities exchange on the same day of its publication.",
+            "(6) The public announcement of intention shall contain such information as prescribed in Schedule VI.",
+            "(7)",
+            "(7) Where an acquirer makes a public announcement of intention in order to deceive any other person, or to induce or influence any other person to act in a particular manner or withdraws the public announcement of intention without any reasonable cause or reason, such person shall be liable to a penalty under the Act.",
+            "(8)",
+            "(8) All persons concerned with public announcement of intention shall make full and prompt disclosure of all relevant information and take every precaution to avoid the creation or continuance of an uniformed market and the parties involved in such announcement shall take care that statements which may mislead the shareholders or the market are not made.",
+            "7."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Public announcement of [public] offer",
+          "text": [
+            "(1) A public A announcement of [public] offer shall be made by the acquirer through the manager to the offer within one hundred and eighty days of making the public announcement of [public] intention in the newspapers:",
+            "[Provided that the acquirer may extend the aforementioned time period for a maximum of ninety days under intimation to the Commission and the Securities Exchange [and such intimation shall be made on or before the expiry of 180 days for making the public offer.]",
+            "(2) Notice of the public announcement of [public] offer shall be submitted through manager to the offer to the target company (at its registered office for being placed before the board of directors of such company), the securities exchange and the Commission.",
+            "(3) The securities shall make the information about the public announcement of [public] offer available, on the same day by placing the information on its website, posting it on its notice board through notification on the automated information system and by making an announcement on the house of the securities exchange.",
+            "(4) The publie announcement of Ýpublic] offer shall contain the information as prescribed in schedule VII.",
+            "(5) Notice of public announcement of ![public] offer shall be submitted to the Commission along with the document prescribed in Schedule VIII along with a non-refundable fee of Rs.500/000/- to be deposited in the designated account of the Commission.",
+            "(6) Within two working days of the submission of notice of the public announcement of [public] offer to the target company, the securities exchange and Commission, the public announcement of [public] offer shall be published in English and Urdu language, in at least two daily newspapers having circulation in all provinces. Published copy of public announcement of [public] offer shall be submitted to the Commission, the target company (at its registered office) and the securities exchange, on the same day of its publication.",
+            "Chapter IV Public Offer"
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Offer Timetable",
+          "text": [
+            "The acquirer, manager to the offer, target company or any person making a competitive bid shall comply with the offer timetable as prescribed under Schedule IX. In the said schedule, Time (T) stands for date of [public announcement] of public offer."
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Book Closure",
+          "text": [
+            "(1) On the twenty second day of the public announcement of [public] offer, the target company shall announce its book closure from the thirty sixth day of the public announcement of [public] offer to closure from the thirty sixth day of the public announcement of [public] offer to determine the eligibility of persons to receive the offer letter.",
+            "(2) The books of the target company shall remain closed for a period of seven days from the date of book closure i.e. from thirty sixth day till the forty"
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Determination of entitlement",
+          "text": [
+            "After announcement of book closure determination of entitlement will take place in accordance with respective regulations of Pakistan Stock Exchange."
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Provision of list of shareholders and issuance of offer letters",
+          "text": [
+            "(1) On the forty third day of the public offer, the target company shall provide an updated and certified list of shareholders to the acquirer to enable the acquirer to send the offer letters as required under section 117 of the Act.",
+            "(2) On the forty fourth and forty fifth day of the public announcement of [public] offer, the acquirer shall issue offer letters to the shareholders of the target company, the custodians of Global Depository Receipts or American Depository Receipts and the convertible security holders (where the period of conversion falls within the offer period)."
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Date of closure of public offer",
+          "text": [
+            "The date of closure of public offer for the acquisition of voting shares of the target company by the acquirer shall not be later than [fifty four days] from the date of public announcement of [public] offer:",
+            "Provided that where an addendum or corrigendum to the public announcement of [public] offer is published by the acquirer, whether on the acquirer's own motion or on the direction of the Commission, the offer period shall re-commence from the date of the publication of the addendum or the corrigendum as the case may be.",
+            "Chapter V Offer pricing and number of shares to be acquired"
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Minimum offer price",
+          "text": [
+            "(1) If the shares of the target company are frequently traded [shares], the [ ] offer shall be at the price which is highest amongst the following,-",
+            ">(a)",
+            "purchase agreement(s) for the acquisition of voting shares of the target company;",
+            "Provided that the expression \"negotiated weighted average price\"",
+            "shall include total consideration paid in whatsoever manner, including the liabilities settled whether taken over or not, personal liabilities of sellers and consideration paid either in cash or otherwise against the shares purchased; [(b) the highest price paid by the acquirer for acquiring the voting shares of the hiehest price paid by theooida orangiring eoteshopes target company during the 180 days preceding the date of public announcement of public offer;",
+            ">(c) the weighted average share price of target company on the securities exchange during the 180 days preceding the date of public announcement of public offer;",
+            ">(d) the weighted average share price of target company on the securities exchange during trading days preceding the date of public announcement of intention and only those days shall be taken in to account on which the shares of the target company have been traded;]",
+            "1|]",
+            "(2) [If the shares are not frequently traded shares, the public announcement of public offer] to acquire shares under section 111 of the Act shall be at the price which is highest amongst the following,-",
+            ">(a)",
+            "under share purchase agreement(s) for the acquisition of voting shares of the target company;",
+            "Provided that the expression \"negotiated weighted average price\"",
+            "shall include total consideration paid in whatsoever manner, including the liabilities settled whether taken over or not, personal liabilities of sellers and consideration paid either in cash or otherwise against the shares purchased;",
+            "[(b) the highest price paid by the acquirer for acquiring the voting shares of target company during 180 days preceding the date of public announcement of public offer; or",
+            ">(c) the price per share arrived at on the basis of net assets value carried-",
+            "out by a chartered accountant firm based on the audited or half yearly reviewed financial statements, as the case may be, not older than six months from the date of public announcement of public offer made by the manager to the offer. In case of fixed assets, being part of total assets, the chartered accountant firm shall obtain the services of a valuer to carry-out valuation of fixed assets, as per regulation 8A and",
+            "8B of the Companies (Further Issue of Shares) Regulations, 2020.]"
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Number of voting shares to be acquired",
+          "text": [
+            "(1) The acquirer may acquire any number of voting shares through an agreement but where the acquisition attracts the provisions of section 111 of the Act, the acquirer shall make a public announcement of[public] offer to acquire at least fifty percent of the remaining voting shares of the target company.",
+            "(2) Where the public offer is made conditional upon minimum level of acceptances, such minimum level shall not be more than thirty-five percent of the remaining voting shares:",
+            "Illustration:- Where the acquirer holds 10 percent voting shares of the target company and enters into an agreement to acquire another 20 percent roting shares, then such acquirer shall make a public announcement of [public] offer for fifty percent of the remaining 70 percent voting shares of the target company. In such a case the minimum level of acceptances for the public offer cannot be more than 24.5 percent which is 35 percent of the 70 percent offered to be acquired through the public offer.",
+            "Chapter VI Security"
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Security to e furnished by the acquirer",
+          "text": [
+            "(1) For performance of obligations under the public offer, the acquirer shall provide security in the public offer, following forms to the manager to the offer:",
+            ">(a) cash deposited in an escrow account with a commercial bank with a minimum rating of \"A\" and to be operated by the manager to the offer;",
+            "or",
+            "[(b) treasury bills and short term sukuks with original maturity of twelve (12) months or less with five percent margin or any other government debt securities with ten percent margin; or]",
+            ">(c) bank guarantee in favor of the manager to the offer from a commercial bank with a minimum rating of \"A\" and valid till all obligations of the acquirer are fulfilled as certified by the manager to the offer; or",
+            ">(d) margin trading system eligible shares with thirty percent haircut based on their current market value. The manager to the offer shall mark to market the shares on a weekly basis and any shortfall after market to market shall be notified by the manager to the offer to the acquirer in the form of margin call and the acquirer shall deposit the shortfall on the same day of receipt of the margin call from the manager to the offer.",
+            "\"(b) government securities with minimum ten percent margin shall be deposited as a security;",
+            "or\" [(g) a combination thereof;]",
+            "(2) The security referred in sub-regulation (1) shall be provided by the acquirer on or before the date of issue of public announcement of [public] offer; and",
+            "(3) In case of any upward revision of offer, the security deposited shall be increased accordingly."
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Release of security",
+          "text": [
+            "(1) The security deposited by the acquirer shall be released by the manager to the offer, within a period of seven days,-",
+            ">(a) after all payments to the shareholders have been made and completion of all obligations of the acquirer under the Act and these regulations;",
+            "and",
+            ">(b) in the case of withdrawal of public offer, upon certification by the manager to the offer that the offer has been validly withdrawan.",
+            "(2) In the event of non-fulfillment of obligations by the acquirer the manager to the offer shall realize the security amount by way of withdrawal of cash, foreclosure of deposit, calling of bank guarantee or sale of government securities and shares and the proceeds so obtained shall be utilized by the manager to offer to meet all obligations under the Act and these Regulations.",
+            "(3) Where the security is not released by the manager to the offer with seven days, the manager to the offer shall pay a surcharge at the rate of. 6 months KIBOR +4 percent.",
+            "Chapter VII Procedure for Competitive Bid and Acceptance of Public Offer"
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Procedure for making competitive bid",
+          "text": [
+            "(1) The public (1) The announcement of first and subsequent competitive bids shall be made within twenty-one days of the public announcement of first [public] offer.",
+            "(2) The public announcement of competitive bid shall be published in the same newspapers in which the first public announcement of [public] offer was published. A copy of the public announcement of competitive bid shall be submitted, through the manager to the offer, to the Commission, the acquirer who made the previous public announcement of [public] offer, the target company (at its registered office for being placed before the board of directors of such company) and the,securities exchange (for being notified on the notice board and on the automated information system thereof), at least four days prior to the date of publication in newspapers.",
+            "(3) The public announcement of a competitive bid shall contain the information as prescribed in Schedule VII.",
+            "(4) Where competitive bid(s) has been made, the manager to the offer of the competitive bidder(s) and the manager to the offer of the acquirer who made the first public announcement of [public] offer shall jointly, one day before the commencement of the acceptance period for the public offer, publish a comparative statement containing details of the first [public announcement of public] offer and subsequent competitive bid(s) in the same newspapers in which the first public announcement of [public] offer and the competitive bid(s) were published.",
+            "(5) Upon the public announcement of a competitive bid, the acquirer, who has made a public announcement of the earlier [public] offer, shall have the option to make another announcement,-",
+            ">(a) revising the public offer in respect of the price and the number of voting shares to be acquired without changing any other terms and conditions of the said public offer; or",
+            ">(b) withdrawing the public offer:",
+            "[Provided that if no such announcement is made within the time lines prescribed with reference to competitive bids and upward revision [under these regulations], the earlier offer on the original terms shall continue to be valid and binding on the acquirer who has made the earlier public offer, except that the date of closing of such public offer shall stand extended to the date of closure of public offer under the last subsisting competitive bid(s).]",
+            "(6) Where there is a competitive bid, the date of closure of the earlier bid, as also the date of closure of all the subsequent competitive bids, shall be the date of closure of public offer under the last subsisting competitive bid and the public offers under all the subsisting competitive bids shall close on the same date."
+          ]
+        },
+        {
+          "no": "18",
+          "title": "Acceptance of public offer",
+          "text": [
+            "(1) On forty sixth day, the acquirer through an advertisement in the newspapers in which the public announcement of [public] offer or competitive bid, as the case may be, was published, shall inform the shareholders of the target company of the commencement of the acceptance period.",
+            "(2) The advertisement referred to in sub-regulation (1) shall be in the form prescribed under Schedule X.",
+            "(3) The shareholders of the target company may accept the public offer during the acceptance period by tendering their shares physically to the manager to the offer or in a designated CDC account specified for the purpose in the public announcement of [public] offer.",
+            "(4) Convertible security holder intending to accept the public offer shall convert their securities into shares and tender the same to the manager to the offer during the acceptance period in the designated CDC account.",
+            "(5) The custodians of Global Depository Receipts holders or American Depositary Receipts holders shall upon the request of the respective holders convert the Global Depository or American Depositary Receipts, as the case may be, into shares and tender the same to the manager to the offer during the acceptance period in the designated CDC account.",
+            "(6) The manager to the offer shall send a written confirmation of receipt to the custodians of Global Depository Receipts holders or American Depositary Receipts holders, the shareholders of the target company and convertible security holders who have tendered their shares to the manager to the offer as acceptance of the public announcement of [public] offer."
+          ]
+        },
+        {
+          "no": "19",
+          "title": "Mode of payment",
+          "text": [
+            "(1) The consideration for the voting shares to be acquired by the acquirer shall be payable-",
+            ">(a) wholly in cash; or",
+            ">(b) in the form of securities accompanied with a wholly cash alternative.",
+            "(2) In case the consideration includes securities as mentioned in subregulation (1)(b), only the following securities or a combination thereof may be offered as consideration by the acquirer:",
+            ">(a) shares of listed company owned by the acquirer or proposed further issuance of shares by the acquirer or owned by any person acting in concert subject to the following conditions,-",
+            ">(i) such company is listed for at least two years before the date of public announcement of public offer;",
+            ">(ii) shares of such listed company are presently being traded at normal counter of securities exchange;",
+            ">(iii) shares of such listed company are frequently traded:",
+            "Provided that in case of proposed further issuance of shares, appropriateregulatory approvals in accordance with the requirements of the Companies. Act, 2017 are in place prior to the public announcement of offer; or",
+            ">(b) listed debt instruments owned/proposed to be issued by the acquirer or",
+            "owned by any person acting in concert; or",
+            ">(c) Government debt securities in the form of treasury bills and sukuks with remaining maturity of not more than 364 days owned/held by the acquirer or owned by any person acting in concert.",
+            "(3) The value of shares offered as consideration shall be the weighted (3) average share price during 180 days preceding the date of public announcement of public offer.",
+            "(4) The value of government debt securities to be offered as consideration shall be calculated on basis of applicable Pakistan Revaluation (PKRV) rates at the end of the day preceding the date of the public announcement of public offer.",
+            "(5) the value of listed debt instruments offered as consideration shall be calculated on the basis of a valuation methodology in accordance with generally accepted principles for valuation of such instruments as disclosed by the acquirer.]"
+          ]
+        },
+        {
+          "no": "20",
+          "title": "Procedure for payment",
+          "text": [
+            "The acquirer shall, within a period of two days from the date of closure of public offer, open a special bank account and deposit therein such sum as would, together with the security furnished under regulation 15, make up the entire sum due and payable to the shareholders as consideration for acceptances received and accepted in terms of public offer [:]",
+            "[Provided that in case the option of receiving consideration in the form of securities is exercised the offeror shall post or credit the non-cash consideration to the securities account of the person accepting the takeover offer within 2 days from the date of closure of public offer.]",
+            "Chapter VIII Withdrawals of Public Announcement"
+          ]
+        },
+        {
+          "no": "21",
+          "title": "Withdrawal of public announcement of intention",
+          "text": [
+            "(1) A public announcement of intention shall be withdrawn,-",
+            ">(a) where the sole acquirer being a natural person, has died or has been declared bankrupt or has been decided to be of unsound mind;",
+            ">(b) where the negotiations to acquire voting shares of the target company have failed;",
+            ">(c) where the results of the due diligence carried out by the acquirer for the acquisition of shares of the target company are unfavorable;",
+            ">(d) in case the acquirer is a company and it has gone into liquidation or its board of directors have passed a resolution not to acquire the voting shares of the target company;",
+            ">(e) the time period for making the public announcement of [public] offer and extension thereof, 4(if availed], has lapsed 5A [Provided that the withdrawal notice shall be submitted to the Securities Exchange and the Commission not later than one working day of expiry of time period for making the public offer or extension thereof if availed, has lapsed.]",
+            ">(f) in case of regulated / licensed entity the requisite approval have not been granted by the concerned regulatory authority.",
+            "(2) In the event of withdrawal of the public announcement of [public] intention under any of the circumstances specified under the sub-regulation (1), the acquirer shall immediately-",
+            ">(a) • make a public announcement of withdrawal in all the newspapers in which the public announcement of intention was made and disclose reasons for withdrawal; and",
+            ">(b) inform the Commission, the securities exchange and the target company at its registered office along with reasons."
+          ]
+        },
+        {
+          "no": "22",
+          "title": "Withdrawal of public announcement of offer",
+          "text": [
+            "(1) In terms of clause (c) of sub-section (2) of section 122 of the Act, a public announcement of offer once made, may be withdrawn,-",
+            ">(a) in case the acquirer is a company and it has gone into liquidation or has been declared bankrupt before the completion of the acquisition process;",
+            "Or (b) where the acquirer is an individual and he has been declared as an undischarged insolvent or has applied to be adjudicated as insolvent before the completion of the acquisition process; or",
+            ">(c) the acquirer has been declared by a Court of competent jurisdiction as a defaulter in repayment of loans to financial institutions.",
+            "[ (3) Where there is a withdrawal of pubic offer, the manager to the offer shall,-",
+            ">(a) return the shares, if any, tendered by the shareholders of the target company to the respective shareholders of the target company within a period of three days from the date of the public announcement of withdrawal in the newspapers; and",
+            ">(b) thereafter release the security deposited to the acquirer or the Court in case of insolvency or bankruptcy of the acquirer as the case may be.",
+            "Chapter IX Miscellaneous"
+          ]
+        },
+        {
+          "no": "23",
+          "title": "Conditions for upward revision of [public] offer",
+          "text": [
+            "Any upward revision of [public] offer under section 121 of the Act shall be made on the following conditions, namely:-",
+            ">(a) making of a public announcement in respect of such changes or",
+            "amendments in all the newspapers in which the earlier public teerrier es e announcement was made;",
+            ">(b) informing the Commission, the securities exchange and the target company at its registered office, simultaneous with the issue of public announcement referred in clause (a); and",
+            ">(c) increase in the value of the security accordingly."
+          ]
+        },
+        {
+          "no": "24",
+          "title": "General obligations of the acquirer",
+          "text": [
+            "(1) The acquirer shall announce its public announcement of [public] offer only after careful and responsible consideration and the acquirer and its Manager to the Offer must be satisfied that it can and would continue to be able to implement the takeover offer in full.",
+            "(2) The acquirer shall at the time of the public announcement of [public] offer ensure that the identities of all the persons interested in the acquisition of voting shares beyond the limit prescribed in section 111 of the Act or control of the target company including the persons who makes arrangement for all the funding requirements including payments and would exercise ultimate control over the target company is disclosed to the public and the target company.",
+            "(3) If any director of an acquirer that is a public company is faced with a conflict of interest as a result of a proposed acquisition, the acquirer's board of directors shall establish an independent committee to assess the proposed public offer.",
+            "(4) Within two working days of the public announcement of [public] offer, the acquirer shall send a copy of the proposed offer letter to the target company at its registered office address, securities exchange and the Commission.",
+            "(5) In case acquirer is a company, whether incorporated in Pakistan or outside Pakistan, the public announcement, brochure, circular, offer letter or any other advertisement or publicity material issued to shareholders in connection with a public offer shall state that the directors accept the responsibility for the information contained in such documents:",
+            "Provided that if any of the directors desires to exempt himself from responsibility for the information in such documents, such director shall issue a statement to that effect together with reasons thereof in the public announcement of [public] offer.",
+            "(6) Persons, other than the acquirer, representing or having interest in the 52-20-02-2024 target company or an insider or a beneficial owner of more than ten per cent of the voting shares during the last twelve months, shall not participate in any matters concerning or relating to a public offer including any preparatory steps leading to the offer.",
+            "(7) On or before the date of issue of public announcement of [public] offer, the acquirer shal arra the dae rfiuiste f public an puncend uod tpubidc o tinr the acquirer shall arrange the requisite security as provided under the Act and these regulations.",
+            "(8) The acquirer shall ensure that firm financial arrangements for fulfillment of the obligations under the public offer and suitable disclosures in this regard have been made in the public announcement.",
+            "(9) The acquirer shall, within a period of ten days from the date of the closure of public offer, complete all procedures relating to the public offer including payment of consideration to the shareholders who have accepted the public offer.",
+            "(10) The acquirer shall comply with all the requirements of the Act, these regulations and the regulations of the securities exchange at all times.",
+            "(11) All acts of the acquirer shall be in good faith and in the best interest of the target company and its shareholders considering the long term viability of the target company•"
+          ]
+        },
+        {
+          "no": "25",
+          "title": "General Obligations of the Board of Directors of the target company",
+          "text": [
+            "(1) The target company shall furnish to the acquirer, within seven days of the request of the acquirer or within seven days from the date mentioned in the public announcement of [public] offer, whichever is later, a list of convertible security holders as are eligible for participation containing name, address, shareholding and folio number, and of those persons whose applications for registration of transfer of the securities are pending with the company.",
+            "(2) The target company shall ensure that the acquirer and the Manager to the Offer are provided with all relevant and material information which they require for the purposes of due diligence.",
+            "(3) The board of directors of the target company shall send its unbiased comments and recommendations on the public offer to the shareholders if so desired by the acquirer(s) or shareholder(s) of the target company.",
+            "(4) The board of directors of the target company shall facilitate the acquirer in verification of securities tendered for acceptance.",
+            "(5) Where an acquirer, in compliance with the provisions of the Act has acquired requisite percentage of the voting shares of the target company after completing the process of public offer, shall be entitled to a proportionate representation on the board of directors or control of the company as prescribed under the Act.",
+            "(6) The target company shall comply with all the requirements of the Act, these regulations and the regulations of the securities exchange at all times."
+          ]
+        },
+        {
+          "no": "26",
+          "title": "General obligations of the manager to the offer",
+          "text": [
+            "(1) The manager to the offer shall deemed to be the agent of the acquirer.",
+            "(2) Before the public announcement of [public] offer is made, the manager to the offer shall-",
+            ">(a) ensure that the acquirer, its sponsors, promoters, substantial acquirer, its shareholders, directors and associates have no over dues or defaults, irrespective of the amount, appearing in the report obtained from the credit information bureau.",
+            ">(b) ensure that the acquirer or its directors, sponsors or substantial shareholders have not been holding the office of the directors, or have been sponsors or substantial shareholders in any company, (i) which had been declared defaulter by the securities exchange of futures exchange; or",
+            ">(ii) whose TRE certificate has been cancelled or forfeited by the securities exchange; or",
+            ">(iii) Which has been de-listed by the securities exchange due to non-",
+            "compliance of its regulations.",
+            "Provided that Commission may grant relaxation upon reasons to be recorded, and rectification of cause leading to such delisting (c) ensure that the acquirer is able to implement the public offer;",
+            ">(d) ensure that firm arrangements for funds and money have been made to fulfill the obligations under the public offer;",
+            ">(e) ensure that the public announcement is made in accordance with the Act and these regulations;",
+            "• (f) furnish to the Commission on format provided in Schedule XI a due diligence certificate which shall accompany a copy of the proposed offer letter;",
+            ">(g) ensure that the contents of the public announcement and [public] offer letter are true fair and adequate and based on reliable sources, quoting the source wherever necessary;",
+            "(3) The manager to the offer shall,-",
+            ">(a) on the day of the public announcement of [public] offer ensure that the proposed public announcement of [public] offer is filed with the Commission, target company and also sent to the securities exchange on which the voting shares of the target company are listed in accordance with the Act and these regulations;",
+            ">(b) upon fulfillment of the necessary obligations by the acquirer under the Act and these regulations, cause the release of the balance amount of the security to the acquirer; and",
+            ">(c) after ensuring compliance with the provisions of the Act and any other laws or rules and regulations as may be applicable, send a report to the Commission within twenty days from the date of closure of public offer"
+          ]
+        },
+        {
+          "no": "27",
+          "title": "Changes in the office of manager to the offer",
+          "text": [
+            "(1) Any change in the office of manager to the offer shall be immediately intimated to the Commission, the securities exchange and the target company.",
+            "(2) The manager to the offer shall be liable for any default/non-compliance for the relevant period of appointment."
+          ]
+        },
+        {
+          "no": "28",
+          "title": "Equality of treatment",
+          "text": [
+            "All shareholders of the target company are to be treated equally and all shareholders of the same class are to be treated similarly."
+          ]
+        },
+        {
+          "no": "29",
+          "title": "Oppression of minority",
+          "text": [
+            "Rights of control shall be exercised in good faith and the oppression of minority or non-controlling shareholders shall be unacceptable."
+          ]
+        },
+        {
+          "no": "30",
+          "title": "Repeal and Saving",
+          "text": [
+            "(1) These regulations shall repeal the Listed Companies (Substantial Acquisition of Voting Shares and Takeover.) Regulations, 2008.",
+            "(2) Save as otherwise specifically provided, nothing in these regulations shall affect or be deemed to affect anything done, action taken, investigation or proceedings commenced, order issued, appointment, document or agreement made, fee paid or accrued, resolution passed, direction given, proceedings taken or instrument executed or issued, under the repealed Listed Companies (Substantial Acquisition of Voting Shares and Takeover) Regulations, 2008 and any such thing, action, investigation, proceedings, order, appointment, document, agreement, fee, resolution, direction, proceedings or instrument shall if in force at the coming into force of these regulations and not inconsistent with any of the provisions of these regulations, continue to be in force, and have effect as if it were respectively done, taken, commenced, made, directed, passed, given, executed or issued under these regulations.",
+            "R2 52-20-02-2024"
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}
