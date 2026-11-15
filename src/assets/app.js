@@ -244,7 +244,20 @@
         });
       };
       var status = document.getElementById('toc-status');
-      filter.addEventListener('input', function () {
+      // Schedules, annexures and forms are shown only as links into the PDF; their words are fetched
+      // once (schedule-text/<id>.json) so the filter can count them too.
+      var sched = null, schedRows = null, schedLoading = false;
+      var loadSched = function () {
+        var layout = document.querySelector('.act-layout');
+        schedRows = document.querySelectorAll('[data-sched]');
+        if (sched || schedLoading || !layout || !schedRows.length) return;
+        schedLoading = true;
+        fetch(BASE + 'schedule-text/' + layout.dataset.act + '.json').then(function (r) { return r.ok ? r.json() : null; })
+          .then(function (j) { sched = j ? j.s.map(function (x) { return norm(x.x); }) : []; run(); })
+          .catch(function () { sched = []; });
+      };
+      filter.addEventListener('input', function () { loadSched(); run(); });
+      function run() {
         if (!tocItems) prepare();
         var q = norm(filter.value.trim());
         var total = 0, provisions = 0, shown = new Set();
@@ -260,12 +273,24 @@
           if (q && hit) { provisions++; total += n; }
         });
         document.querySelectorAll('.toc-list > li').forEach(function (part) { part.hidden = !shown.has(part); });
+        var schedHits = 0, schedTotal = 0;
+        if (schedRows) schedRows.forEach(function (li) {
+          var old = li.querySelector('.toc-hits'); if (old) old.remove();
+          var t = sched && sched[+li.getAttribute('data-sched')];
+          var n = 0;
+          if (q.length > 1 && t) for (var i = t.indexOf(q); i !== -1; i = t.indexOf(q, i + q.length)) n++;
+          if (n) {
+            var b = document.createElement('span'); b.className = 'toc-hits'; b.textContent = n; li.querySelector('a').appendChild(b);
+            schedHits++; schedTotal += n;
+          }
+        });
         if (status) {
-          status.textContent = !q ? '' : provisions
-            ? 'Found ' + total + ' time' + (total === 1 ? '' : 's') + ' in ' + provisions + ' ' + (provisions === 1 ? 'provision' : 'provisions') + ' (text on this page; schedules shown as PDF are not searched).'
-            : 'Not found in the text on this page.';
+          var parts = [];
+          if (provisions) parts.push(total + ' time' + (total === 1 ? '' : 's') + ' in ' + provisions + ' ' + (provisions === 1 ? 'provision' : 'provisions'));
+          if (schedHits) parts.push(schedTotal + ' time' + (schedTotal === 1 ? '' : 's') + ' in ' + schedHits + ' schedule' + (schedHits === 1 ? '' : 's') + ' or annexure' + (schedHits === 1 ? '' : 's') + ' (listed under \u201cSchedules and annexures\u201d, opening in the PDF)');
+          status.textContent = !q ? '' : parts.length ? 'Found ' + parts.join('; ') + '.' : 'Not found in the text of this instrument' + (schedRows && schedRows.length && !sched ? ' (still checking its schedules\u2026)' : '') + '.';
         }
-      });
+      }
     }
 
     // "Show amendment notes" opens every notes list on the page; the choice is remembered.
@@ -430,7 +455,9 @@
   }
 
   function resultHtml(r, terms, hl) {
-    var url = BASE + 'acts/' + r.a.id + '/index.html' + (r.p.anchor ? (hl ? '?hl=' + encodeURIComponent(hl) : '') + '#' + r.p.anchor : '');
+    var url = r.p.pdfPage
+      ? (/^https?:/.test(r.p.pdf) ? r.p.pdf : BASE + r.p.pdf) + '#page=' + r.p.pdfPage
+      : BASE + 'acts/' + r.a.id + '/index.html' + (r.p.anchor ? (hl ? '?hl=' + encodeURIComponent(hl) : '') + '#' + r.p.anchor : '');
     var heading = r.p.no ? r.a.unit + ' ' + r.p.no + (r.p.title ? ' — ' + r.p.title : '') : r.p.title;
     var badge = r.a.placeholder ? ' · <span class="badge bad">Placeholder</span>' : r.a.verified ? '' : ' · <span class="badge warn">Unverified</span>';
     return (
