@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-09",
+ "checkedAt": "2026-11-16",
  "results": [
   {
    "id": "income-tax-ordinance-2001",
@@ -407,6 +407,375 @@
    "title": "Securities Act, 2015",
    "edition": "2015-05-18",
    "editionLabel": "As enacted (Gazette, 18 May 2015)",
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "panel-provisional-managers-liquidators-regulations-2019",
+   "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "listed-companies-buy-back-regulations-2019",
+   "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "employees-contributory-funds-investment-regulations-2018",
+   "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "public-sector-companies-cg-rules-2013",
+   "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "foreign-companies-regulations-2018",
+   "title": "Foreign Companies Regulations, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "companies-independent-directors-regulations-2018",
+   "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "companies-easy-exit-regulations-2014",
+   "title": "Companies (Easy Exit) Regulations, 2014",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "companies-mediation-conciliation-regulations-2018",
+   "title": "Companies (Mediation and Conciliation) Regulations, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "corporate-rehabilitation-regulations-2019",
+   "title": "Corporate Rehabilitation Regulations, 2019",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "share-registrars-balloters-regulations-2017",
+   "title": "Share Registrars and Balloters Regulations, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "auditors-reporting-obligations-regulations-2018",
+   "title": "Auditors (Reporting Obligations) Regulations, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "listed-companies-takeovers-regulations-2017",
+   "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "sukuk-privately-placed-regulations-2017",
+   "title": "Sukuk (Privately Placed) Regulations, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "companies-deposit-rules-1987",
+   "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "companies-legal-adviser-rules-1975",
+   "title": "Companies (Appointment of Legal Adviser) Rules, 1975",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "companies-management-by-administrator-rules-1993",
+   "title": "Companies (Management by Administrator) Rules, 1993",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "opportunity-of-hearing-regulations-2016",
+   "title": "Opportunity of Hearing Regulations, 2016",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "voluntary-winding-up-obligations-regulations-2016",
+   "title": "Obligations under Voluntary Winding-up Regulations, 2016",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "convertible-debt-right-offer-regulations-2022",
+   "title": "Issuance of Convertible Debt Securities through Right Offer Regulations, 2022",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "reporting-disclosure-regulations-2015",
+   "title": "Reporting and Disclosure (of Shareholding by Directors, Executive Officers and Substantial Shareholders in Listed Companies) Regulations, 2015",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "insider-information-regulations-2016",
+   "title": "Access to Insider Information Regulations, 2016",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "private-placement-rules-2017",
+   "title": "Private Placement of Securities Rules, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "centralized-kyc-organization-rules-2017",
+   "title": "Centralized Know Your Customer (KYC) Organization Rules, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "customer-compensation-fund-rules-2017",
+   "title": "Customers Compensation Fund (Establishment and Operation) Rules, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "centralized-customer-protection-compensation-fund-regulations-2017",
+   "title": "Centralized Customer Protection Compensation Fund Regulations, Fund Regulations, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "cmc-regulations-2017",
+   "title": "Collateral Management Companies (Establishment & Operations) Regulations, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "llp-regulations-2018",
+   "title": "Limited Liability Partnership Regulations, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "credit-suretyship-rules-2018",
+   "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "oversight-regulations-accountants-2020",
+   "title": "Oversight Regulations for Self-Regulatory Bodies of Accountants, 2020",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "reinsurance-brokers-regulations-2021",
+   "title": "Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "secured-transactions-registry-regulations-2020",
+   "title": "Secured Transactions Registry Regulations, 2020",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "credit-rating-companies-regulations-2016",
+   "title": "Credit Rating Companies Regulations, 2016",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "securities-futures-advisers-regulations-2017",
+   "title": "Securities and Futures Advisers (licensing and Operations) Regulations, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "futures-exchanges-regulations-2017",
+   "title": "Futures Exchanges (Licensing & Operations) Regulations, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "bond-pricing-agency-rules-2017",
+   "title": "Bond Pricing Agency Rules, 2017",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "futures-brokers-regulations-2018",
+   "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "joint-inspection-regulations-2015",
+   "title": "Joint Inspection Regulations, 2015",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "securities-managers-regulations-2024",
+   "title": "Securities Managers (Licensing and Operations) Regulations, 2024",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "professional-clearing-members-regulations-2020",
+   "title": "Professional Clearing Members Regulations, 2020",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "research-analyst-regulations-2015",
+   "title": "Research Analyst Regulations, 2015",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "status": "manual",
+   "note": "No dated editions to compare: check the page by hand."
+  },
+  {
+   "id": "corporate-rehabilitation-act-2018",
+   "title": "Corporate Rehabilitation Act, 2018",
+   "edition": "2026-06-20",
+   "editionLabel": "20 June 2026",
    "page": "https://www.secp.gov.pk/laws/acts/",
    "status": "manual",
    "note": "No dated editions to compare: check the page by hand."
