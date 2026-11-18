@@ -429,6 +429,7 @@ def add_to_manifest(spec):
     e["source"] = {"name": f"Gazette of Pakistan, {spec.get('number', '')}".strip(", "), "url": spec.get("sourceUrl", "https://www.secp.gov.pk")}
     e["amendedUpTo"] = spec["amendedUpTo"]; e["amendedUpToLabel"] = spec["amendedUpToLabel"]
     if spec.get("caution"): e["caution"] = spec["caution"]
+    if spec.get("status"): e["status"] = spec["status"]
     e["watch"] = spec.get("watch", {"page": "https://www.secp.gov.pk/laws/regulations/", "manual": True})
     block = "\n".join("  " + ln for ln in json.dumps(e, indent=2, ensure_ascii=False).splitlines())
     mp.write_text(txt.rstrip()[:-1].rstrip() + ",\n" + block + "\n]\n")

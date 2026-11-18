@@ -278,5 +278,131 @@
   "how": "stray marker characters removed",
   "before": "б[:Л [Provided",
   "after": "[Provided"
+ },
+ {
+  "id": "foreign-companies-regulations-2018",
+  "no": "11",
+  "how": "re-read from the scan page",
+  "before": "loss or damagesuffered by",
+  "after": "loss or damage suffered by"
+ },
+ {
+  "id": "foreign-companies-regulations-2018",
+  "no": "11",
+  "how": "re-read from the scan page",
+  "before": "of ivhatever nature",
+  "after": "of whatever nature"
+ },
+ {
+  "id": "credit-rating-companies-regulations-2016",
+  "no": "13",
+  "how": "re-read from the scan page",
+  "before": "all suchinformationa5 deemednecessarybyit for",
+  "after": "all such information as deemed necessary by it for"
+ },
+ {
+  "id": "securities-futures-advisers-regulations-2017",
+  "no": "20",
+  "how": "re-read from the scan page",
+  "before": "assessment of its -aur astemnod ant iavegiment adrico and aseaement of its suitability",
+  "after": "assessment of its suitability"
+ },
+ {
+  "id": "futures-exchanges-regulations-2017",
+  "no": "11",
+  "how": "re-read from the scan page",
+  "before": "suitable for npointmentbythetotlres eitedtoaeapeeoneucallfo appointment by",
+  "after": "suitable for appointment by"
+ },
+ {
+  "id": "sukuk-privately-placed-regulations-2017",
+  "no": "2",
+  "how": "re-read from the scan page",
+  "before": "includes Ijarah, \"Susharacoh, Mtr foathn, Modar of th, Sal Rm alad onsy nolude larapt Musharakah, Musharakah, ",
+  "after": "includes Ijarah, Musharakah, Murabahah"
+ },
+ {
+  "id": "securities-managers-regulations-2024",
+  "no": "6",
+  "how": "re-read from the scan page",
+  "before": "Government agencies* and regulatorybodies including obtaining credit informationbureau(CIB) Reports",
+  "after": "Government agencies and regulatory bodies including obtaining credit information bureau (CIB) Reports"
+ },
+ {
+  "id": "bond-pricing-agency-rules-2017",
+  "no": "10",
+  "how": "re-read from the scan page",
+  "before": "contingency contingency arrangements",
+  "after": "contingency arrangements"
+ },
+ {
+  "id": "bond-pricing-agency-rules-2017",
+  "no": "10",
+  "how": "re-read from the scan page",
+  "before": "operations tor cai bai pict arin en antin eae aod i aeating, for each",
+  "after": "operations including audit trails of its bond pricing, due process and activity for each"
+ },
+ {
+  "id": "bond-pricing-agency-rules-2017",
+  "no": "10",
+  "how": "re-read from the scan page",
+  "before": "till the issuc is resolved",
+  "after": "till the issue is resolved"
+ },
+ {
+  "id": "securities-managers-regulations-2024",
+  "no": "15",
+  "how": "re-read from the scan page",
+  "before": "tis dlose aher onsin eratis by er, if ofy, reneiatd or receivable by toe in any other form whatsoever, if any,",
+  "after": ">(i) before recommending the services of any licenced persons to a customer, disclose any consideration by way"
+ },
+ {
+  "id": "corporate-rehabilitation-act-2018",
+  "no": "34",
+  "how": "re-read from the scan page",
+  "before": "voidable by the administrator under but does not include ar oaviş ation sibstitrted tor an existi propeation. ",
+  "after": "voidable by the administrator under law, including proceeds of such property, but does not include an obligati"
+ },
+ {
+  "id": "futures-brokers-regulations-2018",
+  "no": "18",
+  "how": "re-read from the scan page",
+  "before": "degree of anll, care ay ovid to a cuatmay foasoalbly be expected the de futer of skill, care and diligence",
+  "after": "degree of skill, care and diligence"
+ },
+ {
+  "id": "listed-companies-takeovers-regulations-2017",
+  "no": "13",
+  "how": "re-read from the scan page",
+  "before": "acquirer for acquiring the voting shares of the highest price paid by theooida orangiring eoteshopes target co",
+  "after": "acquirer for acquiring the voting shares of target company during"
+ },
+ {
+  "id": "listed-companies-takeovers-regulations-2017",
+  "no": "24",
+  "how": "re-read from the scan page",
+  "before": "the acquirer shal arra the dae rfiuiste f public an puncend uod tpubidc o tinr the acquirer shall arrange",
+  "after": "the acquirer shall arrange"
+ },
+ {
+  "id": "foreign-companies-regulations-2018",
+  "no": "11-12",
+  "how": "re-read from the scan page",
+  "before": "eservice (2x)",
+  "after": "e-service"
+ },
+ {
+  "id": "voluntary-winding-up-obligations-regulations-2016",
+  "no": "5",
+  "how": "re-read from the scan page",
+  "before": "it shall ralaing hoig the ks to o c cto immediately notify the same to the Commission. under clause (c) of sub",
+  "after": "(5) … immediately notify the same to the Commission. / (6) A securities exchange while issuing a clearance certificate …"
+ },
+ {
+  "id": "reinsurance-brokers-regulations-2021",
+  "no": "2",
+  "how": "re-read from the scan page",
+  "before": "\"Titer nnciorpi einsurande Bakier\" mead rehetreit or lice brad er being incorporated outside Pakistan and regi",
+  "after": "being incorporated outside Pakistan and registered or licensed or"
  }
 ]

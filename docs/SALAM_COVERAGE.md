@@ -11,8 +11,8 @@
 What is left:
 
 - not scanned yet (Volume II Part 2): 16
-- scanned, not yet converted: 12
-- scanned but blocked (pages missing from the scan, or needs converter work): 12
+- scanned but blocked (pages missing from the scan, or needs converter work): 13
+- scanned, not yet converted: 11
 - repealed, not yet added (to add marked repealed): 6
 
 Re-run `python3 tools/ocr/salam_coverage.py` to refresh these figures.
