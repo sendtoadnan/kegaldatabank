@@ -1,0 +1,104 @@
+{
+ "id": "public-offering-regulations-2017",
+ "date": "2026-11-19",
+ "applied": [
+  {
+   "no": "2",
+   "oldWords": 2211,
+   "newWords": 2673,
+   "similarity": 0.81,
+   "oldFootnotes": 47
+  },
+  {
+   "no": "3",
+   "oldWords": 2033,
+   "newWords": 3245,
+   "similarity": 0.5,
+   "oldFootnotes": 36
+  },
+  {
+   "no": "5",
+   "oldWords": 329,
+   "newWords": 303,
+   "similarity": 0.85,
+   "oldFootnotes": 2
+  },
+  {
+   "no": "6",
+   "oldWords": 427,
+   "newWords": 492,
+   "similarity": 0.48,
+   "oldFootnotes": 5
+  },
+  {
+   "no": "7",
+   "oldWords": 626,
+   "newWords": 842,
+   "similarity": 0.5,
+   "oldFootnotes": 10
+  },
+  {
+   "no": "11",
+   "oldWords": 370,
+   "newWords": 495,
+   "similarity": 0.81,
+   "oldFootnotes": 3
+  },
+  {
+   "no": "12",
+   "oldWords": 2061,
+   "newWords": 1904,
+   "similarity": 0.81,
+   "oldFootnotes": 3
+  },
+  {
+   "no": "15",
+   "oldWords": 1259,
+   "newWords": 1854,
+   "similarity": 0.64,
+   "oldFootnotes": 3
+  },
+  {
+   "no": "16",
+   "oldWords": 529,
+   "newWords": 600,
+   "similarity": 0.92,
+   "oldFootnotes": 6
+  },
+  {
+   "no": "17",
+   "oldWords": 570,
+   "newWords": 590,
+   "similarity": 0.96,
+   "oldFootnotes": 0
+  },
+  {
+   "no": "19",
+   "oldWords": 574,
+   "newWords": 623,
+   "similarity": 0.95,
+   "oldFootnotes": 1
+  },
+  {
+   "no": "21",
+   "oldWords": 144,
+   "newWords": 150,
+   "similarity": 0.9,
+   "oldFootnotes": 0
+  },
+  {
+   "no": "25",
+   "oldWords": 162,
+   "newWords": 194,
+   "similarity": 0.9,
+   "oldFootnotes": 0
+  }
+ ],
+ "held": [
+  "8",
+  "9",
+  "13",
+  "20"
+ ],
+ "note": "Applied by Claude on the user's instruction ('take your decision'); rule: apply where the book wording differs and is not more than 15% shorter than the old; held where the match was doubtful or the new text much shorter."
+}

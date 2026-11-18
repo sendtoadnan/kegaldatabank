@@ -1168,8 +1168,7 @@
    "amendedUpToLabel": "20 June 2026",
    "fileHint": "Part 2",
    "batch": 5,
-   "titleFromText": false,
-   "hold": "19 Nov 2026: converted cleanly (11 rules, S.R.O. 1306(I)/2019 of 1 Nov 2019, no leaks) but not published: task 31 records that you deferred the CRC Rules 2019. Say the word and it goes in (run `python3 tools/ocr/book_to_json.py` with BOOK_LINES set and remove this hold)."
+   "titleFromText": false
   }
  ]
 }
