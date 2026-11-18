@@ -5,11 +5,11 @@ The one list of everything to do for the Legal Databank. Claude reads it at the 
 - **Owner:** *You* (the user: browser downloads from SECP, decisions, merging on GitHub, checking text) or *Claude* (scripts, data, website, pull requests).
 - **Status:** *Pending* · *Waiting* (blocked on the other owner) · *Done* · *Deferred* (put off by the user).
 
-Last updated: 19 November 2026.
+Last updated: 20 November 2026.
 
 ## Progress benchmark: the book (S.A. Salam, to 20 June 2026) on the website
 
-Measured 19 Nov 2026 (after the Public Offering update and the CRC Rules) by `python3 tools/ocr/salam_coverage.py` (full figures in `docs/SALAM_COVERAGE.md`). **Refresh these numbers whenever instruments are added.**
+Re-measured 20 Nov 2026: **unchanged** (no instrument added since 19 Nov; the work since was quality, not coverage: 4 dropped items restored, 35 page-code fragments removed, 3 slips fixed, structure and missing-passage checks, check-page warnings, Securities Act 2015 made searchable by OCR). Last count 19 Nov 2026 (after the Public Offering update and the CRC Rules) by `python3 tools/ocr/salam_coverage.py` (full figures in `docs/SALAM_COVERAGE.md`). **Refresh these numbers whenever instruments are added.**
 
 | Measure | Now |
 |---|---|
