@@ -761,5 +761,54 @@
   "how": "merged paragraphs split; capital I of 'inclusion' lowered (user's instruction; check against scan)",
   "before": "(1) All listed companies shall maintain and regularly update",
   "after": "n, in a manner as provided at Annexure-I | (2) For the purpose of sub-regulation (1"
+ },
+ {
+  "id": "employees-contributory-funds-investment-regulations-2018",
+  "no": "2",
+  "how": "dropped or merged text restored from the independent reading (check against scan)",
+  "before": "case may be, either by the employees or the company or both;",
+  "after": ">(c) \"contribution\" means all the money contributed to fund or trust, as the case may be, either by the employ"
+ },
+ {
+  "id": "oversight-regulations-accountants-2020",
+  "no": "3",
+  "how": "dropped or merged text restored from the independent reading (check against scan)",
+  "before": "(a) … (c) base the frequency",
+  "after": "inserted (b) adopt a risk-based approach …"
+ },
+ {
+  "id": "llp-regulations-2018",
+  "no": "18",
+  "how": "merged sub-regulations split",
+  "before": "(1) An auditor or auditors of an LLP shall hold office in accordance with the terms ofhis or their appointment",
+  "after": "(1) … / (2) The remuneration …"
+ },
+ {
+  "id": "securities-exchange-rules-1971",
+  "no": "2",
+  "how": "merged items split",
+  "before": ">(c) \"form\" means a form set out in the First Schedule; [(d) \"net capital\" means excess of current assets over",
+  "after": "(c) … / [(d) …"
+ },
+ {
+  "id": "securities-futures-advisers-regulations-2017",
+  "no": "10",
+  "how": "OCR slip: closing bracket read as ')' (check against scan)",
+  "before": "[and/) or futures adviser",
+  "after": "[and/] or futures adviser"
+ },
+ {
+  "id": "securities-futures-advisers-regulations-2017",
+  "no": "21",
+  "how": "OCR slip: closing bracket read as ')' (check against scan)",
+  "before": "[and/) or futures adviser",
+  "after": "[and/] or futures adviser"
+ },
+ {
+  "id": "securities-futures-advisers-regulations-2017",
+  "no": "22",
+  "how": "OCR slip: closing bracket read as ')' (check against scan)",
+  "before": "[and/) or futures adviser",
+  "after": "[and/] or futures adviser"
  }
 ]

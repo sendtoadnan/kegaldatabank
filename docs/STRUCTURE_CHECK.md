@@ -2,7 +2,7 @@
 
 `python3 tools/ocr/structure_check.py`: places where the text's own structure suggests the OCR dropped a line (a gap in a list of labels, unbalanced brackets, a reference past the last provision). Leads to re-read against the scan, not proof of error.
 
-307 leads in 38 instruments.
+300 leads in 38 instruments.
 
 | Instrument | Provision | Lead | Text |
 |---|---|---|---|
@@ -12,7 +12,6 @@
 | listed-companies-buy-back-regulations-2019 | 6 | list jumps from (d) to (f): (e) may be missing | >(f) The shares purchased on daily basis shall be placed in the blocke |
 | listed-companies-buy-back-regulations-2019 | 10 | list jumps from (b) to (f): (c) may be missing | >(f) submit to the Commission and the securities exchange, the publish |
 | listed-companies-buy-back-regulations-2019 | 13 | unbalanced round brackets (3 open, 2 closed) | >(b) 2(Sell the treasury shares to its employees under section 83A of  |
-| employees-contributory-funds-investment-regulations-2018 | 2 | list jumps from (b) to (d): (c) may be missing | >(d) "Fund" means a provident fund or any other contributory retiremen |
 | employees-contributory-funds-investment-regulations-2018 | 3 | unbalanced round brackets (4 open, 3 closed) | (9) Total investment, at the time of making investment in any single e |
 | public-sector-companies-cg-rules-2013 | 2 | unbalanced round brackets (2 open, 1 closed) | managerial nature; [(f) "Act" means the Companies Act, 2017 (XIX of 20 |
 | public-sector-companies-cg-rules-2013 | 2 | list jumps from (e) to (g): (f) may be missing | >(g) "Public Sector Company" means a company, whether public or privat |
@@ -136,7 +135,6 @@
 | securities-futures-advisers-regulations-2017 | 4 | list jumps from (a) to (c): (b) may be missing | >(c) Such other company as may be notified by the Commission [; or] [( |
 | securities-futures-advisers-regulations-2017 | 4 | list jumps from (a) to (c): (b) may be missing | >(c) it, its sponsors, directors and senior management officers shall  |
 | securities-futures-advisers-regulations-2017 | 4 | list jumps from (c) to (f): (d) may be missing | >(f) it meets the financial resource requirements as specified in thes |
-| securities-futures-advisers-regulations-2017 | 10 | unbalanced round brackets (1 open, 2 closed) | (3) The Commission may cancel the licence granted to a securities advi |
 | securities-futures-advisers-regulations-2017 | 11 | unbalanced round brackets (0 open, 1 closed) | a) it does not'make unsubstantiated claims, in order to induce custome |
 | securities-futures-advisers-regulations-2017 | 11 | unbalanced round brackets (0 open, 1 closed) | b) it does not get involved in unfair competitive practices, nor shall |
 | securities-futures-advisers-regulations-2017 | 11 | unbalanced round brackets (0 open, 1 closed) | c) it does not publish, circulate or distribute any advertisement or a |
@@ -187,8 +185,6 @@
 | securities-futures-advisers-regulations-2017 | 20 | unbalanced round brackets (0 open, 1 closed) | d) Rationale for arriving at investment advice and assessment of its s |
 | securities-futures-advisers-regulations-2017 | 20 | unbalanced round brackets (0 open, 1 closed) | e) A register or record containing list of the customers, the date of  |
 | securities-futures-advisers-regulations-2017 | 20 | unbalanced round brackets (0 open, 1 closed) | f) Records of trading in securities and futures contracts by the secur |
-| securities-futures-advisers-regulations-2017 | 21 | unbalanced round brackets (1 open, 2 closed) | (1) In case of a company, a securities adviser [and/) or futures advis |
-| securities-futures-advisers-regulations-2017 | 22 | unbalanced round brackets (0 open, 1 closed) | In case of company, a securities adviser [and/] or futures adviser sha |
 | public-offering-regulated-securities-licensing-regulations-2017 | 2 | list jumps from (a) to (c): (b) may be missing | >(c) block the bid money and subscription money in the respective acco |
 | public-offering-regulated-securities-licensing-regulations-2017 | 2 | list jumps from (2) to (vi): (iii) may be missing | >(vi) "form" means a form annexed to these Regulations; |
 | public-offering-regulated-securities-licensing-regulations-2017 | 6 | list jumps from (d) to (f): (e) may be missing | >(f) |
@@ -240,7 +236,6 @@
 | llp-regulations-2018 | 14 | list jumps from (1) to (vi): (ii) may be missing | >(vi) Usual residential address (vii) Email address (viii) Date on whi |
 | llp-regulations-2018 | 14 | list jumps from (6) to (xi): (vii) may be missing | >(xi). Any other information incidental to or relevant to enable the L |
 | llp-regulations-2018 | 14 | list jumps from (3) to (5): (4) may be missing | (5) Every LLP required to maintain a register of ultimate beneficial o |
-| llp-regulations-2018 | 18 | list jumps from (1) to (3): (2) may be missing | (3) The partners of a limited liability partnership may remove an audi |
 | credit-suretyship-rules-2018 | 2 | list jumps from (d) to (f): (e) may be missing | >(f) "net exposure" under a guarantee means the guaranteed aggregate a |
 | credit-suretyship-rules-2018 | 2 | unbalanced round brackets (2 open, 1 closed) | >(h) "Ordinance" means the Insurance Ordinance, 2000 (Ordinance No. |
 | futures-brokers-regulations-2018 | 2 | list jumps from (d) to (f): (e) may be missing | >(f) "financail** instrument" shall have the same meaning as defined i |
@@ -269,7 +264,6 @@
 | oversight-regulations-accountants-2020 | 2 | unbalanced round brackets (5 open, 9 closed) | ii) Practicing as a "Management Consultant". 3) "Oversight Body" means |
 | oversight-regulations-accountants-2020 | 2 | unbalanced round brackets (1 open, 2 closed) | i) Institute of Chartered Accountants of Pakistan (ICAP) |
 | oversight-regulations-accountants-2020 | 2 | unbalanced round brackets (1 open, 2 closed) | ii) Institute of Cost and Management Accountants of Pakistan (ICMAP) |
-| oversight-regulations-accountants-2020 | 3 | list jumps from (a) to (c): (b) may be missing | >(c) base the frequency and intensity of its on-site, off-site supervi |
 | oversight-regulations-accountants-2020 | 3 | unbalanced round brackets (1 open, 2 closed) | its outreach activities on the risk profiles identified under clause ( |
 | oversight-regulations-accountants-2020 | 3 | unbalanced round brackets (0 open, 2 closed) | i) Risk assessment, mitigation and applications of a risk- based appro |
 | oversight-regulations-accountants-2020 | 3 | unbalanced round brackets (1 open, 8 closed) | a. Requirements to identify and verify customers, beneficial owners b. |
@@ -292,7 +286,6 @@
 | securities-managers-regulations-2024 | 16 | list jumps from (a) to (c): (b) may be missing | >(c) neither profit nor seek to profit from confidential information,  |
 | securities-managers-regulations-2024 | 19 | list jumps from (h) to (j): (i) may be missing | >(j) placing or executing any order to purchase or sell any security; |
 | securities-managers-regulations-2024 | 23 | list jumps from (2) to (4): (3) may be missing | (4) The compliance officer shall prepare monthly compliance reports wh |
-| securities-exchange-rules-1971 | 2 | list jumps from (c) to (e): (d) may be missing | >(e) "officer" in relation to an issuer includes managing agents, mana |
 | securities-exchange-rules-1971 | 3 | list jumps from (a) to (c): (b) may be missing | >(c) A member shall cease to be a member if, at any time, (i) he cease |
 | securities-exchange-rules-1971 | 3 | unbalanced round brackets (1 open, 0 closed) | Provided further that, in the case of firm, the amount of the net capi |
 | leveraged-markets-pledging-rules-2011 | 6 | list jumps from (a) to (c): (b) may be missing | >(c) the Commission determines that cancellation of registration will  |
