@@ -14,5 +14,6 @@ Pages that the scans of the user's binders lack, found 16 Nov 2026 while convert
 | Modaraba Regulations, 2021 | Volume I Part III | pages III-1102, III-1103 and III-1138 | regulations 7 to 9 and 22 |
 | Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012 | Volume II Part IV | page IV-148 | sections 6 and 7 |
 | Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012 | Volume II Part IV | pages IV-200 and IV-208 | text missing mid-regulation; pages at the end are out of order |
+| Non-Banking Finance Companies and Notified Entities Regulations, 2008 | Volume II Part VA | the page(s) between book pages VA-14 and VA-15 | regulations 3 to 9(1)(a) (text jumps from the end of regulation 2 to the middle of regulation 9) |
 
 Also: the Volume II NBFC Rules 2003 lack book pages V-17 to V-56 (task 67), and Volume II Part 2 (Modaraba, Competition, Credit Rating, Anti-Money Laundering) has not been scanned (task 61). The six NBFC pages V-343 to V-348 filed inside the Clearing House Regulations in Volume I belong in Volume II Part V (Miscellaneous Circulars).
