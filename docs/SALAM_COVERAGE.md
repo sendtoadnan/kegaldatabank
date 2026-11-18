@@ -2,8 +2,8 @@
 
 ## Progress benchmark (2026-11-19)
 
-- **Instruments in the book's contents that are now in the library: 68 of 114 = 60%** (all Unverified; the book is the source).
-- Of what has been scanned (98 instruments): 69%.
+- **Instruments in the book's contents that are now in the library: 69 of 114 = 61%** (all Unverified; the book is the source).
+- Of what has been scanned (98 instruments): 70%.
 - The book's notification index: 171 of 406 numbers appear in our data = 42%.
 - Pages read (OCR): 3,898 of the pages you scanned; Volume II Part 2 (Parts VI to IX) is not scanned, and about 85 pages inside scanned parts are missing (21 listed, plus most of the NBFC Rules 2003) from the binders (`docs/SCAN_GAPS.md`).
 - Verified against a scan by a person: 0 of the instruments taken from the book (task 64).
@@ -11,7 +11,7 @@
 What is left:
 
 - not scanned yet (Volume II Part 2): 16
-- scanned but blocked (pages missing from the scan, or needs converter work): 13
+- scanned but blocked (pages missing from the scan, or needs converter work): 12
 - scanned, not yet converted: 11
 - repealed, not yet added (to add marked repealed): 6
 
@@ -31,7 +31,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | I-1 | Futures Market Act, 2016 | futures-market-act-2016 | 2016-04-09 | 2024-06-05 |
 | V-11 | Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003 | nbfc-rules-2003 | 2023-09-14 | 2025-07-31 |
 
-## Not in library (46)
+## Not in library (45)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -54,7 +54,6 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-765 | Associations with Charitable and Not for Profit Objects Regulations, 2018 — *Repealed by S.R.O. 210(I)/2024* |  |  | 2024-02-12 |
 | III-889 | Shariah Governance Regulations, 2018 — *Repealed by S.R.O. 1314(I)/2023* |  |  |  |
 | III-985 | Collateral Management Companies Regulations, 2019 |  |  |  |
-| III-1011 | Corporate Restructuring Companies Rules, 2019 |  |  | 2024-02-20 |
 | III-1093 | Modaraba Regulations, 2021 |  |  | 2024-01-24 |
 | II-1 | SECP: Constitution |  |  |  |
 | II-5 | SECP: Regulations, Rules and Procedures |  |  |  |
@@ -82,7 +81,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | VII-132A | Competition Appellate Tribunal Rules, 2015 |  |  |  |
 | VII-139 | Competition Commission (Collection of Fees and Charges) Rules, 2009 |  |  |  |
 
-## No later change recorded (62)
+## No later change recorded (63)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -129,6 +128,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-919 | Companies (Further Issue of Shares) Regulations, 2020 | companies-further-issue-of-shares-regulations-2020 | 2026-01-13 | 2026-01-13 |
 | III-953 | Listed Companies (Buy-back of Shares) Regulations, 2019 | listed-companies-buy-back-regulations-2019 | 2026-06-20 | 2022-09-06 |
 | III-975 | Search and Seizure Rules, 2019 | secp-search-seizure-rules-2019 | 2019-07-01 |  |
+| III-1011 | Corporate Restructuring Companies Rules, 2019 | corporate-restructuring-companies-rules-2019 | 2026-06-20 | 2024-02-20 |
 | III-1025 | Panel of Provisional Managers and Official Liquidators Regulations, 2019 | panel-provisional-managers-liquidators-regulations-2019 | 2026-06-20 |  |
 | III-1033 | Corporate Rehabilitation Regulations, 2019 | corporate-rehabilitation-regulations-2019 | 2026-06-20 |  |
 | III-1043 | Secured Transactions Registry Regulations, 2020 | secured-transactions-registry-regulations-2020 | 2026-06-20 |  |

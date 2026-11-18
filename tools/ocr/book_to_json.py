@@ -290,6 +290,8 @@ def convert(spec):
         for ln in saved.read_text().splitlines():
             pg, x, t = ln.split("\t", 2); lines.append({"page": pg, "x": float(x), "text": t})
         lines = drop_footnotes(lines)      # re-apply, in case the filter improved since the lines were saved
+        if os.environ.get("BOOK_LINES_OUT"):   # the filtered lines, for tools/ocr/guided_rebuild.py
+            Path(os.environ["BOOK_LINES_OUT"], spec["id"] + ".filtered.lines.txt").write_text("\n".join(f'{l["page"]}\t{l["x"]:.3f}\t{l["text"]}' for l in lines))
     else:
         got = []
         with tempfile.TemporaryDirectory() as tmp:

@@ -404,5 +404,19 @@
   "how": "re-read from the scan page",
   "before": "\"Titer nnciorpi einsurande Bakier\" mead rehetreit or lice brad er being incorporated outside Pakistan and regi",
   "after": "being incorporated outside Pakistan and registered or licensed or"
+ },
+ {
+  "id": "corporate-restructuring-companies-rules-2019",
+  "no": "2",
+  "how": "look-alike letters",
+  "before": ">(a) \"Act\" means the Corporate Restructuring Companies Act, 2016 (XXXII of 2016); [(аa) \"B",
+  "after": ">(a) \"Act\" means the Corporate Restructuring Companies Act, 2016 (XXXII of 2016); [(aa) \"B"
+ },
+ {
+  "id": "corporate-restructuring-companies-rules-2019",
+  "no": "9",
+  "how": "obvious slip: both OCR readings give 'allocatior'; the next line of the rule spells it 'allocation'. Check against the scan.",
+  "before": "allocatior",
+  "after": "allocation"
  }
 ]
