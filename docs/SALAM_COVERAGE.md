@@ -1,5 +1,22 @@
 # S.A. Salam coverage check
 
+## Progress benchmark (2026-11-19)
+
+- **Instruments in the book's contents that are now in the library: 68 of 114 = 60%** (all Unverified; the book is the source).
+- Of what has been scanned (98 instruments): 69%.
+- The book's notification index: 171 of 406 numbers appear in our data = 42%.
+- Pages read (OCR): 3,898 of the pages you scanned; Volume II Part 2 (Parts VI to IX) is not scanned, and about 85 pages inside scanned parts are missing (21 listed, plus most of the NBFC Rules 2003) from the binders (`docs/SCAN_GAPS.md`).
+- Verified against a scan by a person: 0 of the instruments taken from the book (task 64).
+
+What is left:
+
+- not scanned yet (Volume II Part 2): 16
+- scanned, not yet converted: 12
+- scanned but blocked (pages missing from the scan, or needs converter work): 12
+- repealed, not yet added (to add marked repealed): 6
+
+Re-run `python3 tools/ocr/salam_coverage.py` to refresh these figures.
+
 Made by `python3 tools/ocr/salam_coverage.py` from the book's contents and update history (`data/salam/`).
 The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the book's update notes record an amendment, new S.R.O. or circular on that instrument's pages after our edition date: check each before re-converting.
 
@@ -14,7 +31,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | I-1 | Futures Market Act, 2016 | futures-market-act-2016 | 2016-04-09 | 2024-06-05 |
 | V-11 | Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003 | nbfc-rules-2003 | 2023-09-14 | 2025-07-31 |
 
-## Not in library (55)
+## Not in library (46)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -24,17 +41,12 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-21 | SECP (Appellate Bench Procedure) Rules, 2003 |  |  |  |
 | III-49 | Voluntary Pension System Rules, 2005 |  |  | 2024-02-22 |
 | III-85 | Group Companies Registration Regulations, 2008 — *Repealed by S.R.O. 210(I)/2024* |  |  | 2024-02-12 |
-| III-213 | Reporting and Disclosure Regulations, 2015 |  |  |  |
 | III-223 | Private Funds Regulations, 2015 |  |  |  |
 | III-249 | Central Depository Regulations, 2016 |  |  | 2023-08-10 |
-| III-279 | Insider Information Regulations, 2016 |  |  |  |
 | III-281 | Securities Brokers (Licensing and Operations) Regulations, 2016 |  |  | 2024-04-08 |
 | III-341 | Clearing House (Licensing and Operations) Regulations, 2016 |  |  | 2023-08-10 |
 | III-359 | Securities Exchanges (Licensing and Operations) Regulations, 2016 |  |  | 2023-08-10 |
 | III-373 | Structuring of Debt Securities Regulations, 2020 |  |  |  |
-| III-407 | Public Offering (Regulated Securities Licensing) Regulations, 2017 |  |  | 2025-08-06 |
-| III-443 | Centralized KYC Organization Rules, 2017 |  |  |  |
-| III-459 | CMC (Establishment and Operation) Regulations, 2017 |  |  |  |
 | III-489 | Companies (Incorporation) Regulations, 2017 — *Repealed by S.R.O. 210(I)/2024* |  |  | 2024-02-12 |
 | III-511 | Intermediaries (Registration) Regulations, 2017 — *Repealed by S.R.O. 210(I)/2024* |  |  |  |
 | III-611 | Shariah Advisors Regulations, 2017 — *Repealed by S.R.O. 1314(I)/2023* |  |  |  |
@@ -44,13 +56,9 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-985 | Collateral Management Companies Regulations, 2019 |  |  |  |
 | III-1011 | Corporate Restructuring Companies Rules, 2019 |  |  | 2024-02-20 |
 | III-1093 | Modaraba Regulations, 2021 |  |  | 2024-01-24 |
-| I-29 | Securities and Exchange Rules, 1971 |  |  |  |
-| I-83 | Securities (Leveraged Markets and Pledging) Rules, 2011 |  |  |  |
 | II-1 | SECP: Constitution |  |  |  |
 | II-5 | SECP: Regulations, Rules and Procedures |  |  |  |
 | III-39 | Corporate Social Responsibility Voluntary Guidelines, 2013 |  |  |  |
-| III-69 | Issue of Commercial Papers Regulations, 2013 |  |  |  |
-| IV-27 | Central Depository Companies (Establishment and Regulation) Rules, 1996 |  |  |  |
 | IV-141 | Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012 |  |  |  |
 | IV-161 | Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012 |  |  |  |
 | IX-67 | Anti-Money Laundering (Amendment) Act, 2015 |  |  |  |
@@ -74,7 +82,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | VII-132A | Competition Appellate Tribunal Rules, 2015 |  |  |  |
 | VII-139 | Competition Commission (Collection of Fees and Charges) Rules, 2009 |  |  |  |
 
-## No later change recorded (53)
+## No later change recorded (62)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -88,14 +96,19 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-157 | Companies (Investment in Associated Companies or Associated Undertakings) Regulations, 2017 | companies-investment-associated-regulations-2017 | 2017-12-06 |  |
 | III-177 | Research Analyst Regulations, 2015 | research-analyst-regulations-2015 | 2026-06-20 | 2026-01-02 |
 | III-183 | Joint Inspection Regulations, 2015 | joint-inspection-regulations-2015 | 2026-06-20 |  |
+| III-213 | Reporting and Disclosure Regulations, 2015 | reporting-disclosure-regulations-2015 | 2026-06-20 |  |
 | III-269 | Opportunity of Hearing Regulations, 2016 | opportunity-of-hearing-regulations-2016 | 2026-06-20 |  |
 | III-273 | Obligations under Voluntary Winding-up Regulations, 2016 | voluntary-winding-up-obligations-regulations-2016 | 2026-06-20 |  |
+| III-279 | Insider Information Regulations, 2016 | insider-information-regulations-2016 | 2026-06-20 |  |
 | III-309 | Credit Rating Companies Regulations, 2016 | credit-rating-companies-regulations-2016 | 2026-06-20 | 2023-12-22 |
 | III-383 | Share Registrars and Balloters Regulations, 2017 | share-registrars-balloters-regulations-2017 | 2026-06-20 |  |
 | III-393 | Securities and Futures Advisers (Licensing and Operations) Regulations, 2017 | securities-futures-advisers-regulations-2017 | 2026-06-20 | 2023-06-15 |
+| III-407 | Public Offering (Regulated Securities Licensing) Regulations, 2017 | public-offering-regulated-securities-licensing-regulations-2017 | 2026-06-20 | 2025-08-06 |
 | III-439 | Private Placement of Securities Rules, 2017 | private-placement-rules-2017 | 2026-06-20 |  |
+| III-443 | Centralized KYC Organization Rules, 2017 | centralized-kyc-organization-rules-2017 | 2026-06-20 |  |
 | III-451 | Customer Compensation Fund (Establishment and Operation) Rules, 2017 | customer-compensation-fund-rules-2017 | 2026-06-20 |  |
 | III-455 | Centralized Customer Protection Compensation Fund Regulations, 2017 | centralized-customer-protection-compensation-fund-regulations-2017 | 2026-06-20 |  |
+| III-459 | CMC (Establishment and Operation) Regulations, 2017 | cmc-regulations-2017 | 2026-06-20 |  |
 | III-473 | Futures Exchanges (Licensing and Operations) Regulations, 2017 | futures-exchanges-regulations-2017 | 2026-06-20 | 2023-11-17 |
 | III-529 | Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017 | listed-companies-takeovers-regulations-2017 | 2026-06-20 | 2024-01-24 |
 | III-561 | Unclaimed Shares and Other Instruments and Undistributed Assets Regulations, 2017 | unclaimed-shares-regulations-2017 | 2017-10-06 |  |
@@ -125,9 +138,13 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-1071 | Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021 | reinsurance-brokers-regulations-2021 | 2026-06-20 |  |
 | III-1143 | Issuance of Convertible Debt Securities through Right Offer Regulations, 2022 | convertible-debt-right-offer-regulations-2022 | 2026-06-20 | 2022-09-21 |
 | III-1189 | Securities Managers (Licensing and Operations) Regulations, 2024 | securities-managers-regulations-2024 | 2026-06-20 | 2024-11-06 |
+| I-29 | Securities and Exchange Rules, 1971 | securities-exchange-rules-1971 | 2026-06-20 |  |
 | I-49 | Securities and Exchange Commission of Pakistan Act, 1997 | secp-act-1997 | 2016-12-31 |  |
+| I-83 | Securities (Leveraged Markets and Pledging) Rules, 2011 | leveraged-markets-pledging-rules-2011 | 2026-06-20 |  |
 | I-111 | Securities Act, 2015 | securities-act-2015 | 2015-05-18 |  |
 | I-241 | Corporate Rehabilitation Act, 2018 | corporate-rehabilitation-act-2018 | 2026-06-20 |  |
+| III-69 | Issue of Commercial Papers Regulations, 2013 | commercial-papers-regulations-2013 | 2026-06-20 |  |
 | IV-1 | Central Depositories Act, 1997 | central-depositories-act-1997 | 1997-06-10 |  |
+| IV-27 | Central Depository Companies (Establishment and Regulation) Rules, 1996 | cdc-establishment-regulation-rules-1996 | 2026-06-20 |  |
 | IX-1 | Anti-Money Laundering Act, 2010 | aml-act-2010 | 2020-09-30 |  |
 | VI-1 | Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980 | modaraba-ordinance-1980 | 2012-12-31 |  |

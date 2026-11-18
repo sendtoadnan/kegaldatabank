@@ -33,6 +33,14 @@ def change_date(c):
     ds = [SRO_DATE[x] for x in c.get("sros", []) if x in SRO_DATE]
     return max(ds) if ds else c["date"]
 
+# which book contents page each converted (or held) instrument stands for
+CONV = json.load(open(R / "data/salam/conversions.json"))["instruments"]
+FORCED = {}
+for cv in CONV:
+    page = cv.get("contentsPage") or (f"III-{cv['from']}" if cv.get("part") == "III" else None)
+    if page: FORCED[page] = cv
+LIBIDS = {l["id"] for l in lib}
+
 rows, lines = [], []
 for v in ("vol1", "vol2"):
     contents = json.load(open(R / f"data/salam/{v}-contents.json"))
@@ -42,7 +50,8 @@ for v in ("vol1", "vol2"):
     for k, it in enumerate(items):
         lo = pkey(it["page"]); hi = pkey(items[k + 1]["page"]) if k + 1 < len(items) and items[k + 1]["part"] == it["part"] else (lo[0], 10**6, 0)
         changes = [(u["date"], u["update"], c) for u in updates for c in u["items"] if pkey(c["page"]) and lo <= pkey(c["page"]) < hi]
-        l = match(it["title"])
+        fc = FORCED.get(it["page"])
+        l = next((x for x in lib if x["id"] == fc["id"]), None) if fc and fc["id"] in LIBIDS else match(it["title"])
         changes = [(change_date({"sros": c[2].get("sros", []), "date": c[0]}), c[1], c[2]) for c in changes]
         last = max((c[0] for c in changes), default=None)
         ours = l.get("amendedUpTo") if l else None
@@ -54,6 +63,33 @@ for v in ("vol1", "vol2"):
                      "changes": [{"date": d, "update": u, **c} for d, u, c in sorted(changes, key=lambda z: z[0] or "", reverse=True)], "verdict": verdict})
 json.dump(rows, open(R / "data/salam/coverage.json", "w"), indent=1)
 
+def kind(r):
+    fc = FORCED.get(r["page"])
+    if r["status"] and "epeal" in r["status"]: return "repealed, not yet added (to add marked repealed)"
+    if fc and fc.get("hold"): return "scanned but blocked (pages missing from the scan, or needs converter work)"
+    if re.match(r"(VI|VII|VIII|IX)-", r["page"]): return "not scanned yet (Volume II Part 2)"
+    return "scanned, not yet converted"
+tot = len(rows); done = sum(1 for r in rows if r["library"])
+rest = {}
+for r in rows:
+    if not r["library"]: rest.setdefault(kind(r), []).append(r["title"])
+scannable = tot - len(rest.get("not scanned yet (Volume II Part 2)", []))
+notes = {}
+for f in ("vol1-notifications", "vol2-notifications"):
+    for e in json.load(open(R / f"data/salam/{f}.json"))["entries"]: notes[e["sro"]] = 1
+import glob
+blob = re.sub(r"\s", "", open(R / "data/related/companies-act-2017.json").read() + open(R / "sources/manifest.json").read() + "".join(open(x).read() for x in glob.glob(str(R / "data/acts/*.json"))))
+nhave = sum(1 for k in notes if re.search(rf"(?<!\d){k.split('(')[0]}\(I\)[/-]{k.split('/')[1]}", blob))
+import datetime
+progress = ["## Progress benchmark (" + str(datetime.date.today()) + ")", "",
+  f"- **Instruments in the book's contents that are now in the library: {done} of {tot} = {100*done/tot:.0f}%** (all Unverified; the book is the source).",
+  f"- Of what has been scanned ({scannable} instruments): {100*done/scannable:.0f}%.",
+  f"- The book's notification index: {nhave} of {len(notes)} numbers appear in our data = {100*nhave/len(notes):.0f}%.",
+  f"- Pages read (OCR): 3,898 of the pages you scanned; Volume II Part 2 (Parts VI to IX) is not scanned, and about 85 pages inside scanned parts are missing (21 listed, plus most of the NBFC Rules 2003) from the binders (`docs/SCAN_GAPS.md`).",
+  "- Verified against a scan by a person: 0 of the instruments taken from the book (task 64).", "", "What is left:", ""]
+for k, v in sorted(rest.items(), key=lambda kv: -len(kv[1])): progress.append(f"- {k}: {len(v)}")
+progress += ["", "Re-run `python3 tools/ocr/salam_coverage.py` to refresh these figures.", ""]
+print("\n".join(progress))
 out = ["# S.A. Salam coverage check", "",
        "Made by `python3 tools/ocr/salam_coverage.py` from the book's contents and update history (`data/salam/`).",
        "The book is a trusted source (CLAUDE.md, 12 Nov 2026). \"Later changes\" means the book's update notes record an amendment, new S.R.O. or circular on that instrument's pages after our edition date: check each before re-converting.", ""]
@@ -64,6 +100,6 @@ for verdict in ("book has later changes", "not in library", "no later change rec
         t = r["title"] + (f" — *{r['status']}*" if r["status"] else "")
         out.append(f"| {r['page']} | {t} | {r['library'] or ''} | {r['ourEdition'] or ''} | {r['lastChangeInBook'] or ''} |")
     out.append("")
-(R / "docs/SALAM_COVERAGE.md").write_text("\n".join(out))
+(R / "docs/SALAM_COVERAGE.md").write_text("\n".join(out[:2] + progress + out[2:]))
 from collections import Counter
 print(Counter(r["verdict"] for r in rows))

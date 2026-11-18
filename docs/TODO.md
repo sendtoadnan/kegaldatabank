@@ -5,7 +5,22 @@ The one list of everything to do for the Legal Databank. Claude reads it at the 
 - **Owner:** *You* (the user: browser downloads from SECP, decisions, merging on GitHub, checking text) or *Claude* (scripts, data, website, pull requests).
 - **Status:** *Pending* · *Waiting* (blocked on the other owner) · *Done* · *Deferred* (put off by the user).
 
-Last updated: 16 November 2026.
+Last updated: 19 November 2026.
+
+## Progress benchmark: the book (S.A. Salam, to 20 June 2026) on the website
+
+Measured 19 Nov 2026 by `python3 tools/ocr/salam_coverage.py` (full figures in `docs/SALAM_COVERAGE.md`). **Refresh these numbers whenever instruments are added.**
+
+| Measure | Now |
+|---|---|
+| Instruments in the book's contents that are on the site | **68 of 114 = 60%** |
+| Same, counting only what has been scanned (98 instruments) | **69%** |
+| The book's notification (S.R.O.) index present in our data | **171 of 406 = 42%** |
+| Instruments taken from the book checked against a scan by a person (Verified) | **0 of 46** (task 64; every one is marked Unverified) |
+| Left: not scanned yet (Volume II Part 2) | 16 instruments (task 61) |
+| Left: scanned, blocked by missing pages or needing converter work | 12 (tasks 67, 68) |
+| Left: scanned, not yet converted | 12 (can be done now) |
+| Left: repealed instruments, not yet added as "repealed" | 6 |
 
 ## Open
 
