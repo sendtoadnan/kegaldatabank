@@ -420,7 +420,8 @@
           "no": "19",
           "title": "Execution of customer orders",
           "text": [
-            "(1) A futures broker shall not deal in futures contracts on account of a customer without prior instructions of such customer. 1(2) A futures broker shall not execute discretionary trades on behalf of customers in any manner.",
+            "(1) A futures broker shall not deal in futures contracts on account of a customer without prior instructions of such customer.",
+            "(2) A futures broker shall not execute discretionary trades on behalf of customers in any manner.",
             "(3) A futures broker or any of its employee shall not take or use the password on behalf of its customers.",
             "(4) A futures broker shall take reasonable measures to execute the orders placed by the customers on the most advantageous terms as expeditiously as practical in the prevailing market conditions.",
             "(5) A futures broker shall always give priority to outstanding customer orders.",

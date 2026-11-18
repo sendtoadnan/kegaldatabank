@@ -232,6 +232,7 @@ def strip_markers(t):
     t = re.sub(r"(?<!dated)(?<!\bon)(?<!from)(?<!till)(?<!\bto)(?<!before)(?<!after)(?<!\bby)\s(?:[EB]2\s*)?\d{1,2}-\d{1,2}-\d{2,4}(?=\s|$)", "", t)
     # a footnote that landed on a body line: "… 25-04-2024 1Clauses (e) to (g) inserted by SRO 742(I)/2023 dated June 15, 2023."
     t = re.sub(r"\s*(?:\d{2}-\d{2}-\d{4}\s*)?\d{1,2}[A-Z][A-Za-z0-9()&,.\- ]{0,60}?\b(?:inserted|substituted|deleted|omitted|added)\s+by\s+S\.?\s?R\.?\s?O\.?\s*[\dIl()/\[\] ]+(?:dated\s+[A-Za-z]+\.?\s+\d{1,2},?\s*\d{4})?\.?", " ", t)
+    t = re.sub(r"(?:\b[A-Z][A-Z0-9.]{0,2}\s*[.:]?\s*)?(?<![\w-])[0-9SOBZ]{2,3}[-.]\s?(?:0[1-9]|[12]\d|3[01])[-.](?:0[1-9]|1[0-2])[-.](?:\d{4}|\d{2})(?![\w-])", " ", t)   # margin page code: update number + date, any OCR form of its "E2" prefix
     t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*[-.]\s*\d{1,2}\s*[-.](?!\s*\d)", " ", t)
     t = re.sub(r"\s*\b[EB]2\s*\d{1,3}\s*[-.]\s*\d{1,2}\s*[-.]\s*\d{1,2}(?:[\s\-.:]*\d{1,4}(?::\d)?)?\b", " ", t)
     t = re.sub(r"(?<![\w(])[0-9¹²³*°•']{1,2}\s?(?=\[)", "", t)       # note number before an amendment bracket
