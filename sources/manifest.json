@@ -2949,5 +2949,31 @@
       "page": "https://www.secp.gov.pk/laws/regulations/",
       "manual": true
     }
+  },
+  {
+    "id": "securities-exchange-rules-1971",
+    "title": "Securities and Exchange Rules, 1971",
+    "number": "S.R.O. 92(I)/71",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SE Rules 1971"
+    ],
+    "enacted": "1971-03-19",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 92(I)/71",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made by the Securities and Exchange Commission of Pakistan under section 33 of the Securities and Exchange Ordinance, 1969; confirm whether it is still in force. Rules 12 to 15 were omitted by S.R.O. 1234(I)/1985 of 12 December 1985. The schedules and forms are not reproduced here.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
   }
 ]

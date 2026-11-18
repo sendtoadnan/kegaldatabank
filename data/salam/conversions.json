@@ -946,7 +946,10 @@
    "scanTo": 113,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026: rules 12 and 13 not recognised by the converter (heading style) and the S.R.O. number read from the recital (261(I)/1970) is doubtful; no pages missing, so this one needs converter work, not a rescan."
+   "number": "S.R.O. 92(I)/71",
+   "enacted": "1971-03-19",
+   "allowJump": true,
+   "caution": "Made by the Securities and Exchange Commission of Pakistan under section 33 of the Securities and Exchange Ordinance, 1969; confirm whether it is still in force. Rules 12 to 15 were omitted by S.R.O. 1234(I)/1985 of 12 December 1985. The schedules and forms are not reproduced here."
   },
   {
    "id": "leveraged-markets-pledging-rules-2011",

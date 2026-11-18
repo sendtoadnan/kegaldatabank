@@ -1,0 +1,199 @@
+{
+  "id": "securities-exchange-rules-1971",
+  "title": "Securities and Exchange Rules, 1971",
+  "number": "S.R.O. 92(I)/71",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "SE Rules 1971"
+  ],
+  "enacted": "1971-03-19",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "caution": "Made by the Securities and Exchange Commission of Pakistan under section 33 of the Securities and Exchange Ordinance, 1969; confirm whether it is still in force. Rules 12 to 15 were omitted by S.R.O. 1234(I)/1985 of 12 December 1985. The schedules and forms are not reproduced here.",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 92(I)/71",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "SRO 92(I)/71.- In exercise of the powers conferred by section 33 of the Securities and Exchange Ordinance, 1969 (XVII of 1969), read with the Ministry of Finance Notification No. S.R.O. 261(I)/70, dated the 26th October, 1970, the Securities and Exchange [Commission] of Pakistan is pleased to make the following rules, namely:-",
+  "parts": [
+    {
+      "heading": "Rules",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and commencement",
+          "text": [
+            "(1) These rules may be called the Securities and Exchange Rules, 1971.",
+            "(2) They shall come into force at once."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "In these rules, unless the context otherwise requires,- [(a)* \"Commission\" means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);]",
+            ">(b) \"Chartered Accountant\" means a person who is a chartered accountant within the meaning of the Chartered Accountants Ordinance, 1961 (X of 1961);",
+            ">(c) \"form\" means a form set out in the First Schedule; [(d) \"net capital\" means excess of current assets over current liabilities determined in accordance with the Third Schedule to • these rules;]",
+            ">(e) \"officer\" in relation to an issuer includes managing agents, manager, secretary or accountant of the issuer and any other person who by virtue of his office may be in possession of any material information with regard to the affairs of the issuer;",
+            ">(f) \"Ordinance\" means the Securities and Exchange Ordinance, 1969 (XVII of 1969);",
+            ">(g) \"section\" means section of the Ordinance."
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Qualifications for stock exchange membership, etc",
+          "text": [
+            "'The qualifications for membership of, and admission into, a stock exchange shall be as follows:-]",
+            ">(a) No person shall be eligible to be a member of a stock exchange if-",
+            ">(i) he is less than twenty-one years of age;",
+            ">(ii) he is not a citizen of Pakistan;",
+            ">(iii) he is a lunatic or a person of unsound mind;",
+            ">(iv) he has been convicted of an offence involving fraud or",
+            "breach of trust;",
+            ">(v) he has been adjudicated as insolvent or has suspended payment or has compounded with his creditors;",
+            ">(vi) he has not had experience in the business of securities for a period of not less than two years:",
+            "Provided that the regulations of a stock exchange may authorise the governing body thereof to waive compliance with the foregoing condition relating to experience in the business of securities if such person is, in respect of means, integrity and",
+            "background, considered by the governing body to be otherwise qualified for membership; [(b) A member shall, at all times, maintain a net capital balance of an amount which is,-",
+            ">(i) in the case of a stock exchange which in the previous calendar year had on the cash counter a turnover of securities exceeding fifteen billion, Rs. 2.5 million;",
+            ">(ii) in the case of a stock exchange which in the previous calendar year had on the cash counter a turnover of securities exceeding 7.5 billion rupees but not exceeding fifteen billion, Rs. 1.5 million; and -",
+            ">(iii) in the case of a stock exchange which in the previous calendar year had on the casiı counter a turnover of securities not exceeding 7.5 billion, Rs. 0.75 million;",
+            "Provided that a member who is also the member of any Provided that a member who is also the member of any other stock exchange shall maintain a net capital balance upto aggregate net capital balance requirement of all such exchanges put together:",
+            "Provided further that, in the case of partnership firm, the amount of the net capital balance to be maintained shall be the amount obtained by multiplying the net capital balance required for each member of such exchange or exchanges, as the case may be, by the number of such partners of the firm as are members of the stock exchange;]",
+            ">(c) A member shall cease to be a member if, at any time, (i) he ceases to be a citizen of Pakistan;",
+            "Provided that, in the case of a stock exchange functioning immediately before the commencement of these rules, the membership of a member thereof who is not a citizen of Pakistan shall become suspended on such commencement and shall remain so suspended until he becomes a citizen of Pakistan; or",
+            ">(ii) he is declared a lunatic or a person of unsound mind; or",
+            ">(iii) he is convicted of an offence involving fraud or breach of trust; or",
+            ">(iv) he has been adjudicated as insolvent or has suspended payment or has compounded with his creditors;",
+            ">(d) The membership of a member or members who are partners in a firm and who are in active business shall become suspended as Provided that a member who is also the member of any other stock exchange shall maintain a net capital balance of not less than [two hundred fifty thousand] rupees:",
+            "Provided further that, in the case of firm, the amount of the net capital balance to be maintained shall be the amount obtained by multiplying 2(seventy five thousand] rupees or [two hundred fifty thousand] rupees as the case may be, by a number of such partners of the firm as are members of the stock exchange.\"",
+            "soon as the net capital balance falls short of the amount specified in clause (b) and shall remain so suspended until the net capital balance is increased so as not to fall short of the amount;",
+            ">(e) Every member shall report to the stock exchange weekly that he or the firm of which he is a partner had, at all times during the week to which the report relates, a net capital balance of an amount not less than that specified in clause (b) and shall forthwith inform the stock exchange if, at any time, such balance falls short of that amount."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Manner of transaction of member's business",
+          "text": [
+            "(1) All orders to buy or sell securities which a member may receive shall be entered, in the chronological order, in a register to be maintained by him in a form which shows the name and address of the person who placed the order, the name and number of the securities to be bought or sold, the nature of the transaction and the limitation, if any, as to the price of the securities or the period for which the order is to be valid.",
+            "(2) (a) A member who has an \"at best\" order from a customer to buy a security shall not, while such order remains unexecuted, buy the same security on the stock exchange for his own account or for the account of the firm of which he is a partner or for the account of any of the partners therein or for any account in which he, such firm or partner, directly or indirectly, has an interest.",
+            ">(b) A member who has an \"at best\" order from a customer to sell a security shall not, while such order remains unexecuted, sell the same security on the stock exchange for his own account or for the account of the firm of which he is a partner or for the account of any of the partners therein or for any account in which he, such firm or partner, directly or indirectly, has an interest.",
+            ">(c) A member who has a limit order from a customer to buy a security shall not while such order remains unexecuted, buy the same security at or below the limit price on the stock exchange for his own account or for the account of the firm of which he is a partner or for the account of any of the partners therein or for any account in which he, such firm or partner, directly or",
+            "indirectly, has an interest.",
+            ">(d) A member who has a limit order from a customer to sell a security shall not, while such order remains unexecuted, sell the same security at or above the limit price on the stock exchange for his own account or for the account of the firm of which he is a partner or for the account of any of the partners therein or for any account in which he, such firm or partner, directly or",
+            "indirectly, has an interest.",
+            "(3) A member who has an order to buy or to sell a security shall not fill such order by selling or buying for his own account or for the account of the firm of which he is a partner or for the account of any of the partners therein or for any account in which he, such firm or partner, directly or indirectly, has an interest, except when-",
+            ">(a) the order is limit order; or",
+            ">(b) (i) he sells the security at a price not exceeding the price at which the transaction immediately preceding the receipt of the order by him actually took place; or",
+            ">(ii) he buys the security at a price which is not less than the price at which the transaction immediately preceding the receipt of the order by him actually took place.",
+            "(4) A member executing an order of a customer shall, within twenty four hours of the execution of the order, transmit to the customer a confirmation which shall include the following information, namely:-",
+            ">(a) date on which the order is executed;",
+            ">(b) name and number of the securities;",
+            ">(c) nature of transaction (spot, ready or forward and also whether bought or sold);",
+            ">(d) price;",
+            ">(e) commission, if the member is acting as a broker;",
+            ">(f) whether the order is executed for the member's own account or",
+            "from the market."
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Maintenance of accounts and audit",
+          "text": [
+            "Every member shall prepare once every year a balance sheet and a statement of income and prepare once every year a balance sheet and a statement of income and expenditure.",
+            "(2) A member shall have his accounts audited by an auditor who is a chartered accountant to be appointed by the [Commission] whenever such audit is required by the [Commission] in the public interest.",
+            "(3) The auditor shall furnish his report to the [Commission] within such time as the [Commission] may specify."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Form of application for registration",
+          "text": [
+            "An applicction for the registration of a stock exchange under section 5 shall be made to the [Commission] in Form I."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Maintenance of books of account and other documents by the stock exchanges",
+          "text": [
+            "(1) Every stock exchange shall prepare and maintain, as required by sub-section (1) of section 6, such books of account and other documents as will accurately disclose a true and fair picture of the state of affairs of the exchange at any point of time.",
+            "(2) The books of account and other documents referred to in sub-rule (1) shall include:",
+            ">(a) journals (or other comparable record), cash book and any other records of original entry, forming the basis of entries into any ledger;",
+            ">(b) ledgers (or other comparable record) reflecting asset, liability, reserve, capital, income and expense accounts;",
+            ">(c) ledgers (or other comparable record) showing the position in respect of each member as on the settlement day of the securities which the member had bought or sold since the last preceding settlement day and which had been transferred through a Clearing House maintained by the stock exchange;",
+            ">(d) daily record of quotations and transactions on the stock quotations exchange showing the time at which each transaction took place;",
+            ">(e) record of transactions with banks;",
+            ">(f) record of security deposits;",
+            ">(g) register of members;",
+            ">(h) register of authorised clerks; and",
+            ">(i) minute books of the meetings of-",
+            ">(i) members;",
+            ">(ii) governing body;",
+            ">(iii) any committee of the general body of members or of the governing body.",
+            "(3) The books of accounts and documents referred to in sub-rule (1) shall be preserved for a period of not less than five years."
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Maintenance of books of account, etc. by members",
+          "text": [
+            "Every member shall prepare and maintain, as required by sub-section (1) of section 6, the following books of account and other documents in a manner that will disclose a true, accurate and up-to-date position of his business, namely:- IITEV (a)* journal (or other comparable record), cash book and any other books of original entry, forming the basis of entries into any sclt sot nuit ledger, the books of original entry being such as contain a daily ed3 sbarrecord of all orders for purchase or sale of securities, all purchases and sales of securities, all receipts and deliveries of JISIEG securities and all other debite and credits:",
+            ">(b) ledgers (or other comparable records) reflecting asset, liability, Iru0o reserve, capital, ineome and expense accounts; i0 est (c) ledgers (or other comparable records) reflecting securities in transfer, securities borrowed and securities loaned and",
+            "securities bought or sold, of which the delivery is delayed; Securities and Exchange Rules, 1971 R. 11A (d) record of all balance of all ledger accounts in the form of trial balances to be prepared at least once at the end of the six months of every year of account;",
+            ">(e) record of transactions with the banks;",
+            ">(f) contract books showing details of all contracts entered into by a member with other members of the exchange or counterfoils or",
+            "duplicates of memos of confirmation issued to such other members;",
+            ">(g) duplicates or counterfoils of memos of confirmation issued to customers.",
+            "(2) The books of accounts and other documents referred to in subrule (1) shall be preserved for a period of not less than five years."
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Submission of periodical returns by stock exchange",
+          "text": [
+            "The periodical return relating to the affairs of a stock exchange, as required by sub-section (2) of section 6, shall be submitted to the [Commission] monthly in Form II within fifteen days of the close of the month to which it relates."
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Submission of annual report by stock exchange",
+          "text": [
+            "The exchange.- annual report relating to the affairs of a stock exchange, as required by sub-section (2) of section 6, shall be submitted to the [Commission] not less than fourteen days before the meeting of the shareholders of the stock exchange before which it is to be laid.",
+            "(2) Every such report shall be accompanied by a copy of the balance sheet and profit and loss account of such year audited by an auditor who is a chartered accountant."
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Listing of security on stock exchange, etc",
+          "text": [
+            "An application under sub-section (1) of section 9 for listing of a security on a stock exchange shall be made in Form III.]"
+          ]
+        },
+        {
+          "no": "11A",
+          "title": "Limitation for petitions to Federal Government under section 9",
+          "text": [
+            "A petition to the Federal Government under sub-section (3) or sub-section (6) of section 9 shall be made within thirty days of the stock exchange refusing to list or, as the case may be, delist the security.]"
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Mode of filing or submission of returns, etc",
+          "text": [
+            "Any person required by the Ordinance or any ofthese rules to furnish any document, statement, return or report to the [Conumission] shall furnish it, either in person or through an agent, to the [Commission] at its headquarters at Islamabad or send it to the [Commission] by registered post."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}

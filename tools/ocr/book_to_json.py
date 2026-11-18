@@ -188,8 +188,9 @@ def clean_page(rows, short_names):
         keep.append(r)
     return [r for r in keep if not r.get("foot")]
 
-FN = re.compile(r"^\W{0,2}\d{1,2}\s?(Repealed|Substituted|Inserted|Omitted|Deleted|Added|Words?\b|Sub-|Clause|Proviso|Para|Item|S\.\s?No|Sr\.|Earlier|Regulations?\b|Rules?\b|Explanation|Figures?\b|Comma|Full stop|Renumbered|Amended|The (word|words|figure|figures|comma)|For the|Re-?numbered|Heading|Schedule|Annexure|Form)")
-FN2 = re.compile(r"^\W{0,2}(?:\d{1,2}\s?|[il|](?=[A-Z]))[A-Z][\w.()&,'\" -]{0,70}?\b(deleted|substituted|inserted|omitted|added|amended|renumbered|repealed)\b", re.I)
+FN = re.compile(r"^\W{0,2}(?:\d{1,2}|['`’‘]|[Il|](?=[A-Z]))\s?(Repealed|Substituted|Inserted|Omitted|Deleted|Added|Words?\b|Sub-|Clause|Proviso|Para|Item|S\.\s?No|Sr\.|Earlier|Regulations?\b|Rules?\b|Explanation|Figures?\b|Comma|Full stop|Renumbered|Amended|The (word|words|figure|figures|comma)|For the|Re-?numbered|Heading|Schedule|Annexure|Form)")
+FN2 = re.compile(r"^\W{0,2}(?:\d{1,2}\s?|['`’‘]\s?|[il|](?=[A-Z]))[A-Z][\w.()&,'\" -]{0,70}?\b(deleted|substituted|inserted|omitted|added|amended|renumbered|repealed)\b", re.I)
+FN3 = re.compile(r"^\W{0,3}(?:Repealed|Substituted|Inserted|Omitted|Deleted|Added|Renumbered)\s+(?:for|by|vide|the)\b")   # a footnote whose marker was read as punctuation
 QUOTE_START = re.compile(r"read as\s*(follows|under)|read as\s*$|^follows\s*:", re.I)
 QUOTE_END = re.compile(r"[\"”'’]\s*[.;:,]?\s*$")
 
@@ -207,7 +208,7 @@ def drop_footnotes(lines):
         t = l["text"]
         if mode == "body" and re.search(r"Before (substitution|omission|deletion|amendment).{0,60}read as", t, re.I):
             mode = "quote"; DROPPED.append(("Q+", l)); continue
-        if mode == "body" and (FN.match(t) or FN2.match(t) or re.match(r"^\W{0,3}[A-Z][\w.()&,' -]{0,50}?\b(substituted|inserted|omitted|deleted|added)\s+(by|vide)\s+S\.?\s?R\.?\s?O", t)):
+        if mode == "body" and (FN.match(t) or FN2.match(t) or FN3.match(t) or re.match(r"^\W{0,3}[A-Z][\w.()&,' -]{0,50}?\b(substituted|inserted|omitted|deleted|added)\s+(by|vide)\s+S\.?\s?R\.?\s?O", t)):
             mode = "fn"
         if mode == "fn" and QUOTE_START.search(t):
             mode = "quote"
@@ -288,6 +289,7 @@ def convert(spec):
         lines = []
         for ln in saved.read_text().splitlines():
             pg, x, t = ln.split("\t", 2); lines.append({"page": pg, "x": float(x), "text": t})
+        lines = drop_footnotes(lines)      # re-apply, in case the filter improved since the lines were saved
     else:
         got = []
         with tempfile.TemporaryDirectory() as tmp:
@@ -363,14 +365,15 @@ def convert(spec):
         m = PROV.match(t)
         if not m:
             m2 = PROV2.match(t)
-            if m2 and len(m2.group(2).split()) <= 14 and not re.match(r"(Where|If|In case|Subject to|Notwithstanding|Provided|Any person who|No person shall)\b", m2.group(2)) and (sec is not None and _expected(sec["no"], m2.group(1)) or sec is None and m2.group(1) == "1"): m = m2
+            jump_ok = bool(spec.get("allowJump")) and sec is not None and int(re.match(r"\d+", m2.group(1)).group()) > int(re.match(r"\d+", sec["no"]).group()) if m2 else False
+            if m2 and len(m2.group(2).split()) <= 14 and not re.match(r"(Where|If|In case|Subject to|Notwithstanding|Provided|Any person who|No person shall)\b", m2.group(2)) and (sec is not None and (_expected(sec["no"], m2.group(1)) or jump_ok) or sec is None and m2.group(1) == "1"): m = m2
         if not m and sec is not None and spec.get("untitledProvisions"):
             m3 = re.match(r"^[\"“\[]?(\d{1,3}[A-Z]?)[.,]\s+()([A-Z].{40,})$", t)
             if m3 and _expected(sec["no"], m3.group(1)): m = m3
         no = m.group(1) if m else None
         if m and sec is not None and not _next(sec["no"], no) and len(no) >= 2 and no[1:].isdigit() and _next(sec["no"], no[1:]):
             no = no[1:]                      # a note marker glued to the number: "17. Requirements" is 7
-        if m and (sec is None and int(re.match(r"\d+", no).group()) <= 3 or sec and _next(sec["no"], no)):
+        if m and (sec is None and int(re.match(r"\d+", no).group()) <= 3 or sec and (_next(sec["no"], no) or (spec.get("allowJump") and int(re.match(r"\d+", no).group()) > int(re.match(r"\d+", sec["no"]).group())))):
             if cur is None: cur = {"heading": spec.get("unit", "Regulation") + "s", "sections": []}; parts.append(cur)
             sec = {"no": no, "title": m.group(2).strip(), "text": [m.group(3).strip()] if m.group(3).strip() else [], "bookPage": p["page"]}
             cur["sections"].append(sec); skipping = False; continue
