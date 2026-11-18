@@ -22,16 +22,6 @@
    {
     "date": "2026-06-20",
     "update": 65,
-    "page": "AI-162(110)",
-    "kind": "reproduced",
-    "sros": [
-     "875(I)/2026"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2026-06-20",
-    "update": 65,
     "page": "AI-162(111)",
     "kind": "reproduced",
     "sros": [],
@@ -40,22 +30,12 @@
     ]
    },
    {
-    "date": "2026-06-20",
+    "date": "2026-05-13",
     "update": 65,
-    "page": "AI-405",
-    "kind": "changed",
-    "sros": [
-     "500(I)/2023"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2026-04-10",
-    "update": 64,
-    "page": "AI-66(9)",
+    "page": "AI-162(110)",
     "kind": "reproduced",
     "sros": [
-     "328(I)/2026"
+     "875(I)/2026"
     ],
     "circulars": []
    },
@@ -68,6 +48,16 @@
     "circulars": [
      "6 of 2026"
     ]
+   },
+   {
+    "date": "2026-02-19",
+    "update": 64,
+    "page": "AI-66(9)",
+    "kind": "reproduced",
+    "sros": [
+     "328(I)/2026"
+    ],
+    "circulars": []
    },
    {
     "date": "2026-01-10",
@@ -105,22 +95,22 @@
     "page": "AI-162(109)",
     "kind": "reproduced",
     "sros": [
-     "2444(I)/2025"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2026-01-10",
-    "update": 63,
-    "page": "AI-162(109)",
-    "kind": "reproduced",
-    "sros": [
      "25(I)/2025"
     ],
     "circulars": []
    },
    {
-    "date": "2026-01-10",
+    "date": "2025-12-12",
+    "update": 63,
+    "page": "AI-162(109)",
+    "kind": "reproduced",
+    "sros": [
+     "2444(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-11-10",
     "update": 63,
     "page": "AI-405",
     "kind": "amended",
@@ -141,18 +131,6 @@
     "circulars": [
      "15 of 2024",
      "16 of 2025"
-    ]
-   },
-   {
-    "date": "2025-09-15",
-    "update": 61,
-    "page": "AI-162(102)",
-    "kind": "reproduced",
-    "sros": [
-     "1336(I)/2025"
-    ],
-    "circulars": [
-     "3 of 2025"
     ]
    },
    {
@@ -186,6 +164,18 @@
     ]
    },
    {
+    "date": "2025-07-23",
+    "update": 61,
+    "page": "AI-162(102)",
+    "kind": "reproduced",
+    "sros": [
+     "1336(I)/2025"
+    ],
+    "circulars": [
+     "3 of 2025"
+    ]
+   },
+   {
     "date": "2025-06-14",
     "update": 60,
     "page": "AI-162(101)",
@@ -196,7 +186,7 @@
     ]
    },
    {
-    "date": "2025-06-14",
+    "date": "2025-05-09",
     "update": 60,
     "page": "AI-414(1)",
     "kind": "amended",
@@ -214,27 +204,7 @@
     "circulars": []
    },
    {
-    "date": "2025-04-10",
-    "update": 59,
-    "page": "AI-66(8)",
-    "kind": "reproduced",
-    "sros": [
-     "246(I)/2025"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2025-04-10",
-    "update": 59,
-    "page": "AI-162(101)",
-    "kind": "reproduced",
-    "sros": [
-     "451(I)/2025"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2025-04-10",
+    "date": "2025-03-17",
     "update": 59,
     "page": "AI-162(101)",
     "kind": "reproduced",
@@ -244,17 +214,27 @@
     "circulars": []
    },
    {
-    "date": "2025-01-10",
-    "update": 58,
-    "page": "AI-162(94)",
+    "date": "2025-03-13",
+    "update": 59,
+    "page": "AI-162(101)",
     "kind": "reproduced",
     "sros": [
-     "1784(I)/2024"
+     "451(I)/2025"
     ],
     "circulars": []
    },
    {
-    "date": "2025-01-10",
+    "date": "2025-02-27",
+    "update": 59,
+    "page": "AI-66(8)",
+    "kind": "reproduced",
+    "sros": [
+     "246(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-11-08",
     "update": 58,
     "page": "AI-405",
     "kind": "amended",
@@ -297,7 +277,17 @@
     ]
    },
    {
-    "date": "2024-11-05",
+    "date": "2024-11-04",
+    "update": 58,
+    "page": "AI-162(94)",
+    "kind": "reproduced",
+    "sros": [
+     "1784(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-09-25",
     "update": 57,
     "page": "AI-388",
     "kind": "amended",
@@ -326,7 +316,7 @@
     "circulars": []
    },
    {
-    "date": "2024-07-15",
+    "date": "2024-06-25",
     "update": 55,
     "page": "AI-162(87)",
     "kind": "amended",
@@ -416,16 +406,6 @@
    {
     "date": "2024-04-25",
     "update": 53,
-    "page": "AI-44(29)",
-    "kind": "reproduced",
-    "sros": [
-     "464(I)/2024"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2024-04-25",
-    "update": 53,
     "page": "AI-162(83)",
     "kind": "reproduced",
     "sros": [],
@@ -448,16 +428,6 @@
     "update": 53,
     "page": "AI-162(84)",
     "kind": "reproduced",
-    "sros": [
-     "506(I)/2024"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2024-04-25",
-    "update": 53,
-    "page": "AI-162(84)",
-    "kind": "reproduced",
     "sros": [],
     "circulars": [
      "10 of 2024"
@@ -474,6 +444,26 @@
     ]
    },
    {
+    "date": "2024-03-29",
+    "update": 53,
+    "page": "AI-162(84)",
+    "kind": "reproduced",
+    "sros": [
+     "506(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-03-15",
+    "update": 53,
+    "page": "AI-44(29)",
+    "kind": "reproduced",
+    "sros": [
+     "464(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
     "date": "2024-02-20",
     "update": 52,
     "page": "AI-162(81)",
@@ -486,32 +476,12 @@
    {
     "date": "2024-02-20",
     "update": 52,
-    "page": "AI-162(81)",
-    "kind": "reproduced",
-    "sros": [
-     "69(I)/2024"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2024-02-20",
-    "update": 52,
     "page": "AI-162(82)",
     "kind": "reproduced",
     "sros": [],
     "circulars": [
      "4 of 2024"
     ]
-   },
-   {
-    "date": "2024-02-20",
-    "update": 52,
-    "page": "AI-162(82)",
-    "kind": "reproduced",
-    "sros": [
-     "240(I)/2024"
-    ],
-    "circulars": []
    },
    {
     "date": "2024-02-20",
@@ -534,12 +504,32 @@
     ]
    },
    {
-    "date": "2024-02-20",
+    "date": "2024-02-16",
+    "update": 52,
+    "page": "AI-162(82)",
+    "kind": "reproduced",
+    "sros": [
+     "240(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-16",
     "update": 52,
     "page": "AI-368",
     "kind": "amended",
     "sros": [
      "239(I)/2024"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2024-02-01",
+    "update": 52,
+    "page": "AI-162(81)",
+    "kind": "reproduced",
+    "sros": [
+     "69(I)/2024"
     ],
     "circulars": []
    },
@@ -562,17 +552,17 @@
     ]
    },
    {
-    "date": "2023-12-10",
+    "date": "2023-11-21",
     "update": 50,
-    "page": "AI-66(7)",
+    "page": "AI-162(79)",
     "kind": "reproduced",
     "sros": [
-     "1331(I)/2023"
+     "1715(I)/2023"
     ],
     "circulars": []
    },
    {
-    "date": "2023-12-10",
+    "date": "2023-11-14",
     "update": 50,
     "page": "AI-66(8)",
     "kind": "reproduced",
@@ -582,12 +572,12 @@
     "circulars": []
    },
    {
-    "date": "2023-12-10",
+    "date": "2023-09-18",
     "update": 50,
-    "page": "AI-162(79)",
+    "page": "AI-66(7)",
     "kind": "reproduced",
     "sros": [
-     "1715(I)/2023"
+     "1331(I)/2023"
     ],
     "circulars": []
    },
@@ -617,33 +607,23 @@
     "update": 46,
     "page": "AI-162(77)",
     "kind": "reproduced",
-    "sros": [
-     "389(I)/2023"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2023-05-10",
-    "update": 46,
-    "page": "AI-162(77)",
-    "kind": "reproduced",
     "sros": [],
     "circulars": [
      "4 of 2023"
     ]
    },
    {
-    "date": "2023-05-10",
-    "update": 46,
-    "page": "AI-323",
-    "kind": "amended",
+    "date": "2023-04-20",
+    "update": 65,
+    "page": "AI-405",
+    "kind": "changed",
     "sros": [
-     "378(I)/2023"
+     "500(I)/2023"
     ],
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-04-20",
     "update": 46,
     "page": "AI-405",
     "kind": "amended",
@@ -653,12 +633,22 @@
     "circulars": []
    },
    {
-    "date": "2023-02-28",
-    "update": 45,
-    "page": "AI-162(71)",
+    "date": "2023-03-21",
+    "update": 46,
+    "page": "AI-323",
+    "kind": "amended",
+    "sros": [
+     "378(I)/2023"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2023-03-17",
+    "update": 46,
+    "page": "AI-162(77)",
     "kind": "reproduced",
     "sros": [
-     "1827(I)/2022"
+     "389(I)/2023"
     ],
     "circulars": []
    },
@@ -671,7 +661,7 @@
     "circulars": []
    },
    {
-    "date": "2023-02-28",
+    "date": "2023-01-20",
     "update": 45,
     "page": "AI-162(76)",
     "kind": "changed",
@@ -709,7 +699,7 @@
     ]
    },
    {
-    "date": "2023-01-20",
+    "date": "2022-12-22",
     "update": 44,
     "page": "AI-413",
     "kind": "amended",
@@ -740,7 +730,17 @@
     ]
    },
    {
-    "date": "2022-08-31",
+    "date": "2022-09-29",
+    "update": 45,
+    "page": "AI-162(71)",
+    "kind": "reproduced",
+    "sros": [
+     "1827(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-08-02",
     "update": 40,
     "page": "AI-412",
     "kind": "amended",
@@ -750,7 +750,7 @@
     "circulars": []
    },
    {
-    "date": "2022-07-15",
+    "date": "2022-07-04",
     "update": 39,
     "page": "AI-407",
     "kind": "amended",
@@ -780,7 +780,7 @@
     "circulars": []
    },
    {
-    "date": "2024-02-20",
+    "date": "2024-02-12",
     "update": 52,
     "page": "II-1",
     "kind": "amended",
@@ -790,7 +790,7 @@
     "circulars": []
    },
    {
-    "date": "2023-07-10",
+    "date": "2023-05-22",
     "update": 47,
     "page": "II-18(2)",
     "kind": "amended",
@@ -800,7 +800,7 @@
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-05-03",
     "update": 46,
     "page": "II-24",
     "kind": "amended",
@@ -819,10 +819,10 @@
   "status": null,
   "library": "companies-regulations-2024",
   "ourEdition": "2025-07-25",
-  "lastChangeInBook": "2025-09-15",
+  "lastChangeInBook": "2025-07-25",
   "changes": [
    {
-    "date": "2025-09-15",
+    "date": "2025-07-25",
     "update": 61,
     "page": "II-56",
     "kind": "amended",
@@ -832,17 +832,7 @@
     "circulars": []
    },
    {
-    "date": "2025-09-15",
-    "update": 61,
-    "page": "II-135",
-    "kind": "amended",
-    "sros": [
-     "1350(I)/2025"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2025-09-15",
+    "date": "2025-07-25",
     "update": 61,
     "page": "II-137",
     "kind": "amended",
@@ -852,7 +842,17 @@
     "circulars": []
    },
    {
-    "date": "2025-09-15",
+    "date": "2025-07-22",
+    "update": 61,
+    "page": "II-135",
+    "kind": "amended",
+    "sros": [
+     "1350(I)/2025"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2025-07-04",
     "update": 61,
     "page": "II-241",
     "kind": "amended",
@@ -862,7 +862,7 @@
     "circulars": []
    },
    {
-    "date": "2025-04-10",
+    "date": "2025-04-11",
     "update": 59,
     "page": "II-41",
     "kind": "amended",
@@ -875,7 +875,7 @@
     "circulars": []
    },
    {
-    "date": "2024-09-10",
+    "date": "2024-08-06",
     "update": 56,
     "page": "II-69",
     "kind": "amended",
@@ -885,7 +885,7 @@
     "circulars": []
    },
    {
-    "date": "2024-07-15",
+    "date": "2024-02-12",
     "update": 55,
     "page": "II-41",
     "kind": "amended",
@@ -895,7 +895,7 @@
     "circulars": []
    },
    {
-    "date": "2024-02-20",
+    "date": "2024-02-12",
     "update": 52,
     "page": "II-41",
     "kind": "reproduced",
@@ -905,40 +905,40 @@
     "circulars": []
    }
   ],
-  "verdict": "book has later changes"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-1",
   "title": "Companies (Appointment of Legal Adviser) Rules, 1975",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-legal-adviser-rules-1975",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-5",
   "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-deposit-rules-1987",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-13",
   "title": "Companies (Management by Administrator) Rules, 1993",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-management-by-administrator-rules-1993",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -980,10 +980,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2024-04-25",
+  "lastChangeInBook": "2024-02-22",
   "changes": [
    {
-    "date": "2024-04-25",
+    "date": "2024-02-22",
     "update": 53,
     "page": "III-49",
     "kind": "amended",
@@ -1002,10 +1002,10 @@
   "status": "Repealed by S.R.O. 210(I)/2024",
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2024-02-20",
+  "lastChangeInBook": "2024-02-12",
   "changes": [
    {
-    "date": "2024-02-20",
+    "date": "2024-02-12",
     "update": 52,
     "page": "III-85",
     "kind": "repealed",
@@ -1022,33 +1022,33 @@
   "page": "III-117",
   "title": "Public Sector Companies (Corporate Governance) Rules, 2013",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "public-sector-companies-cg-rules-2013",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-139",
   "title": "Companies (Easy Exit) Regulations, 2014",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-easy-exit-regulations-2014",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-147",
   "title": "Sukuk (Privately Placed) Regulations, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "sukuk-privately-placed-regulations-2017",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1066,12 +1066,12 @@
   "page": "III-177",
   "title": "Research Analyst Regulations, 2015",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2026-01-10",
+  "library": "research-analyst-regulations-2015",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2026-01-02",
   "changes": [
    {
-    "date": "2026-01-10",
+    "date": "2026-01-02",
     "update": 63,
     "page": "III-177",
     "kind": "amended",
@@ -1081,18 +1081,18 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-183",
   "title": "Joint Inspection Regulations, 2015",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "joint-inspection-regulations-2015",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1123,10 +1123,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2023-08-20",
+  "lastChangeInBook": "2023-08-10",
   "changes": [
    {
-    "date": "2023-08-20",
+    "date": "2023-08-10",
     "update": 48,
     "page": "III-257",
     "kind": "amended",
@@ -1136,7 +1136,7 @@
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-03-29",
     "update": 46,
     "page": "III-265",
     "kind": "amended",
@@ -1146,7 +1146,7 @@
     "circulars": []
    },
    {
-    "date": "2022-07-15",
+    "date": "2022-06-23",
     "update": 39,
     "page": "III-265",
     "kind": "amended",
@@ -1163,22 +1163,22 @@
   "page": "III-269",
   "title": "Opportunity of Hearing Regulations, 2016",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "opportunity-of-hearing-regulations-2016",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-273",
   "title": "Obligations under Voluntary Winding-up Regulations, 2016",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "voluntary-winding-up-obligations-regulations-2016",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1198,10 +1198,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2024-04-25",
+  "lastChangeInBook": "2024-04-08",
   "changes": [
    {
-    "date": "2024-04-25",
+    "date": "2024-04-08",
     "update": 53,
     "page": "III-286(1)",
     "kind": "amended",
@@ -1211,7 +1211,7 @@
     "circulars": []
    },
    {
-    "date": "2024-02-20",
+    "date": "2024-02-14",
     "update": 52,
     "page": "III-286",
     "kind": "amended",
@@ -1221,7 +1221,7 @@
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-03-29",
     "update": 46,
     "page": "III-286(1)",
     "kind": "amended",
@@ -1231,7 +1231,7 @@
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-03-14",
     "update": 46,
     "page": "III-290(6)",
     "kind": "amended",
@@ -1241,7 +1241,7 @@
     "circulars": []
    },
    {
-    "date": "2022-11-10",
+    "date": "2022-10-14",
     "update": 43,
     "page": "III-285",
     "kind": "changed",
@@ -1251,7 +1251,7 @@
     "circulars": []
    },
    {
-    "date": "2022-11-10",
+    "date": "2022-10-10",
     "update": 43,
     "page": "III-308(30)",
     "kind": "amended",
@@ -1261,7 +1261,7 @@
     "circulars": []
    },
    {
-    "date": "2022-07-15",
+    "date": "2022-06-15",
     "update": 39,
     "page": "III-286",
     "kind": "amended",
@@ -1271,7 +1271,7 @@
     "circulars": []
    },
    {
-    "date": "2022-04-20",
+    "date": "2022-02-23",
     "update": 37,
     "page": "III-286",
     "kind": "amended",
@@ -1288,12 +1288,12 @@
   "page": "III-309",
   "title": "Credit Rating Companies Regulations, 2016",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2024-04-25",
+  "library": "credit-rating-companies-regulations-2016",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2023-12-22",
   "changes": [
    {
-    "date": "2024-04-25",
+    "date": "2023-12-22",
     "update": 53,
     "page": "III-335",
     "kind": "reproduced",
@@ -1304,7 +1304,7 @@
     "circulars": []
    },
    {
-    "date": "2022-10-15",
+    "date": "2022-09-19",
     "update": 42,
     "page": "III-311",
     "kind": "changed",
@@ -1314,7 +1314,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1323,10 +1323,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2023-08-20",
+  "lastChangeInBook": "2023-08-10",
   "changes": [
    {
-    "date": "2023-08-20",
+    "date": "2023-08-10",
     "update": 48,
     "page": "III-347",
     "kind": "amended",
@@ -1336,7 +1336,7 @@
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-03-29",
     "update": 46,
     "page": "III-355",
     "kind": "amended",
@@ -1346,7 +1346,7 @@
     "circulars": []
    },
    {
-    "date": "2022-07-15",
+    "date": "2022-06-23",
     "update": 39,
     "page": "III-356",
     "kind": "amended",
@@ -1365,10 +1365,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2023-08-20",
+  "lastChangeInBook": "2023-08-10",
   "changes": [
    {
-    "date": "2023-08-20",
+    "date": "2023-08-10",
     "update": 48,
     "page": "III-364",
     "kind": "amended",
@@ -1378,7 +1378,7 @@
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-03-29",
     "update": 46,
     "page": "III-371",
     "kind": "amended",
@@ -1388,7 +1388,7 @@
     "circulars": []
    },
    {
-    "date": "2022-07-15",
+    "date": "2022-06-23",
     "update": 39,
     "page": "III-372",
     "kind": "amended",
@@ -1417,23 +1417,23 @@
   "page": "III-383",
   "title": "Share Registrars and Balloters Regulations, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "share-registrars-balloters-regulations-2017",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-393",
   "title": "Securities and Futures Advisers (Licensing and Operations) Regulations, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2024-04-25",
+  "library": "securities-futures-advisers-regulations-2017",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2023-06-15",
   "changes": [
    {
-    "date": "2024-04-25",
+    "date": "2023-06-15",
     "update": 53,
     "page": "III-393",
     "kind": "amended",
@@ -1443,7 +1443,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1452,10 +1452,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2025-09-15",
+  "lastChangeInBook": "2025-08-06",
   "changes": [
    {
-    "date": "2025-09-15",
+    "date": "2025-08-06",
     "update": 61,
     "page": "III-407",
     "kind": "amended",
@@ -1465,7 +1465,7 @@
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-03-14",
     "update": 46,
     "page": "III-412(5)",
     "kind": "amended",
@@ -1475,7 +1475,7 @@
     "circulars": []
    },
    {
-    "date": "2022-06-15",
+    "date": "2022-04-19",
     "update": 38,
     "page": "III-410",
     "kind": "amended",
@@ -1494,10 +1494,10 @@
   "status": null,
   "library": "public-offering-regulations-2017",
   "ourEdition": "2021-09-15",
-  "lastChangeInBook": "2026-06-20",
+  "lastChangeInBook": "2026-05-25",
   "changes": [
    {
-    "date": "2026-06-20",
+    "date": "2026-05-25",
     "update": 65,
     "page": "III-421",
     "kind": "amended",
@@ -1507,7 +1507,7 @@
     "circulars": []
    },
    {
-    "date": "2025-09-15",
+    "date": "2025-08-06",
     "update": 61,
     "page": "III-413",
     "kind": "amended",
@@ -1524,11 +1524,11 @@
   "page": "III-439",
   "title": "Private Placement of Securities Rules, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "private-placement-rules-2017",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1546,22 +1546,22 @@
   "page": "III-451",
   "title": "Customer Compensation Fund (Establishment and Operation) Rules, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "customer-compensation-fund-rules-2017",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-455",
   "title": "Centralized Customer Protection Compensation Fund Regulations, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "centralized-customer-protection-compensation-fund-regulations-2017",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1579,12 +1579,12 @@
   "page": "III-473",
   "title": "Futures Exchanges (Licensing and Operations) Regulations, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2023-12-10",
+  "library": "futures-exchanges-regulations-2017",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2023-11-17",
   "changes": [
    {
-    "date": "2023-12-10",
+    "date": "2023-11-17",
     "update": 50,
     "page": "III-486",
     "kind": "amended",
@@ -1594,7 +1594,7 @@
     "circulars": []
    },
    {
-    "date": "2023-08-20",
+    "date": "2023-08-10",
     "update": 48,
     "page": "III-479",
     "kind": "amended",
@@ -1604,17 +1604,7 @@
     "circulars": []
    },
    {
-    "date": "2023-08-20",
-    "update": 48,
-    "page": "III-477",
-    "kind": "amended",
-    "sros": [
-     "1913(I)/2022"
-    ],
-    "circulars": []
-   },
-   {
-    "date": "2023-05-10",
+    "date": "2023-03-29",
     "update": 46,
     "page": "III-485",
     "kind": "amended",
@@ -1624,7 +1614,17 @@
     "circulars": []
    },
    {
-    "date": "2022-06-15",
+    "date": "2022-10-14",
+    "update": 48,
+    "page": "III-477",
+    "kind": "amended",
+    "sros": [
+     "1913(I)/2022"
+    ],
+    "circulars": []
+   },
+   {
+    "date": "2022-04-27",
     "update": 38,
     "page": "III-477",
     "kind": "amended",
@@ -1634,7 +1634,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1643,10 +1643,10 @@
   "status": "Repealed by S.R.O. 210(I)/2024",
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2024-02-20",
+  "lastChangeInBook": "2024-02-12",
   "changes": [
    {
-    "date": "2024-02-20",
+    "date": "2024-02-12",
     "update": 52,
     "page": "III-489",
     "kind": "repealed",
@@ -1656,7 +1656,7 @@
     "circulars": []
    },
    {
-    "date": "2023-05-10",
+    "date": "2023-05-03",
     "update": 46,
     "page": "III-498(3)",
     "kind": "amended",
@@ -1666,7 +1666,7 @@
     "circulars": []
    },
    {
-    "date": "2022-06-15",
+    "date": "2022-04-28",
     "update": 38,
     "page": "III-498(4)",
     "kind": "amended",
@@ -1694,12 +1694,12 @@
   "page": "III-529",
   "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2024-02-20",
+  "library": "listed-companies-takeovers-regulations-2017",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2024-01-24",
   "changes": [
    {
-    "date": "2024-02-20",
+    "date": "2024-01-24",
     "update": 52,
     "page": "III-529",
     "kind": "amended",
@@ -1709,7 +1709,7 @@
     "circulars": []
    },
    {
-    "date": "2022-10-15",
+    "date": "2022-09-30",
     "update": 42,
     "page": "III-531",
     "kind": "changed",
@@ -1719,7 +1719,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1737,11 +1737,11 @@
   "page": "III-569",
   "title": "Bond Pricing Agency Rules, 2017",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "bond-pricing-agency-rules-2017",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1783,7 +1783,7 @@
     "circulars": []
    },
    {
-    "date": "2024-07-15",
+    "date": "2024-06-12",
     "update": 55,
     "page": "III-632(2)",
     "kind": "amended",
@@ -1809,7 +1809,7 @@
     "circulars": []
    },
    {
-    "date": "2023-08-20",
+    "date": "2023-07-07",
     "update": 48,
     "page": "III-631",
     "kind": "amended",
@@ -1829,10 +1829,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2024-02-20",
+  "lastChangeInBook": "2024-02-12",
   "changes": [
    {
-    "date": "2024-02-20",
+    "date": "2024-02-12",
     "update": 52,
     "page": "III-649",
     "kind": "amended",
@@ -1842,7 +1842,7 @@
     "circulars": []
    },
    {
-    "date": "2022-08-31",
+    "date": "2022-08-02",
     "update": 40,
     "page": "III-664",
     "kind": "amended",
@@ -1859,11 +1859,11 @@
   "page": "III-671",
   "title": "Companies (Mediation and Conciliation) Regulations, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-mediation-conciliation-regulations-2018",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1881,23 +1881,23 @@
   "page": "III-687",
   "title": "Companies (Manner and Selection of Independent Directors) Regulations, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-independent-directors-regulations-2018",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-691",
   "title": "Auditors (Reporting Obligations) Regulations, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2024-04-25",
+  "library": "auditors-reporting-obligations-regulations-2018",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2024-04-01",
   "changes": [
    {
-    "date": "2024-04-25",
+    "date": "2024-04-01",
     "update": 53,
     "page": "III-691",
     "kind": "amended",
@@ -1907,7 +1907,7 @@
     "circulars": []
    },
    {
-    "date": "2024-01-31",
+    "date": "2024-01-02",
     "update": 51,
     "page": "III-691",
     "kind": "amended",
@@ -1917,30 +1917,30 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-727",
   "title": "Limited Liability Partnership Regulations, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "llp-regulations-2018",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-753",
   "title": "Credit and Suretyship (Conduct of Business) Rules, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2022-08-31",
+  "library": "credit-suretyship-rules-2018",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2022-07-05",
   "changes": [
    {
-    "date": "2022-08-31",
+    "date": "2022-07-05",
     "update": 40,
     "page": "III-755",
     "kind": "amended",
@@ -1950,18 +1950,18 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-759",
   "title": "Employees Contributory Funds (Investment in Listed Securities) Regulations, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "employees-contributory-funds-investment-regulations-2018",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1970,10 +1970,10 @@
   "status": "Repealed by S.R.O. 210(I)/2024",
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2024-02-20",
+  "lastChangeInBook": "2024-02-12",
   "changes": [
    {
-    "date": "2024-02-20",
+    "date": "2024-02-12",
     "update": 52,
     "page": "III-765",
     "kind": "repealed",
@@ -2000,10 +2000,10 @@
   "status": null,
   "library": "secp-aml-cft-cpf-regulations-2020",
   "ourEdition": "2026-07-03",
-  "lastChangeInBook": "2023-12-10",
+  "lastChangeInBook": "2023-09-21",
   "changes": [
    {
-    "date": "2023-12-10",
+    "date": "2023-09-21",
     "update": 50,
     "page": "III-793",
     "kind": "amended",
@@ -2013,7 +2013,7 @@
     "circulars": []
    },
    {
-    "date": "2022-06-15",
+    "date": "2022-04-27",
     "update": 38,
     "page": "III-812(1)",
     "kind": "amended",
@@ -2030,12 +2030,12 @@
   "page": "III-813",
   "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2026-01-10",
+  "library": "futures-brokers-regulations-2018",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2025-12-12",
   "changes": [
    {
-    "date": "2026-01-10",
+    "date": "2025-12-12",
     "update": 63,
     "page": "III-824",
     "kind": "amended",
@@ -2045,7 +2045,7 @@
     "circulars": []
    },
    {
-    "date": "2024-01-31",
+    "date": "2023-12-13",
     "update": 51,
     "page": "III-813",
     "kind": "amended",
@@ -2055,7 +2055,7 @@
     "circulars": []
    },
    {
-    "date": "2022-11-10",
+    "date": "2022-10-14",
     "update": 43,
     "page": "III-813",
     "kind": "changed",
@@ -2065,7 +2065,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2083,12 +2083,12 @@
   "page": "III-863",
   "title": "Foreign Companies Regulations, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2023-05-10",
+  "library": "foreign-companies-regulations-2018",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2023-05-03",
   "changes": [
    {
-    "date": "2023-05-10",
+    "date": "2023-05-03",
     "update": 46,
     "page": "III-866(1)",
     "kind": "amended",
@@ -2098,7 +2098,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2118,10 +2118,10 @@
   "status": null,
   "library": "companies-further-issue-of-shares-regulations-2020",
   "ourEdition": "2026-01-13",
-  "lastChangeInBook": "2026-04-10",
+  "lastChangeInBook": "2026-01-13",
   "changes": [
    {
-    "date": "2026-04-10",
+    "date": "2026-01-13",
     "update": 64,
     "page": "III-924",
     "kind": "changed",
@@ -2131,7 +2131,7 @@
     "circulars": []
    },
    {
-    "date": "2026-01-10",
+    "date": "2025-12-16",
     "update": 63,
     "page": "III-921",
     "kind": "amended",
@@ -2141,7 +2141,7 @@
     "circulars": []
    },
    {
-    "date": "2024-04-25",
+    "date": "2024-03-04",
     "update": 53,
     "page": "III-919",
     "kind": "amended",
@@ -2151,7 +2151,7 @@
     "circulars": []
    },
    {
-    "date": "2022-09-30",
+    "date": "2022-09-16",
     "update": 41,
     "page": "III-919",
     "kind": "changed",
@@ -2161,19 +2161,19 @@
     "circulars": []
    }
   ],
-  "verdict": "book has later changes"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-953",
   "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2022-11-10",
+  "library": "listed-companies-buy-back-regulations-2019",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2022-09-06",
   "changes": [
    {
-    "date": "2022-11-10",
+    "date": "2022-09-06",
     "update": 43,
     "page": "III-953",
     "kind": "changed",
@@ -2183,7 +2183,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2214,10 +2214,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2024-04-25",
+  "lastChangeInBook": "2024-02-20",
   "changes": [
    {
-    "date": "2024-04-25",
+    "date": "2024-02-20",
     "update": 53,
     "page": "III-1011",
     "kind": "amended",
@@ -2244,55 +2244,55 @@
   "page": "III-1025",
   "title": "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "panel-provisional-managers-liquidators-regulations-2019",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-1033",
   "title": "Corporate Rehabilitation Regulations, 2019",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "corporate-rehabilitation-regulations-2019",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-1043",
   "title": "Secured Transactions Registry Regulations, 2020",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "secured-transactions-registry-regulations-2020",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-1051",
   "title": "Professional Clearing Members Regulations, 2020",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "professional-clearing-members-regulations-2020",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-1067",
   "title": "Oversight Regulations for Self-Regulatory Bodies of Accountants, 2020",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "oversight-regulations-accountants-2020",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2310,11 +2310,11 @@
   "page": "III-1071",
   "title": "Securities and Exchange Commission (Reinsurance Brokers) Regulations, 2021",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "reinsurance-brokers-regulations-2021",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2323,10 +2323,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2024-02-20",
+  "lastChangeInBook": "2024-01-24",
   "changes": [
    {
-    "date": "2024-02-20",
+    "date": "2024-01-24",
     "update": 52,
     "page": "III-1105",
     "kind": "amended",
@@ -2336,7 +2336,7 @@
     "circulars": []
    },
    {
-    "date": "2022-08-31",
+    "date": "2022-08-15",
     "update": 40,
     "page": "III-1095",
     "kind": "amended",
@@ -2353,12 +2353,12 @@
   "page": "III-1143",
   "title": "Issuance of Convertible Debt Securities through Right Offer Regulations, 2022",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2022-10-15",
+  "library": "convertible-debt-right-offer-regulations-2022",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2022-09-21",
   "changes": [
    {
-    "date": "2022-10-15",
+    "date": "2022-09-21",
     "update": 42,
     "page": "III-1143",
     "kind": "changed",
@@ -2368,7 +2368,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2377,10 +2377,10 @@
   "status": null,
   "library": "shariah-governance-regulations-2023",
   "ourEdition": "2023-09-14",
-  "lastChangeInBook": "2023-12-10",
+  "lastChangeInBook": "2023-09-18",
   "changes": [
    {
-    "date": "2023-12-10",
+    "date": "2023-09-18",
     "update": 50,
     "page": "III-1183",
     "kind": "reproduced",
@@ -2390,7 +2390,7 @@
     "circulars": []
    },
    {
-    "date": "2023-09-20",
+    "date": "2023-09-14",
     "update": 49,
     "page": "III-1151",
     "kind": "repealed",
@@ -2409,10 +2409,10 @@
   "status": "Repealed by S.R.O. 210(I)/2024",
   "library": "unlisted-companies-buy-back-regulations-2023",
   "ourEdition": "2023-10-12",
-  "lastChangeInBook": "2024-02-20",
+  "lastChangeInBook": "2024-02-12",
   "changes": [
    {
-    "date": "2024-02-20",
+    "date": "2024-02-12",
     "update": 52,
     "page": "III-1187",
     "kind": "repealed",
@@ -2422,7 +2422,7 @@
     "circulars": []
    },
    {
-    "date": "2023-12-10",
+    "date": "2023-10-12",
     "update": 50,
     "page": "III-1187",
     "kind": "reproduced",
@@ -2439,12 +2439,12 @@
   "page": "III-1189",
   "title": "Securities Managers (Licensing and Operations) Regulations, 2024",
   "status": null,
-  "library": null,
-  "ourEdition": null,
-  "lastChangeInBook": "2025-01-10",
+  "library": "securities-managers-regulations-2024",
+  "ourEdition": "2026-06-20",
+  "lastChangeInBook": "2024-11-06",
   "changes": [
    {
-    "date": "2025-01-10",
+    "date": "2024-11-06",
     "update": 58,
     "page": "III-1193",
     "kind": "reproduced",
@@ -2454,7 +2454,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -2463,10 +2463,10 @@
   "status": null,
   "library": "futures-market-act-2016",
   "ourEdition": "2016-04-09",
-  "lastChangeInBook": "2025-06-14",
+  "lastChangeInBook": "2024-06-05",
   "changes": [
    {
-    "date": "2025-06-14",
+    "date": "2024-06-05",
     "update": 131,
     "page": "I-28.61",
     "kind": "reproduced",
@@ -2527,11 +2527,11 @@
   "page": "I-241",
   "title": "Corporate Rehabilitation Act, 2018",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "corporate-rehabilitation-act-2018",
+  "ourEdition": "2026-06-20",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -2650,10 +2650,10 @@
   "status": null,
   "library": "nbfc-rules-2003",
   "ourEdition": "2023-09-14",
-  "lastChangeInBook": "2025-11-10",
+  "lastChangeInBook": "2025-07-31",
   "changes": [
    {
-    "date": "2025-11-10",
+    "date": "2025-07-31",
     "update": 133,
     "page": "V-62",
     "kind": "amended",
@@ -2663,7 +2663,7 @@
     "circulars": []
    },
    {
-    "date": "2024-02-29",
+    "date": "2023-09-14",
     "update": 126,
     "page": "V-14",
     "kind": "amended",
@@ -3147,10 +3147,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2025-11-10",
+  "lastChangeInBook": "2025-08-01",
   "changes": [
    {
-    "date": "2025-11-10",
+    "date": "2025-08-01",
     "update": 133,
     "page": "VA-2",
     "kind": "amended",
@@ -3160,7 +3160,7 @@
     "circulars": []
    },
    {
-    "date": "2025-04-10",
+    "date": "2025-01-15",
     "update": 130,
     "page": "VA-9",
     "kind": "amended",
@@ -3170,7 +3170,7 @@
     "circulars": []
    },
    {
-    "date": "2024-04-25",
+    "date": "2024-02-22",
     "update": 127,
     "page": "VA-129",
     "kind": "amended",
@@ -3181,7 +3181,7 @@
     "circulars": []
    },
    {
-    "date": "2023-07-10",
+    "date": "2023-05-17",
     "update": 123,
     "page": "VA-5",
     "kind": "amended",
@@ -3191,7 +3191,7 @@
     "circulars": []
    },
    {
-    "date": "2022-07-15",
+    "date": "2022-06-14",
     "update": 119,
     "page": "VA-7",
     "kind": "amended",
@@ -3298,10 +3298,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2022-01-31",
+  "lastChangeInBook": "2019-06-19",
   "changes": [
    {
-    "date": "2022-01-31",
+    "date": "2019-06-19",
     "update": 116,
     "page": "VII-71",
     "kind": "repealed",
@@ -3320,10 +3320,10 @@
   "status": null,
   "library": null,
   "ourEdition": null,
-  "lastChangeInBook": "2025-01-10",
+  "lastChangeInBook": "2024-03-18",
   "changes": [
    {
-    "date": "2025-01-10",
+    "date": "2024-03-18",
     "update": 129,
     "page": "VII-84",
     "kind": "amended",

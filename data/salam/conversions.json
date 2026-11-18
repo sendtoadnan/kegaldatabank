@@ -85,7 +85,7 @@
    "part": "III",
    "from": 649,
    "to": 670,
-   "hold": "Most regulations repealed by S.R.O. 210(I)/2024; the book prints the old text in footnotes. Convert only after checking which regulations remain.",
+   "hold": "16 Nov 2026: most of it repealed by S.R.O. 210(I)/2024 and the book prints the repealed wording in footnotes: needs a hand check of which regulations remain.",
    "fileHint": "Part 2"
   },
   {
@@ -372,7 +372,7 @@
    "number": "S.R.O. 88(I)/2005",
    "enacted": "2005-01-27",
    "titleFromText": true,
-   "hold": "15 Nov 2026: rules 11, 23, 31, 41 not found (8, 22, 26, 40 deleted). Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages III-49 and III-84 (first and last page) (rules 11, 23, 31 and 41 not found). Rescan them, then rerun."
   },
   {
    "id": "research-analyst-regulations-2015",
@@ -450,7 +450,7 @@
    "number": "S.R.O. 1159(I)/2015",
    "enacted": "2015-11-25",
    "titleFromText": true,
-   "hold": "15 Nov 2026: regulations 3 and 8 not found. Fix and recheck before publishing.",
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages III-242 and III-246 (regulation 8 not found). Rescan them, then rerun.",
    "untitledProvisions": true
   },
   {
@@ -491,7 +491,7 @@
    "number": "S.R.O. 569(I)/2016",
    "enacted": "2016-06-24",
    "titleFromText": true,
-   "hold": "15 Nov 2026: regulation 31 not found; regulation 16 very long; superseded pages mixed in. Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages III-287 and III-296 (text is cut mid-regulation where these pages should be). Rescan them, then rerun."
   },
   {
    "id": "credit-rating-companies-regulations-2016",
@@ -530,7 +530,7 @@
    "number": "S.R.O. 733(I)/2016",
    "enacted": "2016-08-09",
    "titleFromText": true,
-   "hold": "15 Nov 2026: regulations 4-9 not in the text (pages out of order or unmapped). Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages III-343 to III-348 (six NBFC pages V-343 to V-348 are filed in their place) (regulations 4 to 9 are on these pages). Rescan them, then rerun."
   },
   {
    "id": "securities-exchanges-regulations-2016",
@@ -550,7 +550,7 @@
    "number": "S.R.O. 1007(I)/2016",
    "enacted": "2016-10-27",
    "titleFromText": true,
-   "hold": "15 Nov 2026: regulation 17 not found. Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: page III-371 (regulation 17 is on this page). Rescan them, then rerun."
   },
   {
    "id": "structuring-debt-securities-regulations-2020",
@@ -570,7 +570,7 @@
    "number": "S.R.O. 15(I)/2017",
    "enacted": "2017-01-11",
    "titleFromText": true,
-   "hold": "15 Nov 2026: regulations 4-6, 8 not found; S.R.O. number doubtful (15(I)/2017 vs the 2020 regulations). Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages III-373 and III-378 (regulations 4 to 6 and 8; first page with the S.R.O. number). Rescan them, then rerun."
   },
   {
    "id": "securities-futures-advisers-regulations-2017",
@@ -608,8 +608,7 @@
    "batch": 3,
    "number": "S.R.O. 295(I)/2017",
    "enacted": "2017-05-02",
-   "titleFromText": true,
-   "hold": "15 Nov 2026: regulation 8 not found. Fix and recheck before publishing."
+   "titleFromText": true
   },
   {
    "id": "private-placement-rules-2017",
@@ -816,7 +815,7 @@
    "number": "S.R.O. 890(I)/2019",
    "enacted": "2019-07-31",
    "titleFromText": true,
-   "hold": "15 Nov 2026: regulations 16, 18, 19, 21, 22 not found. Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages III-988, III-1000 and III-1010 (regulations 16 and 22 and the end of the text). Rescan them, then rerun."
   },
   {
    "id": "secured-transactions-registry-regulations-2020",
@@ -912,7 +911,7 @@
    "number": "S.R.O. 284(I)/2021",
    "enacted": "2021-03-05",
    "titleFromText": true,
-   "hold": "15 Nov 2026: regulations 7-9, 22, 30 not found. Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages III-1102, III-1103 and III-1138 (regulations 7 to 9 and 22). Rescan them, then rerun."
   },
   {
    "id": "securities-managers-regulations-2024",
@@ -947,7 +946,10 @@
    "scanTo": 113,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026 (Volume II): rule 13 not found; S.R.O. number read from the recital is doubtful. Fix and recheck before publishing."
+   "number": "S.R.O. 92(I)/71",
+   "enacted": "1971-03-19",
+   "allowJump": true,
+   "caution": "Made by the Securities and Exchange Commission of Pakistan under section 33 of the Securities and Exchange Ordinance, 1969; confirm whether it is still in force. Rules 12 to 15 were omitted by S.R.O. 1234(I)/1985 of 12 December 1985. The schedules and forms are not reproduced here."
   },
   {
    "id": "leveraged-markets-pledging-rules-2011",
@@ -965,8 +967,7 @@
    "scanFrom": 196,
    "scanTo": 223,
    "batch": 4,
-   "titleFromText": true,
-   "hold": "16 Nov 2026 (Volume II): rule 26 not found. Fix and recheck before publishing."
+   "titleFromText": true
   },
   {
    "id": "corporate-rehabilitation-act-2018",
@@ -1002,7 +1003,9 @@
    "scanTo": 22,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026 (Volume II): no provisions recognised (heading style differs). Fix and recheck before publishing."
+   "number": "S.R.O. 1036(I)/2013",
+   "enacted": "2013-12-04",
+   "caution": "Made under section 506A of the Companies Ordinance, 1984, which the Companies Act, 2017 repealed, with the Securities and Exchange Commission of Pakistan Act, 1997; S.R.O. 315(I)/2017 of 8 May 2017 deleted regulations 6, 9 and 11. Confirm whether it is still in force."
   },
   {
    "id": "cdc-establishment-regulation-rules-1996",
@@ -1019,8 +1022,11 @@
    "scanFrom": 29,
    "scanTo": 36,
    "batch": 4,
-   "titleFromText": true,
-   "hold": "16 Nov 2026 (Volume II): rule 1 not found; no S.R.O. number read; one leak. Fix and recheck before publishing."
+   "titleFromText": false,
+   "number": "S.R.O. 107(K.E.)/96",
+   "enacted": "1996-10-07",
+   "caution": "Made by the Federal Government under section 33 of the Securities and Exchange Ordinance, 1969. Confirm whether these rules are still in force; central depositories are now governed by the Central Depositories Act, 1997. The forms are not reproduced here.",
+   "parent": "central-depositories-act-1997"
   },
   {
    "id": "commodity-exchange-futures-contracts-rules-2005",
@@ -1038,7 +1044,7 @@
    "scanTo": 50,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026 (Volume II): no provisions recognised (heading style differs). Fix and recheck before publishing."
+   "hold": "16 Nov 2026: the book keeps only fragments (repealed by S.R.O. 1164(I)/2018; pages IV-129 to IV-140 deleted): not worth converting."
   },
   {
    "id": "stock-exchanges-demutualization-act-2012",
@@ -1057,7 +1063,7 @@
    "scanTo": 69,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026 (Volume II): sections 6 and 7 not found; Act number not read. Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: page IV-148 (sections 6 and 7). Rescan them, then rerun."
   },
   {
    "id": "stock-exchanges-demutualization-regulations-2012",
@@ -1075,7 +1081,7 @@
    "scanTo": 126,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026 (Volume II): pages out of order at the end (text of earlier regulations after regulation 41); title misread. Fix and recheck before publishing."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages IV-200 and IV-208 (text missing mid-regulation; pages at the end are out of order). Rescan them, then rerun."
   },
   {
    "id": "nbfc-notified-entities-regulations-2008",
@@ -1094,7 +1100,7 @@
    "scanTo": 432,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026 (Volume II): regulations 3-9 and 47-49 not found; very long regulation 2; leaks. Fix and recheck before publishing."
+   "hold": "16 Nov 2026: OCR of all 267 pages done and kept in the cache; the text jumps from the end of regulation 2 (scan 183, VA-14) to the middle of regulation 9 (scan 184, VA-15), so the page(s) with regulations 3 to 9(1)(a) are not in the scan; regulations 5, 6, 13, 27, 35, 46-53 and 65 are marked Deleted in its arrangement list. Also needs the forms interleaved before regulations 68 and 69 handled (stops at the first form). Rescan the missing page(s), then rerun."
   }
  ]
 }

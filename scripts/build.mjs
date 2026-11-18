@@ -31,6 +31,16 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
 
   const { catalog, acts } = library;
   const site = catalog.site;
+  // Words of schedules, annexures and forms taken from the official PDFs (scripts/extract_schedule_text.py):
+  // they are shown only as PDF links, so this is what lets search and the filter box find them.
+  const scheduleDir = path.join(dataDir || path.join(ROOT, 'data'), 'schedule-text');
+  const scheduleText = new Map();
+  if (fs.existsSync(scheduleDir)) {
+    for (const f of fs.readdirSync(scheduleDir).filter((n) => n.endsWith('.json'))) {
+      const j = JSON.parse(fs.readFileSync(path.join(scheduleDir, f), 'utf8'));
+      scheduleText.set(j.id, j);
+    }
+  }
   const byId = new Map(acts.map((a) => [a.id, a]));
   const children = (id) => acts.filter((a) => a.parent === id);
   const registerFor = (id) => extras.registers.find((r) => r.act === id);
@@ -292,7 +302,7 @@ ${body}
 
     const schedules = act.schedules?.length
       ? `<section class="schedules"><h2>Schedules and annexures</h2><p class="muted small">Schedules are mostly tables, so they are shown as published in the official PDF.</p><ul class="act-list">${act.schedules
-          .map((x) => `<li class="act-row"><a href="${pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`)
+          .map((x, k) => `<li class="act-row" data-sched="${k}"><a href="${pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`)
           .join('')}</ul></section>`
       : '';
 
@@ -716,20 +726,29 @@ ${body}
       verified: a.verification.status === 'verified',
       placeholder: !!a.placeholder,
     })),
-    provisions: acts.flatMap((a) =>
-      a.pdfOnly
-        ? [{ act: a.id, no: '', title: a.title, part: 'Official PDF', anchor: '', text: a.summary || '' }]
-        : a.parts.flatMap((p) =>
-            p.sections.map((s) => ({
-              act: a.id,
-              no: displayNo(s.no),
-              title: stripMarkers(s.title),
-              part: p.heading,
-              anchor: provisionAnchor(s.no),
-              text: plainText(s),
-            }))
-          )
-    ),
+    provisions: acts.flatMap((a) => {
+      const pdf = a.sourcePdfUrl || `sources/${a.id}.pdf`;
+      const st = scheduleText.get(a.id);
+      const schedRows = st
+        ? st.schedules
+            .filter((x) => x.text)
+            .map((x) => ({ act: a.id, no: '', title: x.title, part: st.pdfOnly ? 'Official PDF' : 'Schedules and annexures', anchor: '', pdf, pdfPage: x.page, text: x.text }))
+        : [];
+      if (a.pdfOnly) return schedRows.length ? schedRows : [{ act: a.id, no: '', title: a.title, part: 'Official PDF', anchor: '', text: a.summary || '' }];
+      return [
+        ...a.parts.flatMap((p) =>
+          p.sections.map((s) => ({
+            act: a.id,
+            no: displayNo(s.no),
+            title: stripMarkers(s.title),
+            part: p.heading,
+            anchor: provisionAnchor(s.no),
+            text: plainText(s),
+          }))
+        ),
+        ...schedRows,
+      ];
+    }),
   };
   write('search-index.json', JSON.stringify(index));
 
@@ -768,6 +787,11 @@ ${body}
   ]);
   write('search-notes.json', JSON.stringify(noteRows));
 
+  // ---------- schedule text for the filter box on instrument pages (served as /schedule-text/<id>.json) ----------
+  for (const [id, j] of scheduleText) {
+    if (byId.has(id)) write(`schedule-text/${id}.json`, JSON.stringify({ s: j.schedules.map((x) => ({ t: x.title, p: x.page, x: x.text })) }));
+  }
+
   // ---------- official source PDFs (served as /sources/<id>.pdf) ----------
   for (const a of acts) {
     if (a.sourcePdf && !a.sourcePdfUrl) write(`sources/${a.id}.pdf`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', a.sourcePdf)));
@@ -801,7 +825,7 @@ ${body}
 
   // The service worker precaches the app shell and search index; instrument pages and PDFs
   // are cached as they are opened, so everything a reader has used stays available offline.
-  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('ai-') && f !== 'assets/ai-worker.js' && !f.startsWith('acts/') && !f.startsWith('sources/') && !f.startsWith('evidence/'));
+  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('ai-') && f !== 'assets/ai-worker.js' && !f.startsWith('acts/') && !f.startsWith('schedule-text/') && !f.startsWith('sources/') && !f.startsWith('evidence/'));
   const version = crypto.createHash('sha256').update(precache.map((f) => f + fs.statSync(path.join(outDir, f)).size).join('|')).update(JSON.stringify(index)).digest('hex').slice(0, 12);
   const sw = fs.readFileSync(path.join(ROOT, 'src', 'sw.template.js'), 'utf8').replace('__VERSION__', version).replace('__PRECACHE__', JSON.stringify(precache.map((f) => `./${f}`)));
   write('sw.js', sw);

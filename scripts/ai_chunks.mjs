@@ -36,7 +36,7 @@ export function passages(index) {
   const out = [];
   index.provisions.forEach((p, prov) => {
     const act = acts.get(p.act);
-    if (!act || act.placeholder) return;
+    if (!act || act.placeholder || p.pdfPage) return;   // schedule tables from the PDFs are searched by words only
     for (const [start, len] of splitText(p.text || '')) {
       const text = passageText(act, p, start, len);
       const hash = crypto.createHash('sha1').update(AI_MODEL).update(text).digest('hex').slice(0, 16);

@@ -1,0 +1,228 @@
+{
+  "id": "commercial-papers-regulations-2013",
+  "title": "Issue of Commercial Papers Regulations, 2013",
+  "number": "S.R.O. 1036(I)/2013",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Commercial Paper Regulations"
+  ],
+  "enacted": "2013-12-04",
+  "lastAmended": "2026-06-20",
+  "amendedUpToLabel": "20 June 2026",
+  "status": "in-force",
+  "caution": "Made under section 506A of the Companies Ordinance, 1984, which the Companies Act, 2017 repealed, with the Securities and Exchange Commission of Pakistan Act, 1997; S.R.O. 315(I)/2017 of 8 May 2017 deleted regulations 6, 9 and 11. Confirm whether it is still in force.",
+  "source": {
+    "name": "Gazette of Pakistan, S.R.O. 1036(I)/2013",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "SRO 1036(I)/2013, Islamabad dated December 04, 2013.- In exercise of the powers conferred by sub-section (1) of section 506A of the Companies Ordinance, 1984 (XLVII of 1984), read with clause (a) of sub-section (4) of section 20 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of' S1-31-05-17 1997), and having been previously published in the official Gazette vide Notification No. S.R.O. 71(I)/2013 dated February 4, 2013 as required by subsection (1) of Section 506A of the said Ordinance, the Securities and Exchange Commission of Pakistan hereby makes the following Regulations:- Ill - 69 Preliminary",
+  "parts": [
+    {
+      "heading": "Chapter I",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title and Commencement",
+          "text": [
+            "(1) These Regulations shall be called the Issue of Commercial Papers Regulations, 2013.",
+            "(2). They shall come into force at once.",
+            "[(3) They shall apply to issuance of privately placed commercial papers by a company or body corporate to the persons mentioned in section 120 of the Ordinance.]"
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Definitions",
+          "text": [
+            "(1) In these Regulations unless there is anything repugnant in the subject or context,-",
+            "[ (b) \"Commercial Paper\" means an unsecured instrument with a maturity period as provided in these Regulations;",
+            ">(c) \"Commission\" means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+            ">(d) \"Company\" shall have the same meaning as assigned to it in the Companies Ordinance, 1984 (XLVII of 1984)*;",
+            "[ ]",
+            ">(f) \"DFI\" means a development financial institution as notified by the State Bank of Pakistan from time to time;",
+            ">(g) \"equity\" means and includes paid up share capital, reserves, subordinated loans and un-appropriated profits (minus accumulated losses) excluding deferred tax reserves, surplus on revaluation of fixed assets account as described in section 235 of the Ordinance and",
+            "redeemable preference shares;",
+            ">(h) \"Financial Institution\" means a financial institution as defined in the Financial Institutions (Recovery of Finances) Ordinance, 2001 and the Companies Ordinance, 1984 (XLVII of 1984);",
+            ">(i) \"Investment Finance Company\" shall have the same meaning as assigned to it under the Non-Banking Finance Companies and Notified Entities Regulations, 2008;",
+            ">(j) \"Issuer\" includes a company or body corporate that intends to raise short-term finance by issuing commercial paper;",
+            ">(k) \"Issuing and Paying Agent\" means a Scheduled Bank, an Investment Finance Company or a DFI appointed under these Regulations as an Issuing and Paying Agent and having a minimum Credit Rating grade of \"A-\" (medium to long term) and \"A2\" (short term) obtained from any Credit Rating Company;",
+            "(1) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
+            ">(o) \"Regulations\" means the Issue of Commercial Papers Regulations, 2013;",
+            ">(p) \"Scheduled Bank\" means a scheduled bank as defined in the State Bank of Pakistan Act, 1956 (XXXII of 1956);",
+            ">(r) \"subordinated loan\" means the unsecured loan which does not require repayment (principal and / or markup) before maturity and repayment of the Commercial Paper, is documented by a formal subordination agreement between provider of the loan and the issuer and disclosed in the audited financial reports of the issuer as subordinated loan and / or",
+            "so verified by the auditors certificate; and",
+            "(2) All words and expressions used but not defined in these Regulations shall have the same meanings as assigned to them in the Ordinance, [the Securities Act, 2015 (III of 2015)) and the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997).",
+            "Issue of Commercial Paper"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter II",
+      "sections": [
+        {
+          "no": "3",
+          "title": "Conditions for issue of Commercial Paper",
+          "text": [
+            "Any company or body corporate can issue Commercial Paper if it fulfills the following conditions, namely:-",
+            ">(a) it is authorized by its Memerandum and Artieles of Association, or",
+            "other constitutive document to issue Commercial Papers;",
+            ">(b) its equity is not less than Rs. 25 million as per the latest audited balance sheet;",
+            "[ ]",
+            ">(e) it has no overdue loans or defaults in the report obtained from the Credit Information Bureau of the State Bank of Pakistan and the said report is not more than two months old."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Period of Commercial Paper",
+          "text": [
+            "(1) The Commercial Paper shall be issued for maturities between minimum of 30 days and maximum of one year and the date of maturity shall be reckoned from the first day of subscription.",
+            "(2) Where the maturity date happens to be a holiday, the issuer shall make payment on the immediate following working day."
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Size and Denomination of Commercial Paper",
+          "text": [
+            "Size of an issue of Commercial Paper shall not be less than Rs.10 million, denomination of a Commercial Paper shall be its face value and it shall be issued in denomination of R.s 100,000/- or multiples thereof.]"
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Mode of issue and discount rate",
+          "text": [
+            "The Commercial Paper shall be issued at such discount to face value as may be determined by the issuer.]"
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Issue expenses",
+          "text": [
+            "The issuer shall bear all the expenses relating to the issue of the Commercial Paper including the fees payable to the Issuing and Paying Agent and the Credit Rating Company concerned, and the stamp duty payable to the concerned provincial government under the Stamp Act, 1899 (Act II of 1899) at the rates prescribed by them and any other relevant charges connected with such issue. [ ]"
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Procedure for issue of Commercial Paper",
+          "text": [
+            "(1) Every issuer shall appoint an Issuing and Paying Agent through an agreement in writing and the agreement executed shall contain all the basic terms and conditions and role & responsibilities of both the parties to the agreement.",
+            "(2) The Issuing and Paying Agent appointed under sub-regulation (1) shall not be associated company or associated undertaking of the issuer.",
+            "[(3) The issue of Commercial Paper shall be completed within a period of two weeks from the date on which the issue opens for subscription and any unsold portion of the issue after two weeks of its opening for subscription shall not be issued.]",
+            "41 [(5) The subscribers shall pay through the Issuing and Paying Agent the discounted value of the Commercial Paper by means of crossed cheque or any other mode acceptable to the Issuing and Paying Agent, to the account of the issuer.]",
+            "(6) The issuer shali intimate in writing to all [aforesaid] subscribers and all financial institutions, who have provided [loans and advances] to it, about the amount and tenure of the issue of Commercial Paper and copies of such intimation shall also be provided to the issuing and Paying Agent.",
+            "[ ] [",
+            "Credit Rating Company"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "CHAPTER III Duties and Responsibilities of Issuer, Issuing and Paying Agent and",
+      "sections": [
+        {
+          "no": "12",
+          "title": "The duties and responsibilities of issuer [and] Issuing and Paying Agents 2| ] are set out as follow",
+          "text": [
+            "(1) Issuer:- The issuer shall ensure that,-",
+            ">(a) the Regulations and procedures laid down for the issuance of Commercial Paper are strictly adhered to;",
+            ">(b) Issuing and Paying Agent is provided copes of all the investor agreements i.e. the agreements executed with the initial subscribers and the said agreements contain salient features and other terms and",
+            "conditions of the issue including the following,-",
+            ">(i) covenants of the issue of Commercial Paper;",
+            "[(ii) non availability of any recourse to the initial subscribers on the issuer and Issuing and Paying Agent;]",
+            ">(iii) non availability of any guarantee by any bank or other financial institution;",
+            "* (iv) default history. of the issuer including rescheduling/restructuring of loan for the last 5 years; and",
+            ">(v) detailed provisions on rollover, if any.",
+            ">(c) specimen of the investors' agreement between the issuer and the subscribers containing minimum terms and conditions is placed on its website and on the website of Issuing and Paying Agent for information of the investors;",
+            ">(d) within five days of the [issuance of Commercial paper], report to Issuing and Paying Agent and the Commission the following information, namely,-",
+            ">(i) province and place of issue;",
+            ">(ii) amount and rate of all Federal and Provincial levies paid if applicable;",
+            ">(iii) term sheet containing salient features of the issue.",
+            ">(e) the Commercial Paper shall be redeemed through Issuing and Paying Agent; and",
+            ">(f) roll over, if any, shall be made through Issuing and Paying Agent. (2) Issuing and Paying Agent.- The Issuing and Paying Agent shall,-",
+            ">(a) enter into an agreement in writing with the issuer to act as Issuing and",
+            "Paying Agent for the issue of the Commercial Paper;",
+            ">(d) ensure that the issuer has met all the requirements as prescribed in these Regulations before the issuance of Commercial Paper;",
+            ">(e) verify all the documents submitted by the issuer ie. copy of Board's resolution etc. and have in custody certified copies of the original document and issue a certificate that documents are in order;",
+            ">(f) credit, on the issue date, the Commercial Paper to investors against proofofpaymentandatmaturityhaving received funds from the issuer, it will effect repayment on receipt of the Commercial Paper issuer, it will effect repayment on receipt of the Commercial Paper back from the investors;",
+            ">(g) make it clear to the [ ] subscribers in the investor agreement 3| ] that investors investment is subject to credit and other risks inherent in such instruments and payment will be made to them only if the issuer has made the funds available to Issuing and Paying Agent;",
+            ">(h) inform the [investors] that in case of any default by the issuer, it will not be in a position to seek recovery from the issuer or initiate any action against the issuer either on its own or on behalf of the investors;",
+            ">(i) in case of any default by the issuer, be responsible for the immediate notification of such default to the holders of the Commercial Paper and",
+            "the Commission but not later than three (3) working days of occurrence of such default;",
+            ">(j) in case of partial payment by the issuer, distribute the received funds, among all the holders of the Commercial Paper, on pro-rata basis and",
+            "while doing so it shall take all necessary measures to safeguard its position against any adverse consequences including incorporation of this provision in the agreement executed between the issuer and the Issuing and Paying Agent;",
+            "[(k) submit a report on the issue to the Commission within five days of the receipt of report from the issuer and the report shall contain all the material facts and figures relating to the issue including those as required under these Regulations to be reported to the Commission; and]",
+            "\"(b) ensure that the issuer has the minimum credit rating as specified in regulation 3 above;",
+            ">(c) ensure that the quantum of amount proposed to be raised through issuance of the Commercial Paper is within the limit as prescribed in regulation 5 above;\" 'Substituted for \"initial subscribers\" by SRO 315(I)/2017 dated May 08, 2017. E2 S1-31-05-17 date for closing of the subscription of the Commercial Paper and the report shall contain all the material facts and figures relating to the issue including those as required under these Regulations to be reported to the Commission; and\"",
+            "(1) obtain from the concerned depository company list of Commercial Paper holders on monthly basis.",
+            "[",
+            "Miscellaneous"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter IV",
+      "sections": [
+        {
+          "no": "13",
+          "title": "Payment of Commercial Paper",
+          "text": [
+            "On maturity of Commercial Paper, the holder shall present the instrument evidencing deposit of the Commercial Paper in depository account for payment to the Issuing and Paying Agent who, having received funds from the issuer, shall effect repayment though crossed cheque or bank transfer."
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Periodic Reports",
+          "text": [
+            "Issuing and Paying Agent shall submit a report to the Commission on the redemption of Commercial Paper within ten (10) working days of the date of its maturity and the report must be signed by any officer authorized by Issuing and Paying Agent to do so."
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Transfer of Commercial Paper",
+          "text": [
+            "Commercial Paper shall be transferable according to the clearing and settlement systems developed for transfer of securities in siich form under the stock exchanges, Central Depository Company of Pakistan Limited and National Clearing Company of Pakistan Limited's Regulations."
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Roll Over and Early Redemption Options",
+          "text": [
+            "(1) Commercial Paper may be rolled over at maturity for a maximum of two terms of the same tenor subject to the following conditions, namely,-",
+            ">(a) the circumstances where a Commercial Paper can be rolled over and",
+            "full modus operandi for such roll over are provided in the investors' agreement or the offering document;",
+            ">(b) the option of role over is agreed in writing between the issuer and the Issuing and Paying Agent;",
+            ">(c) written consent of all the holders of the Commercial Paper is obtained;",
+            "and",
+            ">(d) the issuer fulfills all the requirements of regulation 3 at the time of roll over.",
+            "(2) The issuer may redeem a Commercial Paper before maturity under a call option and an investor may ask the issuer for early redemption under a put option subject to the condition that such options are provided in the investors' agreement or the offering document."
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Penalty",
+          "text": [
+            "Any contravention of these Regulations shall be punishable with a fine which may extend to five hundred thousand rupees and, where the contravention is a continuing one, with further fine which may extend to ten thousand rupees for every day after the first during which such contravention continues."
+          ]
+        },
+        {
+          "no": "18",
+          "title": "Relaxation of the Regulations",
+          "text": [
+            "Where the Commission is satisfied that it is not practicable to comply with any requirement of these Regulations in a particular case or class of cases, the Commission may, for reason to be recorded in writing, relax such requirement subject to such conditions as it may deem fit.\"",
+            "(pages 79 to 102 deleted due to updating)"
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": []
+}

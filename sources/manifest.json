@@ -954,7 +954,7 @@
     },
     "amendedUpTo": "2023-09-14",
     "amendedUpToLabel": "14 September 2023 (S.R.O. 1314(I)/2023, as made)",
-    "caution": "Draft amendments were published by S.R.O. 802(I)/2026 of 29 April 2026 for comments; they are not part of this text until SECP notifies them.",
+    "caution": "Draft amendments were published by S.R.O. 802(I)/2026 of 29 April 2026 for comments; they are not part of this text until SECP notifies them. Compared in November 2026 with a consolidated edition updated to 20 June 2026: the regulations are unchanged since they were made. The tolerance levels for Shariah screening are in S.R.O. 1348(I)/2023 of 19 September 2023, listed in the Companies Act register under section 451.",
     "bodyEndPage": 29,
     "schedules": [
       {
@@ -1527,7 +1527,7 @@
     "enacted": "2016-04-09",
     "amendedUpTo": "2016-04-09",
     "amendedUpToLabel": "Pakistan Code edition (no amendment date stated)",
-    "caution": "Taken from Pakistan Code, which states no amendment date; check SECP's current edition before relying on it.",
+    "caution": "Taken from Pakistan Code, which states no amendment date. Compared in November 2026 with a consolidated edition updated to 20 June 2026: no amendments to its sections were found. Check SECP's current edition before relying on it.",
     "source": {
       "name": "Pakistan Code (Ministry of Law and Justice)",
       "url": "https://pakistancode.gov.pk"
@@ -1637,6 +1637,7 @@
     "enacted": "2003-04-01",
     "amendedUpTo": "2023-09-14",
     "amendedUpToLabel": "14 September 2023",
+    "caution": "S.R.O. 1416(I)/2025 of 31 July 2025 amended Schedule I (qualification requirements for directors and officers); the schedules are shown only in the PDF of the edition updated to 14 September 2023, so that amendment is not reflected. Check SECP's current edition before relying on the schedules.",
     "summary": "Made by the Federal Government under section 282B of the Companies Ordinance, 1984 (recital).",
     "numberingGaps": [6],
     "sourceNotes": "Rule 6 (Commencement of operations by NBFC) is printed only as an empty bracket; the edition's note 52 records that its words were deleted.",
@@ -1750,7 +1751,7 @@
     "enacted": "2017-05-02",
     "amendedUpTo": "2021-09-15",
     "amendedUpToLabel": "15 September 2021",
-    "caution": "SECP's consolidated copy updated to 15 September 2021; later amendments, if any, are not reflected.",
+    "caution": "SECP's consolidated copy updated to 15 September 2021. It is out of date: later amendments, including S.R.O. 1477(I)/2025 of 6 August 2025 and S.R.O. 903(I)/2026 of 25 May 2026, have changed the definitions (for example discounted debt instruments, the e-IPO platform, step bids, REIT and Shariah Governance Regulations references, special purpose acquisition companies) and regulations 3 to 25. Check SECP's current consolidated text before relying on this one.",
     "summary": "Made under sections 19, 87 to 91, 94 and 95 read with section 169 of the Securities Act, 2015 (recital).",
     "source": {
       "name": "Securities and Exchange Commission of Pakistan",
@@ -2842,6 +2843,136 @@
     "amendedUpToLabel": "20 June 2026",
     "watch": {
       "page": "https://www.secp.gov.pk/laws/acts/",
+      "manual": true
+    }
+  },
+  {
+    "id": "leveraged-markets-pledging-rules-2011",
+    "title": "Securities (Leveraged Markets and Pledging) Rules, 2011",
+    "number": "S.R.O. 128(I)/2011",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Leveraged Markets Rules",
+      "Margin Financing Rules"
+    ],
+    "enacted": "2011-02-18",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 128(I)/2011",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "public-offering-regulated-securities-licensing-regulations-2017",
+    "title": "Public Offering (Regulated Securities Activities Licensing) Regulations, 2017",
+    "number": "S.R.O. 295(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Regulated Securities Licensing Regulations"
+    ],
+    "enacted": "2017-05-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 295(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "commercial-papers-regulations-2013",
+    "title": "Issue of Commercial Papers Regulations, 2013",
+    "number": "S.R.O. 1036(I)/2013",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Commercial Paper Regulations"
+    ],
+    "enacted": "2013-12-04",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1036(I)/2013",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made under section 506A of the Companies Ordinance, 1984, which the Companies Act, 2017 repealed, with the Securities and Exchange Commission of Pakistan Act, 1997; S.R.O. 315(I)/2017 of 8 May 2017 deleted regulations 6, 9 and 11. Confirm whether it is still in force.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "cdc-establishment-regulation-rules-1996",
+    "title": "Central Depository Companies (Establishment and Regulation) Rules, 1996",
+    "number": "S.R.O. 107(K.E.)/96",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "central-depositories-act-1997",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "CDC Rules 1996"
+    ],
+    "enacted": "1996-10-07",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 107(K.E.)/96",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made by the Federal Government under section 33 of the Securities and Exchange Ordinance, 1969. Confirm whether these rules are still in force; central depositories are now governed by the Central Depositories Act, 1997. The forms are not reproduced here.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "securities-exchange-rules-1971",
+    "title": "Securities and Exchange Rules, 1971",
+    "number": "S.R.O. 92(I)/71",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "SE Rules 1971"
+    ],
+    "enacted": "1971-03-19",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 92(I)/71",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2026-06-20",
+    "amendedUpToLabel": "20 June 2026",
+    "caution": "Made by the Securities and Exchange Commission of Pakistan under section 33 of the Securities and Exchange Ordinance, 1969; confirm whether it is still in force. Rules 12 to 15 were omitted by S.R.O. 1234(I)/1985 of 12 December 1985. The schedules and forms are not reproduced here.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
       "manual": true
     }
   }
