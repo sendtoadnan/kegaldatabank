@@ -127,7 +127,7 @@
           "title": "Cancellation of registration of authorized intermediary",
           "text": [
             "(1) The Commission may cancel the registration of an authorized intermediary after providing it an opportunity of hearing, if -",
-            ">(a) the cause of restriction or suspension of registration under rule 5 02-11 continues for a period of not less than ninety days; 33-28-02-11 (b) the authorized intermediary refuses or fails to pay the penalty, if any, imposed by the Commission;",
+            ">(a) the cause of restriction or suspension of registration under rule 5 02-11 continues for a period of not less than ninety days; (b) the authorized intermediary refuses or fails to pay the penalty, if any, imposed by the Commission;",
             ">(c) the Commission determines that cancellation of registration will be in the interest of the capital market;",
             ">(d) a court of competent jurisdiction has passed a winding up order of the authorized intermediary or a resolution has been passed or petition has been filed for voluntary winding-up of the authorized intermediary;",
             ">(e) the Commission, on reasonable grounds, believes that any other person referred to in sub-rule (2) of rule 3 will perform the functions of the authorized intermediary in a better and effective manner;",
@@ -473,7 +473,7 @@
             ">(iii) none of its significant shareholders, directors or chief executive officer, by whatever name called, have-",
             ">(i) remained a significant shareholder, director, chief executive officer, partner of a broker who has been expelled or declared a defaulter on account of default or for any other reason under the stock exchange regulations; or",
             "(11) remained a broker who has been expelled or declared a defaulter on account of default or for any other reason under the stock exchange regulations;",
-            ">(i) such person is a participant or accountholder in a central depository system and its status as a participant or accountholder is not 33-28-02-11 suspended;",
+            ">(i) such person is a participant or accountholder in a central depository system and its status as a participant or accountholder is not suspended;",
             ">(j) such person is a clearing member of a clearing company and its status as a clearing member is not suspended or terminated; and",
             ">(k) such person meets such other requirements as may be specified by the Commission."
           ]
@@ -502,7 +502,7 @@
           "no": "26",
           "title": "Refusal to grant registration",
           "text": [
-            "(1) No application for registration made under rule 25 shall be refused except after giving the applicant an opportunity of being heard. 33-28-02-11 (2) In case the authorized intermediary refuses to grant registration to an applicant, the decision shall be communicated to the applicant stating therein the reasons for such refusal."
+            "(1) No application for registration made under rule 25 shall be refused except after giving the applicant an opportunity of being heard. (2) In case the authorized intermediary refuses to grant registration to an applicant, the decision shall be communicated to the applicant stating therein the reasons for such refusal."
           ]
         },
         {
@@ -530,7 +530,7 @@
             ">(c) it does not furnish the information required by the authorized intermediary or Commission, or furnishes incomplete or incorrect information;",
             ">(d) it refuses or fails to cooperate in any audit, enquiry, inspection or",
             "investigation ordered by the Commission;",
-            ">(e) a court of competent jurisdiction orders winding up or liquidation of the 33-28-02-11 securities lender and borrower; or",
+            ">(e) a court of competent jurisdiction orders winding up or liquidation of the securities lender and borrower; or",
             ">(f) any step has been taken to seek voluntary winding-up of the securities lender and borrower by its shareholders or creditors.",
             "(2) Upon occurrence of any of the events described in sub-rule (1), the Commission may, after providing an opportunity of hearing to a securities lender and borrower, direct the authorized intermediary to cancel the registration of such securities lender and borrower and upon such direction the authorized intermediary shall immediately cancel the registration of such securities lender and borrower."
           ]
@@ -563,7 +563,6 @@
             ">(a) risk management systems, including but not limited to collateral and",
             "margin requirements, exposure margins, position limits, collection of mark to market losses, forms of deposits, etc. ;",
             ">(b) the manner in which the authorized intermediary shall put in place a system whereby the- -",
-            "E: 33-28-02-11",
             ">(i) lender agrees to lend a specified number and class of securities to the borrower at an agreed rate of return, through a platform provided by the authorized intermediary; and",
             ">(il) borrower agrees to borrow a specified number and class of securities at an agreed rate or return and to return the same to the lender, together with the agreed return, through a platform provided by the authorized intermediary.",
             ">(c) selection criteria, including minimum liquidity requirements, for securities which shall be available for lending and borrowing;",

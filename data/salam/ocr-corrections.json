@@ -418,5 +418,397 @@
   "how": "obvious slip: both OCR readings give 'allocatior'; the next line of the rule spells it 'allocation'. Check against the scan.",
   "before": "allocatior",
   "after": "allocation"
+ },
+ {
+  "id": "securities-exchange-rules-1971",
+  "no": "8",
+  "how": "dropped or garbled text restored from the scan page",
+  "before": "Every member shall prepare and maintain, as required by sub-section (1) of section 6, the following books of a",
+  "after": "(a)-(d) restored; bleed-through and running head removed; 'subrule' -> 'sub-rule'"
+ },
+ {
+  "id": "cmc-regulations-2017",
+  "no": "2",
+  "how": "dropped or garbled text restored from the scan page",
+  "before": "electronic form issued in favour of the holder of the receipt by Collateral Management Company against deposit",
+  "after": ">(g) \"electronic warehouse receipt\" or \"EWR\" means an acknowledgment in electronic form issued in favour of th"
+ },
+ {
+  "id": "futures-brokers-regulations-2018",
+  "no": "19",
+  "how": "dropped or garbled text restored from the scan page",
+  "before": "(1) A futures broker shall not deal in futures contracts on account of a customer without prior instructions o",
+  "after": "(1) … / (2) A futures broker shall not execute discretionary trades on behalf of customers in any manner."
+ },
+ {
+  "id": "reinsurance-brokers-regulations-2021",
+  "no": "5",
+  "how": "dropped or garbled text restored from the scan page",
+  "before": "applicant or any person, directly or indirectly connected with the applicant, as a reinsurance broker;",
+  "after": ">(c) earlier refusal, if any, by the Commission for the registration of the applicant or any person, directly "
+ },
+ {
+  "id": "public-sector-companies-cg-rules-2013",
+  "no": "2",
+  "how": "margin page code removed",
+  "before": "A director shall not be considered independent if one or more of the ct-10-CT-0T 20 following circumstance exi",
+  "after": "A director shall not be considered independent if one or more of the following circumstance exist,-"
+ },
+ {
+  "id": "public-sector-companies-cg-rules-2013",
+  "no": "4",
+  "how": "margin page code removed",
+  "before": "(3) The chief executive is responsible for the management of the Public 13-15-07-19 Sector Company and for its",
+  "after": "(3) The chief executive is responsible for the management of the Public Sector Company and for its procedures "
+ },
+ {
+  "id": "public-sector-companies-cg-rules-2013",
+  "no": "17",
+  "how": "margin page code removed",
+  "before": ">(d) appropriate accounting policies have been consistently applied in preparation of financial statements and",
+  "after": ">(d) appropriate accounting policies have been consistently applied in preparation of financial statements and"
+ },
+ {
+  "id": "companies-independent-directors-regulations-2018",
+  "no": "4",
+  "how": "margin page code removed",
+  "before": ">(b) has at least fiteen years of relevant work experience in one or more of 05-30-04-18 (b) has at least fite",
+  "after": ">(b) has at least fiteen years of relevant work experience in one or more of (b) has at least fiteen years of "
+ },
+ {
+  "id": "corporate-rehabilitation-regulations-2019",
+  "no": "4",
+  "how": "margin page code removed",
+  "before": ">(i) has a bachelors degree in law, or masters degree in accounting, banking, finance, management, or equivale",
+  "after": ">(i) has a bachelors degree in law, or masters degree in accounting, banking, finance, management, or equivale"
+ },
+ {
+  "id": "share-registrars-balloters-regulations-2017",
+  "no": "4",
+  "how": "margin page code removed",
+  "before": "information technology from a university or institute recognized by the Higher Education Commission of Pakista",
+  "after": "information technology from a university or institute recognized by the Higher Education Commission of Pakista"
+ },
+ {
+  "id": "share-registrars-balloters-regulations-2017",
+  "no": "12",
+  "how": "margin page code removed",
+  "before": "E2.93-31-01-2017",
+  "after": ""
+ },
+ {
+  "id": "listed-companies-takeovers-regulations-2017",
+  "no": "24",
+  "how": "margin page code removed",
+  "before": "(6) Persons, other than the acquirer, representing or having interest in the 52-20-02-2024 target company or a",
+  "after": "(6) Persons, other than the acquirer, representing or having interest in the target company or an insider or a"
+ },
+ {
+  "id": "listed-companies-takeovers-regulations-2017",
+  "no": "30",
+  "how": "margin page code removed",
+  "before": "R2 52-20-02-2024",
+  "after": ""
+ },
+ {
+  "id": "sukuk-privately-placed-regulations-2017",
+  "no": "2",
+  "how": "margin page code removed",
+  "before": "Special Purpose Vehicle or body corporate, which issues Sukuk through private placement; EZ 01-20-09-17 (f) \"L",
+  "after": "Special Purpose Vehicle or body corporate, which issues Sukuk through private placement; (f) \"Limited Liabilit"
+ },
+ {
+  "id": "companies-deposit-rules-1987",
+  "no": "2",
+  "how": "margin page code removed",
+  "before": ">(e) \"free reserves\" includes any amount which, having been set aside out of the revenue or other surpluses, e",
+  "after": ">(e) \"free reserves\" includes any amount which, having been set aside out of the revenue or other surpluses, e"
+ },
+ {
+  "id": "convertible-debt-right-offer-regulations-2022",
+  "no": "5",
+  "how": "margin page code removed",
+  "before": "(2) After issuance of convertible debt securities, the company shallreport detailed break-up of utilization of",
+  "after": "(2) After issuance of convertible debt securities, the company shallreport detailed break-up of utilization of"
+ },
+ {
+  "id": "joint-inspection-regulations-2015",
+  "no": "19",
+  "how": "margin page code removed",
+  "before": ">(e) ensure that the selection criteria take into account all the relevant factors that will result in selecti",
+  "after": ">(e) ensure that the selection criteria take into account all the relevant factors that will result in selecti"
+ },
+ {
+  "id": "reporting-disclosure-regulations-2015",
+  "no": "3",
+  "how": "margin page code removed",
+  "before": "[(2a) The register maintained under sub-regulation (2) shall be kept at the registered office of the company a",
+  "after": "[(2a) The register maintained under sub-regulation (2) shall be kept at the registered office of the company a"
+ },
+ {
+  "id": "reporting-disclosure-regulations-2015",
+  "no": "5",
+  "how": "margin page code removed",
+  "before": "(2) Every listed company is required to file the information prescribed in sub-regulation (1) with the Commiss",
+  "after": "(2) Every listed company is required to file the information prescribed in sub-regulation (1) with the Commiss"
+ },
+ {
+  "id": "public-offering-regulated-securities-licensing-regulations-2017",
+  "no": "2",
+  "how": "margin page code removed",
+  "before": ">(e) any other related function as may be specified by the Commission from time to time; 61-15-09-2025 [(iva) ",
+  "after": ">(e) any other related function as may be specified by the Commission from time to time; [(iva) \"Companies Act"
+ },
+ {
+  "id": "centralized-kyc-organization-rules-2017",
+  "no": "5",
+  "how": "margin page code removed",
+  "before": ">(d) shareholding and board structure of the applicant to assess its ability to perform its functions as a cen",
+  "after": ">(d) shareholding and board structure of the applicant to assess its ability to perform its functions as a cen"
+ },
+ {
+  "id": "centralized-kyc-organization-rules-2017",
+  "no": "9",
+  "how": "margin page code removed",
+  "before": ">(h) ensure data encryption and technical and administrative controls, to protect the customers against identi",
+  "after": ">(h) ensure data encryption and technical and administrative controls, to protect the customers against identi"
+ },
+ {
+  "id": "customer-compensation-fund-rules-2017",
+  "no": "8",
+  "how": "margin page code removed",
+  "before": "(1) in the event of dissolution of the Fund or winding up of the securities exchanges, the assets of the Fund ",
+  "after": "(1) in the event of dissolution of the Fund or winding up of the securities exchanges, the assets of the Fund "
+ },
+ {
+  "id": "futures-exchanges-regulations-2017",
+  "no": "6",
+  "how": "margin page code removed",
+  "before": "Explanation.- For the purpose of these regulations, net-worth shall be For the purpose calculated as total ass",
+  "after": "Explanation.- For the purpose of these regulations, net-worth shall be For the purpose calculated as total ass"
+ },
+ {
+  "id": "futures-exchanges-regulations-2017",
+  "no": "12",
+  "how": "margin page code removed",
+  "before": "under the applicable regulatory framework; 48-20-08-2023 (e) supervise or conduct any investigation, inspectio",
+  "after": "under the applicable regulatory framework; (e) supervise or conduct any investigation, inspection or enquiry r"
+ },
+ {
+  "id": "futures-exchanges-regulations-2017",
+  "no": "20",
+  "how": "margin page code removed",
+  "before": "(1) any other information that may be deemed material by the futures exchange for disclosure in the annual rep",
+  "after": "(1) any other information that may be deemed material by the futures exchange for disclosure in the annual rep"
+ },
+ {
+  "id": "llp-regulations-2018",
+  "no": "14",
+  "how": "margin page code removed",
+  "before": "(3) Where any change occurs in the particulars of ultimate beneficial owner or his ownership of the LLP, the p",
+  "after": "(3) Where any change occurs in the particulars of ultimate beneficial owner or his ownership of the LLP, the p"
+ },
+ {
+  "id": "llp-regulations-2018",
+  "no": "18",
+  "how": "margin page code removed",
+  "before": "(1) An auditor or auditors of an LLP shall hold office in accordance with the terms ofhis or their appointment",
+  "after": "(1) An auditor or auditors of an LLP shall hold office in accordance with the terms ofhis or their appointment"
+ },
+ {
+  "id": "llp-regulations-2018",
+  "no": "23",
+  "how": "margin page code removed",
+  "before": "(2) The registrar on being satisfied with the application, shall register the R.2 23-15-10-2020 LLP and issue ",
+  "after": "(2) The registrar on being satisfied with the application, shall register the LLP and issue a Certificate of I"
+ },
+ {
+  "id": "credit-suretyship-rules-2018",
+  "no": "3",
+  "how": "margin page code removed",
+  "before": ":: C6-15-08-18",
+  "after": "::"
+ },
+ {
+  "id": "secured-transactions-registry-regulations-2020",
+  "no": "3",
+  "how": "margin page code removed",
+  "before": "(3) A person may apply for a user account by submitting a request to the Registry in a manner as provided on t",
+  "after": "(3) A person may apply for a user account by submitting a request to the Registry in a manner as provided on t"
+ },
+ {
+  "id": "reinsurance-brokers-regulations-2021",
+  "no": "6",
+  "how": "margin page code removed",
+  "before": "F.2 27.20-03-2021",
+  "after": ""
+ },
+ {
+  "id": "securities-managers-regulations-2024",
+  "no": "13",
+  "how": "margin page code removed",
+  "before": ">(a) the customer's qualification, knowledge and understanding of the relevant financial markets, types of fin",
+  "after": ">(a) the customer's qualification, knowledge and understanding of the relevant financial markets, types of fin"
+ },
+ {
+  "id": "securities-managers-regulations-2024",
+  "no": "15",
+  "how": "margin page code removed",
+  "before": ">(vill) ensure that a periodic or annual review of the internal control E2.58-10-01-2025 system and assessment",
+  "after": ">(vill) ensure that a periodic or annual review of the internal control system and assessment of overall level"
+ },
+ {
+  "id": "leveraged-markets-pledging-rules-2011",
+  "no": "6",
+  "how": "margin page code removed",
+  "before": ">(a) the cause of restriction or suspension of registration under rule 5 02-11 continues for a period of not l",
+  "after": ">(a) the cause of restriction or suspension of registration under rule 5 02-11 continues for a period of not l"
+ },
+ {
+  "id": "leveraged-markets-pledging-rules-2011",
+  "no": "24",
+  "how": "margin page code removed",
+  "before": ">(i) such person is a participant or accountholder in a central depository system and its status as a particip",
+  "after": ">(i) such person is a participant or accountholder in a central depository system and its status as a particip"
+ },
+ {
+  "id": "leveraged-markets-pledging-rules-2011",
+  "no": "26",
+  "how": "margin page code removed",
+  "before": "(1) No application for registration made under rule 25 shall be refused except after giving the applicant an o",
+  "after": "(1) No application for registration made under rule 25 shall be refused except after giving the applicant an o"
+ },
+ {
+  "id": "leveraged-markets-pledging-rules-2011",
+  "no": "28",
+  "how": "margin page code removed",
+  "before": ">(e) a court of competent jurisdiction orders winding up or liquidation of the 33-28-02-11 securities lender a",
+  "after": ">(e) a court of competent jurisdiction orders winding up or liquidation of the securities lender and borrower;"
+ },
+ {
+  "id": "leveraged-markets-pledging-rules-2011",
+  "no": "30",
+  "how": "margin page code removed",
+  "before": "E: 33-28-02-11",
+  "after": ""
+ },
+ {
+  "id": "corporate-rehabilitation-act-2018",
+  "no": "7",
+  "how": "margin page code removed",
+  "before": ">(e) claims or interests that w'\" be impaired under the plan of rehabilitation; B6 80-30-04-18 (f) places of b",
+  "after": ">(e) claims or interests that w'\" be impaired under the plan of rehabilitation; (f) places of business of the "
+ },
+ {
+  "id": "corporate-rehabilitation-act-2018",
+  "no": "13",
+  "how": "margin page code removed",
+  "before": "(4) A class that is not impaired under a plan of rehabilitation and each holder of a claim or interest of such",
+  "after": "(4) A class that is not impaired under a plan of rehabilitation and each holder of a claim or interest of such"
+ },
+ {
+  "id": "corporate-rehabilitation-act-2018",
+  "no": "32",
+  "how": "margin page code removed",
+  "before": ">(iv) payment for goods supplied to the debtor in the ordinary 86-30-04-18 course of its business; and",
+  "after": ">(iv) payment for goods supplied to the debtor in the ordinary course of its business; and"
+ },
+ {
+  "id": "commercial-papers-regulations-2013",
+  "no": "12",
+  "how": "margin page code removed",
+  "before": ">(c) ensure that the quantum of amount proposed to be raised through issuance of the Commercial Paper is withi",
+  "after": ">(c) ensure that the quantum of amount proposed to be raised through issuance of the Commercial Paper is withi"
+ },
+ {
+  "id": "share-registrars-balloters-regulations-2017",
+  "no": "12",
+  "how": "paragraph that was only a margin page code removed",
+  "before": "E2.93-31-01-2017",
+  "after": ""
+ },
+ {
+  "id": "listed-companies-takeovers-regulations-2017",
+  "no": "30",
+  "how": "paragraph that was only a margin page code removed",
+  "before": "R2 52-20-02-2024",
+  "after": ""
+ },
+ {
+  "id": "reinsurance-brokers-regulations-2021",
+  "no": "6",
+  "how": "paragraph that was only a margin page code removed",
+  "before": "F.2 27.20-03-2021",
+  "after": ""
+ },
+ {
+  "id": "leveraged-markets-pledging-rules-2011",
+  "no": "30",
+  "how": "paragraph that was only a margin page code removed",
+  "before": "E: 33-28-02-11",
+  "after": ""
+ },
+ {
+  "id": "insider-information-regulations-2016",
+  "no": "1",
+  "how": "OCR slip, corrected on the user's instruction (check against scan)",
+  "before": "(1) These Regulations shall be called the Access to Insider Information Regulations. 2016.",
+  "after": "(1) These Regulations shall be called the Access to Insider Information Regulations, 2016."
+ },
+ {
+  "id": "insider-information-regulations-2016",
+  "no": "2",
+  "how": "merged paragraphs split; capital I of 'inclusion' lowered (user's instruction; check against scan)",
+  "before": "(1) All listed companies shall maintain and regularly update",
+  "after": "n, in a manner as provided at Annexure-I | (2) For the purpose of sub-regulation (1"
+ },
+ {
+  "id": "employees-contributory-funds-investment-regulations-2018",
+  "no": "2",
+  "how": "dropped or merged text restored from the independent reading (check against scan)",
+  "before": "case may be, either by the employees or the company or both;",
+  "after": ">(c) \"contribution\" means all the money contributed to fund or trust, as the case may be, either by the employ"
+ },
+ {
+  "id": "oversight-regulations-accountants-2020",
+  "no": "3",
+  "how": "dropped or merged text restored from the independent reading (check against scan)",
+  "before": "(a) … (c) base the frequency",
+  "after": "inserted (b) adopt a risk-based approach …"
+ },
+ {
+  "id": "llp-regulations-2018",
+  "no": "18",
+  "how": "merged sub-regulations split",
+  "before": "(1) An auditor or auditors of an LLP shall hold office in accordance with the terms ofhis or their appointment",
+  "after": "(1) … / (2) The remuneration …"
+ },
+ {
+  "id": "securities-exchange-rules-1971",
+  "no": "2",
+  "how": "merged items split",
+  "before": ">(c) \"form\" means a form set out in the First Schedule; [(d) \"net capital\" means excess of current assets over",
+  "after": "(c) … / [(d) …"
+ },
+ {
+  "id": "securities-futures-advisers-regulations-2017",
+  "no": "10",
+  "how": "OCR slip: closing bracket read as ')' (check against scan)",
+  "before": "[and/) or futures adviser",
+  "after": "[and/] or futures adviser"
+ },
+ {
+  "id": "securities-futures-advisers-regulations-2017",
+  "no": "21",
+  "how": "OCR slip: closing bracket read as ')' (check against scan)",
+  "before": "[and/) or futures adviser",
+  "after": "[and/] or futures adviser"
+ },
+ {
+  "id": "securities-futures-advisers-regulations-2017",
+  "no": "22",
+  "how": "OCR slip: closing bracket read as ')' (check against scan)",
+  "before": "[and/) or futures adviser",
+  "after": "[and/] or futures adviser"
  }
 ]
