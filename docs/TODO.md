@@ -101,3 +101,18 @@ Measured 19 Nov 2026 (after the Public Offering update and the CRC Rules) by `py
 | 41 | Sections to identify, batch 6 (ss.472–506) — last unsearched sections | Claude | 1 Nov 2026 | ss.472, 506 (Companies Regulations 2024, regs. 94 and 30) and 482 (s.37 SECP Act notification, to confirm) linked; 474, 475, 484 set in each order |
 | 39 | Sections to identify, batch 5 (ss.423–470) | Claude | 1 Nov 2026 | ss.423, 446 (447), 461, 470 linked; 440, 454, 456, 457, 459, 467 left open |
 | 35 | Sections to identify, batch 4 (ss.351–420) | Claude | 1 Nov 2026 | ss.351, 357, 359, 369, 415, 416 linked to the Court Rules 1997; 362, 376, 396, 420 left open |
+
+
+## Your checks: what Claude has asked you to do, and where each stands
+Updated whenever Claude asks for something or you report back. Status: Done / Pending.
+
+| Date | Asked of you | Status |
+|---|---|---|
+| 19 Nov 2026 | Check the 47 converted instruments against the scans, starting from `verification/index.html` (task 64) | Pending: 0 of 47 ticked; insider-information-regulations-2016 opened 20 Nov, nothing ticked yet |
+| 19 Nov 2026 | Check the 13 replaced Public Offering regulations, esp. 3, 6, 7, 15 (`verification/public-offering-update/index.html`) | Pending |
+| 19 Nov 2026 | Look at the CRC Rules 2019 check page | Pending |
+| 19 Nov 2026 | Scan the pages listed in `docs/SCAN_GAPS.md` (task 68) | Pending |
+| 19 Nov 2026 | Scan the missing NBFC Rules pages V-17 to V-85 (task 67) | Pending |
+| 19 Nov 2026 | Scan Volume II Part 2 (task 61) | Pending |
+| 19 Nov 2026 | Say "merge it when green" for PR #32 when satisfied | Pending |
+| 20 Nov 2026 | Decide how to fix 3 likely OCR slips in insider-information-regulations-2016 | Done: you said fix all three; fixed, still to tick |

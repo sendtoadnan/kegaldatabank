@@ -747,5 +747,19 @@
   "how": "paragraph that was only a margin page code removed",
   "before": "E: 33-28-02-11",
   "after": ""
+ },
+ {
+  "id": "insider-information-regulations-2016",
+  "no": "1",
+  "how": "OCR slip, corrected on the user's instruction (check against scan)",
+  "before": "(1) These Regulations shall be called the Access to Insider Information Regulations. 2016.",
+  "after": "(1) These Regulations shall be called the Access to Insider Information Regulations, 2016."
+ },
+ {
+  "id": "insider-information-regulations-2016",
+  "no": "2",
+  "how": "merged paragraphs split; capital I of 'inclusion' lowered (user's instruction; check against scan)",
+  "before": "(1) All listed companies shall maintain and regularly update",
+  "after": "n, in a manner as provided at Annexure-I | (2) For the purpose of sub-regulation (1"
  }
 ]
