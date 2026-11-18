@@ -278,7 +278,8 @@
    "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
    "fileHint": "Part 2",
    "number": "S.R.O. 373(I)/1975",
-   "enacted": "1975-04-02"
+   "enacted": "1975-04-02",
+   "startAt": "Notification No\\.?\\s*S\\.?R\\.?O\\.?\\s*373"
   },
   {
    "id": "companies-management-by-administrator-rules-1993",
@@ -949,7 +950,8 @@
    "number": "S.R.O. 92(I)/71",
    "enacted": "1971-03-19",
    "allowJump": true,
-   "caution": "Made by the Securities and Exchange Commission of Pakistan under section 33 of the Securities and Exchange Ordinance, 1969; confirm whether it is still in force. Rules 12 to 15 were omitted by S.R.O. 1234(I)/1985 of 12 December 1985. The schedules and forms are not reproduced here."
+   "caution": "Made by the Securities and Exchange Commission of Pakistan under section 33 of the Securities and Exchange Ordinance, 1969; confirm whether it is still in force. Rules 12 to 15 were omitted by S.R.O. 1234(I)/1985 of 12 December 1985. The schedules and forms are not reproduced here.",
+   "contentsPage": "I-29"
   },
   {
    "id": "leveraged-markets-pledging-rules-2011",
@@ -967,7 +969,8 @@
    "scanFrom": 196,
    "scanTo": 223,
    "batch": 4,
-   "titleFromText": true
+   "titleFromText": true,
+   "contentsPage": "I-83"
   },
   {
    "id": "corporate-rehabilitation-act-2018",
@@ -985,7 +988,8 @@
    "scanFrom": 357,
    "scanTo": 381,
    "batch": 4,
-   "titleFromText": true
+   "titleFromText": true,
+   "contentsPage": "I-241"
   },
   {
    "id": "commercial-papers-regulations-2013",
@@ -1005,7 +1009,8 @@
    "titleFromText": true,
    "number": "S.R.O. 1036(I)/2013",
    "enacted": "2013-12-04",
-   "caution": "Made under section 506A of the Companies Ordinance, 1984, which the Companies Act, 2017 repealed, with the Securities and Exchange Commission of Pakistan Act, 1997; S.R.O. 315(I)/2017 of 8 May 2017 deleted regulations 6, 9 and 11. Confirm whether it is still in force."
+   "caution": "Made under section 506A of the Companies Ordinance, 1984, which the Companies Act, 2017 repealed, with the Securities and Exchange Commission of Pakistan Act, 1997; S.R.O. 315(I)/2017 of 8 May 2017 deleted regulations 6, 9 and 11. Confirm whether it is still in force.",
+   "contentsPage": "III-69"
   },
   {
    "id": "cdc-establishment-regulation-rules-1996",
@@ -1026,7 +1031,8 @@
    "number": "S.R.O. 107(K.E.)/96",
    "enacted": "1996-10-07",
    "caution": "Made by the Federal Government under section 33 of the Securities and Exchange Ordinance, 1969. Confirm whether these rules are still in force; central depositories are now governed by the Central Depositories Act, 1997. The forms are not reproduced here.",
-   "parent": "central-depositories-act-1997"
+   "parent": "central-depositories-act-1997",
+   "contentsPage": "IV-27"
   },
   {
    "id": "commodity-exchange-futures-contracts-rules-2005",
@@ -1063,7 +1069,8 @@
    "scanTo": 69,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026: pages missing from the scanned binder: page IV-148 (sections 6 and 7). Rescan them, then rerun."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: page IV-148 (sections 6 and 7). Rescan them, then rerun.",
+   "contentsPage": "IV-141"
   },
   {
    "id": "stock-exchanges-demutualization-regulations-2012",
@@ -1081,7 +1088,8 @@
    "scanTo": 126,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026: pages missing from the scanned binder: pages IV-200 and IV-208 (text missing mid-regulation; pages at the end are out of order). Rescan them, then rerun."
+   "hold": "16 Nov 2026: pages missing from the scanned binder: pages IV-200 and IV-208 (text missing mid-regulation; pages at the end are out of order). Rescan them, then rerun.",
+   "contentsPage": "IV-161"
   },
   {
    "id": "nbfc-notified-entities-regulations-2008",
@@ -1100,7 +1108,68 @@
    "scanTo": 432,
    "batch": 4,
    "titleFromText": true,
-   "hold": "16 Nov 2026: OCR of all 267 pages done and kept in the cache; the text jumps from the end of regulation 2 (scan 183, VA-14) to the middle of regulation 9 (scan 184, VA-15), so the page(s) with regulations 3 to 9(1)(a) are not in the scan; regulations 5, 6, 13, 27, 35, 46-53 and 65 are marked Deleted in its arrangement list. Also needs the forms interleaved before regulations 68 and 69 handled (stops at the first form). Rescan the missing page(s), then rerun."
+   "hold": "16 Nov 2026: OCR of all 267 pages done and kept in the cache; the text jumps from the end of regulation 2 (scan 183, VA-14) to the middle of regulation 9 (scan 184, VA-15), so the page(s) with regulations 3 to 9(1)(a) are not in the scan; regulations 5, 6, 13, 27, 35, 46-53 and 65 are marked Deleted in its arrangement list. Also needs the forms interleaved before regulations 68 and 69 handled (stops at the first form). Rescan the missing page(s), then rerun.",
+   "contentsPage": "VA-1"
+  },
+  {
+   "id": "companies-incorporation-regulations-2017",
+   "title": "Companies (Incorporation) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Incorporation Regulations 2017"
+   ],
+   "status": "repealed",
+   "caution": "Repealed by S.R.O. 210(I)/2024 of 12 February 2024; kept for cases about past periods.",
+   "part": "III",
+   "from": 489,
+   "to": 510,
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "fileHint": "Part 2",
+   "batch": 5,
+   "titleFromText": false,
+   "hold": "19 Nov 2026: not convertible: the book itself marks pages 491 to 510(2) 'deleted due to update' and regulations 1 to 3(2) are not in the scan (repealed by S.R.O. 210(I)/2024 anyway)."
+  },
+  {
+   "id": "intermediaries-registration-regulations-2017",
+   "title": "Intermediaries (Registration) Regulations, 2017",
+   "type": "regulations",
+   "unit": "Regulation",
+   "parent": "companies-act-2017",
+   "aliases": [
+    "Intermediaries Regulations 2017"
+   ],
+   "status": "repealed",
+   "caution": "Repealed by S.R.O. 210(I)/2024 of 12 February 2024; kept for cases about past periods.",
+   "part": "III",
+   "from": 511,
+   "to": 528,
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "fileHint": "Part 2",
+   "batch": 5,
+   "titleFromText": false,
+   "hold": "19 Nov 2026: not convertible: the book itself marks pages 513 to 527 'deleted due to update'; only fragments remain (repealed by S.R.O. 210(I)/2024 anyway)."
+  },
+  {
+   "id": "corporate-restructuring-companies-rules-2019",
+   "title": "Corporate Restructuring Companies Rules, 2019",
+   "type": "rules",
+   "unit": "Rule",
+   "aliases": [
+    "CRC Rules 2019"
+   ],
+   "part": "III",
+   "from": 1011,
+   "to": 1024,
+   "amendedUpTo": "2026-06-20",
+   "amendedUpToLabel": "20 June 2026",
+   "fileHint": "Part 2",
+   "batch": 5,
+   "titleFromText": false,
+   "hold": "19 Nov 2026: converted cleanly (11 rules, S.R.O. 1306(I)/2019 of 1 Nov 2019, no leaks) but not published: task 31 records that you deferred the CRC Rules 2019. Say the word and it goes in (run `python3 tools/ocr/book_to_json.py` with BOOK_LINES set and remove this hold)."
   }
  ]
 }
