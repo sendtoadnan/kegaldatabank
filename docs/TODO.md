@@ -19,7 +19,7 @@ Re-measured 20 Nov 2026: **unchanged** (no instrument added since 19 Nov; the wo
 | Instruments taken from the book checked against a scan by a person (Verified) | **0 of 47** (task 64; every one is marked Unverified) |
 | Left: not scanned yet (Volume II Part 2) | 16 instruments (task 61) |
 | Left: scanned, blocked by missing pages or needing converter work | 12 (tasks 67, 68) |
-| Left: scanned, not yet converted | 11, but checked 19 Nov: most lack pages in the scans or are not law text (Prudential Regulations for NBFCs are not in the scans at all); realistically 2 or 3 can still be done |
+| Left: scanned, not yet converted | 11, checked again 20 Nov: **none can be converted without inventing text**: 8 lack pages in the scans (task 68), the NBFC 2008 Regulations lack pages (task 67), the rest are repealed and the book keeps only fragments (Registration Offices, Incorporation, Intermediaries, Commodity Exchange). They move only when you scan the missing pages |
 | Left: repealed instruments, not yet added as "repealed" | 6 |
 
 ## Open
@@ -116,3 +116,4 @@ Updated whenever Claude asks for something or you report back. Status: Done / Pe
 | 19 Nov 2026 | Scan Volume II Part 2 (task 61) | Pending |
 | 19 Nov 2026 | Say "merge it when green" for PR #32 when satisfied | Pending |
 | 20 Nov 2026 | Decide how to fix 3 likely OCR slips in insider-information-regulations-2016 | Done: you said fix all three; fixed, still to tick |
+| 20 Nov 2026 | (Result of 'convert the remaining 2 or 3') nothing more can be converted from what is scanned; the only way to raise the 61% is the scans in tasks 67, 68 and 61 | Pending (your scans) |
