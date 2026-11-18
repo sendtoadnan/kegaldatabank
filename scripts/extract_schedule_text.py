@@ -3,6 +3,7 @@
 
     python3 scripts/extract_schedule_text.py            # every instrument that has a PDF in sources/pdf/
     python3 scripts/extract_schedule_text.py <id> ...
+    SCHEDULE_PDF_DIRS="<folder>" python3 scripts/extract_schedule_text.py income-tax-rules-2002   # PDF too large for git
 
 Schedules are shown on the site as links into the official PDF, so their words were invisible to
 search. This writes data/schedule-text/<id>.json: for each schedule listed in data/acts/<id>.json,
@@ -12,6 +13,7 @@ search index and to the filter box on the instrument page, always linking back t
 Re-run after re-extracting an instrument or changing its PDF.
 """
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -31,6 +33,12 @@ def clean(text):
 def extract(act):
     pdf = act.get("sourcePdf")
     path = ROOT / "sources" / "pdf" / pdf if pdf else None
+    if pdf and (not path or not path.exists()):
+        # PDFs too large for git (remotePdf) can be found in folders named in SCHEDULE_PDF_DIRS (colon-separated)
+        for d in filter(None, os.environ.get("SCHEDULE_PDF_DIRS", "").split(":")):
+            if (Path(d) / pdf).exists():
+                path = Path(d) / pdf
+                break
     if not path or not path.exists():
         return None
     doc = fitz.open(path)
