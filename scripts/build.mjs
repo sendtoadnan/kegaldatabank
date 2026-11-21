@@ -453,7 +453,7 @@ ${body}
         const ordLink = (n) => (otherNos.has(n) ? `<a href="../${c.otherId}/index.html#${provisionAnchor(n)}">${e(n)}</a>` : e(n));
         const ord = (n) => `${ordLink(n)}${c.titles?.[n] ? ` <span class="muted small">${e(c.titles[n])}</span>` : ''}`;
         const rows = c.pairs
-          .map((p) => `<tr id="s-${p.a}"${p.src === 'differs' ? ' class="differs"' : ''}><td>${secLink(p.a)}</td><td>${e(byNo.get(p.a)?.title || '')}</td><td>${p.o.length ? p.o.map(ord).join('<br>') : '<span class="muted">— (new section)</span>'}${p.alt ? `<br><span class="badge warn">The two comparisons differ</span> <span class="muted small">the other lists: ${p.alt.length ? p.alt.map(ordLink).join(', ') : 'none'}</span>` : ''}</td></tr>`)
+          .map((p) => `<tr id="s-${p.a}"${p.src === 'differs' ? ' class="differs"' : ''}><td>${secLink(p.a)}</td><td>${e(byNo.get(p.a)?.title || '')}</td><td>${p.o.length ? p.o.map(ord).join('<br>') : '<span class="muted">— (new section)</span>'}${p.alt ? `<br><span class="badge warn">The two comparisons differ</span> <span class="muted small">the other lists: ${p.alt.length ? p.alt.map(ordLink).join(', ') : 'none'}</span>` : ''}${p.note ? `<br><span class="muted small">${e(p.note)}</span>` : ''}</td></tr>`)
           .join('');
         const nDiff = c.pairs.filter((p) => p.src === 'differs').length;
         write(

@@ -2,7 +2,7 @@
  "act": "companies-act-2017",
  "otherTitle": "Companies Ordinance, 1984",
  "otherId": "companies-ordinance-1984",
- "_about": "For each section of the Companies Act, 2017, the section of the Companies Ordinance, 1984 that deals with the same matter, read from two printed comparisons (where they differ, both are shown); the Ordinance's section headings are from its own contents list. The Ordinance was repealed by the Act, except Part VIIIA. A dash means the Ordinance has no counterpart (the section of the Act is new).",
+ "_about": "For each section of the Companies Act, 2017, the section of the Companies Ordinance, 1984 that deals with the same matter, read from two printed comparisons (where they differ, both are shown); the Ordinance's section headings are from its own contents list. The Ordinance was repealed by the Act, except Part VIIIA. A dash means the Ordinance has no counterpart (the section of the Act is new). Differing rows were re-read against a second print of the printed table on 22 Nov 2026: 505 and 246 corrected, 226 and 249 confirmed, the other eight remain differences between the two sources (the printed table shows no counterpart; the other comparison pairs by subject).",
  "status": "unverified",
  "coverage": [
   [
@@ -1995,7 +1995,8 @@
    "alt": [
     "233"
    ],
-   "src": "differs"
+   "src": "differs",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "224",
@@ -2008,15 +2009,16 @@
    "alt": [
     "234"
    ],
-   "src": "differs"
+   "src": "differs",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "226",
    "o": [
     "236"
    ],
-   "alt": [],
-   "src": "differs"
+   "src": "both",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first. The other comparison lists none."
   },
   {
    "a": "227",
@@ -2134,7 +2136,8 @@
    "alt": [
     "251"
    ],
-   "src": "differs"
+   "src": "differs",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "244",
@@ -2149,13 +2152,11 @@
   {
    "a": "246",
    "o": [
-    "252"
-   ],
-   "alt": [
     "252",
     "253"
    ],
-   "src": "differs"
+   "src": "both",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "247",
@@ -2176,8 +2177,8 @@
    "o": [
     "255"
    ],
-   "alt": [],
-   "src": "differs"
+   "src": "both",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first. The other comparison lists none."
   },
   {
    "a": "250",
@@ -3721,7 +3722,8 @@
    "alt": [
     "475"
    ],
-   "src": "differs"
+   "src": "differs",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "477",
@@ -3729,7 +3731,8 @@
    "alt": [
     "474"
    ],
-   "src": "differs"
+   "src": "differs",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "478",
@@ -3761,7 +3764,8 @@
    "alt": [
     "476"
    ],
-   "src": "differs"
+   "src": "differs",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "483",
@@ -3783,7 +3787,8 @@
    "alt": [
     "479"
    ],
-   "src": "differs"
+   "src": "differs",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "486",
@@ -3791,7 +3796,8 @@
    "alt": [
     "480"
    ],
-   "src": "differs"
+   "src": "differs",
+   "note": "A second print of the printed table (December 2021 edition) agrees with the first."
   },
   {
    "a": "487",
@@ -3921,11 +3927,11 @@
   },
   {
    "a": "505",
-   "o": [],
-   "alt": [
+   "o": [
     "503"
    ],
-   "src": "differs"
+   "src": "both",
+   "note": "Both prints of the printed table read 503 (the first print was misread); the other comparison agrees."
   },
   {
    "a": "506",
