@@ -3071,5 +3071,113 @@
       "page": "https://www.secp.gov.pk/laws/regulations/",
       "manual": true
     }
+  },
+  {
+    "id": "private-funds-regulations-2015",
+    "title": "Private Funds Regulations, 2015",
+    "number": "S.R.O. 1159(I)/2015",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Private Funds Regulations"
+    ],
+    "enacted": "2015-11-25",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1159(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Regulation 8's heading is the unnumbered line printed above it; the group heading \"Investment Conditions and Restrictions\" is omitted.",
+    "sourceNotes": "Regulation 8 was split out of regulation 7 by hand (21 Nov 2026): its heading line is printed above its number and was read as part of regulation 7.",
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "structuring-debt-securities-regulations-2020",
+    "title": "Structuring of Debt Securities Regulations, 2020",
+    "number": "S.R.O. 15(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Debt Securities Regulations"
+    ],
+    "enacted": "2017-01-11",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 15(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Chapter II (regulations 3 to 10, licensing of debt securities trustees) was deleted by S.R.O. 1384(I)/2020; the book prints the deleted wording in footnotes, which is not reproduced here.",
+    "numberingGaps": [3, 4, 5, 6, 7, 8, 9, 10],
+    "sourceNotes": "Regulations 7, 9 and 10 as first read were the book's footnote quotations of the deleted Chapter II and were removed by hand (21 Nov 2026).",
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "collateral-management-companies-regulations-2019",
+    "title": "Collateral Management Companies Regulations, 2019",
+    "number": "S.R.O. 890(I)/2019",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Collateral Management Regulations"
+    ],
+    "enacted": "2019-07-31",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 890(I)/2019",
+      "url": "https://www.secp.gov.pk"
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Regulation 22 is not printed in this edition (the book's footnote records the renumbering made by S.R.O. 915(I)/2020).",
+    "numberingGaps": [22],
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "stock-exchanges-demutualization-regulations-2012",
+    "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012",
+    "number": "S.R.O. 750(I)/2012",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Demutualization Regulations"
+    ],
+    "enacted": "2012-06-18",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 750(I)/2012",
+      "url": "https://www.secp.gov.pk"
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan.",
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
   }
 ]

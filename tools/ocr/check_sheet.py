@@ -59,6 +59,11 @@ t+=c.dataset.no+": "+(c.checked?"OK":"not ticked")+(n.value?" — "+n.value:"")+
 </script>''')
     index.append((nflag, i, act["title"], sum(len(p["sections"]) for p in act["parts"])))
     print(out / "index.html")
-index.sort(reverse=True)
+# keep one record per instrument across runs (the index lists every check page, not only the ones made in this run)
+_ij = ROOT / "verification" / "index.json"
+_old = json.load(open(_ij)) if _ij.exists() else {}
+for _w, _i, _t, _n in index: _old[_i] = [_w, _t, _n]
+json.dump(_old, open(_ij, "w"), ensure_ascii=False, indent=0)
+index = sorted(([v[0], k, v[1], v[2]] for k, v in _old.items() if (ROOT / "verification" / k / "index.html").exists()), reverse=True)
 (ROOT / "verification" / "index.html").write_text("<!doctype html><meta charset=utf-8><title>Check pages</title><style>body{font:15px/1.6 Georgia,serif;max-width:900px;margin:20px auto}td,th{padding:3px 10px;text-align:left}</style><h1>Instruments to check, most warnings first</h1><p>Tick each provision on its page; your ticks are saved in the browser. The warnings come from a second reading of the scan and a structure check, so they say where to look first, not what is wrong.</p><table><tr><th>Instrument</th><th>Provisions</th><th>Warnings</th></tr>" + "".join(f'<tr><td><a href="{i}/index.html">{html.escape(t)}</a></td><td>{n}</td><td>{w}</td></tr>' for w, i, t, n in index) + "</table>")
 print("index:", ROOT / "verification" / "index.html")
