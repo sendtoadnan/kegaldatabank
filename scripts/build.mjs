@@ -209,9 +209,9 @@ ${body}
     const otherLaw = (i) => (i.madeUnder ? ` <span class="badge other">Other law</span> <span class="muted small">made under ${e(i.madeUnder)}</span>` : '');
     // Section of the law this Act replaced that deals with the same matter, from data/comparison/.
     const cmp = (extras.comparisons || []).find((x) => x.act === act.id);
-    const cmpMap = new Map((cmp?.pairs || []).map((p) => [p.a, p.o]));
+    const cmpMap = new Map((cmp?.pairs || []).map((p) => [p.a, p]));
     const ordLine = (no) => (cmp && cmpMap.has(no)
-      ? `<p class="prov-ord muted small">${e(cmp.otherTitle)}: ${cmpMap.get(no).length ? `section ${cmpMap.get(no).map(e).join(', ')}` : 'no corresponding section'} · <a href="${cmp.id}.html">comparison</a></p>` : '');
+      ? `<p class="prov-ord muted small">${e(cmp.otherTitle)}: ${cmpMap.get(no).o.length ? `section ${cmpMap.get(no).o.map(e).join(', ')}` : 'no corresponding section'}${cmpMap.get(no).alt ? ` (the other comparison lists ${cmpMap.get(no).alt.length ? cmpMap.get(no).alt.map(e).join(', ') : 'none'})` : ''} · <a href="${cmp.id}.html#s-${no}">comparison</a></p>` : '');
     // Instruments related to each section: those in the library that cite it, then the register's entries.
     const relatedTo = (no) => {
       const out = [...(cited.get(no)?.values() || [])].map(
@@ -446,9 +446,11 @@ ${body}
       for (const c of (extras.comparisons || []).filter((x) => x.act === act.id)) {
         const byNo = new Map(act.parts.flatMap((p) => p.sections).map((s) => [s.no, s]));
         const secLink = (n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`;
+        const ord = (n) => `${e(n)}${c.titles?.[n] ? ` <span class="muted small">${e(c.titles[n])}</span>` : ''}`;
         const rows = c.pairs
-          .map((p) => `<tr><td>${secLink(p.a)}</td><td>${e(byNo.get(p.a)?.title || '')}</td><td>${p.o.length ? p.o.map((o) => e(o)).join(', ') : '<span class="muted">— (new)</span>'}</td></tr>`)
+          .map((p) => `<tr id="s-${p.a}"${p.src === 'differs' ? ' class="differs"' : ''}><td>${secLink(p.a)}</td><td>${e(byNo.get(p.a)?.title || '')}</td><td>${p.o.length ? p.o.map(ord).join('<br>') : '<span class="muted">— (new section)</span>'}${p.alt ? `<br><span class="badge warn">The two comparisons differ</span> <span class="muted small">the other lists: ${p.alt.length ? p.alt.map(e).join(', ') : 'none'}</span>` : ''}</td></tr>`)
           .join('');
+        const nDiff = c.pairs.filter((p) => p.src === 'differs').length;
         write(
           `acts/${act.id}/${c.id}.html`,
           layout({
@@ -461,13 +463,12 @@ ${body}
     <p class="crumbs"><a href="${base}index.html">Library</a> / <a href="index.html">${e(act.title)}</a></p>
     <h1>${e(act.title)} compared with the ${e(c.otherTitle)}</h1>
     <p>${e(c._about)}</p>
-    <p class="note-box"><strong>Not complete yet.</strong> ${e(c.missing)} <strong>Unverified:</strong> read from a printed table and still to be checked against it.</p>
-    <p class="muted small">Sections shown: ${c.coverage.map((r) => `${e(r[0])} to ${e(r[1])}`).join(' and ')} (${c.pairs.length} sections).</p>
+    <p class="note-box"><strong>Unverified.</strong> ${c.pairs.length} sections of the Act. ${nDiff} are marked where the two comparisons differ. ${e(c.missing)}</p>
     <div class="table-wrap"><table class="sources-table related-table">
       <thead><tr><th>${e(act.title)}</th><th>Heading</th><th>${e(c.otherTitle)}, section</th></tr></thead>
       <tbody>${rows}</tbody>
     </table></div>
-    ${c.onlyOrdinance?.length ? `<h2>Sections of the Ordinance with no counterpart in the Act</h2><p class="muted small">Within the ranges above: ${c.onlyOrdinance.map(e).join(', ')}.</p>` : ''}
+    ${c.unmatchedOrdinance?.length ? `<h2>Sections of the Ordinance not matched to a section of the Act</h2><p class="muted small">Omitted, or merged into another section: ${c.unmatchedOrdinance.map((n) => ord(n)).join('; ')}.</p>` : ''}
   </section>`,
           })
         );

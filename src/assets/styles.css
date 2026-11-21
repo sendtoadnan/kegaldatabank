@@ -318,3 +318,5 @@ select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid
 .idx-item[hidden], .idx-group[hidden] { display: none; }
 .idx-title { font-weight: 600; }
 .idx-meta { display: block; font-family: var(--sans); font-size: 0.82rem; color: var(--muted); margin-top: 2px; }
+
+.related-table tr.differs td { background: var(--warn-bg); }
