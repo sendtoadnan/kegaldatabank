@@ -1,0 +1,4065 @@
+{
+ "act": "companies-act-2017",
+ "otherTitle": "Companies Ordinance, 1984",
+ "otherId": "companies-ordinance-1984",
+ "_about": "For each section of the Companies Act, 2017, the section of the Companies Ordinance, 1984 that deals with the same matter, read from two printed comparisons (where they differ, both are shown); the Ordinance's section headings are from its own contents list. The Ordinance was repealed by the Act, except Part VIIIA. A dash means the Ordinance has no counterpart (the section of the Act is new).",
+ "status": "unverified",
+ "coverage": [
+  [
+   "1",
+   "515"
+  ]
+ ],
+ "sources": "both = the two comparisons agree; differs = they differ (book first, other beside it); index = one comparison only (the book's pages are not held for these sections).",
+ "missing": "Sections 60A, 83A, 123A and 458A (added by later amendments) are not in either comparison.",
+ "titles": {
+  "240": "Balance-sheet of modaraba company to include modaraba accounts, etc",
+  "474": "Cognizance of offences, etc",
+  "49": "Service of documents on registrar",
+  "448": "Directions as to property in certain cases",
+  "145": "Publication of authorised as well as paid-up-capital",
+  "446": "Power to stay or restrain proceedings",
+  "259": "Penalty for non-compliance with provisions by companies",
+  "212": "Execution of deeds",
+  "248": "Certain restrictions on declaration of dividends",
+  "476": "Punishment and adjudication of fine or penalty",
+  "304": "Contributories in case of winding up of a body corporate which is a member",
+  "246": "Power of Commission to require submission of additional statements of accounts and reports",
+  "351": "Power to summon persons suspected of having property of company",
+  "423": "Documents of company to be evidence",
+  "173": "Minutes of proceedings of general meetings and directors",
+  "247": "Rights of debenture-holders, etc., as to receipt and inspection of report, etc",
+  "255": "Powers and duties of auditors",
+  "382": "Final meeting and dissolution",
+  "230": "Books of accounts to be kept by the company",
+  "15": "Mode of forming a company",
+  "130": "Copy of instrument creating mortgage or charge to be kept at registered office",
+  "362": "Declaration of solvency in case of proposal to wind up voluntarily",
+  "337": "Liquidator's account",
+  "82": "Power to pay certain commissions, and prohibition of payment of other commissions, discounts, etc",
+  "157": "Statutory meeting of company",
+  "38": "Rectification of name of a company",
+  "450": "Application of this Part to foreign companies",
+  "35": "Copies of memorandum and articles to be given to members",
+  "346": "Power to exclude creditors not proving in time",
+  "168": "Time of taking poll",
+  "160": "Provisions as to meetings and votes",
+  "39": "Change of name by a company",
+  "472": "Enforcing compliance with provisions of Ordinance",
+  "272": "Effect of Court's order",
+  "405": "Preferential payments",
+  "453": "Accounts of foreign companies",
+  "349": "Distribution by official liquidator",
+  "163": "Representation of Federal Government, etc., at meetings of companies",
+  "387": "Powers and duties of liquidator in voluntary winding up",
+  "278": "Inspector's report to be evidence",
+  "372": "Provisions applicable to creditors' voluntary winding up",
+  "271": "Power of Commission to initiate action against management",
+  "227": "Employees' provident funds and securities",
+  "352": "Power to order public examination of promoters, directors, etc",
+  "412": "Power of Court to assess damages against delinquent directors, etc",
+  "52": "Prospectus to be dated",
+  "182": "Creditors may nominate directors",
+  "40": "Registration of change of name and effect thereof",
+  "200": "Terms of appointment of chief executive and filling up of casual vacancy",
+  "22": "Powers of Commission when confirming alteration",
+  "435": "Enforcement of duty of liquidator to make return, etc",
+  "459": "Penalties",
+  "95": "Prohibition of purchase or grant of financial assistance by a company for purchase of its own or its holding company’s shares",
+  "422": "Meetings to ascertain wishes of creditors or contributories",
+  "265": "Investigation of company's affairs in other cases",
+  "402": "Status of companies being wound up, etc",
+  "447": "Suits stayed on winding up order",
+  "156": "Annual list of members, etc",
+  "9": "Procedure of the Court",
+  "165": "Voting to be by show of hands in first instance",
+  "375": "Appointment of liquidator",
+  "129": "Duty of company and right of interested party as regards registration",
+  "185": "Validity of acts of directors",
+  "21": "Alteration of memorandum",
+  "468": "Registrar not to accept defective documents",
+  "86": "Further issue of capital",
+  "162": "Representation of corporations at meetings of companies and of creditors",
+  "449": "Provisions of this part cumulative",
+  "164": "Notice of resolution",
+  "102": "Registration of order and minute of reduction",
+  "196": "Powers of directors",
+  "214": "Disclosure of interest by director",
+  "277": "Expenses of investigation",
+  "305": "Circumstances in which company may be wound up by Court",
+  "393": "Costs of voluntary winding up",
+  "493": "Penalty for wrongful withholding of property",
+  "257": "Signature on audit report, etc",
+  "397": "Effect of petition for winding up subject to supervision",
+  "201": "Restriction on appointment of chief executive",
+  "359": "Commencement of voluntary winding up",
+  "377": "Fixing of liquidator's remuneration",
+  "28": "Alteration of articles",
+  "426": "Court-fees",
+  "193": "Proceedings of directors",
+  "324": "Style of official liquidator",
+  "241": "Authentication of balance-sheet",
+  "141": "Powers of Court to fix remuneration, etc., of receiver or manager",
+  "466": "Registration offices",
+  "282": "Application of sections 261 to 281 to liquidators and foreign companies",
+  "475": "Offences to be non-cognizable",
+  "370": "Final meeting and dissolution",
+  "471": "Power of the Federal Government to prescribe fees chargeable by companies",
+  "111": "Limited company may have directors with unlimited liability",
+  "51": "Authentication of documents and proceedings",
+  "226": "Securities and deposits, etc",
+  "286": "Information as to compromises or arrangements with creditors and members",
+  "88": "Deposits not to be invited without issuing an advertisement",
+  "258": "Audit of cost accounts",
+  "404": "Application of insolvency rules in winding up of insolvent companies",
+  "395": "Power of Court to adopt proceedings of voluntary winding up",
+  "357": "Mode of dealing with orders to be enforced by other Courts",
+  "461": "Issue of prospectus",
+  "14": "Obligation to register certain associations, partnerships, etc. as companies",
+  "6": "Ordinance to override memorandum, articles, etc",
+  "244": "Penalty for improper issue, circulation or publication of balance-sheet or profit and loss account",
+  "48": "Service of documents on company",
+  "17": "Memorandum of company limited by guarantee",
+  "181": "Removal of director",
+  "464": "Notice of appointment of receiver",
+  "269": "Inspector's report",
+  "254": "Qualification and disqualification of auditors",
+  "243": "Right of member of company to copies of the balance-sheet, etc. and the auditor's report",
+  "295": "Management by Administrator",
+  "289": "Power and duty to acquire shares of shareholders dissenting from scheme or contract",
+  "386": "Application of Sections 328 and 329 to voluntary winding up",
+  "146": "Restrictions on commencement of business",
+  "177": "Retirement of directors",
+  "455": "Service on foreign company",
+  "203": "Chief executive not to engage in business competing with company's business",
+  "457": "Provisions relating to names, enquiries, etc., to apply to foreign companies",
+  "406": "Avoidance of transfers, etc",
+  "197": "Prohibition regarding making of political contributions",
+  "176": "First directors and their term",
+  "262": "Seizure of documents by registrar",
+  "267": "Power of inspectors to carry investigation into affairs of associated companies 182",
+  "415": "Penalty for fraud by officers of companies which have gone into liquidation",
+  "218": "Disclosure to members of directors interest in contract appointing chief executive, managing agent or secretary",
+  "325": "Appointment and powers of provisional manager",
+  "343": "Power to order payment into bank",
+  "142": "Registered office of company",
+  "310": "Right to present winding up petition where company is being wound up voluntarily or subject to Court's supervision",
+  "407": "Disclaimer of property",
+  "225": "Contracts by agents of company in which company is undisclosed principal",
+  "30": "Registration of memorandum and articles, etc",
+  "1": "Short title, extent and commencement",
+  "110": "Power of unlimited company to provide for reserve share capital on re-registration",
+  "233": "Annual accounts and balance-sheet",
+  "508": "Repeal of laws and savings",
+  "417": "Penalty for falsification of books",
+  "109": "Registration of unlimited company as limited",
+  "392": "Applications of liquidator to Court for public examination of promoters, directors, etc",
+  "192": "Restriction on assignment of office by directors",
+  "361": "Notice of resolution to wind up voluntarily",
+  "274": "No right to compensation for loss of office",
+  "319": "Power of Court to stay winding up, etc",
+  "358": "Circumstances in which company may be wound up voluntarily",
+  "135": "Company's register of mortgages",
+  "389": "Notice by liquidator of his appointment",
+  "414": "Liability under sections 412 and 413 to extend to partners or directors in Companies Ordinance, 1984 xvi firm or body corporate",
+  "46": "Consequence of default in complying with conditions constituting a Companies Ordinance, 1984 iii company a private company",
+  "487": "Power to require limited company to give security for costs",
+  "104": "Liability of members in respect of reduced shares",
+  "399": "Power to replace liquidator",
+  "479": "Procedure for the trial of a corporate body",
+  "367": "Power of liquidator to accept shares, etc., as consideration for sale of property of company",
+  "391": "Powers to apply to Court to have questions determined or powers exercised",
+  "403": "Debts of all descriptions to be proved",
+  "27": "Printing, signature, etc. of articles",
+  "26": "Registration of articles",
+  "245": "Quarterly accounts of listed companies",
+  "16": "Memorandum of company limited by shares",
+  "155": "Register to be evidence",
+  "208": "Investments in associated companies and undertakings",
+  "154": "Notice to register of rectification of register",
+  "432": "Unclaimed dividends and undistributed assets to be paid by Companies Liquidation Account",
+  "313": "Court may grant injunction",
+  "160A": "Circumstances in which proceedings of a General Meeting may be declared invalid",
+  "336": "Liquidator to keep books containing proceedings of meetings, etc",
+  "211": "Bills of exchange and promissory notes",
+  "113": "Right of debenture-holder and shareholder to have copies of trust-deed",
+  "209": "Investments of company to be held in its own name",
+  "428": "Disposal of books and papers of company",
+  "120": "Issue of securities and redeemable capital not based on interest",
+  "47": "Liability for carrying on business with less than three or, in the case of a private company, two members",
+  "398": "Court may have regard to wishes of creditors and Contributors",
+  "480": "Power of Federal Government to appoint company prosecutors",
+  "456": "Company's failure to comply with this Part not to affect its liability under contracts, etc",
+  "452": "Return to be delivered to registrar by foreign companies whose documents,",
+  "12": "Powers and functions of the Commission",
+  "42": "Power to dispense will \"Limited\" in the name of charitable and other",
+  "427": "Inspection of documents",
+  "368": "Duty of liquidator to call creditors' meeting in case of insolvency",
+  "511": "Former registration offices, registers and registrars continued",
+  "378": "Directors' powers to cease on appointment of liquidator",
+  "350": "Dissolution of company",
+  "50": "Service of notice on members, etc",
+  "329": "Report by official liquidator",
+  "394": "Saving for right of creditors and Contributors",
+  "495": "Punishment for non-compliance of directive of Court, etc",
+  "190": "Ineligibility of bankrupt to act as director, etc",
+  "330": "Custody of company's property",
+  "490": "Enforcement of order of Court by other Courts",
+  "488": "Power of Court, etc., to grant relief in certain cases",
+  "333": "Powers of official liquidator",
+  "481": "Appeal against acquittal",
+  "326": "General provisions as to liquidators",
+  "294": "Application of certain sections to proceedings under this Part",
+  "360": "Effect of voluntary winding up on status of company",
+  "150": "Inspection of registers",
+  "133": "Power of Registrar to make entries of satisfaction and release in absence of intimation from company",
+  "410": "Avoidance of certain attachments executions, etc",
+  "323": "Remuneration of official liquidator",
+  "492": "Penalty for false statement",
+  "121": "Certain mortgages and charges to be void if not registered",
+  "316": "Suits stayed on winding up order",
+  "153": "Punishment for fraudulent entries in and omission from register",
+  "374": "Notice of resolution passed by creditors' meeting to be given to registrar",
+  "420": "Penal provisions",
+  "19": "Printing, signature, etc., of memorandum",
+  "425": "Limitation",
+  "445": "Contributories in winding up of unregistered companies",
+  "105": "Penalty on concealment of name of creditor",
+  "74": "Limitation of time for issue of certificates",
+  "90": "Classes and kinds of shares capital",
+  "67": "Application for, and allotment of, shares and debentures",
+  "183": "Certain provisions not to apply to directors representing special interests",
+  "424": "Summary disposal of certain suits by liquidators",
+  "32": "Effect of registration",
+  "75": "Issue of duplicate certificates",
+  "41": "Alteration of names on commencement of Ordinance and change of status",
+  "118": "Payment of certain debts out of assets subject to floating charge in priority to claims under the charge",
+  "364": "Appointment of liquidators",
+  "293": "Claim for damages inadmissible",
+  "507": "Power of the Federal Government to permit use of Urdu words or abbreviations 313 REPEAL, SAVINGS, ETC",
+  "298": "Liability as contributors of present and past members",
+  "107": "Increase and reduction of share capital in case of company limited by guarantee having share capital",
+  "219": "Register of contracts, arrangements and appointments in which directors, etc., are interested",
+  "290": "Application to Court",
+  "494": "Liability of directors for allotment of shares for inadequate consideration",
+  "220": "Register of directors' shareholdings, etc",
+  "297": "Modes of winding up",
+  "44": "Conversion of public company into private company",
+  "252": "Appointment and remuneration of auditors",
+  "514": "Removal of difficulties",
+  "134": "Penalties",
+  "8": "Constitution of Company Benches",
+  "186": "Penalties",
+  "307": "Transfer of proceedings to other Courts",
+  "207": "Terms and conditions of appointment of managing agent",
+  "400": "Effects of supervisions order",
+  "18": "Memorandum of unlimited company",
+  "76": "Transfer of shares and debentures",
+  "174": "Minimum number of directors",
+  "438": "Power to make rules",
+  "222": "Submission of statements of beneficial owners of listed securities",
+  "13": "Reference by the Federal Government or Commission to the Court",
+  "467": "Production of documents kept by registrar, etc",
+  "89": "Nature of shares and certificate of shares",
+  "191": "Restriction on director's remuneration, etc",
+  "216": "Interested director not to participate or vote in proceedings of directors",
+  "31": "Effect of memorandum and articles",
+  "309": "Provisions as to applications for winding up",
+  "373": "Meeting of creditors",
+  "413": "Liability for fraudulent conduct of business",
+  "83": "Application of premium received on issue of shares",
+  "237": "Consolidated financial statements",
+  "179": "Circumstances in which election of directors may be declared invalid",
+  "250": "Dividend not to be paid except to registered shareholders or to their order or to their bankers",
+  "366": "Notice of appointment of liquidator to be given to registrar alongwith his consent",
+  "497": "Penalty for improper of word “Limited”",
+  "148": "Trusts not to be entered on register",
+  "217": "Declaring a director to be lacking fiduciary behaviour",
+  "345": "Order on contributory conclusive evidence",
+  "491": "Protection of acts done in good faith",
+  "473": "Power of Court, etc., trying offences under Ordinance to direct compliance with the provisions",
+  "108": "Variation of shareholders' rights",
+  "321": "Appointment of official liquidator",
+  "152": "Power of Court to rectify register",
+  "416": "Liability where proper accounts not kept",
+  "223": "Prohibition of short-selling",
+  "175": "Only natural persons to be directors",
+  "169": "Resolution passed at adjourned meeting",
+  "71": "Repayment of money received for shares not allotted",
+  "123": "Particulars in case of series of debentures entitling holders pari passu",
+  "188": "Vacation of office by the directors",
+  "2": "Definitions",
+  "284": "Power to compromise with creditors and members",
+  "242": "Copy of balance-sheet to be forwarded to the registrar",
+  "318": "Effect of winding up order",
+  "136": "Right to inspect copies of instruments creating mortgages and charges and company's register of mortgages",
+  "419": "Penalty for false evidence",
+  "429": "Power of Court to declare dissolution of company void",
+  "178": "Procedure for election of directors",
+  "381": "Duty of liquidator to call meeting of company and of creditors at the end of every year",
+  "87": "Issue of shares in lieu of outstanding balance of any loans, etc",
+  "301": "Nature of liability of contributory",
+  "204A": "Certain companies to have Secretaries",
+  "151": "Power to close register",
+  "80": "Transfer to nominee of a deceased member",
+  "300": "Definition of \"contributory\"",
+  "221": "Duty of directors, etc. to make disclosure of shareholdings, etc",
+  "158": "Annual general meeting",
+  "486": "Production and inspection of books where offence suspected",
+  "149": "Register and index of debenture-holders",
+  "469": "Acceptance of documents presented after prescribed time",
+  "477": "Appeal and revision",
+  "93": "Notice to register of consolidation of share capital, etc",
+  "229": "Penalty for contravention of section 226, 227 or 228",
+  "504": "Forms",
+  "72": "Allotment of shares and debentures to be dealt in on stock exchange",
+  "355": "Power to enforce orders",
+  "239": "Rights of holding company's representatives and members",
+  "340": "Power to require delivery of property",
+  "127": "Certificate of registration",
+  "187": "Ineligibility of certain persons to become director",
+  "288": "Notice to be given to registrar for applications under section 284 to 287 204",
+  "408": "Fraudulent preference",
+  "37": "Prohibition of certain names",
+  "347": "Adjustment of rights of Contributors",
+  "356": "Order made by any Court to be enforced by other Courts",
+  "45": "Prospectus or statement in lieu of prospectus to be filed by private company on ceasing to be private company",
+  "101": "Order confirming reduction",
+  "489": "Enforcement of orders of Court",
+  "189": "Penalty for unqualified person acting as director, etc",
+  "263": "Investigation of affairs of company on application by members or report by",
+  "501": "Delegation of powers",
+  "388": "Power of Court to appoint and remove liquidator in voluntary winding up",
+  "159": "Calling of extra ordinary general meeting",
+  "302": "Contributories in case of death of member",
+  "231": "Inspection of books of account by registrar, etc",
+  "122": "Registration of charges on properties acquired subject to charge",
+  "322": "Resignation, removal, filling up vacancies, etc., of official liquidator",
+  "266": "Inspector to be a Court for certain purposes",
+  "268": "Duty of officers, etc., to assist the inspector",
+  "283": "Powers of companies to refer matters to arbitration",
+  "341": "Power to order payment of debts by contributory",
+  "454": "Certain obligations of foreign companies",
+  "96": "Reduction of share capital",
+  "496": "Penalty for carrying on ultra virus business",
+  "194": "Liabilities, etc., of directors and officers",
+  "205": "Register of directors, officers, etc",
+  "166": "Chairman's declaration of result of voting by show of hands to be evidence",
+  "210": "Form of contract",
+  "303": "Contributory in case of insolvency of member",
+  "128": "Endorsement of certificate of registration on debenture or certificate of debenture stock",
+  "431": "Payments by liquidator into bank",
+  "371": "Alternative provisions as to annual and final meetings in case of insolvency",
+  "202": "Removal of chief executive",
+  "328": "Statement of affairs to be made to official liquidator",
+  "353": "Power to arrest absconding contributory",
+  "401": "Appointment of voluntary liquidator as official liquidator in certain cases",
+  "167": "Demand for poll",
+  "483": "Application of fines",
+  "482": "Payment of compensation in cases of frivolous or vexatious prosecuting",
+  "199": "Appointment of subsequent chief executive",
+  "132": "Registration of payment or satisfaction of mortgages and charges",
+  "260": "Penalty for non-compliance with provisions by auditors",
+  "238": "Financial year of holding company and subsidiary",
+  "285": "Power of Court to enforce compromises and arrangements",
+  "5": "Application of Ordinance to non-trading companies with purely provincial",
+  "317": "Court may require expeditious disposal of suits, etc",
+  "172": "Filing of resolution, etc",
+  "112": "Special resolution of limited company making liability of directors unlimited",
+  "439": "Registrar may strike defunct company off register",
+  "251": "Period for payments of dividend",
+  "465": "Notice of liquidation, etc",
+  "437": "Court or person before whom affidavit may be sworn",
+  "443": "Meaning of \"unregistered company\"",
+  "7": "Jurisdiction of the Courts",
+  "478": "Powers of the Federal Government, etc., in relation to enquiries and proceedings 302",
+  "261": "Power of registrar to call for information or explanation",
+  "170": "Power of registrar to call meetings",
+  "273": "No compensation to be payable for annulment or modification of contract",
+  "342": "Power of Court to make calls",
+  "344": "Regulation of account with Court",
+  "430": "Information as to pending liquidators",
+  "458": "Intimation of ceasing to have place of business to be given",
+  "306": "Company when deemed unable to pay its debts",
+  "470": "Fees",
+  "498": "Penalty where no specific penalty is provided elsewhere in the Ordinance",
+  "171": "Penalty for default in complying with the directions of the registrar for holding the meeting",
+  "232": "Default in compliance with provisions of section 231",
+  "421": "Liquidator to exercise certain powers subject to sanction",
+  "73": "Return as to allotments",
+  "296": "Rehabilitation of companies owing sick industrial units",
+  "43": "Provision as to companies limited by guarantee",
+  "314": "Powers of Court on hearing petition",
+  "126": "Index to register of mortgages and charges",
+  "29": "Forms of memorandum and articles",
+  "125": "Register of mortgages and charges",
+  "92": "Power of company limited by shares to alter its share capital",
+  "291": "Powers of Court under section 290",
+  "279": "Imposition of restrictions on shares and debentures and prohibition of transfer Companies Ordinance, 1984 xi of shares or debentures in certain cases",
+  "79": "Transfer to successor-in-interest",
+  "275": "Application for winding up of company or an order under section 290",
+  "213": "Power for company to have official seal for use abroad",
+  "91": "Only fully paid shares to be issued",
+  "436": "Notification that a company is in liquidation",
+  "418": "Prosecution of delinquent directors",
+  "94": "Notice of increase of share capital or of members",
+  "161": "Proxies",
+  "10": "Appeals against Court orders",
+  "140": "Application to Court",
+  "506": "Power of the Federal Government to make rules",
+  "444": "Winding up of unregistered companies",
+  "292": "Interim order",
+  "409": "Liabilities and rights of certain fraudulently preferred persons",
+  "411": "Effect of floating charge",
+  "434": "Application of provisions relating to audit",
+  "433": "Books of accounts and other proceedings to be kept by liquidators",
+  "198": "Appointment of first chief executive",
+  "287": "Provisions for facilitating reconstruction and amalgamation of companies",
+  "369": "Duty of liquidator to call general meeting at the end of each year",
+  "281": "Enquiries and investigations not to be affected by winding up, etc",
+  "396": "Power to order winding up subject to supervision",
+  "270": "Prosecution",
+  "499": "Power to accord approval subject to conditions",
+  "338": "Exercise and control of liquidator's powers",
+  "451": "Documents to be delivered to registrar by foreign companies",
+  "137": "Registration of appointment of receiver or manager",
+  "23": "Exercise of discretion by Commission",
+  "215": "Interest of other officers, etc",
+  "348": "Power to order costs",
+  "463": "Registration of charges",
+  "34": "Effect of alteration in memorandum or articles",
+  "180": "Term of office of directors",
+  "206": "Bar on appointment of managing agents, sole purchase, sales agents, etc",
+  "379": "Power to fill vacancy in office of liquidator",
+  "143": "Publication of name by a limited company",
+  "460": "Interpretation of provisions of this Part",
+  "335": "Provision for assistance to official liquidator",
+  "462": "Restriction on canvassing for sale of securities",
+  "365": "Power to fill vacancy in office of liquidator",
+  "234": "Contents of balance-sheet",
+  "139": "Disqualification for appointment as receiver or manager",
+  "119": "Powers and liabilities of trustee",
+  "100": "Power to dispense with consent of creditor on security being given for his debt 76",
+  "147": "Register of members and index",
+  "249": "Dividend to be paid only out of profits",
+  "106": "Publication of reasons for reduction",
+  "77": "Directors not to refuse transfer of shares",
+  "276": "Proceedings for recovery of damages of property",
+  "354": "Saving of other proceedings",
+  "280": "Saving for legal advisers and bankers",
+  "131": "Rectification of register of mortgages",
+  "320": "Court to have regard to wishes of creditors or Contributories",
+  "138": "Filing of accounts of receiver or manager",
+  "253": "Provisions as to resolutions relating to appointment and removal of auditors",
+  "84": "Power to issue shares at a discount",
+  "390": "Arrangement when binding on company and creditors",
+  "339": "Settlement of list of Contributors and application of assets",
+  "144": "Penalties of non-publication of name",
+  "380": "Application of section 367 to a creditor's voluntary winding up",
+  "385": "Distribution of property of company",
+  "503": "Application of Ordinance to companies governed by special enactments",
+  "311": "Commencement of winding up by Court",
+  "97": "Application to Court for confirming order",
+  "299": "Liability of directors whose liability is unlimited",
+  "99": "Objection by creditors and settlement of list of objecting creditors",
+  "204": "Penalty",
+  "224": "Trading by directors, officers and principal shareholders",
+  "505": "Power of the Federal Government to alter schedules",
+  "195": "Loans to directors, etc",
+  "36": "Alteration of memorandum or articles to be noted in every copy",
+  "236": "Directors' report",
+  "184": "Consent to act as director to be filed with registrar",
+  "78": "Notice of refusal to transfer"
+ },
+ "pairs": [
+  {
+   "a": "1",
+   "o": [
+    "1"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "2",
+   "o": [
+    "2"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "3",
+   "o": [
+    "5"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "4",
+   "o": [
+    "6"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "5",
+   "o": [
+    "7",
+    "8"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "6",
+   "o": [
+    "9",
+    "10"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "7",
+   "o": [
+    "12"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "8",
+   "o": [
+    "13"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "9",
+   "o": [
+    "14"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "10",
+   "o": [
+    "37"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "11",
+   "o": [
+    "38"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "12",
+   "o": [
+    "39"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "13",
+   "o": [
+    "40"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "14",
+   "o": [
+    "15"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "15",
+   "o": [
+    "47"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "16",
+   "o": [
+    "30"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "17",
+   "o": [
+    "31"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "18",
+   "o": [
+    "32"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "19",
+   "o": [
+    "146"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "20",
+   "o": [
+    "146"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "21",
+   "o": [
+    "142"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "22",
+   "o": [
+    "143"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "23",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "24",
+   "o": [
+    "144"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "25",
+   "o": [
+    "145"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "26",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "27",
+   "o": [
+    "16"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "28",
+   "o": [
+    "17"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "29",
+   "o": [
+    "18",
+    "19"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "30",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "31",
+   "o": [
+    "19"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "32",
+   "o": [
+    "21"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "33",
+   "o": [
+    "22"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "34",
+   "o": [
+    "23"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "35",
+   "o": [
+    "34"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "36",
+   "o": [
+    "26"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "37",
+   "o": [
+    "27"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "38",
+   "o": [
+    "28"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "39",
+   "o": [
+    "35"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "40",
+   "o": [
+    "36"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "41",
+   "o": [
+    "29"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "42",
+   "o": [
+    "42"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "43",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "44",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "45",
+   "o": [
+    "43"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "46",
+   "o": [
+    "44"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "47",
+   "o": [
+    "45"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "48",
+   "o": [
+    "109"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "49",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "50",
+   "o": [
+    "41"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "51",
+   "o": [
+    "110"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "52",
+   "o": [
+    "46"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "53",
+   "o": [
+    "48"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "54",
+   "o": [
+    "49"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "55",
+   "o": [
+    "50"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "56",
+   "o": [
+    "51"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "57",
+   "o": [
+    "52"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "58",
+   "o": [
+    "90",
+    "91"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "59",
+   "o": [
+    "108"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "60",
+   "o": [
+    "89"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "61",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "62",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "63",
+   "o": [
+    "113"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "64",
+   "o": [
+    "118"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "65",
+   "o": [
+    "119"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "66",
+   "o": [
+    "120"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "67",
+   "o": [
+    "67"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "68",
+   "o": [
+    "71"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "69",
+   "o": [
+    "72"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "70",
+   "o": [
+    "73"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "71",
+   "o": [
+    "74"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "72",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "73",
+   "o": [
+    "75"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "74",
+   "o": [
+    "76"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "75",
+   "o": [
+    "77"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "76",
+   "o": [
+    "77"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "77",
+   "o": [
+    "78"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "78",
+   "o": [
+    "79"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "79",
+   "o": [
+    "80"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "80",
+   "o": [
+    "82"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "81",
+   "o": [
+    "83"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "82",
+   "o": [
+    "84"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "83",
+   "o": [
+    "86",
+    "87",
+    "94"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "84",
+   "o": [
+    "88"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "85",
+   "o": [
+    "92",
+    "93"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "86",
+   "o": [
+    "95"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "87",
+   "o": [
+    "95"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "88",
+   "o": [
+    "95A"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "89",
+   "o": [
+    "96",
+    "97"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "90",
+   "o": [
+    "99"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "91",
+   "o": [
+    "100"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "92",
+   "o": [
+    "101"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "93",
+   "o": [
+    "102"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "94",
+   "o": [
+    "104"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "95",
+   "o": [
+    "105"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "96",
+   "o": [
+    "106"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "97",
+   "o": [
+    "107"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "98",
+   "o": [
+    "111"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "99",
+   "o": [
+    "112"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "100",
+   "o": [
+    "121",
+    "122",
+    "127"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "101",
+   "o": [
+    "123"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "102",
+   "o": [
+    "125"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "103",
+   "o": [
+    "126"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "104",
+   "o": [
+    "128"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "105",
+   "o": [
+    "129"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "106",
+   "o": [
+    "129"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "107",
+   "o": [
+    "130"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "108",
+   "o": [
+    "131"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "109",
+   "o": [
+    "132"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "110",
+   "o": [
+    "133"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "111",
+   "o": [
+    "134",
+    "135"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "112",
+   "o": [
+    "136"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "113",
+   "o": [
+    "137"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "114",
+   "o": [
+    "138"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "115",
+   "o": [
+    "139"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "116",
+   "o": [
+    "140"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "117",
+   "o": [
+    "141"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "118",
+   "o": [
+    "2"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "119",
+   "o": [
+    "147"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "120",
+   "o": [
+    "147"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "121",
+   "o": [
+    "148"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "122",
+   "o": [
+    "149"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "123",
+   "o": [
+    "149"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "124",
+   "o": [
+    "150"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "125",
+   "o": [
+    "151"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "126",
+   "o": [
+    "152"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "127",
+   "o": [
+    "153"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "128",
+   "o": [
+    "154"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "129",
+   "o": [
+    "155"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "130",
+   "o": [
+    "156"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "131",
+   "o": [
+    "157"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "132",
+   "o": [
+    "158"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "133",
+   "o": [
+    "159"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "134",
+   "o": [
+    "160"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "135",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "136",
+   "o": [
+    "160A"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "137",
+   "o": [
+    "161"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "138",
+   "o": [
+    "162"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "139",
+   "o": [
+    "163"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "140",
+   "o": [
+    "164"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "141",
+   "o": [
+    "165"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "142",
+   "o": [
+    "166"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "143",
+   "o": [
+    "167"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "144",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "145",
+   "o": [
+    "168"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "146",
+   "o": [
+    "169"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "147",
+   "o": [
+    "170"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "148",
+   "o": [
+    "171"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "149",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "150",
+   "o": [
+    "172"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "151",
+   "o": [
+    "173"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "152",
+   "o": [
+    "173"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "153",
+   "o": [
+    "175",
+    "187"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "154",
+   "o": [
+    "174"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "155",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "156",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "157",
+   "o": [
+    "176"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "158",
+   "o": [
+    "177"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "159",
+   "o": [
+    "178"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "160",
+   "o": [
+    "179"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "161",
+   "o": [
+    "180"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "162",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "163",
+   "o": [
+    "181"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "164",
+   "o": [
+    "182"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "165",
+   "o": [
+    "183"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "166",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "167",
+   "o": [
+    "184"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "168",
+   "o": [
+    "185"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "169",
+   "o": [
+    "186"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "170",
+   "o": [
+    "191"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "171",
+   "o": [
+    "188"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "172",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "173",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "174",
+   "o": [
+    "192"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "175",
+   "o": [
+    "189"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "176",
+   "o": [
+    "193"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "177",
+   "o": [
+    "190"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "178",
+   "o": [
+    "173"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "179",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "180",
+   "o": [
+    "194"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "181",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "182",
+   "o": [
+    "195"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "183",
+   "o": [
+    "196"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "184",
+   "o": [
+    "197"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "185",
+   "o": [
+    "197A"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "186",
+   "o": [
+    "198"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "187",
+   "o": [
+    "199"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "188",
+   "o": [
+    "200"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "189",
+   "o": [
+    "201"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "190",
+   "o": [
+    "202"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "191",
+   "o": [
+    "203"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "192",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "193",
+   "o": [
+    "204"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "194",
+   "o": [
+    "204A"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "195",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "196",
+   "o": [
+    "206",
+    "207"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "197",
+   "o": [
+    "205"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "198",
+   "o": [
+    "205"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "199",
+   "o": [
+    "208"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "200",
+   "o": [
+    "209"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "201",
+   "o": [
+    "210"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "202",
+   "o": [
+    "211",
+    "212"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "203",
+   "o": [
+    "213"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "204",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "205",
+   "o": [
+    "214"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "206",
+   "o": [
+    "215"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "207",
+   "o": [
+    "216"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "208",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "209",
+   "o": [
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "210",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "211",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "212",
+   "o": [
+    "217"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "213",
+   "o": [
+    "218"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "214",
+   "o": [
+    "225"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "215",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "216",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "217",
+   "o": [
+    "226"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "218",
+   "o": [
+    "227"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "219",
+   "o": [
+    "229"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "220",
+   "o": [
+    "230"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "221",
+   "o": [
+    "231"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "222",
+   "o": [
+    "232"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "223",
+   "o": [],
+   "alt": [
+    "233"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "224",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "225",
+   "o": [],
+   "alt": [
+    "234"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "226",
+   "o": [
+    "236"
+   ],
+   "alt": [],
+   "src": "differs"
+  },
+  {
+   "a": "227",
+   "o": [
+    "236"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "228",
+   "o": [
+    "237"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "229",
+   "o": [
+    "238"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "230",
+   "o": [
+    "239"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "231",
+   "o": [
+    "240"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "232",
+   "o": [
+    "241"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "233",
+   "o": [
+    "242"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "234",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "235",
+   "o": [
+    "243"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "236",
+   "o": [
+    "244"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "237",
+   "o": [
+    "245"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "238",
+   "o": [
+    "246"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "239",
+   "o": [
+    "247"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "240",
+   "o": [
+    "248"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "241",
+   "o": [
+    "249"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "242",
+   "o": [
+    "250"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "243",
+   "o": [],
+   "alt": [
+    "251"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "244",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "245",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "246",
+   "o": [
+    "252"
+   ],
+   "alt": [
+    "252",
+    "253"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "247",
+   "o": [
+    "254"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "248",
+   "o": [
+    "255"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "249",
+   "o": [
+    "255"
+   ],
+   "alt": [],
+   "src": "differs"
+  },
+  {
+   "a": "250",
+   "o": [
+    "258"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "251",
+   "o": [
+    "257"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "252",
+   "o": [
+    "259"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "253",
+   "o": [
+    "260"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "254",
+   "o": [
+    "261"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "255",
+   "o": [
+    "262"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "256",
+   "o": [
+    "263"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "257",
+   "o": [
+    "265"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "258",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "259",
+   "o": [
+    "266"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "260",
+   "o": [
+    "267"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "261",
+   "o": [
+    "268"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "262",
+   "o": [
+    "269"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "263",
+   "o": [
+    "270"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "264",
+   "o": [
+    "271"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "265",
+   "o": [
+    "272"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "266",
+   "o": [
+    "273"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "267",
+   "o": [
+    "274"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "268",
+   "o": [
+    "275"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "269",
+   "o": [
+    "276"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "270",
+   "o": [
+    "277"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "271",
+   "o": [
+    "278"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "272",
+   "o": [
+    "279"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "273",
+   "o": [
+    "280"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "274",
+   "o": [
+    "281"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "275",
+   "o": [
+    "282"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "276",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "277",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "278",
+   "o": [
+    "283"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "279",
+   "o": [
+    "284"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "280",
+   "o": [
+    "285"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "281",
+   "o": [
+    "286"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "282",
+   "o": [
+    "287"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "283",
+   "o": [
+    "288"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "284",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "285",
+   "o": [
+    "289"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "286",
+   "o": [
+    "290"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "287",
+   "o": [
+    "291"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "288",
+   "o": [
+    "292"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "289",
+   "o": [
+    "293"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "290",
+   "o": [
+    "294"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "291",
+   "o": [
+    "295"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "292",
+   "o": [
+    "296"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "293",
+   "o": [
+    "297"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "294",
+   "o": [
+    "298"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "295",
+   "o": [
+    "299"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "296",
+   "o": [
+    "300"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "297",
+   "o": [
+    "301"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "298",
+   "o": [
+    "302"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "299",
+   "o": [
+    "303"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "300",
+   "o": [
+    "304"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "301",
+   "o": [
+    "305"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "302",
+   "o": [
+    "306"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "303",
+   "o": [
+    "307"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "304",
+   "o": [
+    "309"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "305",
+   "o": [
+    "310"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "306",
+   "o": [
+    "311"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "307",
+   "o": [
+    "313"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "308",
+   "o": [
+    "314"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "309",
+   "o": [
+    "315"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "310",
+   "o": [
+    "316"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "311",
+   "o": [
+    "317"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "312",
+   "o": [
+    "318"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "313",
+   "o": [
+    "319"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "314",
+   "o": [
+    "320"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "315",
+   "o": [
+    "321",
+    "322",
+    "325"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "316",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "317",
+   "o": [
+    "323"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "318",
+   "o": [
+    "324"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "319",
+   "o": [
+    "326"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "320",
+   "o": [
+    "328"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "321",
+   "o": [
+    "329"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "322",
+   "o": [],
+   "src": "index"
+  },
+  {
+   "a": "323",
+   "o": [
+    "339"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "324",
+   "o": [
+    "330"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "325",
+   "o": [
+    "340"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "326",
+   "o": [
+    "351"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "327",
+   "o": [
+    "352"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "328",
+   "o": [
+    "353"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "329",
+   "o": [
+    "341"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "330",
+   "o": [
+    "342"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "331",
+   "o": [
+    "343"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "332",
+   "o": [
+    "344"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "333",
+   "o": [
+    "345"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "334",
+   "o": [
+    "346"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "335",
+   "o": [
+    "347"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "336",
+   "o": [
+    "348"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "337",
+   "o": [
+    "333",
+    "335"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "338",
+   "o": [
+    "336"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "339",
+   "o": [
+    "337"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "340",
+   "o": [
+    "338"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "341",
+   "o": [
+    "349"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "342",
+   "o": [
+    "350"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "343",
+   "o": [
+    "354"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "344",
+   "o": [
+    "355"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "345",
+   "o": [
+    "356"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "346",
+   "o": [
+    "357"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "347",
+   "o": [
+    "358"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "348",
+   "o": [
+    "359"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "349",
+   "o": [
+    "360"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "350",
+   "o": [
+    "361"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "351",
+   "o": [
+    "362"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "352",
+   "o": [
+    "362"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "353",
+   "o": [
+    "364"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "354",
+   "o": [
+    "365"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "355",
+   "o": [
+    "366"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "356",
+   "o": [
+    "367"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "357",
+   "o": [
+    "368"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "358",
+   "o": [
+    "369"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "359",
+   "o": [
+    "370"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "360",
+   "o": [
+    "371"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "361",
+   "o": [
+    "372"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "362",
+   "o": [
+    "373",
+    "374"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "363",
+   "o": [
+    "375"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "364",
+   "o": [
+    "377"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "365",
+   "o": [
+    "378"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "366",
+   "o": [
+    "379"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "367",
+   "o": [
+    "380"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "368",
+   "o": [
+    "381"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "369",
+   "o": [
+    "382"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "370",
+   "o": [
+    "385"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "371",
+   "o": [
+    "386"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "372",
+   "o": [
+    "387"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "373",
+   "o": [
+    "388"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "374",
+   "o": [
+    "389"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "375",
+   "o": [
+    "390"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "376",
+   "o": [
+    "391"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "377",
+   "o": [
+    "392"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "378",
+   "o": [
+    "393"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "379",
+   "o": [
+    "394"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "380",
+   "o": [
+    "395"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "381",
+   "o": [
+    "396"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "382",
+   "o": [
+    "397"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "383",
+   "o": [
+    "398"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "384",
+   "o": [
+    "399"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "385",
+   "o": [
+    "400"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "386",
+   "o": [
+    "401"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "387",
+   "o": [
+    "402"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "388",
+   "o": [
+    "403"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "389",
+   "o": [
+    "404"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "390",
+   "o": [
+    "405"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "391",
+   "o": [
+    "406"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "392",
+   "o": [
+    "407"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "393",
+   "o": [
+    "408"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "394",
+   "o": [
+    "409"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "395",
+   "o": [
+    "410"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "396",
+   "o": [
+    "411"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "397",
+   "o": [
+    "412"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "398",
+   "o": [
+    "413"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "399",
+   "o": [
+    "414"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "400",
+   "o": [
+    "415"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "401",
+   "o": [
+    "416"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "402",
+   "o": [
+    "417"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "403",
+   "o": [
+    "418"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "404",
+   "o": [
+    "419"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "405",
+   "o": [
+    "420"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "406",
+   "o": [
+    "421"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "407",
+   "o": [
+    "422"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "408",
+   "o": [
+    "423"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "409",
+   "o": [
+    "424"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "410",
+   "o": [
+    "425"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "411",
+   "o": [
+    "426"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "412",
+   "o": [
+    "427"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "413",
+   "o": [
+    "428"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "414",
+   "o": [
+    "429"
+   ],
+   "src": "index"
+  },
+  {
+   "a": "415",
+   "o": [
+    "430"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "416",
+   "o": [
+    "431"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "417",
+   "o": [
+    "432"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "418",
+   "o": [
+    "433"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "419",
+   "o": [
+    "434"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "420",
+   "o": [
+    "435"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "421",
+   "o": [
+    "436"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "422",
+   "o": [
+    "437"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "423",
+   "o": [
+    "438"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "424",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "425",
+   "o": [
+    "439"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "426",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "427",
+   "o": [
+    "443"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "428",
+   "o": [
+    "444"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "429",
+   "o": [
+    "445"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "430",
+   "o": [
+    "446"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "431",
+   "o": [
+    "447"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "432",
+   "o": [
+    "448"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "433",
+   "o": [
+    "449"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "434",
+   "o": [
+    "450"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "435",
+   "o": [
+    "451"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "436",
+   "o": [
+    "452"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "437",
+   "o": [
+    "453"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "438",
+   "o": [
+    "454"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "439",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "440",
+   "o": [
+    "455"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "441",
+   "o": [
+    "456"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "442",
+   "o": [
+    "457"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "443",
+   "o": [
+    "458"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "444",
+   "o": [
+    "459"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "445",
+   "o": [
+    "460"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "446",
+   "o": [
+    "461"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "447",
+   "o": [
+    "462"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "448",
+   "o": [
+    "463"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "449",
+   "o": [
+    "464"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "450",
+   "o": [
+    "465"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "451",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "452",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "453",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "454",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "455",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "456",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "457",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "458",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "459",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "460",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "461",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "462",
+   "o": [
+    "466"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "463",
+   "o": [
+    "467"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "464",
+   "o": [
+    "468"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "465",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "466",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "467",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "468",
+   "o": [
+    "469"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "469",
+   "o": [
+    "470"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "470",
+   "o": [
+    "471"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "471",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "472",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "473",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "474",
+   "o": [
+    "472"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "475",
+   "o": [
+    "473"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "476",
+   "o": [
+    "474"
+   ],
+   "alt": [
+    "475"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "477",
+   "o": [],
+   "alt": [
+    "474"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "478",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "479",
+   "o": [
+    "476"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "480",
+   "o": [
+    "477"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "481",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "482",
+   "o": [],
+   "alt": [
+    "476"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "483",
+   "o": [
+    "478"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "484",
+   "o": [
+    "479"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "485",
+   "o": [],
+   "alt": [
+    "479"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "486",
+   "o": [],
+   "alt": [
+    "480"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "487",
+   "o": [
+    "481"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "488",
+   "o": [
+    "482"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "489",
+   "o": [
+    "483"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "490",
+   "o": [
+    "486"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "491",
+   "o": [
+    "487"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "492",
+   "o": [
+    "488"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "493",
+   "o": [
+    "489"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "494",
+   "o": [
+    "490"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "495",
+   "o": [
+    "491"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "496",
+   "o": [
+    "492"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "497",
+   "o": [
+    "493"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "498",
+   "o": [
+    "494"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "499",
+   "o": [
+    "495"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "500",
+   "o": [
+    "496"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "501",
+   "o": [
+    "497"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "502",
+   "o": [
+    "498"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "503",
+   "o": [
+    "499"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "504",
+   "o": [
+    "501"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "505",
+   "o": [],
+   "alt": [
+    "503"
+   ],
+   "src": "differs"
+  },
+  {
+   "a": "506",
+   "o": [
+    "504"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "507",
+   "o": [
+    "505"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "508",
+   "o": [
+    "506"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "509",
+   "o": [
+    "508"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "510",
+   "o": [
+    "506B"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "511",
+   "o": [
+    "507"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "512",
+   "o": [
+    "506A"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "513",
+   "o": [],
+   "src": "both"
+  },
+  {
+   "a": "514",
+   "o": [
+    "511"
+   ],
+   "src": "both"
+  },
+  {
+   "a": "515",
+   "o": [
+    "514"
+   ],
+   "src": "both"
+  }
+ ],
+ "unmatchedOrdinance": [
+  "3",
+  "4",
+  "11",
+  "20",
+  "24",
+  "25",
+  "33",
+  "53",
+  "54",
+  "55",
+  "56",
+  "57",
+  "58",
+  "59",
+  "60",
+  "61",
+  "62",
+  "63",
+  "64",
+  "65",
+  "66",
+  "68",
+  "69",
+  "70",
+  "78A",
+  "81",
+  "85",
+  "98",
+  "103",
+  "114",
+  "115",
+  "116",
+  "117",
+  "124",
+  "228",
+  "235",
+  "256",
+  "264",
+  "282H",
+  "282I",
+  "282J",
+  "282K",
+  "282L",
+  "308",
+  "312",
+  "327",
+  "331",
+  "332",
+  "334",
+  "363",
+  "376",
+  "383",
+  "384",
+  "440",
+  "441",
+  "442",
+  "484",
+  "485",
+  "500",
+  "502",
+  "509",
+  "510",
+  "512",
+  "513"
+ ]
+}

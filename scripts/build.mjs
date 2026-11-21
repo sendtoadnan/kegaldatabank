@@ -88,6 +88,7 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
   <nav class="nav" aria-label="Main">
     <a href="${base}index.html"${page === 'home' ? ' aria-current="page"' : ''}>Library</a>
     <a href="${base}search.html"${page === 'search' ? ' aria-current="page"' : ''}>Search</a>
+    <a href="${base}contents.html"${page === 'contents' ? ' aria-current="page"' : ''}>Index</a>
     <a href="${base}shelf.html"${page === 'shelf' ? ' aria-current="page"' : ''}>My shelf</a>
     <a href="${base}laws.html"${page === 'laws' ? ' aria-current="page"' : ''}>SECP laws</a>
     <a href="${base}sources.html"${page === 'sources' ? ' aria-current="page"' : ''}>Sources</a>
@@ -186,7 +187,7 @@ ${body}
     </form>
     <p class="hint">Try <a href="search.html?q=withholding%20tax">withholding tax</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=related%20party">related party</a> or <a href="search.html?q=KYC">KYC</a> · <a href="search-guide.html">Search guide</a></p>
     <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
-    <p class="stats small"><a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
+    <p class="stats small"><a href="contents.html">Index of every law, rule and regulation, by subject</a> · <a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
   </section>
   <div id="shelf-preview"></div>
   <nav class="chips" aria-label="Practice areas">
@@ -203,9 +204,16 @@ ${body}
     const kids = children(act.id);
     const pdf = act.sourcePdf ? pdfHref(act, base) : null;
     const register = registerFor(act.id);
-    const cited = register ? citedSections(act, kids) : new Map();
+    const cited = register ? citedSections(act, kids, extras.formMaps) : new Map();
     // Register entries made under another law (e.g. the Securities Act) that do what a section leaves to be specified.
     const otherLaw = (i) => (i.madeUnder ? ` <span class="badge other">Other law</span> <span class="muted small">made under ${e(i.madeUnder)}</span>` : '');
+    // Section of the law this Act replaced that deals with the same matter, from data/comparison/.
+    const cmp = (extras.comparisons || []).find((x) => x.act === act.id);
+    const cmpMap = new Map((cmp?.pairs || []).map((p) => [p.a, p]));
+    const cmpOtherAct = cmp?.otherId && acts.find((x) => x.id === cmp.otherId);
+    const cmpOther = new Set(cmpOtherAct ? cmpOtherAct.parts.flatMap((p) => p.sections.map((s) => s.no)) : []);
+    const ordLine = (no) => (cmp && cmpMap.has(no)
+      ? `<p class="prov-ord muted small">${e(cmp.otherTitle)}: ${cmpMap.get(no).o.length ? `section ${cmpMap.get(no).o.map((n) => (cmpOther.has(n) ? `<a href="../${cmp.otherId}/index.html#${provisionAnchor(n)}">${e(n)}</a>` : e(n))).join(', ')}` : 'no corresponding section'}${cmpMap.get(no).alt ? ` (the other comparison lists ${cmpMap.get(no).alt.length ? cmpMap.get(no).alt.map(e).join(', ') : 'none'})` : ''} · <a href="${cmp.id}.html#s-${no}">comparison</a></p>` : '');
     // Instruments related to each section: those in the library that cite it, then the register's entries.
     const relatedTo = (no) => {
       const out = [...(cited.get(no)?.values() || [])].map(
@@ -266,6 +274,7 @@ ${body}
           <div class="prov-body">${paras}</div>
           ${fns ? `<details class="prov-fns"><summary>Amendment notes (${(s.fn || []).length})</summary><ol>${fns}</ol></details>` : ''}
           ${notes ? `<aside class="prov-notes"><h4>Notes</h4><ul>${notes}</ul></aside>` : ''}
+          ${ordLine(s.no)}
           ${register ? relatedTo(s.no) : ''}
         </article>`;
           })
@@ -320,7 +329,7 @@ ${body}
           .join('')}</ul><p class="small"><a href="related.html">Details, sources and what is still to confirm</a></p></details>`
       : '';
     const subsidiary = kids.length || outside.length
-      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2>${register ? `<p><a class="btn" href="related.html">All rules, regulations and notifications, section by section</a> <a href="related.html#to-identify">Sections still to identify</a></p>` : ''}<ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul>${outsideList}</section>`
+      ? `<section class="subsidiary"><h2>Made under this ${typeLabel(act.type)}</h2>${register ? `<p><a class="btn" href="related.html">All rules, regulations and notifications, section by section</a> <a href="related.html#to-identify">Sections still to identify</a></p>` : ''}${cmp ? `<p><a href="${cmp.id}.html">Compared with the ${e(cmp.otherTitle)}, section by section</a></p>` : ''}<ul class="act-list">${kids.map((k) => actRow(k, base)).join('')}</ul>${outsideList}</section>`
       : '';
 
     const pdfOnly = act.pdfOnly
@@ -434,6 +443,41 @@ ${body}
   </section>`,
         })
       );
+
+      // ---------- comparison with the law this Act replaced ----------
+      for (const c of (extras.comparisons || []).filter((x) => x.act === act.id)) {
+        const byNo = new Map(act.parts.flatMap((p) => p.sections).map((s) => [s.no, s]));
+        const secLink = (n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`;
+        const other = c.otherId && acts.find((x) => x.id === c.otherId);
+        const otherNos = new Set(other ? other.parts.flatMap((p) => p.sections.map((s) => s.no)) : []);
+        const ordLink = (n) => (otherNos.has(n) ? `<a href="../${c.otherId}/index.html#${provisionAnchor(n)}">${e(n)}</a>` : e(n));
+        const ord = (n) => `${ordLink(n)}${c.titles?.[n] ? ` <span class="muted small">${e(c.titles[n])}</span>` : ''}`;
+        const rows = c.pairs
+          .map((p) => `<tr id="s-${p.a}"${p.src === 'differs' ? ' class="differs"' : ''}><td>${secLink(p.a)}</td><td>${e(byNo.get(p.a)?.title || '')}</td><td>${p.o.length ? p.o.map(ord).join('<br>') : '<span class="muted">— (new section)</span>'}${p.alt ? `<br><span class="badge warn">The two comparisons differ</span> <span class="muted small">the other lists: ${p.alt.length ? p.alt.map(ordLink).join(', ') : 'none'}</span>` : ''}</td></tr>`)
+          .join('');
+        const nDiff = c.pairs.filter((p) => p.src === 'differs').length;
+        write(
+          `acts/${act.id}/${c.id}.html`,
+          layout({
+            title: `${act.title} compared with the ${c.otherTitle} — ${site.name}`,
+            description: `For each section of the ${act.title}, the section of the ${c.otherTitle} on the same matter.`,
+            base,
+            page: 'act',
+            body: `
+  <section class="prose related-page">
+    <p class="crumbs"><a href="${base}index.html">Library</a> / <a href="index.html">${e(act.title)}</a></p>
+    <h1>${e(act.title)} compared with the ${e(c.otherTitle)}</h1>
+    <p>${e(c._about)}</p>
+    <p class="note-box"><strong>Unverified.</strong> ${c.pairs.length} sections of the Act. ${nDiff} are marked where the two comparisons differ. ${e(c.missing)}</p>
+    <div class="table-wrap"><table class="sources-table related-table">
+      <thead><tr><th>${e(act.title)}</th><th>Heading</th><th>${e(c.otherTitle)}, section</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table></div>
+    ${c.unmatchedOrdinance?.length ? `<h2>Sections of the Ordinance not matched to a section of the Act</h2><p class="muted small">Omitted, or merged into another section: ${c.unmatchedOrdinance.map((n) => ord(n)).join('; ')}.</p>` : ''}
+  </section>`,
+          })
+        );
+      }
 
       // ---------- forms of older rules matched to this Act's sections ----------
       for (const m of extras.formMaps.filter((x) => x.act === act.id)) {
@@ -650,6 +694,48 @@ ${body}
     <nav class="chips" aria-label="Sectors">${cat.categories.map((g) => `<a class="chip" href="#${g.id}">${e(g.name)}</a>`).join('')}</nav>
     ${sections}
   </section>`,
+      })
+    );
+  }
+
+  // ---------- index of the whole library, by subject, with a link to each instrument ----------
+  {
+    const groups = JSON.parse(fs.readFileSync(path.join(dataDir || path.join(ROOT, 'data'), 'contents-groups.json'), 'utf8')).groups;
+    const byId = new Map(acts.map((a) => [a.id, a]));
+    const seen = new Map();
+    for (const g of groups) for (const id of g.items) {
+      if (!byId.has(id)) throw new Error(`contents-groups.json lists unknown instrument ${id}`);
+      if (seen.has(id)) throw new Error(`contents-groups.json lists ${id} twice (${seen.get(id)} and ${g.id})`);
+      seen.set(id, g.id);
+    }
+    const missing = acts.filter((a) => !seen.has(a.id)).map((a) => a.id);
+    if (missing.length) throw new Error(`contents-groups.json lacks: ${missing.join(', ')}`);
+    const nProv = (a) => a.parts.reduce((n, p) => n + p.sections.length, 0);
+    const row = (a) => `<li class="idx-item" data-q="${e((a.title + ' ' + (a.number || '') + ' ' + (a.aliases || []).join(' ')).toLowerCase())}">
+        <a href="acts/${a.id}/index.html"><span class="idx-title">${e(a.title)}</span></a>
+        <span class="idx-meta">${a.number ? e(a.number) + ' · ' : ''}${e(typeLabel(a.type))}${a.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : ''}${a.pdfOnly || !nProv(a) ? ' · text in the official PDF' : ` · ${nProv(a)} ${a.unit.toLowerCase()}${nProv(a) === 1 ? '' : 's'}`}${a.amendedUpToLabel ? ' · ' + e(a.amendedUpToLabel) : ''}${a.verification.status === 'verified' ? ' <span class="badge ok">Checked</span>' : ''}</span>
+        ${a.id === 'companies-act-2017' ? '<span class="idx-meta"><a href="acts/companies-act-2017/related.html">Rules, regulations and notifications by section</a></span>' : ''}
+      </li>`;
+    const body = groups
+      .map((g) => `<section class="idx-group" id="${g.id}"><h2>${e(g.name)} <span class="muted small">${g.items.length}</span></h2><p class="muted small">${e(g.intro)}</p><ol class="idx-list">${g.items.map((id) => row(byId.get(id))).join('')}</ol></section>`)
+      .join('');
+    write(
+      'contents.html',
+      layout({
+        title: `Index — ${site.name}`,
+        description: 'Every law, rule and regulation in the library, by subject, with a link to each.',
+        base: '',
+        page: 'contents',
+        body: `
+  <section class="prose contents-page">
+    <h1>Index of laws, rules and regulations</h1>
+    <p>All ${acts.length} instruments in the library, by subject: the Act first, then the rules and regulations made under it. Each title opens the instrument. For laws SECP administers that are not here yet, see <a href="laws.html">SECP laws</a>.</p>
+    <input class="idx-filter" id="idx-filter" type="search" placeholder="Filter by title, number or short name" aria-label="Filter the index" autocomplete="off">
+    <nav class="chips" aria-label="Subjects">${groups.map((g) => `<a class="chip" href="#${g.id}">${e(g.name)}</a>`).join('')}</nav>
+    <p class="muted small" id="idx-empty" hidden>Nothing matches.</p>
+    ${body}
+  </section>
+  <script>(function(){var f=document.getElementById('idx-filter');if(!f)return;f.addEventListener('input',function(){var q=f.value.trim().toLowerCase(),n=0;document.querySelectorAll('.idx-item').forEach(function(li){var ok=!q||li.getAttribute('data-q').indexOf(q)>-1;li.hidden=!ok;if(ok)n++;});document.querySelectorAll('.idx-group').forEach(function(g){g.hidden=!!q&&!g.querySelector('.idx-item:not([hidden])');});document.getElementById('idx-empty').hidden=n>0;});})();</script>`,
       })
     );
   }

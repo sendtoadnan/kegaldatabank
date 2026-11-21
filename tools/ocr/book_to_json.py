@@ -343,8 +343,8 @@ def convert(spec):
     for l in lines:
         t = re.sub(r"^[Il|](?=\d[.,]\s*[A-Z])", "1", l["text"])
         t = re.sub(r"\s*[•·]+\s*$", "", t)                                                              # stray bullet at the end of a line
-        t = re.sub(r"^[0-9¹²³*'+°•]{0,2}[\[(|](?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "[", t)
-        t = re.sub(r"^[0-9¹²³*']{0,2}\[(\d{1,3}[A-Z]?)\]\s*[.,]\s*(?=[A-Z])", r"[\1. ", t)       # "2[18]. Pledging…" -> "[18. Pledging…"
+        t = re.sub(r"^[0-9¹²³*'+°•<il]{0,2}[\[(|](?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "[", t)
+        t = re.sub(r"^[0-9¹²³*'<il]{0,2}[\[(](\d{1,3}[A-Z]?)[\])]\s*[.,]\s*(?=[A-Z])", r"[\1. ", t)       # "2[18]. / 2[18). / 1(24). Pledging…" -> "[18. Pledging…" (marker, then number closed by ] or ))
         t = re.sub(r"^(\W{0,3}\d{1,3}[A-Z]?[.,])\s*[•·*]\s*(?=[A-Z])", r"\1 ", t)                  # "8. •Procedure where…" -> "8. Procedure where…"
         t = re.sub(r"^[•·*]\s*(?=\d{1,3}[A-Z]?[.,]\s*[A-Z])", "", t)                                   # "• 26. Refusal…"   # "2[19. Mode of payment.-" (substituted provision)
         for old, new in fixes.items():

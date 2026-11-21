@@ -26,7 +26,12 @@ export function loadExtras(dataDir = DATA_DIR) {
   const catalogues = fs.existsSync(catDir)
     ? fs.readdirSync(catDir).filter((f) => f.endsWith('.json')).sort().map((f) => ({ ...JSON.parse(fs.readFileSync(path.join(catDir, f), 'utf8')), id: f.replace(/\.json$/, '') }))
     : [];
-  return { checks, registers, searchTerms, formMaps, catalogues };
+  // Section-by-section comparisons of an Act with the law it replaced, one file each (data/comparison/).
+  const cmpDir = path.join(dataDir, 'comparison');
+  const comparisons = fs.existsSync(cmpDir)
+    ? fs.readdirSync(cmpDir).filter((f) => f.endsWith('.json')).sort().map((f) => ({ ...JSON.parse(fs.readFileSync(path.join(cmpDir, f), 'utf8')), id: f.replace(/\.json$/, '') }))
+    : [];
+  return { checks, registers, searchTerms, formMaps, catalogues, comparisons };
 }
 
 export function validateExtras({ acts }, { checks, registers, searchTerms, formMaps, catalogues }, evidenceDir = EVIDENCE_DIR) {
@@ -44,6 +49,13 @@ export function validateExtras({ acts }, { checks, registers, searchTerms, formM
     if (!act) { errors.push(`forms/${m.id}.json: unknown act "${m.act}"`); continue; }
     const nos = new Set(act.parts.flatMap((p) => p.sections.map((s) => s.no)));
     for (const f of m.forms || []) for (const n of f.act2017 || []) if (!nos.has(n)) errors.push(`forms/${m.id}.json: form ${f.form} names unknown section ${n}`);
+    const lib = m.library && byId.get(m.library);
+    if (m.library && !lib) errors.push(`forms/${m.id}.json: unknown library instrument "${m.library}"`);
+    if (lib) for (const b of m.ruleMatches || []) {
+      for (const r of b.rules) if (!lib.parts.some((p) => p.sections.some((x) => x.no === r))) errors.push(`forms/${m.id}.json: ruleMatches names rule ${r}, which is not in ${m.library}`);
+      for (const n of b.act2017 || []) if (!nos.has(n)) errors.push(`forms/${m.id}.json: ruleMatches names unknown section ${n}`);
+    }
+    if (lib) { const have = new Set(lib.parts.flatMap((p) => p.sections.map((x) => x.no))); for (const f of m.forms || []) if (!have.has(f.rule)) errors.push(`forms/${m.id}.json: form ${f.form} names rule ${f.rule}, which is not in ${m.library}`); }
   }
   for (const [id, list] of Object.entries(searchTerms || {})) {
     if (!byId.has(id)) errors.push(`search-terms.json: unknown instrument "${id}"`);
@@ -91,10 +103,36 @@ export function sectionRefs(text) {
 }
 
 /** For each section of `act`, the provisions of instruments made under it that cite that section. */
-export function citedSections(act, kids) {
+export function citedSections(act, kids, formMaps = []) {
   const nos = new Set(act.parts.flatMap((p) => p.sections.map((s) => s.no)));
   const map = new Map();
+  // Rules framed under an older law (e.g. the Companies (Court) Rules, 1997) cite that law's section numbers, so the numbers in
+  // their text cannot be read as sections of this Act: their rules are linked through the form map (rule -> matched sections).
+  const matched = new Set();
+  for (const m of formMaps) {
+    const kid = m.library && m.act === act.id ? kids.find((k) => k.id === m.library) : null;
+    if (!kid) continue;
+    matched.add(kid.id);
+    const have = new Set(kid.parts.flatMap((p) => p.sections.map((s) => s.no)));
+    const add = (rule, sections) => {
+      for (const no of sections || []) {
+        if (!nos.has(no)) continue;
+        if (!map.has(no)) map.set(no, new Map());
+        const byKid = map.get(no);
+        if (!byKid.has(kid.id)) byKid.set(kid.id, { kid, provisions: [] });
+        const list = byKid.get(kid.id).provisions;
+        if (!list.includes(rule)) list.push(rule);
+      }
+    };
+    for (const f of m.forms || []) {
+      if (!have.has(f.rule)) continue;
+      add(f.rule, f.act2017);
+    }
+    for (const b of m.ruleMatches || []) for (const r of b.rules) if (have.has(r)) add(r, b.act2017);
+    for (const byKid of map.values()) { const e = byKid.get(kid.id); if (e) e.provisions.sort((x, y) => parseInt(x, 10) - parseInt(y, 10) || x.localeCompare(y)); }
+  }
   for (const kid of kids) {
+    if (matched.has(kid.id)) continue;
     for (const p of kid.parts) {
       for (const s of p.sections) {
         for (const no of new Set(sectionRefs(plainText(s)))) {
