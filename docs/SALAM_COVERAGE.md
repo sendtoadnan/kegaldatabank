@@ -1,37 +1,38 @@
 # S.A. Salam coverage check
 
-## Progress benchmark (2026-11-21)
+## Progress benchmark (2026-11-22)
 
-- **Instruments in the book's contents that are now in the library: 74 of 114 = 65%** (all Unverified; the book is the source).
-- Of what has been scanned (98 instruments): 76%.
-- The book's notification index: 174 of 406 numbers appear in our data = 43%.
+- **Instruments in the book's contents that are now in the library: 84 of 114 = 74%** (all Unverified; the book is the source).
+- Of what has been scanned (106 instruments): 79%.
+- The book's notification index: 177 of 406 numbers appear in our data = 44%.
 - Pages read (OCR): 3,898 of the pages you scanned; Volume II Part 2 (Parts VI to IX) is not scanned, and about 85 pages inside scanned parts are missing (21 listed, plus most of the NBFC Rules 2003) from the binders (`docs/SCAN_GAPS.md`).
 - Verified against a scan by a person: 0 of the instruments taken from the book (task 64).
 
 What is left:
 
-- not scanned yet (Volume II Part 2): 16
 - scanned, not yet converted: 11
+- not scanned yet (Volume II Part 2): 8
 - scanned but blocked (pages missing from the scan, or needs converter work): 7
-- repealed, not yet added (to add marked repealed): 6
+- repealed, not yet added (to add marked repealed): 4
 
 Re-run `python3 tools/ocr/salam_coverage.py` to refresh these figures.
 
 Made by `python3 tools/ocr/salam_coverage.py` from the book's contents and update history (`data/salam/`).
 The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the book's update notes record an amendment, new S.R.O. or circular on that instrument's pages after our edition date: check each before re-converting.
 
-## Book has later changes (6)
+## Book has later changes (7)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
 | AI-1 | Companies Act, 2017 | companies-act-2017 | 2022-08-18 | 2026-06-20 |
 | III-413 | Public Offering Regulations, 2017 | public-offering-regulations-2017 | 2021-09-15 | 2026-05-25 |
+| III-489 | Companies (Incorporation) Regulations, 2017 — *Repealed by S.R.O. 210(I)/2024* | companies-incorporation-regulations-2017 | 2021-12-31 | 2024-02-12 |
 | III-1151 | Shariah Governance Regulations, 2023 | shariah-governance-regulations-2023 | 2023-09-14 | 2023-09-18 |
 | III-1187 | Unlisted Companies (Buy-Back of Shares) Regulations, 2023 — *Repealed by S.R.O. 210(I)/2024* | unlisted-companies-buy-back-regulations-2023 | 2023-10-12 | 2024-02-12 |
 | I-1 | Futures Market Act, 2016 | futures-market-act-2016 | 2016-04-09 | 2024-06-05 |
 | V-11 | Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003 | nbfc-rules-2003 | 2023-09-14 | 2025-07-31 |
 
-## Not in library (40)
+## Not in library (30)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -45,8 +46,6 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-281 | Securities Brokers (Licensing and Operations) Regulations, 2016 |  |  | 2024-04-08 |
 | III-341 | Clearing House (Licensing and Operations) Regulations, 2016 |  |  | 2023-08-10 |
 | III-359 | Securities Exchanges (Licensing and Operations) Regulations, 2016 |  |  | 2023-08-10 |
-| III-489 | Companies (Incorporation) Regulations, 2017 — *Repealed by S.R.O. 210(I)/2024* |  |  | 2024-02-12 |
-| III-511 | Intermediaries (Registration) Regulations, 2017 — *Repealed by S.R.O. 210(I)/2024* |  |  |  |
 | III-611 | Shariah Advisors Regulations, 2017 — *Repealed by S.R.O. 1314(I)/2023* |  |  |  |
 | III-649 | Companies (Registration Offices) Regulations, 2018 |  |  | 2024-02-12 |
 | III-765 | Associations with Charitable and Not for Profit Objects Regulations, 2018 — *Repealed by S.R.O. 210(I)/2024* |  |  | 2024-02-12 |
@@ -60,23 +59,15 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | V-117 | Prudential Regulations for Consumer Finance by NBFCs |  |  |  |
 | V-127 | Miscellaneous circulars etc. (NBFCs) |  |  | 2026-06-20 |
 | VA-1 | Non-Banking Finance Companies and Notified Entities Regulations, 2008 |  |  | 2025-08-01 |
-| VI-19 | Modaraba Companies and Modaraba Rules, 1981 |  |  |  |
 | VI-79 | Prudential Regulations for Modarabas |  |  | 2022-01-31 |
-| VII-1 | Competition Act, 2010 |  |  |  |
-| VII-31 | Competition Commission (Conduct of Business) Regulations, 2007 |  |  |  |
 | VII-39 | Competition Commission (Investment and Expenditures) Regulations, 2007 |  |  |  |
-| VII-45 | Competition Commission (General Enforcement) Regulations, 2007 |  |  |  |
 | VII-71 | Competition Commission (Leniency) Regulations, 2019 |  |  | 2019-06-19 |
 | VII-77 | Competition Commission (Merger Control) Regulations, 2016 |  |  | 2024-03-18 |
-| VII-100(1) | Competition Commission (Reward Payment to Informants) Regulations, 2014 |  |  |  |
 | VII-100(5) | Competition Commission (Exemption) Regulations, 2020 |  |  | 2022-01-31 |
-| VII-101 | Competition Commission (Appeal) Rules, 2007 |  |  |  |
 | VII-119 | Competition Commission (Conduct of Investigating Officers) Rules, 2007 |  |  |  |
-| VII-123 | Competition Commission (Extension in Exemption) Rules, 2007 |  |  |  |
-| VII-132A | Competition Appellate Tribunal Rules, 2015 |  |  |  |
 | VII-139 | Competition Commission (Collection of Fees and Charges) Rules, 2009 |  |  |  |
 
-## No later change recorded (68)
+## No later change recorded (77)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -106,6 +97,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-455 | Centralized Customer Protection Compensation Fund Regulations, 2017 | centralized-customer-protection-compensation-fund-regulations-2017 | 2026-06-20 |  |
 | III-459 | CMC (Establishment and Operation) Regulations, 2017 | cmc-regulations-2017 | 2026-06-20 |  |
 | III-473 | Futures Exchanges (Licensing and Operations) Regulations, 2017 | futures-exchanges-regulations-2017 | 2026-06-20 | 2023-11-17 |
+| III-511 | Intermediaries (Registration) Regulations, 2017 — *Repealed by S.R.O. 210(I)/2024* | intermediaries-registration-regulations-2017 | 2021-12-31 |  |
 | III-529 | Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017 | listed-companies-takeovers-regulations-2017 | 2026-06-20 | 2024-01-24 |
 | III-561 | Unclaimed Shares and Other Instruments and Undistributed Assets Regulations, 2017 | unclaimed-shares-regulations-2017 | 2017-10-06 |  |
 | III-569 | Bond Pricing Agency Rules, 2017 | bond-pricing-agency-rules-2017 | 2026-06-20 |  |
@@ -148,3 +140,11 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | IV-161 | Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012 | stock-exchanges-demutualization-regulations-2012 | 2021-12-31 |  |
 | IX-1 | Anti-Money Laundering Act, 2010 | aml-act-2010 | 2020-09-30 |  |
 | VI-1 | Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980 | modaraba-ordinance-1980 | 2012-12-31 |  |
+| VI-19 | Modaraba Companies and Modaraba Rules, 1981 | modaraba-companies-rules-1981 | 2021-12-31 |  |
+| VII-1 | Competition Act, 2010 | competition-act-2010 | 2021-12-31 |  |
+| VII-31 | Competition Commission (Conduct of Business) Regulations, 2007 | competition-commission-conduct-of-business-regulations-2007 | 2021-12-31 |  |
+| VII-45 | Competition Commission (General Enforcement) Regulations, 2007 | competition-commission-general-enforcement-regulations-2007 | 2021-12-31 |  |
+| VII-100(1) | Competition Commission (Reward Payment to Informants) Regulations, 2014 | competition-commission-reward-payment-informants-regulations-2014 | 2021-12-31 |  |
+| VII-101 | Competition Commission (Appeal) Rules, 2007 | competition-commission-appeal-rules-2007 | 2021-12-31 |  |
+| VII-123 | Competition Commission (Extension in Exemption) Rules, 2007 | competition-commission-extension-exemption-rules-2007 | 2021-12-31 |  |
+| VII-132A | Competition Appellate Tribunal Rules, 2015 | competition-appellate-tribunal-rules-2015 | 2021-12-31 |  |

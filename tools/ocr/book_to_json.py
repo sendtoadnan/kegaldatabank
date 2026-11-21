@@ -189,7 +189,7 @@ def clean_page(rows, short_names):
     return [r for r in keep if not r.get("foot")]
 
 FN = re.compile(r"^\W{0,2}(?:\d{1,2}|['`’‘]|[Il|](?=[A-Z]))\s?(Repealed|Substituted|Inserted|Omitted|Deleted|Added|Words?\b|Sub-|Clause|Proviso|Para|Item|S\.\s?No|Sr\.|Earlier|Regulations?\b|Rules?\b|Explanation|Figures?\b|Comma|Full stop|Renumbered|Amended|The (word|words|figure|figures|comma)|For the|Re-?numbered|Heading|Schedule|Annexure|Form)")
-FN2 = re.compile(r"^\W{0,2}(?:\d{1,2}\s?|['`’‘]\s?|[il|](?=[A-Z]))[A-Z][\w.()&,'\" -]{0,70}?\b(deleted|substituted|inserted|omitted|added|amended|renumbered|repealed)\b", re.I)
+FN2 = re.compile(r"^\W{0,2}(?:\d{1,2}\s?|['`’‘]\s?|(?-i:[il|](?=[A-Z])))[A-Z][\w.()&,'\" -]{0,70}?\b(deleted|substituted|inserted|omitted|added|amended|renumbered|repealed)\b", re.I)
 FN3 = re.compile(r"^\W{0,3}(?:Repealed|Substituted|Inserted|Omitted|Deleted|Added|Renumbered)\s+(?:for|by|vide|the)\b")   # a footnote whose marker was read as punctuation
 QUOTE_START = re.compile(r"read as\s*(follows|under)|read as\s*$|^follows\s*:", re.I)
 QUOTE_END = re.compile(r"[\"”'’]\s*[.;:,]?\s*$")
