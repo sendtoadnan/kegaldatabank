@@ -57,7 +57,7 @@ for a in ORDER:
 used = {x for p in pairs for x in p["o"] + p.get("alt", [])}
 unmatched = [n for n in sorted(heads, key=key) if n not in used]
 titles = {n: heads[n] for n in used if n in heads}
-out = {"act": "companies-act-2017", "otherTitle": "Companies Ordinance, 1984",
+out = {"act": "companies-act-2017", "otherTitle": "Companies Ordinance, 1984", "otherId": "companies-ordinance-1984",
  "_about": "For each section of the Companies Act, 2017, the section of the Companies Ordinance, 1984 that deals with the same matter, read from two printed comparisons (where they differ, both are shown); the Ordinance's section headings are from its own contents list. The Ordinance was repealed by the Act, except Part VIIIA. A dash means the Ordinance has no counterpart (the section of the Act is new).",
  "status": "unverified", "coverage": [["1", ORDER[-1]]], "sources": "both = the two comparisons agree; differs = they differ (book first, other beside it); index = one comparison only (the book's pages are not held for these sections).",
  "missing": "Sections 60A, 83A, 123A and 458A (added by later amendments) are not in either comparison.",

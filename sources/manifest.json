@@ -1763,6 +1763,42 @@
     }
   },
   {
+    "id": "companies-ordinance-1984",
+    "file": "companies-ordinance-1984.pdf",
+    "title": "Companies Ordinance, 1984",
+    "number": "Ordinance No. XLVII of 1984",
+    "type": "ordinance",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Companies Ordinance",
+      "CO 1984",
+      "CO1984",
+      "Repealed Ordinance"
+    ],
+    "enacted": "1984-07-05",
+    "status": "repealed",
+    "source": {
+      "name": "Consolidated edition supplied by the library's editor (source to be confirmed)",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2018-12-26",
+    "amendedUpToLabel": "As at 26 December 2018",
+    "bodyStartPage": 21,
+    "maxJump": 4,
+    "numberingGaps": [
+      11
+    ],
+    "caution": "Repealed by the Companies Act, 2017, except Part VIII-A (sections 282A to 282N), which section 509(1) of the Act keeps applicable, with all related or connected provisions, to non-banking finance companies as if the Ordinance had not been repealed. Kept for transactions, proceedings and companies of earlier periods and to read the rules and cases that refer to its section numbers (see the comparison with the Companies Act, 2017). This is a consolidated edition as at 26 December 2018, so later amendments (for example to Part VIII-A) are not reflected; the edition's own source is to be confirmed.",
+    "sourceNotes": "Text read from the PDF supplied by the library's editor, which carries the amendments in footnotes. Section 11 is shown as deleted in its contents list. Sections 78A, 160A and 204A are listed in the contents but are not printed in the text of this edition.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/ordinances/",
+      "manual": true
+    }
+  },
+  {
     "id": "companies-court-rules-1997",
     "file": "companies-court-rules-1997.pdf",
     "title": "Companies (Court) Rules, 1997",

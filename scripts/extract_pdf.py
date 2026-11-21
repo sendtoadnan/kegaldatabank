@@ -798,7 +798,7 @@ def extract(entry):
                 base = int(re.match(r"\d+", st[0]).group())
                 prev_no = last_no[0]
                 prev_base = int(re.match(r"\d+", prev_no).group()) if prev_no and re.match(r"\d+", prev_no) else 0
-                if (base < prev_base or (prev_no == st[0]) or base > prev_base + 25
+                if (base < prev_base or (prev_no == st[0]) or base > prev_base + entry.get("maxJump", 25)
                         or (prev_no is None and base > 5)
                         or (st[1] == "" and base not in (prev_base, prev_base + 1))):
                     if DEBUG: print("rejected", st[0], "after", prev_no, "p", pno + 1, file=sys.stderr)
