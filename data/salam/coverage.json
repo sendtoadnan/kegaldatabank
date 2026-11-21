@@ -2680,22 +2680,22 @@
   "page": "V-89",
   "title": "Prudential Regulations for Non-Banking Finance Companies",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "prudential-regulations-nbfc",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
   "page": "V-117",
   "title": "Prudential Regulations for Consumer Finance by NBFCs",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "prudential-regulations-consumer-finance-nbfc",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",

@@ -1,0 +1,346 @@
+{
+  "id": "prudential-regulations-nbfc",
+  "title": "Prudential Regulations for Non-Banking Finance Companies",
+  "number": "Circular No. 2 of 2004",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+    "corporate"
+  ],
+  "aliases": [
+    "Prudential Regulations for NBFCs"
+  ],
+  "lastAmended": "2021-12-31",
+  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "status": "in-force",
+  "source": {
+    "name": "SECP Circular No. 2 of 2004",
+    "url": "https://www.secp.gov.pk"
+  },
+  "verification": {
+    "status": "unverified",
+    "note": "Text converted from a printed consolidated edition updated to As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
+  },
+  "preamble": "",
+  "parts": [
+    {
+      "heading": "Part I",
+      "sections": [
+        {
+          "no": "I.1",
+          "title": "Definitions",
+          "text": [
+            "(1) In these guidelines, unless there is anything repugnant in the subject or context:-",
+            ">(a) Borrower includes a person on whom a NBFC has taken any exposure during the course of business.",
+            ">(b) Contingent liability means:",
+            ">>(i) a possible obligation that arises from past events and whose existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the enterprise; or",
+            ">>(ii) a present obligation that arises from past events but is not recognized because:",
+            ">(a) it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation; or",
+            ">(b) the amount of the obligation cinnot be measured with sufficient reliability; and includes letters of credit, letters of guarantee, bid bonds/ performance bonds, advance payment guarantees and underwriting commitments.",
+            ">(c) Documents include vouchers, cheques, bills, pay-orders, promissory notes, securities for leases / advances and claims by or against the NBFC or any other record / papers supporting entries in the books of a NBFC.",
+            ">(d) Equity of the Borrower includes paid-up capital, general reserves, balance in share premium account, reserve for issue of bonus shares and retained earnings / accumulated losses, revaluation reserves on account of fixed assets and subordinated loans.",
+            "Explanation: Revaluation reserves will remain part of the equity for first three years only, from the date of asset revaluation, during which time the borrower will strengthen its equity base to enable it to avail facilities without the benefit of revaluation reserves.",
+            ">(e) Exposure includes facilities and subscription to or investment in shares.",
+            "Explanation: Secure d exposure means exposure backed by tangible security and any other form of security with appropriate margins (in cases where margin has been prescribed by SEC, appropriate margin shall at least be equal to the prescribed margin).",
+            "Clean exposure means exposure without any security or collateral.",
+            ">(f) Financial Institutions includes,-",
+            ">(a) a company or an institution whether established under any special enactment and operating within or outside Pakistan which transacts the business of banking or any associated or ancillary business through its branches;",
+            ">(b) a modaraba, leasing company, investment bank, venture capital company, financing company, housing • finance company, a non-banking finance company and a bank or any institution duly licensed by State Bank of Pakistan;",
+            "Juu .. (c) such other institution or companies authorised by law to undertake any similar business, as the Federal Government may, by notification in the official Gazette, specify for the purpose;\".",
+            ">(g) Forced Sale Value (FSV) means the value which fully reflects the possibility of price fluctuations and can currently be obtained by selling the mortgaged/pledged/leased/ collaterally held assets in a forced/distressed sale conditions.",
+            ">(h) Government Securities include monetary obligations of the Federal Government or a Provincial Government or of a Corporation wholly owned or controlled, directly or indirectly, bv the Federal Government or a Provincial Government an l guaranteed by the Federal Government and any other security as the Federal Government may, by notification in the Official Gazette, declare, to the extent determined from time to time, to be Government Securities.",
+            ">(i) Group means persons, whether natural or juridical, if one of them or his family members including spouse, lineal ascendants and descendants and brothers and sisters or its subsidiary, have control or hold substantial ownership interest or have power to exercise significant influence over the other. For the purpose of this:",
+            ">>(i) Subsidiary will have the same meaning as defined in sub- section 3(2) of the Companies Ordinance, 1984 i.e. a company or a body corporate shall deemed to be a subsidiary of another company if that other company or body corporate directly or indirectly controls, beneficially owns or\"holds more than 50% of its voting securities or otherwise has power to elect and appoint more than 50% of its directors.",
+            ">>(ii) Control refers to an ownership directly or indirectly through subsidiaries, of more than one lialf of voting power of an enterprise.",
+            ">>(iii) Substantial ownership / affiliation means beneficial share holding of 10% by a person and/or by his family members including spouse, lineal ascendants and and descendants and brothers and sisters.",
+            ">>(iv) Significant influence refers to the management control of the company, to participate in financial and operating policies, either exercised by representation in the Board of Directors, partnership or by statute / agreement in the policy making process or affiliation or material inter- company transactions.",
+            ">(j) Liquid Assets are the assets which are readily convertible into cash without recourse to a court of law and mean encashment / realizable value of government securities, bank deposits, shares of listed companies which are actively traded on the stock exchange, NIT Units, certificates of mutual funds, Certificates of Investment (COIs)/Certificates of Deposits (CODs) issued by DFIs / NBFCs and Certificates of Musharika (COMs) issued by Modarabas rated at least 'A' by a credit rating agency registered with the SEC, listed TFCs and Commercial Papers rated at least 'A' by a credit rating agency registered with the SEC, National Saving Scheme securities and units of open ended schemes for which a duly licensed asset management company quotes daily offer and bid rates. These assets with appropriate margins should be in possession of the NBFCs with perfected lien.",
+            ">(k) Major Shareholder of a NBFC means any person holding 10% or more of the share capital of a NBFC either individually or in concert with family members.",
+            "(1) Medium and Long Te rm Facilities mean facilities with maturities of more than one year.",
+            ">(m) Other Form of Security means hypothecation of stock (inventory), assignment of receivables, lease rentals, contract receivables, etc.",
+            ">(n) Readily Realizable Assets include liquid assets and stocks pledged with the NBFCs and are in their possession, with \"perfected lien' duly supported with complete documentation.",
+            ">(o) Rentals include lease rentals, rentals in respect of housing finance facilities, hire purchase installments or any other installments + amount received by NBFC from borrower against the grant of facility.",
+            ">(p) Short Term Facilities mean facilities with maturities up to one year",
+            ">(q) Subordinated Loan means an unsecured loan extended to the borrower by its sponsors, subordinate to the claim of the NBFC taking exposure on the borrower and documented by a formal sub-ordination agreement between provider of the loan and the borrower. The loan shall be disclosed in the annual audited financial statements of the borrower as subordinated loan.",
+            ">(r) Tangible Security means readily realizable assets, mortgage of land, plant, building, machinery and any other fixed assets.",
+            ">(s) Underwriting Commitment s mean commitments given by NBFCs to the limited companies at the time of new issue of' equity / debt instrument, that in case the proposed issue of equity/debt instrument is not fully subscribed, the un-subscribed portion will be taken up by them (NBFCs).",
+            "(2) All terms and expressions used but not defined in these regulations shall have the same meanings as assigned to them in the Non-Banking Finance Companies (Establishment & Regulation) Rules, 2003.",
+            "(3) Part - II & III of these regulations shall not apply to NBFCs operating solely or in any combination thereof, as an asset management company, investment advisor or a venture capital company. However, Part - IV of these regulations shall apply to all NBFCs undertaking any form of business mentioned in section 282A of the Companies Ordinance, 1984."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Part II (A) Corporate Borrowers",
+      "sections": [
+        {
+          "no": "II.1",
+          "title": "Limit on NBFC's exposure to a single person",
+          "text": [
+            "(1) The total outstanding exposure by a NBFC to any single persun shall not at any point in time exceed 30% of the NBFC's equity (as disclosed in the latest audited financial statements), subject to the condition that the maximum outstanding against fund based exposure does not exceed 20% of the NBFC's equity.",
+            "(2) The total outstanding exposure by a NBFC to any group shall not exceed 50% of the NBFC's equity (as disclosed in the latest audited financial statements), subject to the condition that the maximum outstanding against fund-based exposure does not exceed 35% of the NBFC's equity.",
+            "(3) In arriving at exposure under this Regulation:",
+            ">(a) 100% of the deposits placed with lending NBFC and TFCs, having investment grade credit rating by a rating agency registered with the SEC, of the lending NBFC shall be excluded.",
+            ">(b) 90% of the following shall be deducted;",
+            ">(i) deposits with another financial institution under perfected lien;",
+            ">(ii) encashment value of Government Securities and National Saving Scheme securities, lodged by the borrower as by the collateral; and",
+            ">(iii) Pak. Rupee equivalent of face value of Special US Dollar Bonds converted at inter-bank rate, lodged by the borrower as collateral.",
+            ">(c) 85% of the unconditional financial guarantees, payable on demand, issued by a financial institution rated at least 'A' by a credit rating agency registered with the SEC, accepted as collateral by NBFCs shall be deducted.",
+            ">(d) 75% of listed Term Finance Certificates held as security with duly marked lien shall be deducted. The TFCs to qualify for this purpose should have been rated at least 'A' or equivalent by a credit rating agency registered with the SEC.",
+            ">(e) Weightage of 50% shall be given to;",
+            ">(i) guarantees / bonds other than financial guarantees;",
+            ">(ii) underwriting commitments.",
+            ">(f) The following different weightages will be applicable to exposure - taken against financial institutions in respect of placements;",
+            ">(i) 10% weightage on exposure to financial institutions with 'AAA' rating.",
+            ">(ii) 25% weightage on exposure to financial institutions rated 'A' and above.",
+            ">(iii) 50% weightage on exposure to financial institutions rated 'BBB' and above.",
+            "(4) For the purpose of this regulation, exposure shall not include the following:",
+            ">(i) Obligations under letters of credit and letters of guarar 'ee to the extent of cash margin held by the NBFCs.",
+            ">(ii) Letters of credit, which do not create any obligation on the part of the NBFCs (no liability L/C) to make payments on account of imports.",
+            ">(iii) Facilities provided to financial institutions through REPO transactions with underlying SLR eligible securities",
+            ">(iv) Pre-shipment / post-shipment credit provided to finance exports of goods covered by letter of credit/firm contracts including financing provided from the NBFC's own resources.",
+            ">(v) Letters of credit established for the import of plant and machinery."
+          ]
+        },
+        {
+          "no": "II.2",
+          "title": "Minimum conditions for grant of financing facilities",
+          "text": [
+            "(1) When considering proposals for fund/non-fund based facility exceeding one million rupees, NBFCs should give due weightage to credit report relating to the borrower and his group obtained from Credit Information Bureau of the State Bank of Pakistan. If the credit report indicates over- exposure/default, the facilities shall be extended only after recording reasons to do so.",
+            "(2) While granting any facility to the customers other than individuals, NBFC shall obtain copy of accounts relating to the business of each of its borrower for analysis and record in the following manner, namely:-",
+            ">(a) where the exposure Such documentary evidence of the does not exceed one means and investment of the million rupees. borrower as may be determined by the management of the NBFC.",
+            ">(b) where the exposure Accounts duly signed by the exceeds one million borrower rupees but does not exceed two million rupees",
+            ">(c) where exposure Accounts duly signed by the exceeds two million borrower and counter signed by: rupees but does not",
+            ">>(i) a chartered accountant; or exceed ten million (i1) a cost and management and rupees. accountant in case of a borrower other than a public company or a private company which is a subsidiary of a public company.",
+            ">(d) where the exposure Accounts duly audited by: exceeds ten million chartered a practicing chartered rupees accountant; or",
+            ">>(ii) a practicing cost and management accountant in case of a borrower other than a public company or a private company which is a subsidiary of a public company.",
+            "Explanation: In case of individuals, NBFC shall obtain such documentary evidence of the means and investment of the borrower such as wealth statement, statemient of assets and liabilities or any other statement as may be considered appropriate by the management of the NBFC.",
+            "(3) Every NBFC shall, before providing any facility (including renewal, enhancement and rescheduling/restructuring), ensure that the Loan Application Form prescribed/devised by a NBFC is accompanied with a \"Borrower's Basic Fact Sheet\" as per Annexure-I. NBFC shall also ensure that the information requested in the Basic Fact Sheet is provided by the borrower under his seal and signature."
+          ]
+        },
+        {
+          "no": "II.3",
+          "title": "Linkage between a borrower's equity and total exposure from NBFCs",
+          "text": [
+            "(1) While taking any exposure, NBFCs shall ensure that the total exposure availed by any borrower from financial institutions does no t exceed 10 times of borrower's equity as disclosed in its financial statements.",
+            "2) For the purpose of this regulation, subordinated loans shall be counted as equity of the borrower. NBFCs should specifically include the condition of subordinated loan in their Offer Letter. The subordination agreement to be signed by the provider of the subordinated loan, should confirm that the subordinated loan will be repaid after that NBFC's prior approval."
+          ]
+        },
+        {
+          "no": "II.4",
+          "title": "Financial indicators of the borrowers",
+          "text": [
+            "(1) It is expected that at the time of allowing fresh exposure/ enhancement /renewal, the currènt assets to current liabilities ratio of the borrower shall not be lower than 1:1. However, in exceptional cases, NBFCs may relax this ratio upto 0.75:1 if they are satisfied that appropriate risk control measures have been put in place.] 2) This regulation shall not apply to the facilities granted to financial institutions with investment grade rating by a credit rating agency registered with SEC or in case of exposure fully secured against liquid assets held as collateral. Export finance and finance provided to ginning and rice husking factories shall also be excluded from the borrowings (exposure) for the purpose of this regulation."
+          ]
+        },
+        {
+          "no": "II.5",
+          "title": "Margin against facilities",
+          "text": [
+            "(1) Following minimum margi s shall be maintained against various facilities and all guarantees will be backed by 100% realizable securities:",
+            ">(a) In case of performance bonds, the condition of 100% cover of' realizable securities may be relaxed subject to minimum compulsory realizable security cover equivalent to 20% of the amount of the performance bond;",
+            ">(b) In case of guarantees issued against mobilisation advance, the condition of 100% cover of realizable securities may be relaxed subject to the following conditions, namely:. •",
+            ">>(i) Guarantees issued shall contain a clause that the mobilisation advance shall be released by the beneficiary through the guarantor NBFC only; and",
+            ">>(ii) At the time of issuing such a guarantee the beneficiary shall sign an agreement with the NBFC that releases out of mobilisation advance would be covered by realizable assets; and",
+            ">(c) In case of bid bonds issued on behalf of domestic consultancy firms bidding for international contracts where the consultancy fees are to be received in foreign exchange, the requirement of 100% cover by realizable securities may be waived off, and this relaxation would also be available to all suppliers of goods and services bidding against international tenders.",
+            "(2) NBFCs shall adhere to the following margin requirements:",
+            ">>i. Shares of listed Companies /TFCs As at Regulation 6 of Part- II",
+            ">>ii. Bank deposits and Certificates of Investment / Certificates of 20% Deposit of NBFCs/DFIs and Certificates of Musharaka of Modarabas with investment grade credit rating by a credit rating agency registered with SEC. • 25% margin is applicable to all forms of certificates including certificates issued under National Saving Scheme such as (a) Special Saving Certificate (b) Khas Deposits Certificates(c) Defense Saving Certificates (d) Foreign Exchange Bearer Certificates (e) Any other Government backed securities. • Value of such certificates shall be taken as the sum payable on the date when facility is being granted by the NBFCs. • Prize Bonds being issued by Government needs to be given same treatment as that of other securities issued by Government. As such NBFCs can provide facilities against Prize Bonds at 25% margin or a margin of 1.5 times of accrued markup on annual basis which ever is higher. Facilities provided against Prize Bonds should be for one year.",
+            ">(iii) Pledge of trading stocks 25%",
+            ">(iv) Hypothecation of trading stocks 50%"
+          ]
+        },
+        {
+          "no": "II.6",
+          "title": "Facilities against Shares/TFCs and acquisition of shares",
+          "text": [
+            "(1) NBFCs shall not:",
+            ">(a) take exposure against the security of shares / TFCs issued by them.",
+            ">(b) provide unsecured credit to finance subscription subscription towards floatation of share capital and issue of TFCs.",
+            ">(c) take exposure against the non- listed TFCs or the shares of companies not listed on the Stock Exchange(s).",
+            ">(d) take exposure on any limited company against the shares/TFCs of that company or its group companies.",
+            ">(e) take exposure against 'sponsor director's shares' (issued in their own name or in the name of their family members) of banks.",
+            ">(f) take exposure against the shares/TFCs of listed companies that are not members of the Central Depository System.",
+            ">(g) take exposure against unsecured TFCs or non-rated TFCs or TFCs rated below investment grade by a credit rating agency registered with the SEC.",
+            "2. NBFCs shall not hold shares in any company whether as pledgee, mortgagee, or absolute owner, of an amount exceeding 30% of the paid-up share capital of that company or 30% of their own paid- up share capital and reserves, whichever is less. Provided that this restriction shall not be applicable to the investments made by the NBFCs in the subsidiaries.",
+            "3. Exposure against the shares of listed companies shall be subject to minimum margin of 30% of their current market value, though the NBFCs may, if they wish, set higher margin requirements keeping ir view other factors. The NBFCs will monitor the margin on at least weekly basis and will take appropriate action for top-up and sell-out on the basis of their Board of Directors' approved credit policy and pre-fact written authorization from the borrower enabling the NBFCs to do this.",
+            "4. Exposure against TFCs rated 'A' (or equivalent) and above by a credit rating agency registered with the SEC shall be subject to a minimum margin of 10% while the exposure against TFCs rated 'A-' and 'BBB' shall be subject to a minimum margin of 20%."
+          ]
+        },
+        {
+          "no": "II.7",
+          "title": "Restrictions on certain types of transactions",
+          "text": [
+            "(1) No NBFC shall allow facilities to any of its directors or to individuals, firms or companies in which it or any of its directors is interested as partner, director or guarantor, as the case may be, its chief executive and its major shareholders, including their spouses, parents, and children or to firms and companies in which they are interested as partners, directors or major shareholders of that concern without the approval by the majority of the directors of that NBFC;",
+            "Provided that the director interested in seeking such approval shall not take part in the proceedings of the approval of the facility;",
+            "(2) No NBFC shall allow unsecured facilities or facilities that are not backed by bank guarantees. Provided that the bank providing the guarantee shall have a minimum investment grade credit rating.",
+            "(3) No NBFC shall allow facilities on the guarantee of its chief executive, directors and major sharenolders including their spouses, parents and children or to firms and companies in which they are interested as partners, directors or major shareholders of that concern.",
+            "(4) No NBFC shall allow facilities for speculative purposes.",
+            "(5) No NBFC other than the NBFC licensed by the SEC to undertake housing finance services shall hold or trade in real estate except that in use of the NBFC itself. Property acquired from a borrower/lessee in consequence of his failing to meet his obligations to NBFC would be exempt from this regulation.",
+            "(6) The facilities extended by NBFCs to their directors, major shareholders, employees and family members of these persons shall be at arms length basis and on normal terms and conditions applicable for other customers of the NBFCs. The NBFCs shall ensure that the appraisal standards are not compromised in such cases and market rates are used for these persons. The facilities extended to the employees of the NBFCs as a part of their compensation package under Employees Service Rules shall not fall in this category."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Part II (B) Individuals Borrowers",
+      "sections": [
+        {
+          "no": "II.8",
+          "title": "Individuals Borrowers",
+          "text": [
+            "Regulation 8 of Section B of Part II of the Prudential Regulations for NBFCs",
+            "1. The maximum per party limit in respect of housing finance by the NBFCs will be Rs.20 million.",
+            "2. The total monthly amortization payments of all consumer loans inclusive of housing loan, should not exceed 60% of the net disposable income of the prospective borrower.",
+            "3. Facilities can be advanced for the purchase of new piece of land, construction of houses or renovation of an existing house against the security of land / plot already owned by the customer.",
+            "4. The housing finance facility shall be provided at a maximum debt- equity ratio of 85:15.",
+            "5. NBFCs are free to extend mortgage loans for housing up to a period of twenty years.",
+            "6. The house financed by the NBFCs shall be mortgaged in NBFC's favour by way of equitable or registered mortgage.",
+            "7. NBFCs shall either engage professional expertise or arrange sufficient training for their concerned officials to evaluate the property, assess the genuineness and integrity of the title documents, etc.",
+            "8. NBFC's management should put in place a mechanism to monitor conditions in the real estate market (or other relevant product market) at least on a quarterly basis to ensure that its policies are aligned to current • market conditions.",
+            "9. NBFCs are encouraged to develop floating rate products for extending housing finance, thereby managing interest rate risk to avoid its adverse effects. NBFCs are also encouraged to develop in-house systems to stress test their housing portfolio against adverse movements in interest rates and also maturity mismatches."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Part III",
+      "sections": [
+        {
+          "no": "III.1",
+          "title": "Limit on NBFC's exposure against liabilities",
+          "text": [
+            "(1) Liabilities, excluding contingent liabilities and security deposits, of NBFC shall not exceed seven times of its equity for the first two years of its operations. In the subsequent years, the liabilities shall not exceed ten times of the equity of the NBFC.",
+            "(2) Contingent liabilities of a NBFC shall not exceed seven times of its equity for the first two years of its operations. In the subsequent years, the contingent liabilities shall not exceed ten times of the equity of NBFC."
+          ]
+        },
+        {
+          "no": "III.2",
+          "title": "Creation and building up of reserve",
+          "text": [
+            "Every NBFC shall create reserve fund to which shall be credited:",
+            ">(a) an amount not less than 20% of its after tax profits till such time the reserve fund equals the amount of the paid up capital; and",
+            ">(b) thereafter a sum not less than 5% of its after tax profits.",
+            "Explanation.- Issuance of bonus shares may be made from the abor - mentioned reserves or the reserves available after appropriation ma under clause (a) or (b) whichever may be the case and since such bonu shares will increase the paid up capital, the NBFC shall transfer further amounts to the reserves in order to comply with condition of clause (a);"
+          ]
+        },
+        {
+          "no": "III.3",
+          "title": "Return on deposits",
+          "text": [
+            "Every NBFI shall provide return on deposits which may be different for different volumes and maturities of deposits provided that uniformity is observed within each category but deposits of listed companies, financial institutions, recognized charitable trusts and statutory bodies shall, however, be exempt."
+          ]
+        },
+        {
+          "no": "III.4",
+          "title": "Deposit Insurance",
+          "text": [
+            "When deposit insurance arrangements are in place, every NBFC shall arrange full insurance cover for its deposits/COIs etc. upto Rs. 100,000/-."
+          ]
+        },
+        {
+          "no": "III.5",
+          "title": "Classification and Provisioning for non-performing assets",
+          "text": [
+            "(1) Every NBFC shall observe the following prudential guidelines in the matter of classification of its assets and provisioning there against:-",
+            "[The table of classification, determinant, treatment of income and provisions, for (A) short term financing facilities and (B) medium and long term financing facilities, is not reproduced in this text; see the printed edition.]",
+            "Notes:",
+            ">(a) Classified facilities / loans / advances that have been guaranteed by the Government would not require provisioning, however, markup / interest / profit on such accounts shall be taken to suspense account instead of income account.",
+            "(2) In addition to the above time based criteria, subjective evaluation of performing and non-performing advances / loans / lease port-folio shall be made for risk assessment and where considered necessary the category of classification determined on the basis of time based criteria shall be further downgraded. Such evaluation shall be carried out on the basis of adequacy of security inclusive of its realizable value, cash flow of borrower / lessee, his operation in the account, documentation covering advances and credit worthiness of the borrower / lessee etc.",
+            "(3) The rescheduling / restructuring of non-performing facilities shall not change the status of classification of a facility unless the terms and conditions of rescheduling / restructuring are fully met for a period of at least one year (excluding grace period, if any) from the date of such rescheduling / restructuring and at least 25% of the outstanding amount is recovered in cash. Accordingly, NBFCs are directed to ensure that status of classification, as well as provisioning, is not changed in relevant reports to the SEC merely because a facility has been rescheduled or restructured. However, while reporting to the Credit Information Bureau (CIB) of State Bank of Pakistan, such loans / advances may be shown as 'rescheduled / restructured' instead of 'default'.",
+            "(4) Where a borrower subsequently defaults (either principal or mark-up) after the rescheduled / restructured loan has been declassified by the NBFCs as per above guidelines, the loan will again be classified in the same category it was in at the time of rescheduling / restructuring. However, NBFCs at their discretion may further downgrade the classification, taking into account the subjective criteria.",
+            "(5) At the time of rescheduling / restructuring, NBFCs shall consider and examine strictly on merit the viability of the project / business and shall appropriately secure their interest etc.",
+            "(6) NBFCs shall classify their loans / advances / lease portfolio and make provision thereagainst in accordance with the time-based criteria prescribed above. However, where a NBFC wishes to avail the benefit of leased assets owned by the NBFC; or additional collaterals held against lease facilities; or collaterals held against advances / loans facilities, they can consider the realizable value of mortgaged or pledged or leased or collaterally held assets for deduction from the outstanding principal amount of loans / advances / lease facilities against which such assets are leased/mortgaged/pledged/ collaterally held, before making any provisions. The value of the mortgaged / pledged assets, other than liquid assets, to be considered for this purpose shall be the forced sale value. Further, Forced Sale Value (FSV) once determined, shall remain valid for three years from the date of valuation during which period the underlying collateral/leased assets will not be revalued for provisioning purpose. The adjustment factors of 80%, 70% and 50% shall be applied on the value so determined for the purpose of determining provisioning requirement in Ist, 2nd and 3rd year of valuation, respectively. Thereafter, the assets shall be revalued and the adjustment factor of 50% shall be applied for all subsequent years. However, the FSV of the collateral shall be restricted to fresh revaluation or previous value, whichever is less. In case of NBCFs, duly licensed by the SEC to undertake housing finance services, FSV once determined, shall remain valid for a period of ten years from the date of valuation and an adjustment factor of 70% shall be applied on the value so determined for the purpose of determining provisioning requirement in respect of housing finance for the said period.",
+            "(7) Facilities against which securities or incase of lease facilities, additional securities are not available, or where mortgaged or pledged or leased assets have not been valued according to these guidelines and verified by the external auditors, shall continue to be classified and provided for according to the time-based criteria. NBFCs shall observe the following uniform criteria, for determining the realizable value of mortgaged / pledged / leased/ collaterally held assets, namely:-",
+            ">(i) Only assets having registered mortgage, equitable mortgage (where NOC for creating further charge has not been issued by NBFC and pledged /collaterally held assets shall be considered. Assets having pari-passu charge shall be considered on proportionate basis.",
+            ">(ii) Hypothecated assets and assets with second charge and floating charge shall not be considered.",
+            ">(iii) Valuations shall be carried out by an independent professional valuer who should be listed on the panel of valuers maintained by the Pakistan Banks Association / Leasing Association of Pakistan. The valuers while assigning any values to the mortgaged / pledged / leased / collaterally held assets, shall take into account all relevant factors affecting the salability of such assets including any difficulty in obtaining their possession, their location and condition and the prevailing economic conditions in the relevant sector, business or industry. The realizable values of mortgaged / pledged / leased /collaterally held assets so determined by the valuers must have to be a reasonably good estimate of the amount that could currently be obtained by selling such assets in a forced / distressed sale condition. The valuers should also mention in their report the assumptions made, the calculations / formulae / basis used and the method adopted in determination of the realizable values.",
+            ">(iv) Valuation shall be done at least once in three years. If valuation is older than three years, a fresh revaluation should be done; otherwise the valuation shall be taken as Nil. This requirement shall not be applicable to the NBFCs engaged in housing finance services.",
+            "The categories of mortgaged/pledged/leased /collaterally held assets to be considered for valuation alongwith discounting factors to be applied would be as under (no other assets shall be taken into consideration):",
+            ">(a) Liquid Assets:",
+            "Valuation of Liquid Assets, excluding pledged stocks, which are dealt with at (b) below, shall be determined by the NBFC itself and verified by the external auditors.",
+            "However, in the case of pledged shares of listed companies values should be taken at market value as per active list of Stock Exchange(s) on the balance sheet date and as per guidelines given in the Technical Release (TR) - 23 issued by the Institute of Chartered (ICAP). Moreover, valuation of shares pledged against loans/advances/lease facilities shall be considered only if these have been routed through Central Depository Company of Pakistan (CDC), otherwise these will not be admissible for deduction as liquid assets while determining required provisions.",
+            ">(b) Pledged Stocks:",
+            "In case of pledged stocks of perishable and non-perishable goods, forced sale value should be provided by valuers, which should not be more than six months old, at each balance sheet date. The goods should be perfectly pledged, the operation of the godowns should be in control of the NBFC and regular valid insurance and other documents should be available. In case of perishable goods the valuers should also give the approximate date when these are expected to be of no value.",
+            "The values of mortgaged / pledged / leased / collaterally held assets determined by the valuers shall be subject to verification by the external auditors, who may reject cases of valuation, which in their opinion, do not appear to have been professionally carried out and values determined are unreasonable, or in the case of which valid documentation of mortgage / pledge / leased / collaterally held asset, supported by legal opinion wherever required, is not available on record.",
+            "(1) Subjective evaluation of investment portfolio and other assets shall be carried out by the NBFC. Classification of such assets and provision required there-against should be determined keeping in view the risk involved and the requirements of the International Accounting Standards as notified by the SEC under sub-section (3) of Section 234 of the Companies Ordinance, 1984 and Technical Releases issued by the ICAP, from time to time.",
+            "(2) NBFCs shall review, at least on a quarterly basis, the collectibility of their loans / advances / lease portfolio and shall properly document the evaluations so made. Shortfall in provisioning, if any, determined as a result of quarterly assessment, shall be provided for immediately in their books of accounts by the NBFCs.",
+            "(3) The external auditors as a part of their annual audits of NBFCs shali verify that all requirements under these regulations for classification of assets and determination of provisions required there-against have been complied with. The Commission may also check the adequacy of provisioning during on-site inspection."
+          ]
+        },
+        {
+          "no": "III.7",
+          "title": "Reversal of Provision",
+          "text": [
+            "The provision held against classified assets will only be reversed when cash realization starts exceeding:",
+            ">(i) in case of loss category, the net book value of the assets;",
+            ">(ii) in case of doubtful category, 50% of the net book value of the assets; and",
+            ">(iii) in case of sub-standard category, 20% of the net book value of the assets."
+          ]
+        },
+        {
+          "no": "III.8",
+          "title": "Overdue, default and recovery thereof",
+          "text": [
+            "(1) Every NBFC shall furnish the Commission a list of defaulters on prescribed format, on quarterly basis. A list of rescheduled and restructured facilities shall also be submitted to the Commission in the similar manner on prescribed format. A person, whether natural or juristic, shall be deemed to be defaulter if he (or his dependent family members or concerns owned or controlled by him or concerns in which he or his dependent family members are major shareholders) has failed to pay off or liquidate any fiduciary obligation towards any NBFC in Pakistan as was agreed upon or required under the terms and conditions of availment of the financing facility or to do or perform an act agreed to or undertaken in writing to be done or performed by him and such failure has continued for a period of one year from the date on which he was required to make the payment or to do or perform the act.",
+            "(2) Every NBFC shall nominate an officer as recovery officer or constitute a section as recovery section depending upon the magnitude of defaults.",
+            "(3) Besides the measures presently instituted by each NBFC, the NBFC shall set quarterly recovery targets as a percentage of the overdue obligations and communicate the same on quarterly basis to the Commission.",
+            "(4) A progress report on the recovery in relation to the targets shall be submitted to the Commission on quarterly basis. NBFC shall also be required to explain deficiency if any, in meeting the targets and the strategies evolved with a view to ensuring achievement of subsequent targets.",
+            "(5) Wherever considered legally appropriate by the NBFC, cases of default may be referred to the Courts. The list of such cases and progress of recovery shall also be sent to the Commission on a quarterly basis."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Part IV",
+      "sections": [
+        {
+          "no": "IV.1",
+          "title": "Internal audit",
+          "text": [
+            "Every NBFC shall have an Internal Audit Department whose head shall report to the board of directors directly and shall, inter alia, be responsible for compliance with these guidelines and for establishing an effective means of testing, checking and compliance with the policy and procedures established by it."
+          ]
+        },
+        {
+          "no": "IV.2",
+          "title": "Submission of statistical returns",
+          "text": [
+            "Every NBFC shall submit such periodical statements, information or reports in such forms and manner and within such time as may be prescribed by the Commission from time to time."
+          ]
+        },
+        {
+          "no": "IV.3",
+          "title": "Code of conduct",
+          "text": [
+            "Every NBFC shall acquire and maintain membership of an association constituted in consultation with the Commission and NBFCs shall follow the code of conduct prescribed by the said association(s)."
+          ]
+        },
+        {
+          "no": "IV.4",
+          "title": "Prevention of criminal use of NBFCs for the purpose of money laundering",
+          "text": [
+            "NBFCs shall follow guidelines issued to safeguard themselves against their involvement in money laundering activities and other unlawful trades. These will add to or reinforce the following precautions, NBFCs may have been taking in this regard;",
+            ">(a) NBFCs shall accept deposits from an investor only after ensuring that an account has been opened in the investor's name using an account opening form, which will be developed by the respective industry associations in consultation with the Commission.",
+            ">(b) NBFCs shall make reasonable efforts to determine the true identity of the customer before extending their services and particular care shall be taken to identify ownership of all accounts and those using safe custody facilities, effective procedures shall be instituted for obtaining identification from new customers and an explicit policy shall be devised to ensure that significant business transactions are not conducted with customers who fail to provide evidence of their identity;",
+            ">(c) NBFCs shall ensure that business is conducted in conformity with high ethical standards and that rules and regulations are adhered to. It is accepted that a NBFC normally does not have effective means of knowing whether a transaction stems from or forms part of wrongful activity. Similarly, in an international context, it may be difficult to ensure that cross border that cross transactions on behalf of customers are in compliance with the regulations of another country. Nevertheless, NBFCs shall not set out to offer services or provide active assistance in transactions which in their opinion are associated with money derived from illegal activities; and",
+            ">(d) NBFCs shall establish specific procedures for ascertaining customer status and his sources of earning for monitoring of accounts on a regular basis for checking identities and bonafides of remitters and beneficiaries, for retaining internal record of transactions for future reference. The transactions, which are out of character with the normal operation of the account involving high deposits, withdrawals and transfers, shall be viewed with suspicion and property investigated.",
+            ">(e) Every NBFC shall ensure that no payment or receipt exceeding Rs. 50,000/- shall be made in cash."
+          ]
+        },
+        {
+          "no": "IV.5",
+          "title": "Procedure for prior approval for appointment of directors and chief executives",
+          "text": [
+            "NBFCs shall, for obtaining prior approval of the Commission for making any change in the directors/chief executive, follow the following procedure:",
+            ">(a) The application for approval of the appointment or any change in the directors/Chief Executive of NBFCs shall be submitted by the NBFC to the Specialized Companies Division of the Commission not later than 14 days before.. the election/appointment or any change in the Directors/Chief Executive; b). The above-referred application shall not be treated complete unless the information/documents as required under Form attached as Annexure-II are furnished.",
+            ">(c) The information or deficiency or shortcoming as pointed out by the Commission shall be supplied by the NBFC, within 14 (fourteen) days of the issue of the letter by the Commission, otherwise the matter shall be treated as having been closed."
+          ]
+        }
+      ]
+    }
+  ],
+  "schedules": [],
+  "frontNotes": [],
+  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Provisions are numbered by Part (for example II.1), as the printed numbering restarts in each Part. The table of classification and provisioning in regulation III.5 (with the circular printed inside it) and the Annexures (borrower's fact sheets and the form for approval of directors) are not reproduced. The printed text goes from regulation III.5 to III.7 (no regulation 6). The small margin table in regulation II.5(2) is flattened and should be checked against the scan.",
+  "enacted": "2004-01-21"
+}

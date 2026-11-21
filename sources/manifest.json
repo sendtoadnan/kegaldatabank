@@ -3494,5 +3494,57 @@
     },
     "status": "repealed",
     "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included."
+  },
+  {
+    "id": "prudential-regulations-nbfc",
+    "title": "Prudential Regulations for Non-Banking Finance Companies",
+    "number": "Circular No. 2 of 2004",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Prudential Regulations for NBFCs"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "SECP Circular No. 2 of 2004",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "enacted": "2004-01-21",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Provisions are numbered by Part (for example II.1), as the printed numbering restarts in each Part. The table of classification and provisioning in regulation III.5 (with the circular printed inside it) and the Annexures (borrower's fact sheets and the form for approval of directors) are not reproduced. The printed text goes from regulation III.5 to III.7 (no regulation 6). The small margin table in regulation II.5(2) is flattened and should be checked against the scan."
+  },
+  {
+    "id": "prudential-regulations-consumer-finance-nbfc",
+    "title": "Prudential Regulations for Consumer Finance by NBFCs",
+    "number": "Circular No. 1 of 2006",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Prudential Regulations for Consumer Financing"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "SECP Circular No. 1 of 2006",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "enacted": "2006-01-09",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Provisions are numbered by Part (for example II.1), as the printed numbering restarts in each Part. The table of classification and provisioning in regulation E.5 is not reproduced and the small tables elsewhere are flattened; check them against the scan. The covering circular and contents list are not included."
   }
 ]

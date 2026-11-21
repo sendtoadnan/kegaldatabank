@@ -327,7 +327,7 @@
    "titleFromText": true,
    "contentsPage": "V-89",
    "edition": "2021",
-   "hold": "Prudential regulations: numbering restarts in each Part / circular layout; needs a hand-built parse"
+   "handBuilt": "tools/ocr/prudential_build.py (spec prudential_spec.json / prudential_consumer_spec.json) from the saved lines"
   },
   {
    "id": "prudential-regulations-consumer-finance-nbfc",
@@ -345,7 +345,7 @@
    "titleFromText": true,
    "contentsPage": "V-117",
    "edition": "2021",
-   "hold": "Prudential regulations: numbering restarts in each Part / circular layout; needs a hand-built parse"
+   "handBuilt": "tools/ocr/prudential_build.py (spec prudential_spec.json / prudential_consumer_spec.json) from the saved lines"
   }
  ]
 }

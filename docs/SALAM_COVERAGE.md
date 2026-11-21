@@ -2,15 +2,15 @@
 
 ## Progress benchmark (2026-11-22)
 
-- **Instruments in the book's contents that are now in the library: 84 of 114 = 74%** (all Unverified; the book is the source).
-- Of what has been scanned (106 instruments): 79%.
+- **Instruments in the book's contents that are now in the library: 86 of 114 = 75%** (all Unverified; the book is the source).
+- Of what has been scanned (106 instruments): 81%.
 - The book's notification index: 177 of 406 numbers appear in our data = 44%.
 - Pages read (OCR): 3,898 of the pages you scanned; Volume II Part 2 (Parts VI to IX) is not scanned, and about 85 pages inside scanned parts are missing (21 listed, plus most of the NBFC Rules 2003) from the binders (`docs/SCAN_GAPS.md`).
 - Verified against a scan by a person: 0 of the instruments taken from the book (task 64).
 
 What is left:
 
-- scanned, not yet converted: 11
+- scanned, not yet converted: 9
 - not scanned yet (Volume II Part 2): 8
 - scanned but blocked (pages missing from the scan, or needs converter work): 7
 - repealed, not yet added (to add marked repealed): 4
@@ -32,7 +32,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | I-1 | Futures Market Act, 2016 | futures-market-act-2016 | 2016-04-09 | 2024-06-05 |
 | V-11 | Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003 | nbfc-rules-2003 | 2023-09-14 | 2025-07-31 |
 
-## Not in library (30)
+## Not in library (28)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -55,8 +55,6 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | II-5 | SECP: Regulations, Rules and Procedures |  |  |  |
 | III-39 | Corporate Social Responsibility Voluntary Guidelines, 2013 |  |  |  |
 | IX-67 | Anti-Money Laundering (Amendment) Act, 2015 |  |  |  |
-| V-89 | Prudential Regulations for Non-Banking Finance Companies |  |  |  |
-| V-117 | Prudential Regulations for Consumer Finance by NBFCs |  |  |  |
 | V-127 | Miscellaneous circulars etc. (NBFCs) |  |  | 2026-06-20 |
 | VA-1 | Non-Banking Finance Companies and Notified Entities Regulations, 2008 |  |  | 2025-08-01 |
 | VI-79 | Prudential Regulations for Modarabas |  |  | 2022-01-31 |
@@ -67,7 +65,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | VII-119 | Competition Commission (Conduct of Investigating Officers) Rules, 2007 |  |  |  |
 | VII-139 | Competition Commission (Collection of Fees and Charges) Rules, 2009 |  |  |  |
 
-## No later change recorded (77)
+## No later change recorded (79)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -139,6 +137,8 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | IV-141 | Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012 | stock-exchanges-demutualization-regulations-2012 | 2021-12-31 |  |
 | IV-161 | Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012 | stock-exchanges-demutualization-regulations-2012 | 2021-12-31 |  |
 | IX-1 | Anti-Money Laundering Act, 2010 | aml-act-2010 | 2020-09-30 |  |
+| V-89 | Prudential Regulations for Non-Banking Finance Companies | prudential-regulations-nbfc | 2021-12-31 |  |
+| V-117 | Prudential Regulations for Consumer Finance by NBFCs | prudential-regulations-consumer-finance-nbfc | 2021-12-31 |  |
 | VI-1 | Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980 | modaraba-ordinance-1980 | 2012-12-31 |  |
 | VI-19 | Modaraba Companies and Modaraba Rules, 1981 | modaraba-companies-rules-1981 | 2021-12-31 |  |
 | VII-1 | Competition Act, 2010 | competition-act-2010 | 2021-12-31 |  |

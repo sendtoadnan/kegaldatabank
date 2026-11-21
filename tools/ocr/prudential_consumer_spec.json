@@ -1,0 +1,217 @@
+{
+ "parts": [
+  {
+   "heading": "Part A Definitions",
+   "sections": [
+    {
+     "no": "A",
+     "title": "Definitions",
+     "lines": [
+      63,
+      130
+     ],
+     "heading": false,
+     "numbered": true
+    }
+   ]
+  },
+  {
+   "heading": "Part B Minimum Requirements for Consumer Financing",
+   "sections": [
+    {
+     "no": "B",
+     "title": "Minimum requirements for consumer financing",
+     "lines": [
+      132,
+      233
+     ],
+     "heading": false,
+     "numbered": true
+    }
+   ]
+  },
+  {
+   "heading": "Part C Regulations for Consumer Financing",
+   "sections": [
+    {
+     "no": "C.1",
+     "title": "Facilities to related persons",
+     "lines": [
+      237,
+      245
+     ],
+     "heading": false
+    },
+    {
+     "no": "C.2",
+     "title": "Limit on exposure against total consumer financing",
+     "lines": [
+      247,
+      259
+     ],
+     "heading": false
+    },
+    {
+     "no": "C.3",
+     "title": "Total financing facilities to be commensurate with the income",
+     "lines": [
+      262,
+      270
+     ],
+     "heading": false
+    },
+    {
+     "no": "C.4",
+     "title": "General reserve against consumer finance",
+     "lines": [
+      272,
+      277
+     ],
+     "heading": false
+    },
+    {
+     "no": "C.5",
+     "title": "Bar on transfer of facilities from one category to another to avoid classification",
+     "lines": [
+      280,
+      282
+     ],
+     "heading": false
+    },
+    {
+     "no": "C.6",
+     "title": "Margin requirements",
+     "lines": [
+      283,
+      288
+     ],
+     "heading": false
+    }
+   ]
+  },
+  {
+   "heading": "Part D Regulations for Credit Cards",
+   "sections": [
+    {
+     "no": "D.1",
+     "title": "Safe custody",
+     "lines": [
+      292,
+      296
+     ],
+     "heading": false
+    },
+    {
+     "no": "D.2",
+     "title": "Statement of accounts",
+     "lines": [
+      298,
+      301
+     ],
+     "heading": false
+    },
+    {
+     "no": "D.3",
+     "title": "Unauthorized / wrong transactions",
+     "lines": [
+      303,
+      309
+     ],
+     "heading": false
+    },
+    {
+     "no": "D.4",
+     "title": "Partial payment by card holder",
+     "lines": [
+      311,
+      315
+     ],
+     "heading": false
+    },
+    {
+     "no": "D.5",
+     "title": "Due date for payment",
+     "lines": [
+      317,
+      320
+     ],
+     "heading": false
+    },
+    {
+     "no": "D.6",
+     "title": "Maximum card limit",
+     "lines": [
+      322,
+      339
+     ],
+     "heading": false
+    },
+    {
+     "no": "D.7",
+     "title": "Classification and provisioning",
+     "lines": [
+      341,
+      365
+     ],
+     "heading": false
+    }
+   ]
+  },
+  {
+   "heading": "Part E Regulations for Personal Loans",
+   "sections": [
+    {
+     "no": "E.1",
+     "title": "Per party limit",
+     "lines": [
+      369,
+      384
+     ],
+     "heading": false
+    },
+    {
+     "no": "E.2",
+     "title": "Hypothecation",
+     "lines": [
+      386,
+      390
+     ],
+     "heading": false
+    },
+    {
+     "no": "E.3",
+     "title": "Maximum tenor of loan",
+     "lines": [
+      392,
+      397
+     ],
+     "heading": false
+    },
+    {
+     "no": "E.4",
+     "title": "Minimum repayment",
+     "lines": [
+      399,
+      402
+     ],
+     "heading": false
+    },
+    {
+     "no": "E.5",
+     "title": "Classification and provisioning",
+     "lines": [
+      404,
+      440
+     ],
+     "heading": false,
+     "skip": [
+      405,
+      438
+     ],
+     "noteAt": 1,
+     "note": "[The table of classification, determinant, treatment of income and provision to be made is not reproduced in this text; see the printed edition.]"
+    }
+   ]
+  }
+ ]
+}
