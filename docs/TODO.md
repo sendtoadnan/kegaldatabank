@@ -5,7 +5,7 @@ The one list of everything to do for the Legal Databank. Claude reads it at the 
 - **Owner:** *You* (the user: browser downloads from SECP, decisions, merging on GitHub, checking text) or *Claude* (scripts, data, website, pull requests).
 - **Status:** *Pending* · *Waiting* (blocked on the other owner) · *Done* · *Deferred* (put off by the user).
 
-Last updated: 20 November 2026.
+Last updated: 21 November 2026.
 
 ## Progress benchmark: the book (S.A. Salam, to 20 June 2026) on the website
 
@@ -114,6 +114,7 @@ Updated whenever Claude asks for something or you report back. Status: Done / Pe
 | 19 Nov 2026 | Scan the pages listed in `docs/SCAN_GAPS.md` (task 68) | Pending |
 | 19 Nov 2026 | Scan the missing NBFC Rules pages V-17 to V-85 (task 67) | Pending |
 | 19 Nov 2026 | Scan Volume II Part 2 (task 61) | Pending |
-| 19 Nov 2026 | Say "merge it when green" for PR #32 when satisfied | Pending |
+| 19 Nov 2026 | Say "merge it when green" for PR #32 when satisfied | Done: merged 21 Nov 2026 at your word ("deploy pr32"); later work goes on `claude/book-update-2` |
 | 20 Nov 2026 | Decide how to fix 3 likely OCR slips in insider-information-regulations-2016 | Done: you said fix all three; fixed, still to tick |
 | 20 Nov 2026 | (Result of 'convert the remaining 2 or 3') nothing more can be converted from what is scanned; the only way to raise the 61% is the scans in tasks 67, 68 and 61 | Pending (your scans) |
+| 21 Nov 2026 | Check the live site after the PR #32 deploy: search "special resolution" in the Companies Act filter and a Securities Act phrase | Pending |
