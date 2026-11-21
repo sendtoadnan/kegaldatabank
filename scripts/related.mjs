@@ -46,6 +46,10 @@ export function validateExtras({ acts }, { checks, registers, searchTerms, formM
     for (const f of m.forms || []) for (const n of f.act2017 || []) if (!nos.has(n)) errors.push(`forms/${m.id}.json: form ${f.form} names unknown section ${n}`);
     const lib = m.library && byId.get(m.library);
     if (m.library && !lib) errors.push(`forms/${m.id}.json: unknown library instrument "${m.library}"`);
+    if (lib) for (const b of m.ruleMatches || []) {
+      for (const r of b.rules) if (!lib.parts.some((p) => p.sections.some((x) => x.no === r))) errors.push(`forms/${m.id}.json: ruleMatches names rule ${r}, which is not in ${m.library}`);
+      for (const n of b.act2017 || []) if (!nos.has(n)) errors.push(`forms/${m.id}.json: ruleMatches names unknown section ${n}`);
+    }
     if (lib) { const have = new Set(lib.parts.flatMap((p) => p.sections.map((x) => x.no))); for (const f of m.forms || []) if (!have.has(f.rule)) errors.push(`forms/${m.id}.json: form ${f.form} names rule ${f.rule}, which is not in ${m.library}`); }
   }
   for (const [id, list] of Object.entries(searchTerms || {})) {
@@ -105,17 +109,22 @@ export function citedSections(act, kids, formMaps = []) {
     if (!kid) continue;
     matched.add(kid.id);
     const have = new Set(kid.parts.flatMap((p) => p.sections.map((s) => s.no)));
-    for (const f of m.forms || []) {
-      if (!have.has(f.rule)) continue;
-      for (const no of f.act2017 || []) {
+    const add = (rule, sections) => {
+      for (const no of sections || []) {
         if (!nos.has(no)) continue;
         if (!map.has(no)) map.set(no, new Map());
         const byKid = map.get(no);
         if (!byKid.has(kid.id)) byKid.set(kid.id, { kid, provisions: [] });
         const list = byKid.get(kid.id).provisions;
-        if (!list.includes(f.rule)) list.push(f.rule);
+        if (!list.includes(rule)) list.push(rule);
       }
+    };
+    for (const f of m.forms || []) {
+      if (!have.has(f.rule)) continue;
+      add(f.rule, f.act2017);
     }
+    for (const b of m.ruleMatches || []) for (const r of b.rules) if (have.has(r)) add(r, b.act2017);
+    for (const byKid of map.values()) { const e = byKid.get(kid.id); if (e) e.provisions.sort((x, y) => parseInt(x, 10) - parseInt(y, 10) || x.localeCompare(y)); }
   }
   for (const kid of kids) {
     if (matched.has(kid.id)) continue;
