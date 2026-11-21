@@ -26,7 +26,12 @@ export function loadExtras(dataDir = DATA_DIR) {
   const catalogues = fs.existsSync(catDir)
     ? fs.readdirSync(catDir).filter((f) => f.endsWith('.json')).sort().map((f) => ({ ...JSON.parse(fs.readFileSync(path.join(catDir, f), 'utf8')), id: f.replace(/\.json$/, '') }))
     : [];
-  return { checks, registers, searchTerms, formMaps, catalogues };
+  // Section-by-section comparisons of an Act with the law it replaced, one file each (data/comparison/).
+  const cmpDir = path.join(dataDir, 'comparison');
+  const comparisons = fs.existsSync(cmpDir)
+    ? fs.readdirSync(cmpDir).filter((f) => f.endsWith('.json')).sort().map((f) => ({ ...JSON.parse(fs.readFileSync(path.join(cmpDir, f), 'utf8')), id: f.replace(/\.json$/, '') }))
+    : [];
+  return { checks, registers, searchTerms, formMaps, catalogues, comparisons };
 }
 
 export function validateExtras({ acts }, { checks, registers, searchTerms, formMaps, catalogues }, evidenceDir = EVIDENCE_DIR) {

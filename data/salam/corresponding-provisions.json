@@ -1,0 +1,1201 @@
+{
+ "_about": "Corresponding provisions of the Companies Act 2017 and the Companies Ordinance 1984, read from the book's table (scan pages 93-94, 101-104 of Volume I Part 1 FILE [1], printed pages xi, xii, xix-xxii) cell by cell with tools/ocr/corr_rows.py and corr_normalise.py. Internal working record; the website shows only the section numbers. Unverified: to be checked against the scan. Pages i-x (2017 ss.1-220), xiii-xviii (ss.268-414) and xxiii-xxiv (schedules) are not in the scans held.",
+ "status": "unverified",
+ "coverage": [
+  [
+   "221",
+   "267"
+  ],
+  [
+   "415",
+   "515"
+  ]
+ ],
+ "rows": [
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "221",
+   "ordinance1984": "231",
+   "ordinance1984Title": "Inspection of books of account by registrar, etc."
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "222",
+   "ordinance1984": "232",
+   "ordinance1984Title": "Default in compliance with provisions of section 231"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": null,
+   "ordinance1984": "233",
+   "ordinance1984Title": "Annual accounts and balance-sheet"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": null,
+   "ordinance1984": "234",
+   "ordinance1984Title": "Contents of balance-sheet"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": null,
+   "ordinance1984": "234A",
+   "ordinance1984Title": "Special audit"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": null,
+   "ordinance1984": "235",
+   "ordinance1984Title": "Treatment of surplus arising out of revaluation of fixed assets"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "223",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "224",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "225",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "226",
+   "ordinance1984": "236",
+   "ordinance1984Title": "Directors' report"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "227",
+   "ordinance1984": "236",
+   "ordinance1984Title": "Directors' report"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "228",
+   "ordinance1984": "237",
+   "ordinance1984Title": "Consolidated financial statements"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "229",
+   "ordinance1984": "238",
+   "ordinance1984Title": "Financial year of holding company and subsidiary"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "230",
+   "ordinance1984": "239",
+   "ordinance1984Title": "Rights of holding company's representatives and members"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "231",
+   "ordinance1984": "240",
+   "ordinance1984Title": "Balance sheet of modaraba company to include modaraba accounts, etc."
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "232",
+   "ordinance1984": "241",
+   "ordinance1984Title": "Authentication of balance-sheet"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "233",
+   "ordinance1984": "242",
+   "ordinance1984Title": "Copy of balance sheet to be forwarded to the registrar"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "234",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "235",
+   "ordinance1984": "243",
+   "ordinance1984Title": "Right of member of company to copies of the balance-sheet, etc., and the auditor's report"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "236",
+   "ordinance1984": "244",
+   "ordinance1984Title": "Penalty for improper issue, circulation or publication of balance sheet or profit and loss account"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "237",
+   "ordinance1984": "245",
+   "ordinance1984Title": "Quarterly accounts of listed companies"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "238",
+   "ordinance1984": "246",
+   "ordinance1984Title": "Power of Commission to require submission of additional statements of accounts and reports"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "239",
+   "ordinance1984": "247",
+   "ordinance1984Title": "Rights of debenture-holders, etc., as to receipt and inspection of report, etc",
+   "repaired": true
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "240",
+   "ordinance1984": "248",
+   "ordinance1984Title": "Certain restrictions on declaration of dividends"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "241",
+   "ordinance1984": "249",
+   "ordinance1984Title": "Dividend to be paid only out of profits"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "242",
+   "ordinance1984": "250",
+   "ordinance1984Title": "Dividend not to be paid except to registered shareholders or to their order or to their bankers"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": null,
+   "ordinance1984": "251",
+   "ordinance1984Title": "Period for payment of dividend"
+  },
+  {
+   "printed": "xi",
+   "scanPage": 93,
+   "act2017": "243",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "244",
+   "ordinance1984": null,
+   "ordinance1984Title": null,
+   "repaired": true
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "245",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "246",
+   "ordinance1984": "252",
+   "ordinance1984Title": "Appointment and remuneration of auditors"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": null,
+   "ordinance1984": "253",
+   "ordinance1984Title": "Provision as to resolutions relating to appointment and removal of auditore"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "247",
+   "ordinance1984": "254",
+   "ordinance1984Title": "Qualification and disqualification of auditors"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "248",
+   "ordinance1984": "255",
+   "ordinance1984Title": "Powers and duties of auditore"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "249",
+   "ordinance1984": "255",
+   "ordinance1984Title": "Powers and duties of auditorg"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": null,
+   "ordinance1984": "256",
+   "ordinance1984Title": "Reading and inspection of auditors' report"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "250",
+   "ordinance1984": "258",
+   "ordinance1984Title": "Audit of cost aecounte"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "251",
+   "ordinance1984": "257",
+   "ordinance1984Title": "Signature on audit renort ete"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "252",
+   "ordinance1984": "259",
+   "ordinance1984Title": "Penalty for non-compliance with provisions by comnanies"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "253",
+   "ordinance1984": "260",
+   "ordinance1984Title": "Penalty for non-compliance with provisions by auditore"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "254",
+   "ordinance1984": "261",
+   "ordinance1984Title": "Power' of registrar to call for information or eynlanation"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "255",
+   "ordinance1984": "262",
+   "ordinance1984Title": "Seizure of documents by registrar"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "256",
+   "ordinance1984": "263",
+   "ordinance1984Title": "Investigation of affairs of company on application by members or report by registrar"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": null,
+   "ordinance1984": "264",
+   "ordinance1984Title": "Application by members to be supported by evidence and power to call for securitv"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "257",
+   "ordinance1984": "265",
+   "ordinance1984Title": "Investigation of company's affairs in other cases"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "258",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "259",
+   "ordinance1984": "266",
+   "ordinance1984Title": "Inspector to be a court for certain purposes"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "260",
+   "ordinance1984": "267",
+   "ordinance1984Title": "Power of inspectors to carry investigation into affairs of associated companies"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "261",
+   "ordinance1984": "268",
+   "ordinance1984Title": "Duty of officers, etc., to assist the inspector"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "262",
+   "ordinance1984": "269",
+   "ordinance1984Title": "Inspector's renort"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "263",
+   "ordinance1984": "270",
+   "ordinance1984Title": "Prosecution"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "264",
+   "ordinance1984": "271",
+   "ordinance1984Title": "Power of Commission to initiate action against manarement"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "265",
+   "ordinance1984": "272",
+   "ordinance1984Title": "Effect of Court orday"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "266",
+   "ordinance1984": "273",
+   "ordinance1984Title": "No compensation to be payable for annulment r modifingtion fontuoat"
+  },
+  {
+   "printed": "xii",
+   "scanPage": 94,
+   "act2017": "267",
+   "ordinance1984": "274",
+   "ordinance1984Title": "No right to compensation for loss of office"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "415",
+   "ordinance1984": "430",
+   "ordinance1984Title": "Information as to pending liquidations"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "416",
+   "ordinance1984": "431",
+   "ordinance1984Title": "Pavments bv liquidator into bank"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "417",
+   "ordinance1984": "432",
+   "ordinance1984Title": "Unclaimed dividends and undistributed assets to be paid to Companies Liauidation Account"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "418",
+   "ordinance1984": "433",
+   "ordinance1984Title": "Books of accounts andother proceedings to be kept bv liauidators"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "419",
+   "ordinance1984": "434",
+   "ordinance1984Title": "Application of provisions relating to audit"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "420",
+   "ordinance1984": "435",
+   "ordinance1984Title": "Enforcement of duty of liquidator to make return. etc."
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "421",
+   "ordinance1984": "436",
+   "ordinance1984Title": "Notification that a company is in liquidation"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "422",
+   "ordinance1984": "437",
+   "ordinance1984Title": "Court or person before whom affidavit may be sworn"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "423",
+   "ordinance1984": "438",
+   "ordinance1984Title": "Power to make rules"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "424",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "425",
+   "ordinance1984": "439",
+   "ordinance1984Title": "Registrar may strike defunct company off register"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": null,
+   "ordinance1984": "440",
+   "ordinance1984Title": "Application of Ordinance to companies formed and registered under previous Companies Acts"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": null,
+   "ordinance1984": "441",
+   "ordinance1984Title": "Application of Ordinance to companies registered but not formed under previous Companies Acts"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": null,
+   "ordinance1984": "442",
+   "ordinance1984Title": "Application of Ordinance to unlimited companies registered under previous Companies Acts"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "426",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "427",
+   "ordinance1984": "443",
+   "ordinance1984Title": "Meaning of \"unregistered company\""
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "428",
+   "ordinance1984": "444",
+   "ordinance1984Title": "Winding up of unregistered companies"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "429",
+   "ordinance1984": "445",
+   "ordinance1984Title": "Contributories in winding up of unregistered companies"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "430",
+   "ordinance1984": "446",
+   "ordinance1984Title": "Power to stay or restrain proceedings"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "431",
+   "ordinance1984": "447",
+   "ordinance1984Title": "Suits stayed on winding up order"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "432",
+   "ordinance1984": "448",
+   "ordinance1984Title": "Directions as to property in certain cases"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "433",
+   "ordinance1984": "449",
+   "ordinance1984Title": "Provisions of this Part cumulative"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "434",
+   "ordinance1984": "450",
+   "ordinance1984Title": "Application of this Part to foreign companies"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "435",
+   "ordinance1984": "451",
+   "ordinance1984Title": "Documents to be delivered to registrar bv foreign companies"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "436",
+   "ordinance1984": "452",
+   "ordinance1984Title": "Return to be delivered to registrar by foreign companies whose documents, etc., altered"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "437",
+   "ordinance1984": "453",
+   "ordinance1984Title": "Accounts of foreign companies"
+  },
+  {
+   "printed": "xix",
+   "scanPage": 101,
+   "act2017": "438",
+   "ordinance1984": "454",
+   "ordinance1984Title": "Certain obligations of foreign companies"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "439",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "440",
+   "ordinance1984": "455",
+   "ordinance1984Title": "Service on foreign company"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "441",
+   "ordinance1984": "456",
+   "ordinance1984Title": "Company's failure to comply with this Part not to affect its liability under contracts, etc."
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "442",
+   "ordinance1984": "457",
+   "ordinance1984Title": "Provisions relating to names, enquiries, etc. to apply to foreign companies"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "443",
+   "ordinance1984": "458",
+   "ordinance1984Title": "Intimation of ceasing to have place of business to be given"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "444",
+   "ordinance1984": "459",
+   "ordinance1984Title": "Penalties"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "445",
+   "ordinance1984": "460",
+   "ordinance1984Title": "Interpretation of provisions of this Part"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "446",
+   "ordinance1984": "461",
+   "ordinance1984Title": "Issue of prospectus"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "447",
+   "ordinance1984": "462",
+   "ordinance1984Title": "Restriction on convassing for sale of securities"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "448",
+   "ordinance1984": "463",
+   "ordinance1984Title": "Registration of charges"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "449",
+   "ordinance1984": "464",
+   "ordinance1984Title": "Notice of appointment of receiver"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "450",
+   "ordinance1984": "465",
+   "ordinance1984Title": "Notice of liquidation, etc."
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "451",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "452",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "453",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "454",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "455",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "456",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "457",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "458",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "459",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "460",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "461",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "462",
+   "ordinance1984": "466",
+   "ordinance1984Title": "Registration offices"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "463",
+   "ordinance1984": "467",
+   "ordinance1984Title": "Production of documents kept by registrar, etc"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "464",
+   "ordinance1984": "468",
+   "ordinance1984Title": "Registrar not to accept defective documents"
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "465",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xx",
+   "scanPage": 102,
+   "act2017": "466",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "467",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "468",
+   "ordinance1984": "469",
+   "ordinance1984Title": "Acceptance of documents presented after prescribed time"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "469",
+   "ordinance1984": "470",
+   "ordinance1984Title": "Fees"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "470",
+   "ordinance1984": "471",
+   "ordinance1984Title": "Power of the Federal Government to prescribe fees chargeable bv companies"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "471",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "472",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "473",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "474",
+   "ordinance1984": "472",
+   "ordinance1984Title": "Enforcing compliance with provisions of Ordinance"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "475",
+   "ordinance1984": "473",
+   "ordinance1984Title": "Power of Court, etc., trying offences under Ordinance to direct compliance with the provisions"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "476",
+   "ordinance1984": "474",
+   "ordinance1984Title": "Cognizance of offences, etc."
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": null,
+   "ordinance1984": "475",
+   "ordinance1984Title": "Offences to be non-cognizable"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "477",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "478",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "479",
+   "ordinance1984": "476",
+   "ordinance1984Title": "Punishment and adjudication of fine or penalty"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "480",
+   "ordinance1984": "477",
+   "ordinance1984Title": "Appeal and revision"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "481",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "482",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "483",
+   "ordinance1984": "478",
+   "ordinance1984Title": "Powers of the Federal Government, etc., in relation to enquires and proceedings"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "484",
+   "ordinance1984": "479",
+   "ordinance1984Title": "Procedure for trial of a corporate body"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": null,
+   "ordinance1984": "480",
+   "ordinance1984Title": "Power of Federal Government to appoint company prosecutors"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "485",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "486",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "487",
+   "ordinance1984": "481",
+   "ordinance1984Title": "Appeal against acquittal"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "488",
+   "ordinance1984": "482",
+   "ordinance1984Title": "Payment of compensation in cases of frivolous or vexatious prosecution"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "489",
+   "ordinance1984": "483",
+   "ordinance1984Title": "Application of fines"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": null,
+   "ordinance1984": "484",
+   "ordinance1984Title": "Revision and review"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": null,
+   "ordinance1984": "485",
+   "ordinance1984Title": "Appeals against orders, etc."
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "490",
+   "ordinance1984": "486",
+   "ordinance1984Title": "Production and inspection of books where offence suspected"
+  },
+  {
+   "printed": "xxi",
+   "scanPage": 103,
+   "act2017": "491",
+   "ordinance1984": "487",
+   "ordinance1984Title": "Power to require limited company to give security for costs"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "492",
+   "ordinance1984": "488",
+   "ordinance1984Title": "Power of Court, etc., to grant relief in certain cases"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "493",
+   "ordinance1984": "489",
+   "ordinance1984Title": "Enforcement of orders of Court"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "494",
+   "ordinance1984": "490",
+   "ordinance1984Title": "Enforcement of orders of Court by other courts"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "495",
+   "ordinance1984": "491",
+   "ordinance1984Title": "Protection of acts done in good faith"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "496",
+   "ordinance1984": "492",
+   "ordinance1984Title": "Penalty for false statement"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "497",
+   "ordinance1984": "493",
+   "ordinance1984Title": "Penalty for wrongful withholding of propertv"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "498",
+   "ordinance1984": "494",
+   "ordinance1984Title": "Liability of directors for allotment of shares for inadeauate consideration"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "499",
+   "ordinance1984": "495",
+   "ordinance1984Title": "Punishment for non-compliance of directive of Court. etc."
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "500",
+   "ordinance1984": "496",
+   "ordinance1984Title": "Penalty for carrying on ultra vires business"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "501",
+   "ordinance1984": "497",
+   "ordinance1984Title": "Penalty for improper use of word \"limited\""
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "502",
+   "ordinance1984": "498",
+   "ordinance1984Title": "Penalty where no specific penalty is provided elsewhere in the Ordinance"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "503",
+   "ordinance1984": "499",
+   "ordinance1984Title": "Power to accord approval subject to conditions"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": null,
+   "ordinance1984": "500",
+   "ordinance1984Title": "Annual report by Commission"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "504",
+   "ordinance1984": "501",
+   "ordinance1984Title": "Delegation of Powers"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": null,
+   "ordinance1984": "502",
+   "ordinance1984Title": "Advisorv Committee"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "505",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "506",
+   "ordinance1984": "504",
+   "ordinance1984Title": "Forms"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "507",
+   "ordinance1984": "505",
+   "ordinance1984Title": "Power of the Federal Government to alter schedules"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "508",
+   "ordinance1984": "506",
+   "ordinance1984Title": "Power of the Federal Government to make rules"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "509",
+   "ordinance1984": "508",
+   "ordinance1984Title": "Repeal of laws and savings"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "510",
+   "ordinance1984": "506B",
+   "ordinance1984Title": "Power to issue directives, circulars, guidelines. etc"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "511",
+   "ordinance1984": "507",
+   "ordinance1984Title": "Power of the Federal Government to permit use of Urdu words or abbreviations"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "512",
+   "ordinance1984": "506A",
+   "ordinance1984Title": "Power to make regulations"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": null,
+   "ordinance1984": "509",
+   "ordinance1984Title": "Amendment of Ordinance XVII of 1969"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": null,
+   "ordinance1984": "510",
+   "ordinance1984Title": "Savings"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "513",
+   "ordinance1984": null,
+   "ordinance1984Title": null
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "514",
+   "ordinance1984": "511",
+   "ordinance1984Title": "Former registration offices, registers and registrars continued"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": null,
+   "ordinance1984": "512",
+   "ordinance1984Title": "Construction of references to extraordinarv resolution in articles. etc."
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": null,
+   "ordinance1984": "513",
+   "ordinance1984Title": "Transitional provisions"
+  },
+  {
+   "printed": "xxii",
+   "scanPage": 104,
+   "act2017": "515",
+   "ordinance1984": "514",
+   "ordinance1984Title": "Removal of difficulties"
+  }
+ ]
+}
