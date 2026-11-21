@@ -2,29 +2,30 @@
 
 ## Progress benchmark (2026-11-22)
 
-- **Instruments in the book's contents that are now in the library: 86 of 114 = 75%** (all Unverified; the book is the source).
-- Of what has been scanned (106 instruments): 81%.
-- The book's notification index: 177 of 406 numbers appear in our data = 44%.
+- **Instruments in the book's contents that are now in the library: 92 of 114 = 81%** (all Unverified; the book is the source).
+- Of what has been scanned (106 instruments): 87%.
+- The book's notification index: 180 of 406 numbers appear in our data = 44%.
 - Pages read (OCR): 3,898 of the pages you scanned; Volume II Part 2 (Parts VI to IX) is not scanned, and about 85 pages inside scanned parts are missing (21 listed, plus most of the NBFC Rules 2003) from the binders (`docs/SCAN_GAPS.md`).
 - Verified against a scan by a person: 0 of the instruments taken from the book (task 64).
 
 What is left:
 
-- scanned, not yet converted: 9
 - not scanned yet (Volume II Part 2): 8
 - scanned but blocked (pages missing from the scan, or needs converter work): 7
-- repealed, not yet added (to add marked repealed): 4
+- scanned, not yet converted: 6
+- repealed, not yet added (to add marked repealed): 1
 
 Re-run `python3 tools/ocr/salam_coverage.py` to refresh these figures.
 
 Made by `python3 tools/ocr/salam_coverage.py` from the book's contents and update history (`data/salam/`).
 The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the book's update notes record an amendment, new S.R.O. or circular on that instrument's pages after our edition date: check each before re-converting.
 
-## Book has later changes (7)
+## Book has later changes (8)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
 | AI-1 | Companies Act, 2017 | companies-act-2017 | 2022-08-18 | 2026-06-20 |
+| III-85 | Group Companies Registration Regulations, 2008 — *Repealed by S.R.O. 210(I)/2024* | group-companies-registration-regulations-2008 | 2021-12-31 | 2024-02-12 |
 | III-413 | Public Offering Regulations, 2017 | public-offering-regulations-2017 | 2021-09-15 | 2026-05-25 |
 | III-489 | Companies (Incorporation) Regulations, 2017 — *Repealed by S.R.O. 210(I)/2024* | companies-incorporation-regulations-2017 | 2021-12-31 | 2024-02-12 |
 | III-1151 | Shariah Governance Regulations, 2023 | shariah-governance-regulations-2023 | 2023-09-14 | 2023-09-18 |
@@ -32,24 +33,18 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | I-1 | Futures Market Act, 2016 | futures-market-act-2016 | 2016-04-09 | 2024-06-05 |
 | V-11 | Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003 | nbfc-rules-2003 | 2023-09-14 | 2025-07-31 |
 
-## Not in library (28)
+## Not in library (22)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
 | II-1 | Companies (General Provisions and Forms) Regulations, 2018 |  |  | 2024-07-15 |
-| III-20(1) | Companies (Buy-back of Shares) Rules, 1999 |  |  |  |
-| III-20(5) | Companies (Rehabilitation of Sick Industrial Units) Rules, 1999 |  |  |  |
-| III-21 | SECP (Appellate Bench Procedure) Rules, 2003 |  |  |  |
 | III-49 | Voluntary Pension System Rules, 2005 |  |  | 2024-02-22 |
-| III-85 | Group Companies Registration Regulations, 2008 — *Repealed by S.R.O. 210(I)/2024* |  |  | 2024-02-12 |
 | III-249 | Central Depository Regulations, 2016 |  |  | 2023-08-10 |
 | III-281 | Securities Brokers (Licensing and Operations) Regulations, 2016 |  |  | 2024-04-08 |
 | III-341 | Clearing House (Licensing and Operations) Regulations, 2016 |  |  | 2023-08-10 |
 | III-359 | Securities Exchanges (Licensing and Operations) Regulations, 2016 |  |  | 2023-08-10 |
-| III-611 | Shariah Advisors Regulations, 2017 — *Repealed by S.R.O. 1314(I)/2023* |  |  |  |
 | III-649 | Companies (Registration Offices) Regulations, 2018 |  |  | 2024-02-12 |
 | III-765 | Associations with Charitable and Not for Profit Objects Regulations, 2018 — *Repealed by S.R.O. 210(I)/2024* |  |  | 2024-02-12 |
-| III-889 | Shariah Governance Regulations, 2018 — *Repealed by S.R.O. 1314(I)/2023* |  |  |  |
 | III-1093 | Modaraba Regulations, 2021 |  |  | 2024-01-24 |
 | II-1 | SECP: Constitution |  |  |  |
 | II-5 | SECP: Regulations, Rules and Procedures |  |  |  |
@@ -65,7 +60,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | VII-119 | Competition Commission (Conduct of Investigating Officers) Rules, 2007 |  |  |  |
 | VII-139 | Competition Commission (Collection of Fees and Charges) Rules, 2009 |  |  |  |
 
-## No later change recorded (79)
+## No later change recorded (84)
 
 | Book page | Instrument | Library | Our edition | Last change in book |
 |---|---|---|---|---|
@@ -73,6 +68,9 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-1 | Companies (Appointment of Legal Adviser) Rules, 1975 | companies-legal-adviser-rules-1975 | 2026-06-20 |  |
 | III-5 | Companies (Invitation and Acceptance of Deposit) Rules, 1987 | companies-deposit-rules-1987 | 2026-06-20 |  |
 | III-13 | Companies (Management by Administrator) Rules, 1993 | companies-management-by-administrator-rules-1993 | 2026-06-20 |  |
+| III-20(1) | Companies (Buy-back of Shares) Rules, 1999 | companies-buy-back-rules-1999 | 2021-12-31 |  |
+| III-20(5) | Companies (Rehabilitation of Sick Industrial Units) Rules, 1999 | companies-rehabilitation-sick-units-rules-1999 | 2021-12-31 |  |
+| III-21 | SECP (Appellate Bench Procedure) Rules, 2003 | secp-appellate-bench-procedure-rules-2003 | 2021-12-31 |  |
 | III-117 | Public Sector Companies (Corporate Governance) Rules, 2013 | public-sector-companies-cg-rules-2013 | 2026-06-20 |  |
 | III-139 | Companies (Easy Exit) Regulations, 2014 | companies-easy-exit-regulations-2014 | 2026-06-20 |  |
 | III-147 | Sukuk (Privately Placed) Regulations, 2017 | sukuk-privately-placed-regulations-2017 | 2026-06-20 |  |
@@ -100,6 +98,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-561 | Unclaimed Shares and Other Instruments and Undistributed Assets Regulations, 2017 | unclaimed-shares-regulations-2017 | 2017-10-06 |  |
 | III-569 | Bond Pricing Agency Rules, 2017 | bond-pricing-agency-rules-2017 | 2026-06-20 |  |
 | III-603 | Companies (Distribution of Dividends) Regulations, 2017 | companies-distribution-of-dividends-regulations-2017 | 2022-06-16 |  |
+| III-611 | Shariah Advisors Regulations, 2017 — *Repealed by S.R.O. 1314(I)/2023* | shariah-advisors-regulations-2017 | 2021-12-31 |  |
 | III-629 | Listed Companies (Code of Corporate Governance) Regulations, 2019 | listed-companies-ccg-regulations-2019 | 2025-03-20 | 2024-09-10 |
 | III-671 | Companies (Mediation and Conciliation) Regulations, 2018 | companies-mediation-conciliation-regulations-2018 | 2026-06-20 |  |
 | III-679 | Companies (Postal Ballot) Regulations, 2018 | companies-postal-ballot-regulations-2018 | 2025-03-20 |  |
@@ -112,6 +111,7 @@ The book is a trusted source (CLAUDE.md, 12 Nov 2026). "Later changes" means the
 | III-813 | Futures Brokers (Licensing and Operations) Regulations, 2018 | futures-brokers-regulations-2018 | 2026-06-20 | 2025-12-12 |
 | III-857 | Companies (Related Party Transactions and Maintenance of Related Records) Regulations, 2018 | companies-rpt-regulations-2018 | 2018-10-02 |  |
 | III-863 | Foreign Companies Regulations, 2018 | foreign-companies-regulations-2018 | 2026-06-20 | 2023-05-03 |
+| III-889 | Shariah Governance Regulations, 2018 — *Repealed by S.R.O. 1314(I)/2023* | shariah-governance-regulations-2018 | 2021-12-31 |  |
 | III-919 | Companies (Further Issue of Shares) Regulations, 2020 | companies-further-issue-of-shares-regulations-2020 | 2026-01-13 | 2026-01-13 |
 | III-953 | Listed Companies (Buy-back of Shares) Regulations, 2019 | listed-companies-buy-back-regulations-2019 | 2026-06-20 | 2022-09-06 |
 | III-975 | Search and Seizure Rules, 2019 | secp-search-seizure-rules-2019 | 2019-07-01 |  |

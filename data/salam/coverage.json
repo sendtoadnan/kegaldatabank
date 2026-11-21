@@ -945,33 +945,33 @@
   "page": "III-20(1)",
   "title": "Companies (Buy-back of Shares) Rules, 1999",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-buy-back-rules-1999",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-20(5)",
   "title": "Companies (Rehabilitation of Sick Industrial Units) Rules, 1999",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-rehabilitation-sick-units-rules-1999",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-21",
   "title": "SECP (Appellate Bench Procedure) Rules, 2003",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "secp-appellate-bench-procedure-rules-2003",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1000,8 +1000,8 @@
   "page": "III-85",
   "title": "Group Companies Registration Regulations, 2008",
   "status": "Repealed by S.R.O. 210(I)/2024",
-  "library": null,
-  "ourEdition": null,
+  "library": "group-companies-registration-regulations-2008",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": "2024-02-12",
   "changes": [
    {
@@ -1015,7 +1015,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "book has later changes"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1759,11 +1759,11 @@
   "page": "III-611",
   "title": "Shariah Advisors Regulations, 2017",
   "status": "Repealed by S.R.O. 1314(I)/2023",
-  "library": null,
-  "ourEdition": null,
+  "library": "shariah-advisors-regulations-2017",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2105,11 +2105,11 @@
   "page": "III-889",
   "title": "Shariah Governance Regulations, 2018",
   "status": "Repealed by S.R.O. 1314(I)/2023",
-  "library": null,
-  "ourEdition": null,
+  "library": "shariah-governance-regulations-2018",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",

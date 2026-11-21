@@ -3546,5 +3546,159 @@
     },
     "enacted": "2006-01-09",
     "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Provisions are numbered by Part (for example II.1), as the printed numbering restarts in each Part. The table of classification and provisioning in regulation E.5 is not reproduced and the small tables elsewhere are flattened; check them against the scan. The covering circular and contents list are not included."
+  },
+  {
+    "id": "companies-buy-back-rules-1999",
+    "title": "Companies (Buy-back of Shares) Rules, 1999",
+    "number": "S.R.O. 1337(I)/99",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Buy-back Rules 1999"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "numberingGaps": [
+      5
+    ],
+    "enacted": "1999-12-14",
+    "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force. Sub-rule (2) of rule 4 was omitted by S.R.O. 660(I)/2001; the printed numbering goes from rule 4 to rule 6. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "companies-rehabilitation-sick-units-rules-1999",
+    "title": "Companies (Rehabilitation of Sick Industrial Units) Rules, 1999",
+    "number": "S.R.O. 897(I)/2012",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 897(I)/2012",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "enacted": "1999-08-03",
+    "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force. The notification number is printed as S.R.O. 897(I)/2012 against the date 3 August 1999; recorded as printed. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "secp-appellate-bench-procedure-rules-2003",
+    "title": "Securities and Exchange Commission of Pakistan (Appellate Bench Procedure) Rules, 2003",
+    "number": "S.R.O. 734(I)/2003",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Appellate Bench Procedure Rules"
+    ],
+    "enacted": "2003-07-25",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 734(I)/2003",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "group-companies-registration-regulations-2008",
+    "title": "Group Companies Registration Regulations, 2008",
+    "number": "S.R.O. 1307(I)/2008",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "enacted": "2008-12-31",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1307(I)/2008",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by S.R.O. 210(I)/2024 (12 February 2024), the only later change recorded",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "status": "repealed",
+    "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text from the last printed text before the repeal (the edition records no other later change). Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "shariah-advisors-regulations-2017",
+    "title": "Shariah Advisors Regulations, 2017",
+    "number": "S.R.O. 1190(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "enacted": "2017-11-15",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1190(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by the Shariah Governance Regulations, 2023",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "status": "repealed",
+    "caution": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023. Kept for matters of earlier periods; text from the December 2021 edition. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "shariah-governance-regulations-2018",
+    "title": "Shariah Governance Regulations, 2018",
+    "number": "S.R.O. 1318(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "enacted": "2018-11-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1318(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by the Shariah Governance Regulations, 2023",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "status": "repealed",
+    "caution": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023. Kept for matters of earlier periods; text from the December 2021 edition. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
   }
 ]

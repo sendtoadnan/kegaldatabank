@@ -42,7 +42,10 @@
         "companies-management-by-administrator-rules-1993",
         "voluntary-winding-up-obligations-regulations-2016",
         "opportunity-of-hearing-regulations-2016",
-        "oversight-regulations-accountants-2020"
+        "oversight-regulations-accountants-2020",
+        "companies-buy-back-rules-1999",
+        "companies-rehabilitation-sick-units-rules-1999",
+        "group-companies-registration-regulations-2008"
       ]
     },
     {
@@ -84,7 +87,9 @@
         "credit-rating-companies-regulations-2016",
         "bond-pricing-agency-rules-2017",
         "share-registrars-balloters-regulations-2017",
-        "professional-clearing-members-regulations-2020"
+        "professional-clearing-members-regulations-2020",
+        "shariah-advisors-regulations-2017",
+        "shariah-governance-regulations-2018"
       ]
     },
     {
@@ -119,7 +124,8 @@
       "intro": "The Securities and Exchange Commission of Pakistan Act 1997 and its rules.",
       "items": [
         "secp-act-1997",
-        "secp-search-seizure-rules-2019"
+        "secp-search-seizure-rules-2019",
+        "secp-appellate-bench-procedure-rules-2003"
       ]
     },
     {
