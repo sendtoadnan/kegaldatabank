@@ -88,6 +88,7 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
   <nav class="nav" aria-label="Main">
     <a href="${base}index.html"${page === 'home' ? ' aria-current="page"' : ''}>Library</a>
     <a href="${base}search.html"${page === 'search' ? ' aria-current="page"' : ''}>Search</a>
+    <a href="${base}contents.html"${page === 'contents' ? ' aria-current="page"' : ''}>Index</a>
     <a href="${base}shelf.html"${page === 'shelf' ? ' aria-current="page"' : ''}>My shelf</a>
     <a href="${base}laws.html"${page === 'laws' ? ' aria-current="page"' : ''}>SECP laws</a>
     <a href="${base}sources.html"${page === 'sources' ? ' aria-current="page"' : ''}>Sources</a>
@@ -186,7 +187,7 @@ ${body}
     </form>
     <p class="hint">Try <a href="search.html?q=withholding%20tax">withholding tax</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=related%20party">related party</a> or <a href="search.html?q=KYC">KYC</a> · <a href="search-guide.html">Search guide</a></p>
     <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
-    <p class="stats small"><a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
+    <p class="stats small"><a href="contents.html">Index of every law, rule and regulation, by subject</a> · <a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
   </section>
   <div id="shelf-preview"></div>
   <nav class="chips" aria-label="Practice areas">
@@ -650,6 +651,48 @@ ${body}
     <nav class="chips" aria-label="Sectors">${cat.categories.map((g) => `<a class="chip" href="#${g.id}">${e(g.name)}</a>`).join('')}</nav>
     ${sections}
   </section>`,
+      })
+    );
+  }
+
+  // ---------- index of the whole library, by subject, with a link to each instrument ----------
+  {
+    const groups = JSON.parse(fs.readFileSync(path.join(dataDir || path.join(ROOT, 'data'), 'contents-groups.json'), 'utf8')).groups;
+    const byId = new Map(acts.map((a) => [a.id, a]));
+    const seen = new Map();
+    for (const g of groups) for (const id of g.items) {
+      if (!byId.has(id)) throw new Error(`contents-groups.json lists unknown instrument ${id}`);
+      if (seen.has(id)) throw new Error(`contents-groups.json lists ${id} twice (${seen.get(id)} and ${g.id})`);
+      seen.set(id, g.id);
+    }
+    const missing = acts.filter((a) => !seen.has(a.id)).map((a) => a.id);
+    if (missing.length) throw new Error(`contents-groups.json lacks: ${missing.join(', ')}`);
+    const nProv = (a) => a.parts.reduce((n, p) => n + p.sections.length, 0);
+    const row = (a) => `<li class="idx-item" data-q="${e((a.title + ' ' + (a.number || '') + ' ' + (a.aliases || []).join(' ')).toLowerCase())}">
+        <a href="acts/${a.id}/index.html"><span class="idx-title">${e(a.title)}</span></a>
+        <span class="idx-meta">${a.number ? e(a.number) + ' · ' : ''}${e(typeLabel(a.type))}${a.status === 'repealed' ? ' <span class="badge bad">Repealed</span>' : ''}${a.pdfOnly || !nProv(a) ? ' · text in the official PDF' : ` · ${nProv(a)} ${a.unit.toLowerCase()}${nProv(a) === 1 ? '' : 's'}`}${a.amendedUpToLabel ? ' · ' + e(a.amendedUpToLabel) : ''}${a.verification.status === 'verified' ? ' <span class="badge ok">Checked</span>' : ''}</span>
+        ${a.id === 'companies-act-2017' ? '<span class="idx-meta"><a href="acts/companies-act-2017/related.html">Rules, regulations and notifications by section</a></span>' : ''}
+      </li>`;
+    const body = groups
+      .map((g) => `<section class="idx-group" id="${g.id}"><h2>${e(g.name)} <span class="muted small">${g.items.length}</span></h2><p class="muted small">${e(g.intro)}</p><ol class="idx-list">${g.items.map((id) => row(byId.get(id))).join('')}</ol></section>`)
+      .join('');
+    write(
+      'contents.html',
+      layout({
+        title: `Index — ${site.name}`,
+        description: 'Every law, rule and regulation in the library, by subject, with a link to each.',
+        base: '',
+        page: 'contents',
+        body: `
+  <section class="prose contents-page">
+    <h1>Index of laws, rules and regulations</h1>
+    <p>All ${acts.length} instruments in the library, by subject: the Act first, then the rules and regulations made under it. Each title opens the instrument. For laws SECP administers that are not here yet, see <a href="laws.html">SECP laws</a>.</p>
+    <input class="idx-filter" id="idx-filter" type="search" placeholder="Filter by title, number or short name" aria-label="Filter the index" autocomplete="off">
+    <nav class="chips" aria-label="Subjects">${groups.map((g) => `<a class="chip" href="#${g.id}">${e(g.name)}</a>`).join('')}</nav>
+    <p class="muted small" id="idx-empty" hidden>Nothing matches.</p>
+    ${body}
+  </section>
+  <script>(function(){var f=document.getElementById('idx-filter');if(!f)return;f.addEventListener('input',function(){var q=f.value.trim().toLowerCase(),n=0;document.querySelectorAll('.idx-item').forEach(function(li){var ok=!q||li.getAttribute('data-q').indexOf(q)>-1;li.hidden=!ok;if(ok)n++;});document.querySelectorAll('.idx-group').forEach(function(g){g.hidden=!!q&&!g.querySelector('.idx-item:not([hidden])');});document.getElementById('idx-empty').hidden=n>0;});})();</script>`,
       })
     );
   }

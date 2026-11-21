@@ -309,3 +309,12 @@ select { font: inherit; padding: 6px 10px; border-radius: 8px; border: 1px solid
 .help-grid > div { border: 1px solid var(--border); border-radius: 10px; padding: 0.8rem; background: var(--surface); }
 .help-grid p { margin: 0; font-size: 0.9rem; }
 .nowrap { white-space: nowrap; }
+
+/* index page (contents.html) */
+.idx-filter { width: 100%; max-width: 520px; padding: 10px 12px; margin: 12px 0 4px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); color: var(--text); font: inherit; }
+.idx-group { margin-top: 28px; scroll-margin-top: 70px; }
+.idx-list { list-style: none; padding: 0; margin: 8px 0 0; }
+.idx-item { padding: 8px 0; border-top: 1px solid var(--border); }
+.idx-item[hidden], .idx-group[hidden] { display: none; }
+.idx-title { font-weight: 600; }
+.idx-meta { display: block; font-family: var(--sans); font-size: 0.82rem; color: var(--muted); margin-top: 2px; }
