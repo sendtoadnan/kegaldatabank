@@ -1763,6 +1763,41 @@
     }
   },
   {
+    "id": "companies-court-rules-1997",
+    "file": "companies-court-rules-1997.pdf",
+    "title": "Companies (Court) Rules, 1997",
+    "number": "S.R.O. 187(I)/97",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Companies Court Rules",
+      "Company Court Rules",
+      "Court Rules 1997"
+    ],
+    "enacted": "1997-03-26",
+    "source": {
+      "name": "Gazette of Pakistan, Extraordinary, Part II, 26 March 1997",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "1997-03-26",
+    "amendedUpToLabel": "26 March 1997 (S.R.O. 187(I)/97, as made)",
+    "bodyEndPage": 64,
+    "schedules": [
+      { "title": "Appendix I — Forms (Forms 1 to 115, with the rule that prescribes each)", "page": 64 },
+      { "title": "Appendix II — Statements of receipts and payments", "page": 210 }
+    ],
+    "caution": "Made under section 438 of the Companies Ordinance, 1984, and so framed in terms of that Ordinance and its section numbers. Treated here as applying to proceedings under the Companies Act, 2017 (instruction of the library's editor, 21 Nov 2026); read each rule's references to the Ordinance as references to the corresponding provisions of the 2017 Act, which the register of related instruments and the forms page match by subject (to be confirmed). The text is the Gazette edition as made; later amendments, if any, are not reflected. The 115 forms (Appendix I) and Appendix II are in the official PDF.",
+    "sourceNotes": "Text read from the Gazette PDF, which is itself a scanned and re-typed copy with some typing slips; wording is as printed.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/rules/",
+      "manual": true
+    }
+  },
+  {
     "id": "securities-act-2015",
     "file": "securities-act-2015.pdf",
     "title": "Securities Act, 2015",

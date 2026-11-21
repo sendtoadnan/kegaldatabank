@@ -204,7 +204,7 @@ ${body}
     const kids = children(act.id);
     const pdf = act.sourcePdf ? pdfHref(act, base) : null;
     const register = registerFor(act.id);
-    const cited = register ? citedSections(act, kids) : new Map();
+    const cited = register ? citedSections(act, kids, extras.formMaps) : new Map();
     // Register entries made under another law (e.g. the Securities Act) that do what a section leaves to be specified.
     const otherLaw = (i) => (i.madeUnder ? ` <span class="badge other">Other law</span> <span class="muted small">made under ${e(i.madeUnder)}</span>` : '');
     // Instruments related to each section: those in the library that cite it, then the register's entries.

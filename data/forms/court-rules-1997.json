@@ -1,6 +1,7 @@
 {
  "_about": "Forms in Appendix I of the Companies (Court) Rules, 1997 (S.R.O. 187(I)/97), which were made under section 438 of the Companies Ordinance, 1984. For each form: the rule that prescribes it and its title (from the official PDF), the 1984 Ordinance sections the rules or the form cite, and the sections of the Companies Act, 2017 that deal with the same subject. The 2017 sections are matched by subject against the text of this Act; they are not stated in the rules and are to be confirmed. Nothing here says that the rules or forms are in force under the 2017 Act.",
  "instrument": "Companies (Court) Rules, 1997",
+  "library": "companies-court-rules-1997",
  "act": "companies-act-2017",
  "matched": "2026-11-01",
  "forms": [
@@ -1258,7 +1259,7 @@
   },
   {
    "form": 99,
-   "rule": ".243",
+   "rule": "243",
    "title": "Schedule of contributories to whom capital is to be returned",
    "subject": "Return of capital to contributories",
    "ordinance1984": [],
@@ -1289,7 +1290,7 @@
   },
   {
    "form": 102,
-   "rule": "",
+   "rule": "260",
    "title": "Affidavit verifying account",
    "subject": "Official liquidator's accounts",
    "ordinance1984": [],

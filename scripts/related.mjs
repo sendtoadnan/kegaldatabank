@@ -44,6 +44,9 @@ export function validateExtras({ acts }, { checks, registers, searchTerms, formM
     if (!act) { errors.push(`forms/${m.id}.json: unknown act "${m.act}"`); continue; }
     const nos = new Set(act.parts.flatMap((p) => p.sections.map((s) => s.no)));
     for (const f of m.forms || []) for (const n of f.act2017 || []) if (!nos.has(n)) errors.push(`forms/${m.id}.json: form ${f.form} names unknown section ${n}`);
+    const lib = m.library && byId.get(m.library);
+    if (m.library && !lib) errors.push(`forms/${m.id}.json: unknown library instrument "${m.library}"`);
+    if (lib) { const have = new Set(lib.parts.flatMap((p) => p.sections.map((x) => x.no))); for (const f of m.forms || []) if (!have.has(f.rule)) errors.push(`forms/${m.id}.json: form ${f.form} names rule ${f.rule}, which is not in ${m.library}`); }
   }
   for (const [id, list] of Object.entries(searchTerms || {})) {
     if (!byId.has(id)) errors.push(`search-terms.json: unknown instrument "${id}"`);
@@ -91,10 +94,31 @@ export function sectionRefs(text) {
 }
 
 /** For each section of `act`, the provisions of instruments made under it that cite that section. */
-export function citedSections(act, kids) {
+export function citedSections(act, kids, formMaps = []) {
   const nos = new Set(act.parts.flatMap((p) => p.sections.map((s) => s.no)));
   const map = new Map();
+  // Rules framed under an older law (e.g. the Companies (Court) Rules, 1997) cite that law's section numbers, so the numbers in
+  // their text cannot be read as sections of this Act: their rules are linked through the form map (rule -> matched sections).
+  const matched = new Set();
+  for (const m of formMaps) {
+    const kid = m.library && m.act === act.id ? kids.find((k) => k.id === m.library) : null;
+    if (!kid) continue;
+    matched.add(kid.id);
+    const have = new Set(kid.parts.flatMap((p) => p.sections.map((s) => s.no)));
+    for (const f of m.forms || []) {
+      if (!have.has(f.rule)) continue;
+      for (const no of f.act2017 || []) {
+        if (!nos.has(no)) continue;
+        if (!map.has(no)) map.set(no, new Map());
+        const byKid = map.get(no);
+        if (!byKid.has(kid.id)) byKid.set(kid.id, { kid, provisions: [] });
+        const list = byKid.get(kid.id).provisions;
+        if (!list.includes(f.rule)) list.push(f.rule);
+      }
+    }
+  }
   for (const kid of kids) {
+    if (matched.has(kid.id)) continue;
     for (const p of kid.parts) {
       for (const s of p.sections) {
         for (const no of new Set(sectionRefs(plainText(s)))) {
