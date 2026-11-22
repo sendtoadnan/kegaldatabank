@@ -213,7 +213,7 @@ ${body}
     const cmpOtherAct = cmp?.otherId && acts.find((x) => x.id === cmp.otherId);
     const cmpOther = new Set(cmpOtherAct ? cmpOtherAct.parts.flatMap((p) => p.sections.map((s) => s.no)) : []);
     const ordLine = (no) => (cmp && cmpMap.has(no)
-      ? `<p class="prov-ord muted small">${e(cmp.otherTitle)}: ${cmpMap.get(no).o.length ? `section ${cmpMap.get(no).o.map((n) => (cmpOther.has(n) ? `<a href="../${cmp.otherId}/index.html#${provisionAnchor(n)}">${e(n)}</a>` : e(n))).join(', ')}` : 'no corresponding section'}${cmpMap.get(no).alt ? ` (the other comparison lists ${cmpMap.get(no).alt.length ? cmpMap.get(no).alt.map(e).join(', ') : 'none'})` : ''} · <a href="${cmp.id}.html#s-${no}">comparison</a></p>` : '');
+      ? `<p class="prov-ord muted small">${e(cmp.otherTitle)}: ${cmpMap.get(no).o.length ? `section ${cmpMap.get(no).o.map((n) => (cmpOther.has(n) ? `<a href="../${cmp.otherId}/index.html#${provisionAnchor(n)}">${e(n)}</a>` : e(n))).join(', ')}` : (cmp.noneText || 'no corresponding section')}${cmpMap.get(no).src === 'probable' ? ' (probable match by subject)' : ''}${cmpMap.get(no).alt ? ` (the other comparison lists ${cmpMap.get(no).alt.length ? cmpMap.get(no).alt.map(e).join(', ') : 'none'})` : ''} · <a href="${cmp.id}.html#s-${no}">comparison</a></p>` : '');
     // Instruments related to each section: those in the library that cite it, then the register's entries.
     const relatedTo = (no) => {
       const out = [...(cited.get(no)?.values() || [])].map(
@@ -452,41 +452,6 @@ ${body}
         })
       );
 
-      // ---------- comparison with the law this Act replaced ----------
-      for (const c of (extras.comparisons || []).filter((x) => x.act === act.id)) {
-        const byNo = new Map(act.parts.flatMap((p) => p.sections).map((s) => [s.no, s]));
-        const secLink = (n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`;
-        const other = c.otherId && acts.find((x) => x.id === c.otherId);
-        const otherNos = new Set(other ? other.parts.flatMap((p) => p.sections.map((s) => s.no)) : []);
-        const ordLink = (n) => (otherNos.has(n) ? `<a href="../${c.otherId}/index.html#${provisionAnchor(n)}">${e(n)}</a>` : e(n));
-        const ord = (n) => `${ordLink(n)}${c.titles?.[n] ? ` <span class="muted small">${e(c.titles[n])}</span>` : ''}`;
-        const rows = c.pairs
-          .map((p) => `<tr id="s-${p.a}"${p.src === 'differs' ? ' class="differs"' : ''}><td>${secLink(p.a)}</td><td>${e(byNo.get(p.a)?.title || '')}</td><td>${p.o.length ? p.o.map(ord).join('<br>') : '<span class="muted">— (new section)</span>'}${p.alt ? `<br><span class="badge warn">The two comparisons differ</span> <span class="muted small">the other lists: ${p.alt.length ? p.alt.map(ordLink).join(', ') : 'none'}</span>` : ''}${p.note ? `<br><span class="muted small">${e(p.note)}</span>` : ''}</td></tr>`)
-          .join('');
-        const nDiff = c.pairs.filter((p) => p.src === 'differs').length;
-        write(
-          `acts/${act.id}/${c.id}.html`,
-          layout({
-            title: `${act.title} compared with the ${c.otherTitle} — ${site.name}`,
-            description: `For each section of the ${act.title}, the section of the ${c.otherTitle} on the same matter.`,
-            base,
-            page: 'act',
-            body: `
-  <section class="prose related-page">
-    <p class="crumbs"><a href="${base}index.html">Library</a> / <a href="index.html">${e(act.title)}</a></p>
-    <h1>${e(act.title)} compared with the ${e(c.otherTitle)}</h1>
-    <p>${e(c._about)}</p>
-    <p class="note-box"><strong>Unverified.</strong> ${c.pairs.length} sections of the Act. ${nDiff} are marked where the two comparisons differ. ${e(c.missing)}</p>
-    <div class="table-wrap"><table class="sources-table related-table">
-      <thead><tr><th>${e(act.title)}</th><th>Heading</th><th>${e(c.otherTitle)}, section</th></tr></thead>
-      <tbody>${rows}</tbody>
-    </table></div>
-    ${c.unmatchedOrdinance?.length ? `<h2>Sections of the Ordinance not matched to a section of the Act</h2><p class="muted small">Omitted, or merged into another section: ${c.unmatchedOrdinance.map((n) => ord(n)).join('; ')}.</p>` : ''}
-  </section>`,
-          })
-        );
-      }
-
       // ---------- forms of older rules matched to this Act's sections ----------
       for (const m of extras.formMaps.filter((x) => x.act === act.id)) {
         const secLink = (n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`;
@@ -521,6 +486,42 @@ ${body}
         );
       }
     }
+
+    // ---------- comparison with the law this Act replaced ----------
+    for (const c of (extras.comparisons || []).filter((x) => x.act === act.id)) {
+      const byNo = new Map(act.parts.flatMap((p) => p.sections).map((s) => [s.no, s]));
+      const secLink = (n) => `<a href="index.html#${provisionAnchor(n)}">${e(displayNo(n))}</a>`;
+      const other = c.otherId && acts.find((x) => x.id === c.otherId);
+      const otherNos = new Set(other ? other.parts.flatMap((p) => p.sections.map((s) => s.no)) : []);
+      const ordLink = (n) => (otherNos.has(n) ? `<a href="../${c.otherId}/index.html#${provisionAnchor(n)}">${e(n)}</a>` : e(n));
+      const ord = (n) => `${ordLink(n)}${c.titles?.[n] ? ` <span class="muted small">${e(c.titles[n])}</span>` : ''}`;
+      const rows = c.pairs
+        .map((p) => `<tr id="s-${p.a}"${p.src === 'differs' ? ' class="differs"' : ''}><td>${secLink(p.a)}</td><td>${e(byNo.get(p.a)?.title || '')}</td><td>${p.o.length ? p.o.map(ord).join('<br>') : `<span class="muted">— (${c.newText || 'new section'})</span>`}${p.src === 'probable' ? ' <span class="badge warn">probable, matched by subject</span>' : ''}${p.alt ? `<br><span class="badge warn">The two comparisons differ</span> <span class="muted small">the other lists: ${p.alt.length ? p.alt.map(ordLink).join(', ') : 'none'}</span>` : ''}${p.note ? `<br><span class="muted small">${e(p.note)}</span>` : ''}</td></tr>`)
+        .join('');
+      const nDiff = c.pairs.filter((p) => p.src === 'differs').length;
+      write(
+        `acts/${act.id}/${c.id}.html`,
+        layout({
+          title: `${act.title} compared with the ${c.otherTitle} — ${site.name}`,
+          description: `For each section of the ${act.title}, the section of the ${c.otherTitle} on the same matter.`,
+          base,
+          page: 'act',
+          body: `
+<section class="prose related-page">
+  <p class="crumbs"><a href="${base}index.html">Library</a> / <a href="index.html">${e(act.title)}</a></p>
+  <h1>${e(act.title)} compared with the ${e(c.otherTitle)}</h1>
+  <p>${e(c._about)}</p>
+  <p class="note-box"><strong>Unverified.</strong> ${c.note ? e(c.note) : `${c.pairs.length} sections of the Act. ${nDiff} are marked where the two comparisons differ. ${e(c.missing)}`}</p>
+  <div class="table-wrap"><table class="sources-table related-table">
+    <thead><tr><th>${e(act.title)}</th><th>Heading</th><th>${e(c.otherTitle)}, section</th></tr></thead>
+    <tbody>${rows}</tbody>
+  </table></div>
+  ${c.unmatchedOrdinance?.length ? `<h2>Sections of the ${e(c.otherWord || 'Ordinance')} not matched to a section of the ${e(c.actWord || 'Act')}</h2><p class="muted small">Omitted, or merged into another section: ${c.unmatchedOrdinance.map((n) => ord(n)).join('; ')}.</p>` : ''}
+</section>`,
+        })
+      );
+    }
+
   }
 
   // ---------- search ----------

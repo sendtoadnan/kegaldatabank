@@ -3700,5 +3700,42 @@
     },
     "status": "repealed",
     "caution": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023. Kept for matters of earlier periods; text from the December 2021 edition. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "companies-act-1913",
+    "title": "Indian Companies Act, 1913",
+    "number": "Act No. VII of 1913",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Companies Act 1913",
+      "Companies Act, 1913",
+      "Indian Companies Act"
+    ],
+    "enacted": "1913-03-27",
+    "status": "repealed",
+    "textFrom": "website",
+    "source": {
+      "name": "Nasir Law Site: The Indian Companies Act, 1913 (nasirlawsite.com/laws/incoact.htm, page dated 6 July 2017, retrieved 22 Nov 2026)",
+      "url": "https://nasirlawsite.com/laws/incoact.htm"
+    },
+    "caution": "Repealed in Pakistan by the Companies Ordinance, 1984 (in force from 1984), which replaced it. Kept for companies, proceedings and transactions of earlier periods. Text taken, on the editor's instruction, from the Nasir Law Site (nasirlawsite.com), an unofficial compilation of the Act with bracketed amendments and wording of British India, not adapted for Pakistan; the page does not say which amendments it carries. The site's text has gaps and typing slips that are reproduced as published: sections 28 and 29 are listed without text; the text of sections 169 and 170 is missing and the start of section 168 reads imperfectly; section 219 is missing; the page has no Part 3 heading. The Fourth Schedule (enactments repealed) has no table on the page and is not included. The Statement of Objects and Reasons (1936) and the appendices of earlier Acts' tables on the page are not included. Unverified: to be checked against an official copy.",
+    "sourceNotes": "Section headings and text follow the source page; Part 3 has no heading on the page. Sections 28 and 29 appear there without text.",
+    "amendedUpTo": "2017-07-06",
+    "amendedUpToLabel": "As published on the Nasir Law Site (page dated 6 July 2017); amendments incorporated not stated",
+    "numberingGaps": [
+      28,
+      29,
+      169,
+      170,
+      219
+    ],
+    "watch": {
+      "page": "https://nasirlawsite.com/laws/incoact.htm",
+      "manual": true
+    }
   }
 ]
