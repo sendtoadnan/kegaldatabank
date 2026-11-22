@@ -1,0 +1,3685 @@
+{
+ "act": "companies-ordinance-1984",
+ "otherTitle": "Indian Companies Act, 1913",
+ "otherId": "companies-act-1913",
+ "actWord": "Ordinance",
+ "otherWord": "Act",
+ "newText": "no corresponding section found in the 1913 Act",
+ "_about": "For each section of the Companies Ordinance, 1984, the section of the Indian Companies Act, 1913 (the law in force before the Ordinance) that appears to deal with the same matter. This is not a published table: each pair was found by comparing the headings and wording of the two texts (an automatic match, in the order of the two laws), so every pair is a lead to be confirmed. \"Probable\" pairs have a weaker match. A dash means no matching section was found: the Ordinance section may be new, or the match was too weak to show. The text of the 1913 Act is itself incomplete in places (see its note).",
+ "status": "unverified",
+ "coverage": "list",
+ "note": "534 sections of the Ordinance; 260 have a matching section of the 1913 Act (218 close matches, 42 probable). Matched automatically by heading and wording, not from a published table.",
+ "titles": {
+  "1": "Short title, commencement and extent",
+  "2": "Definitions",
+  "2A": "Provisions as to companies registered in Burma or Aden before separation from India",
+  "3": "Jurisdiction of the Courts",
+  "4": "Prohibition partnerships exceeding certain number",
+  "5": "Mode of forming incorporated Company",
+  "6": "Memorandum of company limited by shares",
+  "7": "Memorandum of company limited by guarantee",
+  "8": "Memorandum of unlimited company",
+  "9": "Printing and signature of memorandum",
+  "10": "Restriction on alteration of memorandum",
+  "11": "Name of company and change of name",
+  "12": "Alteration of Memorandum",
+  "13": "Power of Court when confirming alteration",
+  "14": "Exercise of discretion by Court",
+  "15": "Procedure on confirmation of the alteration",
+  "16": "Effect of failure to register within three months",
+  "17": "Registration of articles",
+  "18": "Application of Table A",
+  "19": "Form and signature of articles",
+  "20": "Alteration of articles by special resolution",
+  "20A": "Effect of alteration in memorandum or articles",
+  "21": "Effect of memorandum and articles",
+  "22": "Registration of memorandum and articles",
+  "23": "Effect of registration",
+  "24": "Conclusiveness of certificate of incorporation",
+  "25": "Copies of memorandum and articles to be given to member",
+  "25A": "Alteration of memorandum or articles to be noted in every copy",
+  "26": "Power to dispense with “Limited” in name of charitable and other companies",
+  "27": "Provision as to companies limited by guarantee",
+  "30": "Definition of “member”",
+  "31": "Register of members",
+  "31A": "Index of members of company",
+  "32": "Annual list of members and summary",
+  "33": "Trusts not to be entered on register",
+  "34": "Transfer of shares",
+  "35": "Transfer by legal representative",
+  "36": "Inspection of register of members",
+  "37": "Power to close register",
+  "38": "Power of Court to rectify register",
+  "39": "Notice to registrar of rectification of register",
+  "40": "Register to be evidence",
+  "41": "Power for company to keep branch register in the United Kingdom",
+  "42": "Regulations as to British register",
+  "42A": "Application of sections 41 and 42 to Burma",
+  "43": "Issue of warrants to bearer, ales",
+  "44": "Effect of share-warrant",
+  "45": "Registration of name of bearer of share-warrant",
+  "46": "Position of bearer of share-warrant",
+  "47": "Entries in register when share-warrant issued",
+  "48": "Surrender of share-warrant",
+  "49": "Power of company to arrange for different amounts being paid on shares",
+  "50": "Power of company limited by shares to alter its share capital",
+  "51": "Notice to registrar of consolidation of share capital, conversion of shares into stock, etc",
+  "52": "Effect of conversion of shares into stock",
+  "53": "Notice of increase of share capital or of members",
+  "54": "[Re-organisation of share capital]",
+  "54A": "Restrictions on purchase by company or loans by company of its own shares",
+  "55": "Reduction of share capital",
+  "56": "Application to Court for confirming order",
+  "57": "Addition to name of company of “and reduced”",
+  "58": "Objections by creditors and settlement of list of objecting creditors",
+  "59": "Power to dispense with consent of creditor on security being given for his debt",
+  "60": "Order confirming reduction",
+  "61": "Registration of order and minute of reduction",
+  "62": "Minute to farm part of memorandum",
+  "63": "Liability of members in respect of reduced shares",
+  "64": "Penalty on concealment of name of creditor",
+  "65": "Publication of reasons for reduction",
+  "66": "Increase and reduction of share capital in case of a company limited by guarantee having a share capital",
+  "66A": "Rights of holders of special classes of shares",
+  "67": "Registration of unlimited company as limited",
+  "68": "Power of unlimited company to provide for reserve share capital on re-registration",
+  "69": "Reserve liability of limited company",
+  "70": "Limited company may have directors with unlimited liability",
+  "71": "Special resolution of limited company making liability of directions unlimited",
+  "72": "Registered office of company",
+  "73": "Publication of name by a limited company",
+  "74": "Penalties for non-publication of name",
+  "75": "Publication of authorized as well as subscribed and paid-up-capital",
+  "76": "Annual general meeting",
+  "77": "Statutory meeting of company",
+  "78": "Calling of extraordinary general meeting on requisition",
+  "79": "Provisions as to meetings and votes",
+  "80": "Representation of companies at meetings of other companies of which they are members",
+  "81": "Extraordinary and special resolutions",
+  "82": "Registration and copies of special and extraordinary resolutions",
+  "83": "Minutes of proceedings of general meetings and of its directors",
+  "83A": "Directors obligatory",
+  "83B": "Appointment of directors",
+  "84": "Restrictions on appointment or advertisement of director",
+  "85": "Qualification of director",
+  "86": "Validity of acts of directors",
+  "86A": "Ineligibility of bankrupt to act as director",
+  "86B": "Assignment of office by directors",
+  "86C": "Avoidance of provisions relieving liability of directors",
+  "86D": "Loans to directors",
+  "86E": "Director not to hold office of profit",
+  "86F": "Sanction of directors necessary for certain contracts",
+  "86G": "Removal of directors",
+  "86H": "Restrictions on powers of directors",
+  "86I": "Vacation of Office of Director",
+  "87": "Register of directors, managers, and managing agents",
+  "87A": "Duration of appointment of managing agent",
+  "87B": "Conditions applicable to managing agents",
+  "87C": "Remuneration of managing agent",
+  "87D": "Loans to managing agents",
+  "87E": "Loans to or by companies under the same management",
+  "87F": "Purchase by company of shares of company under same managing agent",
+  "87G": "Restriction on managing agent’s power of management",
+  "87H": "Managing agent business competing with the business of managed company",
+  "87I": "Limit on number of directors appointed by managing agent",
+  "88": "Form of contracts",
+  "89": "Bills of exchange and promissory notes",
+  "90": "Execution of deeds",
+  "91": "Power for company to have official seal for use abroad",
+  "91A": "Disclosure of interest by director",
+  "91B": "Prohibition of voting by interested director",
+  "91C": "Disclosure to members in case of contact appointing a manager",
+  "91D": "Contracts by agents of company in which company is undisclosed principal",
+  "92": "Filing of prospectus",
+  "93": "Specific requirements as to particulars of prospectus",
+  "94": "Meaning of “vendor” in section 93",
+  "95": "Application of section 93 to the case of property taken on lease",
+  "96": "Invalidity of certain conditions as to waiver or notice",
+  "97": "If any person acts in contravention of the provisions of this sub-section, no shall be liable to a fine not exceeding five hundred rupees",
+  "98A": "",
+  "99": "Restriction on alteration of terms mentioned in prospectus or statement in lieu prospectus",
+  "100": "Liability for statements in prospectus",
+  "101": "Restriction as to allotment",
+  "102": "Effect of Irregular allotment",
+  "103": "Restrictions on commencement of business",
+  "104": "Return as to allotments",
+  "105": "Power to pay certain commissions and prohibition of payment of all other commissions, discounts, etc",
+  "105A": "Power to issue shares at a discount",
+  "105B": "Issue of redeemable preference shares",
+  "105C": "Further issue of capital",
+  "106": "State in balance sheet as to commissions and discount",
+  "107": "Power of company to pay interest out of capital in certain",
+  "108": "LIMITATION OF TIME FOR ISSUE OF CERTIFICATES",
+  "109": "Certain mortgages and charges to be void if not registered",
+  "109A": "Registration of charges on properties acquired subject to charge",
+  "110": "PARTICULARS IN CASE SERIES OF DEBENTURES ENTITLING HOLDERS PARI PASSU",
+  "111": "Particulars in case of commission etc. on debentures",
+  "112": "Register of mortgage and charges",
+  "113": "Index to register of Mortgages and charges",
+  "114": "Certificate of Registration",
+  "115": "Endorsement of certificate of registration on debenture or certificate of debenture stock",
+  "116": "Duty Of Company and Right of Interest Party as Regards Registered",
+  "117": "Copy of Instrument Creating Mortgage or Charge to be Kept at Registered Office",
+  "118": "Registration of Appointment of Receiver",
+  "119": "Fillings of Accounts Of Receivers",
+  "120": "RECTIFICATION OF REGISTER OF MORTGAGES",
+  "121": "REGISTRATION OR SATISFACTION OF MORTGAGES AND CHARGES",
+  "122": "PANELTIES",
+  "123": "Company’s Register of Mortgages",
+  "124": "Right to Inspect Copies of Instrument Creating Mortgages and Charges and Company’s Register of Mortgages",
+  "125": "Right to Inspect The Register of Debenture-Holders and to Have Copies of Trust-Deed",
+  "126": "PERPETUAL DEBENTURES",
+  "127": "Power to re-issue redeemed debentures in certain cases",
+  "128": "Specific performance of contract to subscribe for debentures",
+  "129": "Payments of certain debts out of assets subject to floating charge in priority to claims under the charge",
+  "130": "Books to be kept by company and penalty for not keeping proper books",
+  "131": "Annual balance-sheet",
+  "131A": "Directors’ Report",
+  "132": "Contents of balance-sheet",
+  "132A": "Balance-sheet to include particulars as to subsidiary companies",
+  "133": "Authentication of balance-sheet",
+  "134": "Copy of balance-sheet to be forwarded to the registrar",
+  "135": "Right of member of company to copies of the balance-sheet and the auditor’s report",
+  "136": "Certain companies to publish statement in schedule",
+  "137": "Power of registrar to call for information or explanation",
+  "138": "Investigation of affairs of company by inspectors",
+  "139": "Application for inspection to be supported by evidence",
+  "140": "Inspection of books and examination of officers",
+  "141": "Results examination the how dealt with",
+  "141A": "Institution of prosecutions",
+  "142": "Power of company to appoint inspectors",
+  "143": "Report of inspectors to be evidence",
+  "144": "Qualification and appointment of auditors",
+  "145": "Powers and duties of auditors",
+  "146": "Rights of preference shareholders, etc., as to receipts and inspection of reports, etc",
+  "147": "Liability for carrying on business with fewer than private company, two members",
+  "148": "Service of documents company",
+  "149": "Service of documents registrar",
+  "150": "Authentication of documents",
+  "151": "Application and alteration of tables and forms and power to make rules as to prescribed matters",
+  "152": "Power for companies to refer matters to arbitration",
+  "153": "Power to compromise with creditors and members",
+  "153A": "Provisions for facilitating arrangements and compromises",
+  "153B": "Power to acquire shares of shareholders dissenting from schemes or contract approved by majority",
+  "154": "Conversion of private company into public company",
+  "155": "Mode of winding up",
+  "156": "Liability as contributories of present and pact members",
+  "157": "Liability of directors whose liability is unlimited",
+  "158": "Meaning of contributory",
+  "159": "Nature of liability of contributory",
+  "160": "Contributories in case of death of member",
+  "161": "Contributories in case of insolvency of member",
+  "162": "Circumstances in which company may be wound up by Court",
+  "163": "Company when deemed unable to pay its debts",
+  "164": "Winding up may be to District court",
+  "165": "Transfer of winding up from one District",
+  "166": "Provisions as to application for winding up",
+  "167": "Effect of winding up order",
+  "168": "Commencement of winding up by Court",
+  "171": "Suits stayed on winding up order",
+  "171A": "Vacancy in the office of liquidator",
+  "172": "Copy of winding up order to be filed with registrar",
+  "173": "Power of Court to stay winding up",
+  "174": "Court may have regard to wishes of creditors or contributories",
+  "175": "Appointment of official liquidator",
+  "176": "Resignations, removals, filling up vacancies and compensation",
+  "177": "Official liquidator",
+  "177A": "",
+  "177B": "Statement by liquidator",
+  "178": "Custody of company’s property",
+  "178A": "Committee of Inspection in compulsory up",
+  "179": "Powers of official liquidator",
+  "180": "Discretion of official liquidator",
+  "181": "Provision for legal assistance to official liquidator",
+  "182": "Liquidator to keep books containing proceedings of meetings and to submit account of his receipt to Court",
+  "183": "Exercise and control of liquidator’s powers",
+  "184": "Settlement of list of contributories and application of assets",
+  "185": "Power to require delivery of property",
+  "186": "Power to order payment of debts by contributory",
+  "187": "Power of Court to make calls",
+  "188": "Power to order payment into bank",
+  "189": "Regulation of account with Court",
+  "190": "Order on contributory conclusive evidence",
+  "191": "Power to exclude creditors not proving in time",
+  "192": "Adjustment of rights of contributories",
+  "193": "Power to order costs of",
+  "194": "Dissolution of company",
+  "195": "Power to summon persons suspected of having property of company",
+  "196": "Power to order public examination of promoters, directors, etc",
+  "197": "Power to arrest absconding contributory",
+  "198": "Saving of other sums",
+  "199": "Power to enforce orders",
+  "200": "Order made in any Court to be enforced by other Courts",
+  "201": "Mode of dealing with orders to be enforced by other Courts",
+  "202": "Appeals from orders",
+  "203": "Circumstances in which company may be wound up voluntarily",
+  "204": "Commencement of voluntary winding up",
+  "205": "Effect of voluntary winding upon status of company",
+  "206": "Notice of resolution to wind up voluntarily",
+  "207": "Declaration of solvency",
+  "208": "Provisions applicable to a members’ voluntary winding up",
+  "208A": "Power of company to appoint and fix remuneration of liquidators",
+  "208B": "Power to fill vacancy in office of liquidator",
+  "208C": "Power of liquidator to accept shares, etc., as consideration for sale of property of company",
+  "208D": "Duty of liquidator to call general meeting at end of each year",
+  "208E": "Final meeting and dissolution",
+  "209": "Provisions applicable to a creditors’ voluntary winding up",
+  "209A": "Meeting of creditors",
+  "209B": "Appointment of liquidator",
+  "209C": "Appointment of committee of inspection",
+  "209D": "Fixing of liquidators’ remuneration and cesser of directors’ powers",
+  "209E": "Power to fill vacancy in office of liquidator",
+  "209F": "Application of section 208C to a creditors voluntary winding up",
+  "209G": "Duty of liquidator to call meetings of company and of creditors at end of each year",
+  "209H": "Final meeting and dissolution",
+  "210": "Provisions applicable to every voluntary winding up",
+  "211": "Distribution of property of company",
+  "212": "Power and duties of liquidator in voluntary winding up",
+  "213": "Power of Court, to appoint and remove liquidator in voluntary winding up",
+  "214": "Notice by liquidator of his appointment",
+  "215": "Arrangement when binding on creditors",
+  "216": "Power to apply to Court to have questions determined of powers exercised",
+  "217": "Cost of voluntary winding up",
+  "218": "Saving for rights of creditors and contributories",
+  "220": "Power of Court to adopt proceedings of voluntary winding up",
+  "221": "Power to order winding up subject to supervision",
+  "222": "Effect of petition for winding up subject to supervision",
+  "223": "Court may have regard to wishes of creditors and contributors",
+  "224": "Power for Court to appoint or remove liquidators",
+  "225": "Effect of supervision order",
+  "226": "Appointment in certain cases of voluntary liquidators to office of official liquidators",
+  "227": "Avoidance of transfers etc., after commencement of winding up",
+  "228": "Debts of all descriptions to be proved",
+  "229": "Application of insolvency rule in winding up of insolvent companies",
+  "230": "Preferential payments",
+  "230A": "Disclaimer of property",
+  "231": "Fraudulent preference",
+  "232": "Avoidance of certain attachments, executions etc",
+  "233": "Effect of floating charge",
+  "234": "General scheme of liquidation may be sanctioned",
+  "235": "Power of Court to assess damages against delinquent directors, etc",
+  "236": "Penalty for falsification of books",
+  "237": "Prosecution of delinquent directors",
+  "238": "Penalty for false evidence",
+  "238A": "Penal provisions",
+  "239": "Meetings to ascertain wishes of creditors or contributories",
+  "240": "Documents of company be evidence",
+  "241": "Inspection of documents",
+  "242": "Disposal of documents of company",
+  "243": "Power of Court to declare dissolution of company void",
+  "244": "Information as to pending liquidations",
+  "244A": "Payments of liquidator into bank",
+  "244B": "Unclaimed dividends and undistributed assets to be paid to Companies Liquidation Account",
+  "245": "Court or person before whom affidavit may be sworn",
+  "246": "Power of High Court to make rules",
+  "247": "Registrar may strike defunct company off register",
+  "248": "Registration offices",
+  "249": "Fees",
+  "249A": "Enforcing submission of returns and documents to registrar",
+  "250": "Application of Act to companies formed under former Companies Acts",
+  "251": "Application of Act to companies registered but not formed under former Companies Act",
+  "252": "Mode of transferring",
+  "253": "Companies capable of being registered",
+  "254": "Definition of “jointstock company”",
+  "255": "Requirements for registration by jointstock companies",
+  "256": "Requirements for registration by other than joint-stock companies",
+  "257": "Authentication of statement of existing companies",
+  "258": "Registrar may require evidence as to nature of company",
+  "259": "On registration of banking company with limited liability, notice to be given to customers",
+  "260": "Exemption of certain companies from payment of fees",
+  "261": "Addition of “Limited” to name",
+  "262": "Certificate of registration of existing companies",
+  "263": "Vesting of property on registration",
+  "264": "Saving of existing liabilities",
+  "265": "Continuation of existing suits",
+  "266": "Effect of registration under Act",
+  "267": "Power to substitute memorandum and articles for deed of settlement",
+  "268": "Power of Court to stay or restrain proceedings",
+  "269": "Suits stayed on winding up order",
+  "270": "Meaning of “unregistered company”",
+  "271": "Winding up of unregistered companies",
+  "272": "Contributories in winding up of unregistered companies",
+  "273": "Power to stay or restrain proceedings",
+  "274": "Suits stayed on winding up order",
+  "275": "Directions as to property in certain cases",
+  "276": "Provisions of this Part cumulative",
+  "277": "Requirements as to companies established outside British India",
+  "277A": "Restriction on sale and offer for sale of share",
+  "277B": "Requirements as to prospects",
+  "277C": "Restriction on canvassing for sale of shares",
+  "277D": "Registration of charges",
+  "277E": "Notice of appointment of receiver",
+  "277F": "Definition of banking company",
+  "277G": "Limited of activities Banking company",
+  "277H": "Banking company not to employ managing agent",
+  "277HH": "Prohibition of employment of managing agents and restrictions on certain forms of employment",
+  "277I": "Restrictions on commencement of business conditions for carryon business by bank company",
+  "277J": "Prohibition of charge on unpaid capital",
+  "277K": "Reserve fund",
+  "277L": "Cash Reserve",
+  "277M": "Restriction nature of subsidiary companies",
+  "277N": "Power of Court to stay proceedings",
+  "278": "Cognizance of offences",
+  "279": "Application of fines",
+  "280": "Power to require limited company to give security for costs",
+  "281": "Power of Court to grant relief in certain cases",
+  "282": "Penalty for false statement",
+  "282A": "Penalty for wrongful withholding of property",
+  "282B": "Penalty for misapplication of securities by employers",
+  "283": "Penalty for improper use of word “Limited”",
+  "284": "Saving of pending proceedings for winding up",
+  "285": "Saving of document",
+  "286": "Former registration offices, registers and registrars, continued",
+  "287": "Savings for Indian Life Assurance Companies and Provident Insurance Societies Act, 1912",
+  "288": "Construction of “registrar of joint-stock companies” in Act XXI of 1860",
+  "289": "Act not to apply to Banks of Bengal, Madras or Bombay",
+  "289A": "Application of Act to non-trading companies with purely Provincial objects",
+  "290": "Repeal of Acts and Savings"
+ },
+ "pairs": [
+  {
+   "a": "1",
+   "o": [
+    "1"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "2",
+   "o": [
+    "2"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "3",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "4",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "5",
+   "o": [
+    "289A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "6",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "7",
+   "o": [
+    "3"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "8",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "9",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "10",
+   "o": [
+    "202"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "12",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "13",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "14",
+   "o": [
+    "4"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "15",
+   "o": [
+    "5"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "16",
+   "o": [
+    "6"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "17",
+   "o": [
+    "7"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "18",
+   "o": [
+    "8"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "19",
+   "o": [
+    "9"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "20",
+   "o": [
+    "10"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "21",
+   "o": [
+    "12"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "22",
+   "o": [
+    "13"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "23",
+   "o": [
+    "14"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "24",
+   "o": [
+    "15"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "25",
+   "o": [
+    "16"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "26",
+   "o": [
+    "17"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "27",
+   "o": [
+    "19"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "28",
+   "o": [
+    "20"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "29",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "30",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "31",
+   "o": [
+    "21"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "32",
+   "o": [
+    "23"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "33",
+   "o": [
+    "24"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "34",
+   "o": [
+    "20A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "35",
+   "o": [
+    "25"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "36",
+   "o": [
+    "25A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "37",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "38",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "39",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "40",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "41",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "42",
+   "o": [
+    "26"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "43",
+   "o": [
+    "27"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "44",
+   "o": [
+    "154"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "45",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "46",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "47",
+   "o": [
+    "147"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "48",
+   "o": [
+    "148"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "49",
+   "o": [
+    "149"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "50",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "51",
+   "o": [
+    "150"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "52",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "53",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "54",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "55",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "56",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "57",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "58",
+   "o": [
+    "99"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "59",
+   "o": [
+    "100"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "60",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "61",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "62",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "62A",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "63",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "64",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "65",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "66",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "67",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "68",
+   "o": [
+    "101"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "69",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "70",
+   "o": [
+    "102"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "71",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "72",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "73",
+   "o": [
+    "104"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "74",
+   "o": [
+    "108"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "75",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "76",
+   "o": [
+    "34"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "77",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "78",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "79",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "80",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "81",
+   "o": [
+    "35"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "82",
+   "o": [
+    "105"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "83",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "84",
+   "o": [
+    "105A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "85",
+   "o": [
+    "105B"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "86",
+   "o": [
+    "105C"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "87",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "88",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "89",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "90",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "91",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "92",
+   "o": [
+    "50"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "93",
+   "o": [
+    "51"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "94",
+   "o": [
+    "53"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "95",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "95A",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "96",
+   "o": [
+    "55"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "97",
+   "o": [
+    "56"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "98",
+   "o": [
+    "57"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "99",
+   "o": [
+    "58"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "100",
+   "o": [
+    "59"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "101",
+   "o": [
+    "60"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "102",
+   "o": [
+    "61"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "103",
+   "o": [
+    "62"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "104",
+   "o": [
+    "63"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "105",
+   "o": [
+    "64"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "106",
+   "o": [
+    "65"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "107",
+   "o": [
+    "66"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "108",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "109",
+   "o": [
+    "67"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "110",
+   "o": [
+    "68"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "111",
+   "o": [
+    "70"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "112",
+   "o": [
+    "71"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "113",
+   "o": [
+    "125"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "114",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "115",
+   "o": [
+    "126"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "116",
+   "o": [
+    "127"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "117",
+   "o": [
+    "128"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "118",
+   "o": [
+    "129"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "119",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "120",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "121",
+   "o": [
+    "109"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "122",
+   "o": [
+    "109A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "123",
+   "o": [
+    "110"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "124",
+   "o": [
+    "111"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "125",
+   "o": [
+    "112"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "126",
+   "o": [
+    "113"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "127",
+   "o": [
+    "114"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "128",
+   "o": [
+    "115"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "129",
+   "o": [
+    "116"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "130",
+   "o": [
+    "117"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "131",
+   "o": [
+    "120"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "132",
+   "o": [
+    "121"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "133",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "134",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "135",
+   "o": [
+    "123"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "136",
+   "o": [
+    "124"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "137",
+   "o": [
+    "118"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "138",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "139",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "140",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "141",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "142",
+   "o": [
+    "72"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "143",
+   "o": [
+    "73"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "144",
+   "o": [
+    "74"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "145",
+   "o": [
+    "75"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "146",
+   "o": [
+    "103"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "147",
+   "o": [
+    "31A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "148",
+   "o": [
+    "33"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "149",
+   "o": [
+    "31A"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "150",
+   "o": [
+    "36"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "151",
+   "o": [
+    "37"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "152",
+   "o": [
+    "38"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "153",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "154",
+   "o": [
+    "39"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "155",
+   "o": [
+    "40"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "156",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "157",
+   "o": [
+    "77"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "158",
+   "o": [
+    "76"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "159",
+   "o": [
+    "78"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "160",
+   "o": [
+    "79"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "161",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "162",
+   "o": [
+    "80"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "163",
+   "o": [
+    "80"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "164",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "165",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "166",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "167",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "168",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "169",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "170",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "171",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "172",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "173",
+   "o": [
+    "83"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "174",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "175",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "176",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "177",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "178",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "178A",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "179",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "180",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "181",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "182",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "183",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "184",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "185",
+   "o": [
+    "86"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "186",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "187",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "188",
+   "o": [
+    "86I"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "189",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "190",
+   "o": [
+    "86A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "191",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "192",
+   "o": [
+    "86B"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "193",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "194",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "195",
+   "o": [
+    "86D"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "196",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "197",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "198",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "199",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "200",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "201",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "202",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "203",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "204",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "205",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "206",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "207",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "208",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "209",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "210",
+   "o": [
+    "88"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "211",
+   "o": [
+    "89"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "212",
+   "o": [
+    "90"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "213",
+   "o": [
+    "91"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "214",
+   "o": [
+    "91A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "215",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "216",
+   "o": [
+    "91B"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "217",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "218",
+   "o": [
+    "91C"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "219",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "220",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "221",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "222",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "223",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "224",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "225",
+   "o": [
+    "91D"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "226",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "227",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "228",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "229",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "230",
+   "o": [
+    "130"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "231",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "232",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "233",
+   "o": [
+    "131"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "234",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "234A",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "235",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "236",
+   "o": [
+    "131A"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "237",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "238",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "239",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "240",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "241",
+   "o": [
+    "133"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "242",
+   "o": [
+    "134"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "243",
+   "o": [
+    "135"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "244",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "245",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "246",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "247",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "248",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "249",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "250",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "251",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "252",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "253",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "254",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "255",
+   "o": [
+    "145"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "256",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "257",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "258",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "259",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "260",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "261",
+   "o": [
+    "137"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "262",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "263",
+   "o": [
+    "138"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "264",
+   "o": [
+    "139"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "265",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "266",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "267",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "268",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "269",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "270",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "271",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "272",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "273",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "274",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "275",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "276",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "277",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "278",
+   "o": [
+    "143"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "279",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "280",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "281",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282A",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282B",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282C",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282CA",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282D",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282E",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282F",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282G",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282H",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282I",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282J",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282K",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282L",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282M",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "282N",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "283",
+   "o": [
+    "152"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "284",
+   "o": [
+    "153"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "285",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "286",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "287",
+   "o": [
+    "153A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "288",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "289",
+   "o": [
+    "153B"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "290",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "291",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "292",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "293",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "294",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "295",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "296",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "297",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "298",
+   "o": [
+    "156"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "299",
+   "o": [
+    "157"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "300",
+   "o": [
+    "158"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "301",
+   "o": [
+    "159"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "302",
+   "o": [
+    "160"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "303",
+   "o": [
+    "161"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "304",
+   "o": [
+    "161"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "305",
+   "o": [
+    "162"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "306",
+   "o": [
+    "163"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "307",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "308",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "309",
+   "o": [
+    "166"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "310",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "311",
+   "o": [
+    "168"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "312",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "313",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "314",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "315",
+   "o": [
+    "172"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "316",
+   "o": [
+    "171"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "317",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "318",
+   "o": [
+    "167"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "319",
+   "o": [
+    "173"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "320",
+   "o": [
+    "174"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "321",
+   "o": [
+    "175"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "322",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "323",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "324",
+   "o": [
+    "177"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "325",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "326",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "327",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "328",
+   "o": [
+    "177A"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "329",
+   "o": [
+    "177B"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "330",
+   "o": [
+    "178"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "331",
+   "o": [
+    "178A"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "332",
+   "o": [
+    "178A"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "333",
+   "o": [
+    "179"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "334",
+   "o": [
+    "180"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "335",
+   "o": [
+    "181"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "336",
+   "o": [
+    "182"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "337",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "338",
+   "o": [
+    "183"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "339",
+   "o": [
+    "184"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "340",
+   "o": [
+    "185"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "341",
+   "o": [
+    "186"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "342",
+   "o": [
+    "187"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "343",
+   "o": [
+    "188"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "344",
+   "o": [
+    "189"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "345",
+   "o": [
+    "190"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "346",
+   "o": [
+    "191"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "347",
+   "o": [
+    "192"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "348",
+   "o": [
+    "193"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "349",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "350",
+   "o": [
+    "194"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "351",
+   "o": [
+    "195"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "352",
+   "o": [
+    "196"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "353",
+   "o": [
+    "197"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "354",
+   "o": [
+    "198"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "355",
+   "o": [
+    "199"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "356",
+   "o": [
+    "200"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "357",
+   "o": [
+    "201"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "358",
+   "o": [
+    "203"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "359",
+   "o": [
+    "204"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "360",
+   "o": [
+    "205"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "361",
+   "o": [
+    "206"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "362",
+   "o": [
+    "207"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "363",
+   "o": [
+    "208"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "364",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "365",
+   "o": [
+    "208B"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "366",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "367",
+   "o": [
+    "208C"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "368",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "369",
+   "o": [
+    "208D"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "370",
+   "o": [
+    "208E"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "371",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "372",
+   "o": [
+    "209"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "373",
+   "o": [
+    "209A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "374",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "375",
+   "o": [
+    "209B"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "376",
+   "o": [
+    "209C"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "377",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "378",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "379",
+   "o": [
+    "209E"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "380",
+   "o": [
+    "209F"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "381",
+   "o": [
+    "209G"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "382",
+   "o": [
+    "209H"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "383",
+   "o": [
+    "210"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "384",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "385",
+   "o": [
+    "211"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "386",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "387",
+   "o": [
+    "212"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "388",
+   "o": [
+    "213"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "389",
+   "o": [
+    "214"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "390",
+   "o": [
+    "215"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "391",
+   "o": [
+    "216"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "392",
+   "o": [
+    "196"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "393",
+   "o": [
+    "217"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "394",
+   "o": [
+    "218"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "395",
+   "o": [
+    "220"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "396",
+   "o": [
+    "221"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "397",
+   "o": [
+    "222"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "398",
+   "o": [
+    "223"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "399",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "400",
+   "o": [
+    "225"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "401",
+   "o": [
+    "226"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "402",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "403",
+   "o": [
+    "228"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "404",
+   "o": [
+    "229"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "405",
+   "o": [
+    "230"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "406",
+   "o": [
+    "227"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "407",
+   "o": [
+    "230A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "408",
+   "o": [
+    "231"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "409",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "410",
+   "o": [
+    "232"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "411",
+   "o": [
+    "233"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "412",
+   "o": [
+    "235"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "413",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "414",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "415",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "416",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "417",
+   "o": [
+    "236"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "418",
+   "o": [
+    "237"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "419",
+   "o": [
+    "238"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "420",
+   "o": [
+    "238A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "421",
+   "o": [
+    "234"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "422",
+   "o": [
+    "239"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "423",
+   "o": [
+    "240"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "424",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "425",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "426",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "427",
+   "o": [
+    "241"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "428",
+   "o": [
+    "242"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "429",
+   "o": [
+    "243"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "430",
+   "o": [
+    "244"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "431",
+   "o": [
+    "244A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "432",
+   "o": [
+    "244B"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "433",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "434",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "435",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "436",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "437",
+   "o": [
+    "245"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "438",
+   "o": [
+    "246"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "439",
+   "o": [
+    "247"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "440",
+   "o": [
+    "250"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "441",
+   "o": [
+    "251"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "442",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "443",
+   "o": [
+    "270"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "444",
+   "o": [
+    "271"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "445",
+   "o": [
+    "272"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "446",
+   "o": [
+    "273"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "447",
+   "o": [
+    "274"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "448",
+   "o": [
+    "275"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "449",
+   "o": [
+    "276"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "450",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "451",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "452",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "453",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "454",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "455",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "456",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "457",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "458",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "459",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "460",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "461",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "462",
+   "o": [
+    "277C"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "463",
+   "o": [
+    "277D"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "464",
+   "o": [
+    "277E"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "465",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "466",
+   "o": [
+    "248"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "467",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "468",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "469",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "470",
+   "o": [
+    "249"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "471",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "472",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "473",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "474",
+   "o": [
+    "278"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "475",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "476",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "477",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "478",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "479",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "480",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "481",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "482",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "483",
+   "o": [
+    "279"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "484",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "485",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "486",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "487",
+   "o": [
+    "280"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "488",
+   "o": [
+    "281"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "489",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "490",
+   "o": [
+    "201"
+   ],
+   "src": "probable"
+  },
+  {
+   "a": "491",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "492",
+   "o": [
+    "282"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "493",
+   "o": [
+    "282A"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "494",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "495",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "496",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "497",
+   "o": [
+    "283"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "498",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "499",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "500",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "501",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "502",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "503",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "504",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "505",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "506",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "506A",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "506B",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "507",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "508",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "509",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "510",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "511",
+   "o": [
+    "286"
+   ],
+   "src": "wording"
+  },
+  {
+   "a": "512",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "513",
+   "o": [],
+   "src": "wording"
+  },
+  {
+   "a": "514",
+   "o": [],
+   "src": "wording"
+  }
+ ],
+ "unmatchedOrdinance": [
+  "2A",
+  "11",
+  "18",
+  "22",
+  "30",
+  "31",
+  "32",
+  "41",
+  "42",
+  "42A",
+  "43",
+  "44",
+  "45",
+  "46",
+  "47",
+  "48",
+  "49",
+  "52",
+  "54",
+  "54A",
+  "66A",
+  "69",
+  "81",
+  "82",
+  "83A",
+  "83B",
+  "84",
+  "85",
+  "86C",
+  "86E",
+  "86F",
+  "86G",
+  "86H",
+  "87",
+  "87A",
+  "87B",
+  "87C",
+  "87D",
+  "87E",
+  "87F",
+  "87G",
+  "87H",
+  "87I",
+  "92",
+  "93",
+  "94",
+  "95",
+  "96",
+  "97",
+  "98A",
+  "106",
+  "107",
+  "119",
+  "122",
+  "132",
+  "132A",
+  "136",
+  "140",
+  "141",
+  "141A",
+  "142",
+  "144",
+  "146",
+  "151",
+  "155",
+  "164",
+  "165",
+  "171A",
+  "176",
+  "208A",
+  "209D",
+  "224",
+  "249A",
+  "252",
+  "253",
+  "254",
+  "255",
+  "256",
+  "257",
+  "258",
+  "259",
+  "260",
+  "261",
+  "262",
+  "263",
+  "264",
+  "265",
+  "266",
+  "267",
+  "268",
+  "269",
+  "277",
+  "277A",
+  "277B",
+  "277F",
+  "277G",
+  "277H",
+  "277HH",
+  "277I",
+  "277J",
+  "277K",
+  "277L",
+  "277M",
+  "277N",
+  "282B",
+  "284",
+  "285",
+  "287",
+  "288",
+  "289",
+  "290"
+ ],
+ "noneText": "no matching section found"
+}
