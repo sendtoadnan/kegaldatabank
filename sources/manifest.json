@@ -4530,5 +4530,32 @@
   "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
   "pdfOnly": true,
   "number": "State Bank of Pakistan, Infrastructure, Housing & SME Finance Department"
+ },
+ {
+  "id": "companies-prohibition-unlawful-activities-regulations-2026",
+  "file": "companies-prohibition-unlawful-activities-regulations-2026.pdf",
+  "title": "Companies (Prohibition of Unlawful Activities) Regulations, 2026",
+  "number": "S.R.O. 1976(I)/2026",
+  "type": "regulations",
+  "unit": "Regulation",
+  "parent": "companies-act-2017",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [
+   "Prohibition of Unlawful Activities Regulations"
+  ],
+  "enacted": "2026-10-21",
+  "amendedUpTo": "2026-10-21",
+  "amendedUpToLabel": "As made (21 October 2026)",
+  "summary": "Made under section 512(1) of the Companies Act, 2017 (recital).",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
  }
 ]

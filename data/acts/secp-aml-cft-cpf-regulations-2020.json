@@ -23,8 +23,10 @@
  },
  "sourcePdf": "SECP-AML-CFT-CPF-Regulations-2020-amended-upto-July-03-2026.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 3 July 2026 (S.R.O. 1079(I)/2026). Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "SECP PDF 'SECP-AML-CFT-CPF Regulations-2020 as amended up to July 3, 2026', downloaded from secp.gov.pk on 23 Nov 2026, identical to the PDF held; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [
