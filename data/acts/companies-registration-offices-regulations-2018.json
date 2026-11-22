@@ -1,0 +1,432 @@
+{
+ "id": "companies-registration-offices-regulations-2018",
+ "title": "Companies Registration Offices (Establishment, Powers and Functions) Regulations, 2018",
+ "number": "S.R.O. 76(I)/2018",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "companies-registration-offices-regulations-2018.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Companies Registration Offices (Establishment, Powers and Functions) Regulations, 2018' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations may be called the Companies (Registration Offices) Regulations, 2018.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
+      ">(a) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">(b) \"Annexure\" means an annexure attached to these regulations;",
+      ">(c) \"Company Registration Office\" means an office established by the Commission under sub-section (1) of section 462 of the Act;",
+      ">(d) \"CUIN\" stands for corporate unique identification number which is a sequential computer generated registration number assigned to every company including foreign company and covers corporate universal identification number assigned to the companies before the issuance of these regulations;",
+      ">(e) \"electronic database\" means the system for maintaining a database electronically in respect of all the record of companies and includes the Corporate Registration System, Corporate Compliance and Facilitation System and Diary System;",
+      ">(f) \"registrar concerned\" means a registrar, who is incharge of a Company Registration Office in whose territorial jurisdiction the registered office of the company is situated;",
+      ">(g) \"Registrar of Companies\" means the Registrar of Companies designated as such by the Commission and posted at head office of the Commission and who is head of the organization for the registration of companies in Pakistan and performing other work under the Act;",
+      ">(h) \"Schedule\" means a Schedule to the Act;",
+      ">(i) “seal” means the seal of the company registration office having the name of company registration office engraved on it; and",
+      ">(j) \"section\" means a section of the Act.",
+      "(2) The words and expressions used but not defined herein shall have the same meaning as are assigned to them in the Act."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Company Registration Offices",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Establishment of Company Registration Offices",
+     "page": 2,
+     "text": [
+      "(1) For registration of companies and performing other duties under the Act, the Commission shall have Company Registration Offices at the places specified in column (2) of the Table below, with jurisdiction extending to companies, not being companies to which section 3 applies, having registered offices in the territories specified in column (3) of the said table.",
+      "S. No. Place. Territory.",
+      "(1) (2) (3) 1. Faisalabad. The Civil Divisions of Faisalabad and Sargodha except district of Bhakkar in the Province of Punjab. 2. Gilgit. All districts of the Region of Gilgit-Baltistan. 3. Islamabad. The Civil Division of Rawalpindi in the Province of Punjab and the Islamabad Capital Territory. 4. Karachi. The Civil Divisions of Karachi, Hyderabad and Mir Pur Khas, district of Sanghar in the Province of Sindh. 5. Lahore. The Civil Divisions of Lahore and Gujranwala, districts of Sahiwal and Pakpatan except tehsil of Chichawatni in the Province of Punjab. 6. Multan. The Civil Divisions of Multan, Bahawalpur and Dera Ghazi Khan, district of Bhakkar and tehsil of Chichawatni in the Province of Punjab. 7. Peshawar. The Province of the Khyber Pakhtunkhwa, the Federally Administered Tribal Areas and the Provincially Administered Tribal Areas to which the executive authority of the Province of the Khyber Pakhtunkhwa extends. 8. Quetta. The Province of Baluchistan and the Provincially Administered Tribal Areas to which the executive authority of the Province of Baluchistan extends. 9. Sukkur. The Civil Divisions of Sukkur, Larkana and Shaheed Benazirabad except district of Sanghar in the Province of Sindh.",
+      "(2) Notwithstanding the provisions of sub-regulation (1), Company Registration Offices may function beyond their territorial jurisdiction to the extent and manner as may be notified by the Commission from time to time.",
+      "(3) The Company Registration Offices shall be open for transaction of business with the public, except on public holidays, and will observe such working hours as may be notified by the Commission.",
+      "(4) Every Company Registration Office shall have a seal for authentication of documents required for or in connection with registration of companies:",
+      "Provided that the design of the seal shall require approval of the Registrar of Companies."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Establishment of Facilitation Centres",
+     "page": 3,
+     "text": [
+      "(1) The Commission may, through notification, establish facilitation centres at such places for the purposes of facilitation of companies and other investors and performing such other duties as it may notify.",
+      "(2) These centres shall work under the supervision of registrar concerned of the Company Registration Office under whose territorial jurisdiction such centres is established."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Suggestions and complaint box",
+     "page": 3,
+     "text": [
+      "In every Company Registration Office and in every facilitation centres, there shall be placed a \"suggestions and complaint box\" at a conspicuous place to receive feedback from the public regarding the working of Company Registration Office and facilitation centres or for any other difficulty or complaint and the box shall be opened by the person authorized by the Registrar of Companies."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Assigning of CUIN",
+     "page": 3,
+     "text": [
+      "(1) Every company which is incorporated shall be assigned a CUIN and in case of any company having no CUIN, the previous registration number shall also be replaced with a CUIN.",
+      "(2) Every company formed or incorporated outside Pakistan which has established a place of business in Pakistan and delivers documents pursuant to the provisions contained in section 435 of the Act shall be assigned a CUIN."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Transfer of documents",
+     "page": 3,
+     "text": [
+      "In case a company changes its place of registered office from the territorial jurisdiction of a Company Registration Office to another, the registrar concerned of such Company Registration Office shall, send within seven days, from the date of registration of the relevant returns, all the physical record relating to that company to the registrar concerned in whose territorial jurisdiction the registered office of the company is shifted."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Issuance of certificates",
+     "page": 3,
+     "text": [
+      "The registrar concerned shall cause the issue of following certificates, namely:-",
+      ">(a) certificate of incorporation for effecting the change of name of a company for the purpose of section 13 of the Act shall be in the form as set out in Annexure A;",
+      ">(b) certificates as required to be issued pursuant to section 50 of the Act for conversion of status of a company under sections 46 to 49 of the Act shall be in the form as set out in Annexure B; and",
+      ">(c) certificate of registration of mortgage or charge, etc., for the purposes of section 100 of the Act shall be in the form as set out in Annexure C."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Issuance of duplicate certificate",
+     "page": 3,
+     "text": [
+      "(1) The registrar concerned may after making such inquiry as to the loss, destruction, defacement or mutilation of the original certificate as he may deem fit to make and subject to such terms and conditions as he may impose and after seeking approval of Registrar of Companies, issue a duplicate of any certificate issued under the provisions of the company law, or any rules or regulations made thereunder on application of the company.",
+      "(2) The duplicate certificate shall be a ditto copy of the certificate already issued except the following changes and additions-",
+      ">(a) every such duplicate certificate shall bear the mark of \"[DUPLICATE]\" on top right side of it;",
+      ">(b) instead of signatures on the original documents, the parenthesis, hyphens and alphabets “(-Sd-)” shall be typed at the place of original signature;",
+      ">(c) duplicate certificate shall also contain name, designation and signatures of the registrar issuing the duplicate certificate; and",
+      ">(d) duplicate certificate shall also contain date of issuance in the following manner above the signatures of the registrar issuing the duplicate certificate“This duplicate certificate issued at _______, this ____ day of __________, 20_______by me”.",
+      "(3) Certified copy may be issued of the original certificate unless copy of duplicate is specifically demanded by the applicant."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Electronic Database",
+   "sections": [
+    {
+     "no": "10",
+     "title": "Receipt of physical documents and uploading the same in e-service",
+     "page": 4,
+     "text": [
+      "(1) Any physical document, return or application, filed, lodged or submitted in Company Registration Office pursuant to proviso to sub-section (4) of section 471 of the Act, shall be processed as under-",
+      ">(a) every document shall be entered or cause to be entered by the registrar concerned in the electronic diary system immediately;",
+      ">(b) unique computer generated sequential number assigned by the diary system, shall be mentioned on first page of each of the respective document along with date of receipt of the document:",
+      "Provided that the time of receipt of documents shall also be mentioned on the documents which are required to be disposed off within four working hours;",
+      ">(c) receipt of the document may be provided to the person who has submitted the document on the counter:",
+      "Provided that the time of receipt of documents shall also be mentioned on the receipt of documents which are required to be disposed off within four working hours; and",
+      ">(d) every document containing diary number shall be scanned properly ensuring that the image of the document is legible after printing and no portion thereof is missing.",
+      "(2) The registrar concerned shall upload or cause to be uploaded the scanned images of all documents filed in physical form in relation to every company and enter or cause to be entered all the relevant information in the electronic database through e-service.",
+      "(3) The registrar concerned shall before issuing any certificate, register the documents required to be registered under the Act and upload or cause to be uploaded a copy of the certificate duly signed in e-service."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Maintenance of information in the electronic database",
+     "page": 5,
+     "text": [
+      "It shall be the responsibility of the registrar concerned to maintain or cause to be maintained, correct information in the electronic database and in case of any discrepancy, he shall immediately rectify the same as per procedure communicated by the Registrar of Companies from time to time."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Examination of documents received electronically or in physical form",
+     "page": 5,
+     "text": [
+      "(1) The registrar concerned shall examine or cause to be examined, every document and application received by him which is required or authorized by or under the Act and the rules and regulations made thereunder to be filed, recorded or registered, with the registrar.",
+      "(2) The registrar concerned shall observe the time frame as mentioned in Table contained in the Annexure D for the disposal of various matters:",
+      "Provided that the matters, which require disposal under these regulations on the same day, shall be processed and disposed off, if received by 1200 hours. The matters received thereafter will be disposed off on next working day:",
+      "Provided further that the time frame mentioned in Table as per Annexure D shall-",
+      ">(a) be subject to receipt of prior approval/NOC from any department/authority;",
+      ">(b) be subject to compliance of all statutory and other requirements;",
+      ">(c) not apply in case where it is not possible due to any technical reason or during the bulk filing of returns period or in the event of force majeure; and",
+      ">(d) not apply in case where any litigation, dispute, complaint, investigation or inquiry whatsoever is involved."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Acceptance of documents",
+     "page": 5,
+     "text": [
+      "(1) When a document other than the documents filed under sub-section (7) of section 223, sections 233, 234 and 237 of the Act, is accepted for being registered, filed or recorded, the registrar concerned shall issue an acknowledgement in the form as set out in Annexure E:",
+      "Provided that the registrar shall not be held responsible for the correctness of the contents of the documents:",
+      "Provided further that acceptance of documents by the registrar shall not absolve the company or other person concerned of any other liability arising from the default in complying with the requirements of the Act.",
+      "(2) Where a document, as required under sub-section (7) of section 223, sections 233, 234 and 237 of the Act, has been filed, sent or transmitted and is under examination, the registrar concerned shall issue an acknowledgment in the form as set out in Annexure F.",
+      "(3) There shall be maintained a log generated by e-service in respect of every registered, filed or recorded document.",
+      "(4) Where a document has been accepted for record and its data or any of the information contained therein or any of the supporting documents subsequently found to be defective or incorrect which is not possible of rectification or false or forged or it was accepted by mistake, the registrar concerned may for special reasons to be recorded in writing, after obtaining such evidence as he may deem appropriate and providing opportunity of being heard to the company and other relevant persons, if any, cancel the recording thereof."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Acceptance of documents presented after two years",
+     "page": 6,
+     "text": [
+      "If any document is filed with or presented to a Company Registration Office after the expiry of more than two years of the period within which it was required or authorized to be filed or registered, not being particulars or documents requiring registration under sections 100, 101, 106, 108 or 109 of the Act, the registrar concerned may, subject to the provisions of sub-section (3) of section 468 of the Act, receive the document and accept the same if found to be in order, on payment of fee as mentioned in clause (d) of sub-section (1) of section 468 of the Act."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Register Of Companies",
+   "sections": [
+    {
+     "no": "15",
+     "title": "Register of companies",
+     "page": 6,
+     "text": [
+      "(1) There shall be maintained in the electronic database, a register of companies incorporated in Pakistan in the format as set out in Annexure G.",
+      "(2) There shall be maintained in the electronic database, a register of foreign companies in the form as set out in the format as provided in Annexure H.",
+      "(3) A list of all the documents filed, registered or recorded relating to each company shall be maintained in the respective register of companies."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Register of mortgages and charges",
+     "page": 6,
+     "text": [
+      "(1) The register of mortgages and charges to be kept by the registrar as provided in section 102 of the Act shall be maintained in electronic database in the format as set out in Annexure I.",
+      "(2) There shall be maintained in the electronic database, a chronological index of the mortgages and charges registered with the Company Registration Office under the Act in the format as set out in Annexure J."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Record keeping",
+     "page": 6,
+     "text": [
+      "The documents relating to a company shall be kept together, distinct and separate from those of other companies."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Miscellaneous",
+   "sections": [
+    {
+     "no": "18",
+     "title": "Submission of periodical statements",
+     "page": 6,
+     "text": [
+      "The Registrar of Companies may, by general or special instruction, require any Company Registration Office to prepare and send to him, other Company Registration Offices and any other person, such periodical statements in such form and manner and within such time, as may be specified in the instruction."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Inspection of documents",
+     "page": 7,
+     "text": [
+      "(1) The registrar concerned or an officer authorized by him shall permit members of the public to inspect such registers and records of documents as under the Act they are entitled to inspect subject to such payment of fee as provided in the Seventh Schedule.",
+      "(2) The inspection of documents permitted under sub-regulation (1), shall be carried out in the presence of the registrar concerned or an official authorized by him in this behalf and shall be completed by the applicant during the time specified for the transaction of business with the public.",
+      "(3) The registrar concerned or other authorized official supervising the inspection, may permit notes of the inspected documents to be taken, but verbatim copy or snap shot or electronic image of the document inspected may not be allowed to be taken.",
+      "(4) No person inspecting the document shall make any entry, mark, addition, deletion or alteration in the document maintained by the registrar and in case of violation, the registrar concerned or the authorized official may refuse further inspection and initiate appropriate legal action against such person."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Issuance of copies of documents",
+     "page": 7,
+     "text": [
+      "(1) The registrar concerned shall, on the application of a person, cause copies of documents required to be filed, recorded, registered with or a certificate or order issued or register as maintained by the registrar under the Act on payment of such fee as provided in the Seventh Schedule.",
+      "(2) The copies to be issued under sub-regulation (1) may contain the qualifications or remarks under the particular circumstances including but not limited to the following:-",
+      ">(a) copy of this document is being issued on the request of the applicant, however this office does not take responsibility of its genuineness and correctness of the contents thereof as there is a dispute among the members/shareholders/directors regarding the information contained in this return/ parties are in litigation in the Court and the matter is pending adjudication/ there is a complaint and the matter is still not resolved/ there is an investigation or inquiry by (the Commission/ NAB/ FIA, etc.) and is pending finalization;",
+      ">(b) copy of this document is being issued on the request of the applicant, however this office does not take responsibility of its genuineness and correctness of the contents thereof as the information contained in the document is pending compliance requirements or has been forwarded to the concerned Ministry for clearance/ NOC and reply of which is still awaited;",
+      ">(c) copy of this document is being issued on the request of the applicant, however this office does not take responsibility of its contents as there are certain discrepancies in the documents as filed; or",
+      ">(d) certified to be true copy of the document as filed by the company, however, this office accepts no responsibility as to the correctness of the contents given in the document.",
+      "(3) If a certified copy of any document has been issued and, subsequently, it is found that the document was liable for rectification or cancellation under section 464 of the Act or the certified copy was otherwise, issued inadvertently or by mistake, the registrar concerned may revoke or cause to be revoked, certification thereof and may recall or cause to be recalled, the certified copy so issued."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Authentication of certificates, etc",
+     "page": 8,
+     "text": [
+      "Every certificate or certified copy, granted under the provisions of the Act shall be signed, stamped and dated by the registrar concerned or an officer authorized for the purpose, bearing his name and designation, and shall also bear the official seal of the Company Registration Office:",
+      "Provided that the requirement of signature and stamp of the registrar concerned or the authorized officer and the official seal of the Company Registration Office shall not be mandatory in case the certificate or certified copy issued is computer generated:",
+      "Provided further that a log of the copies so issued shall be maintained.",
+      "Explanation.- For the purpose of this regulation, “Stamp” means the rubber stamp where ink is applied to an image, pattern or text that has been molded onto a sheet of rubber and mounted on a block."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Notice of any omission to file or register documents",
+     "page": 8,
+     "text": [
+      "The registrar concerned shall take notice of any omission to file or register documents on due date or any other infraction of the law."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Enquires",
+     "page": 8,
+     "text": [
+      "The registrar concerned shall institute or cause to be instituted such enquires in respect of any matter as may be necessary to obtain information or evidence respecting defaults or any infraction of the law."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Legal proceedings",
+     "page": 8,
+     "text": [
+      "The Commission or the Registrar of Companies may authorize the registrar concerned or any other person to institute or cause to be instituted any legal proceedings or defend or conduct or cause to be defended or conducted any prosecution or other legal proceedings under the Act."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Powers and duties of Registrar",
+     "page": 8,
+     "text": [
+      "The registrar shall exercise such powers and perform such duties as are conferred on him by the Act or the rules and regulations made thereunder or delegated to him by the Commission."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Assignment of duties",
+     "page": 8,
+     "text": [
+      "(1) The Commission or the Registrar of Companies may assign any of the duties under the Act, the rules or regulations made thereunder and generally regulate performance of duties and issue directions to the registrar concerned or officials subordinate to the registrar concerned in such manner as it or he may think fit and they shall follow and observe the orders and instructions of the Commission or the Registrar of Companies, as the case may be.",
+      "(2) Subject to the directions of the Commission or the Registrar of Companies, the registrar concerned may assign any duties under the Act, the rules or regulations made thereunder and generally regulate performance of duties and issue directions to any additional registrar, joint registrar, additional joint registrar, deputy registrar, assistant registrar or other officer, where such officers have been appointed in a particular Company Registration Office, and other officials of the Company Registration Offices as he may think fit and they shall follow and observe the orders and instructions of the registrar concerned.",
+      "(3) All references in these regulations to the registrar concerned shall be construed as references to any assistant, deputy, additional joint, joint or additional registrar to whom the particular duty has been assigned by the registrar concerned by a general or special order:",
+      "Provided that allocation of companies to a registrar shall reflect reasonability and objectivity and such number of companies shall be allocated to each officer as the Registrar of Companies with the concurrence of the Commission may decide from time to time which is to be efficiently and effectively dealt with by the officers in order to minimize the probability of errors and omissions."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Comments on applications",
+     "page": 9,
+     "text": [
+      "Where a copy of an application, petition, appeals etc., addressed to the Commission or the Registrar of Companies, is received in a Company Registration Office and comments thereon are required by the Commission or the Registrar of Companies, the registrar concerned shall, as soon as may be possible but not later than the second working day, forward to the Commission or the Registrar of Companies, as the case may be, his parawise comments on the application together with other information and documents which in his opinion, need to be taken into consideration while disposing of the application:",
+      "Provided that the Commission or, as the case may be, the Registrar of Companies may dispose of such application, petition, appeals etc., without waiting for comments of the registrar concerned, if so deemed fit."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Destruction of documents",
+     "page": 9,
+     "text": [
+      "(1) Subject to the previous approval of the Registrar of Companies, the company records kept in a Company Registration Office in physical form under the Company Law may be destroyed, after the expiration of ten years from the date of filing of said record in case of companies in existence and five years from the date of dissolution in case of dissolved companies, if the same are not of sufficient public value to justify their further preservation, or have not been ordered by the Commission or any Court or any other competent authority to be preserved for a longer period, or are not likely to be needed in connection with any pending proceedings, before any Court or authority, of which the Company Registration Office has notice:",
+      "Provided that the physical documents and record filed at the time of incorporation of a company and record pertaining to dissolution of a company, if any, shall be preserved in the physical form permanently:",
+      "Provided further that before destroying any physical documents and record, it shall be ensured that each and every document is duly preserved in the electronic form permanently.",
+      "(2) Save as provided in sub-regulation (1), the physical record relevant to any legal proceeding, inquiry or investigation which has been initiated in respect of any company under any law for the time being in force, shall not be destroyed till the said proceeding attain finality or inquiry or investigation has been closed by the respective authority.",
+      "(3) The documents filed by a company through e-service shall be preserved permanently.",
+      "Explanation.- A company shall be deemed to be in existence unless its name has been struck off the register under sub-section (5) of section 425 or sub-section (3) of section 426 or unless it has been wound up and finally dissolved."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Inactive Company",
+     "page": 10,
+     "text": [
+      "(1) The registrar while allowing the status of an inactive company shall issue a certificate pursuant to sub-section (2) of section 424 of the Act in the format as set out in Annexure K.",
+      "(2) The registrar shall maintain a register of inactive companies in the format as set out in Annexure L in terms of sub-section (3) of section 424 of the Act.",
+      "(3) The registrar while allowing the status of an active company shall issue a certificate to become an active company in the format as set out in Annexure M."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Material for annual report",
+     "page": 10,
+     "text": [
+      "(1) Every registrar concerned shall furnish to the Registrar of Companies, annually, by the 31st July each year, a report on the working and administration of the Act and other related matters, concerning the activities of the relevant Company Registration Office in such form and in such manner as may, from time to time, be specified by the Registrar of Companies.",
+      "(2) The Registrar of Companies shall furnish his annual report to the Commission, by the 31st August each year, in such form and in such manner as may, from time to time, be specified by the Commission."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Repeal and saving",
+     "page": 10,
+     "text": [
+      "The Companies (Registration Offices) Regulations, 2003 hereinafter referred to as repealed Regulations, shall stand repealed:",
+      "Provided that nothing in these Regulations shall affect or be deemed to affect anything done, action taken, registration granted, investigation or proceedings commenced, order issued, relaxation granted unless withdrawn, appointment, conveyance, mortgage deed, document or agreement made, fee paid or accrued, resolution passed, direction given, proceedings taken or instrument executed or issued, under the repealed regulations and any such thing, action, investigation, proceedings, order, appointment, conveyance, mortgage deed, document, agreement, fee, resolution, direction, proceedings or instrument shall if in force at the coming into force of these Regulations and not inconsistent with any of the provisions of these Regulations, continue to be in force, and have effect as if it were respectively done, taken, commenced, made, directed, passed, given, executed or issued under these Regulations."
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Largely repealed by S.R.O. 210(I)/2024; check which provisions remain.",
+ "schedules": [
+  {
+   "title": "Annexure A",
+   "page": 11
+  },
+  {
+   "title": "Annexure B",
+   "page": 12
+  },
+  {
+   "title": "Annexure C",
+   "page": 13
+  },
+  {
+   "title": "Annexure D",
+   "page": 14
+  },
+  {
+   "title": "Annexure E",
+   "page": 16
+  },
+  {
+   "title": "Annexure F",
+   "page": 17
+  },
+  {
+   "title": "Annexure G",
+   "page": 18
+  },
+  {
+   "title": "Annexure H",
+   "page": 19
+  },
+  {
+   "title": "Annexure I",
+   "page": 20
+  },
+  {
+   "title": "Annexure J",
+   "page": 21
+  },
+  {
+   "title": "Annexure K",
+   "page": 22
+  },
+  {
+   "title": "Annexure L",
+   "page": 23
+  },
+  {
+   "title": "Annexure M",
+   "page": 24
+  }
+ ]
+}

@@ -1,0 +1,635 @@
+{
+ "id": "private-equity-venture-capital-fund-regulations-2008",
+ "title": "Private Equity and Venture Capital Fund Regulations, 2008",
+ "number": "S.R.O. 867(I)/2008",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "private-equity-venture-capital-fund-regulations-2008.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Private Equity and Venture Capital Fund Regulations, 2008' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Private Equity and Venture Capital Fund Regulations, 2008.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these Regulations, unless the context otherwise requires:-",
+      ">>(i) “Capital Call” means the demand made by the FMC for all or part of the remaining amount of the subscription committed by the Holder;",
+      ">>(ii) “Connected Person” includes:-",
+      ">(a) any person who directly or indirectly controls, beneficially owns or holds ten (10) percent or more paid up capital of the FMC or the Trustee;",
+      ">(b) any member of a group of which persons specified in sub-clause (a) forms part of; or",
+      ">(c) any director or Key Executives of the FMC or the Trustee as the case may be, or any of their Connected Person as specified in sub-clauses (a) and (b):",
+      "Explanation:- In this definition the term “controls” shall have the same meaning as assigned to the term “control” under the Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Ordinance, 2002;",
+      ">>(iii) “Constitutive Documents” means the principal documents governing the formation of the Fund established by an FMC and includes the Trust Deed, Placement Memorandum, Subscription Agreement and all related material documents;",
+      ">>(iv) “Credit Rating Company” means a Credit Rating Company registered under the Credit Rating Companies Rules, 1995 or any foreign credit rating company whose rating is acceptable to the Commission;",
+      ">>(v) “Eligible Investor” means a person who intends to invest in the Fund established by an FMC and executes a declaration, in the form specified in Schedule V;",
+      ">>(vi) “Exchange” shall have the same meaning as defined in section 2(1)(da) of Securities and Exchange Ordinance, 1969 (XVII of 1969);",
+      ">>(vii) “Fit and Proper Criteria” means the criteria specified by the Commission and annexed to these Regulations as Schedule II;",
+      "(viii) “Foreign Entity” means an entity or association established or formed outside Pakistan and engaged in the business of private equity or venture capital;",
+      ">>(ix) “Foreign Money” means the money raised by a Foreign Entity from outside Pakistan and transferred to Pakistan through banking channels for investment in Investee;",
+      ">>(x) “Form” means any of the forms annexed to these Regulations or any other forms as may be specified by the Commission for the purposes of these Regulations;",
+      ">>(xi) “FMC” means the Fund Management Company licensed by the Commission as a NBFC to launch the Fund and provide PE & VC Fund Management Services with respect to it;",
+      ">>(xii) “Fund” means the Private Equity and Venture Capital Fund which is:-",
+      ">(a) in the form of a closed-end trust structure established by a FMC and registered with the Commission; or",
+      ">(b) a Foreign Entity which has established a place of business in Pakistan and is investing only Foreign Money in Pakistan and is registered with the Commission;",
+      "(xiii) “Holders” means one or more Eligible Investor who is the legal owner of one or more Units of the Fund established by an FMC and whose name appears in the Register;",
+      ">>(xiv) “Investee” means a company incorporated in Pakistan in which Investible Funds are invested;",
+      ">>(xv) “Investible Funds” means the capital raised through the issuance of Units and the retained earnings;",
+      ">>(xvi) “Key Executives” includes the chief executive officer, chief financial officer, chief accounting officer, chief operating officer, company secretary, internal auditor and the compliance officer irrespective of their designation;",
+      "(xvii) “NBFC” means a non-banking finance company incorporated and licensed by the Commission;",
+      "(xviii) “Net Assets” means the difference between the market value of assets and liabilities of the Fund established by an FMC on any given date;",
+      ">>(xix) “NAV per Unit” means the Net Assets divided by the number of Units outstanding at any given date;",
+      ">>(xx) “Ordinance” means the Companies Ordinance, 1984 (XLVII of 1984);",
+      ">>(xxi) “Placement Memorandum” means a document, containing information specified in Schedule IV, inviting Eligible Investors to invest in Units;",
+      "(xxii) “PE & VC Fund Management Services” mean the Private Equity and Venture Capital Fund Management Services provided by the FMC or the Foreign Entity as the case may be for the management and administration of the Fund in accordance with these Regulations;",
+      "(xxiii) “Private Placement” means the sale of Units without a public advertisement for offer to sell;",
+      "(xxiv) “Register” means the Register recording the details of the Units held by each Holder;",
+      ">>(xxv) “Regulations” means the Private Equity and Venture Capital Fund Regulations, 2008 and their annexed Forms and Schedules;",
+      "(xxvi) “Rules” mean the Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003;",
+      "(xxvii) “Schedule” means the Schedule annexed to these Regulations;",
+      "(xxviii) “Subscription Agreement” means an agreement, between the FMC and the Eligible Investor for subscribing to the Units, containing information specified in Schedule VI;",
+      "(xxix) “Trust Deed” means the deed executed between the FMC and the Trustee with respect to the Fund;",
+      ">(xxx) “Trustee” means a trustee, appointed in respect of the Fund established by an FMC in accordance with Regulation 15;",
+      "(xxxi) “Units” mean the instrument of ownership of the Fund established by an FMC signifying the beneficial interest of the Holders in the Fund.",
+      "(2) Words and expressions used in these Regulations in singular shall include plural and vice versa and words importing masculine gender shall be taken to include the female gender.",
+      "(3) Words and expressions used but not defined in these Regulations shall have the same meaning as assigned to them in the Ordinance and the Securities and Exchange Commission of Pakistan Act (XLII of 1997), and the rules and regulations made under them."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Conditions applicable to FMC",
+     "page": 5,
+     "text": [
+      "In addition to the conditions and requirements of the Rules, a FMC shall:-",
+      ">(a) have a minimum paid up capital of Rupees thirty (30) million;",
+      ">(b) state in its memorandum of association that its exclusive object is to establish the Fund and provide PE & VC Fund Management Services;",
+      ">(c) ensure that each of its promoters, proposed directors and Key Executives satisfy the Fit and Proper Criteria;",
+      ">(d) appoint at least two of its promoters as directors;",
+      ">(e) maintain adequate financial, technical, organizational and human resources, and employ appropriate systems, procedures, processes and personnel to provide PE & VC Fund Management Services in a proper and efficient manner on an ongoing basis;",
+      ">(f) not takeover the management of another Fund unless prior written approval has been obtained from the Commission;",
+      ">(g) maintain satisfactory internal controls and written compliance procedures which address all applicable regulatory requirements; and",
+      ">(h) pay to the Commission, such non-refundable fees as specified in Schedule I."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Obligations of the FMC",
+     "page": 5,
+     "text": [
+      "A FMC shall:-",
+      ">(a) manage the Fund, in accordance with the Constitutive Documents and all applicable laws including notifications, circulars, guidelines and directives issued under them in the interest of Holders, without gaining any undue advantage for itself or any of its Connected Persons;",
+      ">(b) ensure that the Fund has minimum Investible Funds of Rupees two hundred and fifty million and the initial subscription is not less then 10 percent of the Investible Funds and the remaining balance is paid up within 36 months of the registration of the Fund;",
+      ">(c) ensure that in case of a Capital Call the Holders are given at least two weeks time period in writing after a Capital Call is made;",
+      ">(d) along with its Connected Persons, not hold more than 30 percent of the Units of the Fund;",
+      ">(e) carry out all transactions involving the Fund on an arm’s length basis;",
+      ">(f) ensure that the investments made out of the Investible Funds are properly identified and are held for the benefit of the Holders in accordance with the provisions of the Constitutive Documents, the Rules, these Regulations and all other applicable laws;",
+      ">(g) issue Units to Eligible Investors after full payment for such Units has been received by the Trustee;",
+      ">(h) ensure that the issuance of Units is carried out in accordance with the provisions of these Regulations, the Constitutive Documents and any directions, guidelines and circulars issued by the Commission;",
+      ">(i) maintain the Register of Holders or appoint an agent for the purpose;",
+      ">(j) obtain the written approval of the Commission before delegating one or more of its functions, and:",
+      ">>(i) ensure that its delegates have sufficient experience and financial resources to enable them to conduct the delegated function;",
+      ">>(ii) demonstrate that proper due diligence procedures and management or administrative structures are in place for the selection and on-going monitoring of the delegates;",
+      ">>(iii) ensure that the agreement between the FMC and each of the delegate clearly documents: a. the demarcation of functions; and b. the consideration payable by the FMC for the performance of the delegated functions;",
+      ">>(iv) if it delegates its power to maintain the Register to an agent approved by the Commission, inform the Commission, within two (2) working days of such delegation; and",
+      ">>(v) make payments to the delegate from its own account:",
+      "Provided that the FMC shall not delegate its function of performing PE & VC Fund Management Services;",
+      ">(k) be responsible for the acts or omissions of all persons, to whom it delegates any of its functions as FMC and account for any loss in value of the Fund where such loss is attributable to the FMC or any delegate of the FMC due to their negligence or willful default;",
+      ">(l) maintain at its registered office, proper books and record of account and activities undertaken in connection with the Fund in order to enable a true and fair view to be formed of the:",
+      ">>(i) assets and liabilities of the Fund;",
+      ">>(ii) the profit and loss accruing out of the operation of the Fund;",
+      ">>(iii) transactions undertaken with respect to the Fund;",
+      ">>(iv) amounts received in respect of issue of Units; and",
+      ">>(v) pay-outs, if any, by way of distributions to the Holders;",
+      ">(m) maintain the books and record of the Fund till five years after the life of the Fund;",
+      ">(n) within three (3) months of close of the financial year of the Fund, prepare as per the approved and applicable International Accounting Standards and International Financial Reporting Standards, and transmit to the Holders and the Commission, with respect to the Fund:",
+      ">>(i) the annual report;",
+      ">>(ii) the balance sheet stating details of investments depicting cost and realizable value of such investments;",
+      ">>(iii) profit and loss statement;",
+      ">>(iv) cash flow statement;",
+      ">>(v) auditors report; and",
+      ">>(vi) statement of movement in NAV per Unit of the Fund;",
+      ">(o) prepare, as per the approved and applicable International Accounting Standards and International Financial Reporting Standards, and transmit to the Holders and the Commission, within one month of the close of the first and third quarter and two months of the close of the second quarter of the financial year of the Fund, with respect to the Fund:",
+      ">>(i) the balance sheet stating details of investments ;",
+      ">>(ii) profit and loss statement;",
+      ">>(iii) cash flow statement;",
+      ">>(iv) auditors report for the half yearly accounts;",
+      "Provided that the Commission may, subject to such conditions as it considers necessary, allow the FMC to transmit the said quarterly accounts electronically to the Holders;",
+      ">(p) after the consent of the Trustee, appoint an auditor of the Fund upon its establishment or the occurrence of any vacancy:",
+      "Provided that the auditor so appointed shall be from amongst the list of auditors approved by the Commission and shall not be the auditor of the FMC or the Fund for more than five consecutive years;",
+      ">(q) ensure that no material change in the investment policy or objectives of the Fund is made without the approval of the Holders through a special resolution;",
+      ">(r) cause a determination of the NAV per Unit of the Fund to take place on an annual basis;",
+      ">(s) ensure that the latest NAV per Unit of the Fund along with the valuation methodology employed is published in the annual accounts of the Fund;",
+      ">(t) ensure that the Trust Deed is in accordance with Schedule III and provides for the time and modality of the extinguishment of the Fund and the manner in which the proportionate shares of the sale proceeds shall be transferred to its Holders;",
+      ">(u) immediately inform the Commission of any special resolution passed by the Holders;",
+      ">(v) ensure that after the extinguishment of the trust, the proceeds are distributed amongst the Holders and the Fund is dissolved;",
+      ">(w) provide a copy of the Constitutive Documents to the Eligible Investors; and",
+      ">(x) immediately inform the Commission in writing if any information or particulars previously submitted to the Commission are later found to be false or misleading in any material particular or if there is any change in the information already submitted."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Request for transfer of management of the Fund and cancellation of license of FMC",
+     "page": 8,
+     "text": [
+      "(1) A FMC may transfer the management of a Fund managed by it to another licensed FMC, after the approval of the Holders of both the Funds is obtained through a special resolution:",
+      "Provided that in such case the FMC and its promoters shall not vote at such meetings and their presence shall not be counted towards the requisite voting for such special resolution.",
+      "(2) A FMC shall apply to the Commission for the cancellation of its license, after it has transferred the management and the Units to another FMC provided that it is not managing another Fund."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Foreign Entity investing only Foreign Money",
+     "page": 9,
+     "text": [
+      "(1) Notwithstanding the provisions of these Regulations a Foreign Entity which is investing only Foreign Money in Pakistan shall fulfill the following conditions:",
+      ">(a) establish its office in Pakistan;",
+      ">(b) immediately inform the Commission in writing of any change in the information submitted to the Commission; and",
+      ">(c) submit its application with a non-refundable application fee as specified in Schedule I.",
+      "(2) In case only Foreign Money is to be invested in Investees, the Foreign Entity shall make an application to the Commission in Form III for the registration of the Fund.",
+      "(3) If the Commission is satisfied with the application made under Regulation 6(2), it may register the Foreign Entity in Pakistan as a Fund in Form IV:",
+      "Provided that the Commission may while registering the Fund impose such conditions as it deems appropriate.",
+      "(4) A Foreign Entity which is investing only Foreign Money in Investees shall be exempted from compliance with these Regulations except Regulations 6.",
+      "(5) The registration granted through Form IV may be cancelled by the Commission after providing the Foreign Entity a reasonable opportunity of being heard."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Foreign Entity seeking local subscription",
+     "page": 9,
+     "text": [
+      "Where in addition to the Foreign Money participation of local Eligible Investors is sought by the Foreign Entity or the Foreign Entity wants to raise money exclusively from local Eligible Investors, the Foreign Entity shall form an FMC and such FMC shall thereafter make an application for the registration of a Fund under Regulation 10."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III",
+   "sections": [
+    {
+     "no": "8",
+     "title": "No Fund to operate without Registration",
+     "page": 10,
+     "text": [
+      "No Fund established by an FMC shall operate or be established unless it is registered with the Commission and no Units shall be offered unless the Constitutive Documents have been approved by the Commission."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Conditions for registration of a Fund",
+     "page": 10,
+     "text": [
+      "The Commission may register a Fund established by an FMC if it fulfils the following conditions:",
+      ">(a) the approval of the Trustee has been obtained from the Commission;",
+      ">(b) the Trust Deed is in accordance with the provisions of Schedule III and approved by the Commission and thereafter duly registered;",
+      ">(c) the sole object of the Fund is to carry out activities in furtherance of the interest of the Holders, in accordance with the strategy stated in the Constitutive Documents;",
+      ">(d) the Fund, including all investments out of the Investible Funds, shall be managed in compliance with the provisions of the Ordinance, these Regulations and any other applicable laws;",
+      ">(e) the Fund shall only invest in Investees;",
+      ">(f) Units of the Fund shall at all times be held by at least five (5) Holders;",
+      ">(g) the Holders that are close relatives shall not hold more than thirty percent of the Units;",
+      ">(h) the Fund shall undertake only those activities that are in accordance with these Regulations and such activities shall be disclosed in the Placement Memorandum; and",
+      ">(i) any other condition specified by the Commission."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Application for registration",
+     "page": 10,
+     "text": [
+      "Subject to the fulfillment of conditions specified under Regulation 9, an application for registration of a Fund shall be submitted by the FMC in Form I and shall be accompanied by the following:",
+      ">(a) Constitutive Documents of the Fund in accordance with the requirements of these Regulations;",
+      ">(b) copy of the registered Trust Deed as approved by the Commission;",
+      ">(c) latest audited balance sheet and profit and loss statement of the FMC:",
+      "Provided that if the financial statements are earlier than six months of the date of the application, then in addition to such financial statements a certificate from the auditor evidencing the net worth of the company shall also be submitted and such certificate shall not be earlier than thirty (30) days of the date of the application;",
+      ">(d) list of the directors of FMC, their profile and consent to act as directors of the FMC;",
+      ">(e) list of shareholders of the FMC along with their percentage of shareholding;",
+      ">(f) the latest audited balance sheet, profit and loss account, cash flow statement and statement of change in equity of the Trustee and the names of their shareholders along with their percentage of shareholding;",
+      ">(g) copy of approval of the Commission approving the appointment of Trustee under Regulation 15;",
+      ">(h) an affidavit by the chief executive of the FMC that it accepts responsibility for the information contained in the application for registration of the Fund as being accurate at the date of submission;",
+      ">(i) an undertaking by the FMC that the FMC and the Trustee are not Connected Persons;",
+      ">(j) consent letter of the Trustee to act as a Trustee under these Regulations;",
+      ">(k) non-refundable application fee as specified in Schedule I; and",
+      ">(l) any other documents required by the Commission."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Registration of the Fund",
+     "page": 11,
+     "text": [
+      "(1) The Commission may register the Fund in Form II if it is satisfied that the applicable conditions have been satisfied.",
+      "(2) The Commission may while registering the Fund impose such conditions as it deems appropriate."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Procedure where registration is not granted",
+     "page": 12,
+     "text": [
+      "(1) The Commission may reject an application for the registration of a Fund, made under Regulation 10, after recording its reasons in writing.",
+      "(2) The Commission shall not reject an application made under Regulation 10 unless it has given the FMC a reasonable opportunity of being heard.",
+      "(3) The decision of the Commission to reject an application shall be final and communicated to the FMC within three (3) working days of the rejection."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Cancellation of registration of the Fund",
+     "page": 12,
+     "text": [
+      "The Commission may cancel the registration of a Fund established by an FMC after informing the Trustee and providing the FMC an opportunity of being heard if:",
+      ">(a) the Commission determines that such action is in the best interest of the Holders;",
+      ">(b) the Holders, through a special resolution, request the Commission on reasonable grounds to cancel the registration of the Fund; or",
+      ">(c) the Trustee satisfies the Commission, on reasonable grounds that continuation of the Fund is not in the interest of its Holders."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Effect of cancellation of registration of a Fund",
+     "page": 12,
+     "text": [
+      "(1) Where the Commission cancels the registration of a Fund, the Commission may move for the revocation of the trust in terms of the Trust Deed.",
+      "(2) The distribution of the Fund established by an FMC and liquidation of assets, upon the revocation of the trust, shall be made by the Trustee in accordance with the terms of the Trust Deed.",
+      "(3) The trust shall stand extinguished after disposal of all assets and distribution of proceeds of such disposal to Holders.",
+      "(4) The provisions of these Regulations shall not preclude the authority of the Commission to exercise any other powers under the Ordinance or any other law administered by the Commission."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV",
+   "sections": [
+    {
+     "no": "15",
+     "title": "Appointment of Trustee",
+     "page": 13,
+     "text": [
+      "(1) The Trustee for the Fund established by an FMC shall be appointed by the FMC subject to the provisions of these Regulations.",
+      "(2) The FMC shall apply to the Commission for the approval of appointment of Trustee before it applies for the registration of the Fund under Regulation 10.",
+      "(3) The Commission shall, before giving approval for appointment of Trustee, consider the availability of appropriate systems, personnel, management of the Trustee and such other criteria, as may be specified by the Commission through circulars issued under the Ordinance."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Trustee and the FMC to be independent",
+     "page": 13,
+     "text": [
+      "The Trustee shall not be a Connected Person, associated company or associated undertaking of the FMC."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Qualifications to act as Trustee",
+     "page": 13,
+     "text": [
+      "The Trustee shall be:",
+      ">(a) a scheduled bank licensed under the Banking Companies Ordinance, 1962 (LVII of 1962) or a Development Financial Institution (DFI) which has been assigned a long term minimum rating of “AA” by a Credit Rating Company, and has been in operation for at least five (5) years;",
+      ">(b) a trust company which is a subsidiary of a scheduled bank referred to in clause 17 (a);",
+      ">(c) a foreign bank operating as a scheduled bank in Pakistan for at least five (5) years which has been assigned a minimum investment grade rating by a Credit Rating Company;",
+      ">(d) a depository registered with the Commission pursuant to the Central Depository Companies (Establishment and Regulation) Rules, 1996; or",
+      ">(e) such other entity as the Commission may specify through circular issued under the Ordinance."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Retirement of Trustee",
+     "page": 14,
+     "text": [
+      "(1) The Trustee may, subject to the prior written approval of the Commission, retire from its office on the appointment of another Trustee proposed by the FMC and approved by the Commission.",
+      "(2) The retirement of a Trustee shall take effect from the date of transfer of the Fund to the newly appointed Trustee:",
+      "Provided that the cost of transfer of the Fund to the new Trustee shall be borne by the retiring Trustee unless directed otherwise by the Commission.",
+      "(3) For the purpose of appointment of a Trustee under Regulation 18(1), the Trust Deed may be amended in accordance with provisions of the Trusts Act, 1882 (II of 1882)."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Removal of the Trustee",
+     "page": 14,
+     "text": [
+      "(1) The Trustee may be removed by the Commission after serving a written notice to the FMC and the Trustee in any one or more of the following circumstances:",
+      ">(a) the Trustee goes into liquidation, becomes bankrupt or has a receiver or administrator appointed; or",
+      ">(b) the Commission itself or on an application by the FMC, after recording reasons in writing, decides that a change of the Trustee is desirable in the interests of Holders; or",
+      ">(c) in the case of a Fund registered under Regulation 11, by a special resolution is passed by Holders resolving that the Trustee should be removed:",
+      "Provided that no order shall be made under Regulation 19(1) (b) or (c) unless the Trustee has been given a reasonable opportunity of being heard by the Commission.",
+      "(2) For purposes of Regulation 19(1)(c), the Commission may call a meeting of the Holders on the request of Holders holding not less than twenty (20) percent of the Units, and the Connected Persons of the Trustee shall not vote at such meetings and their presence shall not be counted towards requisite voting for the special resolution.",
+      "(3) Where a Trustee has been removed under Regulation 19(1) the FMC shall, in accordance with the provisions of these Regulations, appoint another Trustee.",
+      "(4) All costs with respect to the change of Trustee will be borne by the Fund unless directed otherwise by the Commission."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Obligations of the Trustee",
+     "page": 15,
+     "text": [
+      "The Trustee shall:",
+      ">(a) exercise due diligence and vigilance in carrying out its functions and duties under the Constitutive Documents, these Regulations and all other applicable laws;",
+      ">(b) ensure that the title to all assets of the Fund is lawfully vested in it;",
+      ">(c) ensure that the assets of the Fund are properly held on behalf of the Holders and managed for the benefit of the Holders in accordance with the provisions of the Constitutive Documents, these Regulations and all other applicable laws;",
+      ">(d) not delegate any of its duties unless the Trust Deed allows for such delegation;",
+      ">(e) make payments to delegate from its own account, if it has delegated any of its functions;",
+      ">(f) be liable for any negligent act or omission, on its part or on the part of any of its delegates;",
+      ">(g) not legally or beneficially own Units;",
+      ">(h) receive the payments from Eligible Investors or the Foreign Entity for the subscription of Units;",
+      ">(i) deposit the money received by the Fund in a scheduled bank which has a minimum long term “A” rating;",
+      ">(j) carry out the instructions of the FMC in respect of investments out of the Investible Fund unless such instructions are in conflict with the Constitutive Documents, these Regulations, directions, guidelines, circulars or any other applicable law; and",
+      ">(k) immediately inform the Commission of any action of the FMC that contravenes the Ordinance, the Rules these Regulations, guidelines, codes, circulars, directives or any other applicable laws."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI",
+   "sections": [
+    {
+     "no": "21",
+     "title": "Minimum investment in a Fund",
+     "page": 16,
+     "text": [
+      "The FMC may raise capital for a Fund from an Eligible Investor through issue of Units in accordance with the following conditions:",
+      ">(a) the FMC shall neither make nor accept any offer for subscription to the Units of a Fund of an amount less than Rupees ten (10) million:",
+      "Provided that the restriction contained in this clause shall not apply to employees, officers or directors of the FMC; and",
+      ">(b) every Eligible Investor approached for raising capital for a Fund shall be provided the Placement Memorandum and a copy of the declaration required under Schedule V."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Investment conditions and restrictions",
+     "page": 16,
+     "text": [
+      "(1) All investments from the Investible Funds shall be made in Investee subject to the following conditions:-",
+      ">(a) the FMC shall make investments which are in conformity with its investment strategy as disclosed in its Placement Memorandum;",
+      ">(b) the Investible Funds may be invested with a Connected Person of the FMC or the Trustee only if adequate disclosure to this effect has been made in the investment strategy stated in the Placement Memorandum;",
+      "(2) In the event that any of the conditions specified in Regulation 22(1) is breached:",
+      ">(a) the FMC or the Trustee shall promptly inform the Holders and the Commission of the breach, the reasons for the breach, and the proposed steps for rectification; and",
+      ">(b) the FMC shall rectify the breach within such period as the Commission may specify."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Prohibition on listing",
+     "page": 16,
+     "text": [
+      "The Units of a Fund shall not be listed on any Exchange."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Life of the Fund",
+     "page": 16,
+     "text": [
+      "(1) A Fund established by an FMC shall be established for a specific period of time not exceeding fifteen (15) years and such period shall be stated in the Constitutive Documents.",
+      "(2) The Fund established by an FMC shall be dissolved and assets liquidated when the life of the Fund as stated in the Constitutive Documents comes to an end:",
+      "Provided that, if allowed by the Constitutive Documents and the request is approved by the Commission, the life of the Fund may be extended for a period of upto two years beyond its initial life as stated in the Constitutive Documents.",
+      "(3) The distribution of the assets of the Fund established by an FMC, upon dissolution of the Fund, shall be made by the Trustee in accordance with the terms of the Trust Deed."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII",
+   "sections": [
+    {
+     "no": "25",
+     "title": "Prohibition on inviting subscription from the public",
+     "page": 17,
+     "text": [
+      "No person or the FMC shall issue any document or advertisement inviting offers from the public for subscription or purchase of Units of a Fund."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Private Placement",
+     "page": 17,
+     "text": [
+      "Subscription to the Units shall be received only through Private Placement of the Units."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Placement Memorandum and Subscription Agreement",
+     "page": 17,
+     "text": [
+      "(1) The FMC shall for the purpose of all Private Placement of Units issue a Placement Memorandum and a Subscription Agreement.",
+      "(2) All Eligible Investors of a Fund shall be issued the same Placement Memorandum and Subscription Agreement, as submitted to the Commission."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Contents of the Placement Memorandum",
+     "page": 17,
+     "text": [
+      "The Placement Memorandum shall contain the information specified in Schedule IV."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Contents of the Subscription Agreement",
+     "page": 17,
+     "text": [
+      "The Subscription Agreement shall contain the information specified in Schedule VI."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VIII",
+   "sections": [
+    {
+     "no": "30",
+     "title": "Application of the Ordinance to the Fund",
+     "page": 18,
+     "text": [
+      "The provisions of the Ordinance governing matters relating to general meetings of a company, allotment and transfer of shares and declaration of dividend, shall as far as may be mutatis mutandis apply to the meetings of the Holders required under these Regulations, allotment and transfer of Units under these Regulations and declaration of dividend of the Fund:",
+      "Provided that any Holder who has a conflict of interest in the matter put up for approval in a meeting shall abstain from voting at the meeting of the Fund and such holder’s presence shall not be counted for the purposes of such meeting:",
+      "Provided further that the FMC, upon the request of not less than twenty (20) percent Holders, shall call for a meeting of the Holders.",
+      "(2) For the purpose of meetings of the Holders, the company secretary of the FMC shall act as if he is the company secretary of the Fund."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Management fee payable to the FMC",
+     "page": 18,
+     "text": [
+      "(1) The FMC shall be entitled to an annual management fee as specified in the Constitutive Document and such remuneration shall be chargeable to the Fund as an expense.",
+      "(2) The FMC shall be entitled to a carried interest as specified in the Constitutive Document provided the Fund meets the bench mark of return as stated in the Placement Memorandum."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Fee payable to Trustee",
+     "page": 18,
+     "text": [
+      "The Trustee shall be entitled to such fee as may be agreed between the FMC and the Trustee and such fee shall be disclosed by the FMC in the Trust Deed and the Placement Memorandum and chargeable to the Fund as an expense."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Monitoring fee payable to the Commission",
+     "page": 18,
+     "text": [
+      "A supervisory fee shall be payable by the FMC to the Commission on an annual basis at such rate as may be specified from time to time by the Commission in Schedule I, and such fee shall be chargeable to the Fund as an expense."
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Transitional Provisions",
+     "page": 18,
+     "text": [
+      "(1) Existing NBFCs licensed to undertake the business of venture capital investment shall, within a period of eighteen (18) months from the coming into force of these Regulations ensure that they comply with the requirements of these Regulations and apply to the Commission for the issuance of a license to act as a FMC.",
+      "(2) The Commission shall, after receiving a request under Regulation 34(1), and upon being satisfied that the applicant has fulfilled the requirements of the Rules and these Regulations, issue the NBFC a license to act as a FMC, and cancel the existing license of the NBFC to undertake the business of venture capital investment.",
+      "(3) All NBFCs licensed to undertake venture capital investment which are managing funds in company structure shall, within a period of eighteen (18) months from the coming into force of these Regulations, make an application to the Commission for the registration of a Fund and the existing fund shall upon the registration of the Fund transfer its assets and liabilities to such Fund.",
+      "(4) The shareholders of a fund which is in company structure shall upon the transfer of the assets and liabilities of such fund to the newly registered Fund be deemed to be the Holders of the Fund to the extent of their shareholding in the company and shall be issued Units in proportion to their shareholding.",
+      "(5) The company which has transferred its assets and liabilities to the Fund in terms of Regulation 34(3) shall after the transfer of its assets and liabilities cease to carry out operations and proceed towards the dissolution of the company or may approach the Commission to alter its memorandum to perform any other business."
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Repeal",
+     "page": 19,
+     "text": [
+      "(1) The provisions of the Non-Banking Finance Companies and Notified Entities Regulations, 2007 listed in Schedule VII shall stand repealed upon the expiry of eighteen (18) months from the commencement of these Regulations.",
+      "(2) Notwithstanding Regulation 35(1), no person shall after the commencement of these Regulations file an application for registration of a venture capital fund under the NonBanking Finance Companies and Notified Entities Regulations, 2007.",
+      "(3) Every action instituted by the Commission with respect to a venture capital company or a venture capital fund under the Non-Banking Finance Companies and Notified Entities Regulations, 2007 on expiry of eighteen (18) months of the time of coming into operation of these Regulations shall be deemed to be action instituted by the Commission under these Regulations.",
+      "(4) Every order or directive issued by the Commission with respect to a venture capital company or a venture capital fund under the Non-Banking Finance Companies and Notified Entities Regulations, 2007 on expiry of eighteen (18) months of the time of coming into operation of these Regulations shall be deemed action under these Regulations.",
+      "FORM I [See Regulation 10]",
+      "APPLICATION FOR REGISTRATION AS A PRIVATE EQUITY AND VENTURE CAPITAL FUND",
+      "INSTRUCTIONS:",
+      ">>(i) This form is meant for use by a FMC (hereinafter referred to as the “applicant”)",
+      "for making an application for the grant of a certificate of registration as Private",
+      "Equity and Venture Capital Fund proposed to be established and managed by it.",
+      ">>(ii) The applicant shall complete this form, and submit it, along with the documents",
+      "required under these Regulations to the Commission at its head office at",
+      "Islamabad.",
+      ">>(iii) The application Form shall be filled in accordance with these Regulations.",
+      ">>(iv) The application shall be considered by the Commission when it is complete in",
+      "all respects.",
+      ">>(v) All answers must be legible.",
+      ">>(vi) Information which needs to be supplied in more detail may be given on",
+      "separate sheets and attached to the application form.",
+      ">>(vii) The application must be signed and all signatures must be original.",
+      "(viii)The application must be accompanied by a receipt of Rs. 1,000,000/- being the",
+      "application fee (non-refundable), deposited in",
+      "____________________________________________ on ________________.",
+      "Details of the Fund:",
+      ">(a) Name of the proposed Fund.",
+      ">(b) Investment objectives.",
+      ">(c) Proposed amount of Investible Funds.",
+      ">(d) Details of commitments by Eligible Investors, if any and names and addresses of such Eligible Investors.",
+      ">(e) Name and address of the auditor of the Fund.",
+      "Details of the FMC",
+      ">(a) Registered office address.",
+      ">(b) Names of directors of the FMC and their profile.",
+      ">(c) Names of the shareholders of the FMC along with their percentage of shareholding.",
+      ">(d) Previous approval, if any, by the Commission to manage a Private Equity and Venture Capital Fund.",
+      "Details of the Trustee:",
+      ">(a) Name and contact details of the Trustee.",
+      ">(b) Registered office address.",
+      ">(c) Name of the directors of Trustee and their profile.",
+      "1. Any additional information/ document in support of this application that may be important or required by the Commission.",
+      "2. The application shall be accompanied by the documents required under Regulation 10, documents supporting the information requested under this Form and any other document required under these Regulations.",
+      "3. Declaration statement as under:",
+      ">(a) We hereby declare and certify that the information provided in this application, including that provided in the attachment sheets and documents attached, is complete and true in all respects.",
+      ">(b) We further certify that we shall inform the Securities and Exchange Commission of Pakistan immediately of any change in the information provided in the application and the documents attached with them.",
+      ">(c) We warrant that we shall comply with and be bound by the Securities and Exchange Ordinance, 1969, the Securities and Exchange Commission of Pakistan Act, 1997, the Companies Ordinance, 1984, Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003 the Private Equity and Venture Capital Fund Regulations, 2008, and the regulations, guidelines, circulars, orders and directions that may be issued by the Securities and Exchange Commission of Pakistan from time to time.",
+      "For and on behalf of................................... (Name of the applicant) Authorized signatory .............................. ……................ (Name) (Signatures) Date: Place:",
+      "FORM II [See Regulation 11]",
+      "SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+      "CERTIFICATE OF REGISTRATION AS A PRIVATE EQUITY AND VENTURE CAPITAL FUND",
+      "In exercise of the powers conferred by Section 282CA of the Companies Ordinance, 1984",
+      "(Act XLVII of 1984) the Commission hereby grants a certificate of registration to",
+      "________________________________________, as a Private Equity and Venture Capital",
+      "Fund subject to the conditions prescribed under the Private Equity and Venture Capital",
+      "Fund Regulations, 2008 or as may be prescribed or imposed hereafter.",
+      "The registration number of the Private Equity and Venture Capital Fund is",
+      "______________________.",
+      "Dated: _________________",
+      "Place: ISLAMABAD",
+      "By order",
+      "Sd/For and on behalf of THE SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN FORM III [See Regulation 6(2)]",
+      "APPLICATION FOR REGISTRATION BY A FOREIGN ENTITY WHEN ONLY FOREIGN MONEY IS TO BE INVESTED",
+      "INSTRUCTIONS:",
+      ">>(i) This form is meant for use by a Foreign Entity (hereinafter referred to as the “applicant”) for making an application for the grant of a certificate of registration as Private Equity and Venture Capital Fund when only Foreign Money is to be invested by the Foreign Entity in Private Equity Entities;",
+      ">>(ii) The applicant shall complete this form, and submit it along with the required documents to the Commission at its head office at Islamabad.",
+      ">>(iii) The application form shall be filled in accordance with these Regulations.",
+      ">>(iv) The application shall be considered by the Commission when it is complete in all respects.",
+      ">>(v) All answers must be legible.",
+      ">>(vi) Information which needs to be supplied in more detail may be given on separate sheets and attached to the application form.",
+      ">>(vii) The application must be signed and all signatures must be original.",
+      "(viii) The application must be accompanied by a receipt of Rs. 1,000,000/- being the application fee (non-refundable), deposited in __________________________________________ on ________________.",
+      "Details of the Foreign Entity",
+      "1. Name and contact details of the Foreign Entity. 2. Contact details of the Foreign Entity’s office in Pakistan. 3. Names of the directors or partners of the Foreign Entity and their profile. 4. Legal structure of the Foreign Entity along with:",
+      ">(a) date and place of establishment;",
+      ">(b) date of commencement of business and current business activities (enclose a copy of the formation documents of the entity along with the brief introduction of relevant law and jurisdiction). 5. Total Foreign Money to be invested in Pakistan. 6. Mode of investment in Pakistan. 7. Details of the scheduled bank in Pakistan through which business will be transacted. 8. Investment objectives and details about the proposed Investee. 9. Any additional information in support of this application that the Foreign Entity may wish to disclose.",
+      "10. The application shall be accompanied by the following documents:",
+      ">(a) An undertaking that the Foreign Entity has never been involved in any illegal activities.",
+      ">(b) Details of the foreign regulatory authority under which the Foreign Entity is being regulated.",
+      ">(c) An affidavit by the Foreign Entity that it accepts responsibility for the information contained in the application and is accurate at the date of submission.",
+      ">(d) Documents supporting the information requested under this Form and any other document required under these Regulations.",
+      ">(e) Any other documents required by the Commission.",
+      ">(f) Declaration statement:",
+      ">>(i) We hereby declare and certify that the information supplied in the application, including the attachment sheets and documents attached, is complete and true in all respects.",
+      ">>(ii) We further certify that we shall inform the Securities and Exchange Commission of Pakistan immediately of any change in the information provided in the application and the documents attached with them.",
+      ">>(iii) We warrant that we shall for the purposes of investments in Pakistan be bound by the laws of Pakistan and directions that may be issued by the Securities and Exchange Commission of Pakistan from time to time.",
+      "For and on behalf of...................................",
+      "(Name of the applicant) Authorized signatory .............................. ……................ (Name) (Signatures) Date: Place:",
+      "FORM IV [See Regulation 6(3)]",
+      "SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+      "CERTIFICATE OF REGISTRATION AS A PRIVATE EQUITY AND VENTURE CAPITAL FUND",
+      "In exercise of the powers conferred by Section 282CA of the Companies Ordinance, 1984",
+      "(Act XLVII of 1984) the Commission hereby grants a certificate of registration to",
+      "_______________________________________, as a Private Equity and Venture Capital",
+      "Fund subject to the conditions prescribed under the Private Equity and Venture Capital",
+      "Fund Regulations, 2008 or as may be prescribed or imposed hereafter.",
+      "The registration number of the Private Equity and Venture Capital Fund is",
+      "______________________.",
+      "Dated: _________________",
+      "Place: ISLAMABAD",
+      "By order",
+      "Sd/For and on behalf of THE SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN"
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Likely superseded by the Private Funds Regulations 2015; to be confirmed.",
+ "schedules": [
+  {
+   "title": "Annexure A",
+   "page": 30
+  },
+  {
+   "title": "Annexure B",
+   "page": 32
+  }
+ ]
+}

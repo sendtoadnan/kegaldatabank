@@ -1,0 +1,28 @@
+{
+ "id": "third-party-administrators-health-insurance-regulations-2014",
+ "title": "Third Party Administrators for Health Insurance Regulations, 2014",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "third-party-administrators-health-insurance-regulations-2014.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Third Party Administrators for Health Insurance Regulations, 2014' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}

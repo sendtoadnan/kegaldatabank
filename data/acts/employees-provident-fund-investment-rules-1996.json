@@ -1,0 +1,91 @@
+{
+ "id": "employees-provident-fund-investment-rules-1996",
+ "title": "Employees Provident Fund (Investment in Listed Securities) Rules, 1996",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "employees-provident-fund-investment-rules-1996.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Employees Provident Fund (Investment in Listed Securities) Rules, 1996' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These rules may be called the Employees’ Provident Fund (Investment in Listed Securities) Rules, 1996.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Interpretation",
+     "page": 1,
+     "text": [
+      "In these rules the words and expressions used shall have the same meanings as are assigned to them in the Companies Ordinance, 1984 (XLVII of 1984)."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Conditions for investment in listed securities, etc",
+     "page": 1,
+     "text": [
+      "Where it is decided to make investment, out of the provident fund constituted for the employees of a company, in securities of the companies listed on any stock exchange in Pakistan, such investment shall be subject to the following conditions, namely:-",
+      ">>(i) Total investment in listed securities shall not exceed [thirty] {fn:1-1}ten per cent of the provident fund; [ ] {fn:1-2}",
+      ">>(iii) investment in shares or other listed securities of a particular company shall not exceed five per cent of its paid up capital;",
+      ">>(iv) In the case of investment in the shares of listed companies, it shall be made only where such companies—",
+      ">(a) have a minimum operational record of five years; and",
+      ">(b) have paid not less than fifteen per cent dividend to their share holders during the three preceding consecutive years;",
+      ">>(v) in the case of investment in securities other than shares of listed companies, it shall not be made unless such securities have been rated as an investment grade with minimum rating of “BBB” by a credit rating company registered with the Authority under the Securities and Exchange Ordinance, 1969 (XVII of 1969), and the rating is maintained as such at the time of investment; and",
+      ">>(vi) Investment shall not be made in a security if it is publicly known that the issuer of the security has committed default while availing of any financing facility."
+     ],
+     "fn": [
+      {
+       "n": "1-1",
+       "text": "Substituted the word “twenty” with the word “thirty” vide S.R.O. 1260 (I)/98 dated 2nd November, 1998. Earlier the word “ten” was substituted with the word “twenty” vide S.R.O. 410(I)/97, dated June 6, 1997."
+      },
+      {
+       "n": "1-2",
+       "text": "The following clause was omitted vide S.R.O. 410(I)/97, dated June 6, 1997: “(ii) investment shall not exceed one per cent of the provident fund in the listed securities of any one company;”"
+      }
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Powers of Authority to relax rules",
+     "page": 2,
+     "text": [
+      "Where the Authority is satisfied that it is not practicable to comply with any condition of these rules in a particular case or class of cases, the Authority may, for reasons to be recorded and subject to such conditions as it may deem fit, relax any of the conditions specified in rule 3 in the case of such company or class of companies."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Penalty",
+     "page": 2,
+     "text": [
+      "Whoever fails or refuses to comply with or contravenes any provision of these rules, or knowingly and wilfully authorises or permits such failure, refusal or contravention shall, in addition to any other liablity under the ordinance, be also punishable with fine not exceeding two thousand rupees, and, in case of continuing failure, refusal or contravention to a further fine not exceeding one hundred rupees for every day after the first during which such contravention continues. _______________________________________________________ [ NO. F. 1(24)CF/POL/94 ]",
+      "( MUHAMMAD HAYAT JASRA ) REGISTRAR OF COMPANIES"
+     ]
+    }
+   ]
+  }
+ ]
+}

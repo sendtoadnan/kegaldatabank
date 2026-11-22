@@ -1,0 +1,110 @@
+{
+ "id": "companies-appointment-of-trustees-rules-1973",
+ "title": "Companies (Appointment of Trustees) Rules, 1973",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "companies-appointment-of-trustees-rules-1973.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Companies (Appointment of Trustees) Rules, 1973' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 2,
+     "text": [
+      "(1) These rules may be called the Corporate Law Authority Rules, 1984.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 2,
+     "text": [
+      "(1) In these rules, unless there is anything repugnant in the subject or context,-",
+      ">(a) \"application\" includes an application, petition or appeal submitted to the Authority under the Ordinance or these rules;",
+      ">(b) \"Authority\" means the Corporate Law Authority constituted under section 11 of the Ordinance:",
+      ">(c) \"Chairman\" means the Chairman of the Authority;",
+      ">(d) \"Member\" means a member of the Authority and includes the Chairman;",
+      ">(e) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984); and",
+      ">(f) \"Section\" means a section of ordinance. \"Member\" means a member of the Authority and includes the Chairman;",
+      "(2) All other terms and expressions used but not defined in these rules shall have the same meanings as in the Ordinance."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Consideration of questions by circulation",
+     "page": 2,
+     "text": [
+      "The Chairman may, by general or special order. direct that any matter which is required to be considered by the Authority in a meeting may be disposed of by circulation instead of at a meeting of the Authority."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Mode of submission of applications, etc",
+     "page": 2,
+     "text": [
+      "Unless otherwise prescribed, an application made to the Authority shall be:",
+      ">>(i) duly signed, dated and verified by an affidavit by the person making it and, in the case of a company signed and verified by its chief executive or director, secretary or liquidator;",
+      ">>(ii) neatly and legibly written, typed or printed, shall precisely set out the facts, grounds and claims or relief applied for in serially numbered paragraphs and specify. the relevant provisions of law under which action or relief is applied for:",
+      ">>(iii) accompanied by documents referred to or relief upon and, in the case of a petition for review of or an appeal against, any order of decision, by a certified copy of such order or decision;",
+      ">>(iv) accompanied by three spare copies, duly signed. dated and verified and accompanied by the documents as aforesaid: and",
+      ">>(v) accompanied by the original receipt for the fee for an application as specified in the Sixth Schedule to the Ordinance;"
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Manner of disposal of application, etc",
+     "page": 3,
+     "text": [
+      "On receipt of an application, the Authority shall. unless it rejects or dismisses the same in time or returns it for removal of any defect or shore-coining or otherwise disposes of the same, institute such enquiries or proceedings in respect of any matter as may, in the opinion of the Authority be necessary to obtain the information or evidence respecting any matter concerning the application and may provide an opportunity to the applicant or any other person interested in the matter of being heard before arriving at a decision."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Appearance by authorised representative",
+     "page": 3,
+     "text": [
+      "Any person who is entitled or required to attend before the Authority. in connection with any proceeding under the Ordinance, otherwise than when required to attend personally, may be represented at such attendance by a duly authorised Advocate, a member of the institute of Chartered Accountants of Pakistan or the Institute of Cost and Management Accountants of Pakistan Practitioning in Pakistan or a director or officer of the company or any other person authorised in writing in this behalf by the person so entitled or required to attend."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Authentication of orders and decisions of the Authority",
+     "page": 3,
+     "text": [
+      "All order and decisions of the Authority,, shall be authenticated by the signature of an officer of the Authority, empowered in this behalf by the Authority."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Seal of the .Authority",
+     "page": 3,
+     "text": [
+      "There shall be an official seal of the Authority which shall be affixed on such documents and in such manner as may be specified by the Authority."
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Made under the repealed Companies Ordinance 1984; applicability under the Companies Act 2017 is to be confirmed."
+}

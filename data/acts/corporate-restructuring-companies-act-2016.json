@@ -1,0 +1,459 @@
+{
+ "id": "corporate-restructuring-companies-act-2016",
+ "title": "Corporate Restructuring Companies Act, 2016",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "CRC Act 2016"
+ ],
+ "amendedUpToLabel": "Updated till 7 July 2022 (SECP)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "corporate-restructuring-companies-act-2016.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Corporate Restructuring Companies Act, 2016' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "WHEREAS it is expedient to provide for the establishment, licensing and regulation of corporate restructuring companies and the manner in which they can carry on business; It is hereby enacted as follows:⸺",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, extent and commencement",
+     "page": 3,
+     "text": [
+      "(1) This Act shall be called the Corporate Restructuring Companies Act, 2016.",
+      "(2) It extends to the whole of Pakistan.",
+      "(3) This section shall come into force at once and the remaining provisions of this Act shall come into force on such date as the Federal Government may, by notification in the official Gazette, appoint and different dates may be so appointed for different provisions of this Act."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 3,
+     "text": [
+      "(1) In this Act, unless there is anything repugnant in the subject or context,—",
+      ">>(i) “affiliate” means a shareholder, director, employee, agent or adviser of a financial institution and includes an entity that directly or indirectly controls or is controlled by such financial institution, and a shareholder, director, employee, agent or adviser of such entity;",
+      ">>(ii) “collateral” means a property in relation to which security interest of any description has been created;",
+      ">{fn:3-1}[(iia) “Companies Act” means the Companies Act, 2017 (XIX of 2017);]",
+      ">>(iii) “control” means direct or indirect ownership of fifty percent or more of the voting rights in an entity;",
+      ">>(iv) “corporate restructuring company” means a public limited company licensed by the Commission under this Act to carry out the business of,-",
+      ">(a) acquisition, management, restructuring and resolution of nonperforming assets of financial institutions {fn:3-1}[save as otherwise provided for in section 8A] ; and",
+      ">(b) restructuring, reorganization, revival and liquidation of commercially or financially distressed companies and their businesses.",
+      ">>(v) “Commission” means the Securities and Exchange Commission of Pakistan;",
+      "{fn:4-1}[* * * * * * *]",
+      ">>(vii) “financial asset” includes any short, medium or long term interest and non•interest bearing loan, finance, advance, lease, installment, term finance certificate, participation term certificate, modaraba, musharaka, ijara, profit and loss sharing agreement, redeemable capital, guarantee or contractual right to receive payment of money in respect of sums advanced or committed to an obligor by a financial institution;",
+      "(viii) “financial institution” means a financial institution as defined under clause (a) of section 2 of the Financial Institutions (Recovery of Finances) Ordinance, 2001 (XLVI of 2001);",
+      ">>(ix) “Government Agency” means a department, agency or a body corporate set up or established by the Federal Government or a Provincial Government and includes the Federal Government and a Provincial Government itself;",
+      ">>(x) “non•performing asset” means a financial asset held on the books of a financial institution with respect to which the obligor has been in arrears for more than one year on any payment obligation {fn:4-2}[or which has been classified by the financial institution as a loss in its books in accordance with the applicable laws] and includes all security interests with respect thereto;",
+      ">>(xi) “obligor” means any individual, proprietorship, partnership, trust, company or other entity that has, with respect to a financial asset, a contractual or legal obligation to make payment, effect performance, provide security or collateral, whether as principal, surety, guarantor or otherwise and whether such obligation is primary, secondary, matured or contingent;",
+      "{fn:4-1}[* * * * * * *]",
+      "(xiii) “person” includes an individual, partnership, firm and company but does not include a Government agency;",
+      ">>(xiv) “prescribed” means prescribed by rules or regulations made under this Act;",
+      ">>(xv) “property” means property of any description, movable or immovable, tangible or intangible, and rights, interests, title and claims attached to property, whether certain or contingent, existing or arising in future, and shall include documents of title pertaining to a property;",
+      ">>(xvi) “regulations” means regulations made by the Commission under this Act;",
+      "(xvii) “rules” means rules made by the Federal Government under this Act;",
+      "(xviii) “security interest” means a guarantee, charge, mortgage, lien, hypothecation, pledge, assignment or any other security interest in relation to collateral;",
+      ">>(xix) “SECP Act” means the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">>(xx) “speculative transaction” means a transaction which,—",
+      ">(a) substantially relates to the purchase or sale of any commodity, including bonds, debentures, shares or right to, or interest in, property of any description;",
+      ">(b) provides for settlement or execution otherwise than by actual delivery or transfer of such commodity;",
+      ">(c) secures against loss on account of price fluctuations and risks associated with volatility in market; and",
+      ">(d) may be prescribed by the Commission from time to time;",
+      ">>(xxi) “transferor” means the financial institution which enters into the transfer and assignment agreement provided in clause (a) of sub•section (1) of section 6; and",
+      "{fn:5-1}[(xxia) “trust” means a trust constituted pursuant to section 6A;]",
+      "(xxii) “vesting date” means the date of signing of the transfer and assignment agreement between a financial institution and a Corporate Restructuring Company as provided in clause (b) of sub•section (1) of section 6.",
+      "(2) The words and expressions used but not defined in this Act shall have the same meaning as is assigned to them in the {fn:5-2}[Companies Act] or the SECP Act."
+     ],
+     "fn": [
+      {
+       "n": "3-1",
+       "text": "Ins. and added by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s. 2."
+      },
+      {
+       "n": "4-1",
+       "text": "Omitted clause VI and XII by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s. 2."
+      },
+      {
+       "n": "4-2",
+       "text": "Ins. certain words ibid."
+      },
+      {
+       "n": "5-1",
+       "text": "Ins. new clause (XXIa) by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), ss. 2-3."
+      },
+      {
+       "n": "5-2",
+       "text": "Subs, for “ordinance” ibid."
+      }
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Act to override other laws, contracts, instruments, memorandum and articles",
+     "page": 5,
+     "text": [
+      "Save as otherwise expressly provided in this Act, the provisions of this Act shall have effect notwithstanding anything to the contrary contained in any other law, contract, instrument, memorandum or articles of a company or in any agreement executed by a company or in any resolution passed by the company in a general meeting or by its directors, whether the same is registered, executed or passed, before or after the commencement of this Act."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Incorporation of Corporate Restructuring Company",
+     "page": 5,
+     "text": [
+      "(1) No Corporate Restructuring Company shall be incorporated without the prior approval of the Commission.",
+      "(2) No Corporate Restructuring Company shall carry on business unless it is established as a public limited company under the {fn:5-2}[Companies Act] and holds a licence issued in this behalf by the Commission and any such licence may be issued subject to such general or special conditions and upon payment of such fee as the Commission may deem fit to impose."
+     ],
+     "fn": [
+      {
+       "n": "5-2",
+       "text": "Subs, for “ordinance” ibid."
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Functions and powers",
+     "page": 5,
+     "text": [
+      "(1) Subject to the provisions of section 4, a Corporate Restructuring Company may exercise one or more of the following functions and powers, namely:—",
+      ">(a) to acquire, buy, hold, manage, restructure, reschedule, resolve, settle, recover, assign, transfer and dispose of non-performing assets;",
+      ">(b) to deal with any loan, advance, financial commitment, lease, hire• purchase, rental, sale and buy•back arrangement, mudaraba, musharaka, ijara or other financial transaction or security interest relating to non•performing assets;",
+      ">(c) to acquire, take over, hold, re•organize, restructure, encumber, assign, sell, lease and otherwise deal with any asset, property, undertaking or collateral with respect to non•performing assets;",
+      ">(d) to acquire, hold, manage, restructure, reorganize, revive, merge, amalgamate, lease, liquidate, assign and dispose of distressed companies, their businesses and properties;",
+      ">(e) to advise, develop, advance, support, implement and raise finances for rehabilitation, restructuring, reorganization or liquidation of distressed companies, their businesses and properties;",
+      ">(f) to enter into partnerships, joint venture agreement, profit or loss sharing arrangement or otherwise collaborate or participate with any company or other person in relation to non•performing assets or distressed companies;",
+      ">(g) to commence, continue, defend, desist, enforce, implement and perform any and all actions or activities in relation to non•performing assets and distressed companies; {fn:6-1}[*]",
+      ">(h) to establish, promote, concur or participate in establishing or promoting any company or other entity, the establishment or promotion of which may seem, directly or indirectly, to benefit its business {fn:6-2}[;]",
+      ">{fn:6-3}[(i) to provide finance as defined in the Financial Institutions (Recovery of Finances) Ordinance, 2001 (XLVI of 2001) for carrying out the purposes of this Act;",
+      ">(j) to establish and provide management services to trusts in terms of section 6A;",
+      ">(k) to act as an agent for any financial institution for the purpose of recovering their non-performing assets as provided under section 6B; and",
+      ">(l) to develop and implement a scheme in terms of section 8A.]",
+      "(2) No Corporate Restructuring Company or its directors, officers and agents shall perform any function and exercise any power under this Act so as—",
+      ">(a) to involve in speculative transactions;",
+      ">(b) to aid an obligor with the sole object to avoid its debt obligations or performance of a contract, remove its assets and properties from the reach of its creditors, evade payment of any tax, duty or other fiscal charge to Government Agency;",
+      ">(c) to circumvent fair valuation and proper appraisal of non•performing assets and the collateral thereof by reputable evaluating and appraising entities;",
+      ">(d) to transact business other than at arm's length; and",
+      ">(e) not to comply with the applicable laws, except as expressly provided otherwise under this Act."
+     ],
+     "fn": [
+      {
+       "n": "6-1",
+       "text": "Omitted the word “and” by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s.4."
+      },
+      {
+       "n": "6-2",
+       "text": "Subs. for “full stop” Ibid."
+      },
+      {
+       "n": "6-3",
+       "text": "Ins. new clauses from “I to L” Ibid."
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Transfer of non•performing assets",
+     "page": 7,
+     "text": [
+      "(1) Notwithstanding anything to the contrary contained in any law, decree, judgment, order, contract, instrument or document,—",
+      ">(a) a financial institution may, with the prior approval of its Board of Directors, transfer and assign its non•performing assets to a Corporate Restructuring Company, other than a Corporate Restructuring Company {fn:7-1}[* * *] controlled by such financial institution or its affiliates, {fn:7-2}[subject to clause (e) of sub-section (1),] by entering into a transfer and assignment agreement with it on such terms and conditions as may be mutually agreed upon between them;",
+      ">(b) on the vesting date, all rights, title, interest, benefits, privileges and remedies of such financial institution, concerning the non•performing assets and the obligors thereto, shall stand transferred, assigned, conveyed, sold and vested in favour of the Corporate Restructuring Company without the need of any further action, agreement or instrument;",
+      ">(c) the transfer and assignment agreement shall not be required to be compulsorily registered under any law; {fn:7-3}[*]",
+      ">(d) all contracts, deeds, instruments, approvals, commitments or consents relating to the non•performing assets subsisting or having effect immediately before the vesting date and to which the transferor may have been a party or beneficiary shall be of full force and effect in favour of or against the Corporate Restructuring Company and may be enforced or acted upon as fully and effectively as if, in the place of such financial institution, the Corporate Restructuring Company had been a party or beneficiary {fn:7-4}[; and]",
+      ">{fn:7-5}[(e) any transfer or assignment of non-performing assets pursuant to the transfer and assignment agreement shall be deemed to be affected by operation of law and not—",
+      ">>(i) by virtue of execution of such agreement by any party thereto; and",
+      ">>(ii) constitute any assignment, transfer, devolution, conveyance, lease, consent order, alienation, parting with possession or any other disposition under any applicable law other than the provisions of section 6.]",
+      "(2) The rights, powers and remedies provided to a Corporate Restructuring Company under this Act may be exercised separately or concurrently by it and are in addition to and not in lieu or derogation of any other rights or remedies that it or any other person may legally have in respect of non•performing assets and the collateral thereof."
+     ],
+     "fn": [
+      {
+       "n": "7-1",
+       "text": "Omitted the words “established, owner or” by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s. 5."
+      },
+      {
+       "n": "7-2",
+       "text": "Ins. certain words, Ibid."
+      },
+      {
+       "n": "7-3",
+       "text": "Omitted the word “and ” Ibid."
+      },
+      {
+       "n": "7-4",
+       "text": "Subs. and ins. for the “full stop” Ibid."
+      },
+      {
+       "n": "7-5",
+       "text": "Added new clause (e) Ibid."
+      }
+     ]
+    },
+    {
+     "no": "6A",
+     "title": "Creation of trust",
+     "page": 8,
+     "text": [
+      "{fn:8-1}[(1) A Corporate Restructuring Company may constitute one or more trusts under the Trusts Act, 1882 (II of 1882) for the purpose of acquiring non-performing assets from financial institutions.",
+      "(2) A trust constituted under sub-section (1) may acquire non-performing assets from a financial institution in accordance with section 6, provided that the transfer and assignment agreement shall be entered into by the Corporate Restructuring Company, for and on behalf of the trust.",
+      "(3) The management of any trust constituted under sub-section (1) shall vest in the Corporate Restructuring Company on the terms set forth in the constitutive document of such trust.",
+      "(4) The trust may be liquidated in a manner as may be prescribed.",
+      "(5) For the purpose of giving effect to section 6A, the references in this Act to a Corporate Restructuring Company shall, unless repugnant to the context, include a trust established under section 6A."
+     ],
+     "fn": [
+      {
+       "n": "8-1",
+       "text": "Ins. new “sections 6A and 6B” by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s. 6."
+      }
+     ]
+    },
+    {
+     "no": "6B",
+     "title": "Appointment of a Corporate Restructuring Company as a recovery agent",
+     "page": 8,
+     "text": [
+      "A financial institution may appoint a Corporate Restructuring Company as its agent for recovery of its non-performing assets by entering into an agency agreement with such Corporate Restructuring Company on such terms and conditions as may be mutually agreed between them:",
+      "Provided that in case an agency relationship, there shall be no transfer of any non-performing assets to Corporate Restructuring Company.]"
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Legal proceedings",
+     "page": 8,
+     "text": [
+      "(1) All proceedings by or against a transferor relating to the non• performing assets transferred to a Corporate Restructuring Company and the obligors and collateral thereof, which may be pending before any Court, tribunal, arbitrator or authority immediately before the vesting date, shall—",
+      ">(a) be continued, prosecuted, defended, enforced and executed by or against the Corporate Restructuring Company in the same manner and to the same extent as would have been continued, prosecuted, defended, enforced and executed by or against the transferor;",
+      ">(b) proceed from the stage which such proceedings had reached on the vesting date and shall not require any fresh filing, recalling and rehearing of any witness or recording of any evidence already completed; and",
+      ">(c) be continued, decided and disposed of in accordance with the provisions of the respective law, as amended or re•enacted, under which the same were instituted or filed.",
+      "(2) Any new proceedings by or against the Corporate Restructuring Company may be instituted and shall be entertained, adjudicated and disposed of in accordance with the laws, as amended or re• enacted, under which proceedings were authorized to be instituted by or against the transferor, respectively, including the Financial Institutions (Recovery of Finances) Ordinance, 2001 (XLVI of 2001), the Ordinance, the Offences in Respect of Banks (Special Courts) Ordinance, 1984 (IX of 1984), Code of Civil Procedure, 1908 (Act V of 1908) and the Code of Criminal Procedure, 1898 (Act V of 1898).",
+      "(3) Without prejudice to the provisions of sub•section (2), a Corporate Restructuring Company shall be deemed to be a financial institution for the purposes of clause (a) of section 2 of the Financial Institutions (Recovery of Finances) Ordinance, 2001 (XLVI of 2001) but shall not be treated as a banking company under the Banking Companies Ordinance, 1962 (LVII of 1962).",
+      "(4) Any reference to the transferor in the proceedings referred to in this section, the record and documents of such proceedings or decrees, judgments and orders passed in such proceedings shall, except where the context otherwise requires, be construed and read as reference to the Corporate Restructuring Company.",
+      "(5) Without prejudice to the provisions of the foregoing sub•sections, the Corporate Restructuring Company may submit an application supported by the affidavit of its chief executive officer, containing particulars of the proceedings mentioned under sub•section (1), with the Registrar of the court, tribunal, arbitrator or authority before which such proceedings are pending and on receipt of such affidavit the name of the Corporate Restructuring Company in place of the transferor, as the case may be, shall be substituted."
+     ]
+    },
+    {
+     "no": "7A",
+     "title": "Exchange of information",
+     "page": 9,
+     "text": [
+      "{fn:9-1}[(l) For the purposes of this Act, financial institutions may exchange information relating to an obligor on confidential basis with the Corporate Restructuring Company.",
+      "(2) No suit or other legal proceedings shall lie against any financial institution or its officers, for anything done in good faith in pursuance of this section or for any damage caused or likely to be caused by anything done or intended to be done as aforesaid."
+     ],
+     "fn": [
+      {
+       "n": "9-1",
+       "text": "Ins. new “sections 7A and 7B” by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s. 7."
+      }
+     ]
+    },
+    {
+     "no": "7B",
+     "title": "Credit institution",
+     "page": 9,
+     "text": [
+      "A Corporate Restructuring Company shall be deemed to be a credit institution for the purposes of the Credit Bureaus Act, 2015 (XI of 2015).]"
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Notice and discharge",
+     "page": 9,
+     "text": [
+      "(1) A Corporate Restructuring Company may, on or after the vesting date, give a duly signed and sealed notice of transfer of the non•performing assets to the obligors, State Bank of Pakistan, Commission and any other concerned person, including, to the registering authority in whose jurisdiction any security interest with respect to such non•performing assets or any other interest concerning the collateral or any indebtedness of the obligors relating to the non•performing assets, had been recorded or registered.",
+      "(2) A transfer and assignment agreement shall not be effective as against the obligors of the non•performing assets transferred by such agreement until due notice thereof is provided to such obligors.",
+      "(3) Subject to sub•section (2), the obligors of the non•performing assets transferred and assigned to a Corporate Restructuring Company by a financial institution shall make payment to the Corporate Restructuring Company and obtain any effective discharge from it after retirement of their liabilities to the entire satisfaction of the Corporate Restructuring Company."
+     ]
+    },
+    {
+     "no": "8A",
+     "title": "Scheme",
+     "page": 10,
+     "text": [
+      "{fn:10-1}[(1) A Corporate Restructuring Company, holding at least two-third in value of the principal amount payable to the secured financial institutions, may present a scheme to the Corporate Restructuring Board which may sanction such a scheme, subject to the provisions of this Act.",
+      "(2) For the purpose of determining the requisite majority of secured financial institutions as provided in sub-section (1), the Corporate Restructuring Company⸺",
+      ">(a) may rely on the publicly available information with the Registrar of Companies; and",
+      ">(b) shall send a notice to the secured financial institutions in terms of which the secured financial institutions shall be required to swear, within fourteen calendar days of such notice, an affidavit in relation to the following, namely:—",
+      ">>(i) specify the principal amount owed and outstanding from the obligor together with the nature and extent of their security interest;",
+      ">>(ii) basis on which the executant of the affidavit is authorized to execute and bind the concerned financial institution; and",
+      ">>(iii) any other matters as may be required by the Corporate Restructuring Company or as may be prescribed.",
+      "(3) If the affidavit provided by any person is false or incorrect in any material respect, or omits any material fact, knowing it to be material or such person fails to provide the same within the time frame or in the manner set forth in sub-section (2), the Commission, in consultation with the Corporate Restructuring Board, may impose a penalty on such a person of an amount not exceeding fifty million Rupees and such penalty shall be in addition to and without prejudice to any other remedy available to any party that may have been effected by a false affidavit or due to the failure to provide the affidavit.",
+      "(4) The Corporate Restructuring Board shall, upon receipt of a scheme from a Corporate Restructuring Company in terms of sub-section (1) and in the manner and period prescribed, invite objections to the same.",
+      "(5) If the Corporate Restructuring Board on consideration of the objections is of the view that the objections are not valid, it may sanction the scheme.",
+      "(6) If the scheme is sanctioned by the Corporate Restructuring Board, by virtue of the scheme, the same shall be binding on the concerned obligor, all its creditors of whatsoever nature, its members and shareholders, its liquidators and other persons who have any interest in the company, pecuniary or otherwise, and shall have effect without requiring compliance with and notwithstanding any⸺",
+      ">(a) other law for the time being in force;",
+      ">(b) agreement or contract entered into or applicable to the concerned obligor; and",
+      ">(c) agreement or contract entered into inter se financial institutions and other creditors of the concerned obligor.",
+      "(7) The Corporate Restructuring Board may refuse to sanction the scheme where it is satisfied that either the scheme suffers from illegality or procedural requirements of this Act or the rules made thereunder have not been complied with.",
+      "(8) The provisions of clause (e) of sub-section (1) of section 6 shall apply mutatis mutandis to a scheme sanctioned by the Corporate Restructuring Board under this section.",
+      "(9) Any person aggrieved by the order of the Corporate Restructuring Board may, within thirty days of the date of such order, file a petition for leave to appeal in the High Court having jurisdiction.",
+      "(10) When a scheme is presented to the Corporate Restructuring Board in terms of sub-section (1), no suit or other legal proceedings shall be proceeded with or commenced against the obligor until the scheme is sanctioned by the Corporate Restructuring Board and has attained finality in terms of sub-section (9) or such sanction has been refused by the Corporate Restructuring Board, whichever is earlier.",
+      "(11) Upon sanctioning of the scheme and the same having attained finality in terms of subsection (6), all suits or other legal proceedings pending against the obligor shall stand abated, provided that a scheme may provide for continuation of any suit or proceeding set forth therein.",
+      "(12) Sections 279 to 283 of the Companies Act shall not apply to any scheme under this section.",
+      "(13) Notwithstanding anything contained in any other law, no civil court as provided for in the Code of Ci vii Procedure, 1908 (V of 1908) or any other court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which the High Court is empowered to determine by or under this section.",
+      "(14) For the purposes of the is section,⸺",
+      ">(a) “High Court” means the High Court of the Province where registered office of the Corporate Restructuring Company is located; and",
+      ">(b) “Corporate Restructuring Board” means a board notified by the Federal Government in the official Gazette comprising of not more than five members who shall be professionals having experience and sound knowledge of dealing with company law or recovery of non-performing assets or restructuring and rehabilitation of companies in financial distress, and in this regard, subject to the foregoing, any or all of the following matters may be prescribed through rules, namely:⸺",
+      ">>(i) functions of the Corporate Restructuring Board and its members;",
+      ">>(ii) composition, appointment and governance of the Corporate Restructuring Board and its code of conduct;",
+      ">>(iii) remuneration and privileges of members of the Corporate Restructuring Board;",
+      ">>(iv) eligibility and qualifications of the members of the Corporate Restructuring Board;",
+      ">>(v) budgetary allocation for the proper functioning of the Corporate Restructuring Board and its staff and matters connected to its accountability; and",
+      ">>(vi) any other matter that may be considered necessary or expedient for the purpose of furthering the objectives of this section.",
+      ">(c) “Scheme” means any arrangement, for the purpose of achieving the objectives of this Act, entered into amongst the obligor, the Corporate Restructuring Company and one or more secured financial institutions, that contains one or more of the following, namely:⸺",
+      ">>(i) the sale or lease of a part or whole of the business or assets of the obligor;",
+      ">>(ii) rescheduling of payments of debt payable by the obligor;",
+      ">>(iii) enforcement of any pledge by a third party securing the obligations of the obligor;",
+      ">>(iv) settlement of dues payable by the obligor;",
+      ">>(v) conversion of any portion of debt into ordinary shares of the obligor;",
+      ">>(vi) conversion of any portion of debt into assets or properties of the obligor;",
+      ">>(vii) matters connected with pending suits and other proceedings against the obligor, including in connection with their abatement; and",
+      "(viii) provisions that are incidental or conducive to facilitating, promoting or advancing any matter referred to in sub-clauses (a) to (g) or such other matter as may be prescribed.",
+      ">(d) “Secured financial institutions” means in relation to an obligor, all financial institutions that have created a security interest over any or all of the assets or properties of the obligor, irrespective of⸺",
+      ">>(i) whether such security interest is shared amongst such financial institutions as a syndicate or otherwise;",
+      ">>(ii) ranking of such security interest amongst such financial institutions; and",
+      ">>(iii) whether such security interest secures a non-performing asset."
+     ],
+     "fn": [
+      {
+       "n": "10-1",
+       "text": "Ins. new “sections 8A and 8B” by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s. 8."
+      }
+     ]
+    },
+    {
+     "no": "8B",
+     "title": "Special bench of High Court",
+     "page": 13,
+     "text": [
+      "(1) The High Courts shall constitute one or more special benches consisting of one or more Judges to adjudicate the cases under this Act.",
+      "(2) The special benches as constituted under sub-section (1) shall decide the cases in accordance with the procedure prescribed through rules, if any, within ninety days from the date of institution of the case.]"
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Power to require information",
+     "page": 13,
+     "text": [
+      "(1) The Commission may, at any time, by notice in writing, require one or more Corporate Restructuring Companies and their management to furnish it, within the time specified therein or such further time as the Commission may allow, any statement, information or document relating to the business or affairs of such Corporate Restructuring Companies.",
+      "(2) No Corporate Restructuring Company or its director, officer, employee, auditor or agent shall, in any document, prospectus, report, return, accounts, information or explanation required to be furnished in pursuance of this Act or the rules or regulations made thereunder, make any statement or give any information which he knows or has reasonable cause to believe to be false or incorrect or omit any material fact therefrom."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Special audit",
+     "page": 13,
+     "text": [
+      "(1) The Commission shall monitor the general financial condition of the Corporate Restructuring Companies and may, at its discretion, order special audit and appoint an auditor to carry out detailed scrutiny of the affairs of one or more Corporate Restructuring Companies and the Commission may, at any time, issue such directions as it may deem appropriate.",
+      "(2) The Commission may, during the course of special audit, pass such interim orders and directions as it may deem appropriate.",
+      "(3) On the basis of the special audit report, the Commission may direct a Corporate Restructuring Company and its management to do or to abstain from doing such acts that may secure the interest of its shareholders and creditors and any such directions shall be complied within such time as may be specified by the Commission.",
+      "(4) The provisions of {fn:13-1}[section 249 of the Companies Act] shall apply mutatis mutandis to the auditor appointed to carry out the special audit of the Corporate Restructuring Company."
+     ],
+     "fn": [
+      {
+       "n": "13-1",
+       "text": "Subs. for “section 255 of the ordinance ” by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s. 9."
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Inquiry by the Commission",
+     "page": 13,
+     "text": [
+      "(1) On the complaint of any concerned person or on its own motion, the Commission may, on the basis of material available with it, cause an inquiry or inspection to be made by any person appointed in this behalf into the affairs of a Corporate Restructuring Company or its directors, officers or an associated company or undertaking.",
+      "(2) Where an inquiry or inspection under sub•section (1) has been ordered, the director, officer or associated company or undertaking to which the enquiry or inspection relates and every other person who has had any dealing with the Corporate Restructuring Company, its director, officer or associated company shall furnish such information in his custody or power or within his knowledge relating to or having bearing on the subject-matter of the inquiry or inspection as the person conducting the enquiry or inspection may by notice in writing require.",
+      "(3) The person conducting an inquiry or inspection under sub•section (1) may call for, inspect and seize books of account and documents in possession of the Corporate Restructuring Company or its directors, officers or associated companies.",
+      "(4) Upon completion of the inquiry or inspection, a formal report will be submitted to the Commission about the outcome of the inquiry or inspection and the Commission may, after sharing the inquiry or inspection report, and where deemed appropriate, after providing an opportunity of hearing to the Corporate Restructuring Company, pass such directions or orders, including imposition of fine, as it deems fit."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Destruction of documents",
+     "page": 14,
+     "text": [
+      "No person shall destroy, falsify, conceal or dispose of, or cause or permit the destruction, falsification, concealment or disposal of, any document, which he knows or ought to know is relevant to an inquiry, inspection, auditor has been called by the Commission."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Penalty for non•compliance or contravention",
+     "page": 14,
+     "text": [
+      "(1) Notwithstanding anything contained in any other provision of this Act, if a Corporate Restructuring Company or its affiliate or associated company fails or refuses to comply with or knowingly contravenes any provision contained in this Act or of any of the provisions of the rules or regulations made thereunder or any order or direction or directives or circular passed by the Commission under the provisions contained in this Act or knowingly and willfully authorizes or permits such failure, refusal or contravention or makes a false statement, shall, in addition to any other penalty provided by law, be liable to a fine of an amount not exceeding fifty million rupees and for a further fine of two hundred thousand rupees for every day, after the first day, during which the contravention continues.",
+      "(2) Without prejudice to the provisions of sub•section (1), in case of contravention of any provision of this Act or the rules or regulations made thereunder or non•compliance of any direction given or order passed thereunder by the Commission, the Commission may cancel the licence of a Corporate Restructuring Company, after issuing a show cause notice and giving it an opportunity of being heard, or pass any other order which may be deemed appropriate by the Commission.",
+      "(3) Upon cancellation of the licence, the functions and carrying on the business of a Corporate Restructuring Company shall cease and the Commission may move the Court having jurisdiction for winding up of the Corporate Restructuring Company."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Enforcement of orders of the Commission",
+     "page": 14,
+     "text": [
+      "(1) Any fine imposed by the Commission in the exercise of its powers under this Act shall be payable to the Commission and may be recovered by the Commission as arrears of land revenue.",
+      "(2) Any amount which cannot be recovered as arrears of land revenue may be recovered as a decree for the payment of money under the Code of Civil Procedure, 1908 (Act V of 1908).",
+      "(3) The Commission may issue such directions as may be necessary or expedient to give effect to its orders or to prevent abuse of its process, including but not limited to, seeking the assistance of the local administration or Police who shall be bound to provide assistance."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Power to make rules",
+     "page": 15,
+     "text": [
+      "(1) The Federal Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act.",
+      "(2) All rules made under sub•section (1) shall be subject to previous publication for eliciting public opinion thereon."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Power to make regulations",
+     "page": 15,
+     "text": [
+      "(1) The Commission may, by notification in the official Gazette make regulations, not inconsistent with the rules, for carrying out the purposes of this Act.",
+      "(2) All regulations made under sub•section (1) shall be subject to previous publication for eliciting public opinion thereon."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Power to issue directives, circulars, guidelines, etc",
+     "page": 15,
+     "text": [
+      "The Commission may from time to time issue such directives, circulars, guidelines, etc. as may be necessary for carrying out the purposes of this Act or the rules and regulations made thereunder."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Power to remove difficulties",
+     "page": 15,
+     "text": [
+      "If any difficulty arises in giving effect to the provisions of this Act, the President may, by notification in the official Gazette, make an order not inconsistent with the provisions of this Act for removing the difficulty."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Validation of Laws",
+     "page": 15,
+     "text": [
+      "{fn:15-1}[Notwithstanding anything contained in any other law, all transfer of non-performing assets undertaken, orders made, proceedings taken and act done, rules, regulation, circulars, notification and other legal instruments made at any time until the enactment of the Corporate Restructuring Companies (Amendment) Act, 2021 are declared and affirmed to have been and shall deemed to have always been, validly undertaken, made, decided, taken or done and shall not be called in question in any court on any ground whatsoever.]"
+     ],
+     "fn": [
+      {
+       "n": "15-1",
+       "text": "Ins. new “section 19”by the Corporate Restructuring Companies (Amendment) Act, 2021 (XXXII of 2021), s. 10."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,723 @@
+{
+ "id": "modaraba-regulations-2021",
+ "title": "Modaraba Regulations, 2021",
+ "number": "S.R.O. 284(I)/2021",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "Updated August 15, 2022 (SECP)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "modaraba-regulations-2021.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Modaraba Regulations, 2021' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, extent and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations may be called the Modaraba Regulations, 2021.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context: -",
+      ">>(i) “Annexure” means annexure appended to these regulations;",
+      ">>(ii) “Certificate of Musharakah (COM)” means an instrument to raise funds through the modes and instruments approved by the Religious Board but does not include, -",
+      ">(a) redeemable capital issued under section 66 of the Companies Act, (XIX of 2017);",
+      ">(b) funds obtained from a financial institution;",
+      ">(c) advance or application or subscription money for certificates of the modaraba;",
+      ">(d) cash margin or security deposit received in respect of funds provided by the modaraba;",
+      ">(e) subordinated funds; and",
+      ">(f) funds obtained from major shareholders, sponsors and associated companies.",
+      ">>(iii) “Certificates of Musharakah (COM) raising Modaraba” means a financial services modaraba with a valid permission to raise funds through issuance of COM or any other modes or instruments approved by the Religious Board or have outstanding COM on its books;",
+      ">>(iv) “Contingent liability” means:",
+      ">(a) a possible obligation that arises from past events and whose existence will be confirmed only by the occurrence or nonoccurrence of one or more uncertain future events not wholly within the control of the entity; or",
+      ">(b) a present obligation that arises from past events but is not recognized on the books of modaraba because:",
+      ">>>(I) it is not probable that an outflow of resources embodying economic benefits will be required to settle the obligation; or",
+      ">>>(II) the amount of the obligation cannot be measured with sufficient reliability and includes letters of credit, letters of guarantee, bid bonds / performance bonds, advance payment guarantees and underwriting commitments.",
+      ">>(v) “customer” means a person to whom finance has been extended by a modaraba;",
+      ">>(vi) “financial services modaraba” means a modaraba, which has invested more than seventy per cent of its assets in the Islamic financing modes approved by the Religious Board or any other form of business which the Religious Board may certify in writing;",
+      ">>(vii) “documents” shall have the same meaning as assigned to it in clause (ja) of sub-section (1) of section 2 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997); (viii) “equity” includes paid-up modaraba fund, general reserves, statutory reserves, balance in share premium account, reserve for issue of bonus modaraba certificates, subordinated funds and unappropriated profits/losses:",
+      "Provided that surplus on revaluation of fixed assets, treasury stocks, intangible assets, deferred tax reserves and surplus on revaluation of investments shall not be included in the equity.",
+      "Explanation: -",
+      ">>(i) for the purposes of this regulation “subordinated fund” may be classified as subordinated fund if it complies with the following conditions, -",
+      ">(a) subordinated fund is raised from the sponsors, directors or modaraba company;",
+      ">(b) rate of share of profit on subordinated fund, if any shall be decided by the Modaraba subject to the clearance of Registrar Modaraba;",
+      ">(c) neither the profit nor the principal shall be paid even at maturity if such payment would result in noncompliance with the equity or capital adequacy requirements;",
+      ">(d) subordinated fund shall be un-secured and sub-ordinate to all other indebtedness including funds raised through Certificates of Musharakah;",
+      ">(e) subordinated fund shall be in the form of cash only;",
+      ">(f) auditor has issued a certificate evidencing injection of funds into modaraba as subordinated fund;",
+      ">(g) minimum tenor of subordinated fund shall be specifically mentioned in the agreement;",
+      ">(h) prior approval of the Registrar is required for repayment of subordinated fund; and",
+      ">(i) for the purpose of calculating minimum equity requirements, the exposure of a modaraba in its subsidiaries and strategic investments shall be deducted from equity:",
+      "Provided that the equity investment in subsidiary and strategic investment shall be taken at cost.",
+      ">>(ix) “exposure” includes finance, subscription to or investment in securities and units or certificates or shares of a notified entity, Shariah compliant placements, deposits with financial institutions, Islamic derivatives, but does not include, -",
+      ">(a) obligations under letter of credit and letter of guarantee to the extent of cash margin held by a modaraba; and",
+      ">(b) deposits in current and savings accounts other than term deposits. {fn:3-1}",
+      ">>(x) “finance” means provision of, -",
+      ">(a) any accommodation or facility provided on the basis of participation in profit and loss, Musharakah or modaraba basis, hire-purchase, lease (Ijarah), rent-sharing, bills of exchange, promissory notes or other instruments with or without buyback arrangement by a seller, participation term certificate, Musharakah or modaraba certificate, term finance certificate or any other mode approved by the Religious Board;",
+      ">(b) guarantees, indemnities, letters of credit or any other financial engagement, issued or undertaken on behalf of a person, with a corresponding obligation of that person;",
+      ">(c) a loan, advance, micro financing including any form of finance such as leases (Ijarah), advances, consumer finance, housing finance;",
+      ">(d) any facility or accommodation provided on the basis of Islamic mode of financing to a person; and",
+      ">(e) any other form of financial facility provided to a person.",
+      ">>(xi) “financial Institutions” means the financial institutions as defined in the Companies Act, 2017 (XIX of 2017);",
+      ">>(xii) financing installment means repayment of:",
+      ">>(i) Lease (Ijarah) Financing;",
+      ">>(ii) House financing;",
+      ">>(iii) Diminishing Musharakah;",
+      ">>(ii) Hire Purchase; or",
+      ">>(iii) Any other amount received by a modaraba from its customer against any other grant of approved mode of finance. (xiii) “fit and proper criteria” means the criteria specified in Schedule-I of these regulations;",
+      ">>(xiv) “forced sale value” or “FSV” means the value which reflects the possibility of price fluctuations and can be realized by selling the mortgaged, pledged, leased or collaterally held assets in forced or distressed sale conditions;",
+      ">>(xv) “government securities” include monetary obligations of the Federal Government or a Provincial Government or of a Corporation wholly owned or controlled, directly or indirectly, by the Federal Government or a Provincial Government and guaranteed by the Federal Government and any other security as the Federal Government may, by notification in the Official Gazette, declare, to the extent determined time to time, to be government securities;",
+      ">>(xvi) “group” includes a person, whether natural or legal, if one of them or his close relatives, in case of a natural person, or its subsidiary or associated company, if it is a legal person, have control or hold direct or indirect substantial ownership interest or have power to exercise significant influence over the other.",
+      "Explanation: - For the purpose of this clause the expressions, -",
+      ">(a) “subsidiary” shall have the same meaning as defined in the Companies Act, 2017 (XIX of 2017);",
+      ">(b) “control” shall have the same meaning as defined in the Securities Act, 2015 (III of 2015).",
+      ">(c) “substantial ownership” means beneficial shareholding of ten percent by a person or by close relative; and",
+      ">(d) “significant influence” refers to the management control of the company, to participate in financial and operational and risk management policies, either exercised by representation on the Board of Directors through partnership or by statute or by agreement in the policy making process. (xvii) “key executives” includes the chief executive officer, directors and company secretary or any other officers as may be specified; (xviii) “liquid assets” means cash or cash equivalent and Shariah compliant assets which are readily convertible into cash and includes encashment or realizable value of gold, government securities, bank deposits, shares of listed companies which are actively traded on the securities exchange, certificates or shares of a closed end fund, deposits issued by DFIs or NBFCs rated at least ‘A’ by a credit rating agency registered with the Commission, Certificates of Musharakah, issued by modarabas rated at least ‘A’ by a credit rating agency registered with the Commission, listed TFCs and Sukuk rated at least ‘A’ by a credit rating agency registered with the Commission and which are actively traded in the market commercial papers rated at least ‘A’ by a credit rating agency registered with the Commission, commercial papers rated at least ‘A’ by a credit rating agency registered with the Commission, National Saving Scheme, securities and units of Open End Scheme for which a duly licensed asset management company quotes daily offer and redemption price;",
+      ">>(xix) “major shareholder” means a person who, individually or in concert with his family or as part of a group, holds ten percent or more shares having voting rights of the paid-up capital of a modaraba company;",
+      ">>(xx) “major certificate holder” means a person who, individually or in concert with his family or as part of a group, holds ten percent or more modaraba certificates of the paid-up fund of a modaraba;",
+      ">>(xxi) “other form of security” means hypothecation of stock (inventory), assignment of receivables, lease (Ijarah) rentals, contract receivables, or other forms of securities as declared eligible by the Commission; (xxii) “redeemable capital” means redeemable capital as defined in the Companies Act, 2017 (XIX of 2017); (xxiii) “readily realizable assets” include liquid assets and stocks pledged with the modaraba and are in their possession, with ‘perfected lien’ duly supported with complete documentation; (xxiv) “rentals” includes operating lease rental installments;",
+      ">>(xxv) “schedule” means schedule appended to these regulations; (xxvi) “secured exposure” means exposure backed by tangible security and any other form of security with appropriate margins (in cases where margin has been specified by the Commission appropriate margin shall at least be equal to the specified margin); (xxvii) “Subordinated Loan” means an unsecured loan extended to the customer by its sponsors, subordinate to the claim of the modaraba taking exposure on the borrower and documented by a formal subordination agreement between provider of the loan and the customer. The loan shall be disclosed in the annual audited financial statements of the customer as subordinated loan; (xxviii) “tangible security” means readily realizable assets, mortgage of land, plant, building, machinery and any other fixed assets; (xxix) “underwriting commitments” mean commitments given by modarabas to the limited companies at the time of new issue of equity / debt instrument, that in case the proposed issue of equity/debt instrument is not fully subscribed, the unsubscribed portion will be taken up by them (modarabas); and",
+      ">(xxx) “unlisted equity security” means an equity security not listed or quoted on a Securities Exchange.",
+      "(2) Words and expressions used but not defined in these regulations shall have the same meanings unless contrary to the context as assigned to them in the Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980 (Ordinance XXXI of 1980), or any other administered legislation."
+     ],
+     "fn": [
+      {
+       "n": "3-1",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022. In regulation 2, in sub-regulation (1), in clause (ix), sub-clause (c) is deleted. (deleted) (c) finance provided to financial institutions through REPO transactions with underlying statutory liquidity requirements eligible securities."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Prudential Regulations",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Maximum exposure of a modaraba to a person or group",
+     "page": 6,
+     "text": [
+      "(1) The total outstanding exposure (fund based and non-fund based) by a modaraba to a person shall not at any time exceed 20% of the equity of the modaraba (as disclosed in the latest financial statements). {fn:6-2}",
+      "(2) The total outstanding exposure (fund based and non-fund based) by a modaraba to a group shall not exceed 25% of the equity of the modaraba (as disclosed in the latest audited financial statements). {fn:6-3}",
+      "(3) Exposure under this regulation shall be calculated as under, -",
+      ">(a) 100% of the funds raised through issuance of COM invested with lending modaraba under perfected lien shall be deducted from exposure;",
+      ">(b) 90% of the following shall be deducted from exposure: -",
+      ">>(i) deposits with any other financial institution or scheduled bank, rated at least A or equivalent by a credit rating agency registered with the Commission, under perfected lien; and",
+      ">>(ii) encashment value of government securities and national saving scheme securities, deposited by the customer with the modaraba as collateral;",
+      ">(c) 85% of the unconditional financial guarantees, payable on demand, issued by the scheduled banks rated at least ‘A’ or equivalent by a credit rating agency registered with the Commission, accepted as collateral by modarabas;",
+      ">(d) 30% of market value of listed term finance certificates, sukuk and shares of PSX 100 index companies held as security with duly marked lien and the TFCs and Sukuk to qualify for this purpose should be rated at least ‘A’ or equivalent by a credit rating agency registered with the Commission;",
+      ">(e) 75% of the encashment value of a life policy issued by an “A” rated insurance company, duly assigned and endorsed in favor of the Modaraba using it as a security;",
+      ">(f) The following weightages will be applicable in respect of permissible placements with financial institutions. -",
+      ">>(i) 10% weightage on exposure to financial institutions with ‘AAA’ rating;",
+      ">>(ii) 25% weightage on exposure to financial institutions rated at least AA’; and",
+      ">>(iii) 75% weightage of exposure to financial institution rated at least ‘A’."
+     ],
+     "fn": [
+      {
+       "n": "6-2",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022. In regulation (3), In sub-regulation (1), for the colon at the end full stop is substituted and thereafter the proviso is deleted. (Deleted) Provided that the maximum outstanding fund-based exposure does not exceed 15% of the equity of the Modaraba."
+      },
+      {
+       "n": "6-3",
+       "text": "(Deleted) Provided that the maximum outstanding fund-based exposure does not exceed 20% of the equity of the Modaraba."
+      }
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Exposure limits in capital market",
+     "page": 7,
+     "text": [
+      "(1) A modaraba’s aggregate exposure in listed equity securities shall not exceed 25% of its equity.",
+      "(2) The investment of modaraba fund in listed equity securities of any company shall not exceed 5% of the paid-up capital of the investee company or 10% of its own equity, whichever is less and the shares acquired in excess of 10% limit due to the underwriting commitments, shall be sold off within a period of six months from the date of acquisition of such shares:",
+      "Provided that the amount of provisions created against permanent diminution shall be deducted from the cost of acquisition of equity investments and the maximum limit:",
+      "Provided further that the above restriction shall not be applicable to investment made by a modaraba in its own subsidiaries and long-term strategic investments out of surplus equity.",
+      "Explanation:- For the purpose of this regulation, “investments in equity securities” shall be valued at cost of acquisition for the purpose of calculating the above limit."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Minimum conditions for providing finance",
+     "page": 7,
+     "text": [
+      "(1) A modaraba shall while providing finance (including renewal and enhancement) to a customer which is equal to or exceeds five hundred thousand rupees after netting-off the liquid assets held as security, give due weight to the credit report relating to the customer or its group obtained from a credit information bureau.",
+      "(2) If the credit report of credit information bureau indicates overdue, the modaraba may take exposure on such customer keeping in view its risk management policies and credit approval criteria and it shall properly record reasons and justifications for granting the finance in credit approval form.",
+      "(3) The modaraba shall maintain a file of all such exceptions and provide the same as and when required by the Registrar Modaraba or any officer authorized by the Commission.",
+      "(4) A modaraba shall not provide finance to a customer who has defaulted for more than six months or availed a write-off from that modaraba during the last three years.",
+      "(5) While granting finance to a customer other than individuals, the modaraba shall obtain copy of accounts relating to the business of that customer for analysis and record in the following manner,",
+      ">(a) where the exposure does not Documentary evidence of the net worth of exceed one million rupees. the customer.",
+      ">(b) where the exposure exceeds one Accounts duly signed by the customer. million rupees but does not exceed two million rupees (c) where exposure exceeds two Accounts duly signed by the customer and million rupees but does not exceed countersigned by: ten million rupees. (i) a chartered accountant; or",
+      ">>(ii) a practicing cost and management accountant in case of a customer other than a public company or a",
+      "private company which is a subsidiary of a public company.",
+      ">(d) where the exposure exceeds ten Accounts duly audited by: million rupees (i) a practicing chartered accountant; or",
+      ">>(ii) a practicing cost and management accountant in case of customer other than a public company or a private company which is a subsidiary of a public company.",
+      "(6) In case the customer is an individual, the modaraba shall obtain documentary evidence of the source of income/funds of the customer such as wealth statement, statement of assets and liabilities or any other document as may be considered appropriate by the modaraba.",
+      "(7) A modaraba shall, before providing any finance (including renewal, enhancement and rescheduling or restructuring), ensure that the application for finance is accompanied with a “Customer’s Basic Fact Sheet” as prescribed in Schedule-II.",
+      "(8) A modaraba shall ensure that the information requested in the basic fact sheet is provided by the customer under his seal and signature."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Linkage between equity of the customer and total exposure from financial institutions",
+     "page": 8,
+     "text": [
+      "A Modaraba while taking an exposure shall not provide finance if the total exposure availed by the customer from financial institutions exceeds 10 times of the equity of the customer as disclosed in the latest financial statements of the customer:",
+      "Provided that the fund-based exposure of a customer shall not exceed 4 times of its equity as disclosed in the customer’s latest financial statements, the above limit of 4 times of equity shall not be applicable on exposure to financial institution:",
+      "Provided further that where the equity of the customer is negative and the customer has injected fresh equity during its current accounting year, it will be eligible to obtain finance up to 4 times of the fresh injected equity, subject to the condition that the customer shall plough back at least 80% of the net profit each year until such time that it is able to avail finance without this relaxation.",
+      "Explanation: - For the purposes of this regulation, -",
+      ">>(i) the expression “equity of the customer” includes paid-up capital, general reserves, balance in share premium account, reserve for issue of bonus shares and retained earnings/ accumulated losses, revaluation reserves on account of fixed assets and subordinated loans.",
+      ">>(ii) revaluation reserves will remain part of the equity for first three years only, from the date of asset revaluation, during which time the customer will strengthen its equity base to enable it to avail facilities without the benefit of revaluation reserves provided that if a customer gets fresh revaluation during the three years’ period, the customer will be allowed the benefit from that revaluation, to the extent of increase in revaluation reserves, but restricting the benefit of such incremental value to three years only. If after three years, the customer again gets revaluation of the assets with resultant addition in their value, the benefit of such revaluation may also be allowed for the next three years, again to the extent of increase in revaluation reserves;",
+      ">>(iii) for a loan to be classified as subordinated loan, is shall meet the following conditions namely: -",
+      ">(a) subordinated loan shall be unsecured and sub-ordinate to modaraba’s indebtedness; and",
+      ">(b) sub-ordinated loan shall be documented by a formal subordination agreement between the provider of the loan and the customer that the loan is subordinate to modaraba claim."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Financial indicators of the borrowers",
+     "page": 9,
+     "text": [
+      "__ (1) At the time of allowing fresh exposure or enhance or renewal, the Modaraba shall ensure that the current assets to current liabilities ratio of the client is not lower than such ratio as may be required under the credit policy of the Modaraba.",
+      "(2) Modarabas shall prescribe the minimum current ratio under the credit policy keeping in view the quality of the current assets, nature of the current liabilities, nature of industry to which client belongs to, average size of current ratio of that industry, appropriateness of risk mitigants available to the Modarabas and the credit policy of Modaraba duly approved by the Board of Directors of the Modaraba Company, shall emphasize higher credit standards and provide full guidance to the management about the current ratio requirements for various categories of clients and corresponding risk mitigates etc. acceptable to the Modarabas."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Margin against finance",
+     "page": 9,
+     "text": [
+      "(1) Save as otherwise provided in sub- regulation (2) of this regulation, a modaraba shall apply such minimum margin requirements against finance as approved by its Board of directors.",
+      "(2) A modaraba shall comply with the following minimum margin requirements: -",
+      "Shares of listed companies 30% of their current market value. A modaraba shall monitor the margin on at least weekly basis and shall institute a robust top-up and automatic sell-out process at 25% and 50% erosion in the margin held respectively. A modaraba may choose different percentages on the basis of the documented credit policy approved by their Board.",
+      "Listed TFCs and Sukuk Exposure against listed TFCs and Sukuk which are rated ‘A’ (or equivalent) or above by a credit rating agency shall be subject to a minimum margin of 10% Exposure against listed TFCs and Sukuk rated ‘A-’ and ‘BBB’ shall be subject to a minimum margin of 20%.",
+      "Bank deposits or Certificates of 15% Deposit of NBFCs or DFIs and COM issued by a modaraba with minimum credit rating of A- by a credit rating agency registered with the Commission.",
+      "Government backed securities 10%",
+      "Pledge of trading stocks 25%",
+      "Hypothecation of trading stocks 50%",
+      "(3) All guarantees provided shall be for a specific amount and expiry date and shall contain claim lodgment date and shall be backed by 100% realizable securities except that in the case of performance bonds, bid bonds and mobilization advance where the condition of 100% cover of realizable securities, may be relaxed up to 50% provided that modarabas hold at least 20% of the guaranteed amount in the form of liquid assets as security."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Requirements on certain types of transactions",
+     "page": 10,
+     "text": [
+      "__ A modaraba shall not:-",
+      ">>(i) provide a finance against equity and debt security issued by it or its group companies;",
+      ">>(ii) provide finance against unlisted debt security and unlisted equity security;",
+      ">>(iii) provide finance to any company against equity and debt security of that company or group companies of that company;",
+      ">>(iv) provide finance against shares in physical form of a listed company;",
+      ">>(v) take exposure against unsecured debt security or instrument, nonrated debt security or instrument and debt security or instrument rated below A- by a credit rating agency registered with the Commission:",
+      "Provided that a modaraba may take exposure against unsecured debt security issued by scheduled banks rated A- and above by a credit rating agency registered with the Commission.",
+      ">>(vi) provide finance against shares of the sponsor or major shareholders or certificate holders (issued in their own name or in the name of their close relatives) of a financial institution;",
+      ">>(vii) hold shares on aggregate basis, whether as pledgee, or absolute owner, of an amount exceeding 15% of the paid-up share capital of that company or 15% of its own equity, whichever is less; (viii) provide finance to its modaraba company, major shareholders, chief executives, directors, key executives, firms or companies in which it or any of the chief executive, directors, key executives, or their close relatives, as defined in the Companies Act, 2017 are interested as a partner, director, guarantor or major shareholder:",
+      "Provided that finance extended to employees of a modaraba as a part of employee service policy duly approved by the board of directors shall not fall in this category;",
+      ">>(ix) allow finance on the guarantee of chief executive, directors, key executives or major shareholders, or by their close relatives;",
+      ">>(x) allow finance to any person for speculative purposes;",
+      ">>(xi) make investment to form a subsidiary company except with the prior approval of the Commission;",
+      ">>(xii) hold, deal or trade in speculative or risky real estate except where specified by the Commission by notification in the official Gazette:",
+      "Provided that a modaraba may hold, deal or trade in real estate for development or construction purposes, where such a purpose or objective is provided in the approved prospectus of a modaraba; {fn:11-4}",
+      "(xiii) allow unsecured finances or finances that are not backed by bank guarantees:",
+      "Provided that the bank providing the guarantee shall have a minimum investment grade credit rating;",
+      ">>(xiv) make or hold investments in listed securities other than its own name; and",
+      ">>(xv) hold its investments in listed securities physically and all the investment in listed securities shall be credited in to its CDC account."
+     ],
+     "fn": [
+      {
+       "n": "11-4",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022: In regulation (9), for the clause (xii), the following is deleted and substituted; (Deleted) (xii) hold, deal or trade in real estate except for the use of the modaraba itself or where specified by the Commission by notification in the official gazette: Provided that properties acquired by a lending modaraba in satisfaction of its claims shall be disposed of within a maximum period of three years from the date of acquisition."
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Investment in the shares of un-listed company",
+     "page": 11,
+     "text": [
+      "_ Modarabas may make",
+      "investment in shares of unlisted company, subject to fulfillment of the following conditions, namely: -",
+      ">>(i) total exposure in such companies, does not exceed 5% of the equity of the modaraba as disclosed in the latest financial statements;",
+      ">>(ii) the directors of the modaraba company have no direct or indirect interest in the investee company; and",
+      ">>(iii) the investee company must have operational track record of three profitable consecutive years preceding the decision:",
+      "Provided that the Commission may, on an application by the modaraba company, relax the above conditions where a modaraba is engaged in venture capital financing, as set out in its approved prospectus. {fn:12-5}"
+     ],
+     "fn": [
+      {
+       "n": "12-5",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022: In regulation 10, in clause (iii) for the full stop at the end a colon is substituted and thereafter the proviso is inserted."
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Regulations for housing finance for individual",
+     "page": 12,
+     "text": [
+      "__ (1) Modarabas with the prior approval of the Registrar may extend housing finance facilities to its customers and the maximum per party limit in respect of housing finance by a modaraba shall be Rs.50 million: {fn:12-6}",
+      "Provided that the total housing finance portfolio of the Modaraba shall not increase 10% of the total portfolio of the Modaraba. {fn:12-7}",
+      "(2) In case of housing finance services, a modaraba shall, -",
+      ">(a) determine the housing finance limit, both in urban and rural areas, in accordance with its internal credit policy, credit worthiness and repayment capacity of the customers;",
+      ">(b) in case of housing finance to an individual, ensure that the total monthly amortized payment of all finance inclusive of housing finance shall not exceed 50% of the net disposable income of the prospective customer;",
+      ">(c) not provide finance for purchase of land/plots only. All housing finance shall be extended for the purchase of land/plot and/or construction thereupon. The sanctioned finance limit, assessed on the basis of repayment capacity of the customer, value of land/plot and cost of construction on it etc., shall be disbursed in tranches, i.e. up to a maximum of 50% of the finance limit can be disbursed for the purchase of land/plot, and the remaining amount be disbursed for construction thereupon. The modaraba shall take a realistic construction schedule from the customer before allowing disbursement of the initial finance limit for the purchase of land/plot:",
+      "Provided that a modaraba may provide housing finance for construction of houses against the security of land/plot already owned by their customers provided that the modaraba shall ensure that the finance is utilized strictly for the construction purpose;",
+      ">(d) the maximum Loan-to-Value ratio shall not be more than 85%;",
+      ">(e) extend finance up to any tenor up to 20 years subject to a maximum tenor that corresponds with the customer achieving the age of 60 as defined in its duly approved credit policy and keeping in view the maturity profile of its assets & liabilities;",
+      ">(f) ensure that a charge is created over every property financed by it by way of an equitable or registered mortgage;",
+      ">(g) either engage professional expertise or arrange sufficient training for their concerned officials to evaluate the property, assess the genuineness and integrity of the title documents, etc.;",
+      ">(h) devise a mechanism to monitor conditions in the real estate market (or other relevant product market) and ensure that its policies are aligned to current market conditions; and",
+      ">(i) arrange for the takaful of mortgaged property from approved takaful companies, to the extent of the finance."
+     ],
+     "fn": [
+      {
+       "n": "12-6",
+       "text": "In regulation 11, in sub-regulation (1), for the expression “20 million” the expression “50 million” is substituted; and"
+      },
+      {
+       "n": "12-7",
+       "text": "For the full stop at the end a colon is substituted and thereafter the proviso is added."
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Limit on aggregate liabilities of a Modaraba",
+     "page": 13,
+     "text": [
+      "(1) Aggregate liabilities, excluding contingent liabilities and security deposits of a modaraba which is not involved in the issuance of COM shall not exceed ten times of its equity.",
+      "(2) Contingent liabilities of a COM issuing modaraba shall not exceed the limits prescribed below:",
+      "Credit Rating Maximum Limit (on top of the ten times requirement listed above)",
+      "AA- and above 2 times of equity",
+      "A- to A+ 1.5 times of equity",
+      "BBB+ 0.5 times of equity",
+      "Provided that the following shall not constitute contingent liabilities for the purpose of this regulation:",
+      ">(a) Non-fund based finance to the extent covered by liquid assets;",
+      ">(b) Non-fund based finance where the payment is guaranteed by the Federal Government, Provincial Government, financial institution rated AA or above by a credit rating agency; and",
+      ">(c) claims other than those related to provision of finance (fund based or non-fund based) to the modarabas’ constituents, where the probability of conversion of these claims into liabilities is remote in the view of the auditor."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Creation and building up of reserve",
+     "page": 13,
+     "text": [
+      "(1) Every modaraba may create reserve fund to which shall be credited an amount of its after-tax profits or any part thereof.",
+      "(2) A modaraba, which is not compliant with minimum equity requirements provided in these regulations, shall create reserve fund to which shall be credit an amount equivalent to one hundred per cent of its annual after-tax profit till such time the minimum equity requirements are complied with. {fn:13-8}",
+      "Explanation.__ Issuance of bonus shares may be made from the above- mentioned reserves since such bonus shares will increase the paid-up capital."
+     ],
+     "fn": [
+      {
+       "n": "13-8",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022: (Deleted) (a) an amount not less than 20% and not more than 50% of its after-tax profits till such time the reserve funds equal the amount of the paid-up capital; and (b) thereafter a sum not less than 5% and not more than 20% of its after-tax profits. Explanation. __ Issuance of bonus shares may be made from the above- mentioned reserves or the reserves available after appropriation made under clause (a) or (b) whichever may be the case and since such bonus shares will increase the paid-up capital, the modaraba shall transfer further amounts to the reserves in order to comply with condition of clause (a)."
+      }
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Classification and Provisioning for non-performing assets",
+     "page": 14,
+     "text": [
+      "(1) A financial",
+      "services modaraba shall observe the criteria for classification of its assets and provisioning as provided in Schedule-III:",
+      "Provided that the Modarabas engaged in other forms of businesses i.e. trading, manufacturing or any form of business other than the business of financial services, shall devise a policy duly approved by the board of directors for classification and provisioning of non-performing receivables and follow such policy for classification and provisioning of nonperforming receivables.",
+      "(2) In addition to time-based criteria, subjective evaluation of performing and non-performing finance shall be made for risk assessment and where considered necessary the category of classification determined on the basis of the aforementioned time-based criteria shall be further downgraded:",
+      "Provided that such evaluation shall be carried out on the basis of adequacy of security inclusive of its realizable value, cash flow of the customer or lessee, operations in the account and records covering advances and credit worthiness of the customer or lessee.",
+      "(3) The status of classification of a rescheduled or restructured non-performing finance shall be changed only when the terms and conditions of the rescheduled or restructured finance are fully met for a period of at least six months (excluding grace period, if any) from the date of such rescheduling or restructuring and when at least 20% of the outstanding amount (principal and profit) is recovered in cash:",
+      "Provided that the above condition of six months’ retention period shall not apply if the customer repays or adjusts at least 50% of the restructured or rescheduled loan amount (principal and profit) in cash either at the time of restructuring agreement or later-on during the grace period, if any.",
+      "(4) A modaraba shall ensure that the status of classification and provisioning of a rescheduled or restructured non-performing facility is not changed in its reports to the Registrar merely due to rescheduling or restructuring of a finance and rescheduled or restructured finance shall be reported to the Credit Information Bureau as such and not as default.",
+      "(5) Where the customer subsequently defaults (either on principal rental or profit) after the rescheduling or restructuring of the non-performing finance, the modaraba shall classify the finance in the same category as it was in at the time of rescheduling or restructuring.",
+      "(6) Modaraba may further downgrade the classification after taking into account the applicable criteria stated in Schedule-III.",
+      "(7) At the time of rescheduling or restructuring, a modaraba shall reconsider, reexamine and record in detail the viability of the project or business and shall accordingly obtain a revised business plan, latest CIB report and endeavor to obtain additional security to protect its interests.",
+      "(8) A modaraba may take benefit of realizable value of assets held as collateral against non-performing finance as per criteria given in Schedule-IV.",
+      "(9) Subjective evaluation of investment portfolio and other assets shall be carried out by the modaraba. Classification of such assets and provisioning required against them shall be determined by keeping in view the risks involved and the requirements of the international accounting standards as notified by the Commission under Section 225 of the Companies Act, 2017 (XIX of 2017) and the technical releases issued by the Institute of Chartered Accountants of Pakistan, from time to time.",
+      "(10) A modaraba shall review, at least on a quarterly basis, the recovery of their finance, portfolio and shall properly document the evaluations so made:",
+      "Provided that shortfall in provisioning, if any, determined as a result of quarterly assessment, shall immediately be provided in the books of accounts by the modaraba.",
+      "(11) The external auditors as a part of the annual audit of the modaraba shall verify that all requirements under these regulations or any other circular issued by the Commission/Registrar for classification of assets and determination of provisions required against them have been complied with."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Reversal of Provisioning",
+     "page": 15,
+     "text": [
+      "Where there is a cash recovery, other than rescheduling or restructuring, a modaraba may reverse specific provisioning held against classified assets to the extent that the remaining outstanding amount of the classified asset is covered by the minimum provisioning required under that particular classified category of assets."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Overdue, default and recovery",
+     "page": 15,
+     "text": [
+      "__ (1) Every modaraba shall furnish the Registrar Modaraba a list of defaulters on prescribed format, on quarterly basis. A list of rescheduled and restructured facilities shall also be submitted to the Registrar Modaraba in the similar manner on prescribed format.",
+      "(2) A person, whether natural or juristic, shall be deemed to be defaulter if he (or his dependent family members or concerns owned or controlled by him or concerns in which he or his dependent family members are major shareholders) has failed to pay off or liquidate any fiduciary obligation towards any modaraba in Pakistan as was agreed upon or required under the terms and conditions of availment of the financing facility or to do or perform an act agreed to or undertaken in writing to be done or performed by him and such failure has continued for a period of one year from the date on which he was required to make the payment or to do or perform the act.",
+      "(3) Every modaraba shall nominate an officer as recovery officer or constitute a section as recovery section depending upon the magnitude of defaults.",
+      "(4) Besides the measures presently instituted by each modaraba, the modaraba shall set quarterly recovery targets as a percentage of the overdue obligations and communicate the same on quarterly basis to the Registrar Modaraba.",
+      "(5) A progress report on the recovery in relation to the targets shall be submitted to the Registrar Modaraba on quarterly basis. Modaraba shall also be required to explain deficiency if any, in meeting the targets and the strategies evolved with a view to ensuring achievement of subsequent targets.",
+      "(6) Wherever considered legally appropriate by the modaraba, cases of default may be referred to the Courts and the list of such cases and progress of recovery shall also be sent to the Registrar Modaraba on a quarterly basis."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Resource Mobilization",
+   "sections": [
+    {
+     "no": "17",
+     "title": "Certificates of Musharakah (COM)",
+     "page": 16,
+     "text": [
+      "(1). - A financial services modaraba, having enabling clause for resource mobilization in its prospectus, with the approval of the Commission, may raise funds through issuance of COM after complying with the following requirements, namely: -",
+      ">(a) the modaraba is undertaking activities as a financial services modaraba for a minimum period of three years and has been, as per the audited accounts, making and distributing profits for last two years;",
+      ">(b) the modaraba meets the minimum equity requirement of rupees five hundred million;",
+      ">(c) the modaraba complies with the capital adequacy ratio as specified in Schedule VI;",
+      ">(d) the modaraba, or any other modaraba in which its sponsors had a stake of more than 10%, has not defaulted on, or obtained write off on finance availed from any financial institution or investor in any of its redeemable capital instruments within the last five years;",
+      ">(e) the operations of the modaraba and the conduct of its modaraba company and its directors with respect to the modaraba has been in accordance with law;",
+      ">(f) the modaraba has been assigned a credit rating of minimum “A-” from a credit rating agency registered with the Commission: -{fn:16-9}",
+      "Provided that a modaraba that has already raised funds through COM on the date of notification of these regulations, shall-",
+      ">>(i) gradually enhance its minimum equity to an amount as provided in clause (b), within a period of three years from the date of notification of these regulations;",
+      ">>(ii) submit to the Commission, a time-bound action plan with quarterly targets, with approval of its board of directors;",
+      ">>(iii) ensure that the said quarterly targets are met in a timely manner; and",
+      ">>(iv) ensure maintenance of minimum credit rating as provided in clause (f), within a period of three years from the date of notification of these regulations.",
+      "Provided further that in cases of non-compliance with the conditions as stipulated under the first proviso, the permission granted to the modaraba to raise funds through COM shall be liable for cancellation; and",
+      ">(g) any other requirements as may be imposed by the Commission.",
+      "(2) A modaraba which is in compliance with the provisions of this regulation shall make an application to the Commission along with the evidence of compliance with this regulation.",
+      "(3) If the Commission is satisfied that the modaraba fulfills the requirements prescribed in sub regulation (1), it may grant permission to such modaraba to issue COM.",
+      "(4) A modaraba, which has been granted permission to issue COM, shall comply with the following requirements, namely: -",
+      ">(a) the modaraba shall raise funds by way of issuing “certificate of Musharakah” or any other modes or instruments approved by the Commission only;",
+      ">(b) the modaraba shall at all times maintain a minimum credit rating of “A” and the same shall be updated at least once every year:",
+      ">(c) the modaraba shall publish its credit rating in financial statements, website, advertisements and brochures published in relation to the promotion of its business;",
+      ">(d) the COM shall be registered in the name of the person to whom it is issued;",
+      ">(e) the maturity period of COM shall not be less than three months:",
+      "Provided that the COM shall only be redeemable after 45 days, except in exceptional circumstances, of its issuance on the terms and conditions laid out in the COM agreement or product disclosure statement;",
+      ">(f) the COM issued by a modaraba shall be caped in the following manner:",
+      "Credit Rating Total COM raised from all COM raised from individuals, sole sources including COM proprietors, provident or gratuity raised from individuals, sole funds, trusts, charitable proprietors, provident or institutions and the companies gratuity funds, trusts, registered under section 42 of the charitable institutions and Companies Act, 2017 (XIX of the companies registered 2017) under section 42 of the Companies Act, 2017 (XIX of 2017)",
+      "AA- and above 5 times of equity 4 times of equity",
+      "A- to A+ 3 times of equity 2 times of equity (g) at least 15 percent of the outstanding funds raised through COM by the modaraba, excluding the COMs held by financial institutions, shall be invested at all times in Shariah compliant government securities, or instruments or investments as notified by the Commission. Such investments or instruments shall be valued at cost or market value whichever is lower and any shortfall in the value of such investments or instruments shall be immediately made-up:",
+      "Provided that these instruments or investments are for the benefit of the COM holders only and these instruments shall be kept un-encumbered and disclosed separately in the financial statements of the modaraba: {fn:18-10}",
+      "Provided further that this requirement shall also be applicable to a modaraba whose permission to issue COM has been suspended or cancelled till the time all the COM have been repaid.",
+      ">(h) the modaraba shall report to the Registrar, on monthly basis the total amount of its outstanding COM and the securities held there against:",
+      "Provided that this requirement shall also be applicable on a COM raising modaraba whose permission to issue COM has been suspended or cancelled till the time all the COMs have been repaid, and the Commission has authorized the removal of the suspension or cancellation;",
+      ">(i) the modaraba shall provide profit on raising of COM which may be different from different volumes and maturities of COMs provided that uniformity is observed within each category:",
+      "Provided that COMs issued to listed companies, financial institutions, recognized charitable trusts and statutory bodies shall be exempted from compliance with the provision of clause (i) of sub regulation (4); and",
+      ">(j) The modaraba shall, prior to the launch and any subsequent amendments, provide information to the Commission on COM scheme along with product disclosure statement:",
+      "Provided that the modaraba shall place COM scheme along with its salient features on its website for information of the general public and it shall be the responsibility of the modaraba to regularly update its website in this regard.",
+      "Provided further that the issuance of the COM shall be governed by the terms and conditions devised by the Modaraba, which shall include the profit-sharing mechanism and rights and privileges of both parties and must be agreed upon by the customer in writing:",
+      "Provided also that a modaraba that has already raised funds through COM on the date of notification of these regulations, shall ensure compliance within a period of three month from the date of notification."
+     ],
+     "fn": [
+      {
+       "n": "16-9",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022: In sub-regulation (1), in clause (f), for the semi colon a colon is substituted and thereafter the new provisos are added."
+      },
+      {
+       "n": "18-10",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022: In sub-regulation (4), in clause (g), in the second proviso, for the full stop a colon is substituted and thereafter and a new proviso is added."
+      }
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Advertisement by COM issuing Modaraba",
+     "page": 19,
+     "text": [
+      "(1) The modaraba shall seek prior approval of the Commission for any invitation for investment in COM either through advertisement by print, electronic or social media outlets or any other form or channel:",
+      "Provided that the application for seeking approval of the Registrar shall have deemed to be approved, if no reply is received from the Commission within ten working days from the date of receipt of complete application.",
+      "(2) All advertisements for inviting persons to participate in a modaraba’s COM scheme shall at the minimum contain the following information, -",
+      ">(a) credit rating of the modaraba, the name of the rating agency, the date on which the credit rating was issued;",
+      ">(b) minimum and maximum tenor of the COM; and",
+      ">(c) expected profit rate to be paid on the COM.",
+      "(3) All advertisements for inviting a person to invest in a COM scheme of a modaraba must contain the following disclaimer: “The COM of modaraba are subject to various risks including credit and liquidity risk. The prospective investors are advised to conduct their own due diligence prior to investing in COM of the modaraba”."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Suspension and cancellation of permission to issue COM",
+     "page": 19,
+     "text": [
+      "(1) The permission to issue COM by a modaraba shall automatically stand suspended with immediate effect, if the modaraba becomes non-compliant with any or all of the following conditions:",
+      ">(a) its equity falls below the minimum equity required as specified in these regulations;",
+      ">(b) its capital adequacy ratio is less than the minimum ratio as prescribed in these regulations; and",
+      ">(c) its credit rating drops below the minimum rating stipulated in these regulations.",
+      "Explanation: For the purposes of this regulation, the expression “suspension of permission to issue COM” means that the modaraba shall not issue any fresh COM provided the modaraba may rollover existing COM only on the written request of the COM holder.",
+      "(2) If the modaraba is able to remove the non-compliance (s) within a period of six months, it shall submit an application, supported by credible documentary evidence, requesting for removal of the suspension. The modaraba shall resume issuing new COM only after the Commission permits it to do so.",
+      "(3) If the modaraba remains non-compliant with any or all of the conditions mentioned in these regulations for a period of more than six months, the permission to issue COM shall stand automatically cancelled with immediate effect and the modaraba shall immediately cease to roll-over existing COM and the existing COM shall be repaid as and when they become due:",
+      "Provided that the existing financial services modarabas having a valid permission to issue COM which are non-compliant with the requirements as given clauses (b), (e), and (f) of sub-regulation (4) of regulation 19 and clauses (a), (b) and (c) of sub-regulation (1) of this regulation shall comply with these requirements within one year of the coming in to force of these regulations:",
+      "Provided further that during the interim period of one year, the total COMs of such modarabas shall be capped at the existing level i.e. the outstanding COM at the date of coming in to force of these regulations."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Maintenance of Capital Adequacy Ratio (“CAR”)",
+     "page": 20,
+     "text": [
+      "A COM issuing modaraba",
+      "shall be required to maintain CAR of eight percent for the first two years from coming in to force of these regulations and ten percent for subsequent years as per the criteria given in Schedule-VI."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Asset liability management system",
+     "page": 20,
+     "text": [
+      "The board of directors of a modaraba company shall approve a policy for effective monitoring of the modaraba’s assets and liabilities profiles for managing its liquidity risks by containing mismatches (running total) in maturity of assets and liabilities across all time bucket by establishing internal prudential limits."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Miscellaneous",
+   "sections": [
+    {
+     "no": "22",
+     "title": "Compliance of the Listed Companies (Code of Corporate Governance) Regulations, 2019",
+     "page": 20,
+     "text": [
+      "Every Modaraba Company and modaraba managed by it shall comply with the requirements of the Companies (Code of Corporate Governance) Regulations, 2019"
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Submission of information by a Modaraba",
+     "page": 20,
+     "text": [
+      "Every modaraba shall submit such information including periodical statements, reports, statistics and data in such form and manner and within such time as may be required by the Registrar from time to time."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Code of conduct",
+     "page": 21,
+     "text": [
+      "Every modaraba shall acquire and maintain membership of an association constituted in consultation with the Registrar Modaraba and modarabas shall follow the code of conduct prescribed by the said association."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Prevention of money laundering, terrorist financing and other illegal trades",
+     "page": 21,
+     "text": [
+      "(1) The modarabas shall emphasize enhanced focus towards high risk areas and taking a risk based approach towards combating money laundering and financing of terrorism and shall comply with the Securities and Exchange Commission of Pakistan (Anti-Money Laundering and Countering Financing of Terrorism) Regulations, 2020, issued by the Commission and other laws, rules, regulations, directives or guidelines issued from time to time.",
+      "(2) All modarabas shall ensure compliance with all the requirements of AntiMoney Laundering Act, 2010, terrorist financing and other illegal trades and abide by such laws, directives and circulars as may be issued by the Federal Government or the Registrar to safeguard the modaraba against involvement in money laundering, terrorist financing and other illegal trades activities.",
+      "(3) In addition to the requirements of sub-regulation (1), a modaraba shall comply with the following conditions:",
+      ">(a) it shall determine the true identity of the prospective customer or investor before extending its services and care shall be taken to establish beneficial ownership of all accounts and those using safe custody; For the purpose of this regulation, customer means a person who has placed funds with the modaraba or has obtained finance from a modaraba or has any business relationship with the modaraba;",
+      ">(b) it shall accept money from a customer only after ensuring that an account has been opened in the name of the customer using the account opening form developed by the respective industry associations in consultation with the Registrar;",
+      ">(c) it shall establish effective procedures for obtaining identification from new customers and devise a policy to ensure that business transactions are not conducted with persons who fail to provide evidence of their identity;",
+      ">(d) it shall conduct its business in conformity with the Rules and these regulations and shall not offer services or provide any assistance in transactions which, in the opinion of the modaraba, are associated with illegal activities or relating to terrorist financing from legitimate or illegal activities;",
+      ">(e) it shall establish effective procedures for monitoring of customer accounts on a regular basis, checking identities and bona-fide of remitters and beneficiaries of transactions and retain record of transactions; and",
+      ">(f) that it shall not make payment or receive amounts in cash exceeding Rs.50,000. All transactions beyond threshold must be executed through crossed cheque or banking instruments:",
+      "Provided that the above limit shall not be apply to cash payments made for repayment of finance by an existing customer.",
+      "Provided further that the modaraba shall record reasons and maintain separate record of cash receipts and payments, exceeding Rs. 50,000.",
+      "(4) All transactions into or from the account maintained with the modaraba which are not usual transactions shall be thoroughly scrutinized and properly investigated by the Modaraba requiring appropriate action as per Anti-Money Laundering Regulatory framework."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Procedure for approval for appointment/re-appointment of directors and chief executives",
+     "page": 22,
+     "text": [
+      "(1) For the purpose of section 11 of the Modaraba Companies and Modaraba",
+      "(Floatation and Control) Ordinance, 1980 (XXXI of 1980), read with clause (e) of sub-rule (2) of rule 3 of the Modaraba Companies and Modaraba Rules, 1981, a modaraba company shall follow the following procedure for obtaining approval of appointment/reappointment or any change of its directors or chief executive, -",
+      ">(a) In case of casual vacancy in the office of chief executive, one of the directors shall be immediately appointed by the board of directors of the modaraba company as an acting chief executive, who shall perform the functions till the appointment of regular chief executive is approved by the Registrar. Intimation in this regard shall be sent to the Registrar immediately;",
+      ">(b) in case of election of directors in the annual or extraordinary general meeting, the modaraba company, within 10 days before the date of the meeting in which election of directors is to be held, shall submit an application, seeking approval of the Registrar for the individuals seeking to contest the elections whether they are retiring directors or otherwise;",
+      ">(c) in case of occurrence of any casual vacancy, the modaraba company must submit an application seeking approval for appointment of chief executive or director, at the earliest but not later than ninety days of the occurrence of any casual vacancy; {fn:22-11}",
+      ">(d) the applications mentioned in clause (b) and (c) above shall be submitted in compliance with the requirements of Schedule-I and be accompanied by information and documents required therein; and",
+      ">(e) any deficiency or shortcoming in the information or documents submitted by the modaraba company to the Registrar shall be rectified by the modaraba company within 14 days of the issue of the letter by the Registrar informing the modaraba company of the deficiency or shortcoming:",
+      "Provided that where the modaraba company does not remove the deficiency or shortcoming, the Registrar may close the matter. (2) In case the board of directors of a modaraba company decides to remove its chief executive before the expiration of his term of office through the defined statutory process or the chief executive decides to tender his resignation before the completion of his term of office or replacement of chief executive on completion of his term, the modaraba company shall inform the Registrar at least one month before the decision along-with reasons for the same:",
+      "Provided that the modaraba company shall, within this one-month period, submit an application complete in all respects, for obtaining approval for appointment of the new chief executive."
+     ],
+     "fn": [
+      {
+       "n": "22-11",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022: In sub-regulation (1), in clause (c), for the expression “within 10” the expression “at the earliest but not later than ninety” is substituted."
+      }
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Conditions to contest the election of the directors and approval",
+     "page": 23,
+     "text": [
+      "On the expiry of term, only those persons shall be eligible to contest the election of directors, who meet the fit and proper criteria."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Removal of records",
+     "page": 23,
+     "text": [
+      "No modaraba shall remove from Pakistan to a place",
+      "outside Pakistan, any of its records or documents relating to its business without the prior permission of the Registrar."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Appointment of special auditors",
+     "page": 23,
+     "text": [
+      "(1) The Registrar may require special audit of any modaraba in addition to statutory audit, inquiry/ inspection by the Registrar, at any time and may appoint special auditors, the cost of which shall be borne by the modaraba.",
+      "(2) The Registrar may provide terms of reference to the special auditors before the commencement of the special audit."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Restriction on appointment as chief executive in more than one modaraba companies",
+     "page": 23,
+     "text": [
+      "No person can represent more than one modaraba company as chief executive."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Places of business",
+     "page": 23,
+     "text": [
+      "(1) The Modaraba shall report to the Commission, details of opening of a new branch/place of business, 15 days prior to opening of the subject branch. The Modaraba shall submit the following information:",
+      ">(a) Number of existing branches;",
+      ">(b) Exact location of the branch;",
+      ">(c) Business prospects for opening the branch;",
+      ">(d) List of products and services to be offered;",
+      ">(e) System of supervision and control;",
+      ">(f) Number of employees to be posted; and",
+      ">(g) Name, number and location of branches of other Modarabas in the near vicinity.",
+      ">(h) Name of Branch Manager, qualifications, experience and contact details (2) The Modaraba shall report closure of a branch to the Commission with specific reasons, at least 90 days prior to the closure of the branch.",
+      "(3) The Modaraba while closing of its branch shall submit to the Commission, a final statement comprising complete record of the branch, at least 21 days prior to closure of the branch.",
+      "(4) The Modaraba while closing of its branch shall ensure that the public is informed through a public notice in a local daily newspaper at least 30 days prior to closure of the branch and the information of the same shall also be visibly displayed at the respective branch at least 30 days prior to closure of the branch. The copy of the published public notice shall also be submitted to the Commission within two days of publication.",
+      "(5) The Modaraba while closing of its branch shall inform the stakeholders in writing about future correspondence address/mechanism and transfer their relevant record to the Head Office of Modaraba or nearest branch as deemed appropriate.",
+      "(6) The Modaraba may relocate its existing branch within the same city. However, they shall report to the Commission 15 days prior to shifting of the existing branch to a new location.",
+      "(7) The Commission may inspect the branches of Modarabas on a regular basis to ensure that their activities are being conducted in accordance with the prevalent regulatory framework.",
+      "(8) The Modaraba shall ensure the following with respect to its branches:",
+      ">(a) Appropriate display of certificate of registration/authorization to conduct its respective business;",
+      ">(b) Properly trained staff/human resource;",
+      ">(c) Security arrangements for the safety of documents and staff;",
+      ">(d) Proper customer support for filling up of applications and completion of documentation;",
+      ">(e) Drop box facility for collection of complaints and grievance redressal system/mechanism for prompt and effective resolution of investors’ complaints; and",
+      ">(f) Product information being offered by the Modaraba at the branch through printed brochures for the information of potential / existing investor.",
+      "(9) A COM raising Modaraba shall ensure the following with respect to its branches:",
+      ">(a) Appropriate and visible display of a valid permission from the Commission to issue COM;",
+      ">(b) Appropriate and visible display of the current credit rating of the modaraba; and",
+      ">(c) Placement of standees written in Urdu language in a clear and concise manner as per Schedule-V, covering the following contents,-",
+      ">>(i) Points to be considered before investing in COM;",
+      ">>(ii) Procedure for Investment in COM; and",
+      ">>(iii) Name of Shariah advisors of the Modaraba.",
+      "(10) The modaraba shall intimate to the Registrar the closure of any of its branches within 15 days.",
+      "(11) The modaraba company shall provide office space to the modaraba but shall not charge rental cost of its registered office place to the Modaraba on any account. {fn:24-12}"
+     ],
+     "fn": [
+      {
+       "n": "24-12",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022: In regulation 31, for sub-regulation (11), the following is deleted and substituted; (Deleted) The management company shall provide space for principal office of the Modaraba free of any charge and substituted as above."
+      }
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Distribution of profit",
+     "page": 25,
+     "text": [
+      "The modarabas may distribute their net annual profits after appropriation to reserve, if any, as stipulated in regulation 13 of these regulations:",
+      "Provided that dividend for any year may be omitted or passed on if the distribution of dividend is un-economical and hence is not in the interest of certificate holders. {fn:25-13}",
+      "Explanation: “Uneconomical dividend” means the dividend below five percent of the face value of the certificate of the Modaraba."
+     ],
+     "fn": [
+      {
+       "n": "25-13",
+       "text": "Amended through S.R.O. 1547 (I)/2022 dated August 15, 2022: In regulation 32, for the expression “shall distribute 90% of” the expression “may distribute” is substituted."
+      }
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Annual Review Meeting",
+     "page": 25,
+     "text": [
+      "(1) Each modaraba shall hold an annual review meeting of its certificate holders in the town where the registered office of the modaraba company is situated, to review performance of the modaraba.",
+      "(2) There will be no voting right of the certificate holders in the annual review meeting.",
+      "(3) For the purpose of notice for the meeting, the provisions relating to notice of the meeting as provided in the Companies Act, 2017 (XIX of 2017) shall mutatis-mutandis apply to the notice issued by the modarabas to the certificate holders for the annual review meeting."
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Minimum holding period of modaraba certificates by Modaraba Company",
+     "page": 25,
+     "text": [
+      "The Commission may specify the holding period of modaraba certificates by a modaraba company along with its related parties in a modaraba to be listed at the time of authorization of such modaraba.",
+      "Explanation: For the purpose of this regulation, the expression “related party” includes modaraba company or any of its directors or individuals, firms or companies in which it or any of its directors is interested as partner, director or guarantor, as the case may be, its chief executive and its major shareholders, including their spouses, parents, and children or to firms and companies in which they are interested as partners, directors or major shareholders of that concern."
+     ]
+    },
+    {
+     "no": "34A",
+     "title": "Penalty",
+     "page": 25,
+     "text": [
+      "{fn:25-14} (1) If any person-",
+      ">(a) refuses or fails to furnish/file any document, return or information which he is required to furnish by or under these regulations; or",
+      ">(b) refuses or fails to comply with any condition(s) imposed under these regulations; or",
+      ">(c) contravenes or otherwise fails to comply with any provision of these regulations,",
+      "The Registrar, may, after giving the person an opportunity of being heard, impose such penalty which may extend to one hundred thousand rupees and, where the contravention is a continuing one, with a further penalty which may extend to one thousand rupees for every day after the first during which such contravention continues.",
+      "(2) Any person aggrieved by an order passed under sub-regulation (1) may, within thirty days of such order, prefer an appeal to the Commission."
+     ],
+     "fn": [
+      {
+       "n": "25-14",
+       "text": "A new regulation namely “34A. Penalty” is inserted."
+      }
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Relaxation of regulations",
+     "page": 26,
+     "text": [
+      "If any difficulty arises in giving effect to any of the provisions of these regulations in a particular case, or class of cases, the Commission may, for reasons to be recorded in writing relax such requirements subject to such conditions as it may deem fit."
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Repeal and savings",
+     "page": 26,
+     "text": [
+      "__ (1) Prudential regulations for modarabas issued vide circular No. 4 of 2004 dated January 28, 2004, hereinafter called as repealed regulations are hereby repealed.",
+      "Provided that repeal of the repealed regulations shall not-",
+      ">(a) revive anything not in force at the time at which the repeal take effect; or",
+      ">(b) affect the previous operation of the repealed regulations or anything duly done or suffered thereunder; or",
+      ">(c) affect any right, privilege, obligation or liability acquired, accrued or incurred under or in respect of the said repealed regulations; or",
+      ">(d) affect any penalty imposed, forfeiture made or punishment incurred in respect of any offence committed against or in violation of the repealed regulations; or",
+      ">(e) affect any inspection, investigation, prosecution, legal proceeding or remedy in respect of any obligation, liability, penalty, forfeiture or punishment as aforesaid, and any such inspection, investigation, prosecution, legal proceedings or remedy may be made, continued or enforced and any such penalty, forfeiture or punishment may be imposed, as if these regulations has not been notified.",
+      "(2) Anything done, actions taken, application received, orders passed, registration granted, notifications issued, proceedings initiated and instituted, prosecutions filed, processes or communications issued and powers conferred, assumed or exercised by the Commission or the Registrar under the repealed regulations, shall, on the coming into operation of these regulations, be deemed to have been validly done, taken, received, passed, granted, issued, initiated or instituted, filed, conferred, assumed and exercised and every action, prosecution or proceeding instituted and every order, directive, notification, circular etc. issued by the Commission shall be deemed to have been initiated, instituted or issued under these regulations and shall be proceeded with to completion and be enforced and have effect accordingly."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure-A",
+   "page": 32
+  },
+  {
+   "title": "Annexure-B",
+   "page": 35
+  }
+ ]
+}

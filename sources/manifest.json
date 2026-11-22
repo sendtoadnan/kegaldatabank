@@ -1840,8 +1840,8 @@
   "enacted": "1984-07-05",
   "status": "repealed",
   "source": {
-   "name": "Consolidated edition supplied by the library's editor (source to be confirmed)",
-   "url": "https://www.secp.gov.pk"
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk/laws/ordinances/"
   },
   "amendedUpTo": "2018-12-26",
   "amendedUpToLabel": "As at 26 December 2018",
@@ -3125,17 +3125,17 @@
    "CRC Rules 2019"
   ],
   "enacted": "2019-11-01",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 1306(I)/2019",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
+  "amendedUpTo": "2024-02-20",
+  "amendedUpToLabel": "Updated till 20 February 2024",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "file": "corporate-restructuring-companies-rules-2019.pdf"
  },
  {
   "id": "private-funds-regulations-2015",
@@ -3487,18 +3487,18 @@
    "Modaraba Rules 1981"
   ],
   "enacted": "1981-01-26",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 83(I)/1981",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpTo": "2024-02-15",
+  "amendedUpToLabel": "Updated up to 15 February 2024",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
   },
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. The Schedules (forms of accounts and prospectus) are not included."
+  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. The Schedules (forms of accounts and prospectus) are not included.",
+  "file": "modaraba-companies-rules-1981.pdf"
  },
  {
   "id": "companies-incorporation-regulations-2017",
@@ -3641,19 +3641,19 @@
    "corporate"
   ],
   "aliases": [],
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 897(I)/2012",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
   "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpToLabel": "As on SECP's website (Rehabilitation of Sick Industrial Units Rules, 1999)",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
   },
   "enacted": "1999-08-03",
-  "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force. The notification number is printed as S.R.O. 897(I)/2012 against the date 3 August 1999; recorded as printed. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force. The notification number is printed as S.R.O. 897(I)/2012 against the date 3 August 1999; recorded as printed. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included.",
+  "file": "companies-rehabilitation-sick-units-rules-1999.pdf"
  },
  {
   "id": "secp-appellate-bench-procedure-rules-2003",
@@ -3668,18 +3668,18 @@
    "Appellate Bench Procedure Rules"
   ],
   "enacted": "2003-07-25",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 734(I)/2003",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
   "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpToLabel": "As on SECP's website (Appellate Bench Procedure Rules, 2003)",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
   },
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included.",
+  "file": "secp-appellate-bench-procedure-rules-2003.pdf"
  },
  {
   "id": "group-companies-registration-regulations-2008",
@@ -4724,5 +4724,864 @@
   "pdfOnly": true,
   "enacted": "2022-11-28",
   "amendedUpTo": "2022-11-28"
+ },
+ {
+  "id": "corporate-restructuring-companies-act-2016",
+  "file": "corporate-restructuring-companies-act-2016.pdf",
+  "title": "Corporate Restructuring Companies Act, 2016",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "act",
+  "unit": "Section",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [
+   "CRC Act 2016"
+  ],
+  "amendedUpToLabel": "Updated till 7 July 2022 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "manual": true
+  }
+ },
+ {
+  "id": "stock-exchanges-demutualization-act-2012",
+  "file": "stock-exchanges-demutualization-act-2012.pdf",
+  "title": "Stock Exchanges (Corporatization, Demutualization and Integration) Act, 2012",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "act",
+  "unit": "Section",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [
+   "Demutualization Act"
+  ],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "manual": true
+  },
+  "pdfOnly": true,
+  "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF."
+ },
+ {
+  "id": "companies-appointment-of-legal-advisers-act-1974",
+  "file": "companies-appointment-of-legal-advisers-act-1974.pdf",
+  "title": "Companies (Appointment of Legal Advisers) Act, 1974",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "act",
+  "unit": "Section",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/acts/",
+   "manual": true
+  },
+  "caution": "Enacted before the Companies Ordinance 1984 and the Companies Act 2017; whether and how far it still applies is to be confirmed."
+ },
+ {
+  "id": "single-member-companies-rules-2003",
+  "file": "single-member-companies-rules-2003.pdf",
+  "title": "Single Member Companies (Registration and Regulation) Rules, 2003",
+  "number": "S.R.O. 1086(I)/2003",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "caution": "Made under the repealed Companies Ordinance 1984; applicability under the Companies Act 2017 is to be confirmed."
+ },
+ {
+  "id": "companies-asset-backed-securitization-rules-1999",
+  "file": "companies-asset-backed-securitization-rules-1999.pdf",
+  "title": "Companies (Asset Backed Securitization) Rules, 1999",
+  "number": "S.R.O. 520(I)/2022",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "Amended to 14 April 2022 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "anti-money-laundering-rules-2008",
+  "file": "anti-money-laundering-rules-2008.pdf",
+  "title": "Anti-Money Laundering Rules, 2008",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "pdfOnly": true,
+  "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF."
+ },
+ {
+  "id": "brokers-agents-registration-rules-2001",
+  "file": "brokers-agents-registration-rules-2001.pdf",
+  "title": "Brokers and Agents Registration Rules, 2001",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "pdfOnly": true,
+  "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF."
+ },
+ {
+  "id": "credit-rating-companies-rules-1995",
+  "file": "credit-rating-companies-rules-1995.pdf",
+  "title": "Credit Rating Companies Rules, 1995",
+  "number": "S.R.O. 319(I)/2002",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "companies-audit-cost-accounts-rules-1998",
+  "file": "companies-audit-cost-accounts-rules-1998.pdf",
+  "title": "Companies (Audit of Cost Accounts) Rules, 1998",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "caution": "Made under the repealed Companies Ordinance 1984; applicability under the Companies Act 2017 is to be confirmed."
+ },
+ {
+  "id": "companies-appointment-of-trustees-rules-1973",
+  "file": "companies-appointment-of-trustees-rules-1973.pdf",
+  "title": "Companies (Appointment of Trustees) Rules, 1973",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "caution": "Made under the repealed Companies Ordinance 1984; applicability under the Companies Act 2017 is to be confirmed."
+ },
+ {
+  "id": "companies-profits-workers-participation-rules-1971",
+  "file": "companies-profits-workers-participation-rules-1971.pdf",
+  "title": "Companies Profits (Workers' Participation) Rules, 1971",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "caution": "Made under an earlier law; applicability today is to be confirmed. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+  "pdfOnly": true
+ },
+ {
+  "id": "companies-share-capital-variation-rules-2000",
+  "file": "companies-share-capital-variation-rules-2000.pdf",
+  "title": "Companies (Share Capital Variation in Rights and Privileges) Rules, 2000",
+  "number": "S.R.O. 599(I)/2000",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "caution": "Made under the repealed Companies Ordinance 1984; applicability under the Companies Act 2017 is to be confirmed. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+  "pdfOnly": true
+ },
+ {
+  "id": "public-companies-employees-stock-option-scheme-rules-2001",
+  "file": "public-companies-employees-stock-option-scheme-rules-2001.pdf",
+  "title": "Public Companies (Employees Stock Option Scheme) Rules, 2001",
+  "number": "S.R.O. 300(I)/2001",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "caution": "Made under the repealed Companies Ordinance 1984; applicability under the Companies Act 2017 is to be confirmed."
+ },
+ {
+  "id": "stock-exchange-members-eligibility-rules-2001",
+  "file": "stock-exchange-members-eligibility-rules-2001.pdf",
+  "title": "Members, Agents and Traders Eligibility Standards Rules, 2001",
+  "number": "S.R.O. 150(I)/2001",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "stock-exchange-members-inspection-rules-2001",
+  "file": "stock-exchange-members-inspection-rules-2001.pdf",
+  "title": "Stock Exchange Members (Inspection of Books and Record) Rules, 2001",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "unit-linked-products-fund-rules-2015",
+  "file": "unit-linked-products-fund-rules-2015.pdf",
+  "title": "Unit Linked Products Fund Rules, 2015",
+  "number": "S.R.O. 343(I)/2015",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "Updated 5 July 2022 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "underwriters-rules-2015",
+  "file": "underwriters-rules-2015.pdf",
+  "title": "Underwriters Rules, 2015",
+  "number": "S.R.O. 271(I)/2015",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "balloters-transfer-agent-rules-2015",
+  "file": "balloters-transfer-agent-rules-2015.pdf",
+  "title": "Balloters and Transfer Agent Rules, 2015",
+  "number": "S.R.O. 272(I)/2015",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "employees-provident-fund-investment-rules-1996",
+  "file": "employees-provident-fund-investment-rules-1996.pdf",
+  "title": "Employees Provident Fund (Investment in Listed Securities) Rules, 1996",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "voluntary-pension-system-rules-2005",
+  "file": "voluntary-pension-system-rules-2005.pdf",
+  "title": "Voluntary Pension System Rules, 2005",
+  "number": "S.R.O. 975(I)/2004",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [
+   "VPS Rules"
+  ],
+  "amendedUpToLabel": "Updated as of 22 February 2024 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "pdfOnly": true,
+  "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF."
+ },
+ {
+  "id": "commodity-exchange-futures-contracts-rules-2005",
+  "file": "commodity-exchange-futures-contracts-rules-2005.pdf",
+  "title": "Commodity Exchange and Futures Contracts Rules, 2005",
+  "number": "S.R.O. 279(I)/2005",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  }
+ },
+ {
+  "id": "fi-secured-transactions-registry-rules-2019",
+  "file": "fi-secured-transactions-registry-rules-2019.pdf",
+  "title": "Financial Institutions (Secured Transactions) Registry Rules, 2019",
+  "number": "S.R.O. 41(I)/2020",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "pdfOnly": true,
+  "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF."
+ },
+ {
+  "id": "securities-and-exchange-ordinance-1969",
+  "file": "securities-and-exchange-ordinance-1969.pdf",
+  "title": "Securities and Exchange Ordinance, 1969",
+  "number": "Ordinance No. XVII of 1969",
+  "type": "act",
+  "unit": "Section",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As amended up to date till 2012 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/ordinances/",
+   "manual": true
+  },
+  "enacted": "1969-06-28",
+  "caution": "Repealed in large part by the Securities Act, 2015 and the Securities and Exchange Commission of Pakistan Act, 1997; which provisions remain in force is to be confirmed. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+  "pdfOnly": true
+ },
+ {
+  "id": "financial-institutions-recovery-of-finances-ordinance-2001",
+  "file": "financial-institutions-recovery-of-finances-ordinance-2001.pdf",
+  "title": "Financial Institutions (Recovery of Finances) Ordinance, 2001",
+  "number": "Ordinance No. XLVI of 2001",
+  "type": "act",
+  "unit": "Section",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "Pakistan Code edition (Ministry of Law and Justice)",
+  "source": {
+   "name": "Pakistan Code (Ministry of Law and Justice)",
+   "url": "https://pakistancode.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/rules/",
+   "manual": true
+  },
+  "enacted": "2001-08-30",
+  "caution": "Taken from the Pakistan Code (Ministry of Law and Justice) because the State Bank's own PDF would not download (server error, 23 Nov 2026). Replace with the State Bank's copy if wanted; the edition date is not stated. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+  "pdfOnly": true
+ },
+ {
+  "id": "asset-backed-securitization-regulations-2022",
+  "file": "asset-backed-securitization-regulations-2022.pdf",
+  "title": "Asset Backed Securitization Regulations, 2022",
+  "number": "S.R.O. 2135(I)/2022",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "book-building-regulations-2015",
+  "file": "book-building-regulations-2015.pdf",
+  "title": "Book Building Regulations, 2015",
+  "number": "S.R.O. 636(I)/2015",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "debt-securities-trustee-regulations-2012",
+  "file": "debt-securities-trustee-regulations-2012.pdf",
+  "title": "Debt Securities Trustee Regulations, 2012",
+  "number": "S.R.O. 339(I)/2012",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  },
+  "caution": "Made under the repealed Companies Ordinance 1984; later Debt Securities Trustee provisions are under the Securities Act 2015. Whether these still apply is to be confirmed."
+ },
+ {
+  "id": "companies-general-provisions-forms-regulations-2018",
+  "file": "companies-general-provisions-forms-regulations-2018.pdf",
+  "title": "Companies (General Provisions and Forms) Regulations, 2018",
+  "number": "S.R.O. 1225(I)/2018",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "self-regulatory-organizations-registration-regulations-2022",
+  "file": "self-regulatory-organizations-registration-regulations-2022.pdf",
+  "title": "Self Regulatory Organizations (Registration) Regulations, 2022",
+  "number": "S.R.O. 1016(I)/2022",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "securities-exchanges-licensing-operations-regulations-2016",
+  "file": "securities-exchanges-licensing-operations-regulations-2016.pdf",
+  "title": "Securities Exchanges (Licensing and Operations) Regulations, 2016",
+  "number": "S.R.O. 1303(I)/2019",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "modaraba-regulations-2021",
+  "file": "modaraba-regulations-2021.pdf",
+  "title": "Modaraba Regulations, 2021",
+  "number": "S.R.O. 284(I)/2021",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "Updated August 15, 2022 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "insurance-accounting-regulations-2017",
+  "file": "insurance-accounting-regulations-2017.pdf",
+  "title": "Insurance Accounting Regulations, 2017",
+  "number": "S.R.O. 88(I)/2017",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "Updated as of 3 March 2025 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "general-takaful-accounting-regulations-2019",
+  "file": "general-takaful-accounting-regulations-2019.pdf",
+  "title": "General Takaful Accounting Regulations, 2019",
+  "number": "S.R.O. 1416(I)/2019",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "Updated as of 3 March 2025 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  },
+  "pdfOnly": true,
+  "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF."
+ },
+ {
+  "id": "insurance-sound-prudent-management-regulations-2012",
+  "file": "insurance-sound-prudent-management-regulations-2012.pdf",
+  "title": "Insurance Companies (Sound and Prudent Management) Regulations, 2012",
+  "number": "S.R.O. 15(I)/2012",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "Updated 5 July 2022 (SECP)",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "third-party-administrators-health-insurance-regulations-2014",
+  "file": "third-party-administrators-health-insurance-regulations-2014.pdf",
+  "title": "Third Party Administrators for Health Insurance Regulations, 2014",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  },
+  "pdfOnly": true,
+  "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF."
+ },
+ {
+  "id": "association-charitable-not-for-profit-regulations-2018",
+  "file": "association-charitable-not-for-profit-regulations-2018.pdf",
+  "title": "Associations with Charitable and Not-for-Profit Objects Regulations, 2018",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "companies-e-voting-regulations-2016",
+  "file": "companies-e-voting-regulations-2016.pdf",
+  "title": "Companies (E-Voting) Regulations, 2016",
+  "number": "Securities and Exchange Commission of Pakistan",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  },
+  "caution": "Made under the repealed Companies Ordinance 1984; whether it still applies under the Companies Act 2017 is to be confirmed. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+  "pdfOnly": true
+ },
+ {
+  "id": "companies-registration-offices-regulations-2018",
+  "file": "companies-registration-offices-regulations-2018.pdf",
+  "title": "Companies Registration Offices (Establishment, Powers and Functions) Regulations, 2018",
+  "number": "S.R.O. 76(I)/2018",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  },
+  "caution": "Largely repealed by S.R.O. 210(I)/2024; check which provisions remain."
+ },
+ {
+  "id": "private-equity-venture-capital-fund-regulations-2008",
+  "file": "private-equity-venture-capital-fund-regulations-2008.pdf",
+  "title": "Private Equity and Venture Capital Fund Regulations, 2008",
+  "number": "S.R.O. 867(I)/2008",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As published on SECP's website",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  },
+  "caution": "Likely superseded by the Private Funds Regulations 2015; to be confirmed."
  }
 ]

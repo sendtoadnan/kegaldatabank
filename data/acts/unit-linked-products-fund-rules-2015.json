@@ -1,0 +1,576 @@
+{
+ "id": "unit-linked-products-fund-rules-2015",
+ "title": "Unit Linked Products Fund Rules, 2015",
+ "number": "S.R.O. 343(I)/2015",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "Updated 5 July 2022 (SECP)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "unit-linked-products-fund-rules-2015.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Unit Linked Products Fund Rules, 2015' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter 1",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short Title and Commencement",
+     "page": 1,
+     "text": [
+      "(1) These Rules shall be called the “Unit Linked Products and Fund Rules, 2015”.",
+      "(2) These Rules shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these Rules, unless there is anything repugnant in the subject or context,-.",
+      "a) “Basic Annual Premium” means the net premium determined as gross premium paid by the policyholders less charges for riders / supplementary benefits and extra mortality / morbidity charges;",
+      "b) “Gross Annual premium” means the amount of premium paid by the policy holder to the insurer for the purchase of a unit linked product;",
+      "c) “Bid Price” is the price at which the units of a fund are redeemed, calculated as the net asset value adjusted for selling costs;",
+      "d) “Forward Pricing” means a specific pricing methodology which involves calculation of the unit prices at which the transaction is undertaken after the deal is done, so as to establish the true value of the units at the time of purchase or disposal;",
+      "e) “Indexation” means a life insurance product feature which enables automatic increase in sum cover and/or premium on compound/simple basis without requiring a policyholder to undergo medical underwriting on each renewal date;",
+      "f) “Offer Price” means the price at which the units of a fund are allocated to policies, calculated as the net asset value adjusted for acquisition costs and a front end load, if any;",
+      "g) “Ordinance” means Insurance Ordinance, 2000;",
+      "h) “Rules” means Unit Linked Products and Fund Rules, 2015;",
+      "i) “Unit Linked” in relation to life insurance means individual life insurance contracts offering life insurance coverage coupled with saving component where under the saving component is managed through operating unit linked investment funds;",
+      "j) “Unit Linked Contracts” means Investment-Linked Contracts as defined in Section 2(xxxiii) of the Ordinance.",
+      "k) “Unit-linked Fund” means a group of assets and liabilities, the values of which are used to determine the values of Unit Linked Contracts;",
+      "(2) In these Rules, the word \"Takaful may be used interchangeably with the word `insurance', 'Family Takaful' with ‘Life Insurance’, 'General Takaful’ with ‘General Insurance’, 'contribution' with \"premium' and 'Company' & \"Insurer'' with 'Takaful Operator’. Similarly other terms used in the Takaful Rules, 2012 associated with the Takaful business may be used interchangeably with their conventional counterpart words/terms.",
+      "(3) The words and expressions used but not defined shall have the same meaning assigned to them in the Ordinance."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter 2 — Unit Linked Products",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Minimum Financial Protection",
+     "page": 2,
+     "text": [
+      "All life insurers carrying out unit linked business shall offer the unit linked products having the minimum financial protection component (i.e. life insurance coverage) as specified in table below:",
+      "Minimum Financial Protection Type of Product (life insurance cover for death due to any cause) Regular premium individual life contracts (endowment, wholelife 5 times of the Basic Annual Premium etc.) Child education / marriage or family income benefit contracts 5 times of the Basic Annual Premium (where no fixed sum cover is paid on death due to any cause)",
+      "Single premium contracts 1.25 times of the premium"
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Indexation of Premium",
+     "page": 2,
+     "text": [
+      "(1) The policyholder shall have an option to avail the policy through level premium or indexation premium.",
+      "(2) All unit linked products shall have an Indexation option based on any one of the following:",
+      ">(a) Automatic Default Option: Under this option, the basic or gross premium shall be increased with a fixed Indexation rate on compound or simple basis. However, insurers shall incorporate a reasonable level of Indexation.",
+      ">(b) Indexation of Premium and Sum Cover: Under this option, both the premium and sum cover shall be increased with a fixed Indexation rate on compound or simple basis.",
+      "(3) The Insurer in respect of their unit linked Bancassurance business shall ensure that the Bank’s premium collection system is effectively deducting the indexed premium, and if it is not, shall take such action as is required to ensure that it shall start deducting the indexed premium within a period of not more than two year after the commencement date."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Minimum Term of the Regular Premium Individual Life Plans",
+     "page": 3,
+     "text": [
+      "No Insurer shall offer a unit-linked regular premium plan (saving) of a term shorter than 5 years through any distribution channel."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Disclosures to Policyholders",
+     "page": 3,
+     "text": [
+      "(1) All insurers offering unit linked products shall disclose the following:",
+      ">(a) Disclosure of Investment Risk: All sales literature, brochure and annual statements/letters to the policyholder shall contain a disclosure that the investment risk shall be borne by the policyholder and actual maturity or surrender values may be lower or higher than the projected figures.",
+      ">(b) Targeted Asset Mix and Charges: Target asset mix of the fund and details of all fund related charges shall be placed on the website of the life insurer and in the insurance policy documents issued to the policyholder.",
+      ">(c) [Product Charges Structure & Unit Pricing Methodology: Details of the product charges structure, rates or amount of charges, including premium allocation charges and unit pricing methodology shall be disclosed to all policy holders in the policy document (or policy schedule) and product brochures;] {fn:3-1}",
+      ">(d) Individual Statement of Policyholders Unit Account: The insurer shall provide the unit linked policyholders with a statement of the policyholders unit account as specified in Annexure 1 for the following reporting periods:",
+      ">>(i) Annual Statement within one month of the close of the financial year; and",
+      ">>(ii) Quarterly Statement within one month of the close of every quarter.",
+      "A life insurer may use a different format showing the movement of units for at least last policy year.",
+      ">(e) Disclosure regarding Deduction of Rider’s Charges: All insurers shall explicitly disclose the rider’s charges at the time of sale of the policy through Illustration and policy schedule and every year through “statement of policy holder’s account” if these charges are deducted by redemption of units from the clients’ account value.",
+      ">[(f) Disclosure of product.- All insurers shall explicitly disclose in all sales literature and brochures that “This is a life insurance product which has two distinct elements i.e., Insurance Protection and Investment. The Investment Component is linked to the performance of underlying assets under unit linked fund(s)” and such disclosure shall be stated prominently in large bold font in all product literature and brochures.] {fn:4-2}",
+      "(2) In case, the disclosures made to the insurance policyholder by the insurer or an agent of the insurer under sub-rule (1) above are misleading or incorrect in any material particular, the same shall be treated as misleading or deceptive conduct under Section 76 of the Ordinance."
+     ],
+     "fn": [
+      {
+       "n": "3-1",
+       "text": "Rule 6(1)(c) substituted by S.R.O 1014(I)/2022 dated 5th July, 2022. Rule 6(1)(c) before substitution stated: “Product Charges Structure & Unit Pricing Methodology: Details of the product charges structure and unit pricing methodology shall be disclosed to all policyholders in the policy document.”"
+      },
+      {
+       "n": "4-2",
+       "text": "Inserted by S.R.O 1014(I)/2022 dated 5th July, 2022"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Insurance Need Analysis Document",
+     "page": 4,
+     "text": [
+      "[(1)] {fn:4-3} No life insurance policy which is a unit linked product shall be sold through any distribution channel unless the agent has carried out an Insurance Need Analysis of the prospective policyholder as per the format set out as Annexure 2. A life insurer may use a different format with additional information.",
+      "[(2) Insurers are encouraged to ensure that the insurance need analysis of the potential policyholder is conducted through an automated application/software, which is able to provide rating relating to policyholder’s risk appetite. The insurance product to be pitched shall be on the basis of risk appetite rating given to the potential policyholder by the automated application/ software.] {fn:4-4}"
+     ],
+     "fn": [
+      {
+       "n": "4-3",
+       "text": "Inserted by S.R.O 1014(I)/2022 dated 5th July, 2022"
+      },
+      {
+       "n": "4-4",
+       "text": "Inserted by S.R.O 1014(I)/2022 dated 5th July, 2022"
+      }
+     ]
+    },
+    {
+     "no": "7A",
+     "title": "Unit linked fund suitability analysis",
+     "page": 4,
+     "text": [
+      "[ (1) For the purpose of identifying the suitable underlying unit linked fund for the unit linked policyholder, an insurer shall also carry out investment risk profiling of the policyholder at the time of carrying out insurance need analysis under rule 7 above. The insurer may carry out investment risk profiling through a separate standalone document or may make it a part of the existing insurance need analysis document. The objective of risk profiling is to identify the suitable underlying unit linked fund as per the risk appetite of the policy holder.",
+      "(2) The investment risk profiling under sub-rule (1) may at a minimum take the following factors in to consideration:",
+      ">(a) Age, occupation, marital status, and dependents information;",
+      ">(b) Investment objective, risk appetite/ tolerance level, investment horizon, and level of investment knowledge;",
+      ">(c) Existing financial position and monthly savings.",
+      "(3) At the time of filling and signing of the proposal form, the default unit linked fund for allocation into the investment account of the insurance policyholder shall be low risk fund of the insurer as per sub-rule (11) of Rule 8 below.",
+      "(4) Where at the time of filling and signing of the proposal form or subsequently after the issuance of the policy, the policyholder chooses to invest his premiums in a unit linked fund other than low risk and moderate risk fund as per sub-rule (11) of Rule 8, the insurer shall obtain from the intending policyholder an undertaking as per Annexure 4 to these Rules, which shall be made part of the policy record of the policyholder."
+     ]
+    },
+    {
+     "no": "7B",
+     "title": "Adequacy of Surrender Charges",
+     "page": 5,
+     "text": [
+      "(1) The surrender value of unit linked policy must not be less than the value of units based on the prevailing bid price at the time of surrender or lapsation of a policy, less any insurance risk charges, admin fees, surrender or cancellation charges, and surrender processing fees where applicable.",
+      "Explanation: For the purpose of this Rule, the expressions “surrender or cancellation charges” includes those charges that are applied on the cash values either in the form of fixed amount or percentage or combination of both, resulting in forfeiture of cash values at the time of lapsation or complete surrender of policy, and does not include any nominal fee charged for processing the surrender request.",
+      "(2) With effect from January 1, 2023, a life insurer may apply surrender or cancellation charges only in first two years of the policy which shall reasonably reflects the expected incurred expenses of the insurer up to the point of surrender and shall not be for the purpose of profit to the insurer on lapsed/ surrendered policies.",
+      "(3) In order to ensure compliance with sub-rule (2), the appointed actuary shall at the product development stage, also review the reasonableness of surrender charges and include a statement under his opinion on the soundness and workability of the product that “the surrender charges under the product are determined in accordance with the requirement of sub-rule (2) of Rule 7B of the Unit Linked Product and Fund Rules, 2015.”"
+     ]
+    },
+    {
+     "no": "7C",
+     "title": "Minimum allocations",
+     "page": 5,
+     "text": [
+      "(1) With effect from January 1, 2023, in all regular premium policies sold through direct distribution channels including online channels and agency sales force, the insurer shall ensure that minimum allocations into investment account of insurance policyholder shall be made as per the following table:",
+      "Effective for New Policy Year Policy Policy Policy Policy Business Issued on or 5 and Year 1 Year 2 Year 3 Year 4 after onwards January 1, 2023 30% 250% of the sum of 3 years Gross 100% Premium January 1, 2024 35% 250% of the sum of 3 years Gross 100% Premium January 1, 2025 40% 250% of the sum of 3 years Gross 100% Premium",
+      "Provided that in the case of policies sold through corporate insurance agents, relevant requirements of the Corporate Insurance Agents Regulations, 2020 shall apply.",
+      "(2) For the purpose of sub-rule 1, the amount of gross premium for allocation in the investment account of policyholders shall not include any premium for riders or supplementary benefits.] {fn:6-5}"
+     ],
+     "fn": [
+      {
+       "n": "6-5",
+       "text": "Inserted by S.R.O 1014(I)/2022 dated 5th July, 2022"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter 3 — Unit Linked Funds",
+   "sections": [
+    {
+     "no": "8",
+     "title": "Funds Governance",
+     "page": 6,
+     "text": [
+      "(1) Where the insurer establishes a Unit Linked Fund, it shall constitute an investment committee comprising of the following persons at minimum:",
+      ">(a) Appointed Actuary and/or Internal Actuary;",
+      ">(b) Chief Financial Officer",
+      ">(c) Chief Executive Officer; and",
+      ">(d) Two members of the Board",
+      "Provided that for the purpose of sub-rule (1) above, the internal actuary shall be a person being the Fellow or Associate member of the Pakistan Society of Actuaries, the Institute of Actuaries in England or Society of Actuaries in the United States of America; or such other body as may be recognized by the Commission for the purposes of this rule after obtaining views of the Pakistan Society of Actuaries.",
+      "Provided further that the Internal Actuary shall have at least 36 months’ post Fellowship/Associateship experience with any insurer.",
+      "(2) Investment Committee: The investment committee shall be responsible for management of all Unit Linked Funds, which shall include the following:",
+      ">(a) Investment Policy: The Investment Committee shall formulate a documented investment policy for each fund which shall be approved by the Board and shall include, as a minimum:",
+      ">>(i) Allowable Exposure to Various Asset Classes: the proportion of investments to be held in various asset classes [ ] {fn:6-6}.",
+      ">>(ii) Allowable Exposure in Single Entity: the maximum proportion of the fund which may be invested in each entity (eg., shares and TFCs of a particular company).",
+      ">>(iii)Minimum Rating / Other Investable Criterion: the investment policy should state the minimum rating requirement for rated instruments as well as other criterion for non-rated instrument.",
+      ">>(iv) Ineligible Asset Classes / Securities: the investment policy shall explicitly mention broad ineligible asset classes and securities.",
+      ">>(v) Monitoring Frequency: the investment policy shall state the frequency of performance measurement, monitoring the asset mix and mechanism used for portfolio balancing.",
+      ">>(vi) Allowable Exposure in Related Parties: the investment policy shall explicitly state the maximum allowable investment limit in related parties such as associated companies, subsidiary companies etc.",
+      ">(b) Fund Pricing Methodology and its Implementation: The investment committee shall document and monitor the unit pricing methodology and its implementation.",
+      ">(c) Investment Processes Documentation: The investment committee shall document all procedures relating to investment decisions, investment transactions, accrual and receipt of investment income, pricing and preparation of statements set out in Rule 13.",
+      "(3) Good Investment Practices: The Investment Committee shall also, as good practice:",
+      "a) identify those responsible for day to day investment decisions in line with the investment policy;",
+      "b) identify all risks to which the fund may be exposed and for formulating, monitoring and management of the risk management process, and",
+      "c) require that the accounting records of the fund be automated.",
+      "(4) Role of Appointed Actuary for the Investment Processes: The Appointed Actuary shall certify annually that he/she is of the opinion that the investment policy for a fund is suitable for all insurance policies which will be linked to the fund. The Appointed Actuary shall also sign the document outlining the fund’s pricing arrangements and shall, at least once in every six months, carry out a detailed review of each fund’s pricing to ensure that the documented pricing arrangements are being followed.",
+      "(5) Role of Shariah Board / Advisor’s: In case of takaful companies the investment policy shall also be approved by the Shariah Board / Advisor.",
+      "(6) Internal Audit and Compliance Function: The internal audit and compliance function of the insurer shall include, in their scope, the adherence to the above policy and procedures and shall report any findings ultimately to the Board. The statutory auditors of the company shall, during the course of their audit, ensure that the pricing arrangements are appropriate and shall also carry out test checks on the determination of prices during the period under review.",
+      "(7) Outsourcing of Investment Functions: The Board may decide to out-source the management of investments. Where this is the case, the Board shall ensure that appropriate systems and controls are in place, including regular and reliable management information, to ensure that they can fulfill their responsibilities to policyholders. Any outsourcing arrangement shall not, however, absolve the Board of its responsibility to ensure that investments are appropriate and properly managed.",
+      "[(8) Investment Avenues.- A unit linked fund may invest only in securities, government securities, Sukuks, commercial papers, deposit with Financial Institutions, place funds with financial institutions, units of collective investment schemes including Exchange Traded Funds (ETFs), units of REITs, units of Private Funds registered under Private Funds Regulations, 2015, real estate, future contracts, margin trading system (or MTS or any other mode approved by the Commission), or invest in any other avenues as notified by the Commission from time to time.",
+      "(9) Categorization of Unit Linked Funds.-",
+      "A. With effect from January 1, 2023, all unit linked funds of life insurers shall be categorized in accordance with the following investment criteria:",
+      ">>(i) Aggressive Fund:-",
+      ">(a) Investment avenues include equity securities, government securities, cash in bank accounts, money market placements, deposits, certificate of deposits (COD), certificate of musharakas (COM), TDRs, commercial papers, reverse repo, TFCs/ Sukuks, real estate, MTS, preference shares, units of collective investment schemes, units of ETFs, units of REITs, equity futures contracts, commodity future contracts, units of Private Funds;",
+      ">(b) Maximum exposure of up to 90% in equity related securities as per its investment policy either directly or indirectly;",
+      ">(c) The rating of any debt security in the portfolio shall not be lower than A- (A Minus);",
+      ">(d) The rating of any bank, DFI, NBFC and Modaraba with which funds are placed shall not be lower than A- (A Minus); and",
+      ">(e) Exposure to MTS shall not exceed 25% of the net assets.",
+      ">>(ii) Balanced Fund:-",
+      "A unit linked fund categorized as Balanced/Managed or Asset Allocation Fund shall have to comply with the following investment criteria .-",
+      ">(a) Investment avenues include equity securities, government securities, cash in bank accounts, money market placements, deposits, certificate of deposits (COD), certificate of musharakas (COM), TDRs, commercial papers, reverse repo, TFCs/ Sukuks, real estate, MTS, preference shares, units of collective investment schemes, units of ETFs, units of REITs, equity futures contracts, commodity future contracts, units of Private Funds;",
+      ">(b) Maximum exposure of up to 50% in Equity securities either directly or indirectly;",
+      ">(c) The rating of any debt security in the portfolio shall not be lower than A- (A Minus);",
+      ">(d) The rating of any bank, DFI, NBFC and Modaraba with which funds are placed shall not be lower than A- (A Minus); and",
+      ">(e) Exposure to MTS shall not exceed 25% of the net assets.",
+      ">>(iii) Money Market Fund",
+      ">(a) Eligible Investment avenues shall include government securities, cash and near cash instruments which include cash in bank accounts, treasury bills, money market placements, deposits, certificate of deposits (COD), certificate of musharakas (COM), TDRs, commercial papers, reverse repo, units of Money Market Collective Investment Schemes;",
+      ">(b) The fund shall have no direct or indirect exposure in equity securities;",
+      ">(c) The rating of any NBFC and Modaraba with which funds are placed shall not be lower than AAA (Triple A);",
+      ">(d) The rating of any bank or DFI with which the funds are placed should not be lower than AA (Double A);",
+      ">(e) The rating of any security in the portfolio shall not be lower than AA (Double A);",
+      ">(f) The time to maturity of any asset shall not exceed one year, however the fund can invest in 3 year floating rate instruments; and",
+      ">(g) The weighted average time to maturity of the net assets shall not exceed 365 days.",
+      ">>(iv) Income Fund:-",
+      ">(a) Investment avenues shall include government securities, cash in bank account, money market placements, deposits, certificate of deposits (COD), certificate of musharakas (COM), TDRs, commercial paper, reverse repo, TFC/ Sukuk, MTS, units of money market and Income Collective Investment Schemes;",
+      ">(b) The exposure to MTS shall not exceed 25% of the net assets of the fund;",
+      ">(c) At least 25% of the net assets of this fund, shall be invested in government securities or deposits with commercial banks/DFIs;",
+      ">(d) The rating of any security in the portfolio shall not be lower than A-;",
+      ">(e) The rating of any bank, DFI, NBFC and Modaraba with which funds are placed shall not be lower than A- (A Minus); and",
+      ">(f) Maximum 25% of the net assets of the fund can be placed/invested in NBFCs, Modarabas and Microfinance banks.",
+      ">>(v) Government Securities Fund:-",
+      ">(a) Income Fund or Money Market Fund, having at least 70% of its net assets invested in Government Securities or Government Securities collective investment scheme as per its investment policy, shall be categorized as Government Securities Fund;",
+      ">(b) Remaining assets shall be invested in A rated bank deposits and placements with AA (Double A) rated financial institutions.",
+      ">>(vi) Fund of Funds.- A unit linked fund categorized as Fund of Funds shall have to comply with the following investment criteria.-",
+      ">(a) These funds shall invest its net assets only in Collective Investment Schemes and units of ETFs registered with the Commission;",
+      ">(b) Every such fund shall mention its type with respect to asset class, e.g. equity fund of funds, income fund of funds etc., in its policy document;",
+      ">(c) Every such fund will be invested either in units of other collective investment schemes as per its investment policy or in cash and/ or near cash instruments which include cash in bank accounts, and government securities.",
+      "B. All investments under clause (A) above shall be subject to certain parameters and limitations as mentioned in sub-rule (10) of this Rule. For the purpose of this sub-rule, further categorization of unit linked funds may be specified by the Commission.",
+      "C. No insurer shall establish a unit linked fund, not meeting the criteria as per this sub-rule, without obtaining prior approval of the Commission in writing.",
+      "(10) Investment Parameters and Limits:-",
+      ">(a) With effect from January 1, 2023, all investments from unit linked funds shall adhere to the following parameters and limitations:",
+      ">>(i) Maximum exposure of a unit linked fund, in eligible class of assets shall not exceed:",
+      "Description of Assets Maximum Exposure 10% of total net assets of a fund, and Equity securities of single entity 15% of total net assets in case of a shariah compliant fund, subject to maximum limit of 10% of the issued capital of that entity. 10% of total net assets of a fund, and 15% of total net assets in case of a Debt issue of single entity shariah compliant fund, subject to maximum 10% of that debt issue. For Conventional Fund - 10% of total net assets of a fund; and Aggregate exposure in a single entity For Shariah Compliant Fund - 15% of total net assets of a fund. For Conventional Fund - less than 25% of total net assets of a fund; and Aggregate exposure in a single group of companies For Shariah Compliant Fund – less than 30% of total net assets of a fund. For Conventional Fund - less than 20% Aggregate exposure in group of of total net assets of a fund; and companies being related party of insurer For Shariah Compliant Fund – less than 25% of total net assets of a fund. 10% of total net assets of a fund, provided that investments in real estate Single unit of real estate and in from unit linked fund shall be made only aggregate in income producing properties subject to prior approval of the board of directors. Units in any one open ended collective 10% of the net assets of a fund. investment scheme 20% of the net assets of a fund. Units in open ended collective investment schemes of any one asset A further 5% of the net assets of a fund management company in case of investment in ETFs. Exposure in any single unlisted equity securities, units of single unlisted 5% of net assets of a fund REIT, or units of any one Private Fund Aggregate exposure in unlisted equity 10% of net assets of a fund securities, units of unlisted REITs, Units of Private Funds",
+      "Explanation: For the purpose of this sub-rule, the term “group” means persons having at least 30% or more shareholding in any other company, as per publicly disclosed information",
+      ">>(ii) Exposure in TDR’s with up to 90 days maturity, and deposits in current/ savings accounts in a bank shall be excluded while calculating exposure in a single entity.",
+      ">>(iii) No exposure in futures contracts shall be taken from the unit linked fund other than for the purpose of hedging risks;",
+      ">>(iv) Securities held or beneficially owned by a unit linked fund shall not be pledged for the benefit of shareholders’ fund or any other statutory fund of the insurer, which is not referable to its unit linked business;",
+      ">>(v) An insurer shall not acquire twenty percent or more of the voting rights or control in any single company on behalf of its unit linked funds;",
+      ">>(vi) An insurer shall not acquire more than ten percent of the voting right or control in any single related party company from its unit linked funds;",
+      ">>(vii) Insurers shall not enter, on behalf of unit linked funds, into transactions with any broker that exceed twenty-five per cent of the commission payable by insurer at company level in any one accounting year:",
+      "Provided that this restriction shall not apply to transactions relating to money market instruments or debt securities or MTS where transactions are carried out with minimum two brokers or any other instrument/transaction as may be specified by the Commission through Circular.",
+      "(viii) Insurer shall not, without the approval of its Board of Directors in writing, purchase from, or sell any securities on behalf of unit linked fund to any connected person or employee of the insurer;",
+      "Explanation: This sub-clause (viii) shall not be applicable in case of transaction carried out in listed securities through stock exchange and between unit linked funds of same insurer if the transactions are in the best interest of policy holders, executed on arm length basis, and rationale is properly documented prior to execution.",
+      ">(b) The investment parameters and limits prescribed under sub-clause (i) of clause (a) above shall not apply on funds which invests only in units of Collective Investment Schemes.",
+      ">(c) The Commission may specify separate investment limits and parameters than the ones specified above for any unit linked fund, depending on its investment objective and policy.",
+      ">(d) Where the exposure of a unit linked fund exceeds the limits specified under sub-clause (i) of clause (a) above because of corporate actions including taking up rights or bonus issue or due to market price increase or decrease in net assets due to redemption, the excess exposure shall be regularized within one hundred and twenty days of the breach of limits.",
+      "Provided that the Commission may on request of the insurer, in special circumstances extend the time for regularization of excess exposure limit for a period of maximum up to 365 days, subject to such conditions as it may deem fit.",
+      ">(e) The exposure limits prescribed above will not be applicable in case of investment in Government Securities i.e. PIBs, Treasury Bills, Sukuks issued by Government.",
+      "(11) Risk Profiling of Unit Linked Funds:",
+      ">(a) With effect from January 1, 2023, all unit linked funds shall be classified as per the following risk profiles:",
+      "No. Category of Unit Linked Funds Risk Profile Money Market Fund and Government Securities Fund, and Income Fund having exposure only in (i) Low government securities, bank deposits, and money market placements with financial institutions. Income Fund with investments in corporate debt (ii) Moderate securities.",
+      ">>(iii) Balanced Fund Medium (iv) Aggressive Fund High",
+      ">(b) Risk profiling of Fund of Funds shall be based on look through approach i.e. by looking at the underlying exposures of the Collective Investment Schemes in which investments are made from the Fund.",
+      ">(c) Risk profile of the funds shall be prominently stated under the description of the fund wherever such description is provided in the policy documents, sales literatures, illustration, reports, statements etc.",
+      "(12) Appropriate Branding of Product and Fund. -",
+      ">(a) An insurer must ensure that the name of a unit linked fund reflects the underlying investment strategy for the linked assets and their inherent volatility. The category of a unit linked fund as per sub-rule 9 above, shall also be prominently mentioned beside the name of the fund.",
+      ">(b) In all sales literature, description of the product must clearly state that it is an investmentlinked insurance product to avoid any misrepresentation of such product as a pure investment plan.",
+      ">(c) Any unit linked product or unit linked fund that does not offer any capital return guarantee or maturity guarantee or merely adopts an investment strategy aimed at returning policyholders’ capital must not be represented as a capital guaranteed product and/ or fund or any other name capable of being construed as having a similar meaning, including, but not limited to examples such as ‘capital protected’ or ‘capital preserved’.",
+      "(13) Submission of Investment Policy:",
+      ">(a) An insurer shall submit investment policy of the fund duly approved by the Board, and certified by the appointed actuary with the Commission at the time of creation of fund under Rule 9 below. In case of any subsequent changes or amendments made to the investment policy, the revised investment policy shall also be submitted to the Commission.",
+      ">(b) The Commission may require an insurer to make amendments in its investment policy where the Commission believes it to be in the policyholders’ interest to do so.",
+      ">(c) In case of major changes in Investment policy which impact the underlying risk of the fund, insurers shall give prior notice to policy holders with an option to change the fund without any charges.",
+      "(14) Responsibilities of Insurer: An insurer shall:",
+      ">(a) act in good faith and in the best interest of its policyholders without taking advantage for itself or any of its related parties, group companies or employees at the expense of its policyholders;",
+      ">(b) place policyholders’ interest before its own, when managing unit linked portfolios;",
+      ">(c) ensure that the investment decisions and actions under unit linked funds are in accordance with their respective investment policy, objectives and restrictions including risk parameters, as stated in the investment policies;",
+      ">(d) ensure employment of sufficient trained human resource for management of unit linked funds;",
+      ">(e) not carry out any transaction on behalf of unit linked funds with any of its connected person unless such transaction is carried out at arm’s length terms and with appropriate disclosure;",
+      ">(f) not trade unnecessarily or excessively under unit linked funds, considering the stated investment objectives of the funds;",
+      ">(g) not participate in any business relationship or accept any gift that could reasonably be expected to affect their independence, objectivity, or loyalty to policyholders;",
+      ">(h) neither profit or seek to profit from confidential information, nor provide such information to anyone with the objective of making profit for himself or for its policyholders;",
+      ">(i) ensure that individuals involved in making investment decisions for the unit linked fund are not trading on the basis of inside information;",
+      ">(j) develop a criteria for appointing a diverse panel of brokers and monitoring compliance thereof, to avoid undue concentration of business with any single broker; and",
+      ">(k) shall formulate policies and procedures duly approved by its board of directors, for proper discharge of its fiduciary responsibility. Such policy shall cover the following minimum principles/requirements, -",
+      ">>(i) Mechanism to ensure its employees involved in investment function exercise reasonable care and prudent judgment while managing unit linked portfolio;",
+      ">>(ii) Restriction on its employees engaged in investment function from entering into any transaction which may conflict with a duty of care owed to policyholders. Where it is practically not possible to avoid conflict, ensure its complete and timely disclosure to Risk Management and Compliance Committee;",
+      ">>(iii) Measures for always ensuring that the best price and terms are negotiated when trading in securities, that are in the best interest of the policyholders;",
+      ">>(iv) Appropriate measures to determine and present investment performance in a fair, accurate and timely manner and not misrepresent the performance of the unit linked funds;",
+      ">>(v) Mechanism for ongoing and timely communications with policyholders such as their unit linked portfolio information, which does not contain any inaccurate or misleading information. Procedure for documentation and recording of all communication with policyholders shall also be implemented and followed;",
+      ">>(vi) Formalizing a mechanism and take steps to avoid and eliminate the misalignment of incentives due to conflict of interest between the compensation of key executives of insurer and interest of the policyholders;",
+      ">>(vii) Policy for trading room and related internal controls including but not limited to; recording of transactions; authorizations; communication channels; restriction on entry and exit; clean screen and clean desk policy; etc.",
+      "(viii) Proxy voting policy on behalf of investment of unit linked funds, covering at minimum the following:-",
+      "- Authority and responsibility for voting proxies and record keeping of proxy voting; and",
+      "- Proxy voting in the areas of election of directors, corporate governance, appointment of auditors, changes in legal and capital structure and merger and acquisition.",
+      "(15) Ex-gratia Payments from fund: In case of unit linked funds cost of any compensation or ex-gratia payments to policyholders shall be charged to the shareholders’ fund or non-unit linked part of the relevant statutory fund of insurer. Examples of occurrences that lead to the cost of compensation or ex-gratia payments being incurred include, but are not limited to:",
+      ">(a) mis-selling;",
+      ">(b) errors or delays in unit pricing;",
+      ">(c) incorrect fees and charges levied to funds and policyholders; and",
+      ">(d) incorrect computations of NAV.] {fn:15-7}"
+     ],
+     "fn": [
+      {
+       "n": "6-6",
+       "text": "Rule 8(2)(a)(i) amended by S.R.O 1014(I)/2022 dated 5th July 2022. The expression omitted by Rule 8(2)(a)(i) stated “(asset classes, for this purpose, being listed equities, unlisted equities, government securities, term finance certificates, mutual funds, real estate, short term deposits, sukuks and other instruments of redeemable capital);”"
+      },
+      {
+       "n": "15-7",
+       "text": "Inserted by S.R.O 1014(I)/2022 dated 5th July, 2022"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Unit Linked Fund Operation",
+     "page": 15,
+     "text": [
+      "(1) Unit-Linked Fund Creation: A life insurer shall file the following documents at the time of creation of a Unit Linked Fund:",
+      ">(a) The name of the fund and of the statutory fund of which it will be a part",
+      ">(b) Date of launching of the fund",
+      ">(c) Seed money, if any",
+      ">(d) Investment policy (certified by the Appointed Actuary)",
+      ">(e) Rules of the fund including net asset valuation methodology",
+      ">(f) Bid and Offer Prices at the beginning",
+      "(2) Explicit Fund Related Charges: The explicit fund related charges levied by a life insurer on the Unit Linked Fund shall include:",
+      ">(a) a Bid Offer spread is a difference between prices at which units are allocated to (acquired by) a policy and at which units are encashed (redeemed) respectively;",
+      ">(b) an investment management charge is a periodic charge levied on the fund, which could either be:",
+      ">>(i) a proportion of the net asset value of the fund;",
+      ">>(ii) a fixed amount;",
+      ">>(iii)a varying proportion or fixed amount based on fund performance; or",
+      ">>(iv) a combination of any of the above.",
+      "The above charges shall be clearly defined in the policy documents.",
+      "(3) Implicit Fund Related Charges: Implicit fund related charges are effectively rounding differences between the conversion of money values into units and vice versa. The mechanism adopted by the life insurer shall ensure that rounding off should be done up to the fourth decimal place. For example unit prices of 100.00015 and 100.00014 shall be used as 100.0002 and 100.0001 respectively.",
+      "(4) Permitted Expenses: Expenses permitted to be debited from a fund include the following:",
+      ">(a) permitted explicit fund management charges;",
+      ">(b) costs paid to a third party directly related to the acquisition or sale of a particular investment, including brokerage costs, any related taxes/government levies and bank charges;",
+      ">(c) costs paid to a third party directly related to collection of investment income as well as any non-recoverable taxes or other levies on investment income;",
+      ">(d) taxes which may be appropriately attributable to the investment income or gains of the fund (e.g., taxes on foreign investments which are not capable of being set off against any tax levied on the shareholders’ fund of the company) including direct taxes on income of such investments (e.g. final tax regime or turn over tax) ;",
+      ">(e) provision for or write off of any asset; and",
+      ">(f) Custodian charges (for example CDC charges).",
+      "(5) Where the fund has invested in property, expenses directly related to the maintenance of the property and related taxes may also be debited from the fund."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Unit Linked Fund Transaction",
+     "page": 17,
+     "text": [
+      "(1) Investment Related Transactions: Any transaction to acquire or dispose of any assets in a Unit Linked Fund shall be at arm’s length, where such assets are listed securities traded on any of the country’s stock exchanges, the transaction shall be through a transaction with an external entity. For other assets the transaction shall either be through an external entity or shall be required to be specifically certified by the Company’s statutory auditors as having been transacted at fair value.",
+      "(2) Inter-fund Transfer of Policyholders’ Unit Account Value",
+      ">(a) All life insurers are required to provide an option to their policyholders to transfer whole or part of a policyholders’ unit account value from one Unit Linked Fund to another Unit Linked Fund at least once in a policy year.",
+      ">(b) A life insurer shall not charge bid-offer spread on the above transfer of policyholders’ unit account or any charge, by whatever name, that is based on a percentage of the unit account value. However a fixed amount per transfer may be charged.",
+      "(3) Custody of Assets",
+      ">(a) All listed securities shall be held in accounts held by the life insurer with the central depository company and in sub-accounts designated for each fund. The investments in government securities of Unit Linked Fund shall be held in an IPS (i.e. investor’s portfolio services) account of the company.",
+      ">(b) Ownership documents for all other assets shall be kept with a custodian approved by the board of directors of the insurer.",
+      ">(c) Bank accounts including fixed deposits shall be maintained in clearly designated accounts for each fund.",
+      "(4) Inter-Fund Balances",
+      ">(a) Transactions between the investment fund and other funds of the life insurer shall be kept to a minimum. It is recognized, however, that there will be some essential transactions, for example the payment of monies into a fund on allocation of premiums/contributions and the payment of monies by the fund on redemption of units/investment.",
+      ">(b) Any balances created with other funds (unit-linked and otherwise) shall be settled within 15 working days."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Net Asset Valuation (NAV) Pricing Methodology",
+     "page": 18,
+     "text": [
+      "(1) General Principles",
+      ">(a) Unit prices should be calculated in a fair and transparent manner, which means:",
+      ">>(i) Unit pricing methodology shall ensure that the transactions in a Unit Linked Fund are executed in a manner that it should not affect the interests of the policyholders.",
+      ">>(ii) Prices shall be based on the net asset value, adjusted for charges and purchase and sale costs.",
+      ">>(iii) Cross-subsidy among policyholders or individual funds shall be avoided as far as reasonably possible. In particular, any adjustments to smooth unit prices shall be avoided.",
+      ">>(iv) The pricing mechanism shall not be used as a deliberate means of extracting value from the fund or from policyholders.",
+      ">(b) Expenses, income and taxation should be recognised appropriately in the price, being accrued in a timely and accurate manner so that the unit price properly reflects the value of the underlying assets.",
+      ">(c) For each fund the investment committee shall approve the pricing policy and procedures, which will set out the following:",
+      ">>(i) Pricing Frequency",
+      ">>(ii) Pricing Model",
+      ">>(iii)Valuation of Assets and Liabilities and Adjustments",
+      "(2) Pricing Frequency and Unit Transaction Timing",
+      "i. All Unit Linked Funds created after the promulgation of these rules shall be valued daily. Funds in existence at the time of issue of these Rules may continue to be valued weekly (but not less frequently than this) until June 30, 2015. Where a fund is valued on a weekly basis this shall be on a given time on a given day in each week. In case of the designated day of the week being a holiday the valuation should take place on the previous working day.",
+      "ii. Where a fund is valued on a daily basis the price should be updated on a specified time at the end of the day. In the unusual event of a fund being priced more than once per day, this will be disclosed to policyholders through insurer’s web site.",
+      "iii. The timing of unit transactions such as allocation to policyholders, creation and cancellation of units will be determined according to events such as the receipt of policyholder instructions, issuance of policy and realization of renewal premium etc. [On receipt of properly documented request for full surrender or partial withdrawal by any policyholder, an insurer shall process the same immediately and payments shall not be made later than fifteen (15) working days from the date all the requirements are completed by the policyholder.] {fn:19-8}",
+      "iv. The following objectives should be taken into account when determining pricing frequency and unit transaction timing:",
+      ">(a) Avoiding any losses to policyholders through market timing and other ‘strategic dealing activity’.",
+      ">(b) Maintaining, within defined risk-return appetite, appropriate levels of liquidity in the fund to avoid any significant, unintended gearing effects.",
+      ">(c) Ensuring that funds designed to track the performance of an underlying asset do so within defined tolerances avoiding the risk of any significant distortion or deviation.",
+      ">(d) Avoiding any material loss to the fund or policyholders by ensuring a good match between net policyholder unit transactions and the related asset purchase or disposal.",
+      ">(e) Avoiding any material loss to the fund or policyholders by ensuring there is no undue delay between receipt of a instruction from a policyholder and the resulting unit transaction.",
+      "(3) Pricing Methodology: All life insurers issuing unit-linked contracts shall follow the Forward Pricing methodology by June 30, 2015. Unit acquisition and redemption transactions which occur during two pricing dates would be held in abeyance until the next valuation date and executed at the price determined at the next valuation date.",
+      "(4) Valuation of Assets and Liabilities and Pricing Adjustments",
+      ">(a) The following basis for valuing various assets shall be followed when determining the price at which units are to be allocated or redeemed:",
+      ">>(i) A security listed on a stock exchange shall be valued at its closing price on such exchange on the date as of which it is valued, or if such exchange is not open on such date, then at its last sale price on the next preceding date on which such exchange was open and if no sale is reported for such date, the security shall be valued at an amount not higher than the closing asked price nor lower than the closing Bid Price. If there is no active market for a security, however, it should be valued in accordance with the applicable financial reporting framework.",
+      ">>(ii) An investment purchased and awaiting payment against delivery shall be included for valuation purposes as a security held, and the cash account of the company shall be adjusted to reflect the purchase price, including brokers’ commission and other expenses incurred in the purchase thereof but not disbursed as of the valuation date;",
+      ">>(iii) An investment sold but not delivered pending receipt of proceeds shall be valued at the net sale price. For takaful operators such investment shall continue to be shown as held by the unit-fund but the value shall be taken as the net sale proceeds. For other insurers the net sale proceeds shall be shown as an amount receivable and the securities shall not be shown as held by the Unit Linked Fund.",
+      ">>(iv) A government fixed income security for which there is no secondary market shall be valued so as to recognize a uniform return from the time of acquisition to maturity.",
+      ">>(v) The value of any dividends, bonus, shares or rights which may have been declared on securities in the portfolio but not received by the fund as of the close of business on the valuation date shall be included as assets of the fund, if the security upon which such dividends, bonuses or rights were declared is included in the assets and is valued ex-dividend, ex-bonus or ex-rights as the case may be;",
+      ">>(vi) A security not listed or quoted on a stock exchange shall be valued at investment price or its breakup value as per last audited accounts, whichever is lower;",
+      ">>(vii) Interest accrued on any interest-bearing security in the portfolio shall be included as an asset of the fund if such accrued interest is not otherwise included in the valuation of the security.",
+      "(viii) Any other income accrued up to the date on which computation was made shall also be included in the assets; and",
+      ">>(ix) All liabilities, expenses, taxes and other charges due or accrued up to the date of computation which are chargeable under these Rules shall be deducted from the value of the assets.",
+      ">(b) To determine the Offer Price the net asset value may be adjusted by adding:",
+      ">>(i) a front end load not exceeding the amount declared in the policy document;",
+      ">>(ii) a provision for acquisition costs of investments, being the average cost of acquisition given the actual asset mix of the fund; and",
+      ">>(iii) a rounding adjustment not exceeding the forth decimal place as specified in Rule 10(3) above.",
+      ">(c) To determine the Bid Price the net asset value may be adjusted by deducting the cost of disposal of investments, being the average estimated cost given the actual asset mix of the fund.",
+      ">(d) If any adjustment is made to the value of assets and liabilities as set out above other than those permitted by these Rules, the consent of the Commission shall be taken."
+     ],
+     "fn": [
+      {
+       "n": "19-8",
+       "text": "Inserted by S.R.O 1014(I)/2022 dated 5th July, 2022"
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Accounts of Unit Linked Funds",
+     "page": 21,
+     "text": [
+      "(1) Form of Accounts",
+      "i. The regulatory returns to be submitted under Section 46 of the Ordinance shall include, for each fund set up, the following accounting statements:",
+      "a) Statement of Net Assets",
+      "b) Statement of Changes in Net Assets",
+      "c) Statement of Performance Measurement (as per Annexure 3)",
+      "ii. The Statement of Changes in Net Assets shall include the following if these are relevant :",
+      ">(a) Fund Balance Brought Forward from Previous Valuation Date",
+      ">(b) New investments in Fund (value of creation of units in the case of a Unit Linked Fund).",
+      ">(c) Investment income earned during the period.",
+      ">(d) Gains on disposal of investments (determined as net selling value less cost)",
+      ">(e) Increase (decrease) in unrealized gains (losses)",
+      ">(f) Redemptions from Fund in the period",
+      ">(g) Taxes accruing/deducted on gains or investment income which are not recoverable.",
+      ">(h) Investment Management Charges at Fund level accrued for the period",
+      ">(i) Mortality and Morbidity Charges",
+      ">(j) Fund Balance Carried Forward to Next Valuation Date",
+      "iii. The Statement of Performance Measurement shall be for the following period:",
+      "▪ The previous twelve months. ▪ The previous five years. ▪ The previous ten years.",
+      "iv. The basis of calculation of each performance measure shall be disclosed in any document containing a statement of such measure.",
+      "(2) [Audit: The auditors during audit of an insurer under section 48 of the Insurance Ordinance, 2000, shall also cover audit of books and records of unit linked funds maintained by insurer.] {fn:22-9}",
+      "(3) Circulation to Policyholders",
+      "The Accounts of the Unit Linked Fund shall be placed on the web-site of the life insurer within seven working days of these being submitted to the Commission.",
+      "(4) [Fund Manager Report: Insurers shall prepare and place Fund Manager Report for each month on its website along with its intimation to the unit linked policyholders through physical or electronic means (such as SMS, email or in-app notification etc.). The Fund Manager Report (FMR) shall have the following minimum content:",
+      ">(a) Basic Information of the fund including:",
+      ">>(i) Name of the Fund;",
+      ">>(ii) Investment Objective of the Fund;",
+      ">>(iii) Category of the Fund (as per Rule 9 above);",
+      ">>(iv) Risk Profile of the Fund (as per Rule 11 above);",
+      ">>(v) Launch Date;",
+      ">>(vi) Month end date till which the FMR is made;",
+      ">>(vii) NAV per unit at launch date;",
+      "(viii) NAV per unit at month end;",
+      ">>(ix) Net Assets under the fund at month end;",
+      ">>(x) Fund Management Fee per annum;",
+      ">>(xi) Weighted Average Time to Maturity in case of Money Market Fund, Income Fund, and Government Securities Fund.",
+      ">(b) Asset Allocations month end with comparison of asset allocation of last month;",
+      ">(c) Sector wise allocation in case of equity investments for top five (5) sectors;",
+      ">(d) Credit quality/ Asset quality of the portfolio in case of exposure in money market placements, debt-based securities, placements with Banks/ DFIs, etc.;",
+      ">(e) Total Expense Ratio of the fund which shall be calculated as:",
+      "Total Expenses of the fund ÷ Average NAV of fund",
+      "where: i. Total Expenses means the sum of daily expenses of the fund from January 01 till end of the calculating month;",
+      "ii. Average Net Asset Value means the sum of daily net assets from January 01 till end of each calculating month divided by total number of days from January 01 till end of that month.",
+      ">(f) Investment Returns of the funds at least for following periods:",
+      ">>(i) Last 365 days;",
+      ">>(ii) Since inception (annualized);",
+      ">>(iii)Last 5 years (annualized);",
+      ">>(iv) Last 10 years (annualized).] {fn:23-10}"
+     ],
+     "fn": [
+      {
+       "n": "22-9",
+       "text": "Rule 12(2) substituted by S.R.O. 1014(I)/2022 dated 5th July, 2022. Rule 12(2) before substitution stated: “(2) Audit Accounts of the funds as required above shall be audited at least once in every financial year by the same auditors auditing the Regulatory Returns. The report of the auditors shall also be deemed to be a part of the Accounts and shall be in such form as may be prescribed by the Commission.”"
+      },
+      {
+       "n": "23-10",
+       "text": "Rule 12(4) substituted by S.R.O. 1014(I)/2022 dated 5th July, 2022. Rule 12(4) before substitution stated: “(4) Summary of Investments A breakup of asset allocation, sector allocation (for equity) and top 10 holdings in a Unit Linked Fund on the date as at which accounts referred to in sub-section 13 (1) are prepared shall be placed on the web-site of the life insurer.”"
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Discontinuation of Unit-Linked Fund",
+     "page": 23,
+     "text": [
+      "[ (1) An insurer shall not close or discontinue any unit linked fund without first obtaining prior approval of the Commission in writing. For this purpose, insurers shall be required to provide such information as may be required by the Commission to its satisfaction.",
+      "(2) The information required to be provided under sub-rule (1) above, shall include but not limited to:",
+      ">(a) Proposed date for closing the fund;",
+      ">(b) Reasons for discontinuing the fund;",
+      ">(c) Total number of policies linked and value of assets maintained in the fund;",
+      ">(d) Name and details of the fund(s) to which discontinued fund’s assets shall be transferred, subject to requirement of sub-rule (3) below;",
+      ">(e) Manner for transfer of discontinued fund’s assets to another fund;",
+      ">(f) Treatment to policyholders that have units in the fund to be discontinued",
+      ">(g) Any other information as the Commission may require.",
+      "(3) Prior to closing or discontinuing a fund, an insurer shall send notice to policyholders prior to 30 days from the intended close date of the fund, providing them with option to transfer their investment values to another fund. Such notice shall also mention the default fund to which their investment values will be transferred automatically, in case no optional fund is selected by the policyholder during the notice period.",
+      "(4) An insurer shall not charge bid offer spread or any other charge, by whatever name called, to the policyholders on transfer of discontinued unit linked fund’s assets to another fund and shall ensure that such transfer does not result in any disadvantage to the policyholders."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter 4",
+   "sections": [
+    {
+     "no": "14",
+     "title": "Sales process for unit linked products",
+     "page": 24,
+     "text": [
+      "With effect from January 1, 2023, the following requirements shall apply to all unit linked policies sold through any distribution channel of the insurer except for corporate insurance agents where relevant requirements of the Corporate Insurance Agents Regulations, 2020 shall be applicable:",
+      "(1) Bilingual documents to be provided to policyholder.- All documents provided to the policyholder such as proposal form, marketing brochure, sales material, policy documents and any other pre-sale or post-sale document provided to the policyholder or the prospective policyholder shall be bilingual i.e. both in English language and Urdu language written as line by line translation on the same page.",
+      "(2) Free look period to be mentioned at prominent place on policy document, policy schedule and marketing material.- The insurer shall ensure that it is mentioned in bold font, at a prominent place on first page of the policy document, policy schedule and marketing material that the policyholder can cancel the policy within fourteen (14) days of the receipt of the policy documents by the policyholder.",
+      "(3) Audio-visual clip for guidance on proposal form and key product features.- The insurer shall ensure that a brief audio-visual clip (in English or Urdu language), of at least two (2) minute duration is shown to the prospective policyholder prior to providing him/her the proposal form for filling. The audio-visual clip shall cover the following:",
+      ">>(i) key features of the insurance product being offered covering premium payment, coverage extended, minimum financial component, free look period, surrender options and partial withdrawals etc.",
+      ">>(ii) contents of the proposal form, its significance, duty to provide accurate information and implication of non-disclosure and/or material misrepresentation of material information on claim adjudication.",
+      "In the case of sale of regular premium individual life policies sold through telemarketing the requirement of showing audio-visual clip shall not be applicable.",
+      "(4) Communication during policy cycle.-",
+      ">>(i) The insurer shall maintain continuous communication with the policyholder so as to provide him pertinent information about the policy and any ancillary matters related thereto, in a timely and effective manner through the communication channel, chosen by the policyholder, throughout the policy cycle. The insurer will, at the least, communicate with the policyholder in the following instances as follows:",
+      ">(a) The insurer shall send a “welcome message” through SMS at the registered mobile number of the policyholder containing information about issuance of insurance policy, dispatch of insurance policy documents, and free look period clause.",
+      ">(b) The insurer shall send the renewal notice to the policyholder prior to the due date of premium through mail/courier or email at his/her active email address, or both, as specified by the policyholder in writing at the time of policy inception, or later. The insurer will also send follow-up SMS for collection of renewal premium, two days after sending the renewal notices. The insurer shall send the renewal notices for policies with variable premium payment frequencies, at the following intervals, as provided through the table below:",
+      "Premium payment frequency Minimum No. of days prior to due date Annual Thirty days Semi annual Fifteen days Quarterly One week Monthly One week",
+      ">(c) After premium payment is received by the insurer from the policyholder, the insurer shall send an SMS for acknowledging the receipt of payment to the policyholder, in addition to any other payment acknowledgment receipt provided to the policyholder",
+      ">(d) At the time of issuing units against each premium, the insurer shall send a statement or SMS or email to the policyholder informing the amount of charges deducted from the premium, net amount invested, and number of new units created;",
+      ">(e) The insurer shall send intimation of effectuating endorsement for any change in the insurance policy through email at the active email address of the policyholder or SMS, or both, as preferred by the policyholder. Thereafter, the insurer shall also send the endorsement through mail/courier or email, or both, as specified by the policyholder in writing.",
+      ">(f) If renewal premium is not received one month after premium due date despite renewal notices and follow up SMS sent by the insurer, the insurer will make an interactive telephonic call to the policyholder, within seven (7) working days, to remind him about the deposit of renewal premium, inquire the reason for not depositing the renewal premium, and guide him about the non-forfeiture options that the policy may acquire in case of non-payment of premium.",
+      ">>(ii) The SMS required to be sent by the insurer under this clause shall be in both Urdu and English language.",
+      ">>(iii) The insurer shall obtain acknowledgment of the receipt of documents or policy terms, as the case may be, from the policyholder preferably through email or SMS. This requirement shall apply on all policies issued through all modes inter alia branch visit, telephone or internet.",
+      "(5) Illustration Requirement.- The insurer shall ensure that no unit linked policy shall be sold unless the illustration has been provided to the policyholder in accordance with the requirement of Directive for Life Insurance and Family Takaful Illustrations, 2016 or any modification thereof.",
+      "(6) Recycling of life insurance policies.-",
+      ">>(i) Where a regular premium unit linked policy is lapsed / surrendered during the first three policy years, then unless that policy is reinstated (in case of lapsation), insurer will not sell any new individual life policy to the same policyholder within a year from the effective date of the policy acquiring lapsed/ surrendered status.",
+      ">>(ii) Where a regular premium individual life policy is lapsed / surrendered after the third policy year, then unless that policy is reinstated / revived or the policyholder has separately consented to that effect, insurer will not sell a similar new individual life policy to the same policyholder within a year from the effective date of the policy acquiring lapsed / surrendered status.",
+      "(7) After sale call by the insurer to all policyholders.-",
+      ">>(i) The insurer shall make a structured telephonic call within the free look period to all new policyholders to confirm their understanding of the product, appropriateness of the product considering the identified insurance needs and affordability of the product for the entire term. The insurer will retain the record of such calls, preferably using interactive voice response system, for at least 7 years or maturity of the product whichever is earlier;",
+      ">>(ii) If a policyholder gives an adverse response, the insurer will return the premium to the policyholder within 30 days of such call.",
+      ">>(iii) The after sale call made in accordance with this clause, shall allow cross questioning from the policyholder in Urdu or his native language.",
+      ">>(iv) The insurer shall ensure that the call centre representatives authorized to make after sales call on behalf of the insurer are well conversant with the insurance policy contents and elements required to be communicated to the policyholder during the call. The insurer shall also ensure that the call centre representatives are well acquainted with subject of insurance such that they are able to respond to the queries made by the policyholder during the interactive after sale call.",
+      ">>(v) The after sale call shall not be made by the sales staff which has been engaged in sale of insurance policies.] {fn:27-11}"
+     ],
+     "fn": [
+      {
+       "n": "27-11",
+       "text": "Inserted by S.R.O 1014(I)/2022 dated 5th July, 2022 ANNEXURE 1 Statement Date \\STATEMENT OF ACCOUNT For the period ended December 31,_____ Policy Number Policyholder Name Date of Birth Current Age Total Policy Term Total Premium paying term Initial Sum Assured Current Sum Assured Annualized Initial Premium Current Premium Total Premium Riders’ Premium Basic Premium Mode of Premium payment Dynamization Method (1) Both premium and sum assured to remain flat (2) Only premium to increase by 5% each year (3) Both premium and sum assured to increase by 5% each year (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) Account Account Total Net value Basic value as at Amount of value as at Unit value of of the Premium Number of Mortality Amount of the Partial the end of value as the policy policy as Policy Allocated New Units Charges Loan, if beginning Withdrawal, the period at the end as at the at the end period during the purchased deducted any of the if any (units) = of the end of the of the period (units) (units) (Rs) period (Rs) (2) + (4) - period period = period = (Rs) (units) (5)- (6) (7) * (8) (9) – (10) 1 2 3 4 Basic Information Name Address Telephone (Landline / Mobile) E-mail Id Date of birth Marital status State of health Excellent/Very good/Good/Moderate/Poor Smoker Yes/No Family Details Number of dependents Details of dependents 1 2 3 4 5 Name Relationship Age State of Health (Excellent/Very Good/ Good/ Moderate/Poor) Occupation Income if any Whether financially dependent Any scope of expansion of family Yes/No Employment Details Occupation Length of service Annual Income Covered under pension scheme? Normal retirement age Financial Details Value of Savings and Assets Details of Liabilities/ Outstanding Loan Expected Inheritance Pension Details Employer’s Scheme/Insurance Personal Contribution/Premium Retirement Age Anticipated Value Future Saving Needs For Education for Children For Wedding For House Purchase Others Existing Life Assurance Plans Company Policy No. Sum Assured Premium Start Date Maturity Date Purpose"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure 2",
+   "page": 29
+  },
+  {
+   "title": "Annexure 3",
+   "page": 32
+  },
+  {
+   "title": "Annexure 4",
+   "page": 33
+  }
+ ]
+}

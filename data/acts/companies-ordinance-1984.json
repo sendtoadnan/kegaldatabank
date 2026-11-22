@@ -18,13 +18,15 @@
  "amendedUpToLabel": "As at 26 December 2018",
  "status": "repealed",
  "source": {
-  "name": "Consolidated edition supplied by the library's editor (source to be confirmed)",
-  "url": "https://www.secp.gov.pk"
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk/laws/ordinances/"
  },
  "sourcePdf": "companies-ordinance-1984.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Consolidated edition supplied by the library's editor (source to be confirmed) consolidated edition updated to As at 26 December 2018. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "SECP PDF 'Companies Ordinance, 1984' (SECP Ordinances page), byte-identical to the PDF held; editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [

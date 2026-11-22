@@ -1,0 +1,29 @@
+{
+ "id": "securities-and-exchange-ordinance-1969",
+ "title": "Securities and Exchange Ordinance, 1969",
+ "number": "Ordinance No. XVII of 1969",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "enacted": "1969-06-28",
+ "amendedUpToLabel": "As amended up to date till 2012 (SECP)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "securities-and-exchange-ordinance-1969.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Securities and Exchange Ordinance, 1969' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Repealed in large part by the Securities Act, 2015 and the Securities and Exchange Commission of Pakistan Act, 1997; which provisions remain in force is to be confirmed. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}

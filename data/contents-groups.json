@@ -47,7 +47,18 @@
     "companies-buy-back-rules-1999",
     "companies-rehabilitation-sick-units-rules-1999",
     "group-companies-registration-regulations-2008",
-    "companies-prohibition-unlawful-activities-regulations-2026"
+    "companies-prohibition-unlawful-activities-regulations-2026",
+    "companies-appointment-of-legal-advisers-act-1974",
+    "single-member-companies-rules-2003",
+    "companies-audit-cost-accounts-rules-1998",
+    "companies-appointment-of-trustees-rules-1973",
+    "companies-profits-workers-participation-rules-1971",
+    "companies-share-capital-variation-rules-2000",
+    "public-companies-employees-stock-option-scheme-rules-2001",
+    "companies-general-provisions-forms-regulations-2018",
+    "association-charitable-not-for-profit-regulations-2018",
+    "companies-e-voting-regulations-2016",
+    "companies-registration-offices-regulations-2018"
    ]
   },
   {
@@ -59,7 +70,8 @@
     "corporate-rehabilitation-regulations-2019",
     "corporate-restructuring-companies-rules-2019",
     "llp-act-2017",
-    "llp-regulations-2018"
+    "llp-regulations-2018",
+    "corporate-restructuring-companies-act-2016"
    ]
   },
   {
@@ -92,7 +104,19 @@
     "professional-clearing-members-regulations-2020",
     "shariah-advisors-regulations-2017",
     "shariah-governance-regulations-2018",
-    "securities-brokers-licensing-operations-regulations-2016"
+    "securities-brokers-licensing-operations-regulations-2016",
+    "stock-exchanges-demutualization-act-2012",
+    "companies-asset-backed-securitization-rules-1999",
+    "brokers-agents-registration-rules-2001",
+    "credit-rating-companies-rules-1995",
+    "stock-exchange-members-eligibility-rules-2001",
+    "stock-exchange-members-inspection-rules-2001",
+    "underwriters-rules-2015",
+    "balloters-transfer-agent-rules-2015",
+    "asset-backed-securitization-regulations-2022",
+    "book-building-regulations-2015",
+    "debt-securities-trustee-regulations-2012",
+    "securities-exchanges-licensing-operations-regulations-2016"
    ]
   },
   {
@@ -102,7 +126,8 @@
    "items": [
     "futures-market-act-2016",
     "futures-exchanges-regulations-2017",
-    "futures-brokers-regulations-2018"
+    "futures-brokers-regulations-2018",
+    "commodity-exchange-futures-contracts-rules-2005"
    ]
   },
   {
@@ -129,7 +154,9 @@
    "items": [
     "secp-act-1997",
     "secp-search-seizure-rules-2019",
-    "secp-appellate-bench-procedure-rules-2003"
+    "secp-appellate-bench-procedure-rules-2003",
+    "securities-and-exchange-ordinance-1969",
+    "self-regulatory-organizations-registration-regulations-2022"
    ]
   },
   {
@@ -145,7 +172,11 @@
     "prudential-regulations-nbfc",
     "prudential-regulations-consumer-finance-nbfc",
     "nbfc-notified-entities-regulations-2008",
-    "reit-regulations-2022"
+    "reit-regulations-2022",
+    "employees-provident-fund-investment-rules-1996",
+    "voluntary-pension-system-rules-2005",
+    "modaraba-regulations-2021",
+    "private-equity-venture-capital-fund-regulations-2008"
    ]
   },
   {
@@ -156,7 +187,12 @@
     "insurance-ordinance-2000",
     "insurance-rules-2017",
     "takaful-rules-2012",
-    "reinsurance-brokers-regulations-2021"
+    "reinsurance-brokers-regulations-2021",
+    "unit-linked-products-fund-rules-2015",
+    "insurance-accounting-regulations-2017",
+    "general-takaful-accounting-regulations-2019",
+    "insurance-sound-prudent-management-regulations-2012",
+    "third-party-administrators-health-insurance-regulations-2014"
    ]
   },
   {
@@ -166,7 +202,8 @@
    "items": [
     "aml-act-2010",
     "secp-aml-cft-cpf-regulations-2020",
-    "benami-transactions-act-2017"
+    "benami-transactions-act-2017",
+    "anti-money-laundering-rules-2008"
    ]
   },
   {
@@ -218,7 +255,9 @@
     "regulatory-framework-exchange-companies",
     "business-conduct-fair-treatment-framework",
     "lender-of-last-resort-regulations",
-    "sbp-aml-cft-cpf-regulations-2022"
+    "sbp-aml-cft-cpf-regulations-2022",
+    "fi-secured-transactions-registry-rules-2019",
+    "financial-institutions-recovery-of-finances-ordinance-2001"
    ]
   },
   {

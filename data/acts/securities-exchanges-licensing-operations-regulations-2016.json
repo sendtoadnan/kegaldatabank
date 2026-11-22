@@ -1,0 +1,688 @@
+{
+ "id": "securities-exchanges-licensing-operations-regulations-2016",
+ "title": "Securities Exchanges (Licensing and Operations) Regulations, 2016",
+ "number": "S.R.O. 1303(I)/2019",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "securities-exchanges-licensing-operations-regulations-2016.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Securities Exchanges (Licensing and Operations) Regulations, 2016' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preuminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Securities Exchanges (Licensing and Operations) Regulations, 2016.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there Is anything repugnant in the subject or context, -",
+      ">(a) \"Act\" means the Securities Act, 2015 (III of 2015);",
+      ">(b) \"Demutualization Act\" means the Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012 (XV of 2012};",
+      ">(c) \"Ordinance\" means the Companies Ordinance, 1984 (XLVIl of 1984); and",
+      ">(d) \"senior management officer\" for the purposes of these regulations, in addition to the persons mentioned In clause (IVIII) of section (2) of the Act, includes the following, by whatsoever name called:",
+      ">>(i) company secretary;",
+      ">>(ii) chief financial officer;",
+      ">>(iii) head of internal audit;",
+      ">>(iv) head of Information Technology (IT); and",
+      ">>(v) head of IT security.",
+      "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the Demutualization Act, the Ordinance, the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), the Central Depositories Act, 1997 (XIX of 1997) or any rules or regulations made thereunder."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Licensing Op Securities Exchange",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Application for grant of licence",
+     "page": 2,
+     "text": [
+      "(1) Subject to compliance with the requirements of sections 3 and 4 of the Act and these regulations, an application for grant of licence as a securities exchange shall be submitted to the Commission in Form A along with receipt evidencing payment of fee of rupees five million and the following documents, -",
+      ">(a) copies of memorandum of association and articles of association;",
+      ">(b) proposed regulations under section 7 of the Act; and",
+      ">(c) copies of agreements entered into by the applicant with clearing house(s), central depository(ies) and technology partner(s).",
+      "(2) The Commission, while considering the application for licence, may require the applicant to furnish such further information or clarification as it deems appropriate.",
+      "(3) The applicant shall, if so required, appear before the Commission for a representation through a person duly authorized for this purpose in writing by the board of directors of the applicant.",
+      "(4) Any subsequent change in the information provided to the Commission at the time of filing of application under this regulation or any new agreement entered into by the securities exchange in respect of matter(s) referred in clause (c) of sub-regulation (1) shall immediately be intimated to the Commission but not later than five working days from the date of such change or agreement, as the case may be.",
+      "(5) No application for grant of licence made under sub-regulation (1) above shall be refused except after giving the applicant an opportunity of being heard."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Grant of Licence",
+     "page": 3,
+     "text": [
+      "(1) The Commission, while considering the application made under regulation 3, shall inter-alia take into account the following matters, -",
+      ">(a) the eligibility requirements under the Act and these regulations;",
+      ">(b) the applicant has demonstrated its ability to perform its duties in accordance with the provisions of the Act and any rules and regulations made or codes, guidelines, directions and circulars issued thereunder;",
+      ">(c) the applicant has shareholding and governance structure as provided in these regulations; and",
+      ">(d) the applicant has the necessary infrastructure including but not limited to adequate office space, equipment, experienced human resources and technical capabilities, financial resources, policies, procedures, systems and controls to effectively and efficiently discharge its responsibilities as a securities exchange.",
+      "(2) The Commission may inspect the premises of the applicant to determine whether it fulfills the eligibility criteria and may also require the applicant to submit reports from experts at the expense of the applicant in the manner specified by the Commission to confirm compliance with the Act and these regulations including the existence of adequate infrastructure, technical capacity, financial standing and other requisite benchmarks.",
+      "(3) The Commission, after conducting such inquiries and obtaining such further information as it deems appropriate, and upon being satisfied that, -",
+      ">(a) the applicant is eligible for a licence;",
+      ">(b) the applicant is in compliance with the provisions of the Act and these regulations;",
+      ">(c) its memorandum of association specifically allows it to act as a securities exchange; and",
+      ">(d) it is in the interest of the capital market and public interest, may grant a licence to the applicant in Form \"B\" under sub-section (4) of section 5 of the Act subject to the conditions as provided in regulation 5.",
+      "(4) A securities exchange shall pay an annual renewal fee of rupees one million and five hundred thousand."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Conditions of licensing",
+     "page": 4,
+     "text": [
+      "A securities exchange shall, in addition to the requirements of the Act, comply with the following conditions on an ongoing basis or within such time as the Commission may direct while granting licence under these regulations, - {fn:4-2}[]",
+      ">(a) ensure availability and maintenance of necessary infrastructure for listing and trading of securities;",
+      ">(b) put in place adequate trading and listing procedures and necessary capacity to have a wide network of TRE certificate holders and issuers of listed securities;",
+      ">(c) put in place adequate monitoring, inspection and enforcement mechanism in respect of TRE certificate holders and listed securities;",
+      ">(d) establish and maintain connectivity with clearing house(s), central depository(ies), TRE certificate holders, issuers of listed securities etc. and enter into service level agreements with the clearing house(s) and central depository(ies);",
+      ">(e) have documented business continuity plan Including a disaster recovery site;",
+      ">(f) continuously improve the quality and efficiency of its systems and procedures, and attain relevant internationally recognized certifications;",
+      ">(g) put in place necessary controls and safeguards to ensure cyber security, access to confidential information and alteration, destruction, disclosure or dissemination of records and data;",
+      ">(h) put in place necessary arrangements including appropriate arbitration mechanism for resolving disputes and redressal of grievances arising out of dealing in securities at the securities exchange;",
+      ">(i) comply with the code of corporate governance for listed companies to the extent consistent with the provisions of the Act, the Demutualization Act and the rules or regulations made thereunder;",
+      ">(j) ensure that its memorandum and articles of association contain no provision inconsistent with the provisions of the Act and these regulations and that no change is made in its memorandum and articles of association except with the prior written approval of the Commission;",
+      ">(k) ensure that any person holding five percent or more of its share capital shall be a fit and proper person and shall hold such shares in blocked account to be maintained with a central depository and that no transfer is made therein without prior written approval of the Commission;",
+      ">(l) submit a comprehensive three years business development plan Inter alia including therein financial projections, organizational development plans, product development plans, market development initiatives particularly with reference to promotion of listing and trading activity at the securities exchange, expansion of market outreach, education and training of market participants, development of debt market and the market for securities of small and medium enterprises etc. and the annual reports including progress made in respect of the plans shall be provided to the Commission;",
+      ">(m) employ and retain sufficient number of people with appropriate qualification, experience and expertise to enable the securities exchange to provide an orderly and fair market in relation to listed securities and to discharge functions assigned to it under the Act and the rules and regulations made thereunder;",
+      ">(n) enter into an agreement with a clearing house capable of functioning as a central counter party and a central depository for clearing and settlement of trades executed on its trading platform;",
+      ">(o) enter into an agreement or arrangement with an international security exchange or a technology firm of international repute, having relevant expertise for technology partnership, collaboration, transfer of technical know-how and competence, within such period as may be specified by the Commission;",
+      ">(p) deploy adequate infrastructure including modern technologies to enable it to provide trading platforms in accordance with international standards which inter alia include the following, -",
+      ">>(i) Infrastructure for orderly accepting, matching and execution of trades including online screen-based trading systems;",
+      ">>(ii) facility to disseminate information about trades, quantities and quotes on real time basis; and",
+      ">>(iii) effective surveillance capability to inter alia monitor positions, prices and volumes in a timely manner;",
+      ">(q) develop and implement a detailed investor outreach and education program;",
+      ">(r) submit a plan for segregation of commercial and regulatory functions of the securities exchange for approval of the Commission, if such plan is not already approved by the Commission, and ensure compliance with such approved plan which may be further amended only with prior approval of the Commission;",
+      ">(s) constitute a nomination committee, chaired by an independent director to inter alia recommend names of persons for appointment of independent directors on the board of the securities exchange;",
+      ">(t) prescribe a code of conduct for its employees and ensure compliance with the same;",
+      ">(u) not undertake any business other than the business of establishing or operating a securities market except with the prior approval of the Commission; and",
+      ">(v) comply with such other conditions as may be imposed by the Commission from time to time."
+     ],
+     "fn": [
+      {
+       "n": "4-2",
+       "text": "Clause (aa) deleted vide S.R.O. 1269(I)/2020 dated November 26, 2020. The deleted clause read as follows: “(aa) at any given point of time, a director of the securities exchange, other than its chief executive officer, shall not be nominated on more than one board of other self-regulatory organizations, namely a central depository, clearing house or a futures exchange;” This clause was earlier inserted vide S.R.O 548(I)/2020 dated June 11, 2020"
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Financial resource requirements",
+     "page": 6,
+     "text": [
+      "An applicant seeking licence under regulation 4 including an existing securities exchange shall have an initial paid-up capital and net-worth of not less than rupees one billion provided that the Commission may require the applicant to achieve and maintain, as a licensing condition, a higher paid-up capital and net-worth in a progressive manner.",
+      "Explanation: For the purpose of these regulations, net-worth shall be calculated as total assets less total liabilities less surplus on revaluation, if any, created upon revaluation of fixed assets."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Obligations Of Securities Exchange",
+   "sections": [
+    {
+     "no": "7",
+     "title": "Application of fit and proper criteria",
+     "page": 7,
+     "text": [
+      "The applicant and its promoters, strategic investor, anchor investor, financial institution(s) holding five percent or more of its shares, directors and senior management officers shall at all times be fit and proper persons as per the criteria specified in AnnexureI:",
+      "Provided that while evaluating fit and proper criteria in respect of promoters, strategic investor, anchor Investor or financial institution(s) holding five percent or more shares, the fit and proper criteria shall be applied to the extent practical on the majority shareholders and directors of such entities."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Shareholding requirements",
+     "page": 7,
+     "text": [
+      "(1) Where the application for grant of licence under regulation 3 is made by an existing securities exchange, the shareholding of such securities exchange shall be as provided in the Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012 or as may subsequently be notified by the Commission under clause (b) of sub-section (1) of section 4 of the Act.",
+      "(2) Where the application for grant of licence under regulation 3 is made by any other person the shareholding of such applicant shall be as notified by the Commission under clause (b) of sub-section (1) of section 4 of the Act."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Composition of board of directors and related matters",
+     "page": 7,
+     "text": [
+      "(1) The board of directors of a securities exchange shall have following categories of directors:",
+      ">(a) independent directors;",
+      ">(b) shareholder directors; and",
+      ">(c) Chief executive officer.",
+      "Explanation: - For the purpose of this clause the expression \"independent director\" means a director who is not connected or does not have any other relationship, whether pecuniary or otherwise, with the securities exchange, its associated companies, subsidiaries, holding company or directors. The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgment without being subservient to any form of conflict of interest:",
+      "Provided that without prejudice to the generality of this explanation no director shall be considered independent if one or more of the following circumstances exist:",
+      ">(a) he/she has been an employee of the securities exchange, any of its subsidiaries or holding company within the last three years;",
+      ">(b) he/she is or has been the chief executive officer of subsidiaries, associated company, associated undertaking or holding company of the securities exchange in the last three years;",
+      ">(c) he/she has or has had, within the last three years, a material business relationship with the securities exchange either directly, or indirectly as a partner, substantial shareholder or director of a body that has such relationship with the securities exchange;",
+      ">(d) he/she has received remuneration in the three years preceding his/her appointment as a director or receives additional remuneration, excluding retirement benefits, from the applicant apart from a director's fee or has participated in the securities exchange's share option or a performance-related pay scheme;",
+      ">(e) he/she is a close relative of the directors or promoters, or directors or promoters of the strategic investor or anchor investors of the securities exchange:",
+      "Explanation: The expression close relative means spouse(s), lineal ascendants and descendants and siblings;",
+      ">(f) he/she holds cross-directorships or has significant links with other directors through involvement in other companies or bodies;",
+      ">(g) {fn:8-3}[he/she has served on the board for more than two terms from the date of his/her first appointment:",
+      "Provided that no individual shall serve as an independent director for more than three terms in total across all capital market infrastructure institutions i.e. securities exchanges, clearing houses, central depositories and futures exchanges:",
+      "Provided further that any person nominated as a director under sections 182 and 183 of the Ordinance shall not be considered as an \"independent director\" for the above-mentioned purposes:",
+      "Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the securities exchange.]",
+      "(2) The board of directors of a securities exchange shall have independent directors not less {fn:9-4}[than one third of its total] directors.",
+      "(3) An independent director shall be appointed by the board of directors of the securities exchange with prior written approval of the Commission in the following manner, -",
+      ">(a) a securities exchange shall maintain a panel of fit and proper persons suitable for appointment as independent directors {fn:9-5}[in accordance with the guidelines issued by the Commission];",
+      ">(b) a minimum of two names from the panel maintained under clause (a) shall be submitted by the securities exchange to the Commission for each vacancy, for its approval;",
+      ">(c) the Commission may, if satisfied that a person is suitable for appointment as independent director, grant its approval for the appointment of the selected person by the board of directors of the securities exchange provided that where the Commission is not satisfied about the suitability of the proposed person(s) for appointment as a director, it may refer the matter back to the securities exchange for proposing other names after following the due process; {fn:9-6}[]",
+      ">(d) unless provided otherwise, the term of the independent director so appointed shall be the same as that of the shareholder directors;",
+      ">(e) an independent director may be removed by the board of directors of the securities exchange with prior written approval of the Commission if such person fails to comply with the fit and proper criteria; and",
+      ">(f) any vacant position of an independent director shall be filled in the similar manner as provided for initial appointment of an independent director.",
+      "(4) At least one half of independent directors must be present in a meeting of the board of directors of the securities exchange to constitute a quorum.",
+      "{fn:10-7}[Provided that this condition shall not be applicable in the case of first meeting of the board of",
+      "directors after the election of directors in which the names of the independent directors are to be finalized for submission to Commission as per sub-regulation 9(3):",
+      "Provided further that in the first meeting of the board of directors after the election of directors in which the names of the independent directors are to be finalized, no other matter shall be decided by the board of directors.]",
+      "(5) The chairman of the board of directors of a securities exchange shall be from amongst the independent directors.",
+      "(6) Every director and senior management officer of the securities exchange shall abide by the code of conduct specified In Annexure II.",
+      "(7) In case of a new securities exchange, no person shall be appointed as director on the board of directors of such securities exchange who is, directly or indirectly, a substantial shareholder, director or an employee of a TRE certificate holder or substantial shareholder, director or an employee of any holding or subsidiary company of a TRE certificate holder.",
+      "(8) In case of an existing securities exchange, the board of directors of such securities exchange shall be reconstituted within a period of six months from the date of sale of up to forty percent of its shares lying in the blocked account under the Demutualization Act:",
+      "Provided that till the sale of not less than twenty percent shares of the securities exchange remaining in the blocked account under the Demutualization Act, the directors nominated by the Commission on the board of such securities exchange shall be considered as independent directors.",
+      "{fn:11-8}[(9) The securities exchange shall obtain clearance from the Commission on the fit and propriety of the directors prior to their appointment or election, as the case may be, on the board of directors of the securities exchange and shall submit confirmation that it has evaluated the persons against the fit and proper criteria as provided under these regulations and has no adverse findings therein.]"
+     ],
+     "fn": [
+      {
+       "n": "8-3",
+       "text": "Substituted sub-clause (g) and sub-provisos vide S.R.O. 1062(I)/2023 dated August 10, 2023. The substituted sub-clause read as follows: “(g) he/she has served on the board for more than 3[three] consecutive terms from the date of his/her first appointment provided that such person shall be deemed ‘'independent director after a lapse of one term: Provided that any person nominated as a director under sections 182 and 183 of the Ordinance shall not be taken to be an \"independent director\" for the above-mentioned purposes: Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the securities exchange.”"
+      },
+      {
+       "n": "9-4",
+       "text": "Substituted the words “than the shareholder” vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      },
+      {
+       "n": "9-5",
+       "text": "Inserted vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      },
+      {
+       "n": "9-6",
+       "text": "The following proviso was deleted vide S.R.O. 1269(I)/2020 dated November 26, 2020: “Provided that where the Commission is not satisfied about the suitability of person(s) proposed again by the securities exchange, the Commission shall appoint any such person as deemed appropriate as independent director of the securities exchange”. This proviso was earlier inserted vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      },
+      {
+       "n": "10-7",
+       "text": "Inserted vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      },
+      {
+       "n": "11-8",
+       "text": "Inserted vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Appointment of chief executive officer",
+     "page": 11,
+     "text": [
+      "(1) The appointment, renewal of appointment and termination of services of the chief executive officer of a securities exchange shall be subject to prior approval of the Commission and for this purpose the term \"removal and/or termination\" shall include \"non-renewal\" of his contract.",
+      "(2) The board of directors of a securities exchange shall determine the manner of appointment, terms and conditions of appointment and other procedural formalities associated with the selection/ appointment of the chief executive officer.",
+      "(3) A chief executive officer shaft be appointed by the securities exchange through the following process. -",
+      ">(a) a securities exchange shall shortlist names of three suitable persons meeting the fit and proper criteria provided in these regulations and shall submit one name with its recommendation for approval of the Commission;",
+      ">(b) the Commission may, if satisfied that such person is suitable for appointment by the securities exchange as chief executive officer of the securities exchange, grant its approval for the same:",
+      "Provided that, if the Commission is not satisfied with the suitability of the proposed person for appointment as chief executive officer, it may refer the matter back to the securities exchange for proposing another name for consideration of the Commission.",
+      "(4) {fn:11-9}[The appointment of the chief executive officer shall be made for a period of three years, which",
+      "may be renewed for one more term of three years, with the prior approval of the Commission:",
+      "Provided that a person may be appointed for third and final term of three years, based on exceptional performance that is substantiated by the board of directors through a rigorous review, subject to following a competitive hiring process and final review and approval by the Commission.]"
+     ],
+     "fn": [
+      {
+       "n": "11-9",
+       "text": "Substituted sub-clause 4 vide S.R.O. 1062(I)/2023 dated August 10, 2023. The substituted clause read as follows: “The appointment of the chief executive officer shall be made for a period of three years subject to renewal with the prior approval of the Commission.”"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Appointment and functions of chief regulatory officer",
+     "page": 12,
+     "text": [
+      "(1) The appointment and termination of services of the chief regulatory officer of a securities exchange shall be subject to prior approval of the Commission.",
+      "(2) A chief regulatory officer shall be appointed by the securities exchange through the following process, -",
+      ">(a) a securities exchange shall shortlist names of three suitable persons meeting the fit and proper criteria provided in these regulations and shall submit one name with its recommendation for approval of the Commission;",
+      ">(b) The Commission may, if satisfied that such person is suitable for appointment by the securities exchange as chief regulatory officer of the securities exchange, grant its approval for the same:",
+      "Provided that, if the Commission is not satisfied with the suitability of the proposed person as chief regulatory officer, it may refer the matter back to the securities exchange for proposing another name for consideration of the Commission.",
+      "(3) The chief regulatory officer, being head of the regulatory affairs division of the securities exchange, shall be a dedicated position and must not have any other responsibilities except ensuring the efficient functioning of the regulatory affairs division, which may inter alia include the following, namely:",
+      ">(a) manage, lead and control the compliance and regulatory functions of the securities exchange;",
+      ">(b) develop, implement and monitor compliance policies, processes and procedures to cover all aspects relating to regulatory, operational and statutory obligations of the securities exchange;",
+      ">(c) handle matters relating to the regulations of the securities exchange, including regular review of the same to ensure their suitability, and finalizing proposals for making new regulations or carrying out amendments in the existing regulations for approval of the regulatory affairs committee and board of directors of the securities exchange;",
+      ">(d) monitor compliance of the securities exchange, TRE certificate holders and issuers of listed securities with applicable legal and regulatory framework, policies and procedures and take enforcement action(s) under the applicable regulatory framework;",
+      ">(e) supervise or conduct any investigation, inspection or enquiry required to be conducted by a securities exchange;",
+      ">(f) monitor the redressal of disputes, complaints or grievances arising out of listing and trading of securities at the securities exchange in a timely manner;",
+      ">(g) assist regulatory affairs committee of the board of directors to perform its functions:",
+      ">(h) ensure efficiency of the process for redressal of investor grievances, dispute resolution and arbitration;",
+      ">(i) ensure efficiency of surveillance mechanism of the securities exchange;",
+      ">(j) maintain effective liaison with the Commission in respect of the matters in clauses (a) to (i) {fn:13-10}[through periodic meetings and submission of reports as may be required by the Commission]; and",
+      ">{fn:13-11}[(ja) handle compliance functions of the central depository and clearing house, outsourced to the securities exchange in accordance with regulation 11A, with respect to clearing members and CDS elements which are TRE certificate holders of the securities exchange; and;]",
+      ">(k) perform any other related function as may be assigned by the securities exchange or the Commission.",
+      "(4) The chief regulatory officer shall functionally report to the board of directors of the securities exchange through its regulatory affairs committee.",
+      "(5) In case of any non-compliance, the chief regulatory officer shall take necessary action under the applicable regulatory framework and where the matter requires attention of the board of directors of the securities exchange, the same shall be reported immediately:",
+      "Provided that where a chief regulatory officer is convinced that the matter also needs immediate attention of the Commission, he shall simultaneously report to the Commission stating the reasons thereof.",
+      "(6) In case no action is taken by the board of directors within a reasonable time period or the chief regulatory officer is of the view that the action taken by the board of directors is insufficient, he shall forthwith report the matter to the Commission.",
+      "(7) The chief regulatory officer shall, submit a comprehensive report on quarterly basis to the board of directors {fn:14-12}[and the Commission] regarding matters reported during the respective quarter, corrective actions taken and their status {fn:14-13}[and shall submit such additional reports to the Commission as may be specified].",
+      "(8) The board of directors of the securities exchange shall put in place necessary mechanism to ensure that the chief regulatory officer performs his functions in a transparent, equitable and timely manner."
+     ],
+     "fn": [
+      {
+       "n": "13-10",
+       "text": "Inserted vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      },
+      {
+       "n": "13-11",
+       "text": "Inserted sub-clause under S.R.O 1303(I)/2019 dated November 1, 2019."
+      },
+      {
+       "n": "14-12",
+       "text": "Inserted vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      },
+      {
+       "n": "14-13",
+       "text": "Inserted vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      }
+     ]
+    },
+    {
+     "no": "11A",
+     "title": "Compliance functions of central depository and clearing house",
+     "page": 14,
+     "text": [
+      "{fn:14-14}[ A securities exchange",
+      "may enter into arrangements with a central depository and clearing house, with the prior approval of the Commission, for performing compliance functions of the central depository and clearing house with respect to clearing members and CDS elements which are TRE certificate holders of the securities exchange in the following manner: a) the securities exchange shall enter into a service level agreement with the clearing house and the central depository for performing their compliance function, after obtaining approval of its board of directors, with respect to shifting of employees of central depository and clearing house and defining the role, responsibilities, duties, obligations of securities exchange, scope of services, remuneration of shifting compliance function, indemnification to the clearing house and central depository and any other important matter;",
+      "b) upon signing the service level agreement and from the effective date provided in the agreement, the securities exchange shall, on the behalf of central depository and clearing company, supervise or conduct any investigation, inspection or enquiry, in accordance with the service level agreement and the regulations of the securities exchange and clearing house or central depository, required to be conducted by a clearing house or central depository in respect of clearing members and CDS elements which are the TRE certificate holders; c) the chief regulatory officer of the securities exchange shall maintain liaison with the central depository and clearing house for monitoring compliance through inspections and investigation in respect of clearing members and CDS elements which are TRE certificate holders, on the behalf of central depository and clearing company and the securities exchange shall perform these activities in accordance with the procedures finalized with the central depository and clearing house.]"
+     ],
+     "fn": [
+      {
+       "n": "14-14",
+       "text": "Inserted sub-clause under S.R.O 1303(I)/2019 dated November 1, 2019."
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Constitution of regulatory affairs committee",
+     "page": 15,
+     "text": [
+      "(1) {fn:15-15}[A securities exchange shall, with approval of its board of directors, constitute a regulatory affairs committee comprising of majority of independent directors and one shareholder director.]",
+      "(2) The regulatory affairs committee shall be responsible for the following functions, -",
+      ">(a) formulate policies relating to regulatory affairs of the securities exchange in line with international best practices with approval of the board of directors;",
+      ">(b) ensure that the regulatory affairs division functions effectively and take measures necessary to implement an effective regulatory regime and improve investor confidence and market integrity;",
+      ">(c) develop an overall regulatory plan and roles and responsibilities of each unit of the regulatory affairs division together with a roadmap for effective regulatory role, for the approval of board of directors of the securities exchange;",
+      ">(d) ensure adequacy and effectiveness of the securities exchange's regulatory plan and approve annual plans/targets for the regulatory affairs division on continuous basis;",
+      ">(e) consider and recommend all regulatory amendments for approval of the board of directors of the securities exchange;",
+      ">(f) assess performance of the regulatory affairs division in light of the regulatory plan and annual targets and take measures and, where necessary, make recommendations to the board of directors for improvements;",
+      ">(g) review the compensation of the chief regulatory officer and personnel of the regulatory affairs division and evaluate their performances in light of goals and objectives;",
+      ">(h) provide recommendations for appointments and removal of services of persons serving in the regulatory affairs division;",
+      ">(i) establish criteria for evaluating candidates for senior management of the regulatory affairs division including the chief regulatory officer;",
+      ">(j) formulate and recommend the budget and staff allocation for the regulatory affairs division for approval of the board of directors of the securities exchange;",
+      ">(k) {fn:16-16}[];",
+      ">(l) identify and manage potential conflicts of interest in commercial and regulatory functions regularly;",
+      ">(m) train and educate personnel of the regulatory affairs division in respect of conflict of interest management and also develop the manual on conflict of interest management and circulate to all employees of the regulatory affairs division;",
+      ">(n) prepare a summarized annual report of the regulatory affairs division on the activities, conclusions, recommendations of the last year with special focus on the identification and mitigation of conflicts of interest and identify the targets for next year along with any other matters, for the board of directors of the securities exchange and the Commission;",
+      ">(o) form sub-committee, where required, to perform any of its functions in accordance with the applicable regulatory framework; and",
+      ">(p) carry out any other function that may be mutually agreed upon by the regulatory affairs committee and the board of directors of the securities exchange or as may be assigned by the Commission."
+     ],
+     "fn": [
+      {
+       "n": "15-15",
+       "text": "Sub- Regulation 1of the Regulation 12 is substituted vide S.R.O. 548(I)/2020 dated June 11, 2020. The substituted sub-regulation is reproduced below; A securities exchange shall, with approval of Its board of directors, constitute a regulatory affairs committee comprising of independent directors which may also Include directors nominated by the Commission."
+      },
+      {
+       "n": "16-16",
+       "text": "Omitted the clause read as “conduct hearings of any appeals against enforcement actions/ arbitration awards of the regulatory affairs division” vide S.R.O. 548(I)/2020 dated June 11, 2020."
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Manner of outsourcing important functions",
+     "page": 17,
+     "text": [
+      "(1) A securities exchange shall not outsource any of its functions without prior written approval of the Commission.",
+      "(2) The board of directors of a securities exchange shall be responsible for formulation and approval of outsourcing policy describing activities or the nature of activities that can be outsourced, the authorities who can approve outsourcing of such activities, and the selection of third party to whom it can be outsourced.",
+      "(3) The records relating to all activities outsourced shall be preserved centrally by the securities exchange so that the same Is readily accessible for review by the board of directors, the Commission or any other authorized person.",
+      "(4) The securities exchange shall be fully liable and accountable for the activities that are being outsourced to the same extent as if the service were provided in-house. The facilities, premises or data involved in carrying out the outsourced activity by the service provider shall be deemed to be those of the securities exchange.",
+      "(5) The securities exchange shall take appropriate steps to require that third parties protect confidential information of both the securities exchange, its customers and other parties involved from intentional or inadvertent disclosure to unauthorized persons.",
+      "(6) The securities exchange desirous of outsourcing its activities shall not, however, outsource its core business activities and compliance functions."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Audit And Accounts",
+   "sections": [
+    {
+     "no": "14",
+     "title": "General",
+     "page": 17,
+     "text": [
+      "The obligations and duties of a securities exchange under these regulations with respect to audit and accounts are in addition to the requirements of the Ordinance, the rules and regulations made thereunder and any directives issued thereunder."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Maintenance of accounting records",
+     "page": 17,
+     "text": [
+      "(1) A securities exchange shall keep accounting and other records which shall sufficiently explain Its business and transactions entered into and shall be such as to, -",
+      ">(a) disclose with accuracy the financial position at that time;",
+      ">(b) enable the securities exchange to prepare financial statements at any time and which comply with the requirements of law;",
+      ">(c) demonstrate whether the securities exchange is maintaining adequate financial resources to meet its business commitments;",
+      ">(d) demonstrate capacity of the securities exchange with respect to its duties, functions and operations under the Act and these regulations; and",
+      ">(e) demonstrate its preparedness to manage any risk arising out of its duties, functions and operations.",
+      "(2) The securities exchange shall ensure that all requirements with respect to accounting and audit under these regulations are updated in a timely manner.",
+      "(3) The securities exchange shall ensure that information which Is required to be recorded under the Act and these regulations shall be recorded in such a way as to enable a particular transaction to be identified at any time and traced from initiation to conclusion.",
+      "(4) All records required to be maintained under the Act and these regulations shall be arranged, filed, indexed and cross- referenced so as to permit prompt access to any particular record.",
+      "(5) The securities exchange shall preserve the records required under these regulations for a period of ten years from the date on which they are made and should seek clearance from the Commission before destruction of any of Its records."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Appointment of auditor and related matters",
+     "page": 18,
+     "text": [
+      "(1) A securities exchange shall ensure that it has appointed an auditor {fn:18-17}[from the list of approved auditors to conduct audit of a securities exchange",
+      "as notified by the Commission] who inter-alia has the powers and duties prescribed under sub-regulation 3 and, -",
+      ">(a) those powers and duties are set out in an engagement letter;",
+      ">(b) the engagement letter is signed by the securities exchange and the auditor; and",
+      ">(c) the securities exchange retains a copy of the engagement letter.",
+      "(2) A securities exchange shall, within seven days, give written notice to the Commission of the appointment, removal or resignation of an auditor.",
+      "(3) The auditor appointed by a securities exchange shall have a right to, -",
+      ">(a) access its accounting and other records and all other documents relating to its business including the documents required to be maintained under the Act and these regulations; and",
+      ">(b) require from it such information and explanations as the auditor considers necessary for the performance of duties.",
+      "(4) In preparing an auditor’s report of a securities exchange, the auditor shall carry out such relevant audit procedures as will enable him to form an opinion as to the matters required to be stated in the audit report.",
+      "(5) {fn:19-18}[Omitted]",
+      "(6) Where an auditor resigns or is removed by the securities exchange, a notice to that effect shall be sent to the Commission containing a statement signed by the auditor to the effect that there are no circumstances connected with his resignation or removal which the auditor considers should be brought to the attention of the Commission.",
+      "(7) A securities exchange shall undergo a mandatory annual audit of Its operations, regulatory functions, IT systems and any other systems or functions as specified by the Commission from time to time.",
+      "(8) For the purposes of the audit specified in (7) above, the securities exchange shall, {fn:19-19}[ ], appoint an auditor {fn:20-20}[from the list of approved auditors to conduct audit of a securities exchange as notified by the Commission, other than the auditor appointed under sub-regulation (1) above] with relevant expertise who shall conduct such audit in accordance with the terms of reference specified in Annexure III. {fn:20-21}[8(A) For the purposes of audit specified in sub-regulation (7) above, a securities exchange shall, at the minimum, rotate the auditor after every five years.]",
+      "(9) The Commission may appoint an auditor to carry out a special audit of the securities exchange at the expense of the securities exchange, in respect of all or any specific matter as specified in Annexure III or any matter specified by the Commission at the time of appointment of the auditor. The audit shall be carried out for such period as the Commission may direct at the time of appointing the auditor."
+     ],
+     "fn": [
+      {
+       "n": "18-17",
+       "text": "Inserted vide S.R.O. 413(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "19-18",
+       "text": "Sub-regulation (5) of the Regulation (16) omitted vide S.R.O. 958(I)/2022 dated June 23rd, 2022. The omitted sub- regulation read as follows: (5) The auditor's report shall state all the matters as are required to be stated in accordance with the requirements of the Ordinance and additionally must state whether in the opinion of the auditor, (a) an adequate internal control system commensurate with the size and nature of services performed by the securities exchange was implemented during the period; and (b) the regulatory function had appropriate resources including the human resource and had implemented effective procedures and reporting mechanism which can be reasonably expected to detect and report any non- compliance in a timely manner."
+      },
+      {
+       "n": "19-19",
+       "text": "Deleted the words “with prior approval of the Commission” vide S.R.O. 413(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "20-20",
+       "text": "Inserted vide S.R.O. 413(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "20-21",
+       "text": "Inserted vide S.R.O. 413(I)/2023 dated March 29, 2023."
+      }
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Submission of annual report",
+     "page": 20,
+     "text": [
+      "(1) A securities exchange shall submit an annual report to the Commission within four months of the close of financial year, inter alia containing the following information in addition the requirements of section 18 of the Act;",
+      ">(a) audited financial statements containing information as required under the Act and these regulations;",
+      ">(b) audit report in respect of audit of operations, regulatory functions and IT systems conducted under regulation 16 to demonstrate regulatory compliance of the securities exchange during the financial year;",
+      ">(c) report of directors to shareholders;",
+      ">(d) names and brief profiles of members of the board of directors and senior management officers;",
+      ">(e) statement of compliance with the code of corporate governance;",
+      ">(f) month-wise trade volume and value in each market segment;",
+      ">(g) total number of TRE certificate holders, along-with Information with respect to addition or reduction during the period;",
+      ">(h) total number of listed securities, along with information with respect to addition or reduction during the period;",
+      ">(i) names of TRE certificate holders defaulted during the year along with nature and amount of default and subsequent action(s) taken by the securities exchange;",
+      ">(j) summary of customer compensation fund status showing opening balance, contributions made and amounts utilized during the period and closing balance;",
+      ">(k) details of disciplinary actions taken, fines and penalties imposed and recovered;",
+      ">(l) pattern of shareholding; and",
+      ">(m) any other information that may be deemed material by the securities exchange for disclosure in the annual report.",
+      "(2) In addition to the submission of annual report to the Commission, the securities exchange shall also place the annual report on its official website no later than one week from the date of its publication."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Submission of Information and returns",
+     "page": 21,
+     "text": [
+      "(1) The securities exchange, with approval of its board of directors, shall submit to the Commission, within two months of the close of its financial year, a yearly performance report of the securities exchange against the approved targets and plans, highlighting in particular performance of the board of directors, chief executive officer and chief regulatory officer of the securities exchange.",
+      "(2) The Commission may by written notice require a securities exchange to submit to the Commission such periodic returns as it may direct.",
+      "(3) In addition to any periodic returns required under sub-regulation (1) and (2), the Commission may by written notice require a securities exchange, either generally or in a particular case or class of cases, to submit to the Commission such other information or exceptional returns as it may direct.",
+      "‘FORM A",
+      "Form of Application for Licence as a Securities Exchange under Regulation 3",
+      "Securities and Exchange Commission of Pakistan,",
+      "Islamabad.",
+      "Subject: Application for grant of licence under regulation 3 of the Securities Exchanges (Licensing and Operations) Regulations, 2016",
+      "Dear Sir, I/We, on behalf of. … (name and address of the applicant) … hereby apply for grant of licence of a securities exchange for the purposes of the Securities Act, 2015 and the Securities Exchanges (Licensing and Operations) Regulations, 2016. All the necessary information required under the laws is enclosed. Any additional information will be furnished as and when called for by the Commission.",
+      "I/We, on behalf of the applicant, hereby undertake to comply with the requirements of the laws and such other conditions and terms as may be communicated while granting the licence or imposed subsequently.",
+      "Bank Challan No. … dated … evidencing payment of licence fee of rupees five million and collection charges into the designated bank account of the Securities and Exchange Commission of Pakistan is also enclosed.",
+      "Yours faithfully,",
+      "Authorized signatory",
+      "FORM B",
+      "SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+      "Licence of a Securities Exchange under section 5 of the Securities Act, 2015",
+      "The Securities and Exchange Commission of Pakistan having considered the application for grant of licence under regulation 3 of the Securities Exchanges (Licensing and Operations) Regulations, 2016 by … (name and address of the securities exchange) ... and being satisfied that it would be in the interest of the securities market and also in the public interest to do so, hereby grants licence, in exercise of the powers conferred by section 5 of the Securities Act, 2015 to the said securities exchange subject to the condition of payment of annual renewal fee of rupees one million and five hundred thousand and any other conditions as stated in the attached letter or as may be imposed hereafter.",
+      "Seat of the Commission Signature of the Officer",
+      "Islamabad",
+      "Dated:",
+      "ANNEXURE I",
+      "Fit and Proper Criteria for the securities exchange, its promoters, strategic investor, anchor investor, financial institutions holding five percent shares, directors and senior management officers of the securities exchange",
+      "APPLICATION AND SCOPE This Fit and Proper Criteria is perpetual in nature and its compliance is mandatory.",
+      "All persons subject to Fit and Proper Criteria must submit any change in the submitted information, including the financial soundness to the company secretary of the securities exchange within three business days and the securities exchange shall within a period of seven business days report the same to the Commission.",
+      "In addition to the applicant and its promoters, strategic investor, anchor investors, financial institutions holding five percent shares of the applicant, eligibility of any person desiring to act as director on the board of directors, including the CEO, or senior management officer of a securities exchange shall be judged on the basis of following criteria, which in case of directors shall be in addition to meeting requirements of the Ordinance relating to eligibility of a director:",
+      ">(a) Financial Soundness and Integrity",
+      ">>(i) The person should not have been adjudged as an insolvent or he should not have suspended payment of debts or compounded liabilities with his/its creditors.",
+      ">>(ii) The person should not have been convicted by a court of competent jurisdiction as a defaulter in payment of any loan to a financial institution including banking company, a Development Financial Institution or Non- Banking Financial Company.",
+      ">>(iii) The person and companies, firms, sole proprietorship etc. where the person is a chief executive, director (other than nominee director), owner or partner etc., have no overdue payment to any investor, financial institution, securities exchange, commodity exchange, clearing company, central depository and/or defaulted in payment of any taxes in the individual capacity or as a proprietary concern or any partnership firm or as director in any, unlisted and listed company.",
+      "Explanation: For the purposes of clause (iii) above, the securities exchange shall obtain CIB reports to determine any overdue/past due payment of the person to a financial institution. In case of any amount appearing in the overdue column of the latest CIB report, such person shall not be considered fit and proper person except:",
+      ">(a) where such overdue amount is under litigation and the same is also appearing as amount under litigation in CIB report; or",
+      ">(b) No overdue payment Is appearing in the overdue column in the subsequent latest CIB report;",
+      "In case of overdue In CIB report, no rejection shall be made unless the person has been provided with an opportunity of making a representation before the Commission.",
+      ">>(iv) The person should not have been a director and/or chief executive of any company or body corporate which has defaulted in payment of Government duties/taxes/cess or has issued customer/ investor securities.",
+      ">>(v) The person should be a tax payer and his/its name should be borne on the Active Tax Payers list regularly published by FBR. Provided that this requirement shall not be applicable in the case of nonresident foreign nationals.",
+      ">(b) Educational Qualification and Experience",
+      ">>(i) In case of director, the person should:",
+      ">(a) be a member of a recognized body of professional accountants or possess a graduate degree in finance, accountancy, law, business management, commerce, economics, capital market, information technology and financial services or related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent; and",
+      ">(b) have a management or business experience including directorships, of at least seven years at a senior level preferably in the regulated financial services sector and other fields such as law, information technology etc.",
+      "Provided that where a person possesses more than 15 years of experience and knowledge of the capital markets, clearing houses, central depositories, commodities market, or in the areas relating to finance, corporate governance, audit, information technology etc. the minimum qualification requirement may be relaxed on case to case basis by the securities exchange, with prior approval of the Commission.",
+      ">>(ii) In case of chief executive officer, the person should:",
+      "a) be a member of a recognized body of professional accountants or possess a post- graduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or other related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent; and",
+      "b) have a minimum experience of seven years in a senior level managerial position at the securities exchange or has served at a senior management position preferably as chief executive officer for a period of five years in any other company of substantial size in the regulated financial services sector; and",
+      "c) have demonstrated, through his qualification and experience, the capacity to successfully undertake the cognate responsibilities of the position.",
+      ">>{fn:27-22}[(iii) Any other senior management officer must be a qualified professional possessing relevant experience and degree relating to the job/assignment and must have demonstrated, through his qualification and experience, the capacity to successfully undertake the cognate responsibilities of the position.]",
+      "{fn:28-23}[Provided that if a securities exchange appoints or retains any person as senior management officer who was in the service of a TRE certificate holder or an associated company of such TRE certificate holder during last six months, reasons for such appointment shall be recorded in writing by the securities exchange]",
+      ">>(ix) In case of promoters, strategic investor or anchor investor of a securities exchange, such person should have an established and proven track record of successfully running a business enterprise for 3 to 5 years.",
+      ">>(x) The person must be fully conversant with the duties of director or senior management officer, as the case may be, as specified under the statutes, rules and regulations, memorandum and articles of association and the code of corporate governance.",
+      ">(c) Competency (n) Membership or registration of the person or any company in which he was a director during the last five years has not been suspended/cancelled on disciplinary ground(s) by the Commission, any other regulatory authority, any professional body, association or relevant entity:",
+      "Provided that eligibility of a person may be considered on the basis of prior clearance obtained from any such organization that suspended/ cancelled the membership or registration.",
+      ">>(ii) No proceedings are pending with respect to the applicant's winding up, insolvency or analogous relief.",
+      ">>(iii) The person has not been disqualified/ removed from the post of a key executive position of a company by the Commission or any other regulatory authority.",
+      ">(d) Integrity, Honesty and Reputation",
+      ">>(i) The person should not have been convicted in any criminal offence or directly Involved in any settlement in civil/ criminal proceedings in a court of law, particularly with regard to moral turpitude, investments, financial/business misconduct, fraud/forgery, breach of trust, financial crime etc. and/ or it has not been concluded by any regulatory authority that he has been associated with any unauthorized financial activity including illegal brokerage business.",
+      ">>(ii) The person is not a party in litigation against the Commission in respect of any criminal offence or a matter relating to non-payment of customer claims or in any other manner prejudicial to the Interest of customers and general public.",
+      ">>(iii) No investigation/ enquiry, conducted under Section 139 of the Securities Act, 2015, Section 29 of the Securities and Exchange Commission of Pakistan Act, 1997, Section 21 of the Securities and Exchange Ordinance, 1969, Section 263 or Section 265 of the Companies Ordinance, 1984, has been concluded against him by the Commission with material adverse findings.",
+      ">>(iv) The person has not defaulted on settlement of a customer complaint where such complaint has been adjudicated by the Commission or the securities exchange.",
+      ">>(v) An order restraining, prohibiting or debarring him from dealing in securities in the capital market or from accessing the capital market has not been passed; or penalty of rupees five hundred thousand or more has not been imposed on him by the Commission in the last three years, in respect of any laws administered by the Commission:",
+      "Provided that a person may be considered eligible in case a period of at least three years from the date of expiry of the period specified in the order for which such person has been restrained/ prohibited/ debarred has elapsed.",
+      ">>(vi) The person should not have provided false or misleading Information either to the Commission or to any of the regulatory bodies, securities exchange, depository company or a securities exchange.",
+      ">>(vii) The person should not have been actively involved in the management of a company whose registration or licence has been revoked or cancelled or which has gone into liquidation or other similar proceedings due to financial irregularities or malpractices.",
+      "(viii) The person must not be ineligible, under the Ordinance or any other legislation from acting as a director or senior management officer.",
+      ">>(ix) The person should not have entered into a plea bargain arrangement with the National Accountability Bureau.",
+      ">>(x) In case of promoters, strategic investor, anchor investor or financial institution holding five percent shares of the applicant, their majority shareholders, and directors have proven track record of regulatory compliance with no major disciplinary action taken and any adverse comment provided by the relevant regulatory authority.",
+      "Additional Criteria for Independent Directors /Directors Appointed by the Commission (i) The person has no relationship with the securities exchange that would interfere with him exercising independent professional judgment as a director and he can be reasonably perceived as being able to exercise independent business judgment without being subservient to any apparent form of interference.",
+      ">>(ii) The person should not be a director, officer, sponsor or shareholder of a company holding TRE certificate or any holding or subsidiary company of such company.",
+      ">>(iii) The person's immediate family member is also not a director, officer or sponsor of a company holding TRE certificate and/ or the combined shareholding of the immediate family members in such companies does not exceed twenty percent.",
+      ">>(iv) It shall be mandatory to disclose any shareholding in a listed company in such person's name or in the name of his family member or in the name of an entity being managed or controlled by him or his family member, to the securities exchange and the Commission;",
+      "a. at the time of submission of initial information; and",
+      "b. on quarterly basis for the respective period.",
+      "Further, the securities exchange shall during the tenure of independent director, disseminate the information relating to trading of such independent director for public disclosure.",
+      ">>(v) The person shall have no personal services contract(s) and shall not be currently serving as an employee and has not been employed at any position of the securities exchange within the past three years.",
+      ">>(vi) The person shall not simultaneously be serving as a director on the board of more than seven listed companies. • All directors must inform the securities exchange of any change in the submitted information that may potentially affect their status of directorship, within 48 hours of knowledge of such change. • In case of any ambiguity in determination of fitness and propriety of a person in terms of this criteria, the decision of the Commission shall be final and binding upon the securities exchange. • Along-with the application for licence as a securities exchange and on subsequent appointment; o the applicant's directors and senior management officers shall submit the following duly filled form and affidavit; and o the authorized person on behalf of the applicant and authorized person on behalf of the promoters, strategic investor, anchor investor or financial institutions holding five percent shares of the applicant shall submit the following duly filled affidavit.",
+      "Form of information to be provided by persons desiring prospective directorship on the board or a senior management officer of the securities exchange 1. Curriculum Vitae/Resume containing:",
+      ">(a) Name:",
+      ">(b) Father's or Husband Name:",
+      ">(c) C.N.I.C # (attach copy)",
+      ">(d) Latest photograph (e) Nationality:",
+      ">(f) Age:",
+      ">(g) Contact details: i) Residential address: ii) Business address: iii)Tel: v) Mobile: vi) Fax: vi) E-mail:",
+      ">(h) National Tax Number:",
+      ">(i) Present occupation:",
+      ">(j) Qualification(s): i) Academic: ii) Professional:",
+      ">(k) Experience: (Positions held during the last 10 years along with name and address of company/ institution) Information to be provided on the following sample format*:",
+      "Sr# Name of Organization Designation Period 1 Company A DD/MM/YY DD/MM/YY 2 Company B DD/MM/YY",
+      "DD/MM/YY 2. 1. Nature of directorship:",
+      "Executive Non-executive",
+      "2. Status of directorship:",
+      "Independent director Shareholder director",
+      "Number of shares subscribed or held ______",
+      "Nominated by (name of shareholder/ nominated entity)",
+      "In case of proposed director:",
+      "3. Names of companies, firms and other organizations of which the proposed person is presently a",
+      "director, partner, officer holder or majority shareholder (Information to be provided on the following",
+      "sample format*)",
+      "Sr# Name of Organization Designation Period 1 Company A DD/MM/YY",
+      "DD/MM/YY 2 Company B DD/MM/YY",
+      "DD/MM/YY",
+      "4. In the case of nomination of director by a shareholder the date of board of directors' meeting in which",
+      "the nomination of proposed director was approved. (Attach copy of the minutes of the meeting of the",
+      "board of directors.)",
+      "5. Names of any persons on the board of the securities exchange who are related to the applicant.",
+      "Signature _______________",
+      "*use additional sheets if required Affidavit to be provided by persons subject to fit and proper criteria",
+      "(On Stamp Paper of Appropriate Value)",
+      "AFFIDAVIT",
+      "(name of securities exchange)",
+      "A. In case of an individual in his/her own capacity:",
+      "I, _____________________ son/daughter/wife of ______________________ adult, resident of",
+      "_______________________ and holding CNIC/ Passport No. do",
+      "hereby state on solemn affirmation as under: -",
+      "1. That I am eligible for the position of director/senior management officer of the ... (name",
+      "of securities exchange) ... according to the fit and proper criteria specified for the position of",
+      "directors/ senior management officers of a securities exchange, as per Securities Exchanges",
+      "(Licensing and Operations) Regulations, 2016.",
+      "2. That I and the companies, firms, sole proprietorship etc. where I am a chief executive",
+      "officer, director (other than nominee director), owner or partner etc. has no overdue",
+      "payment of any financial institution.",
+      "3. That I hereby confirm that the statements made and the information given by me are",
+      "correct and that there are no facts which have been concealed.",
+      "4. That I have no objection if .... (name of the securities exchange) ... or the Commission",
+      "request or obtains information about me from any third party.",
+      "5. That I undertake to bring to the attention of ... (name of the securities exchange) ... any matter",
+      "which may potentially affect my status for the position of director/ senior management officer as",
+      "per the fit and proper criteria specified In the Securities Exchanges (Licensing and Operations)",
+      "Regulations, 2016.",
+      "6. That all the documents provided to ... (name of the securities exchange) ..., are true copies of",
+      "the originals and I have compared the copies with their respective originals and certify them to be",
+      "true copies thereof.",
+      "7. That I will comply with any other condition as may be specified by the Commission.",
+      "B. In case of an individual as authorized person on behalf of promoter, strategic investor, anchor investor or financial institution holding five percent shares of the applicant;",
+      "I, ______________________ son/daughter/wife of _________________________ adult, resident of",
+      "__________________________and holding CNIC/Passport No. ________________________, on",
+      "behalf of … (name of Institution) … being promoter, strategic investor, anchor investor or financial",
+      "Institution holding five percent shares of the ... (name of securities exchange) … do hereby state on",
+      "solemn affirmation as under: -",
+      "1. That ... (name of the institution) … is eligible for being promoter, strategic Investor, anchor investor",
+      "or financial institution holding five percent shares of the ... (name of securities exchange) according to",
+      "the fit and proper criteria specified as per the Securities Exchanges (Licensing and Operations)",
+      "Regulations, 2016.",
+      "2. That … (name of the institution) … and the companies, firms, sole proprietorship etc. Associated",
+      "with … (name of the institution) …, have no overdue payment to any financial institution.",
+      "3. That I hereby confirm that the statements made and the information given by me are correct and",
+      "that there are no facts which have been concealed.",
+      "4. That … (name of the institution) … has no objection if the … (name of securities exchange) … or",
+      "the Commission requests or obtains information about … (name of the institution) … from any third",
+      "party.",
+      "5. That I undertake, on behalf of … (name of the Institution) … that … (name of the institution) will",
+      "bring to the attention of the ... (name of securities exchange) ... any matter which may potentially affect",
+      "its status as promoter, strategic investor, anchor investor or financial institution holding five percent",
+      "shares of the ... (name of securities exchange) .... as per the fit and proper criteria specified in the",
+      "Securities Exchanges (Licensing and Operations) Regulations, 2016.",
+      "6. That all the documents provided to ... (name of securities exchange) ... are true copies of",
+      "the originals and I have compared the copies with their respective originals and certify them",
+      "to be true copies thereof.",
+      "C. In case of an individual as authorized person on behalf of applicant:",
+      "I, _______________________ son/daughter/wife of __________________________ adult, resident",
+      "of ___________________________ and holding CNIC/ Passport No.________________ , on behalf",
+      "of … (name of the applicant) .... do hereby state on solemn affirmation as under: -",
+      "1. That ... (name of the applicant) … is eligible for applying for licence as a securities exchange as",
+      "per the Securities Exchanges (Licensing and Operations) Regulations, 2016.",
+      "2. That … (name of the applicant) … and the companies, firms, sole proprietorship etc. associated",
+      "with … (name of the applicant), have no overdue payment to any financial institution.",
+      "3. That I hereby confirm that the statements made and the information given by me are",
+      "correct and that there are no facts which have been concealed.",
+      "4. That … (name of the applicant) … has no objection if the Commission requests or obtains",
+      "information about … (name of the applicant) from any third party.",
+      "5. That I undertake, on behalf of … (name of the applicant] … that … (name of the applicant) …",
+      "will bring to the attention of the Commission any matter which may potentially affect its status as a",
+      "securities exchange as per the licencing conditions and fit and proper criteria specified in the Securities",
+      "Exchanges (Licensing and Operations) Regulations, 2016.",
+      "6. That all the documents provided by ... (name of applicant) ... are true copies of the",
+      "originals and I have compared the copies with their respective originals and certify them to",
+      "be true copies thereof.",
+      "7. That the … (name of the applicant) … will comply with any other condition as may be specified",
+      "by the Commission.",
+      "___________",
+      "DEPONENT",
+      "The Deponent is identified by me",
+      "Signature __________________",
+      "ADVOCATE",
+      "(Name and Seal)",
+      "Solemnly affirmed before me on this ____________ day of ________________ at _____________",
+      "by the Deponent above named who is Identified to me by _____________, Advocate, who is known to",
+      "me personally.",
+      "Signature ___________________________",
+      "OATH COMMISSIONER FOR TAKING AFFIDAVIT"
+     ],
+     "fn": [
+      {
+       "n": "27-22",
+       "text": "Substituted the following clauses vide S.R.O. 548(I)/2020 dated June 11, 2020. (iii) In case of chief regulatory officer, the person should: a) be a member of a recognized body of professional accountants or a recognized body of corporate or chartered secretaries; or be a law graduate or possess a post- graduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent or a Certified Internal Auditor, or a Certified Fraud Examiner; and b) have preferably served as chief regulatory officer for a period of three years in any other company, or have: i) a minimum experience of five years in related functions at the securities exchange; or ii) served as head of finance, audit, compliance or other corporate functions for a period of four years in any other company. (iv) In case of chief operating officer, the person should: a) be a member of a recognized body of professional accountants or possess a post- graduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or other related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent; and b) have a minimum experience of seven years in a senior level managerial position at the securities exchange or has served at a senior management position preferably as chief operating officer for a period of five years, in any other company of substantial size in the regulated financial services sector; and c) have demonstrated, through his qualification and experience, the capacity to successfully undertake the cognate responsibilities of the position. (v) In case of chief financial officer, the person should: a) be a member of a recognized body of professional accountants or possess a postgraduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent; and b) have preferably served as chief financial officer for a period of three years in any other company, or have: i) a minimum experience of five years in related functions at the securities exchange; or ii) served as head of audit, compliance or other corporate functions for a period of four years in any other company. (vi) in case of head of internal audit, the person should: a) be a member of a recognized body of professional accountants, or a Certified Internal Auditor, or a Certified Fraud Examiner; and b) have preferably served as head of internal audit for a period of three years in any other company, or have: i) a minimum experience of five years in related functions at the securities exchange; or ii) served as head of finance, compliance or other corporate functions for a period of four years in any other company. (vii) In case of company secretary, the person should: a) be a member of a recognized body of professional accountants or a recognized body of corporate or chartered secretaries; or be a law graduate or possess a post-graduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent; and b) have preferably served as company secretary and/or compliance officer for a period of three years in any other company, or have: i) a minimum experience of five years in related functions at the securities exchange; or ii) served as head of finance, audit, or other corporate functions for a period of four years in any other company. (viii) In case of head of information Technology (IT) or head of IT security, the person should: a) possess a post-graduate degree in information technology or computer sciences or related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent; and b) have a minimum relevant experience of five years in IT related functions at the securities exchange or has served as head of IT related services for a period of three years in any other company."
+      },
+      {
+       "n": "28-23",
+       "text": "Substituted following provisos vide S.R.O. 548(I)/2020 dated June 11, 2020. “Provided that the securities exchange shall not appoint or retain any person as senior management officer who was in service of a TRE certificate holder or an associated company of such TRE certificate holder during the last three years or who Is above sixty years of age. Provided further that in exceptional circumstances and reasons to be recorded in writing a securities exchange may extend the age limit of sixty years to sixty-two years. Provided further that upon request of a securities exchange supported by cogent reasons, the Commission may consider allowing continuation of service of an existing senior management officer who does not fulfil the requirements prescribed above, on a case to case basis.”"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure Ii",
+   "page": 37
+  },
+  {
+   "title": "Annexure Iii",
+   "page": 40
+  }
+ ],
+ "frontNotes": [
+  {
+   "n": "1-1",
+   "text": "Amended under S.R.O 1303(I)/2019 dated November 1, 2019; S.R.O 548(I)/2020 dated June 11, 2020; and S.R.O. 1269(I)/2020 dated November 26, 2020, S.R.O. 958(I)/2022 dated June 23rd, 2022, S.R.O 413(I)/ 2023 Dated March 29, 2023 and S.R.O. 1062(I)/2023 dated August 10, 2023."
+  }
+ ]
+}
