@@ -45,7 +45,7 @@ Local-only abilities to use:
 - Read the OneDrive working folder directly; run `scripts/sync_folders.py` on it (no Google Drive bridge needed).
 - Run `npm run check-updates` from the user's connection; if SECP still refuses, ask the user to save the listing pages from their browser and use `--saved`.
 - Preview the site with `npm run serve` (http://localhost:8080).
-- **One open PR at a time (user's instruction, 19 Nov 2026): put all new work on one branch and one PR (currently `claude/book-update-3`; `claude/book-update` was merged as PR #32 on 21 Nov 2026 and `claude/book-update-2` as PR #33 on 22 Nov 2026, each on the user's say-so) and do not merge it, or publish anything to `main`, until the user says so ("merge it when green").** Every merge deploys on Netlify. Rewrite the PR description to cover everything after each push.
+- **One open PR at a time (user's instruction, 19 Nov 2026): put all new work on one branch and one PR (currently `claude/book-update-4`; `claude/book-update` was merged as PR #32 on 21 Nov 2026 `claude/book-update-2` as PR #33 and `claude/book-update-3` as PR #34 on 22 Nov 2026, each on the user's say-so) and do not merge it, or publish anything to `main`, until the user says so ("merge it when green").** Every merge deploys on Netlify. Rewrite the PR description to cover everything after each push.
 - Keep the git repo outside OneDrive/iCloud (sync corrupts `.git`); PDFs and working papers stay in OneDrive.
 
 Daily routine for the user: `cd ~/Documents/kegaldatabank && git pull && claude`.
