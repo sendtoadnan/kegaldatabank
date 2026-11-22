@@ -1,0 +1,206 @@
+{
+ "parts": [
+  {
+   "heading": "Part I",
+   "sections": [
+    {
+     "no": "I.1",
+     "title": "Definitions",
+     "lines": [
+      50,
+      198
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part II (A) Corporate Borrowers",
+   "sections": [
+    {
+     "no": "II.1",
+     "title": "Limit on NBFC's exposure to a single person",
+     "lines": [
+      200,
+      257
+     ]
+    },
+    {
+     "no": "II.2",
+     "title": "Minimum conditions for grant of financing facilities",
+     "lines": [
+      257,
+      310
+     ]
+    },
+    {
+     "no": "II.3",
+     "title": "Linkage between a borrower's equity and total exposure from NBFCs",
+     "lines": [
+      310,
+      321
+     ]
+    },
+    {
+     "no": "II.4",
+     "title": "Financial indicators of the borrowers",
+     "lines": [
+      321,
+      333
+     ]
+    },
+    {
+     "no": "II.5",
+     "title": "Margin against facilities",
+     "lines": [
+      333,
+      381
+     ]
+    },
+    {
+     "no": "II.6",
+     "title": "Facilities against Shares/TFCs and acquisition of shares",
+     "lines": [
+      381,
+      414
+     ]
+    },
+    {
+     "no": "II.7",
+     "title": "Restrictions on certain types of transactions",
+     "lines": [
+      414,
+      445
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part II (B) Individuals Borrowers",
+   "sections": [
+    {
+     "no": "II.8",
+     "title": "Individuals Borrowers",
+     "lines": [
+      446,
+      474
+     ],
+     "heading": false,
+     "numbered": true
+    }
+   ]
+  },
+  {
+   "heading": "Part III",
+   "sections": [
+    {
+     "no": "III.1",
+     "title": "Limit on NBFC's exposure against liabilities",
+     "lines": [
+      475,
+      483
+     ]
+    },
+    {
+     "no": "III.2",
+     "title": "Creation and building up of reserve",
+     "lines": [
+      483,
+      493
+     ]
+    },
+    {
+     "no": "III.3",
+     "title": "Return on deposits",
+     "lines": [
+      493,
+      498
+     ]
+    },
+    {
+     "no": "III.4",
+     "title": "Deposit Insurance",
+     "lines": [
+      498,
+      501
+     ]
+    },
+    {
+     "no": "III.5",
+     "title": "Classification and Provisioning for non-performing assets",
+     "lines": [
+      501,
+      834
+     ],
+     "skip": [
+      505,
+      715
+     ],
+     "note": "[The table of classification, determinant, treatment of income and provisions, for (A) short term financing facilities and (B) medium and long term financing facilities, is not reproduced in this text; see the printed edition.]"
+    },
+    {
+     "no": "III.7",
+     "title": "Reversal of Provision",
+     "lines": [
+      834,
+      841
+     ]
+    },
+    {
+     "no": "III.8",
+     "title": "Overdue, default and recovery thereof",
+     "lines": [
+      841,
+      870
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part IV",
+   "sections": [
+    {
+     "no": "IV.1",
+     "title": "Internal audit",
+     "lines": [
+      871,
+      876
+     ]
+    },
+    {
+     "no": "IV.2",
+     "title": "Submission of statistical returns",
+     "lines": [
+      876,
+      880
+     ]
+    },
+    {
+     "no": "IV.3",
+     "title": "Code of conduct",
+     "lines": [
+      880,
+      884
+     ]
+    },
+    {
+     "no": "IV.4",
+     "title": "Prevention of criminal use of NBFCs for the purpose of money laundering",
+     "lines": [
+      890,
+      924
+     ],
+     "heading": false,
+     "prefix": "NBFCs shall follow guidelines issued to safeguard themselves against their involvement in money laundering activities and other unlawful trades. These will add to or reinforce the following precautions, NBFCs may have been taking in this regard;"
+    },
+    {
+     "no": "IV.5",
+     "title": "Procedure for prior approval for appointment of directors and chief executives",
+     "lines": [
+      924,
+      941
+     ]
+    }
+   ]
+  }
+ ]
+}
