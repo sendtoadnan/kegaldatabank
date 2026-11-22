@@ -1,0 +1,28 @@
+{
+ "id": "anti-terrorism-act-1997",
+ "title": "Anti-Terrorism Act, 1997",
+ "number": "Financial Monitoring Unit, Government of Pakistan",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "aml"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on the FMU's website (23 Nov 2026)",
+ "status": "in-force",
+ "source": {
+  "name": "Financial Monitoring Unit, Government of Pakistan",
+  "url": "https://www.fmu.gov.pk"
+ },
+ "sourcePdf": "anti-terrorism-act-1997.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "FMU PDF downloaded from fmu.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Complete text as published on the FMU's website; the edition date is not stated. Check the Gazette for later amendments. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}

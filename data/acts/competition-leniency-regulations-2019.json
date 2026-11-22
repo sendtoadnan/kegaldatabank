@@ -1,0 +1,28 @@
+{
+ "id": "competition-leniency-regulations-2019",
+ "title": "Competition (Leniency) Regulations, 2019",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on the Competition Commission's website (23 Nov 2026)",
+ "status": "in-force",
+ "source": {
+  "name": "Competition Commission of Pakistan",
+  "url": "https://www.cc.gov.pk"
+ },
+ "sourcePdf": "competition-leniency-regulations-2019.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "CCP PDF 'Competition (Leniency) Regulations, 2019' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}

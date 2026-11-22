@@ -116,7 +116,8 @@
     "asset-backed-securitization-regulations-2022",
     "book-building-regulations-2015",
     "debt-securities-trustee-regulations-2012",
-    "securities-exchanges-licensing-operations-regulations-2016"
+    "securities-exchanges-licensing-operations-regulations-2016",
+    "psx-rule-book"
    ]
   },
   {
@@ -203,7 +204,12 @@
     "aml-act-2010",
     "secp-aml-cft-cpf-regulations-2020",
     "benami-transactions-act-2017",
-    "anti-money-laundering-rules-2008"
+    "anti-money-laundering-rules-2008",
+    "anti-terrorism-act-1997",
+    "aml-cft-sanctions-rules-2020",
+    "counter-measures-high-risk-jurisdictions-rules-2020",
+    "fmu-aml-regulations-2015",
+    "suspicious-currency-transaction-reporting-regulations-2025"
    ]
   },
   {
@@ -219,7 +225,10 @@
     "competition-commission-appeal-rules-2007",
     "competition-commission-investigating-officers-rules-2007",
     "competition-commission-extension-exemption-rules-2007",
-    "competition-appellate-tribunal-rules-2015"
+    "competition-appellate-tribunal-rules-2015",
+    "competition-merger-control-regulations-2016",
+    "competition-leniency-regulations-2019",
+    "competition-exemption-regulations-2020"
    ]
   },
   {
@@ -272,6 +281,28 @@
     "federal-excise-act-2005",
     "federal-excise-rules-2005",
     "customs-act-1969"
+   ]
+  },
+  {
+   "id": "ip",
+   "name": "Intellectual property",
+   "intro": "Trade marks, patents, designs, copyright, layout designs and geographical indications, with the rules made under them.",
+   "items": [
+    "trade-marks-ordinance-2001",
+    "patents-ordinance-2000",
+    "registered-designs-ordinance-2000",
+    "copyright-ordinance-1962",
+    "layout-designs-integrated-circuits-ordinance-2000",
+    "geographical-indications-act-2020",
+    "ipo-pakistan-act-2012",
+    "trade-marks-amendment-act-2023",
+    "trade-marks-rules-2004",
+    "patents-rules-2003",
+    "registered-designs-rules-2023",
+    "copyright-rules-1967",
+    "geographical-indications-rules-2020",
+    "ipo-pakistan-service-rules-2022",
+    "ipo-pakistan-financial-rules-2022"
    ]
   }
  ]

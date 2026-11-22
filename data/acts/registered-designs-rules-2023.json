@@ -1,0 +1,28 @@
+{
+ "id": "registered-designs-rules-2023",
+ "title": "Registered Designs Rules, 2023",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "ip"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on IPO Pakistan's website (23 Nov 2026)",
+ "status": "in-force",
+ "source": {
+  "name": "Intellectual Property Organization of Pakistan",
+  "url": "https://ipo.gov.pk"
+ },
+ "sourcePdf": "registered-designs-rules-2023.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "IPO Pakistan PDF 'Registered Designs Rules, 2023' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}
