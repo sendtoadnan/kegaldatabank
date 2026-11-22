@@ -1,0 +1,32 @@
+{
+ "id": "prudential-regulations-corporate-commercial-banking",
+ "title": "Prudential Regulations for Corporate / Commercial Banking (Risk Management and Operations)",
+ "number": "State Bank of Pakistan, Banking Policy & Regulations Department",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [
+  "Corporate Banking Prudential Regulations",
+  "Commercial Banking"
+ ],
+ "lastAmended": "2024-06-01",
+ "amendedUpToLabel": "June 2024",
+ "status": "in-force",
+ "source": {
+  "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+  "url": "https://www.sbp.org.pk"
+ },
+ "sourcePdf": "prudential-regulations-corporate-commercial-banking.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "State Bank of Pakistan PDF downloaded from sbp.org.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+ "pdfOnly": true
+}

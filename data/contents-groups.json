@@ -90,7 +90,8 @@
     "share-registrars-balloters-regulations-2017",
     "professional-clearing-members-regulations-2020",
     "shariah-advisors-regulations-2017",
-    "shariah-governance-regulations-2018"
+    "shariah-governance-regulations-2018",
+    "securities-brokers-licensing-operations-regulations-2016"
    ]
   },
   {
@@ -116,7 +117,8 @@
     "centralized-customer-protection-compensation-fund-regulations-2017",
     "centralized-kyc-organization-rules-2017",
     "cmc-regulations-2017",
-    "collateral-management-companies-regulations-2019"
+    "collateral-management-companies-regulations-2019",
+    "clearing-houses-licensing-operations-regulations-2016"
    ]
   },
   {
@@ -140,7 +142,9 @@
     "credit-suretyship-rules-2018",
     "secured-transactions-registry-regulations-2020",
     "prudential-regulations-nbfc",
-    "prudential-regulations-consumer-finance-nbfc"
+    "prudential-regulations-consumer-finance-nbfc",
+    "nbfc-notified-entities-regulations-2008",
+    "reit-regulations-2022"
    ]
   },
   {
@@ -199,7 +203,14 @@
     "negotiable-instruments-act-1881",
     "pakistan-coinage-act-1906",
     "protection-of-economic-reforms-act-1992",
-    "national-accountability-ordinance-1999"
+    "national-accountability-ordinance-1999",
+    "prudential-regulations-sme-financing",
+    "prudential-regulations-microfinance-banks",
+    "prudential-regulations-corporate-commercial-banking",
+    "prudential-regulations-infrastructure-project-financing",
+    "prudential-regulations-agriculture-financing",
+    "prudential-regulations-consumer-financing",
+    "prudential-regulations-housing-finance"
    ]
   },
   {

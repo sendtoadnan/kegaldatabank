@@ -1,413 +1,480 @@
 {
-  "id": "research-analyst-regulations-2015",
-  "title": "Research Analyst Regulations, 2015",
-  "number": "S.R.O. 709(I)/2015",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Research Analyst Regulations"
-  ],
-  "enacted": "2015-07-27",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 709(I)/2015",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 709(1)/2015 dated July 27, 2015.- In exercise of the powers conferred under clause (g) of sub-section (2) of section 169 of the Securities Act, 2015 (Act No. III of2015), the Securities and Exchange Commission of Pakistan. hereby makes the following regulations, the same being previously published in the Official Gazette vide S.R.O. 232(l)/2015, dated March 17, 2015 and also placed on its website as required sub-section (4) of the said Act, namely:- I[Chapter I Preliminary]",
-  "parts": [
+ "id": "research-analyst-regulations-2015",
+ "title": "Research Analyst Regulations, 2015",
+ "number": "S.R.O. 709(I)/2015",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Research Analyst Regulations"
+ ],
+ "enacted": "2015-07-27",
+ "lastAmended": "2026-01-02",
+ "amendedUpToLabel": "2 January 2026",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "research-analyst-regulations-2015.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'The Research Analyst Regulations, 2015 (updated as of January 2, 2026)', downloaded from secp.gov.pk 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary]",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title, commencement",
-          "text": [
-            "(1) These Regulations shall be called the"
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "[(1) In these regulations, unless there is anything repugnant in the subject or context,-]",
-            "a) \"Act\" means the Securities Act, 2015 (Act No. III of 2015);",
-            "[b) \"Close relative\" means the spouse(s), lineal ascendant(s) and",
-            "descendant(s);]",
-            "c) \"Commission\" means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
-            "[ca) \"head of research\" means a person, by whatever name called, who is responsible for the overall function and operations related to research services at the management level of a research analyst which is a body corporate;]",
-            "[ ]",
-            "[da) \"individual\" means any natural person granted a certificate of registration under these regulations;",
-            "db) \"persons associated with research' analyst\" includes any officer, employee or any other staff of a research analyst who is involved in preparing, reviewing, approving, or supervising the content of research reports or public appearances;",
-            "dc) \"target date\" means a date on which the predicted future price of a specific listed security or public offer will be achieved;",
-            "dd) \"target price\" means a predicted future price of a specific listed security or public offer;] \"[e) \"public appearance\" means any participation in a conference call, audio call, video call, seminar, forum (including interactive and non-",
-            "interactive electronic forum, electronic communication and social media communication), radio, television, internet, web, print media broadcast, authoring a print media article, or other public speaking activity in which a research service is provided concerning listed securities or",
-            "public offer, providing a basis for investment decision:",
-            "Provided that one-to-one calls to a single client shall not be considered as public appearance;] [f) \"research analyst\" means a natural person or body corporate, by hatever name called, who is engaged in providing research services and includes White-Labeling service providers and body corporate and body which obtains content of a research report from a White-Labeling White-Labeling Service Provider and publishes it under its own name;] [h) \"research report\" means written communication in any form that includes research services concerning listed securities or public offer, providing a basis for investment decision and does not include the following communications:-",
-            "i). comments on general trends in the securities market;",
-            "ii). commentaries on economic, political or market conditions;",
-            "iii). periodic reports or other communications prepared for unit holders of mutual funds or collective investment schemes;",
-            "iv). internal communications that are not given to current or",
-            "prospective clients;",
-            "v). communications that constitute offer documents or prospectus that are circulated under a specific law;",
-            "vi). statistical summaries of financial data of the companies;",
-            "vii). general commentary relating to the past performance of a sector or the broad-based index; and",
-            "viii). any other communication which the Commission may specify from time to time;] [ha) \"research services\" include provision of the following services to a person, group of persons, or general public:",
-            "i). making 'buy/sell/hold' recommendation;",
-            "ii). giving price target;",
-            "iii). stop loss target;",
-            "iv). providing opinion to influence buy/sell/hold decisions;",
-            "v). recommending a portfolio that includes listed securities;",
-            "vi). providing trading signals based on technical analysis; or",
-            "vii). any other service as specified by the Commission;] [i) \"subject company\" means an issuer whose public offer or securities are the subject of a research report or a public appearance;] [j) \"Third Party Research Report\" means a Research Report produced by any international research house located outside Pakistan;] [k) \"White-Labeling service provider\" means such person who prepares Research Reports and sells them to a Research Entity for publication under the Research Entity's name;]",
-            "[(2) Words and expressions used but not defined in these regulations shall have the same meanings as assigned to them under the Act or any administered legislation.]",
-            "[Chapter II Registration Requirements of Research Analysts"
-          ]
-        },
-        {
-          "no": "2A",
-          "title": "Prohibition",
-          "text": [
-            "No natural person or body corporate shall act as a research analyst unless it is registered as a research analyst by the Commission under these regulations:",
-            "Provided that persons associated with research analyst shall be deemed registered under these regulations:",
-            "Provided further that securities brokers shall be deemed registered under these regulations subject to submission of information as per Annexure-IA."
-          ]
-        },
-        {
-          "no": "2B",
-          "title": "Application and procedure for registration",
-          "text": [
-            "(1) An application for registration as a research analyst shall be made to the Commission as per Annexure-I or Annexure-IA, as the case may be, along with all the documents specified therein and receipt evidencing payment of non-refundable fee of such amount as specified in Schedule-I.",
-            "(2) The Commission, while considering the application for registration, may require the applicant to furnish such further information or clarification as it deems appropriate.",
-            "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be intimated to the Commission within seven working days from the date of such change."
-          ]
-        },
-        {
-          "no": "2C",
-          "title": "Grant of certificate of registration",
-          "text": [
-            "(1) The Commission on being satisfied that the applicant is eligible for registration may grant a certificate of registration to the applicant as per Annexure-Il subject to such additional conditions as it may deem fit to impose.",
-            "(2) The certificate of registration granted under these regulations shall be valid till it is suspended or cancelled by the Commission."
-          ]
-        },
-        {
-          "no": "2D",
-          "title": "Refusal of registration",
-          "text": [
-            "The Commission may refuse the registration if in its opinion such applicant does not fulfill the requirements specified under these regulations or where the Commission after taking into account the facts, is of the view that it is not in the public interest or in the interest of the capital market to grant certificate of registration:",
-            "Provided that the Commission shall provide an opportunity of hearing before refusal of registration."
-          ]
-        },
-        {
-          "no": "2E",
-          "title": "Suspension or cancellation of registration",
-          "text": [
-            "(1) A research analyst may voluntarily request the cancellation of its registration by surrendering its certificate of registration to the Commission.",
-            "(2) The Commission may on its own or on request of a research analyst or on receipt of any complaint, after providing an opportunity of hearing may suspend or cancel the registration of a research analyst.",
-            "(3) A research analyst shall be held responsible for the liabilities and obligations arising out of any such act leading to suspension or cancellation of (4) Where proceedings for suspension or cancellation of registration have been initiated, the research analyst shall not be permitted to act as a research analyst.]"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Qualification, experience and certification requirement",
-          "text": [
-            "(1) An individual research analyst and persons associated with research analyst shall have the following minimum qualifications, at all times:",
-            ">(i). 16 years of education with bachelor's or master's degree in finance, accountancy, business management, statistics, commerce, economics or",
-            "law from an educational institution recognized by the Higher Education Commission of Pakistan;",
-            ">(ii). two years of relevant experience in the research department of a company operating in the financial sector or capital market; or",
-            ">(iiii). membership of a body of professional accountants as explained in the Listed Companies (Code of Corporate Governance) Regulations, 2019 or",
-            "professional qualification in investment management or financial risk management from a globally recognized institution as specified in Schedule-II.",
-            "(2) An individual research analyst and persons associated with research analyst shall obtain such mandatory certification(s) for research analysts as specified by the Commission from time to time.",
-            "(3) A head of research shall have the following minimum qualifications, at all times:",
-            ">(i) 16 years of education with bachelor's or master's degree in finance, accountancy, business management, statistics, commerce, economics or",
-            "law from an educational institution recognized by the Higher Education Commission of Pakistan; or",
-            ">(ii) membership of a body of professional accountants as explained in the Listed Companies (Code of Corporate Governance) Regulations, 2019 or",
-            "professional qualification in investment management or financial risk management from a globally recognized institution as specified in Schedule-II.",
-            "(4) A head of research shall have minimum three years of relevant experience in the research department of a company operating in the financial sector or capital market.]",
-            "[Chapter III Management of Conflicts of Interest and Disclosure Requirements]."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Establishing Policies and Procedures",
-          "text": [
-            "(1) A research analyst shall have written internal policies and control procedures governing the following matters:",
-            ">(i) trading activities of persons associated with research analyst are subject to a formal approval process;",
-            ">(ii) addressing actual or potential conflict of interest arising from dealings or trading in securities of the subject company;",
-            ">(iii) preventing the use of the research report and public appearance to manipulate the securities market.",
-            "(2) A research analyst shall have in place appropriate mechanisms to ensure independence of its research services from its other business activities.]"
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Restrictions on Research Analyst Compensation and Conduct of Business",
-          "text": [
-            "(1) A research analyst shall ensure that compensation of the research analyst and persons associated with research analyst is neither determined nor based on any other service(s) that the research analyst is offering.",
-            "This includes bonus, salary or any other form of compensation.",
-            "(2) Research analyst and persons associated with research analyst shall not be subject to the supervision or control by virtue of reporting or review of • performance of any employee of its non-research departments, and no personnel engaged in providing non-research services may have any influence or control over the compensatory evaluation of research analyst and persons associated with research analyst.",
-            "(3) A research analyst and persons associated with research analyst shall not provide any promise or assurance of favorable review in its research report to a company or industry or sector or group of companies or business group as consideration to commence or influence a business relationship or for the receipt of compensation or other benefits.",
-            "(4) A research analyst, persons associated with research analyst and their financially dependent close relatives shall not deal or trade directly or indirectly in the security of the subject company within seven days before the publication of such Research Report and Public Appearance.",
-            "(5) A research analyst shall furnish to the Commission information and reports in the manner as may be required by the Commission from time to time.",
-            "(6) A research analyst, persons associated with research analyst and their financially dependent close relatives shall not deal or trade directly or indirectly in the security of the subject company contrary to the given recommendation unless the target price is achieved:",
-            "Provided that such persons may deal or trade contrary to the given recommendation before achievement of the target price only when a revised research report or public appearance is disseminated through the same medium of communication:",
-            "Provided further that in case of a brokerage house, the restriction of taking a contrary position to the given recommendation shall apply on the proprietary trading of the brokerage house.",
-            "(7) It shall be the responsibility of the research analyst to ensure that no persons associated with the research analyst give conflicting advice to the person, group of persons or general public.",
-            "(8) A research analyst shall obtain an annual undertaking from its persons associated with research analyst duly signed by them demonstrating compliance with these regulations and Code of Communication as per AnnexureIII.",
-            "(9) A research analyst and persons associated with research analyst shall not provide any assurance of returns.] 20 (3) The Research Analyst/Research Entity shall not provide any promise or assurance of favorable review in its Research Report to a company or industry or sector or group of companies or 20 business group as consideration to commence or influence a business relationship or for the receipt of compensation r other benefits. (4) The Research Entity shall publically disclose compensation and reporting structure of the Research Analyst they employ.\""
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Limitations on publication of research reports and restrictions on public appearances",
-          "text": [
-            "(1) A research analyst and persons associated, with research analyst shall not submit a research report to the subject company before its publication.",
-            "(2) A research analyst and persons associated with research analyst shall not issue research report(s) or make public appearance(s) regarding a subject company for which the research analyst acted as a corporate advisor, underwriter or lead manager in a public offer from the date of its appointment till a period of 25 days from the date of completion of such offering.]"
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Content in research reports and public appearances",
-          "text": [
-            "(1) A research analyst and persons associated with research analyst shall ensure that its recommendations are supported by relevant data and analysis forming the basis for the research report and public appearance.",
-            "(2) A research analyst and persons associated with research analyst shall ensure that facts in the research report and public appearance are based on reliable information and the source of such information is disclosed. Further, the research analyst and persons associated with research analyst shall refrain from predicting the outcome of matters pending before the court of law or speculating on the basis of possible outcomes of such matters.",
-            "(3) A research analyst and persons associated with research analyst shall define the terms used in making recommendations and these terms should be used consistently.",
-            "(4) A research analyst and persons associated with research analyst shall disclose in the research report and public appearance the valuation methods used to determine the price target, if any, that has a reasonable basis and shall be accompanied by a disclosure concerning the risk that may impede achievement of the price target.",
-            "(5) A research analyst and persons associated with research analyst that employs a rating system shall clearly define in each research report and public appearance the meaning of each rating in the system, and any benchmarks on which a rating is based.",
-            "(6) A research analyst and persons associated with research analyst shall clearly disclose the target price and target date for its research service.]"
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Disclosures in research reports and public appearances",
-          "text": [
-            "(1) A research analyst and persons associated with research analyst shall disclose the following in research reports and public appearances:",
-            ">(i) if the research analyst or persons associated with research analyst or",
-            "their financially dependent close relative has any financial interest in the securities of the subject company and the nature of such interest, including shareholding in the subject company at the date of issuance of the research report or making public appearance:",
-            ">(ii) if the research analyst or persons associated with research analyst or",
-            "their financially dependent close relative is currently serving or has served in the past three years as a director or officer of the subject company;",
-            ">(iii) if the research analyst or persons associated with research analyst or",
-            "their financially dependent close relative received compensation from the subject company in the previous 12 months;",
-            ">(iv) if the subject company currently is, or during the 12-month period preceding the date of publication or distribution of the research report was a client of the research analyst;",
-            ">(v) if the research analyst or persons associated with research analyst has managed or co-managed a public offering or any takeover, buyback or",
-            "delisting offer of securities for the subject company in the past 12 months and/or received compensation for corporate advisory services, brokerage services or underwriting services from the subject company in the past 12 months;",
-            ">(vi) if the research analyst or persons associated with research analyst expects to receive or intends to seek compensation for corporate advisory services, brokerage services or underwriting services from the subject company in the next three months;",
-            ">(vii) if the research analyst and/ or persons associated with research analyst is issuing research report on any of its associated companies:",
-            ">(viii) any other material conflict of interest of the research analyst and/ or",
-            "persons associated with research analyst that the research analyst and/ or persons associated with research analyst knows or has reason to know at the date of the publication of a research report and making public appearance; and",
-            ">(ix) extent of use of artificial intelligence tools in its research report or",
-            "public appearance.",
-            "(2) The disclosures under sub-regulation (1) shall not be required to be made to the extent that they would reveal material non-public information regarding specific potential corporate advisory, brokerage or underwriting service transactions of the subject company.]"
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Distribution of Research Service",
-          "text": [
-            "(1) A research report shall not be distributed selectively to internal trading personnel or a particular client or class of clients in advance of other clients that are entitled to receive the research report.",
-            "(2) Any person located outside Pakistan engaged in issuance of research report and making public appearance in respect of securities listed or proposed to be listed on a stock exchange in Pakistan shall enter into an agreement with a research analyst registered under these regulations.",
-            "(3) A Research Analyst who distributes any Third Party Research Report shall review the Third Party Research Report for any untrue statement of material fact or any false or misleading information.",
-            "(4) A Research Analyst who distributes any Third Party Research Report ,shall disclose any material conflict of interest of such third party research provider or it shall provide a web address that directs a recipient to the relevant disclosures.",
-            "(5) In case a research analyst which is a body corporate obtains content of a Research Report from a White-Labeling Service Provider and publishes it under its own name, such White-Labeling Service Provider as well as the body corporate that publishes the content of a research report under its own name *shall be treated as a Research Analyst for the purposes of these Regulations and shall be responsible for compliance with these Regulations and shall make all hall be responsible for compliance with these Regulations and shall make all necessary disclosures of any material conflict of interest in such Research Report. •Such Research Analyst shall also provide disclosures required under these Regulations in the Research Report:",
-            "Provided that if such research analyst which is a body corporate makes any alterations in the Research Report prior to its publication, the Research analyst which is a body corporate shall be responsible for ensuring compliance with these Regulations in respect of such alteration.]",
-            "[Chapter IV Miscellaneous]"
-          ]
-        },
-        {
-          "no": "10",
-          "title": "General Responsibilities",
-          "text": [
-            "(1) A research analyst and persons associated with research analyst shall act in a fiduciary capacity towards its clients.",
-            "(2) The disclosures under these regulations shall be complete, timely, clear, concise, specific and made in a prominent manner so that investors obtain the full benefit of the information provided.",
-            "(3) A research analyst which is a body corporate shall maintain a functional website containing the following details:",
-            ">(i) company profile;",
-            ">(ii) registration related details;",
-            ">(iii) contact details;",
-            ">(iv) profiles of persons associated with research analyst;",
-            ">(v) list of covered securities and sectors;",
-            ">(vi) grievance redressal mechanism;",
-            ">(vii) extent of use of artificial intelligence tools in its research reports;",
-            ">(viii) compensation and reporting structure of persons associated with research analyst; and",
-            ">(ix) policies and procedures for disseminating research report and making public appearance.",
-            "(4) A research analyst and persons associated with research analyst shall comply to the Code of Communication as per Annexure-III.",
-            "(5) A research analyst and/ or persons associated with research analyst shall take all reasonable measures to redress clients' grievances promptly but not later than thirty days of receipt thereof and when called upon by the Commission or the securities exchange or any other regulatory body to do so it shall redress the grievances of clients within the time specified.",
-            "(6) A research analyst which a body corporate shall designate or employ a head of research and minimum two persons associated with research analyst.]"
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Maintenance of Records",
-          "text": [
-            "(1) A research analyst shall maintain the following records for a period of five years:",
-            ">(i) rationale for arriving at research recommendations;",
-            ">(ii) list of clients;",
-            ">(iii) UINs of clients;",
-            ">(iv) research fee;",
-            ">(v) terms and conditions agreed with client;",
-            ">(vi) undertaking by persons associated with research analyst as per regulation 5(8);",
-            ">(vii): clients' grievances and redressal of such grievances; and",
-            ">(viii) records of research reports, public appearances including audio calls and oral communication.]"
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Compliance and Enforcement Mechanism for the Research Analyst",
-          "text": [
-            "(1) A research analyst shall, as the case may be:-",
-            ">(i) establish compliance procedures on a regular basis to ensure that the procedures reflect current laws and provide adequate guidance to its persons associated with research analyst about what is permissible conduct;",
-            ">(ii) continuously monitor and audit the effectiveness of compliance procedures and keep its persons associated with research analyst updated with any changes in these procedures; and",
-            ">(iii) implement appropriate disciplinary sanctions for itself and its persons associated with research analyst in case of violations.",
-            "(2) A research analyst which is a body corporate shall either designate or employ a compliance officer responsible for monitoring compliance of the research analyst with the applicable regulatory regime.]"
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Penalty",
-          "text": [
-            "A research analyst and persons associated with research analyst who contravene any of the provisions of the Act or these regulations or circulars issued thereunder shall be dealt under the Act.]"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Research Analyst Regulations, 2015.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "{fn:1-3} [(1) In these regulations, unless there is anything repugnant in the subject or context, –]",
+      "a) “Act” means the Securities Act, 2015 (Act No III of 2015);",
+      "{fn:1-4}[b) “Close relative” means the spouse(s), lineal ascendant(s) and descendant(s);]",
+      "c) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      "{fn:1-5}[ca) “head of research” means a person, by whatever name called, who is responsible for the overall function and operations related to research services at the management level of a research analyst which is a body corporate;]",
+      "d) {fn:2-1}[Omitted]",
+      "{fn:2-2}[da) “individual” means any natural person granted a certificate of registration under these regulations;",
+      "db) “persons associated with research analyst” includes any officer, employee or any other staff of a research analyst who is involved in preparing, reviewing, approving, or supervising the content of research reports or public appearances;",
+      "dc) “target date” means a date on which the predicted future price of a specific listed security or public offer will be achieved;",
+      "dd) “target price” means a predicted future price of a specific listed security or public offer;]",
+      "{fn:2-3}[e) “public appearance” means any participation in a conference call, audio call, video call, seminar, forum (including interactive and non-interactive electronic forum, electronic communication and social media communication), radio, television, internet, web, print media broadcast, authoring a print media article, or other public speaking activity in which a research service is provided concerning listed securities or public offer, providing a basis for investment decision:",
+      "Provided that one-to-one calls to a single client shall not be considered as public appearance;]",
+      "{fn:2-4}[f) “research analyst” means a natural person or body corporate, by whatever name called, who is engaged in providing research services and includes White-Labeling service providers and body corporate which obtains content of a research report from a WhiteLabeling Service Provider and publishes it under its own name;]",
+      "g) {fn:2-5}[Omitted]",
+      ">{fn:3-1}[(h) “research report” means written communication in any form that includes research services concerning listed securities or public offer, providing a basis for investment decision and does not include the following communications: -",
+      "i). comments on general trends in the securities market;",
+      "ii). commentaries on economic, political or market conditions;",
+      "iii). periodic reports or other communications prepared for unit holders of mutual funds or collective investment schemes;",
+      "iv). internal communications that are not given to current or prospective clients;",
+      "v). communications that constitute offer documents or prospectus that are circulated under a specific law;",
+      "vi). statistical summaries of financial data of the companies;",
+      "vii). general commentary relating to the past performance of a sector or the broad-based index; and",
+      "viii). any other communication which the Commission may specify from time to time;]",
+      "{fn:3-2}[ha) “research services” include provision of the following services to a person, group of persons, or general public:",
+      "i). making 'buy/sell/hold' recommendation;",
+      "ii). giving price target;",
+      "iii). stop loss target;",
+      "iv). providing opinion to influence buy/sell/hold decisions;",
+      "v). recommending a portfolio that includes listed securities;",
+      "vi). providing trading signals based on technical analysis; or",
+      "vii). any other service as specified by the Commission;]",
+      "{fn:4-1}[i) “subject company” means an issuer whose public offer or securities are the subject of a research report or a public appearance;]",
+      "{fn:4-2}[j) “Third Party Research Report” means a Research Report produced by any international research house located outside Pakistan;]",
+      "{fn:4-3}[k) “White-Labeling service provider” means such person who prepares Research Reports and sells them to a Research Entity for publication under the Research Entity’s name;]",
+      "{fn:4-4}[(2) Words and expressions used but not defined in these regulations shall have the same meanings as assigned to them under the Act or any administered legislation.]"
+     ],
+     "fn": [
+      {
+       "n": "1-3",
+       "text": "Inserted vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "1-4",
+       "text": "Substituted for the text “b)“Close relative” shall mean the spouse(s) and lineal ascendant(s) and descendant(s) of the Research Analyst;” vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "1-5",
+       "text": "Inserted vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "2-1",
+       "text": "Deleted the text “d)\"Independent Research Analyst\" means a person performing the functions of Research Analyst who is not engaged in any other regulated securities activity;” vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "2-2",
+       "text": "Inserted vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "2-3",
+       "text": "Substituted for the text “e)“Public Appearance” means any participation in a conference call, seminar, forum (including interactive and non-interactive electronic forum 3[, electronic communication and social media communication]), radio or television or internet or web or print media broadcast, authoring a print media article or other public speaking activity in which a Research Analyst, or an officer, director, or employee of a Research Entity or Independent Research Analyst, makes a recommendation or offers an opinion, concerning listed securities or a public offer;” vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "2-4",
+       "text": "Substituted for the text “f)“Research Analyst” means a person, by whatever name called, who is involved in the preparation, writing and/or publication of a Research Report or the substance of a Research Report concerning securities that are listed or to be listed on a securities exchange licensed in Pakistan and includes White-Labeling service providers;” vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "2-5",
+       "text": "Deleted the text “g) “Research Entity\" means a company which provides services of issuance of a Research Report in its own name 2[prepared by] the Research Analysts employed by it, 3[or through White-Labeling services provider, and which is also engaged in providing the following services for the securities market:] i). acting as a securities adviser; ii). acting as an underwriter; iii). offering brokerage services; iv). participating in a selling or an offering for the issuer or otherwise acting in furtherance of a public offer of the issuer; v). acting as an adviser in a merger or acquisition; vi). providing or arranging venture capital or equity or debt; vii). serving as placement agent for the issuer or otherwise acting in furtherance of a private offering of the issuer; and viii). any other services as specified by the Commission. “ vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "3-1",
+       "text": "Substituted for the text “h) “Research Report” includes a written communication, in any form, which includes: (i) a Price Target – the fundamental value of a listed security or a public offer derived by the Research Analyst; or (ii) a “buy/sell/hold” recommendation or an analysis or opinion concerning a listed security or a public offer; or (iii) an analysis of equity securities of a particular sector or industry; or (iv) a commentary predicting a specific level or change for an index; Provided that the following communications shall not be treated as a Research Report and shall not be subject to restrictions imposed under these Regulations, if issued by any person on standalone basis or made part of Research Report: (I) comments on general trends in the securities market; (II) commentaries on economic, political or market conditions; (III) periodic reports or other communications prepared for unit holders of mutual funds or collective investment schemes; (IV) internal communications that are not given to current or prospective clients; (V) communications that constitute offer documents or prospectus that are circulated under a specific law; (VI) statistical summaries of financial data of the companies; (VII) general commentary relating to the past performance of a sector or the index; and (VIII) any other communication which the Commission may specify from time to time.]” vide S.R.O.7(I)/2026 dated January 2,"
+      },
+      {
+       "n": "3-2",
+       "text": "Inserted vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "4-1",
+       "text": "Substituted for the text “i) “Subject Company” includes the issuer or company whose public offer or securities are the subject of a Research Report or a Public Appearance.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "4-2",
+       "text": "Substituted for the text “j) “Third Party Research Report” means a Research Report produced by any international research house located outside Pakistan.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "4-3",
+       "text": "Substituted for the text “k) “White-Labeling service provider” means such person who prepares Research Reports and sells them to a Research Entity for publication under the Research Entity’s name.” vide S.R.O.7(I)/2026 dated January 2, 2026"
+      },
+      {
+       "n": "4-4",
+       "text": "Substituted for the text “All other words and expressions used but not defined in these regulations shall have the same meanings as assigned to them under the Act.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
     }
-  ],
-  "schedules": [
+   ],
+   "fn": [
     {
-      "title": "Annexure-I",
-      "text": [
-        "Application for Registration as a Research Analyst [Individual]",
-        "The Securities & Exchange Commission of Pakistan.",
-        "Dear Sir/Madam,",
-        "1. I hereby apply for registration as a Research Analyst",
-        "2. I hereby furnish the following information,- a. Name (in block letters)",
-        "b. Father's/Husband's name (in block letters)",
-        "c. NICOP/CNIC/Passport Number (Attach Copy)",
-        "d. UIN e. Contact Details:",
-        "i. Official address ii. Residential address iii. Land line number iv. Cell number v. Email f. Academic qualification g. Medium of dissemination of research reports, along with relevant email addresses, social media handles, etc.",
-        "h. Brief summary of type of services offered i. Mandatory Certification by IFMP (attach certificate)",
-        "j. Details of any other licenses issued by SECP k. Detailed resume",
-        "1. Details of grievance redressal mechanism",
-        "3. I hereby confirm that the statements made, and the information given by me are correct and that there are no facts which have been concealed.",
-        "4. I have read and understood the research analyst regulations and will ensure compliance therewith/ fulfill the obligation/ requirement under the law and will refrain from doing any prohibitory act.",
-        "5. I will notify SECP regarding any change in the information provided in the application within 7 days of such change.",
-        "6. I will comply with any other condition imposed by SECP.",
-        "7. Original paid bank challan evidencing payment of registration fee as specified in Schedule I of the Regulations is enclosed.",
-        "Yours faithfully,",
-        "Signature.",
-        "Date."
-      ]
-    },
-    {
-      "title": "Annexure-IA",
-      "text": [
-        "Application for Registration as a Research Analyst",
-        "[For other than Individual]",
-        "The Securities & Exchange Commission of Pakistan.",
-        "Dear Sir/Madam,",
-        "1. We hereby apply for registration as a Research Analyst",
-        "2. We hereby furnish the following information,- a. Name b. Registration No./CUIN/LLPIN (Attach copy of Registration certificate, in case of",
-        "Firm)",
-        "c. Address of registered office d. Registered office address, place of business and contact details:",
-        "i. Official address ii. Land line number iii. Cell number iv. Email e. Details of Compliance Officer:",
-        "i. Name ii. NICOP/ Passport Number/CNIC iii. Address iv. Mobile/Landline Number v. Email f. Medium of dissemination of research reports, along with relevant email",
-        "•addresses, social media handles, etc.",
-        "g. Total number of persons associated with research analyst (along with status of mandatory certification)",
-        "h. Details of corporate website i. Details of any existing or potential conflicts of interest j. Details of any other licenses issued by SECP",
-        "3. We hereby confirm that the statements made, and the information given by me are correct and that there are no facts which have been concealed.",
-        "4. We have read and understood the research analyst regulations and will ensure compliance therewith/ fulfill the obligation/ requirement under the law and will refrain from doing any prohibitery act.",
-        "5. We will notify SECP regarding any change in the information provided in the application within 7 days of such change.",
-        "6. We will comply with any other condition imposed by SECP.",
-        "7. Original paid bank challan evidencing payment of registration fee as specified in",
-        "Schedule I of the Regulations is enclosed.",
-        "Yours faithfully,",
-        "Signature of the applicant's chief executive officer, company secretary or chief financial officer duly authorized by the board of directors of the applicant through a resolution for signing and submission of this application.]"
-      ]
-    },
-    {
-      "title": "Annexure-II SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN LICENSING DEPARTMENT",
-      "text": [
-        "Registration No.",
-        "Islamabad, Dated:",
-        "CERTIFICATE OF REGISTRATION AS A RESEARCH ANALYST",
-        "The Securities and Exchange Commission of Pakistan, having considered the application for registration as a Research Analyst submitted by (Name of the applicant) under regulation 2A of the Research Analyst",
-        "Regulations, 2015 (Regulations) and on being satisfied with the said application, hereby grants certificate of registration in the name of_ _(Name of the applicant) in exercise of powers conferred under regulation 2C of the Regulations.",
-        "Approving Authority"
-      ]
-    },
-    {
-      "title": "Annexure-III",
-      "text": [
-        "Code of Communication",
-        "Information/ Disclosures for research reports and public appearances",
-        "The information/disclosures that the research reports and public appearances shall include the following:",
-        "i. Name of the research analyst as registered with SECP, registered office address,",
-        "SECP research analyst registration no., and logo/brand name/trade name of research analyst.",
-        "ii. Information which is in unambiguous language. In this context, the following shall be ensured:",
-        "a. For buy recommendations: The terms \"Buy,\" \"Outperform,\" or \"Overweight\"",
-        "shall be used to indicate a positive investment recommendation or expectation that the security will perform better than its peers or the market.",
-        "b. For hold recommendations: The terms \"Hold,\" \"Neutral,\" or \"Market weight\"",
-        "shall be used to signify that the security is expected to perform in line with its peers or the market, with no clear upward or downward trend anticipated.",
-        "C. For sell recommendations: The terms \"Sell,\" \"Underperform,\" or \"Underweight\"",
-        "shall be used to indicate a negative investment recommendation or expectation that the security will perform worse than its peers or the market.",
-        "iii. Standard warning which states \"Investment in securities market is subject to market risks. Read all the related documents carefully before investing.\" No addition or deletion of words shall be made to/from the standard warning.",
-        "iv. Names of natural persons associated with preparing and publishing of research report and making public appearance.",
-        "V. Clarify and distinguish betv.een facts, opinions, and assumptions made or relied upon.]"
-      ]
-    },
-    {
-      "title": "Schedule-I",
-      "text": [
-        "Fees",
-        "[see Regulations 2B(1)]",
-        "Description of fee Amount of fee (PKR)",
-        "Registration fee (for individual) 25,000",
-        "Registration fee (for other than individual) 100,000"
-      ]
-    },
-    {
-      "title": "Schedule-II",
-      "text": [
-        "Professional qualifications in investment management or financial risk management",
-        "[see Regulations 3]",
-        "Sr. Institute Certification",
-        "1 CFA Institute, USA Chartered Financial Analyst",
-        "Professionals, USA",
-        "3 Professional Risk Managers' Professional Risk Manager",
-        "International Association, USA",
-        "4 Society of Actuaries, USA Fellow of the Society of",
-        "Actuaries",
-        "5 Institute and Faculty of Actuaries, UK Fellow of Institute and Faculty of Actuaries]",
-        "Conditions for professionals for ensure compliance.- Foliowing is the text of",
-        "SECP's Circular No. 11 of 2017 dated April 27, 2017:-",
-        "\"With a view to inculcate good governance practices, promote investor protection and in order to have professional/skilled personnel providing research/recommendation to investors, the Securities and Exchange Commission of Pakistan, in exercise of its powers conferred under section 169(2)(b) of the Securities Act, 2015 and Regulation 3(2) of the",
-        "Research Analyst Regulations, 2015, hereby directs the following to ensure compliance with the below-mentioned requirements:",
-        "•",
-        "• All individuals presently acting as independent research analysts or research analysts employed with research entities and independent research analysts (including chief executive/head of research function, by whatever name called)",
-        "shall be required to obtain the Research Analysts Certification offered by the",
-        "Institute of Financial Markets of Pakistan (IFM) within six months of the issuance of this circular.",
-        "within six months of intimation\" to within six months of intimation\" to the Commission as a research analyst/research entity.\"",
-        "Extension in Research Analyst certification timeline.- Following is the text of",
-        "SECP's Circular No. 22 of 2017 dated September 25, 2017:-",
-        "\"In furtherance to the Circular No. 11 of 2017 dated April 27; 2017, the Securities and Exchange Commission of Pakistan, in exercise of its powers conferred under section",
-        "169(2)(b) of the Securities Act, 2015 and Regulation 3(2) of the Research Analyst",
-        "Regulations, 2015, and considering the requests of the market participants, hereby makes following modifications to the above-referred Circular:",
-        "1.",
-        "1. The timeline provided in bullet one of the said circular is extended for a period of six months with effect from October 26, 2017.",
-        "2. Following new bullet shall be added to the said circular",
-        "CFA charter-holders,shall be exempt from the requirement of mandatory",
-        "Research Analysts Certification, subject to passing of the Pakistan Markets",
-        "Regulation Certification offered by Institute of Financial Markets (IFM).",
-        "3.",
-        "3. The IFM shall ensure that mandatory preparatory sessions are conducted for all applicants of the above-referred certification during the extended timeline.\""
-      ]
+     "n": "1-2",
+     "text": "Inserted vide S.R.O.7(I)/2026 dated January 2, 2026"
     }
-  ],
-  "frontNotes": [],
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Chapter II — Registration Requirements Of Research Analysts",
+   "sections": [
+    {
+     "no": "2A",
+     "title": "Prohibition",
+     "page": 4,
+     "text": [
+      "No natural person or body corporate shall act as a research analyst unless it is registered as a research analyst by the Commission under these regulations:",
+      "Provided that persons associated with research analyst shall be deemed registered under these regulations:",
+      "Provided further that securities brokers shall be deemed registered under these regulations subject to submission of information as per Annexure-IA."
+     ]
+    },
+    {
+     "no": "2B",
+     "title": "Application and procedure for registration",
+     "page": 4,
+     "text": [
+      "(1) An application for registration as a research analyst shall be made to the Commission as per Annexure-I or Annexure-IA, as the case may be, along with all the documents specified therein and receipt evidencing payment of non-refundable fee of such amount as specified in Schedule-I.",
+      "(2) The Commission, while considering the application for registration, may require the applicant to furnish such further information or clarification as it deems appropriate.",
+      "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be intimated to the Commission within seven working days from the date of such change."
+     ]
+    },
+    {
+     "no": "2C",
+     "title": "Grant of certificate of registration",
+     "page": 5,
+     "text": [
+      "(1) The Commission on being satisfied that the applicant is eligible for registration may grant a certificate of registration to the applicant as per AnnexureII subject to such additional conditions as it may deem fit to impose.",
+      "(2) The certificate of registration granted under these regulations shall be valid till it is suspended or cancelled by the Commission."
+     ]
+    },
+    {
+     "no": "2D",
+     "title": "Refusal of registration",
+     "page": 5,
+     "text": [
+      "The Commission may refuse the registration if in its opinion such applicant does not fulfill the requirements specified under these regulations or where the Commission after taking into account the facts, is of the view that it is not in the public interest or in the interest of the capital market to grant certificate of registration:",
+      "Provided that the Commission shall provide an opportunity of hearing before refusal of registration."
+     ]
+    },
+    {
+     "no": "2E",
+     "title": "Suspension or cancellation of registration",
+     "page": 5,
+     "text": [
+      "(1) A research analyst may voluntarily request the cancellation of its registration by surrendering its certificate of registration to the Commission.",
+      "(2) The Commission may on its own or on request of a research analyst or on receipt of any complaint, after providing an opportunity of hearing may suspend or cancel the registration of a research analyst.",
+      "(3) A research analyst shall be held responsible for the liabilities and obligations arising out of any such act leading to suspension or cancellation of registration.",
+      "(4) Where proceedings for suspension or cancellation of registration have been initiated, the research analyst shall not be permitted to act as a research analyst.]"
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Qualification, experience and certification requirement",
+     "page": 5,
+     "text": [
+      "{fn:5-1}[(1) An individual research analyst and persons associated with research analyst shall have the following minimum qualifications, at all times:",
+      ">>(i). 16 years of education with bachelor’s or master’s degree in finance, accountancy, business management, statistics, commerce, economics or law from an educational institution recognized by the Higher Education Commission of Pakistan;",
+      ">>(ii). two years of relevant experience in the research department of a company operating in the financial sector or capital market; or",
+      ">>(iii). membership of a body of professional accountants as explained in the Listed Companies (Code of Corporate Governance) Regulations, 2019 or professional qualification in investment management or financial risk management from a globally recognized institution as specified in Schedule-II.",
+      "(2) An individual research analyst and persons associated with research analyst shall obtain such mandatory certification(s) for research analysts as specified by the Commission from time to time.",
+      "(3) A head of research shall have the following minimum qualifications, at all times:",
+      ">>(i) 16 years of education with bachelor’s or master’s degree in finance, accountancy, business management, statistics, commerce, economics or law from an educational institution recognized by the Higher Education Commission of Pakistan; or",
+      ">>(ii) membership of a body of professional accountants as explained in the Listed Companies (Code of Corporate Governance) Regulations, 2019 or professional qualification in investment management or financial risk management from a globally recognized institution as specified in Schedule-II.",
+      "(4) A head of research shall have minimum three years of relevant experience in the research department of a company operating in the financial sector or capital market.]"
+     ],
+     "fn": [
+      {
+       "n": "5-1",
+       "text": "Substituted for the text “3. Qualification, experience and certification requirement.- (1) A Research Analyst including an Independent Research Analyst, shall have the following minimum qualifications: (a) a professional qualification in accounting and finance or a graduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services provided by a university recognized by the Higher Education Commission of Pakistan; or (b) two years of relevant experience which includes working in the research department of a company operating in the financial sector or capital market or experience in activities relating to securities or fund or asset or portfolio management; or (c) any known specialized certification other than mentioned in regulation (2) below, covering areas of financial and capital markets. (2) In addition to the above, individuals employed as Research Analyst by the Research Entity or Independent Research Analyst, as the case may be, shall obtain such mandatory certification(s) for Research Analysts as specified by the Commission from time to time.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "4-5",
+     "text": "Inserted vide S.R.O.7(I)/2026 dated January 2, 2026"
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Management Of Conflicts Of Interest And Disclosure Requirements]",
+   "sections": [
+    {
+     "no": "4",
+     "title": "Establishing Policies and Procedures",
+     "page": 6,
+     "text": [
+      "{fn:6-2}[(1) A research analyst shall have written internal policies and control procedures governing the following matters:",
+      ">>(i) trading activities of persons associated with research analyst are subject to a formal approval process;",
+      ">>(ii) addressing actual or potential conflict of interest arising from dealings or trading in securities of the subject company;",
+      ">>(iii) preventing the use of the research report and public appearance to manipulate the securities market.",
+      "(2) A research analyst shall have in place appropriate mechanisms to ensure independence of its research services from its other business activities.]"
+     ],
+     "fn": [
+      {
+       "n": "6-2",
+       "text": "Substituted for the text “4. Establishing Policies and Procedures.- (1) The Independent Research Analyst and Research Entity shall have written internal policies and control procedures governing the following matters: (i) trading activities of Research Analyst is subject to a formal approval process; (ii) restricting dealing or trading by itself (in case of an Independent Research Analyst), and Research Analyst and their close relatives, in the securities of the Subject Company, within seven days before and five days after the publication of such Research Report; (iii) public disclosure, along-with proper rationale, of any dealing or trading by itself or the Research Analyst, in a manner contrary to its given recommendation; (vi) addressing actual or potential conflict of interest arising from dealings or trading in securities of the Subject Company by the Research Analyst and Research Entity or their officers, directors or employees, and participation of the Research Analyst in business activities designed to solicit nonresearch business such as sales pitches or road shows or corporate advisory transactions; (v) promoting objective and reliable research that reflects the unbiased and independent view of the Research Analyst; and (vi) preventing the use of the Research Report to manipulate the securities market. (2) The Research Entity shall have in place appropriate mechanisms to ensure independence of its research activities from its other business activities.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Restrictions on Research Analyst Compensation and Conduct of Business",
+     "page": 7,
+     "text": [
+      "{fn:7-1}[(1) A research analyst shall ensure that compensation of the research analyst and persons associated with research analyst is neither determined nor based on any other service(s) that the research analyst is offering. This includes bonus, salary or any other form of compensation.",
+      "(2) Research analyst and persons associated with research analyst shall not be subject to the supervision or control by virtue of reporting or review of performance of any employee of its non-research departments, and no personnel engaged in providing non-research services may have any influence or control over the compensatory evaluation of research analyst and persons associated with research analyst.",
+      "(3) A research analyst and persons associated with research analyst shall not provide any promise or assurance of favorable review in its research report to a company or industry or sector or group of companies or business group as consideration to commence or influence a business relationship or for the receipt of compensation or other benefits.",
+      "(4) A research analyst, persons associated with research analyst and their financially dependent close relatives shall not deal or trade directly or indirectly in the security of the subject company within seven days before the publication of such Research Report and Public Appearance.",
+      "(5) A research analyst shall furnish to the Commission information and reports in the manner as may be required by the Commission from time to time.",
+      "(6) A research analyst, persons associated with research analyst and their financially dependent close relatives shall not deal or trade directly or indirectly in the security of the subject company contrary to the given recommendation unless the target price is achieved:",
+      "Provided that such persons may deal or trade contrary to the given recommendation before achievement of the target price only when a revised research report or public appearance is disseminated through the same medium of communication:",
+      "Provided further that in case of a brokerage house, the restriction of taking a contrary position to the given recommendation shall apply on the proprietary trading of the brokerage house.",
+      "(7) It shall be the responsibility of the research analyst to ensure that no persons associated with the research analyst give conflicting advice to the person, group of persons or general public.",
+      "(8) A research analyst shall obtain an annual undertaking from its persons associated with research analyst duly signed by them demonstrating compliance with these regulations and Code of Communication as per Annexure-III.",
+      "(9) A research analyst and persons associated with research analyst shall not provide any assurance of returns.]"
+     ],
+     "fn": [
+      {
+       "n": "7-1",
+       "text": "Substituted for the text “5. Restrictions on Research Analyst Compensation and Conduct of Business etc.- (1) The Research Entity shall ensure that compensation of the Research Analyst is neither determined nor based on any other service(s) that the Research Entity is offering. This includes bonus, salary or any other form of compensation. (2) An individual employed as Research Analyst by the Research Entity shall not be subject to the supervision or control of any employee of its non-research departments, and no personnel engaged in providing nonresearch services may have any influence or control over the compensatory evaluation of Research Analyst. (3) The Research Analyst/Research Entity shall not provide any promise or assurance of favorable review in its Research Report to a company or industry or sector or group of companies or business group as consideration to commence or influence a business relationship or for the receipt of compensation or other benefits. (4) The Research Entity shall publically disclose compensation and reporting structure of the Research Analyst they employ.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Limitations on publication of research reports and restrictions on public appearances",
+     "page": 8,
+     "text": [
+      "{fn:8-1}[ (1) A research analyst and persons associated with research analyst shall not submit a research report to the subject company before its publication.",
+      "(2) A research analyst and persons associated with research analyst shall not issue research report(s) or make public appearance(s) regarding a subject company for which the research analyst acted as a corporate advisor, underwriter or lead manager in a public offer from the date of its appointment till a period of 25 days from the date of completion of such offering.]"
+     ],
+     "fn": [
+      {
+       "n": "8-1",
+       "text": "Substituted for the text “6. Limitations on Publication of Research Reports and Restrictions on Public Appearances by Research Analyst.- (1) The Research Analyst/Research Entity shall not submit a Research Report to the Subject Company before its publication: Provided that some sections of the Research Report may be submitted to the Subject Company before its publication for review as necessary only to verify the factual accuracy of information in those sections. (2) The Research Entity shall not issue Research Reports and it or its Research Analysts, officers or directors shall not make Public Appearance(s) regarding a Subject Company for which the Research Entity acted as a corporate advisor, underwriter or lead manager in a public offer from the date of its appointment till a period of 25 days from the date of completion of such offering.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Content in research reports and public appearances",
+     "page": 8,
+     "text": [
+      "{fn:8-2}[(1) A research analyst and persons associated with research analyst shall ensure that its recommendations are supported by relevant data and analysis forming the basis for the research report and public appearance.",
+      "(2) A research analyst and persons associated with research analyst shall ensure that facts in the research report and public appearance are based on reliable information and the source of such information is disclosed. Further, the research analyst and persons associated with research analyst shall refrain from predicting the outcome of matters pending before the court of law or speculating on the basis of possible outcomes of such matters.",
+      "(3) A research analyst and persons associated with research analyst shall define the terms used in making recommendations and these terms should be used consistently.",
+      "(4) A research analyst and persons associated with research analyst shall disclose in the research report and public appearance the valuation methods used to determine the price target, if any, that has a reasonable basis and shall be accompanied by a disclosure concerning the risk that may impede achievement of the price target.",
+      "(5) A research analyst and persons associated with research analyst that employs a rating system shall clearly define in each research report and public appearance the meaning of each rating in the system, and any benchmarks on which a rating is based.",
+      "(6) A research analyst and persons associated with research analyst shall clearly disclose the target price and target date for its research service.]"
+     ],
+     "fn": [
+      {
+       "n": "8-2",
+       "text": "Substituted for the text “7. Content in Research Reports.- (1) The Independent Research Analyst, Research Entity and Research Analyst shall have adequate documentary basis, supported by research, for preparing a Research Report. (2) The Research Analyst shall ensure that facts in the Research Reports are based on reliable information and the source of such information is disclosed. Further, the Research Analyst shall refrain from predicting the outcome of matters pending before the Court of law or speculating on the basis of possible outcomes of such matters.] (2A) The Research Analyst shall define the terms used in making recommendations and these terms should be used consistently.] (3) The Research Analyst shall disclose in the Research Report the valuation methods used to determine the Price Target, if any, that has a reasonable basis and shall be accompanied by a disclosure concerning the risk that may impede achievement of the Price Target. (4) The Research Analyst that employs a rating system must clearly define in each Research Report the meaning of each rating in the system, including the time horizon and any benchmarks on which a rating is based.” Vide S.R.O.7(I)/2026 dated January 2,"
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Disclosures in research reports and public appearances",
+     "page": 9,
+     "text": [
+      "{fn:9-1}[(1) A research analyst and persons associated with research analyst shall disclose the following in research reports and public appearances:",
+      ">>(i) if the research analyst or persons associated with research analyst or their financially dependent close relative has any financial interest in the securities of the subject company and the nature of such interest, including shareholding in the subject company at the date of issuance of the research report or making public appearance;",
+      ">>(ii) if the research analyst or persons associated with research analyst or their financially dependent close relative is currently serving or has served in the past three years as a director or officer of the subject company;",
+      ">>(iii) if the research analyst or persons associated with research analyst or their financially dependent close relative received compensation from the subject company in the previous 12 months;",
+      ">>(iv) if the subject company currently is, or during the 12-month period preceding the date of publication or distribution of the research report was a client of the research analyst;",
+      ">>(v) if the research analyst or persons associated with research analyst has managed or co-managed a public offering or any takeover, buyback or delisting offer of securities for the subject company in the past 12 months and/or received compensation for corporate advisory services, brokerage services or underwriting services from the subject company in the past 12 months;",
+      ">>(vi) if the research analyst or persons associated with research analyst expects to receive or intends to seek compensation for corporate advisory services, brokerage services or underwriting services from the subject company in the next three months;",
+      ">>(vii) if the research analyst and/ or persons associated with research analyst is issuing research report on any of its associated companies;",
+      "(viii) any other material conflict of interest of the research analyst and/ or persons associated with research analyst that the research analyst and/ or persons associated with research analyst knows or has reason to know at the date of the publication of a research report and making public appearance; and",
+      ">>(ix) extent of use of artificial intelligence tools in its research report or public appearance.",
+      "(2) The disclosures under sub-regulation (1) shall not be required to be made to the extent that they would reveal material non-public information regarding specific potential corporate advisory, brokerage or underwriting service transactions of the subject company.”]"
+     ],
+     "fn": [
+      {
+       "n": "9-1",
+       "text": "Substituted for the text “8. Disclosures in Research Reports.- (1) If the Research Entity acts as a market marker in the securities of a Subject Company, the fact shall be disclosed. (2) The Independent Research Analyst, the Research Entity and the individual employed by them as Research Analyst shall disclose: (i) if it or any of its officers, directors, associates or a close relative has a financial interest in the securities of the Subject Company and the nature of such interest, provided such interest (actual/beneficial) aggregates to an amount exceeding 1% of the value of the securities of the Subject Company at the time of issuance of the Research Report; (ii) if it or any of its officers, directors, associates or a close relative is currently serving or has served in the past three years as a director or officer of the Subject Company; (iii) if it or any of its officers, directors, associates or a close relative received compensation from the Subject Company in the previous 12 months; (iv) if the Subject Company currently is, or during the 12-month period preceding the date of publication or distribution of the Research Report, was, a client of the Research Entity; (v) if the Research Entity has managed or co-managed a public offering or any takeover, buyback or delisting offer of securities for the Subject Company in the past 12 months and/or received compensation for corporate advisory services, brokerage services or underwriting services from the Subject Company in the past 12 months; (vi) if the Research Entity expects to receive or intends to seek compensation for corporate advisory services, brokerage services or underwriting services from the Subject Company in the next three months; (vii) if the Research Analyst is issuing Research Report on any of its associated companies; and (viii) any other material conflict of interest of the Research Analyst/Research Entity which has the ability to influence the content of a Research Report, that the Research Analyst/ Research Entity knows or has reason to know at the time of the publication or distribution of a Research Report. (3) All material disclosures under these regulations shall also be made by a Research Analyst and employees, officers or directors of an Independent Research Analyst/Research Entity in Public Appearance(s). (4) The disclosures given above shall not be required to be made to the extent that they would reveal material non-public information regarding specific potential corporate advisory, brokerage or underwriting service transactions of the Subject Company.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Distribution of Research Service",
+     "page": 10,
+     "text": [
+      "{fn:10-1}[(1) A research report shall not be distributed selectively to internal trading personnel or a particular client or class of clients in advance of other clients that are entitled to receive the research report.",
+      "(2) Any person located outside Pakistan engaged in issuance of research report and making public appearance in respect of securities listed or proposed to be listed on a stock exchange in Pakistan shall enter into an agreement with a research analyst registered under these regulations.",
+      "(3) A Research Analyst who distributes any Third Party Research Report shall review the Third Party Research Report for any untrue statement of material fact or any false or misleading information.",
+      "(4) A Research Analyst who distributes any Third Party Research Report shall disclose any material conflict of interest of such third party research provider or it shall provide a web address that directs a recipient to the relevant disclosures.",
+      "(5) In case a research analyst which is a body corporate obtains content of a Research Report from a White-Labeling Service Provider and publishes it under its own name, such WhiteLabeling Service Provider as well as the body corporate that publishes the content of a research report under its own name shall be treated as a Research Analyst for the purposes of these Regulations and shall be responsible for compliance with these Regulations and shall make all necessary disclosures of any material conflict of interest in such Research Report. Such Research Analyst shall also provide disclosures required under these Regulations in the Research Report:",
+      "Provided that if such research analyst which is a body corporate makes any alterations in the Research Report prior to its publication, the Research analyst which is a body corporate shall be responsible for ensuring compliance with these Regulations in respect of such alteration.]"
+     ],
+     "fn": [
+      {
+       "n": "10-1",
+       "text": "Substituted for the text “9. Distribution of Research Reports.- (1) A Research Report shall not be distributed selectively to internal trading personnel or a particular client or class of clients in advance of other clients that are entitled to receive the Research Report. Further, the Independent Research Analyst and Research Entity shall publically disclose their policies and procedures for disseminating Research Report. (2) Any person located outside Pakistan engaged in issuance of Research Report in respect of securities listed or proposed to be listed on a stock exchange in Pakistan shall enter into an agreement with an Independent Research Analyst or a Research Entity. (3) An Independent Research Analyst/Research Entity who distributes any Third Party Research Report shall review the Third Party Research Report for any untrue statement of material fact or any false or misleading information. (4) An Independent Research Analyst/Research Entity who distributes any Third Party Research Report shall disclose any material conflict of interest of such third party research provider or it shall provide a web address that directs a recipient to the relevant disclosures. (5) In case a Research Entity obtains content of a Research Report from a White-Labeling Service Provider and publishes it under the Research Entity’s name, such White-Labeling Service Provider shall be treated as a Research Analyst for the purposes of these Regulations and shall be responsible for compliance with these Regulations and shall make all necessary disclosures of any material conflict of interest in such Research Report. Such Research Entity shall also provide disclosures required under these Regulations in the Research Report: Provided that if such Research Entity makes any alterations in the Research Report prior to its publication, the Research Entity shall be responsible for ensuring compliance with these Regulations in respect of such alteration.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "6-1",
+     "text": "Inserted vide S.R.O.7(I)/2026 dated January 2, 2026"
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Miscellaneous]",
+   "sections": [
+    {
+     "no": "10",
+     "title": "General Responsibilities",
+     "page": 11,
+     "text": [
+      "{fn:11-2}[(1) A research analyst and persons associated with research analyst shall act in a fiduciary capacity towards its clients.",
+      "(2) The disclosures under these regulations shall be complete, timely, clear, concise, specific and made in a prominent manner so that investors obtain the full benefit of the information provided.",
+      "(3) A research analyst which is a body corporate shall maintain a functional website containing the following details:",
+      ">>(i) company profile;",
+      ">>(ii) registration related details;",
+      ">>(iii) contact details;",
+      ">>(iv) profiles of persons associated with research analyst;",
+      ">>(v) list of covered securities and sectors;",
+      ">>(vi) grievance redressal mechanism;",
+      ">>(vii) extent of use of artificial intelligence tools in its research reports;",
+      "(viii) compensation and reporting structure of persons associated with research analyst; and",
+      ">>(ix) policies and procedures for disseminating research report and making public appearance.",
+      "(4) A research analyst and persons associated with research analyst shall comply to the Code of Communication as per Annexure–III.",
+      "(5) A research analyst and/ or persons associated with research analyst shall take all reasonable measures to redress clients’ grievances promptly but not later than thirty days of receipt thereof and when called upon by the Commission or the securities exchange or any other regulatory body to do so it shall redress the grievances of clients within the time specified.",
+      "(6) A research analyst which a body corporate shall designate or employ a head of research and minimum two persons associated with research analyst.]"
+     ],
+     "fn": [
+      {
+       "n": "11-2",
+       "text": "Substituted for the text “10. General Responsibilities.- (1)The Research Analyst, Independent Research Analyst and Research Entity shall act in a fiduciary capacity towards its clients and shall disclose all conflicts of interests as and when they arise and suitably address the same. (2) The disclosures under these regulations shall be complete, timely, clear, concise, specific and made in a prominent manner so that investors obtain the full benefit of the information provided. (3) Independent Research Analyst, Research Entity and White-Labeling Service Provider shall inform the Commission before commencement of its business for the purposes of record.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Maintenance of Records",
+     "page": 12,
+     "text": [
+      "{fn:12-1}[(1) A research analyst shall maintain the following records for a period of five years:",
+      ">>(i) rationale for arriving at research recommendations;",
+      ">>(ii) list of clients;",
+      ">>(iii) UINs of clients;",
+      ">>(iv) research fee;",
+      ">>(v) terms and conditions agreed with client;",
+      ">>(vi) undertaking by persons associated with research analyst as per regulation 5(8);",
+      ">>(vii) clients’ grievances and redressal of such grievances; and",
+      "(viii) records of research reports, public appearances including audio calls and oral communication.]"
+     ],
+     "fn": [
+      {
+       "n": "12-1",
+       "text": "Substituted for the text “11. Maintenance of Records.- (1) The Independent Research Analyst and Research Entity shall maintain the following records: (i) Research Reports prepared; (ii) Written research recommendations provided; (iii) Rationale for arriving at research recommendations; (iv) Record of Public Appearances. (2) All records shall be maintained either in physical or electronic form and preserved for a minimum period of five years.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Compliance and Enforcement Mechanism for the Research Analyst",
+     "page": 13,
+     "text": [
+      "{fn:13-1}[(1) A research analyst shall, as the case may be: -",
+      ">>(i) establish compliance procedures on a regular basis to ensure that the procedures reflect current laws and provide adequate guidance to its persons associated with research analyst about what is permissible conduct;",
+      ">>(ii) continuously monitor and audit the effectiveness of compliance procedures and keep its persons associated with research analyst updated with any changes in these procedures; and",
+      ">>(iii) implement appropriate disciplinary sanctions for itself and its persons associated with research analyst in case of violations.",
+      "(2) A research analyst which is a body corporate shall either designate or employ a compliance officer responsible for monitoring compliance of the research analyst with the applicable regulatory regime.]"
+     ],
+     "fn": [
+      {
+       "n": "13-1",
+       "text": "Substituted for the text “12. Compliance and Enforcement Mechanism for the Research Analyst/Research Entity.- An Independent Research Analyst and Research Entity must, as the case may be,- (a) establish compliance procedures on a regular basis to ensure that the procedures reflect current laws and provide adequate guidance to its employees, officers and directors about what is permissible conduct; (b) continuously monitor and audit the effectiveness of compliance procedures and keep its employees, officers and directors updated with any changes in these procedures; and (c) implement appropriate disciplinary sanctions for itself and its employees, officers and directors in case of violations.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Penalty",
+     "page": 13,
+     "text": [
+      "{fn:13-2}[A research analyst and persons associated with research analyst who contravene any of the provisions of the Act or these regulations or circulars issued thereunder shall be dealt under the Act.]"
+     ],
+     "fn": [
+      {
+       "n": "13-2",
+       "text": "Substituted for the text “13. Liability for action in case of default. Independent Research Analyst, Research Entity and Research Analyst who contravenes any of the provisions of the Act or any regulations or circulars issued thereunder shall be dealt with in the manner provided under the Act.” Vide S.R.O.7(I)/2026 dated January 2, 2026"
+      }
+     ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "11-1",
+     "text": "Inserted vide S.R.O.7(I)/2026 dated January 2, 2026"
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure – I",
+   "page": 14
+  },
+  {
+   "title": "Annexure – Ia",
+   "page": 16
+  },
+  {
+   "title": "Annexure – Ii",
+   "page": 18
+  },
+  {
+   "title": "Annexure – Iii",
+   "page": 19
+  }
+ ],
+ "frontNotes": [
+  {
+   "n": "1-1",
+   "text": "S.R.O. 709 (I)/2015 dated July 27, 2015 is further amended under S.R.O. 748 (I)/2017 dated August 1, 2017."
+  }
+ ]
 }

@@ -1753,9 +1753,8 @@
    "PO Regulations 2017"
   ],
   "enacted": "2017-05-02",
-  "amendedUpTo": "2021-09-15",
-  "amendedUpToLabel": "15 September 2021; regulations 2, 3, 5, 6, 7, 11, 12, 15, 16, 17, 19, 21, 25 to 20 June 2026",
-  "caution": "SECP's consolidated copy is of 15 September 2021, and the copy on SECP's website in November 2026 was still that edition. Regulations 2, 3, 5, 6, 7, 11, 12, 15, 16, 17, 19, 21, 25 have been updated to 20 June 2026 from a consolidated edition, so they include later amendments such as S.R.O. 1477(I)/2025 of 6 August 2025 and S.R.O. 903(I)/2026 of 25 May 2026; the updated text was read by machine and has not been checked, and the amendment notes of SECP's 2021 copy are not carried over for these regulations. Regulations 8, 9, 13, 20 could not be matched cleanly and are still as at 15 September 2021, so they may be out of date, as may the schedules. Check the Gazette before relying on this text.",
+  "amendedUpTo": "2026-05-25",
+  "amendedUpToLabel": "25 May 2026",
   "summary": "Made under sections 19, 87 to 91, 94 and 95 read with section 169 of the Securities Act, 2015 (recital).",
   "source": {
    "name": "Securities and Exchange Commission of Pakistan",
@@ -1764,7 +1763,63 @@
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "stopAtSchedule": false,
+  "bodyEndPage": 57,
+  "schedules": [
+   {
+    "title": "First Schedule",
+    "page": 58
+   },
+   {
+    "title": "Second Schedule",
+    "page": 103
+   },
+   {
+    "title": "Third Schedule",
+    "page": 104
+   },
+   {
+    "title": "Fourth Schedule",
+    "page": 105
+   },
+   {
+    "title": "Fifth Schedule",
+    "page": 108
+   },
+   {
+    "title": "Sixth Schedule",
+    "page": 109
+   },
+   {
+    "title": "Seventh Schedule",
+    "page": 112
+   },
+   {
+    "title": "Eighth Schedule",
+    "page": 113
+   },
+   {
+    "title": "Ninth Schedule",
+    "page": 116
+   },
+   {
+    "title": "Eleven Schedule",
+    "page": 120
+   },
+   {
+    "title": "Twelve Schedule",
+    "page": 121
+   },
+   {
+    "title": "Thirteenth Schedule",
+    "page": 125
+   },
+   {
+    "title": "Fourteenth Schedule",
+    "page": 127
+   }
+  ]
  },
  {
   "id": "companies-ordinance-1984",
@@ -2890,17 +2945,17 @@
    "Research Analyst Regulations"
   ],
   "enacted": "2015-07-27",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 709(I)/2015",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
+  "amendedUpTo": "2026-01-02",
+  "amendedUpToLabel": "2 January 2026",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "file": "research-analyst-regulations-2015.pdf"
  },
  {
   "id": "corporate-rehabilitation-act-2018",
@@ -4160,5 +4215,320 @@
    "manual": true
   },
   "caution": "Edition as downloaded from the State Bank of Pakistan's website by the library's editor on 22-23 Nov 2026; later amendments may not be reflected."
+ },
+ {
+  "id": "clearing-houses-licensing-operations-regulations-2016",
+  "file": "clearing-houses-licensing-operations-regulations-2016.pdf",
+  "title": "Clearing Houses (Licensing and Operations) Regulations, 2016",
+  "number": "S.R.O. 733(I)/2016",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [
+   "Clearing House Regulations 2016"
+  ],
+  "enacted": "2016-08-09",
+  "amendedUpTo": "2026-06-16",
+  "amendedUpToLabel": "16 June 2026",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "securities-brokers-licensing-operations-regulations-2016",
+  "file": "securities-brokers-licensing-operations-regulations-2016.pdf",
+  "title": "Securities Brokers (Licensing and Operations) Regulations, 2016",
+  "number": "S.R.O. 569(I)/2016",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [
+   "Securities Brokers Regulations 2016",
+   "Brokers Regulations"
+  ],
+  "enacted": "2016-06-24",
+  "amendedUpTo": "2024-04-08",
+  "amendedUpToLabel": "8 April 2024",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  },
+  "caution": "Read by machine from SECP's consolidated PDF (updated as of 8 April 2024). Regulation 37 (management rating) was omitted by S.R.O. 360(I)/2023; the PDF reproduces its old text in a note, which is not shown here as a regulation.",
+  "numberingGaps": [
+   37
+  ]
+ },
+ {
+  "id": "nbfc-notified-entities-regulations-2008",
+  "file": "nbfc-notified-entities-regulations-2008.pdf",
+  "title": "Non-Banking Finance Companies and Notified Entities Regulations, 2008",
+  "number": "S.R.O. 1203(I)/2008",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [
+   "NBFC Regulations 2008",
+   "NBFC and NE Regulations"
+  ],
+  "enacted": "2008-11-21",
+  "amendedUpTo": "2026-01-15",
+  "amendedUpToLabel": "15 January 2026",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  },
+  "caution": "Read by machine from SECP's consolidated PDF. Regulation numbers 5, 6, 8, 13, 23, 27, 46 to 53 and 65 are absent from the sequence: several were omitted by amendments, but the others have not been checked against the PDF, so confirm there before relying on a missing number.",
+  "numberingGaps": [
+   5,
+   6,
+   8,
+   13,
+   23,
+   27,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   65
+  ]
+ },
+ {
+  "id": "reit-regulations-2022",
+  "file": "reit-regulations-2022.pdf",
+  "title": "Real Estate Investment Trust Regulations, 2022",
+  "number": "S.R.O. 2067(I)/2022",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "corporate"
+  ],
+  "aliases": [
+   "REIT Regulations 2022",
+   "REIT Regulations"
+  ],
+  "enacted": "2022-11-28",
+  "amendedUpTo": "2026-01-01",
+  "amendedUpToLabel": "1 January 2026",
+  "source": {
+   "name": "Securities and Exchange Commission of Pakistan",
+   "url": "https://www.secp.gov.pk"
+  },
+  "watch": {
+   "page": "https://www.secp.gov.pk/laws/regulations/",
+   "manual": true
+  }
+ },
+ {
+  "id": "prudential-regulations-sme-financing",
+  "file": "prudential-regulations-sme-financing.pdf",
+  "title": "Prudential Regulations for Small and Medium Enterprise (SME) Financing",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [
+   "SME Prudential Regulations",
+   "SME Financing"
+  ],
+  "amendedUpTo": "2026-07-16",
+  "amendedUpToLabel": "16 July 2026",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "number": "State Bank of Pakistan, SME, Housing & Sustainable Finance Department"
+ },
+ {
+  "id": "prudential-regulations-microfinance-banks",
+  "file": "prudential-regulations-microfinance-banks.pdf",
+  "title": "Prudential Regulations for Microfinance Banks",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [
+   "MFB Prudential Regulations",
+   "Microfinance Banks"
+  ],
+  "amendedUpTo": "2025-05-16",
+  "amendedUpToLabel": "16 May 2025",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "number": "State Bank of Pakistan, Agriculture Credit & Financial Inclusion Department"
+ },
+ {
+  "id": "prudential-regulations-corporate-commercial-banking",
+  "file": "prudential-regulations-corporate-commercial-banking.pdf",
+  "title": "Prudential Regulations for Corporate / Commercial Banking (Risk Management and Operations)",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [
+   "Corporate Banking Prudential Regulations",
+   "Commercial Banking"
+  ],
+  "amendedUpTo": "2024-06-01",
+  "amendedUpToLabel": "June 2024",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "number": "State Bank of Pakistan, Banking Policy & Regulations Department"
+ },
+ {
+  "id": "prudential-regulations-infrastructure-project-financing",
+  "file": "prudential-regulations-infrastructure-project-financing.pdf",
+  "title": "Prudential Regulations for Infrastructure Project Financing (IPF)",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [
+   "IPF Prudential Regulations"
+  ],
+  "amendedUpTo": "2016-01-30",
+  "amendedUpToLabel": "30 January 2016 (date as listed by the State Bank)",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "number": "State Bank of Pakistan, Infrastructure, Housing & SME Finance Department"
+ },
+ {
+  "id": "prudential-regulations-agriculture-financing",
+  "file": "prudential-regulations-agriculture-financing.pdf",
+  "title": "Prudential Regulations for Agriculture Financing",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [
+   "Agriculture Prudential Regulations",
+   "Agri financing"
+  ],
+  "amendedUpTo": "2024-02-12",
+  "amendedUpToLabel": "12 February 2024",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "number": "State Bank of Pakistan, Agriculture Credit & Financial Inclusion Department"
+ },
+ {
+  "id": "prudential-regulations-consumer-financing",
+  "file": "prudential-regulations-consumer-financing.pdf",
+  "title": "Prudential Regulations for Consumer Financing",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [
+   "Consumer Financing Prudential Regulations",
+   "Auto loans",
+   "Credit cards",
+   "Personal loans"
+  ],
+  "amendedUpTo": "2016-08-03",
+  "amendedUpToLabel": "3 August 2016",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "number": "State Bank of Pakistan, Banking Policy & Regulations Department"
+ },
+ {
+  "id": "prudential-regulations-housing-finance",
+  "file": "prudential-regulations-housing-finance.pdf",
+  "title": "Housing Finance Prudential Regulations",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [
+   "Housing Finance",
+   "House building finance"
+  ],
+  "amendedUpTo": "2017-04-18",
+  "amendedUpToLabel": "18 April 2017",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "number": "State Bank of Pakistan, Infrastructure, Housing & SME Finance Department"
  }
 ]
