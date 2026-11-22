@@ -18,7 +18,7 @@ def clean(rng):
         t = t.strip()
         if out and out[-1] == t and len(t) >= 4: continue
         if re.fullmatch(r"\(\d\)( \(\d\))+", t) or re.match(r"^SECP Cir\. ?\d+ of 20\S+ Part V", t): continue
-        if not t or t == "Regulations for NBFCs" or re.fullmatch(r"[Vv][\s.\-_]*[0-9lI]{1,3}", t): continue
+        if not t or t == "•" or t == "Regulations for NBFCs" or re.fullmatch(r"[Vv][\s.\-_]*[0-9lI]{1,3}", t): continue
         if re.match(r"^Prudential Regulations for (NBFC|Non-Banking)", t) and len(t) < 70: continue
         if re.match(r"^Part\s*[IVX]+,\s*Reg", t): continue
         out.append(t)
@@ -70,7 +70,7 @@ def tidy(ps):
         p = re.sub(r"^(>*)['`’‘]\s?\[", r"\1", p)
         p = re.sub(r"^(>*)\[", r"\1", p)
         if p.count("]") > p.count("["): p = re.sub(r"\]\s*$", "", p) if p.rstrip().endswith("]") else p
-        p = re.sub(r"\s+", " ", p).strip()
+        p = re.sub(r"\s+", " ", p).strip().replace("NBFC thall", "NBFC shall")
         if p: out.append(p)
     return out
 
@@ -103,7 +103,10 @@ for P in spec["parts"]:
         ps = tidy(ps)
         if s.get("skip"):
             k = s["noteAt"] if "noteAt" in s else next((i for i, p in enumerate(ps) if p.startswith("Notes:")), len(ps))
-            ps.insert(k, s["note"])
+            TB = json.load(open(ROOT / "tools/ocr/prudential_tables.json")).get(s["no"])
+            ps[k:k] = TB if TB else [s["note"]]
+            if TB and s["no"] == "E.5": ps = [p for p in ps if not p.startswith("*This specific provision will be in addition") or p in TB]
+            elif TB: pass
         secs.append({"no": s["no"], "title": s["title"], "text": ps})
     parts.append({"heading": P["heading"], "sections": secs})
 Path(sys.argv[2]).write_text(json.dumps(parts, indent=1, ensure_ascii=False))
