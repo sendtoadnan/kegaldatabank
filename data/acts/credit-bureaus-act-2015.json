@@ -1,0 +1,558 @@
+{
+ "id": "credit-bureaus-act-2015",
+ "title": "Credit Bureaus Act, 2015",
+ "number": "Act of 2015",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [
+  "Credit Bureau Act"
+ ],
+ "enacted": "2015-01-01",
+ "lastAmended": "2016-07-29",
+ "amendedUpToLabel": "As amended up to 29 July 2016",
+ "status": "in-force",
+ "source": {
+  "name": "State Bank of Pakistan (legal page, downloaded by the library's editor)",
+  "url": "https://www.sbp.org.pk"
+ },
+ "sourcePdf": "credit-bureaus-act-2015.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "State Bank of Pakistan website PDF, downloaded by the editor 22-23 Nov 2026; verification declared by the editor, not a line-by-line check",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "WHEREAS it is expedient to provide for the incorporation and functioning of credit bureaus for collecting credit information relating to debtors of banks, financial institutions, non­banking financial institutions, non­financial companies and other lenders or authorities and maintain data of such information and also for the provision to disseminate such information, on request, for specified purposes with a view to facilitating efficient distribution of credit and for matters connected therewith and incidental thereto; It is hereby enacted as follows:—",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, extent and commencement",
+     "page": 3,
+     "text": [
+      "(1) This Act may be called the Credit Bureaus Act, 2015.",
+      "(2) It extends to the whole of Pakistan.",
+      "(3) It shall come into force at once on such dates as the Federal Government may, by notification in the official Gazette appoint."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 3,
+     "text": [
+      "(1) In this Act, unless there is anything repugnant in the subject or context,—",
+      ">(a) \"adverse action\" means any action which causes a denial, rejection, cancellation of or reduction in or otherwise any unfavourable result in any transaction involving credit, finance, trade, commerce or employment with respect to a debtor;",
+      ">(b) \"banking\" means the accepting, for the purposes of lending or investment, of deposit of money from the public, repayable on demand or otherwise, and withdrawable by cheque, draft, order or otherwise;",
+      ">(c) \"banking company\" means any company which transacts business of banking in Pakistan;",
+      ">(d) \"banking policy\" means any policy formulated by the State Bank of Pakistan in the interest of banking or in the interest of monetary stability or sound economic growth, having due regard to the interest of the depositors, the volume of deposits and other resources of the bank and the need for equitable allocation and the efficient use of these deposits and resources;",
+      ">(e) \"companies Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
+      ">(f) \"company\" means a company incorporated under the Companies Ordinance;",
+      ">(g) \"court\" means the court of sessions having territorial jurisdiction in the area where the cause of action arises or offences committed under this Act;",
+      ">(h) \"credit bureau\" means a public limited company established under the Companies Ordinance which has been granted a licence by the State Bank of Pakistan in accordance with this Act;",
+      ">(i) \"credit information\" means any information with respect to a debtor relating to—",
+      ">>(i) the amounts, nature of loans or advances, finance and other credit facilities granted by a credit institution and repayment thereof by the debtor and the nature of security taken by a credit institution for credit facilities granted;",
+      ">>(ii) the guarantee or any other non­fund based facility furnished by a credit institution for the benefit thereoff,",
+      ">>(iii) the amounts and nature of commercial transactions, facilities and services entered into or availed of credit from non­financial companies and bodies and other lenders and authorities including but not limited to retailers, insurance companies, utility providers and landlords as notified by the Federal Government;",
+      ">>(iv) any and all factors included in the financial history bearing on the credit worthiness, credit standing and credit capacity thereof;",
+      ">>(v) any other related public record and information as prescribed by rules; or",
+      ">>(vi) personal information as prescribed by rules;",
+      ">(j) \"credit information furnisher\" means any credit institution, person or entity which provides credit information to a credit bureau including non­financial companies and bodies and other lenders and authorities;",
+      ">(k) \"credit information report\" means any written or electronic communication issued by a credit bureau containing credit information relating to any debtor for the purposes of this Act;",
+      ">(l) \"credit institution\" includes —",
+      ">>(i) a banking company;",
+      ">>(ii) microfinance banks;",
+      ">>(iii) a financial institution, which means",
+      ">(a) any company, whether incorporated within or outside Pakistan, which transacts business of banking or any associated or ancillary business in Pakistan through its branches within or outside Pakistan and includes a government savings bank but excludes the State Bank of Pakistan;",
+      ">(b) a modaraba, leasing company, investment bank, financing company, unit trust or mutual fund of any kind and credit or investment institution, corporation or company; and",
+      ">(c) any company authorized by law to carry on any similar business;",
+      ">>(iv) non­banking financial company; and",
+      ">>(v) any company, corporation or institution or class of companies or institutions as the Federal Government may from time to time, by notification in the official Gazette, specify for the purpose;",
+      ">(m) \"credit scoring\" means a system whereby points are awarded to debtors enabling users to asses the credit worthiness and capacity of debtors to repay loans and advances and to discharge any and all other obligations with regard to credit facility availed of or to be availed of by the debtors;",
+      ">(n) \"debtor\" means a person to whom finance as defined in the Financial Institutions (Recovery of Finances) Ordinance, 2001(XLVI of 2001) has been provided, including those who have been credit recipients and who are potential recipients of credit as notified by the Federal Government;",
+      ">(o) \"default\" includes omission or failure to perform a legal or contractual obligation involving credit;",
+      ">(p) \"licence\" means the licence issued by the State Bank of Pakistan to a public limited company for the purpose of functioning as, and carrying out the business of, a credit bureau in accordance with the provisions of this Act;",
+      ">(q) \"person\" means an individual, association or body of individuals, company, firm, authority, institution or any other entity;",
+      ">(r) \"prescribed\" means prescribed by rules or regulations made under this Act;",
+      ">(s) \"regulations\" means regulations made under this Act;",
+      ">(t) \"rules\" means rules made under this Act;",
+      ">(u) \"Schedule\" means a Schedule to this Act; and",
+      ">(v) \"user\" means any person or body which obtains a credit information report from a credit bureau under this Act.",
+      "(2) The words and expressions used and not defined in this Act shall have the meanings as assigned to them in the Companies Ordinance, 1984 (XLVII of 1984), State Bank of Pakistan Act, 1956 (XXXIII of 1956) and Banking Companies Ordinance, 1962 (LVII of 1962)."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Application of other laws not barred",
+     "page": 6,
+     "text": [
+      "The provisions of this Act shall be in addition to, and not, save as herein after expressly provided, in derogation of, the Companies Ordinance, 1984 (XLVII of 1984), the Banking Companies Ordinance, 1962 (LVII of 1962) or any other law for the time being in force.",
+      "PART II",
+      "ESTABLISHMENT OF THE CREDIT BUREAU AND ITS CAPITAL"
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Licence",
+     "page": 6,
+     "text": [
+      "Notwithstanding anything contained in any other law for the time being in force and save as hereinafter provided, no person shall commence or carry on business of or function as a credit bureau without obtaining a licence from the State Bank of Pakistan in the manner prescribed by regulations."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Eligibility for licensing",
+     "page": 6,
+     "text": [
+      "(1) A person proposing to commence business as a credit bureau shall be eligible for licence under this Act subject to the following conditions or requirements, namely:—",
+      ">(a) such person is incorporated as a public limited company under the Companies Ordinance;",
+      ">(b) none of the promoters, sponsors, directors, officers or employees of such company being an individual, sponsor, director, chief executive or major shareholder in any company,—",
+      ">>(i) has been associated with any illegal banking business;",
+      ">>(ii) has overdue loan against any credit institutions that has not been settled within last six months;",
+      ">>(iii) has been convicted of any offence involving fraud, breach of trust or moral turpitude;",
+      ">>(iv) has defaulted on payment of taxes and liabilities towards other government agencies; and",
+      ">>(v) has either been adjudicated as insolvent or has defaulted in payment of debt or has compounded with his creditors;",
+      ">(c) the promoters of such company are persons of means and have special knowledge of matters which the company may have to deal with as a credit bureau and are not involved in the capacity of a director or shareholder with any company, business or activity which is likely to be in conflict with the business of the credit bureau; and",
+      ">(d) none of the directors of such company shall hold such office with any other company, business or activity which is likely to be in conflict with the business of the credit bureau.",
+      "Explanation.—A company, business or activity shall be deemed to be in conflict with the business of the credit bureau, if it directly or indirectly competes with the business of credit information bureaus including but not limited to another credit bureau and financial institution.",
+      "(2) Without prejudice to the conditions specified in sub­section (1), the State Bank of Pakistan may impose such additional conditions as it may deem necessary on any company at the time of granting the licence or generally by regulations.",
+      "(3) The State Bank of Pakistan may refuse to grant licence, provided that­",
+      ">(a) any of the conditions imposed under this section is not fulfilled; or",
+      ">(b) the application for a licence has been made subsequent to the issuance of a notification regarding suspension of issuance of licences generally:",
+      "Provided that grant of licence shall not be refused without giving an opportunity of being heard."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Paid up capital",
+     "page": 7,
+     "text": [
+      "The minimum paid up capital of a credit bureau shall be a minimum of PKR 250,000,000 or as may be prescribed by the State Bank of Pakistan from time to time but not less than 250,000,000/­ should be fully subscribed and deposited as paid up capital of the company."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Shareholding",
+     "page": 8,
+     "text": [
+      "(1) No person shall acquire more than ten percent shares of a credit bureau either directly or indirectly, except with prior written approval of the State Bank of Pakistan.",
+      "(2) Anyone who knowingly contravenes the provisions of sub­section(1) shall be punishable with a fine not exceeding one million rupees."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Credit bureau in existence prior to the commencement of this Act",
+     "page": 8,
+     "text": [
+      "(1) Every person conducting the business of a credit bureau on commencement of this Act, other than the credit information bureau of the State Bank of Pakistan, shall before the expiry of the twelve months from such commencement, apply in writing to the State Bank of Pakistan for obtaining a licence to continue to carry on business of a credit bureau.",
+      "(2) In the event that the application for the grant of licence made by a person conducting business of a credit bureau on commencement of this Act is refused by the State Bank of Pakistan, such person shall cease operations as a credit bureau within such period as specified in the decision. The credit information collected, collated, stored and maintained by such person may not be sold to any entity other than a credit bureau and if the same is not sold to a credit bureau, for whatever reason, it shall be surrendered to the State Bank of Pakistan."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Power to suspend or cancel licence",
+     "page": 8,
+     "text": [
+      "The State Bank of Pakistan may suspend or cancel a licence, if a credit bureau—",
+      ">(a) ceases to carry on business of a credit bureau in Pakistan;",
+      ">(b) fails to comply with or contravenes any provision of this Act or any conditions subject to which the licence was granted to it or any other law for the time being in force or fails to comply with or contravenes any rules or regulations, directions, guidelines or instructions issued under this Act:",
+      "Provided that no licence shall be suspended or cancelled without affording an opportunity to be heard.",
+      "PART III",
+      "REQUIREMENT TO PROVIDE CREDIT INFORMATION"
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Credit information furnishers to provide credit information",
+     "page": 9,
+     "text": [
+      "Notwithstanding anything contrary to any other law for the time being in force or in any agreement entered into between a credit information furnisher and its debtor, credit information furnishers shall provide credit information to credit bureaus, provided that such credit information furnisher is a member of the credit bureau, to which credit information is being provided."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Membership of credit bureaus",
+     "page": 9,
+     "text": [
+      "(1) Every credit institution shall become a member of at least one credit bureau within a period as may be prescribed by regulations. The membership of other credit information furnisher, other than credit institution, to become a member of credit bureaus shall be notified by the Federal Government accordingly.",
+      "(2) All credit information furnishers upon membership of a credit bureau shall furnish credit information in accordance with the requirements and specifications.",
+      "(3) In case of termination of membership, the credit institution shall obtain membership of any other credit bureau either before termination or simultaneously to comply with sub­section (1).",
+      "(4) In case of failure to comply with quality standards and procedural requirements specified by credit bureaus, the membership of credit information furnisher either by the credit bureau on its own motion or at the direction of the State Bank of Pakistan may be suspended or cancelled, provided that an opportunity to show cause for the proposed action is given.",
+      "(5) Where a credit institution",
+      ">(a) abstains from becoming a member of at least one credit bureau; or",
+      ">(b) at any time is not a member of any credit bureau—",
+      "such credit institution shall be liable to a fine not exceeding one million rupees and, where the contravention is a continuing one, with a further fine which may extend to fifty thousand rupees for every day during which the violation continues, provided that no penalty may be imposed by the State Bank of Pakistan without affording such credit institution an opportunity to show cause against the proposed imposition of penalty.",
+      "PART IV AUDIT"
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Accounts and balance sheet",
+     "page": 10,
+     "text": [
+      "Every credit bureau shall on expiration of each calendar year prepare a balance sheet and profit and loss account in respect of all business transacted in that year by it."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Audit",
+     "page": 10,
+     "text": [
+      "(1) The accounts of credit bureaus shall be audited by auditors who are chartered accountants within the meaning of Chartered Accountants Ordinance, 1961 (X of 1961) and are on the panel of auditors maintained by the State Bank of Pakistan for the purposes of audit of banking companies.",
+      "(2) Credit bureaus shall submit duly audited accounts to the State Bank of Pakistan within a period not exceeding three months of the date of closing of each calendar year.",
+      "PART V",
+      "POWERS OF THE STATE BANK OF PAKISTAN"
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Powers of the State Bank of Pakistan to give directions",
+     "page": 10,
+     "text": [
+      "(1) Where the State Bank of Pakistan is satisfied that it is necessary and expedient so to do—",
+      ">(a) in the public interest; or",
+      ">(b) in the interest of banking policy; or",
+      ">(c) in the interest of the credit system, credit bureaus, credit information furnishers, users and debtors in general or to prevent the affairs of a credit bureau being conducted in a manner detrimental or prejudicial to the interests thereof; or",
+      ">(d) to secure the proper management of credit bureaus generally,—",
+      "it may formulate the policies, issue regulations, directions or guidelines to credit bureaus generally or to a credit bureau in particular, from time to time, as it deems fit and the credit bureau or all the credit bureaus, as the case may be, shall be bound to comply with such policy, directions and guidelines.",
+      "(2) The State Bank of Pakistan may, on representation made to it or on its own motion, modify or cancel any regulations, guidelines or direction issued under sub­section (1) and in so modifying or canceling any direction may impose such conditions as it deems fit, subject to which the modification or cancellation shall have effect."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Power of the State Bank of Pakistan to call for information",
+     "page": 11,
+     "text": [
+      "(1) The State Bank of Pakistan shall have the power and authority to call for any information from a credit bureau regarding its business and affairs and to appoint inspecting officers to inspect its books, data, accounts, record and other documents.",
+      "(2) It shall be duty of every director, officer or employee of credit bureaus to produce all such books, data, accounts, record and other documents in his custody or power to an inspecting officer appointed under sub­section (1) and furnish to such inspecting officer any statement and information relating to the affairs of the credit bureau.",
+      "(3) An inspecting officer appointed under sub­section (1) may examine on oath any director, officer or employee of a credit bureau in relation to its business and may administer an oath accordingly.",
+      "1[* * *]"
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Power of the State Bank of Pakistan to remove directors or other managerial persons from office",
+     "page": 11,
+     "text": [
+      "(1)Where the State Bank of Pakistan is satisfied that any chairman, director, chief executive or any officer, by whatever name called, of a credit bureau, has been, or is likely to be, in breach of the provisions of this Act or rules or regulations made thereunder or any policy, directions or guidelines issued thereunder, it may, for reasons to be recorded in writing, remove from office, with effect from such date as may be specified in the order, or may hold the same liable to a fine not exceeding five million rupees:",
+      "Provided that no order under this sub­section shall be made unless concerned person has been given a reasonable opportunity of being heard against the proposed action and that concerned person has failed to provide an explanation to the satisfaction of the State Bank of Pakistan within the time frame specified. In the event of issuance of an order of removal, the chairman, director, chief executive and officer so removed shall vacate their office on the date specified in the order and the vacancy so created shall be filled in accordance with the Companies Ordinance.",
+      "(2) Where the State Bank of Pakistan is satisfied that the board of directors of any credit bureau is, or is likely to be, detrimental to the interest of such credit bureau, its shareholders or the public interest or the interest of the credit information system in general or for securing proper management of such credit bureau, it is necessary so to do, it may for reasons to be recorded in writing, supersede the board of directors of the credit bureau for such period as may be specified in the order or extended subsequently, however, the total period shall not exceed twelve months:",
+      "Provided that no order under this sub­section shall be made unless the concerned credit bureau has been given a reasonable opportunity of being heard against the proposed supersession and that bureau has not provided an explanation to the satisfaction of the State Bank of Pakistan within the time frame specified. In the event of the issuance of an order of supersession under this sub­section, the board of directors, including the chairman, chief executive and directors, by whatever name called, shall vacate their offices on the date specified in the order.",
+      "(3) Upon making of an order of supersession under sub­section (2),—",
+      ">(a) the State Bank of Pakistan may appoint an administrator and shall issue such directions to the appointed administrator as it deems fit and appropriate and the administrator shall be bound to follow the issued directions; and",
+      ">(b) all powers, functions and duties, which may under the provisions of the Companies Ordinance or this Act or any other law for the time being in force or by resolution passed in a general meeting of such credit bureau, be exercised or discharged by or on behalf of the board of directors of such credit bureau until the reconstitution of the board of directors under sub­section (5) shall be exercised and discharged by the administrator appointed by the State Bank of Pakistan.",
+      "(4) The salary payable to the administrator and any staff assisting the administrator shall be fixed by the State Bank of Pakistan and shall be borne by the credit bureau.",
+      "(5) On or before the expiration of two months prior to the expiry of the period of supersession specified in the order of the State Bank of Pakistan issued under sub­section (3), the administrator shall call a general meeting of the credit bureau to elect new directors and to reconstitute its board of directors.",
+      "(6) No person removed from his office under the order of the State Bank of Pakistan shall be entitled to any claim or compensation."
+     ],
+     "fn": [
+      {
+       "n": "11-1",
+       "text": "Omitted by Act XXXIV of 2016, s.2."
+      }
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Powers of the State Bank of Pakistan to appoint auditors for special audit",
+     "page": 12,
+     "text": [
+      "(1) Where the State Bank of Pakistan is satisfied that it is necessary and expedient to do so in the public interest or in the interest of the credit system, credit bureaus, credit information furnishers, users or the debtors, it may, at any time, direct by written notice that a special audit of a credit bureau shall be conducted and the State Bank of Pakistan may by such notice or by a separate notice appoint auditors to conduct such special audit of—",
+      ">(a) the accounts of the credit bureau in relation to any transaction or class of transactions or for such period or periods as may be mentioned in the notice; and",
+      ">(b) where the credit bureau has not complied with the requirements for audit under sub­section (3) of section 24 or where the State Bank of Pakistan deems that such an audit is required, it may appoint the auditors who shall comply with such notice and directicns of the State Bank of Pakistan and submit a report of such audit to the State Bank of Pakistan.",
+      "(2) The State Bank of Pakistan may issue directions in particular or in general with respect to the audit of credit bureaus conducted in accordance with this Act and submission of reports thereof",
+      "(3) The remuneration of the auditors appointed under sub­section (1) shall be fixed by the State Bank of Pakistan with due consideration to the nature and volume of work involved in the audit and the expenses of, or incidental to, the audit shall be borne by the credit bureau with respect to which the audit is conducted.",
+      "PART VI",
+      "FUNCTIONS OF A CREDIT BUREAU"
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Functions which a credit bureau may transact",
+     "page": 13,
+     "text": [
+      "(1) A credit bureau, in accordance with the provisions of this Act and rules made thereunder, may—",
+      ">(a) collect, process, collate, store and maintain credit information relating to debtors;",
+      ">(b) provide credit information reports to users and other credit bureaus;",
+      ">(c) undertake credit scoring and to sell such credit scoring to users;",
+      ">(d) consolidate and utilize credit information for purposes of supplying statistics, analysis and conducting research, provided that the identity of the concerned debtor or the credit information furnisher is not disclosed in any manner;",
+      ">(e) undertake any other form of business which may be prescribed by regulations.",
+      "(2) No credit bureau shall engage in any form of business other than those provided under sub­ section (1)."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part VII — Protection Of Consumer",
+   "sections": [
+    {
+     "no": "19",
+     "title": "Permissible purposes and uses of credit information reports",
+     "page": 14,
+     "text": [
+      "(1) A credit bureau may furnish credit information collected, processed, collated, stored and maintained, in accordance with the provisions of this Act and rules made thereunder in the form of a credit information report, under the following circumstances, namely:—",
+      ">(a) on written or electronically received request of a credit institution;",
+      ">(b) on written or electronic request or instructions of the debtor, to whom it relates, received from such debtor or through a duly constituted attorney thereof;",
+      ">(c) on written or electronically received request from Securities and Exchange Commission of Pakistan to assist them in discharging their regulatory obligations;",
+      ">(d) in Compliance with an order of a competent court having jurisdiction to issue such order; and",
+      ">(e) for any other purpose, which may be prescribed by regulations.",
+      "(2) A credit bureau may not furnish a credit information report provided reasonable grounds are available to believe that the same will not be used for purposes specified under sub­section (1).",
+      "(3) No credit bureau shall maintain its data base at a place outside Pakistan without prior permission in writing of the State Bank of Pakistan.",
+      "(4) In the event of winding up, dissolution, liquidation or bankruptcy of a credit bureau or in case of termination of licence, such credit bureau shall immediately cease all such functions and operations. The credit information collected, collated, processed, stored and maintained by such credit bureau may be sold to any other credit bureau or the same shall be surrendered to the State Bank of Pakistan."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Contents of credit information report",
+     "page": 14,
+     "text": [
+      "(1) A credit information report issued by a credit bureau in accordance with the provisions of this Act shall only contain credit information as prescribed and shall not contain any information or data relating to a debtor that is not relevant for the purposes of evaluating or assessing the credit worthiness of such debtor.",
+      "(2) Personal information contained in a credit information report relating to an individual debtor shall be limited to such items as may be prescribed by regulations."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Prohibition of collection of credit information",
+     "page": 15,
+     "text": [
+      "No credit bureau shall collect credit information which—",
+      ">(a) violates any law for the time being in force; or",
+      ">(b) intrudes upon, to an unreasonable extent, personal affairs of the individual concerned."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Deletion of information from credit information report",
+     "page": 15,
+     "text": [
+      "No credit bureau shall include information of default or overdue with respect to any obligation involving credit, where the date on which the default or overdue has been settled antedates the credit information report by the number of years as may be prescribed by rules."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Disclosure of source of credit information",
+     "page": 15,
+     "text": [
+      "(1) Every credit bureau, upon request and payment of fee prescribed by regulations shall disclose to a debtor, clearly and accurately, the source of credit information contained in the credit information report of such debtor.",
+      "(2) A credit bureau shall provide to a debtor, a copy of the summary of rights alongwith the report requested under sub­section (1) as set out in the Schedule."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Accuracy and security of credit information files and credit reports",
+     "page": 15,
+     "text": [
+      "(1) A credit bureau shall—",
+      ">(a) take reasonable steps to ensure that the credit information stored, maintained and disseminated is accurate, up­to­date, complete and not misleading and for this purpose may make therein appropriate corrections, deletions and additions regularly during the course of business; and",
+      ">(b) ensure that the credit information maintained by it is protected by such security safeguards as are reasonable in the circumstances against loss, unauthorized access, use, modification or disclosure thereof—",
+      "(2) The credit bureau shall follow the standards with respect to systems and procedures, including any information systems employed by the credit bureau to ensure credit information accuracy and security as may be prescribed by regulations.",
+      "(3) Every credit bureau shall arrange to have such systems and procedures independently audited every year to ensure adherence to standards prescribed under sub­section (2)."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "False or misleading credit information",
+     "page": 15,
+     "text": [
+      "(1) A credit bureau or a credit information furnisher shall not knowingly disseminate credit information that contains false or misleading information.",
+      "(2) A credit bureau or credit institution which contravenes sub­section (1) shall be punishable with a fine not exceeding five million rupees."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Unauthorized access to or disclosure of credit information",
+     "page": 16,
+     "text": [
+      "(1) No one shall obtain access to, or distribute or disclose, credit information in the possession or control of a credit bureau or a credit information furnisher or a user unless such access or distribution or disclosure is authorized by this Act or any other law for the time being in force.",
+      "(2) Any credit bureau which contravenes the provisions of this section shall be guilty of an offence punishable with a fine not exceeding five million rupees or by imprisonment not exceeding three months or with both:",
+      "Provided that the punishment of imprisonment shall be awarded to the director, officer, employee, agent or representative, etc., of the credit bureau who is convicted of such contravention."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Obtaining access to credit information by false pretences",
+     "page": 16,
+     "text": [
+      "No one shall obtain access to credit information in the possession or control of a credit bureau or a credit information furnisher or a user under or by false pretences and anyone who violates the provisions of this section shall be liable to be punished with a fine, not exceeding one million rupees or by imprisonment not exceeding three months or with both."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Obligations as to fidelity, confidentiality and secrecy",
+     "page": 16,
+     "text": [
+      "(1) Every credit bureau, credit information provider, present or past employee of a credit bureau or credit information provider, or other person by reason of his capacity or office to have by any means access to credit information, shall regard as secret and confidential all documents or information disclosed to it in connection with the performance of any duty or function under this Act.",
+      "(2) Every chairman, director, member of the board of directors, auditor, adviser, officer or other employee of a credit bureau shall, before entering upon his duties, make a declaration of fidelity and secrecy in the form as may be prescribed.",
+      "(3) A disclosure made in any of the following circumstances shall not be deemed inconsistent with any duty imposed by this section being a disclosure.",
+      ">(a) permitted by the provisions of this Act;",
+      ">(b) on the instruction of the consumer to whom the information related;",
+      ">(c) to the consumer to whom the information relates; and",
+      ">(d) as directed by an order of the court."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Exchange of credit information",
+     "page": 17,
+     "text": [
+      "Notwithstanding anything contained in this Act, credit bureaus in Pakistan may exchange credit information on confidential basis amongst themselves, or with other companies as may be approved by the State Bank of Pakistan for the purpose of exchange of credit information."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Protection of action taken in good faith",
+     "page": 17,
+     "text": [
+      "No suit or other legal proceedings, prosecution, claims, actions or demands shall lie against the Federal Government, State Bank of Pakistan, a credit bureau and credit information furnisher or against their directors, officers, employees, agents or representatives or any other person authorized by the same to discharge any functions under this Act, for any loss or damage caused or that is likely to be caused by anything which is in good faith done or intended to be done, in pursuance of this Act or the rules and regulations made thereunder or any other law or provision having the force of law."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Requirements on users",
+     "page": 17,
+     "text": [
+      "In the event that any user takes an adverse action with respect to a debtor that is based in whole or in part on any information contained in a credit information report relating to such debtor, such user shall provide to such debtor a copy of the credit information report relied upon, the name, address and telephone number of the credit bureau, which issued the credit information report in question, a copy of the summary of rights set out in the Schedule and a statement that the credit bureau did not make the decision to take the adverse action."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Legal recognition of electronic forms",
+     "page": 17,
+     "text": [
+      "Any document, record, information, communication, transaction, publication or notice, made under or for the purposes of this Act, whether required or otherwise, shall be deemed valid if made in electronic form.",
+      "PART VIII",
+      "DISPUTE RESOLUTION"
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Resolution of disputes",
+     "page": 17,
+     "text": [
+      "(1) In the event that the accuracy, completeness or correctness of a credit information report or any part thereof is disputed by the concerned debtor, such debtor may notify in writing to the concerned credit bureau of the alleged error, such credit bureau shall resolve or take up the dispute with the credit information furnisher:",
+      "Provided that the rights specified in the Schedule shall also apply to this section.",
+      "(2) The credit information reports shall clearly identify the disputed credit information, if any.",
+      "PART IX",
+      "OFFENCES, FINES AND PENALTIES"
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Penalties",
+     "page": 18,
+     "text": [
+      "Any person who contravenes or defaults in complying with any provision or requirement of this Act or of any rules or regulations made thereunder or obstructs lawful exercise of any power conferred by or under this Act, shall, if no specific provision is made under this Act, the rules and regulations made thereunder for punishment of such contravention, default or obstruction, in addition to any other liability as provided for herein, be punishable with fine which may extend to five million rupees and where a contravention, default or obstruction is a continuing one, with a further fine which may extend to fifty thousand rupees for every day during which the contravention or default or obstruction continues."
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Adjudication of fine or penalty",
+     "page": 18,
+     "text": [
+      "Where only a fine is provided for any offence, contravention or default in complying with any of the provisions or requirements of this Act or of any rule or regulations made thereunder, it shall be adjudged by the State Bank of Pakistan provided that the person concerned is afforded an opportunity of being heard."
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Application of fines or penalties",
+     "page": 18,
+     "text": [
+      "(1) The Court imposing any fine or penalty under this Act may direct that the whole or any part thereof shall be applied in or towards—",
+      ">(a) payment of costs of the proceedings; or",
+      ">(b) for such purposes as may be directed by the Court.",
+      "(2) Any amount recovered as fine or penalty, which is not applied as aforesaid, shall be credited to the Public Account of the Federal Government."
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Adjudication of punishment by imprisonment",
+     "page": 18,
+     "text": [
+      "(1) Where imprisonment or imprisonment in addition to fine is provided for any contravention of, or default in complying with, any provisions of this Act and any rules or regulations made thereunder, it shall be adjudged by the Court.",
+      "(2) The Court shall not take cognizance of any offence punishable under this Act except upon a complaint in writing made by an officer of the State Bank of Pakistan or by a person authorised by the Federal Government in this behalf."
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Appeal",
+     "page": 18,
+     "text": [
+      "Any person aggrieved by decision of the Court under this Part, may within thirty days of date of the decision, prefer an appeal to the High Court.",
+      "PART X",
+      "APPEALS AND LEGAL PROCEEDINGS"
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Complaint to State Bank of Pakistan",
+     "page": 19,
+     "text": [
+      "Any person aggrieved by any action or omission of a credit bureau, credit institution, debtor, user or any other person under this Act may make a complaint to the State Bank of Pakistan to resolve the dispute in such manner as it deems fit."
+     ]
+    },
+    {
+     "no": "40",
+     "title": "Appeal to High Court",
+     "page": 19,
+     "text": [
+      "Any person aggrieved by decision, of the State Bank of Pakistan may, within thirty days of date of the decision, prefer an appeal to the High Court.",
+      "PART XI GENERAL"
+     ]
+    },
+    {
+     "no": "41",
+     "title": "Removal of difficulties",
+     "page": 19,
+     "text": [
+      "If any difficulty arises in giving effect to any of the provisions of this Act, the Federal Government may make such order as may appear to it to be necessary for the purpose of removing the difficulty:",
+      "Provided that such power under this section shall not be exercisable after two years of the commencement of this Act."
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Power of the Federal Government to make rules",
+     "page": 19,
+     "text": [
+      "The Federal Government may, after consultation with the State Bank of Pakistan and by notification in the official Gazette, make rules to provide for all matters for which provision is necessary or expedient for the purposes of giving effect to the provisions of this Act."
+     ]
+    },
+    {
+     "no": "43",
+     "title": "Power to make regulations",
+     "page": 19,
+     "text": [
+      "The State Bank of Pakistan may, by notification in the official Gazette, make regulations not inconsistent with the rules to provide for all matters for which provision is necessary.",
+      "SCHEDULE",
+      "[see sections 23(2), 31 and 33]",
+      "SUMMARY OF RIGHTS",
+      "1. Limitation on credit information.—The scope of credit information that may be included in a credit information report by a credit bureau is limited by this Act. Personal information that may appear on a credit information report is also specific and limited under this Act and the rules and regulations made thereunder. Certain type of information may not appear on your credit information report for longer than a specified period of time.",
+      "2. Limitation on access to credit information reports.—Credit information reports may only be issued to specific persons under strictly defined circumstances and for specific purposes. Credit bureaus are liable to follow certain steps pertaining to the manner in which credit information reports are issued in order to ensure that the person to whom and the purposes for which credit information is being provided is authorized by and lies within the scope of this Act and the rules and regulations made thereunder.",
+      "3. Collection of credit information.—On most occasions when a credit bureau is seeking your credit information from you, credit bureaus are required to inform you that credit information is being collected; the purpose of such collection; intended recipients; name and address of the credit information that is collecting the information and the agency that will hold such information; whether or not the supply of the information is voluntary or mandatory and if mandatory, the particular law under which it is required; the consequences, if any, if all or any part of the requested information is not provided; the rights of access to and correction of credit information held and used by the credit bureau as provided herein.",
+      "4. Disclosure of source of credit information.—Credit bureaus are required to disclose the source of the credit information appearing on your credit information report upon request and payment of fee by you.",
+      "5. Right to credit information report.—(1) You or your authorized attorney may obtain a copy of your credit information from a credit bureau.",
+      "(2) Any user who takes an adverse action against you based in whole or in part on any information contained in a credit information report is required to provide you a copy of the credit information report relied upon, the name, address and telephone number of the credit bureau, which issued the credit information report in question and a statement that the credit bureau did not make the decision to take the adverse action.",
+      "(3) In the event that a correction is made to the credit information appearing on your credit information report in response to your notification of error, the concerned credit bureau must provide you with a copy free of cost of the updated credit information report.",
+      "6. Right to dipute incorrect credit information.—(1) Credit bureaus must take reasonable steps to ensure that the credit {fn:20-1}[information] they collect, collate, accept, store, maintain and disseminate is accurate, up­to­date, complete and not misleading in any manner and for this purpose may make therein corrections, deletions and additions regularly during the course of business.",
+      "(2) In any event that the accuracy, completeness or correctness of a credit information report relating to you or any part thereof is disputed by you, you may notify the concerned credit bureau of the alleged error. The credit bureau must acknowledge receipt of such notification of error and provide you with this summary of rights within the time period prescribed.",
+      "(3) The credit bureau is required to re­investigate the disputed information, free­of­charge, within the period of time as prescribed. Credit information reports issued while the investigation is pending shall clearly identify the disputed credit information and that the same is being investigated for accuracy and the concerned credit bureau shall also, as far as is reasonably practicable, inform those persons or entities who have received a credit information report containing the credit information allegedly inaccurate and under investigation.",
+      "(4) If after re­investigation, any item contained in the credit information report is found to be inaccurate or incomplete or otherwise incorrect, the credit bureau must immediately and without undue delay delete such item or modify such item, as appropriate, in the credit information report and must supply free of cost a copy of the updated credit information report to the concerned debtor. The credit bureau must also, if reasonably practicable, inform each person or entity to whom the credit information report containing inaccurate credit information is supplied, about the dispute and the result of investigation.",
+      "(5) If after re­investigation, the credit bureau finds that the disputed items are accurate, complete and correct, you may file a brief written statement setting forth the nature of the dispute, which the credit bureau must include in the subsequent credit information reports concerning you or a clear and accurate summary of such statement unless there is reasonable ground to believe that such dispute is frivolous or irrelevant alongwith a statement detailing the re­investigation report findings.",
+      "7. Right to file complaint with the State Bank of Pakistan.—If you are aggrieved by any action or omission of a credit bureau, including the result of re­investigation conducted in response to your notification of alleged error or by that of a credit institution, credit information furnisher or user under this Act or the rules and regulations made thereunder, you have the right to lodge a complaint with the State Bank of Pakistan.",
+      "8. Contact details.—Credit bureau is required to insert address, phone and facsimile number, website and e­mail address, if available."
+     ],
+     "fn": [
+      {
+       "n": "20-1",
+       "text": "Ins. by Act XXXIV of 2016, s.4."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Edition as downloaded from the State Bank of Pakistan's website by the library's editor on 22-23 Nov 2026; later amendments may not be reflected."
+}

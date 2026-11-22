@@ -1,0 +1,31 @@
+{
+ "id": "pakistan-coinage-act-1906",
+ "title": "Pakistan Coinage Act, 1906",
+ "number": "Act No. III of 1906",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [
+  "Coinage Act"
+ ],
+ "enacted": "1906-03-02",
+ "amendedUpToLabel": "Edition date not stated on the State Bank's copy",
+ "status": "in-force",
+ "source": {
+  "name": "State Bank of Pakistan (legal page, downloaded by the library's editor)",
+  "url": "https://www.sbp.org.pk"
+ },
+ "sourcePdf": "pakistan-coinage-act-1906.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "State Bank of Pakistan website PDF, downloaded by the editor 22-23 Nov 2026; verification declared by the editor, not a line-by-line check",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as the State Bank's PDF as downloaded (its layout does not allow reliable conversion into sections); read it in the PDF. Edition date not stated.",
+ "pdfOnly": true
+}

@@ -1,0 +1,33 @@
+{
+ "id": "negotiable-instruments-act-1881",
+ "title": "Negotiable Instruments Act, 1881",
+ "number": "Act No. XXVI of 1881",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [
+  "NI Act",
+  "Cheques",
+  "Bills of exchange"
+ ],
+ "enacted": "1881-12-09",
+ "amendedUpToLabel": "Edition date not stated on the State Bank's copy",
+ "status": "in-force",
+ "source": {
+  "name": "State Bank of Pakistan (legal page, downloaded by the library's editor)",
+  "url": "https://www.sbp.org.pk"
+ },
+ "sourcePdf": "negotiable-instruments-act-1881.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "State Bank of Pakistan website PDF, downloaded by the editor 22-23 Nov 2026; verification declared by the editor, not a line-by-line check",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as the State Bank's PDF as downloaded (its layout does not allow reliable conversion into sections); read it in the PDF. Edition date not stated.",
+ "pdfOnly": true
+}
