@@ -24,8 +24,10 @@
  },
  "sourcePdf": "Anti-Money-Laundering-Act-2010-amended-upto-Sep-2020.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Financial Monitoring Unit, Government of Pakistan consolidated edition updated to September 2020. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Financial Monitoring Unit, Government of Pakistan): Anti-Money-Laundering-Act-2010-amended-upto-Sep-2020.pdf, edition September 2020; editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "WHEREAS it is expedient to provide for prevention of money laundering, combating financing of terrorism and forfeiture of property derived from, or involved in, money laundering or financing of terrorism and for matters connected therewith or incidental thereto;",
  "parts": [

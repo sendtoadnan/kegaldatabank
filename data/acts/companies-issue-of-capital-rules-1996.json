@@ -21,8 +21,10 @@
  },
  "sourcePdf": "companies-issue-of-capital-rules-1996.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to Amended by S.R.O. 34(I)/2016 (19 January 2016). Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Securities and Exchange Commission of Pakistan): companies-issue-of-capital-rules-1996.pdf, edition Amended by S.R.O. 34(I)/2016 (19 January 2016); editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [

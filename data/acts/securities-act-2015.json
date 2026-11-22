@@ -22,8 +22,10 @@
  },
  "sourcePdf": "securities-act-2015.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Section headings read by OCR from a scanned copy with no text layer; read each section in the official PDF and check the heading against it before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Gazette of Pakistan (copy saved from SECP)): securities-act-2015.pdf, edition As enacted (Gazette, 18 May 2015); editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [

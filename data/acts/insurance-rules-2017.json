@@ -22,8 +22,10 @@
  },
  "sourcePdf": "insurance-rules-2017-updated-as-of-march-3-2025.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 3 March 2025. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Securities and Exchange Commission of Pakistan): insurance-rules-2017-updated-as-of-march-3-2025.pdf, edition 3 March 2025; editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [

@@ -22,8 +22,10 @@
  },
  "sourcePdf": "202691810951482SalesTaxRules.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Federal Board of Revenue consolidated edition updated to 31 July 2026. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Federal Board of Revenue): 202691810951482SalesTaxRules.pdf, edition 31 July 2026; editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [

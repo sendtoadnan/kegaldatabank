@@ -23,8 +23,10 @@
  },
  "sourcePdf": "listed-companies-ccg-regulations-2019.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 20 March 2025. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Securities and Exchange Commission of Pakistan): listed-companies-ccg-regulations-2019.pdf, edition 20 March 2025; editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [

@@ -22,8 +22,10 @@
  },
  "sourcePdf": "central-depositories-act-1997.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to As enacted (Gazette, 10 June 1997). Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Securities and Exchange Commission of Pakistan): central-depositories-act-1997.pdf, edition As enacted (Gazette, 10 June 1997); editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "WHEREAS it is expedient to make provisions for the establishment and operation of book-entry systems for the transfer of securities by central depository companies; It is hereby enacted as follows:--",
  "parts": [

@@ -22,8 +22,10 @@
  },
  "sourcePdf": "20267171373418951SalesTaxAct1990updatedupto30.06.2026.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Federal Board of Revenue consolidated edition updated to 30 June 2026 (Finance Act, 2026). Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Federal Board of Revenue): 20267171373418951SalesTaxAct1990updatedupto30.06.2026.pdf, edition 30 June 2026 (Finance Act, 2026); editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "WHEREAS it is expedient to consolidate and amend the law relating to the levy of a tax on the sale [, importation, exportation, Production, manufacture or consumption] of goods; It is hereby enacted as follows:-",
  "parts": [

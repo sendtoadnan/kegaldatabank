@@ -1,0 +1,30 @@
+{
+ "id": "sbp-aml-cft-cpf-regulations-2022",
+ "title": "Anti-Money Laundering, Combating the Financing of Terrorism & Countering Proliferation Financing (AML/CFT/CPF) Regulations for State Bank of Pakistan's Regulated Entities",
+ "number": "State Bank of Pakistan (listed 28 Nov 2022)",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [],
+ "enacted": "2022-11-28",
+ "lastAmended": "2022-11-28",
+ "amendedUpToLabel": "As listed by the State Bank (28 Nov 2022)",
+ "status": "in-force",
+ "source": {
+  "name": "State Bank of Pakistan (laws and regulations page, downloaded through the library's editor's browser)",
+  "url": "https://www.sbp.org.pk"
+ },
+ "sourcePdf": "sbp-aml-cft-cpf-regulations-2022.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "State Bank of Pakistan PDF downloaded from sbp.org.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into sections); the State Bank may have issued later circulars amending it.",
+ "pdfOnly": true
+}

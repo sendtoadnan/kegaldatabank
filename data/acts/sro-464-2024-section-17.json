@@ -23,8 +23,10 @@
  },
  "sourcePdf": "sro-464-2024-section-17.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Official Securities and Exchange Commission of Pakistan PDF shown as published updated to 15 March 2024. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Securities and Exchange Commission of Pakistan): sro-464-2024-section-17.pdf, edition 15 March 2024; editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [],

@@ -4557,5 +4557,172 @@
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
   }
+ },
+ {
+  "id": "financial-institutions-secured-transactions-act-2016",
+  "file": "financial-institutions-secured-transactions-act-2016.pdf",
+  "title": "Financial Institutions (Secured Transactions) Act, 2016",
+  "number": "State Bank of Pakistan (legal page)",
+  "type": "act",
+  "unit": "Section",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "Edition date not stated (listed by the State Bank under 2016)",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded through the library's editor's browser)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Image-only PDF (a scan with no text layer): read it in the PDF; it is not searchable by words. Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into sections); the State Bank may have issued later circulars amending it.",
+  "pdfOnly": true
+ },
+ {
+  "id": "credit-bureau-regulations-2016",
+  "file": "credit-bureau-regulations-2016.pdf",
+  "title": "Credit Bureau Regulations, 2016",
+  "number": "State Bank of Pakistan, notification (listed 24 Aug 2016)",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As listed by the State Bank (24 Aug 2016)",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded through the library's editor's browser)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Image-only PDF (a scan with no text layer): read it in the PDF; it is not searchable by words. Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into sections); the State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "enacted": "2016-08-24",
+  "amendedUpTo": "2016-08-24"
+ },
+ {
+  "id": "credit-bureau-rules-2016",
+  "file": "credit-bureau-rules-2016.pdf",
+  "title": "Credit Bureau Rules, 2016",
+  "number": "State Bank of Pakistan (listed 8 Apr 2016)",
+  "type": "rules",
+  "unit": "Rule",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As listed by the State Bank (8 Apr 2016)",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded through the library's editor's browser)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Image-only PDF (a scan with no text layer): read it in the PDF; it is not searchable by words. Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into sections); the State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "enacted": "2016-04-08",
+  "amendedUpTo": "2016-04-08"
+ },
+ {
+  "id": "regulatory-framework-exchange-companies",
+  "file": "regulatory-framework-exchange-companies.pdf",
+  "title": "Regulatory Framework for Exchange Companies",
+  "number": "State Bank of Pakistan, Exchange Policy Department",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As on the State Bank's page (listed Dec 2025)",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded through the library's editor's browser)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into sections); the State Bank may have issued later circulars amending it.",
+  "pdfOnly": true
+ },
+ {
+  "id": "business-conduct-fair-treatment-framework",
+  "file": "business-conduct-fair-treatment-framework.pdf",
+  "title": "Business Conduct and Fair Treatment of Consumers (FTC) Regulatory Framework (BC&FRF)",
+  "number": "State Bank of Pakistan, Banking Policy & Regulations Department",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As on the State Bank's page",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded through the library's editor's browser)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into sections); the State Bank may have issued later circulars amending it.",
+  "pdfOnly": true
+ },
+ {
+  "id": "lender-of-last-resort-regulations",
+  "file": "lender-of-last-resort-regulations.pdf",
+  "title": "Regulations for Lender of Last Resort (LOLR) Facility under Section 17G of the State Bank of Pakistan Act, 1956",
+  "number": "State Bank of Pakistan",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As on the State Bank's page",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded through the library's editor's browser)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into sections); the State Bank may have issued later circulars amending it.",
+  "pdfOnly": true
+ },
+ {
+  "id": "sbp-aml-cft-cpf-regulations-2022",
+  "file": "sbp-aml-cft-cpf-regulations-2022.pdf",
+  "title": "Anti-Money Laundering, Combating the Financing of Terrorism & Countering Proliferation Financing (AML/CFT/CPF) Regulations for State Bank of Pakistan's Regulated Entities",
+  "number": "State Bank of Pakistan (listed 28 Nov 2022)",
+  "type": "regulations",
+  "unit": "Regulation",
+  "categories": [
+   "banking"
+  ],
+  "aliases": [],
+  "amendedUpToLabel": "As listed by the State Bank (28 Nov 2022)",
+  "source": {
+   "name": "State Bank of Pakistan (laws and regulations page, downloaded through the library's editor's browser)",
+   "url": "https://www.sbp.org.pk"
+  },
+  "watch": {
+   "page": "https://www.sbp.org.pk/laws-regulations",
+   "manual": true
+  },
+  "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into sections); the State Bank may have issued later circulars amending it.",
+  "pdfOnly": true,
+  "enacted": "2022-11-28",
+  "amendedUpTo": "2022-11-28"
  }
 ]

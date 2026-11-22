@@ -22,8 +22,10 @@
  },
  "sourcePdf": "futures-market-act-2016.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Pakistan Code (Ministry of Law and Justice) consolidated edition updated to Pakistan Code edition (no amendment date stated). Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Pakistan Code (Ministry of Law and Justice)): futures-market-act-2016.pdf, edition Pakistan Code edition (no amendment date stated); editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "WHEREAS it is expedient to enact a Law to provide for the regulation of futures market and matters connected therewith and incidenatal thereto; It is hereby enacted as follows:—",
  "parts": [
