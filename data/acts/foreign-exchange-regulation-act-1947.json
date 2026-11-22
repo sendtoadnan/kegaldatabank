@@ -1,0 +1,597 @@
+{
+  "id": "foreign-exchange-regulation-act-1947",
+  "title": "Foreign Exchange Regulation Act, 1947",
+  "number": "Act No. VII of 1947",
+  "type": "act",
+  "unit": "Section",
+  "categories": [
+    "banking"
+  ],
+  "aliases": [
+    "FERA 1947",
+    "Foreign Exchange Regulation Act"
+  ],
+  "enacted": "1947-03-11",
+  "lastAmended": "2020-03-14",
+  "amendedUpToLabel": "As published by the State Bank of Pakistan with the Foreign Exchange Manual updated to 14 March 2020",
+  "status": "in-force",
+  "source": {
+    "name": "State Bank of Pakistan (Foreign Exchange Manual, Exchange Policy Department)",
+    "url": "https://www.sbp.org.pk"
+  },
+  "sourcePdf": "foreign-exchange-regulation-act-1947.pdf",
+  "verification": {
+    "status": "unverified",
+    "note": "Text machine-extracted from the State Bank of Pakistan (Foreign Exchange Manual, Exchange Policy Department) consolidated edition updated to As published by the State Bank of Pakistan with the Foreign Exchange Manual updated to 14 March 2020. Check against the Gazette before quoting."
+  },
+  "preamble": "WHEREAS it is expedient in the economic and financial interest of Pakistan to provide for the regulation of certain payments, dealings in foreign exchange and securities and the import and export of currency and bullion; It is hereby enacted as follows: -",
+  "parts": [
+    {
+      "heading": "Preliminary",
+      "sections": [
+        {
+          "no": "1",
+          "title": "Short title, extent and commencement",
+          "page": 1,
+          "text": [
+            "(1) This Act may be called the Foreign Exchange Regulation Act, 1947.",
+            "(2) It extends to the whole of Pakistan and applies to all citizens of Pakistan and persons in the service of Government wherever they may be.",
+            "(3) It shall come into force on such date as the Federal Government may, by notification in the official Gazette, appoint in this behalf."
+          ]
+        },
+        {
+          "no": "2",
+          "title": "Interpretation",
+          "page": 1,
+          "text": [
+            "In this Act, unless there is anything repugnant in the subject or context:-",
+            ">(a) \"Appellate Board\" means a foreign Exchange Regulation Appellate Board constituted under sub-section (1) of section 23C;",
+            ">(aa) “Authorised Dealer” means a person for the time being authorised under section 3 to deal in foreign exchange;",
+            ">(ab) “Authorized Money Changer” means a person for the time being authorized under section 3A to deal in foreign currency notes and coins.",
+            ">(b) \"Currency\" includes all coins, currency notes, bank notes, postal notes, money orders, cheques, drafts, traveler’s cheques, letters of credit, bills of exchange and promissory notes;",
+            ">(ba) “Exchange Company” means a company authorized under section 3AA to deal in foreign currency notes, coins, postal notes, money orders, bank drafts, travellers cheques and transfers;",
+            ">(c) \"Foreign Currency\" means any currency other than Pakistan currency;",
+            ">(d) \"Foreign Exchange\" means foreign currency and includes any instrument drawn, accepted, made or issued under clause (8) of section 17 of the State Bank of Pakistan Act, 1956, all deposits, credits and balance payable in any foreign currency, and any drafts, traveler’s cheques, letters of credit and bills of exchange, expressed or drawn in Pakistan currency but payable in any foreign currency;",
+            ">(e) \"Foreign Security\" means any security issued elsewhere than in Pakistan and any security the principal of or interest on which is payable in any foreign currency or elsewhere than in Pakistan;",
+            ">(f) \"Gold\" includes gold in the form of coin, whether legal tender or not, or in the form of bullion or ingot, whether refined or not;",
+            ">(g) \"Pakistan currency\" means currency which is expressed or drawn in Pakistan rupees;",
+            ">(h) \"Owner\", in relation to any security, includes any person who has power to sell or transfer the security, or who has the custody thereof or who receives, whether on his own behalf or on behalf of any other person, dividends or interest thereon, and who has any interest therein, and in a case where any security is held on any trust or dividends or interest thereon are paid into a trust fund, also includes any trustee or any person entitled to enforce the performance of the trust or to revoke or vary, with or without the consent of any other person, the trust or any terms thereof, or to control the investment of the trust moneys;",
+            ">(i) \"Prescribed\" means prescribed by rules made under this Act;",
+            ">(j) \"State Bank\" means the State Bank of Pakistan;",
+            ">(k) \"Security\" means shares, stocks, bonds, debentures, debenture stock and Government securities, as defined in the Securities Act, 1920, deposit receipts in respect of deposits of securities, and units or sub-units of unit trusts, but does not include bills of exchange or promissory notes other than Government promissory notes;",
+            ">(l) \"Silver\" means silver bullion or ingot, silver sheets and plates which have undergone no process of manufacture subsequent to rolling and uncurrent silver coin which is not legal tender in Pakistan or elsewhere;",
+            ">(m) \"Transfer\" includes, in relation to any security, transfer by way of loan or security."
+          ]
+        },
+        {
+          "no": "3",
+          "title": "Authorised Dealers in Foreign Exchange",
+          "page": 2,
+          "text": [
+            "(1) The State Bank may, on application made to it in this behalf, authorize any person to deal in foreign exchange.",
+            "(2) An authorisation under this section:-",
+            ">>(i) may authorize dealings in all foreign currencies or may be restricted to authorizing dealings in specified foreign currencies only;",
+            ">>(ii) may authorise transactions of all descriptions in foreign currencies or may be restricted to authorizing specified transactions only;",
+            ">>(iii) may be granted to be effective for a specified period, or within specified amounts.",
+            "(3) An authorised dealer shall in all his dealings, in foreign exchange comply with such general or special directions or instructions as the State Bank may from time to time think fit to give, and, except with the previous permission of the State Bank, an authorised dealer shall not engage in any transaction involving any foreign exchange which is not in conformity with the terms of his authorization under this section.",
+            "(4) An authorized dealer shall, before undertaking any transaction in foreign exchange on behalf of any person, require that person to make such declarations and to give such information as will reasonably satisfy him that the transaction will not involve, and is not designed for the purpose of, any contravention or evasion of the provisions of this Act or of any rules, directions or orders made thereunder, and where the said person refuses to comply with any such requirement or makes only unsatisfactory compliance therewith, the authorised dealer shall refuse to undertake the transaction and shall, if he has reason to believe that any such contravention or evasion as aforesaid is contemplated by the person, report the matter to the State Bank."
+          ]
+        },
+        {
+          "no": "3A",
+          "title": "Authorized money changers in foreign exchange",
+          "page": 3,
+          "text": [
+            "(1) The State Bank may, on application made to it in this behalf, and on payment of a fee prescribed by it, from time to time, authorize any person to deal in foreign currency notes and coins.",
+            "(2) The power conferred under sub-section (1) shall be exercised on the basis of criteria prescribed, and recommendations made, by a committee consisting of such official and non-official representatives as may be nominated by the State Bank.",
+            "(3) An authorization made under this section may be for a specific period of time, which may be renewed thereafter.",
+            "(4) An authorized money changer shall, in all his dealings under the authorization, comply with such general or special directions or instructions as the State Bank may, from time to time, think fit to give including those for supply of data, the rate and code of conduct in doing business. Failure to comply with the instructions may lead to suspension of the licence or other actions as necessary."
+          ]
+        },
+        {
+          "no": "3AA",
+          "title": "Exchange Companies",
+          "page": 3,
+          "text": [
+            "(1) The State Bank may, on application made to it in this behalf, and on payment of such fee as it may, from time to time prescribe, authorize any company to deal in foreign currency notes, coins, postal notes, money orders, bank drafts, travellers cheques and transfers.",
+            "(2) For the purposes of sub-section (1), the expression “company” means a company having been formed and registered under the Companies Ordinance, 1984 (XLVII of 1984) pursuant to no objection certificate issued by the State Bank in respect thereof to the Securities and Exchange Commission of Pakistan upon receiving an intimation from the said Commission that it has received an application for the formation of the company.",
+            "(3) The power conferred under sub-section (1) shall be exercised on the basis of the eligibility criteria prescribed for exchange companies by the State Bank.",
+            "(4) Exchange Companies shall, in all their dealings, comply with—",
+            ">>(i) the terms and conditions of the authorizations issued to them under subsection (1); and",
+            ">>(ii) such general or special directions or instructions as the State Bank may, from time to time, issue including those set out in the circulars and foreign exchange manual of the State Bank.",
+            "(5) Failure to comply with any such terms and conditions, directions or instructions imposed, given or issued may lead to suspension of authorization or any other action as deemed necessary by the State Bank."
+          ]
+        },
+        {
+          "no": "3B",
+          "title": "Cancellation of authorization",
+          "page": 4,
+          "text": [
+            "If an authorized dealer, exchange company or money changer commits a contravention of any term of authorization or uses it for any purpose other than the purpose, or after the expiry of the period, for which it was given or contravenes or attempts to contravene or abets the contravention of the provisions of , or the general or special directions or instructions or permissions issued by the State Bank from time to time under any provisions of, this Act or any rules made thereunder or engages in transactions not in conformity with the terms of authorization or fails to comply with any of the provisions of this Act or any rules, directions, instructions, or permissions made, issued or given thereunder or in the public interest it is necessary so to do or there otherwise exist reasons appearing sufficient to the State Bank, after giving a reasonable opportunity of being heard to the authorized dealer, exchange company or money changer cancel the authorization.",
+            "Provided that, if, in the opinion of the State Bank, any delay would be prejudicial to the public interest, the State Bank may, at the time of giving an opportunity as aforesaid or at any time thereafter and pending the hearing as aforesaid, if any, by order suspend, for a period specified in the order, the authorization either wholly or to such extent as may be so specified."
+          ]
+        },
+        {
+          "no": "4",
+          "title": "Restrictions on dealing in Foreign Exchange",
+          "page": 4,
+          "text": [
+            "(1) Except with the previous general or special permission of the State Bank, no person other than an authorised dealer shall in Pakistan, and no person resident in Pakistan other than an authorised dealer shall outside Pakistan, buy or borrow from, or sell or lend to, or exchange with, any person not being an authorised dealer, any foreign exchange.",
+            "(2) Except as may otherwise be directed by the State Bank, authorized dealers, authorized money changers and exchange companies shall be free to determine exchange rates for the conversion of Pakistan currency into any foreign currency or any foreign currency into Pakistan currency.",
+            "(3) Where any foreign exchange is acquired by any person other than an authorised dealer of any particular purpose, or where any person has been permitted conditionally to acquire foreign exchange, the said person shall not use the foreign exchange so acquired otherwise than for that purpose or, as the case may be, fail to comply with any condition to which the permission granted to him is subject, and where any foreign exchange so acquired cannot be so used or, as the case may be, the conditions cannot be complied with, the said person shall without delay sell the foreign exchange to an authorised dealer.",
+            "(4) Nothing in this section shall be deemed to prevent a person from buying from any post office, in accordance with any law or rules made thereunder for the time being in force, any foreign exchange in the form of postal orders or money orders."
+          ]
+        },
+        {
+          "no": "5",
+          "title": "Restrictions on payments",
+          "page": 5,
+          "text": [
+            "(1) Save as may be provided in and in accordance with any general or special exemption from the provisions of this sub-section which may be granted conditionally or unconditionally by the State Bank, no person in, or resident in, Pakistan shall—",
+            ">(a) make any payment to or for the credit of any person resident outside Pakistan;",
+            ">(b) draw, issue or negotiate any bill of exchange or promissory note or acknowledge any debt, so that a right (whether actual or contingent) to receive a payment is created or transferred in favour of any person resident outside Pakistan;",
+            ">(c) make any payment to or for the credit of any person by order or on behalf of any person resident outside Pakistan;",
+            ">(d) place any sum to the credit of any person resident outside Pakistan;",
+            ">(e) make any payment to or for the credit of any person as consideration for or in association with—",
+            ">>(i) the receipt by any person of a payment or the acquisition by any person of property outside Pakistan;",
+            ">>(ii) the creation or transfer in favour of any person of a right whether actual or contingent to receive a payment or acquire property outside Pakistan;",
+            ">(f) draw, issue or negotiate any bill of exchange or promissory note, transfer any security or acknowledge any debt, so that a right (whether actual or contingent) to receive a payment is created or transferred in favour of any person as consideration for or in association with any matter referred to in clause (e).",
+            "(2) Nothing in sub-section (1) shall render unlawful—",
+            ">(a) the making of any payment already authorized, either with foreign exchange obtained from an authorized dealer under section 4 or with foreign exchange retained by a person in pursuance of an authorization granted by the State Bank;",
+            ">(b) the making of any payment with foreign exchange received by way of salary or payment for services not arising from business in, or anything done while in Pakistan.",
+            "(3) Nothing in this section shall restrict the doing by any person of anything within the scope of any authorization or exemption granted under this Act.",
+            "(4) For the purposes of this section, \"security\" also includes coupons or warrants representing dividends or interest and life or endowment insurance policies."
+          ]
+        },
+        {
+          "no": "6",
+          "title": "Blocked accounts",
+          "page": 6,
+          "text": [
+            "(1) Where an exemption from the provisions of section 5 is granted by the State Bank in respect of payment of any sum to any person resident outside Pakistan and the exemption is made subject to the condition that the payment is made to a blocked account—",
+            ">(a) the payment shall be made to a blocked account in the name of that person in such manner as the State Bank may by general or special order direct; and",
+            ">(b) the crediting of that sum to that account shall, to the extent of the sum credited, be a good discharge to the person making the payment.",
+            "(2) No sum standing at the credit of a blocked account shall be drawn on except in accordance with any general or special permission which may be granted conditionally or otherwise by the State Bank.",
+            "(3) In this section \"blocked account\" means an account opened as a blocked account at any office or branch in Pakistan of a bank authorized in this behalf by the State Bank, or an account blocked, whether before or after the commencement of this Act, by order of the State Bank."
+          ]
+        },
+        {
+          "no": "7",
+          "title": "Special accounts",
+          "page": 6,
+          "text": [
+            "(1) Where in the opinion of the Federal Government it is necessary or expedient to regulate payments due to persons resident in any territory, the Federal Government may, by notification in the official Gazette, direct that such payments or any class of such payments shall be made only into an account (hereinafter referred to as a special account) to be maintained for the purpose by the State Bank or an authorized dealer specially authorized by the State Bank in this behalf.",
+            "(2) The credit of a sum to a special account shall, to the extent of the sum credited, be a good discharge to the person making the payment:",
+            "Provided that where the liability of the person making the payment is to make the payment in foreign currency, the extent of the discharge shall be ascertained by converting the amount paid into that currency at such rate of exchange as is for the time being fixed or authorized by the State Bank.",
+            "(3) The sum standing to the credit of any special account shall from time to time be applied—",
+            ">(a) where any agreement is entered into between the Federal Government and the Government of the territory to which the aforesaid notification relates for the regulation of payments between persons resident in Pakistan and in that territory, in such manner as the State Bank, having regard to the provisions of such agreement, may direct; or",
+            ">(b) where no such agreement is entered into, for the purpose of paying wholly or partly, and in such order of preference and at such times as the Federal Government may direct, debts due from the persons resident in the said territory to persons resident in Pakistan or in such other territories as the Federal Government may by order specify in this behalf."
+          ]
+        },
+        {
+          "no": "8",
+          "title": "Restrictions on import and export of certain currency and bullion",
+          "page": 7,
+          "text": [
+            "(1) The Federal Government may, by notification in the official Gazette, order that, subject to such exemptions, if any, as may be contained in the notification, no person shall, except with the general or special permission of the State Bank and on payment of the fee, if any, prescribed bring or send into Pakistan any gold or silver or any currency notes or bank notes or coin whether Pakistan or foreign.",
+            "[Explanation.—The bringing or sending into any part or place in the territories of Pakistan of any such article as aforesaid, intended to be taken out of the territories of Pakistan without being removed from the ship or conveyance in which it is being carried, shall nonetheless be deemed to be bringing or as the case may be sending, into the territories of Pakistan of that article for the purposes of this section.]",
+            "(2) No person shall, except with the general or special permission of the State Bank or the written permission of a person authorized in this behalf by the State Bank, take or send out of Pakistan any gold, jewelry or precious stones, or Pakistan currency notes, bank notes or coin or foreign exchange.",
+            "(3) The restrictions imposed by sub-sections (1) and (2) shall be deemed to have been imposed under section 16 of the Customs Act, 1969, without prejudice to the provisions of section 23 of this Act, and all the provisions of that Act shall have effect accordingly."
+          ]
+        },
+        {
+          "no": "9",
+          "title": "Acquisition by Federal Government of foreign exchange",
+          "page": 7,
+          "text": [
+            "The Federal Government may, by notification in the official Gazette, order every person in, or resident in, Pakistan-",
+            ">(a) who owns or holds such foreign exchange as may be specified in the notification, to offer it, or cause it to be offered for sale to the State Bank on behalf of the Federal Government or to such person, as the State Bank may authorize for the purpose, within such time as may be specified in the notification and at such price as the Federal Government may fix, being a price which is in the opinion of the Federal Government not less than the market rate of the foreign exchange when it is offered for sale;",
+            ">(b) who is entitled to assign any right to receive such foreign exchange as may be specified in the notification, to transfer that right to the State Bank on behalf of the Federal Government on payment of such consideration therefor as the Federal Government may fix:",
+            "Provided that the Federal Government may by the said notification or another order exempt any person or class of persons from the operation of such order:",
+            "Provided further that nothing in this section shall apply to any foreign exchange acquired by a person from an authorized dealer and retained by him with the permission of the State Bank for any purpose."
+          ]
+        },
+        {
+          "no": "10",
+          "title": "Duty of persons entitled to receive foreign exchange, etc",
+          "page": 8,
+          "text": [
+            "(1) No person who has a right to receive any foreign exchange or to receive from any person resident outside Pakistan a payment in rupees shall, except with the general or special permission of the State Bank, do or refrain from doing any act with intent to secure—",
+            ">(a) that the receipt by him of the whole or part of that foreign exchange or payment is delayed, or",
+            ">(b) that the foreign exchange or payment ceases in whole or in part to be receivable by him.",
+            "(2) Where a person has failed to comply with the requirements of sub-section (1) in relation to any foreign exchange or payment in rupees, the State Bank may give to him such directions as appear to be expedient for the purpose of securing the receipt of the foreign exchange or payment as the case may be."
+          ]
+        },
+        {
+          "no": "11",
+          "title": "Power to regulate the uses, etc., of imported gold and silver",
+          "page": 8,
+          "text": [
+            "The Federal Government may, by notification in the official Gazette, impose such conditions as it thinks necessary or expedient on the use or disposal of or dealings in gold and silver prior to, or at the time of, import into Pakistan."
+          ]
+        },
+        {
+          "no": "12",
+          "title": "Payment for exported goods",
+          "page": 8,
+          "text": [
+            "(1) The Federal Government may, by notification in the official Gazette, prohibit the export of any goods or class of goods specified in the notification from Pakistan directly or indirectly to any place so specified unless a declaration supported by such evidence as may be prescribed or so specified, is furnished by the exporter to the prescribed authority that the amount representing the full export value of the goods has been, or will within the prescribed period be, paid in the prescribed manner.",
+            "(2) Where any export of goods has been made to which a notification under subsection (1) applies, no person entitled to sell, or procure the sale of, the said goods shall, except with the permission of the State Bank, do or refrain from doing any act with intent to secure that—",
+            ">(a) the sale of the goods is delayed to an extent which is unreasonable having regard to the ordinary course of trade, or",
+            ">(b) payment for the goods is made otherwise than in the prescribed manner or does not represent the full amount payable by the foreign buyer in respect of the goods, subject to such deductions, if any, as may be allowed by the State Bank, or is delayed to such extent as aforesaid:",
+            "Provided that no proceedings in respect of any contravention of this sub-section shall be instituted unless the prescribed period has expired and payment for the goods representing the full amount as aforesaid has not been made in the prescribed manner.",
+            "(3) Where in relation to any such goods the said period has expired and the goods have not been sold and payment therefor has not been made as aforesaid, the State Bank may give to any person entitled to sell the goods or to procure the sale thereof, such directions as appear to it to be expedient for the purpose of securing the sale of the goods and payment therefor as aforesaid, and without prejudice to the generality of the foregoing provision, may direct that the goods shall be assigned to the Federal Government or to a person specified in the directions.",
+            "(4) Where any goods are assigned in accordance with sub-section (3), the Federal Government shall pay to the person assigning them such sum in consideration of the net sum recovered by or on behalf of the Federal Government in respect of the goods as may be determined by the Federal Government.",
+            "(5) Where in relation to any such goods the value as stated in the invoice is less than the amount which in the opinion of the State Bank represents the full export value of those goods, the State Bank may issue an order requiring the person holding the shipping documents to retain possession thereof until such time as the exporter of the goods has made arrangements for the State Bank or a person authorized by the State Bank to receive on behalf of the exporter payment in the prescribed manner of an amount which represents in the opinion of the State Bank the full export value of the goods.",
+            "(6) For the purpose of ensuring compliance with the provisions of this section and any orders or directions made thereunder, the State Bank may require any person making any export of goods to which a notification under sub-section (1) applies to exhibit contracts with his foreign buyer or other evidence to show that the full amount payable by the said buyer in respect of the goods has been, or will within the prescribed period be, paid in the prescribed manner."
+          ]
+        },
+        {
+          "no": "13",
+          "title": "Regulation of export and transfer of securities",
+          "page": 9,
+          "text": [
+            "(1) No person shall, except with the general or special permission of the State Bank,—",
+            ">(a) take or send any security to any place outside Pakistan;",
+            ">(b) transfer any security or create or transfer any interest in a security to or in favour of a person resident outside Pakistan;",
+            ">(c) transfer any security from a register in Pakistan to a register outside Pakistan or do any act which is calculated to secure, or forms part of a series of acts which together are calculated to secure, the substitution for any security which is either in, or registered in Pakistan, of any security which is either outside or registered outside Pakistan;",
+            ">(d) issue, whether in Pakistan or elsewhere, any security which is registered or to be registered in Pakistan, to a person resident outside Pakistan.",
+            "(2) Where the holder of a security is a nominee, neither he nor any person through whose agency the exercise of all or any of the holder's rights in respect of the security is controlled shall, except with the general or special permission of the State Bank, do any act whereby he recognises or gives effect to the substitution of another person as the person from whom he directly receives instructions, unless both the persons previously instructing him and the person substituted for that person were, immediately before the substitution, resident in Pakistan.",
+            "(3) The State Bank may, for the purpose of securing that the provisions of this section are not evaded, require that the person transferring any security and the person to whom such security is transferred shall subscribe to a declaration that the transferee is not resident outside Pakistan.",
+            "(4) Notwithstanding anything contained in any other law, no person shall, except with the permission of the State Bank,",
+            ">(a) enter any transfer of securities in any register or book in which securities are registered or inscribed if he has any ground for suspecting that the transfer involves any contravention of the provision of this section, or",
+            ">(b) enter in any such register or book, in respect of any security, whether in connection with the issue or transfer of the security or otherwise, an address outside Pakistan except by way of substitution for any such address in the same country or for the purpose of any transaction for which permission has been granted under this section with knowledge that it involves entry of the said address.",
+            "(5) For the purposes of this section,",
+            ">(a) \"holder\" in relation to a bearer security means the person having physical custody of the security; provided that, where a bearer security is deposited with any person in a locked or sealed receptacle from which the person with whom it is deposited is not entitled to remove it without the authority of some other person, that other person shall be deemed to be the holder of the security;",
+            ">(b) \"nominee\" means a holder of any security (including bearer security) or any coupon representing dividends or interest who, as respects the exercise of any rights in respect of the security or coupon, is not entitled to exercise those rights except in accordance with instructions given by some other person, and a person holding a security or coupon as a nominee shall be deemed to act as nominee for the person who is entitled to give instructions either directly or through the agency of one or more persons, as to the exercise by the holder of the security or coupon of any rights in respect thereof and is not, in so doing, himself under a duty to comply with instructions given by some other person;",
+            ">(c) \"security\" also includes coupons or warrants representing dividends or interest, and life or endowment insurance policies;",
+            ">(d) \"a person resident outside Pakistan\" includes a foreign national for the time being resident in Pakistan, and a company registered in Pakistan which is controlled, directly or indirectly, by a person resident outside Pakistan."
+          ]
+        },
+        {
+          "no": "14",
+          "title": "Custody of securities",
+          "page": 10,
+          "text": [
+            "(1) The Federal Government may, by notification in the official Gazette, order every person by whom or on whose behalf a security or document of title to a security specified in the order is held in Pakistan to cause the said security or document of title to be kept in the custody of an authorized depository named in the order:",
+            "Provided that the State Bank may by order in writing permit any such security to be withdrawn from the custody of the authorized depository subject to such conditions as may be specified in the order.",
+            "(2) No authorized depository may part with any security covered by an order under sub-section (1) without the general or special permission of the State Bank except to, or to the order of, another authorized depository.",
+            "(3) Except with the general or special permission of the State Bank, no authorized depository shall-",
+            ">(a) accept or part with any security covered by an order under sub-section (1) whereby the security is transferred into the name of a person resident outside Pakistan, or",
+            ">(b) do any act whereby he recognises or gives effect to the substitution of another person as the person from whom he directly receives instructions relating to such security unless the person previously so instructing him and the person substituted for that person were immediately before the substitution resident in Pakistan.",
+            "(4) Except with the general or special permission of the State Bank, no person shall buy, sell or transfer any security, or document of title to a security, covered by an order under sub-section (1) unless such security or document of title has been deposited in accordance with the order.",
+            "(5) Except with the general or special permission of the State Bank, no capital moneys, interest or dividends in respect of any security covered by an order under sub-section (1) shall be paid in Pakistan except to or to the order of the authorized depository having the custody of the security.",
+            "(6) For the purposes of this section: -",
+            ">(a) \"authorized depository\" means a person notified by the Federal Government to be entitled to accept the custody of securities and documents of title to securities, and",
+            ">(b) \"security\" shall include coupons."
+          ]
+        },
+        {
+          "no": "15",
+          "title": "Restrictions on issue of bearer securities",
+          "page": 11,
+          "text": [
+            "The Federal Government may, by notification in the official Gazette, order that except with the general or special permission of the State Bank no person shall in Pakistan issue any bearer security or coupon or so alter any document that it becomes a bearer security or coupon."
+          ]
+        },
+        {
+          "no": "16",
+          "title": "Acquisition by Federal Government of foreign securities",
+          "page": 11,
+          "text": [
+            "(1) Subject to any exemptions that may be contained in the notification, the Federal Government may, if it is of opinion that it is expedient so to do for the purpose of strengthening its foreign exchange position by notification in the official Gazette:—",
+            ">(a) order the transfer to itself of any foreign securities specified in the notification at a price so specified, being a price which is, in the opinion of the Federal Government not less than the market value of the securities on the date of the notification, or",
+            ">(b) direct the owner of any foreign securities specified, in the notification to sell or procure the sale of the securities and thereafter to offer or cause to be offered the net foreign exchange proceeds of the sale to the State Bank on behalf of the Federal Government or to such person as the State Bank may authorize for the purpose, at such price as the Federal Government may fix, being a price which is in the opinion of the Federal Government not less than the market rate of the foreign exchange when it is offered for sale.",
+            "(2) On the issue of a notification under clause (a) of sub-section (1): –",
+            ">(a) the securities to which the notification relates shall forth-with vest in the Federal Government free from any mortgage, pledge or charge, and the Federal Government may deal with them in such manner as it thinks fit;",
+            ">(b) the owner of any of the securities to which the notification relates and any person who is responsible for keeping any registers or books in which any of those securities are registered or inscribed, or who is otherwise concerned with the registration or inscription of any of those securities, shall do all such things as are necessary or as the Federal Government or the State Bank may order to be done, for the purpose of securing that—",
+            ">>(i) the securities and any documents of title relating there-to are delivered to the Federal Government and, in the case of registered or inscribed securities, that the securities are registered or inscribed in the name of the Federal Government or of such nominee of the Federal Government as it may specify, and",
+            ">>(ii) any dividends or interest on those securities becoming payable on or after the date of the issue of the notification are paid to the Federal Government or its nominee as aforesaid and where in the case of any security payable to bearer which is delivered in pursuance of the said notification, any coupons representing any such dividends or interest are not delivered with the security, such reduction in the price payable therefor shall be made as the Federal Government thinks fit:",
+            "Provided that where the price specified in the notification in relation to any security is ex-dividend or ex-interest, this sub-clause shall not apply to that dividend or interest or to any coupon representing it.",
+            "(3) A certificate signed by any person authorized in this behalf by the Federal Government that any specified securities are securities transferred to the Federal Government under this section shall be treated by all persons concerned as conclusive evidence that the securities have been so transferred."
+          ]
+        },
+        {
+          "no": "17",
+          "title": "Restriction on settlement",
+          "page": 12,
+          "text": [
+            "(1) No person resident in Pakistan shall, except with the general or special permission of the State Bank, settle any property, otherwise than by will, upon any trust under which a person who at the time of the settlement is resident outside Pakistan, elsewhere than in territories notified in this behalf by the State Bank, will have an interest in the property, or exercise, other than by will, any power for payment in favour of a person who at the time of the exercise of the power is resident outside Pakistan elsewhere than in such notified territories.",
+            "(2) A settlement or power as aforesaid shall not be invalid except in so far as it confers any right or benefit on any person who at the time of the settlement or the exercise of the power is resident outside Pakistan, elsewhere than in territories notified by the State Bank."
+          ]
+        },
+        {
+          "no": "18",
+          "title": "Certain provisions as to companies",
+          "page": 13,
+          "text": [
+            "(1) Except with the general or special permission of the State Bank, no person resident in Pakistan shall do any act whereby a company, which is controlled by persons resident in Pakistan ceases to be so controlled.",
+            "(2) Except with the general or special permission of the State Bank, no person resident in Pakistan shall lend any money or security to any company, not being a banking company, which is by any means controlled, whether directly or indirectly, by persons resident outside Pakistan elsewhere than in the territories notified in this behalf by the State Bank.",
+            "In this sub-section \"company\" includes a firm, branch or office of a company or firm."
+          ]
+        },
+        {
+          "no": "19",
+          "title": "Power to call for information",
+          "page": 13,
+          "text": [
+            "(1) The Federal Government or the State Bank may, at any time by notification in the official Gazette, direct owners subject to such exceptions, if any, as may be specified in the notification, of such foreign exchange or foreign securities as may be so specified, to make a return thereof to the State Bank within such period, and giving such particulars, as may be so specified.",
+            "(1A) The Federal Government may, by notification in the official Gazette, direct citizens of Pakistan resident in Pakistan, or any class of such citizens, to make within such time, and giving such particulars, as may be specified in the notification, a return of any immovable property or any industrial or commercial undertaking or company outside Pakistan, held, owned, established or controlled by them or in which they have any right, title or interest.",
+            "(2) The Federal Government may by order in writing require any person to furnish it or any person specified in the order with any information, book or other document in his possession, being information, book or document which the Federal Government considers it necessary or expedient to obtain and examine for the purposes of this Act and may, at any time, by notification in the official Gazette, direct that the power to make such order shall for such period as may be specified in the direction, be exercised by the State Bank.",
+            "(3) On a representation in writing made by a person authorised in this behalf by the Federal Government or the State Bank and supported by statement on oath of such person that he has reason to believe that a contravention of any of the Provisions of this Act has been or is being or is about to be committed in any place or that evidence of the contravention is to be found in such place, a district magistrate, a sub-divisional magistrate or a magistrate of the first class, may, by warrant, authorize any police officer not below the rank of sub-inspector.",
+            ">(a) to enter and search any place in the manner specified in the warrant; and",
+            ">(b) seize any books or other documents found in or on such place.",
+            "Explanation.—In this sub-section, \"place\" includes a house, building, tent, vehicle, vessel or aircraft.",
+            "(3A) A police officer authorized under sub-section (3) may search any person who is found in or whom he has reasonable ground to believe to have recently left or to be about to enter such place and to seize any article found in the possession of or upon such person and believed by the police officer so authorized to be evidence of the commission of any offence under this Act.",
+            "(3B) A police officer authorized under sub-section (3) shall conduct any search under that sub-section or under sub-section (3A) in accordance with the provision relating to search in the Code of Criminal Procedure, 1898.",
+            "(4) The provisions of Section 122 and Sub-sections (1), (2) and (3) of Section 150 of the Income Tax Ordinance (XXXI of 1979), shall apply in relation to information obtained under Sub-section (2) of this Section as they apply to the particulars referred to in that Section and for the purposes of such applications.",
+            ">(a) the said sub-section (3) shall be construed as if in clause (a) thereof there was included reference to a prosecution for an offense under section 23 of this Act, and",
+            ">(b) persons to whom any information is required to be furnished under an order made under sub-section (2) of this section shall be deemed to be public servants within the meaning of that section."
+          ]
+        },
+        {
+          "no": "19A",
+          "title": "Power to enter and inspect",
+          "page": 14,
+          "text": [
+            "(1) Without prejudice to the provisions of section 19, any person authorized in writing by the Federal Government or the State Bank or any adjudicating officer in this behalf may, for the purpose of making an inquiry or adjudication proceedings which he considers necessary for the purposes of this Act, enter any place and call for and inspect any accounts, books or other documents kept in such place.",
+            "(2) No person shall obstruct or hinder any person in the exercise of his powers under sub-section (1)."
+          ]
+        },
+        {
+          "no": "20",
+          "title": "Supplemental provisions",
+          "page": 14,
+          "text": [
+            "(1) For the purposes of this Act and of any rules, directions or orders made thereunder—",
+            ">(a) until the State Bank by general or special order otherwise directs, any person who has at any time after the commencement of this Act been resident in Pakistan shall be treated as still being resident in Pakistan and if such direction is given in relation to any such person the State Bank may by the same or a subsequent direction, declare the territory in which he shall be treated as being resident;",
+            ">(b) in the case of any person to whom clause (a) does not apply the State Bank may by general or special order declare the territory in which he shall be treated as being resident;",
+            ">(c) in the case of any person resident in Pakistan who leaves Pakistan, the State Bank may give a direction to any bank that until the direction is revoked, any sum from time to time standing to the credit of that person and any security held on his behalf at any office or branch of that bank in Pakistan specified in the direction, shall not be dealt with except with the permission of the State Bank;",
+            ">(d) any transactions with a branch of any business, whether carried on by a body corporate or otherwise, shall be treated in all respects as if the branch were a body corporate resident where the branch is situated;",
+            ">(e) the making of any book entry or other statement recording a debit against a branch of any business in favour of the head office or any other branch of that business shall be treated as the acknowledgement of a debt whereby a right is created in favour of a person resident where the head office or other branch is situated.",
+            "(2) Nothing in this Act relating to the payment of any price or sum by the Federal Government shall be construed as requiring the Federal Government to pay that price or sum otherwise than in Pakistan currency or otherwise than in Pakistan.",
+            "(3) The State Bank may give directions in regard to the making of payments and the doing of other acts by bankers, authorized dealers, travel agents, carriers, whether common or private, stock brokers and other persons who are authorized by the State Bank to do anything in pursuance of this Act in the course of their business, as appear to it to be necessary or expedient for the purpose of securing compliance with the provisions of this Act and any rules, orders or directions made thereunder."
+          ]
+        },
+        {
+          "no": "21",
+          "title": "Contracts in evasion of this Act",
+          "page": 15,
+          "text": [
+            "(1) No person shall enter into any contract or agreement which would directly or indirectly evade or avoid in any way the operation of any provision of this Act or of any rule, direction or order made thereunder.",
+            "(2) Any provision of, or having effect under, this Act that a thing shall not be done without the permission of the Federal Government or the State Bank, shall not render invalid any agreement by any person to do that thing, if it is a term of the agreement that that thing shall not be done unless permission is granted by the Federal Government or the State Bank, as the case may be; and it shall be an implied term of every contract governed by the law of any part of Pakistan that anything agreed to be done by any term of that contract which is prohibited to be done by or under any of the provisions of this Act except with the permission of the Federal Government or the State Bank, shall not be done unless such permission is granted.",
+            "(3) Neither the provisions of this Act nor any term (whether expressed or implied) contained in any contract that anything for which the permission of the Federal Government or the State Bank is required by the said provisions shall not be done without that permission, shall prevent legal proceedings being brought in Pakistan to recover any sum which, apart from the said provisions and any such term, would be due, whether as a debt, damages or otherwise, but –",
+            ">(a) the said provisions shall apply to sums, required to be paid by any judgement or order of any Court as they apply in relation to other sums; and",
+            ">(b) no steps shall be taken for the purpose of enforcing any judgement or order for the payment of any sum to which the said provisions apply except as respects so much thereof as the Federal Government or the State Bank, as the case may be, may permit to be paid; and",
+            ">(c) for the purpose of considering whether or not to grant such permission, the Federal Government or the State Bank, as the case may be, may require the person entitled to the benefit of the judgement or order and the debtor under the judgement or order, to produce such documents and to give such information as may be specified in the requirement.",
+            "(4) Notwithstanding anything in the Negotiable Instruments Act, 1881, neither the provisions of this Act or of any rule, direction or order made thereunder, nor any condition, whether express or to be implied having regard to those provisions, that any payment shall not be made without permission under this Act, shall be deemed to prevent any instrument being a bill of exchange or promissory note."
+          ]
+        },
+        {
+          "no": "22",
+          "title": "False statements",
+          "page": 16,
+          "text": [
+            "No person shall, when complying with any order or direction under section 19 or when making any application or declaration to any authority or person for any purpose under this Act, give any information or make any statement which he knows or has reasonable cause to believe to be false, or not true, in any material particular."
+          ]
+        },
+        {
+          "no": "23",
+          "title": "Penalty and procedure",
+          "page": 16,
+          "text": [
+            ">(l) Whoever contravenes, attempts to contravene or abets the contravention of any of the provisions of this Act or of any rule, direction or order made thereunder other than the provisions of section 3, section 3A, section 3AA, section 3B, subsections (2) and (3) of section 4, section 10, sub-section (1) of section 12 and clause (c) of sub-section (1) and sub-section (3) of section 20 or any rule, direction or order made thereunder shall notwithstanding anything contained in the Code of Criminal Procedure, 1898, be tried by a Tribunal constituted by Section 23A, and shall be punishable with imprisonment for a term which may extend to two years or with fine or with both, and any such Tribunal trying any such contravention may, if it thinks fit, and in addition to any sentence which it may impose for such contravention, direct that any currency, security, gold or silver, or goods or other property in respect of which the contravention has taken place shall be confiscated.",
+            "(2) Notwithstanding anything contained in the Code of Criminal Procedure, 1898, any offense punishable under this section shall be cognizable and nonbailable for such period as the Federal Government may from time to time, by notification in the official Gazette, declare.",
+            "(3) A Tribunal shall not take cognizance of any offence punishable under this section and not declared by the Federal Government under the preceding sub-section to be cognizable for the time being or of an offence punishable under Sections 122 and 150 of the Income Tax Ordinance, 1979 (XXXI of 1979), as applied by Section 19, except upon complaint in writing made by a person authorised by the State Bank in this behalf.",
+            "Provided that where any such offence is the contravention of any of the provisions of this Act or any rule, direction or order made thereunder which prohibits the doing of an act without permission and is not declared by the Federal Government under the preceding sub-section to be cognizable for the time being, no such complaint shall be made unless the person accused of the offence has been given an opportunity of showing that he had such permission.",
+            "(3A) A person authorized under sub-section (3) to make a complaint in writing shall, if he is not already a public servant within the meaning of section 21 of the Pakistan Penal Code (Act XLV of 1860), be deemed to be a public servant within the meaning of that section.",
+            "(4) Where the person guilty of an offense under this Act is a company or other body corporate every director, manager, secretary and other officer thereof who is knowingly a party to the offence shall also be guilty of the same offense and liable to the same punishment."
+          ]
+        },
+        {
+          "no": "23A",
+          "title": "Tribunal, its powers etc",
+          "page": 17,
+          "text": [
+            "(1) Every Sessions Judge shall, for the areas within the territorial limits of his jurisdiction, be a Tribunal for trial of an offence punishable under section 23.",
+            "(2) A Tribunal may transfer any case for trial to an Additional Sessions Judge within its jurisdiction who shall, for trying a case so transferred, be deemed to be a Tribunal constituted for the purpose.",
+            "(3) A Tribunal shall have all the powers of a Magistrate of the First Class in relation to criminal trials, and shall follow as nearly as may be the procedure provided in the Code of Criminal Procedure, 1898, for trials before such Magistrate, and shall also have powers as provided in the said Code in respect of the following matters, namely:",
+            ">(a) directing the arrest of the accused;",
+            ">(b) issuing search warrants;",
+            ">(c) ordering the police to investigate any offence and report;",
+            ">(d) authorizing detention of a person during police investigation;",
+            ">(e) ordering the release of the accused on bail.",
+            "(3A) For the purposes of sub-section (3), the Code of Criminal Procedure, 1898 (Act V of 1898), shall have effect as if an offence under this Act were one of the offences referred to in sub-section (1) of section 337 of the Code.",
+            "(4) All proceedings before a Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Pakistan Penal Code, and for the purposes of section 196 thereof, and the provisions relating to the execution of orders and sentences in the Code of Criminal Procedure, 1898, shall, so far as may be, apply to orders and sentences passed by a Tribunal.",
+            "(5) As regards sentences of fine, the powers of a Tribunal shall be as extensive as those of a Court of Session.",
+            "(6) The State Bank of Pakistan or any other person aggrieved by a judgement of a Tribunal may, within three months from the date of the judgement, appeal to the High Court.",
+            "(7) Save as provided in the preceding sub-section, all judgements and orders passed by a Tribunal shall be final."
+          ]
+        },
+        {
+          "no": "23B",
+          "title": "Authorisation of Adjudicating officers and their powers etc",
+          "page": 18,
+          "text": [
+            "Authorisation of Adjudicating officers and their powers etc.—(1) The Federal Government may, by notification in the official Gazette, authorise in relation to any area specified in the notification any officer of the State Bank to act as the Director of Adjudication, an Additional Director of Adjudication, a Senior Deputy Director of Adjudication, a Deputy Director of Adjudication and an Assistant Director of Adjudication (in this Act referred to as the Adjudicating Officer).",
+            "(2) Subject to such conditions and limitations as the Federal Government may impose, an Adjudicating Officer may exercise the powers and discharge the duties conferred or imposed on him by this Act and shall also be competent to exercise the powers and discharge the duties conferred upon any Adjudicating Officer subordinate to him:",
+            "Provided that, notwithstanding anything contained in this Act or the rules made thereunder, the State Bank may, by general or special order, impose such conditions or limitations on the exercise of such powers or discharge of such duties as it thinks fit.",
+            "(3) The State Bank may, by notification in the official Gazette, and subject to such limitations or conditions, if any, as may be specified therein, empower.",
+            ">(a) any Senior Joint Director of Adjudication or Joint Director of Adjudication or Junior Joint Director of Adjudication or Assistant Director of Adjudication to exercise the powers of the Director of Adjudication under this Act;",
+            ">(b) any Joint Director of Adjudication or Junior Joint Director of Adjudication or Assistant Director of Adjudication to exercise any of the powers of a Senior Joint Director of Adjudication under this Act;",
+            ">(c) any Junior Joint Director of Adjudication or Assistant Director of Adjudication to exercise any of the powers of a Joint Director of Adjudication under this Act; and",
+            ">(d) any Assistant Director of Adjudication to exercise the powers of a Junior Joint Director of Adjudication under this Act.",
+            "(4) If any person contravenes or attempts to contravene or abets the contravention of the provisions of sub-section (3) of section 4, section 10, subsection (1) of section 12 or sub-section (3) of section 20 or any rule, direction or order made thereunder, he shall be liable to such penalty not exceeding five times the amount or value involved in such contravention or five thousand rupees, whichever is more, as may be adjudged by the Director or Additional Director of Adjudication or any other Adjudicating Officer having jurisdiction under sub-section (8) to take cognizance of such contravention, and, if he persists in such contravention, or where the contravention or default is a continuing one, to a further penalty which may extend to two thousand rupees for every day during which the offence or, as the case may be, the contravention or default continues.",
+            "(5) Omitted.",
+            "(6) Omitted.",
+            "(7) For the purpose of this section, amount or value shall mean.",
+            ">(a) in the case of foreign exchange, the Pakistan rupee equivalent of the same calculated at the rate of exchange authorised by the State Bank as on the date on which an opportunity of making a representation is given under sub-section (9) or where no such rate has been authorised, the rate determined by the State Bank on the said date;",
+            ">(b) in the case of goods, their value in rupees if declared in Pakistan currency or where it is expressed in foreign exchange Pakistan rupee equivalent of the same calculated in accordance with clause (a); and",
+            ">(c) in case of any right to receive foreign exchange or to receive from any person resident outside Pakistan a payment in rupees or gold or silver or security or other property of any description, the sale proceeds which, taking all circumstances into consideration, such right, gold, silver, security or other property can, in the opinion of the Adjudicating Officer, fetch on the date referred to in clause (a).",
+            "(8) For imposing a penalty under sub-section (4), the jurisdiction and powers of the Adjudicating Officers shall be as follows: -",
+            ">(a) the Director of Adjudication and a Senior Joint Director of Adjudication may deal with all cases without any limit on the amount or value involved in any contravention:",
+            ">(b) a Joint Director of Adjudication and a Junior Joint Director of Adjudication may deal with a case where the amount or value involved in any contravention on the date referred to in clause (a) of sub-section (7) does not exceed twenty thousand rupees; and",
+            ">(c) an Assistant Director of Adjudication may deal with a case where the amount or value involved in any contravention on the date referred to in clause (a) of subsection (7) does not exceed ten thousand rupees:",
+            "Provided that the State Bank may, by notification in the official Gazette, reduce or extend the jurisdiction and powers of any particular Adjudicating Officer or class of Adjudicating Officers.",
+            "(9) For the purpose of determining whether a person has contravened any of the provisions of sub-section (4), the Adjudicating Officer shall hold an enquiry in the manner prescribed, if any, after giving such person a reasonable opportunity for making a representation in the matter and if, on such inquiry, he is satisfied that the person has committed any contravention, he may impose the penalty provided for in this section.",
+            "(10) All doubts with regard to the jurisdiction of an Adjudicating Officer shall be referred to the Director of Adjudication and his decision thereon shall be final.",
+            "(11) The Director of Adjudication, on his own motion or on the application of any party to the adjudication proceedings and after notice to the State Bank and other parties, if any, and after hearing such of them as desire to be heard, may at any stage withdraw any adjudication proceedings pending before any Adjudicating Officer and adjudicate it either himself or transfer it to any other Adjudicating Officer subordinate to him and competent to dispose of the same or retransfer the same for adjudication to the Adjudicating Officer from whom it was withdrawn; and the Director of Adjudicating or, as the case may be, any other Adjudicating Officer or the Adjudicating Officer, or if the Adjudicating Officer who is seized of the matter as aforesaid vacates office for any reason and another person is authorised to act in his stead such person, shall not, by reason of the said withdrawal or transfer or retransfer or vacation of office, as the case may be, be bound to recall and re-hear any witness who has given evidence before the withdrawal or transfer or re-transfer or vacation of office and may act on the evidence already recorded by or produced before the Adjudicating Officer from whom the proceedings are so transferred or retransferred or in whose stead he has been so authorised to act as Adjudicating Officer.",
+            "(12) Subject to provisions of appeal under section 23C, no Court or other authority shall call, or permit to be called, in question any proceeding or order of the Adjudicating Officer or the legality or propriety of anything done or intended to be done by the Adjudicating Officer under this Act."
+          ]
+        },
+        {
+          "no": "23C",
+          "title": "Appeal to Appellate Board",
+          "page": 20,
+          "text": [
+            "(1) The Federal Government may, by notification in official Gazette, constitute as many appellate boards, each to be called the Foreign Exchange Regulation Appellate Board, as it may consider necessary, and where it establishes more than one Appellate Board, shall specify in the notification the territorial limits within which each one of them shall exercise jurisdiction.",
+            "(2) An Appellate Board shall consist of a person who is, or has been or is qualified for appointment as a Judge of a High Court or a District Judge or an Additional District Judge.",
+            "(3) Any person aggrieved by any order of the Adjudicating Officer made under sub-section (4) or sub-section (5) or sub-section (6) of section 23B may, within thirty days of such order, prefer an appeal to the Appellate Board within whose jurisdiction the order is passed:",
+            "Provided that no appeal shall lie from an interlocutory order which does not dispose of the entire case before the Adjudicating Officer:",
+            "Provided further that the Appellate Board may entertain an appeal after the expiry of the said period of thirty days but not later than sixty days from the date of the aforesaid order if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.",
+            "Explanation.—For the purposes of this sub-section, the expression \"any person aggrieved\" shall include the Federal Government and the State Bank.",
+            "(4) No appeal shall be admitted for hearing unless the appellant deposits in cash with the Appellate Board the amount of penalty or, at the discretion of the Appellate Board, furnishes security equal in value to such amount of penalty.",
+            "(5) The Appellate Board may make such inquiry as it may consider necessary, and after giving the appellant an opportunity of being heard if he so desires, pass such order as it thinks fit, confirming, altering or annulling the order appealed against:",
+            "Provided that no order enhancing any penalty shall be passed unless the person affected thereby has been given an opportunity of showing cause against it and of being heard in person or through a counsel:",
+            "Provided further, that if the sum deposited by way of penalty under subsection (3) exceeds the amount directed to be paid by the Appellate Board, the excess amount shall be refunded to the appellant.",
+            "(6) The decision of the Appellate Board shall be final and no court, tribunal or other authority shall call, or permit to be called, in question any proceedings or order of the Appellate Board or the legality or propriety of anything done or intended to be done by the Appellate Board under this Act."
+          ]
+        },
+        {
+          "no": "23D",
+          "title": "Assistance to the Adjudicating Officers",
+          "page": 21,
+          "text": [
+            "All officers of the Federal Government or a Provincial Government, including those of Customs, Federal Investigation Agency, Police, Pakistan International Airlines, Local Authorities, Port Trust, and all officers engaged in the collection of land revenue or taxes of any description or employed by a corporation owned or controlled by the Federal Government or a Provincial Government, either directly or indirectly, are hereby empowered and required to assist the Adjudicating Officers in the discharge of their functions under this Act."
+          ]
+        },
+        {
+          "no": "23E",
+          "title": "Powers of Adjudicating Officer and the Appellate Board to summon witnesses, etc",
+          "page": 21,
+          "text": [
+            "(1) Without prejudice to any other provision contained in this Act, the Adjudicating Officer and the Appellate Board shall have all the powers of a civil court under the Code of Civil Procedure, 1908 (Act V of 1908) while trying a suit, in respect of the following matters, namely:-",
+            ">(a) summoning and enforcing the attendance of any person and examining",
+            "him on oath;",
+            ">(b) requiring the discovery and production of any document;",
+            ">(c) requisitioning any public record or copy thereof from any court or office;",
+            ">(d) receiving evidence on affidavits;",
+            ">(e) issuing commissions for the examination of witnesses or documents;",
+            ">(f) appointing guardians or next friends of persons who are minors or of",
+            "unsound mind;",
+            ">(g) adding legal representatives of the accused person;",
+            ">(h) consolidation of cases; and",
+            ">(i) enforcing any order made by him or it under this Act or the rules made",
+            "thereunder."
+          ]
+        },
+        {
+          "no": "23F",
+          "title": "Proceedings before Adjudicating Officer to be deemed to be judicial proceedings",
+          "page": 22,
+          "text": [
+            "All proceedings before an Adjudicating Officer or Appellate Board shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 of the Pakistan Penal Code (Act XLV of 1860), and an Adjudicating Officer and the Appellate Board shall be deemed to be a Court for the purposes of sections 480 and 482 of the Code of Criminal Procedure, 1898 (Act V of 1898)."
+          ]
+        },
+        {
+          "no": "23G",
+          "title": "Continuance of proceedings in the event of death or insolvency",
+          "page": 22,
+          "text": [
+            "(1) Notwithstanding anything contained in any other law for the time being in force, where a penalty has been imposed under section 23B on any person and no appeal against the order imposing such penalty has been preferred, or where any such appeal has been preferred and where in either case, such person dies or is adjudicated an insolvent during the pendency of proceedings before the Adjudicating Officer or the Appellate Board or before preferring an appeal, it shall be lawful for the legal representative of such person or the official assignee or the official receiver, as the case may be, to prefer an appeal to the Appellate Board, or as the case may be, to continue the proceeding or appeal before the Adjudicating Officer or the Appellate Board and in either case any such proceedings before the Adjudicating Officer or Appellate Board shall not abate but be continued as if such person were not dead or adjudged as insolvent.",
+            "(2) The power of the official assignee or the official receiver under sub-section (1) shall be exercised by him subject to the provisions of the Insolvency (Karachi Division) Act, 1909 (III of 1909), or the Provincial Insolvency Act, 1920 (V of 1920), as the case may be."
+          ]
+        },
+        {
+          "no": "23H",
+          "title": "Confiscation of currency, security, etc",
+          "page": 22,
+          "text": [
+            "Any Adjudicating Officer adjudging any contravention under section 23B may, if he thinks fit, and in addition to any penalty which he may impose for such contravention, direct that any currency, security or any other money or property in respect of which the contravention has taken place shall be confiscated to the Federal Government and further direct that the foreign exchange, if any, of the person committing the contravention or any part thereof shall be brought into Pakistan or shall be retained outside Pakistan in accordance with the directions made by the State Bank in this behalf.",
+            "Explanation.—For the purposes of this section, property in respect of which contravention has taken place shall include :",
+            ">(a) deposits in a bank, where the said property is converted into such deposits;",
+            ">(b) Pakistan currency, where the said property is converted into that currency; and",
+            ">(c) any other property which has resulted out of conversion of that property."
+          ]
+        },
+        {
+          "no": "23I",
+          "title": "Correction of clerical errors, etc",
+          "page": 22,
+          "text": [
+            "Clerical mistakes in any decision or order passed by the Appellate Board or Adjudicating Officer under this Act, or any errors arising therein from any accidental slip or omission may, at any time, be corrected by the Appellate Board or the Adjudicating Officer or his successor-in-office, as the case may be:",
+            "Provided that, where any correction proposed to be made under this section will have the result of prejudicially affecting any person, no such correction shall be made.",
+            ">>(i) after the expiry of two years from the date of such decision or order; and",
+            ">>(ii) unless the person affected thereby is given a reasonable opportunity of making a representation in the matter."
+          ]
+        },
+        {
+          "no": "23J",
+          "title": "Recovery of sums due to Government",
+          "page": 23,
+          "text": [
+            "(1) Where any penalty imposed on any person under this Act is not paid:",
+            ">>(i) the Adjudicating Officer may deduct, or direct the deduction of, the amount so payable from any money which is owed to such person, and which may be under the custody, power or control of an Adjudicating Officer or any other person; or",
+            ">>(ii) the Adjudicating Officer may recover the amount so payable by detaining or selling, or ordering the detention and sale of, any goods belonging to such person which are under the custody, power or control of any Adjudicating Officer or any other person; or",
+            ">>(iii) in case the penalty is payable by an authorised dealer, the State Bank may, without further reference to him, recover the amount of penalty from him by debiting the account or accounts then held or held at any time thereafter with the State Bank by the authorised dealer; or",
+            ">>(iv) if the amount cannot be recovered from such person in the manner provided in clause (i) or clause (ii) or clause (iii), the Adjudicating Officer may prepare and sign a certificate specifying the amount due from such person and send it to the Collector of the District in which such person owns any property or resides or carries on business; and the Collector on receipt of such certificate shall proceed to recover from the said person the amount specified in the certificate as if it were an arrear of land revenue.",
+            "(2) When any bond or other instrument or security is executed pursuant to section 23C, the amount due there-under may, without prejudice to any other mode of recovery, be recovered in accordance with the provisions of sub-section (1).",
+            "(3) The several modes of recovery specified in sub-section (i) shall not effect in any way:-",
+            ">>(i) any other law for the time being in force relating to the recovery of debts due to the Government; or",
+            ">>(ii) the right of the government to institute a suit for the recovery of the penalty due to the Government; and it shall be lawful for the Government to have recourse to any such law or suit notwithstanding that the amount is being or is to be recovered by any mode specified in the said sub-section.",
+            "(4) For the purposes of this section the expression \"any other person\" appearing in clauses (i) and (ii) of sub-section (1) shall include the State Bank, a banking company as defined in clause (c) of section 5 of the Banking Companies Ordinance, 1962 (LVII of 1962), a bank established by or under any Federal or Provincial law and any financial institution as defined in clause (15A) of section 2 of the Companies Ordinance, 1984 (XLVII of 1984), and such other person as the Federal Government may, by notification in the official Gazette, specify in this behalf."
+          ]
+        },
+        {
+          "no": "23K",
+          "title": "Powers to impose penalty, etc",
+          "page": 24,
+          "text": [
+            "(1) Whoever contravenes, attempts to contravene or abets the contravention of any of the provisions of section 3, section 3A, section 3AA, section 3B, sub-section (2) of section 4 and clause (c) of subsection (1) of section 20, or any order, rule, regulation or direction issued thereunder, shall be liable to a penalty to be imposed by an officer of the State Bank not below the rank of Senior Joint Director authorized by the State Bank in this behalf, upto five hundred thousand rupees for each contravention, and where the contravention is a continuing one with a further penalty which may extend to ten thousand rupees for each day during which such contravention continues:",
+            "Provided that before taking action under this sub-section a notice to show cause shall be issued by an officer of the State Bank not below the rank of Assistant Director and an opportunity of being heard shall be afforded.",
+            "(2) Where the person guilty of such contravention is a company or a body corporate, every director, manager, secretary or other officer or agent thereof shall be deemed guilty of such contravention, if the contravention was committed with his knowledge or consent or if he did not exercise due diligence to prevent the commission of the offence.",
+            "(3) If any person fails to pay the penalty imposed, under sub-section (1) within the time stipulated in the order imposing the penalty, the State Bank may, without any notice to such person, recover the amount of such penalty from the money owed to such person, and which may be under the custody of State Bank or any other person.",
+            "(4) If any other person to whom notice has been sent under sub-section (3) fails to deduct the amount of penalty under the said sub-section, such person shall be liable to pay the amount of penalty to the State Bank, as if such person had committed the contravention.",
+            "(5) Any person aggrieved by an order passed and penalty imposed under this section may, within thirty days of the order, prefer appeal to the Deputy Governor, State Bank to be designated by the Governor, State Bank who shall decide the appeal within ninety days. Any order passed by the Deputy Governor shall be final."
+          ]
+        },
+        {
+          "no": "24",
+          "title": "Burden of proof in Certain Cases",
+          "page": 24,
+          "text": [
+            "(1) Where any person is tried for contravening any provision of this Act or of any rule, direction or order made thereunder which prohibits him from doing an act without permission, the burden of proving that he had the requisite permission shall be on him.",
+            "(2) If in a case in which the proof of complicity of a person resident in Pakistan with a person outside Pakistan is essential to prove an offence under this Act, then after proof of the circumstances otherwise sufficient to establish the commission of the offence, it shall be presumed that there was such complicity, and the burden of proving that there was no such complicity shall be on the person accused of the offence.",
+            "(3) Where the person accused of having made any payment in contravention of clause (c) of sub-section (1) of Section 5 is proved to have received from any person outside Pakistan a message which raises a reasonable suspicion that it relates to certain payment to be made, the Tribunal may in the absence of proof to the contrary by the accused person presume that he had made such payment in pursuance of such message.",
+            "(4) If, after the issue of a notification under clause (a) of section 9, any person is found to be in possession of, or to have under his control, any foreign exchange specified in the notification, in circumstances which tend to raise a reasonable suspicion that he has contravened the notification, he shall be presumed to have contravened the notification unless he can, by proving the time when and the manner in which the foreign exchange came into his possession or under his control, show that he had not in fact contravened the notification."
+          ]
+        },
+        {
+          "no": "25",
+          "title": "Power to Federal Government to give directions",
+          "page": 25,
+          "text": [
+            "For the purposes of this Act the Federal Government may from time to time give to the State Bank such general or special directions as it thinks fit, and the State Bank shall, in the exercise of its functions under this Act, comply with any such directions."
+          ]
+        },
+        {
+          "no": "26",
+          "title": "Bar of legal proceedings",
+          "page": 25,
+          "text": [
+            "No suit, prosecution or any other proceeding shall lie against the Federal Government or the State Bank or any officer of the Federal Government or of the State Bank or any other person exercising any power or discharging any functions or performing any duties under this Act, for anything in good faith done or intended to be done or purported to be done under this Act or any rule, direction or order made thereunder."
+          ]
+        },
+        {
+          "no": "27",
+          "title": "Power to make rules",
+          "page": 25,
+          "text": [
+            "The Federal Government may, by notification in the official Gazette, make rules for carrying into effect the provisions of this Act."
+          ]
+        }
+      ]
+    }
+  ],
+  "caution": "The edition published by the State Bank of Pakistan with its Foreign Exchange Manual (updated to 14 March 2020), as downloaded from the State Bank's website and supplied by the library's editor. Later amendments are not reflected. Unverified: to be checked against the State Bank's current text."
+}

@@ -181,6 +181,15 @@
       ]
     },
     {
+      "id": "banking",
+      "name": "Banking and foreign exchange",
+      "intro": "The State Bank of Pakistan's foreign exchange law and manual.",
+      "items": [
+        "foreign-exchange-regulation-act-1947",
+        "foreign-exchange-manual"
+      ]
+    },
+    {
       "id": "tax",
       "name": "Tax and customs",
       "intro": "Income tax, sales tax, federal excise and customs.",

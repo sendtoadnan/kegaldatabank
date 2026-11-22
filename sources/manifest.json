@@ -3737,5 +3737,59 @@
       "page": "https://nasirlawsite.com/laws/incoact.htm",
       "manual": true
     }
+  },
+  {
+    "id": "foreign-exchange-regulation-act-1947",
+    "file": "foreign-exchange-regulation-act-1947.pdf",
+    "title": "Foreign Exchange Regulation Act, 1947",
+    "number": "Act No. VII of 1947",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "banking"
+    ],
+    "aliases": [
+      "FERA 1947",
+      "Foreign Exchange Regulation Act"
+    ],
+    "enacted": "1947-03-11",
+    "amendedUpTo": "2020-03-14",
+    "amendedUpToLabel": "As published by the State Bank of Pakistan with the Foreign Exchange Manual updated to 14 March 2020",
+    "source": {
+      "name": "State Bank of Pakistan (Foreign Exchange Manual, Exchange Policy Department)",
+      "url": "https://www.sbp.org.pk"
+    },
+    "watch": {
+      "page": "https://www.sbp.org.pk/epd/index.htm",
+      "manual": true
+    },
+    "caution": "The edition published by the State Bank of Pakistan with its Foreign Exchange Manual (updated to 14 March 2020), as downloaded from the State Bank's website and supplied by the library's editor. Later amendments are not reflected. Unverified: to be checked against the State Bank's current text."
+  },
+  {
+    "id": "foreign-exchange-manual",
+    "title": "Foreign Exchange Manual",
+    "number": "State Bank of Pakistan, Exchange Policy Department",
+    "type": "regulations",
+    "unit": "Paragraph",
+    "parent": "foreign-exchange-regulation-act-1947",
+    "categories": [
+      "banking"
+    ],
+    "aliases": [
+      "FE Manual",
+      "SBP Foreign Exchange Manual"
+    ],
+    "textFrom": "sbp-chapter-pdfs",
+    "source": {
+      "name": "State Bank of Pakistan, Foreign Exchange Manual (Exchange Policy Department)",
+      "url": "https://www.sbp.org.pk/epd/index.htm"
+    },
+    "caution": "State Bank of Pakistan's Foreign Exchange Manual as updated to 14 March 2020, the edition supplied by the library's editor (downloaded chapter by chapter from the SBP website). The State Bank amends the Manual through FE Circulars, Circular Letters and Notifications, so changes after 14 March 2020 are not reflected: check the State Bank's current Manual and circulars before relying on a paragraph. The appendices (forms and lists, including Appendix V forms and the list of authorized dealers), annexures and the Notifications of Appendix II are not included. Paragraphs are numbered chapter.paragraph (for example 12.6); paragraphs marked 'Omitted' are as printed. Unverified: not yet checked against the State Bank's PDF.",
+    "amendedUpTo": "2020-03-14",
+    "amendedUpToLabel": "Updated up to 14 March 2020 (as published by the State Bank of Pakistan)",
+    "watch": {
+      "page": "https://www.sbp.org.pk/epd/index.htm",
+      "manual": true
+    }
   }
 ]
