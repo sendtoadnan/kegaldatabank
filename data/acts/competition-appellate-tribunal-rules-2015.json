@@ -536,8 +536,91 @@
       ]
     }
   ],
-  "schedules": [],
+  "schedules": [
+    {
+      "title": "Schedules",
+      "text": [
+        "11. Verification being",
+        "I, (name in full in block letters) son / daughter / wife of",
+        "→ do hereby the appellant / authorized representative of (_ solemnly declare that the foregoing constitutes full, true and plain disclosure of all material facts and nothing has been concealed, and that the contents of paras",
+        "1-10 are true to my personal knowledge and belief.",
+        "Verified today this ......... ... day of .......",
+        "Signature of the appellant / authorized representative",
+        "Place:",
+        "Date:"
+      ]
+    },
+    {
+      "title": "Schedule-II [See rule 34]",
+      "text": [
+        "Part \"A\"",
+        "1. Part A of the judicial record shall consist of the following documents, namely:-",
+        ">(a) Folder containing the particulars of appeals, petitions and brief abstract of the orders of the Bench;",
+        ">(b) order sheet or chronological abstract of orders;",
+        ">(c) original copy of memorandum of appeal;",
+        ">(d) original copes* of petitions;",
+        ">(e) affidavits;",
+        ">(f) interlocutory orders of the Benches;",
+        ">(g) judgment or any other final order;",
+        ">(h) all notes in the handwriting of the Members; and",
+        ">(i) judgments and orders of High Courts and Supreme Court.",
+        "2. Subject to any direction by the Tribunal to the contrary, part-B of the record",
+        "2.",
+        "shall consist of all documents in such records as are not indicated as belonging to part-A."
+      ]
+    },
+    {
+      "title": "Schedule-III [See Rules 35 and 36]",
+      "text": [
+        "Preservation of Record",
+        ">(a) Documents to be preserved permanently.",
+        ">(i) Part \"A\" of the appeals, and petitions; and",
+        ">(ii) Judgments of the High Court, Supreme Court in constitutional petitions.",
+        "Part B of a judicial record and applications of a miscellaneous character filed with such record shall be destroyed before such record is consigned to the record-room:",
+        "*it should be copies",
+        "Provided that the Chairperson may for the reasons to be recorded in writing order preservation of any document beyond such period:",
+        "Provided further that where an appeal lies to the Supreme Court.",
+        "of Pakistan, part B of the record of such appeal shall be preserved until the period for the presentation of an appeal has expired, or where an appeal has been made, till the judgment of the Supreme Court of",
+        "Pakistan, has been communicated to the High Court:",
+        "Provided also that when a case by the Tribunal has been dismissed for default or heard ex-parte, part-B of the record shall not be destroyed until the expiry of six months from the date of the decision:"
+      ]
+    },
+    {
+      "title": "Schedule-IV [See rule 39]",
+      "text": [
+        "Preservation of Return and other papers",
+        ">(a) Return,- to be preserved for two years,-",
+        ">(i) index of judicial correspondence; and",
+        ">(ii) budget estimates;",
+        ">(b) Correspondence to be, preserved for one year,-",
+        ">(i) reminders;",
+        ">(ii) charge certificate; and",
+        ">(iii) letters asking for circulars, , for circulars, copies of rules, petitions for employment private letters and petition asking for information regarding rules or the outstanding claims of the Tribunal etc;",
+        ">(c) Personal files of official of the Bench,-",
+        ">(i) who die while in service shall be preserved for three years after their death, provided there are no outstanding claims on the part of their heirs; and",
+        ">(ii) who have retired shall be preserved until their death, provided that no file shall be destroyed before three years from the dale of retirement even if death occurs within three years of retirement;",
+        ">(d) Account statements,-",
+        ">(i) to be preserved for one year,- sub-vouchers for twenty five rupees or less which are not submitted to audit;",
+        ">(ii) to be preserved for three years,- bills and vouchers for over twenty five rupees counter-foils and miscellaneous account papers;",
+        "Note: It shall be ensured that no bill or voucher is destroyed, even after expiry of the period mentioned above until all audit objections, if any relating to it have first been settled; and",
+        ">(iii) to be preserved permanently unless otherwise directed by the",
+        "Bench; Cash books, journals and ledger accounts.",
+        "Annex-A (See section 20)",
+        "GOVERNMENT OF PAKISTAN",
+        "COMPETITION APPELLATE TRIBUNAL",
+        "CAUSE LIST OF CASES FIXED FOR HEARING -",
+        "Name of Appellate(s) Name of Respondent(s)",
+        "S. No. Appeal No.",
+        "(2) (3) (4)",
+        "(1) (2)",
+        "[F. No. 2(1)/2015/Pub.]",
+        "Shahbaz Ahmed Gill,",
+        "Printing / Publication Officer."
+      ]
+    }
+  ],
   "frontNotes": [],
   "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007.",
-  "enacted": "2015-07-31"
+  "enacted": "2015-07-31",
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

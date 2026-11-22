@@ -520,6 +520,111 @@
       ]
     }
   ],
-  "schedules": [],
-  "frontNotes": []
+  "schedules": [
+    {
+      "title": "Form A",
+      "text": [
+        "00",
+        "Isee regulation 5(1))",
+        "FORM OF APPLICATION FOR LICENCE AS SECURITIES MANAGER",
+        "To",
+        "The Securities and Exchange Commission of Pakistan,",
+        "Islamabad.",
+        "Dear Sir,",
+        "1. We ....(Name of company)..... hereby apply for licence of securities manager under section 68 of the Securities Act, 2015.",
+        "2. Certified true copies of all the documents specified in Annexure A of the Securities",
+        "Managers (Licensing and Operations) Regulations, 2024 are enclosed.",
+        "3. Original receipt of the bank for the fee of Rs..... ...being the licensing fee is enclosed.",
+        "Yours faithfully,",
+        "Signature of the chief executive officer, the company secretary or the chief financial officer duly authorized by the board of directors of the applicant through a resolution for signing and submission of this application"
+      ]
+    },
+    {
+      "title": "Annexure A [see regulation 5(1)]",
+      "text": [
+        "Information and documents to be submitted along with application for licence as a Securities Manager :",
+        "1. General and business information:",
+        "1.1. Name and present occupation of each sponsor, name and contact details of directors, chief executive officer and compliance officer;",
+        "1.2. Location and quantum of space available for safe custody of record specified in these regulations.",
+        "1.3. Latest wealth statement of the promoters, or other comparable document in case of foreign nationals. In case the promoter is a corporate entity then latest audited financial statements should be submitted.",
+        "1.4 Details of outstanding legal proceedings initiated, or penal actions taken during the last three years, if any, against the applicant, or where applicable its sponsors, directors, majority shareholders, senior management officers or associated company(s) licensed with the Commission as licensed entity, by the Commission or any other regulatory authority.",
+        "1.5 Names and addresses of companies, firms and other organizations of which the applicant, or where applicable applicant's sponsors, chief executive and directors, as the case may be, are or have been directors, partners or office holders during the last names of any associated company already licensed with the ten years and",
+        "Commission as licensed entity.",
+        "2. List of documents to be provided along with application:",
+        "2.1 Copies of documents evidencing compliance with the qualification, experience and mandatory certification requirements specified by the Commission for the applicant or its relevant employees.",
+        "2.2 Any other information/document as required by the Commission."
+      ]
+    },
+    {
+      "title": "SCHEDULE OF FEE*",
+      "text": [
+        "Description of fee Amount of fee in PKR",
+        "Fee to be paid at the time of applying for licence as a 200,000 securities manager",
+        "Fee to be paid:at the time of applying for renewal of 100,000 licence as a securities manager",
+        "* The above fees shall be deposited into the designated bank account of the Commission, along-with applicable collection charges."
+      ]
+    },
+    {
+      "title": "Form B [see regulation 6(2)] SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN LICENCE TO ACT AS A SECURITIES MANAGER",
+      "text": [
+        "Licence No.",
+        "Islamabad,_(date).",
+        "The Securities and Exchange Commission of Pakistan having considered the application by ..... (Name of the company).... for the licence of securities manager under section 68 of the Securities Act, 2015, and being satisfied that the said applicant is eligible for a licence and that it would be in public interest and in the interest of the capital market so to do, hereby grants licence, in exercise of the powers conferred by section 69 of the Securities",
+        "Act, 2015 to .......(name of the company).... as a securities manager subject to the provisions of the Securities Act, 2015 and the rules and regulations made thereunder, as amended from time to time.",
+        "2. This licence is valid up to one year from the date of issuance.",
+        "Signature of the Officer"
+      ]
+    },
+    {
+      "title": "Form C [see regulation 7(1)]",
+      "text": [
+        "FORM OF APPLICATION FOR GRANT OF RENEWAL OF LICENCE AS",
+        "SECURITIES MANAGER",
+        "To",
+        "The Securities and Exchange Commission of Pakistan,",
+        "Islamabad.",
+        "Dear Sir,",
+        "1. We (Name of the applicant)_ having licence number.... hereby apply for renewal of the licence of securities manager únder section 69 of the Securities Act, 2015.",
+        "2. The existing licence is due to expire on .",
+        "Original receipt of the bank for the fee of Rs... ....being the renewal fee is enclosed.",
+        "4. Certified true copies of all the documents specified in Annexure B of the Securities",
+        "Managers (Licensing and Operations) Regulations, 2024 are enclosed.",
+        "5. It is requested that the licence be renewed for a period of one year.",
+        "Yours faithfully,",
+        "Signature of the applicant's chief executive officer, company secretary or chief financial officer duly authorized by the board of directors of the applicant through a resolution for signing and submission of this application."
+      ]
+    },
+    {
+      "title": "Annexure B [see regulation 7(1)]",
+      "text": [
+        "Information to be provided along with application for renewal of licence as a securities manager",
+        "The following details shall be provided along-with application for renewal by a securities manager along with the relevant supporting documents for the last one year:",
+        "1. Details of the non-compliance by it, if any, with any provision of the applicable laws including the Act and rules or regulations made thereunder.",
+        "2. Details of the non-compliance by it, if any, with any of the licensing conditions, if any.",
+        "3. Details of any penal or disciplinary action initiated or taken against the applicant, its sponsors, directors, majority shareholders or senior management officers, by any regulatory authority or government agency/department.",
+        "4. Details of legal proceedings, if any, initiated against it and penal actions taken against it and penalty imposed, by the Commission orany other regulatory authority.",
+        "5. Details of changes made, if any, in the object clause of its memorandum of association or other constitutive documents.",
+        "6. Number and details of customer complaints received, if any and their rederssal status.",
+        "7. Number and details of arbitration awards announced and implemented, if any.",
+        "8. Copy of the last annual audited financial statements along-with latest quarterly or half yearly financial statements, where applicable.",
+        "9. Copies of documents evidencing continuous compliance with the requirements of financial resource requirements specified in the Securities Managers (Licensing and",
+        "Operations) Regulations, 2024.",
+        "10. An undertaking on a stamp paper specifying that the securities manager, its sponsors, directors and employees are in compliance with all the requirements for grant of renewal of licence under the Securities Managers (Licensing and Operations)",
+        "Regulations, 2024.",
+        "11. Any other information and document as may be required by the Commission from time to time.",
+        "58-"
+      ]
+    },
+    {
+      "title": "Form D [see regulation 7(2)] SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN CERTIFICATE OF RENEWAL OF LICENCE AS SECURITIES MANAGER",
+      "text": [
+        "Licence No.",
+        "Islamabad,___ (date)_",
+        "The Securities and Exchange Commission of Pakistan having considered the application for renewal of licence of a securities manager by .....(Name of the company)...., and being satisfied that the said securities manager is eligible for renewal of licence and that it would be in public interest and in the interest of the capital market so to do, hereby grants renewal of licence to ........(Name of the company)...., as a securities manager in exercise of the powers conferred by section 69 of the Securities Act, 2015, for one year subject to the provisions of the Securities /ct, 2015 and the rules and regulations made thereunder, as amended from time to time.",
+        "Signature of the Officer"
+      ]
+    }
+  ],
+  "frontNotes": [],
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

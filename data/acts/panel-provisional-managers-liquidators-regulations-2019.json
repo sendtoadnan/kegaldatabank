@@ -121,6 +121,92 @@
       ]
     }
   ],
-  "schedules": [],
-  "frontNotes": []
+  "schedules": [
+    {
+      "title": "Form-A THE COMPANIES ACT, 2017",
+      "text": [
+        "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+        "[See Regulation 6]",
+        "APPLICATION FOR EMPANELMENT ON",
+        "PANEL OF PROVISIONAL MANAGERS AND OFFICIAL LIQUIDATORS",
+        "The Securities & Exchange Commission of Pakistan,",
+        "NIC Building, Jinnah Avenue, Islamabad.",
+        "Dear Sir,",
+        "I/We, hereby apply for empanelment on Panel of Provisional Managers and Official",
+        "Liquidators as maintained by the Commission under Section 315 of the Companies Act,",
+        "2017 and hereby furnish the following information and documents,- (To be completed by applicant in block letters.)",
+        "1. Full Name:",
+        "2. Father's name: _",
+        "3. Date of Birth (dd/mm/yyyy):",
+        "4. Nationality: _",
+        "5. CNIC No./Passport No.:",
+        "6. National Tax Number: _",
+        "7. Correspondence address:",
+        "8. Phone Landline No._ Mobile Phone No.",
+        "9. E-mail:",
+        "10. Education, experience and affiliations (if any):",
+        "a) Details of qualification: (starting from Matriculation)",
+        "S. Qualification Board/ Year of % Marks",
+        "No. Grade/ GPA/",
+        "No. including University completion Division professional qualification b) Major subjects studied in Bachelors/Masters degree:",
+        "Bachelors",
+        "Masters c) Certification / memberships of professional bodies, if any:",
+        "Certifications",
+        "Memberships of professional bodies d) Continuing Professional Development courses/trainings attended, if any:",
+        "Sr.# Year Title Provided by e) Professional experience",
+        "Sr.# Name of Designation/Job From (mm/yyyy) To (mm/yyyy)",
+        "organization Title f) Experience related to the functions of provisional manager or official liquidator and the details of assignments, if any:",
+        "Sr.# Description",
+        "11. Have you ever been terminated or dismissed from any organization?",
+        "Yes / No_ _. If yes, provide description of the office held and reasons for termination:",
+        "12. Do any of the following circumstances (or similar) apply to you? If you",
+        "• have applied to be adjudicated as an insolvent and application is pending;",
+        "• are an undischarged insolvent;",
+        "• have been convicted by a court of law for an offence involving moral turpitude;",
+        "•• have been debarred from holding an office under any provision of the Act;",
+        "• are lacking fiduciary behavior and a declaration to this effect has been made by the court at any time during the preceding five years;",
+        "• have been declared by a court of competent jurisdiction as defaulter in repayment of loan to a financial institution;",
+        "• in case of a Pakistani national, are not a registered tax payer (filer) in Pakistan and do not hold a valid National Tax Number given by Federal Board of -",
+        "Revenue; Revenue;",
+        "• in case of foreign national, are not a registered tax payer, if applicable, in respective jurisdiction of residence or nationality;",
+        "• have been convicted of any criminal offence involving fraud, negligence or criminal breach of trust and financial impropriety; or",
+        "• have an overdue / past due payment in the CIB report:",
+        "Yes __/ No",
+        "Explanation (if Yes):",
+        "13. References:",
+        "Sr.# Name Address Contact #",
+        "1",
+        "2",
+        "3",
+        "Signature_",
+        "Name of the Applicant_",
+        "Office Address_",
+        "Date_"
+      ]
+    },
+    {
+      "title": "Annexure-A",
+      "text": [
+        "List of documents to be provided/attached with Form A",
+        "1. Attested copy of CNIC",
+        "2. Attested copies of educational testimonials from Matriculation/O-Level onwards",
+        "3. Copies of documents showing certification / memberships of professional bodies (if any)",
+        "4. Copies of documents showing continuing professional development courses/trainings (if any)",
+        "5. Any other document(s) considered necessary by the applicant in support of application"
+      ]
+    },
+    {
+      "title": "Form-B THE COMPANIES ACT, 2017",
+      "text": [
+        "Panel of Provisional Managers and Official Liquidators Regulations, 2019",
+        "[See Regulation 7]",
+        "REGISTER OF PROVISIONAL MANAGERS AND OFFICIAL LIQUIDATORS",
+        "EMPANELLED UNDER SECTION 315 OF THE COMPANIES ACT, 2017",
+        "Serial No. in the Panel Name of Person on the Panel Address Date of empanelment Email Fax Phone CNIC/ Passport No. Qualification Membership/ affiliation Experience Date of removal (if any)",
+        "(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12)"
+      ]
+    }
+  ],
+  "frontNotes": [],
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

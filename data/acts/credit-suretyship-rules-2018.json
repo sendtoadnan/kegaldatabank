@@ -120,6 +120,23 @@
       ]
     }
   ],
-  "schedules": [],
-  "frontNotes": []
+  "schedules": [
+    {
+      "title": "Form Value (Rs.)",
+      "text": [
+        "Total",
+        "Statement of Claims Paid/Outstanding/Rejected under Credit and Suretyship",
+        "Class of Business",
+        "S.No. Guarantee/Bond Number Name of the Applicant Name of the Beneficiary Guarantee/ Bond Тypе (As specified under Rule 3) Guarantee/ Bond Issuance Date Date of Claim Lodged Date of Payment of Claim (if Paid) Reason(s) for Delay in Settlement / Rejection of Claim (if any) Forum of Litigation i.e. Ins. Tribunal /Court/FIO (if any) Amount of Bond / Guarantee (Rs.) Amount of Claim Lodged (Rs.)",
+        "S.No. Guarantee/Bond Number Name of the Applicant Name of the Beneficiary Guarantee/ Bond Тypе (As specified under Rule 3) Guarantee/ Bond Issuance Date Date of Claim Lodged Date of Payment of Claim (if Paid) Reason(s) for Delay in Settlement / Rejection of Claim (if any) Forum of Litigation i.e. Ins. Tribunal /Court/FIO (if any) Amount of Bond / Guarantee (Rs.) Amount of Claim Lodged (Rs.)",
+        "Total",
+        "Share of Claim received / Net Retained Amount of Claim (if",
+        "Collateral Kept by the Insurer receivable from Reinsurer(s) (if Paid) (Rs.)",
+        "any) Exposure (Rs.)",
+        "Cash Other Collaterals(s) Facultative (Rs.) Treaty (Rs.) (Rs.)"
+      ]
+    }
+  ],
+  "frontNotes": [],
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

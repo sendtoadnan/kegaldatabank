@@ -194,8 +194,23 @@
       ]
     }
   ],
-  "schedules": [],
+  "schedules": [
+    {
+      "title": "Schedule (see sub-regulation (1) of regulation 9)",
+      "text": [
+        "Form of declaration affirming secrecy and fidelity fidelity of office for",
+        "Chairman/Members of the",
+        "I, Mr./Ms -, havıng been appointed as Chairman/Member of tne. Competition Commission of Pakinga bee naleminyed as Chai daclareemaber of the. Competition Commission of Pakistan do solemnly affirm and declare that:",
+        "(1) I will faithfully and conscientiously discharge my duties as",
+        "Chairman/Member to the best of my ability, knowledge and judgment, without fear, favour or ill-will and shall subject to law always act in the best interest of the Commission.",
+        "(2) I Will not directly or indirectly communicate, divulge, reveal or otherwise disclose to any person or persons any matter or information which shall be brought under my consideration or shall become known to me during my tenure of office as Chairman/Member of the said",
+        "Commission, except, as may be required for the due discharge of my duties as Chairman/Member of the Commission and shall treat and protect such matter and information as secret and confidential.",
+        "IVTI"
+      ]
+    }
+  ],
   "frontNotes": [],
   "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007.",
-  "enacted": "2007-11-20"
+  "enacted": "2007-11-20",
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

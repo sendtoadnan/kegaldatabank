@@ -46,6 +46,27 @@
       ]
     }
   ],
-  "schedules": [],
-  "frontNotes": []
+  "schedules": [
+    {
+      "title": "Annexure-I [See regulation 2(1)]",
+      "text": [
+        "Format of register to enlist of persons who have access to inside information",
+        "It is hereby stated that below list contains names of all the persons that have access to insider information and that the persons listed have acknowledged the requirements of Part X of the Securities Act, 2015 relating to the prohibition to conclude transactions with the use of insider information and to advise the persons to wham they provide inside information.",
+        "S. No._ Page No._",
+        "Name",
+        "CNIC No.",
+        "Designation in the Company /",
+        "Relationship with the Company",
+        "Complete Residential Address",
+        "Contact Number(s)",
+        "Email",
+        "S. No. Date of Type of Date on Source of Whether or The date of Signature",
+        "Entry Insider which the information not the publication or",
+        "Information information for example information of insider Authorized was name/ was made information Officer received designation/ public relationship",
+        "Name and designation of Authorized Person (Name of the Company)"
+      ]
+    }
+  ],
+  "frontNotes": [],
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

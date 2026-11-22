@@ -251,7 +251,220 @@
       ]
     }
   ],
-  "schedules": [],
+  "schedules": [
+    {
+      "title": "Schedules, annexures and forms (as printed)",
+      "text": [
+        "[See Regulation 4]",
+        "Application for Registration as an Intermediary Individual",
+        "The Securities and Exchange Commission of Pakistan",
+        "NIC Building, Jinnah Avenue, Islamabad.",
+        "Dear Sir,",
+        "I, hereby apply for registration as an intermediary within the meaning of",
+        "Section 455 of the Act.",
+        "2. I hereby furnish the following information,-",
+        "I. Name (in block letters)",
+        "II. Father's/Husband's name (in block letters)",
+        "III. CNIC/Passport Number (Attach Copy)",
+        "IV. National Tax Number",
+        "V. Contact Details:",
+        "a. Official Address b. Residential address",
+        "C. Land line number d. Cell number e. Email",
+        "VI. Academic qualification",
+        "VII. Professional qualification",
+        "VIII. Period of employment/experience in handling corporate matters, if any",
+        "IX. Number of corporate matters handled during the last six months, if any",
+        "X. Certified copies of educational certificates, valid certificate of pracuce for ICAP, ICMAP members, professional membership for CMA, ACCA and CPA members, foreign accountancy organization and Bar Council license",
+        "XI. Detailed resume",
+        "XII. Details of informational technology infrastructure available at the office, where applicable",
+        "3. An affidavit regarding fitness and propriety as per Annexure-A is enclosed.",
+        "4. Original paid bank challan evidencing payment of registration fee as specified in Schedule I of the Regulations is enclosed.",
+        "Signature",
+        "Name of the Applicant_",
+        "Office Address _",
+        "Date",
+        "[See Regulation 4]",
+        "Application for Registration as an Intermediary Individual",
+        "[Firm/Limited Liability Pratnership/Company]",
+        "The Securities and Exchange Commission of Pakistan",
+        "NIC Building, Jinnah Avenue, Islamabad.",
+        "Dear Sir,",
+        "We, hereby apply for registration as an intermediary within the meaning of",
+        "Section 455 of the Act.",
+        "2. We hereby furnish the following information,-",
+        "I. Name of Firm/Company/Limited liability Partnership",
+        "II. Registration No./CUIN/ELPIN (Attached copy of Registration certificate, in case of Firm)",
+        "III. National Tax Number",
+        "IV. Address of main and branch offices (if any)",
+        "V. Details of informational technology infrastructure available at the office, where applicable",
+        "VI. Details of Directors or Partners (in case of Firm/Limited liability partnership):",
+        "a. Name (in block letters)",
+        "b. Father/husband name (in block letters)",
+        "С. CNIC/Passport Number (Attach Copy)",
+        "d. Postal address e. Land line number f. Cell number g. Email h. Academic qualification i. Professional qualification j. Period of employment/experience in handling corporate matters, if any k. Certified copies of educational certificates, valid certificate of' practice for ICAP, ICMAP members, professional membership for",
+        "CMA, ACCA and CPA members, foreign accountancy organization and Bar Council license.",
+        "VII. Detailed resume of the firm/limited liability partnership/company highlighting experience of each partner/management of company in handling corporate affairs.",
+        "VIII. Details (name and CNIC) of employees working in the working firm/company/limited liability partnership who would provide services on their behalf along with affidavits stating that they are compliant with the criteria specified in the Regulations.",
+        "3. Affidavit regarding fitness and propriety of each partners of Firm or",
+        "Limited liability partnership/directors of Company (as the case may be) as per",
+        "Annexure-A is enclosed.",
+        "4. Original paid bank challan evidencing payment of registration fee as spectfied insidieal poid ink enallan evidsncings payment of rogistration feo as specified in Schedule I of the Regulations is enclosed.",
+        "Signature _",
+        "Name of the Applicant",
+        "Office Address _",
+        "Date"
+      ]
+    },
+    {
+      "title": "Annexure A AFFIDAVIT",
+      "text": [
+        "Before the Securities and Exchange Commission of Pakistan",
+        "I, (name of individual / partner of firm or limited liability of individual partnership/director of the company) son/daughter/wife (father/husband name), resident of and holding CNIC/Passport No. _ , do hereby state on solemn affirmation as under that I:-",
+        "1. Am eligible to act as a registered intermediary according to the criteria specified in the Regulations.",
+        "2. hereby confirm that the contents of the application and the documents submitted to the Commission for registration as an intermediary under Section",
+        "455 of the Act are true and correct to the best of our knowledge and belief and nothing has been concealed therein;",
+        "3. have no objection if the Commission requests or obtains information about me from any third party;",
+        "4. undertake to bring to the attention of the Commission any matter which may potentially affect my status a registered intermediary according to the criteria specified in the Regulations;",
+        "5. undertake to provide an authority letter in my favor from the company, promoters of the company or foreign company, as the case may be, on whose behalf I am submitting the documents, as and when demanded by the",
+        "Commission.",
+        "DEPONENT",
+        "The Deponent is identified by me",
+        "Signature",
+        "Advocate (Name and Seal)",
+        "Solemnly affirmed before me on this day of at by the above named Deponent who is Identified to me by - _, Advocate.",
+        "Signature",
+        "Oath Commissioner for Taking Affidavit (Name and Seal)"
+      ]
+    },
+    {
+      "title": "Annexure II [See Regulation 5]",
+      "text": [
+        "Securities and Exchange Commission of Pakistan",
+        "Corporatization and Compliance Department",
+        "Registration No. CCD- Islamabad, Dated:",
+        "Certificate of Registration as an Intermediary (Section 455 of the Companies Act, 2017)",
+        "The Securities and Exchange Commission of Pakistan, having, considered the application for registration as an intermediary submitted by Mr./M/s. (Name of the applicant) under sub-regulation (1) of regulation 4 of the Intermediaries (Registration) Regulations, 2017 (Regulations) and on being satisfied with the said application, hereby grants certificate of registration in the name of (Name of the applicant) in exercise of powers conferred under sub-regulation (1)",
+        "of regulation 5 of the Regulations. This registration is valid for a period of three years w.e.f.",
+        "Approving Authority",
+        "Disclaimer: The certificate of registration shall be limited to the authorization for filing of documents with the Commission or the registrar concerned and shall not be regarded as conferring a license on the registered intermediary or as providing any recognition of any qualification of the registered intermediary."
+      ]
+    },
+    {
+      "title": "Annexure III [See Regulation 6]",
+      "text": [
+        "Application for Renewal of Registration as an Intermediary",
+        "The Securities & Exchange Commission of Pakistan,",
+        "NIC Building, Jinnah Avenue, Islamabad.",
+        "Dear Sir,",
+        "I/We, hereby apply for renewal of registration as an intermediary within the meaning of Section 455 of the Act. The registration granted or renewed earlier is due to expire on-",
+        "2. I/We hereby furnish the following information,-",
+        ">(i) Affidavit from the individual/each partner of firm or limited liahility partnership/ each director of the company stating that he is eligible to act as a registered intermediary according to the criteria specified in th\"",
+        "Regulations.",
+        ">(ii) Details of employees, where applicable, to whom it has delegated its functions covering the following:-",
+        ">(a) Qualification",
+        ">(b) Experience of handling corporate matters, preparation and filing of statutory returns",
+        ">(iii)",
+        "Affidavits from employees, where applicable, to whom it has delegated its functions, stating that he is compliant with the criteria specified in the Regulations.",
+        ">(a) Original paid challan evidencing payment of registration fee as specified in Schedule I of the Regulations is enclosed.",
+        "Signature",
+        "Name of the Applicant",
+        "Registration Number_",
+        "Date"
+      ]
+    },
+    {
+      "title": "Annexure IV [See Regulation 6]",
+      "text": [
+        "Securities and Exchange Commission of Pakistan",
+        "Corporatization and Compliance Department",
+        "Registration No. CCD- Islamabad, Dated:",
+        "Certificate of Renewal of Registration as an Intermediary (Section 455 of the Companies Act, 2017)",
+        "The Securities and Exchange Commission of Pakistan, having, considered the application for the renewal of registration as an intermediary submitted by",
+        "Mr./M/s. (Name of' the applicant), registration number under sub-regulation (1) of regulation 6 of the Intermediaries (Registration) regulation",
+        "Regulations, 2017 (Regulations) and on being satisfied with the said application, hereby renews the certificate of registration of Mr./M/s. (Name of the (Name of the applicant) in exercise of powers conferred under sub-regulation (2) of regulation 6 of the Regulations. This registration is valid for a period of three years w.e.f.",
+        "Approving Authority",
+        "Disclaimer: The certificate of registration shall be limited to the authorization for filing of documents with the Commission or the registrar concerned and shall not be regarded as conferring a license on the registered intermediary or as providing any recognition of any qualification of the registered intermediary."
+      ]
+    },
+    {
+      "title": "Annexure V [See Regulation 14]",
+      "text": [
+        "Notice of Appointment / Renewal of Agreement with Authorized",
+        "Intermediary / Change in Employee or Partner or Director Authorized by Intermediary",
+        "PART-I (Please complete in typescript or in bold block capitals)",
+        "1.1 CUIN (applicable in case company is incorporated)",
+        "1.2 Name of the Company/ foreign company/name of the promoters of the proposed company",
+        "1.3 Fee payment Details 1.3.1 Challan No.",
+        "1.3.2 Challan Amount",
+        "PART-II",
+        "2.1 Registration No. of Intermediary",
+        "2.2 Name of Intermediary dd mm УУVУ",
+        "2.3. With effect from",
+        "2.4 Name of employee or partner or director (as the case may . be) authorized by",
+        "Intermediary to sign documents on behalf of the proposed company or foreign company",
+        "2.5 Specimen Signature of employee or partner or director (as the case may be) authorized by Intermediary to sign documents on behalf of company or foreign company",
+        "2.6 CNIC of employee or partner or director (as the case may be! authorized by",
+        "Intermediary to sign documents on behalf of company or promoters of the proposed company or foreign company",
+        "PART-III",
+        "3.1 Signature",
+        "3.2 Name of Authorized Officer of the Authorized",
+        "Company/Principal Officer of foreign company/Name of the promoter of the company dd mm УУУУ",
+        "3.3. Date",
+        "Enclosure:",
+        "1. Original paid bank challan evidencing payment of fee"
+      ]
+    },
+    {
+      "title": "Annexure VI",
+      "text": [
+        "See Regulation 14]",
+        "Notice of Removal of Authorized by Intermediary",
+        "PART-I (Please complete in typescript or in bold block capitals)",
+        "1.1 CUIN",
+        "1.2 Name of the Company/ foreign company",
+        "1.3 Fee payment Details 1.3.1 Challan No.",
+        "1.3.2 Challan Amount",
+        "PART-II",
+        "2.1 Registration No. of Intermediary",
+        "2.2 Name of Intermediary dd mm УУУУ",
+        "2.3. With effect from",
+        "PART-III",
+        "3.1 Signature",
+        "3.2 Name of Authorized Officer of the",
+        "Company/Principal Officer of foreign company dd mm УУУУ",
+        "3.3. Date",
+        "Enclosure:",
+        "1. Original paid bank challan evidencing payment of fee"
+      ]
+    },
+    {
+      "title": "Annexure VII [See Regulation 15]",
+      "text": [
+        "Register of Registered Intermediaries",
+        "S. Registration Name of Number of Date of Dates of Date of",
+        "No. Number Registered Employees grant of renewal of cancellation",
+        "Intermediary initial certificate of certificate certificate of of of registration Registration, registration if any"
+      ]
+    },
+    {
+      "title": "Schedule - I",
+      "text": [
+        "Fees (both for online and offline mode)",
+        "a. For Individuals:",
+        "Particulars Amount (Rupees)",
+        "Registration processing Fee (Non-Refundable) 10,000",
+        "Correction / update Processing Fee (Non-Refundable) 2,000",
+        "Renewal Fee (Non-Refundable) 5,000",
+        "Filing Fee 500 b. For Firms/Companies/Limited Liability Partnerships:",
+        "Particulars Amount (Rupees)",
+        "Registration processing Fee (Non-Refundable) 50,000",
+        "Correction / update Processing Fee (Non-Refundable) 5,000",
+        "Renewal Fee (Non-Refundable) 25,000",
+        "Filing Fee 500"
+      ]
+    }
+  ],
   "frontNotes": [],
-  "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included."
+  "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included.",
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

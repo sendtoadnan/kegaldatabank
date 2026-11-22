@@ -137,3 +137,8 @@ Notes whose markers sit in a chapter or part heading are stored on that heading 
 ## 5. Rules the validator enforces
 
 `npm run validate` fails the build if an instrument has missing fields, an unknown category or type, a duplicate provision number, a missing parent, a malformed date, or a `verified` status without who/when/against.
+
+## Schedules, annexures and forms as text (instruments read from the printed edition)
+
+Instruments that have no official PDF (read from the printed edition) carry their schedules, annexures and forms in `schedules[]` as `{ "title": "...", "text": ["paragraph", ">(a) indented paragraph", ...] }` (no `page`). The page shows them in the "Schedules, annexures and forms" section after the provisions, with each in the contents list, found by the filter box and by search (by words only: they are not in the search-by-meaning passages). `schedulesNote` is shown above them. Entries with `page` and no `text` still link to the official PDF.
+They are produced by `BOOK_SCHEDULES=1 python3 tools/ocr/book_to_json.py ...` (same arguments as a conversion; it changes only `schedules` and `schedulesNote` in the existing `data/acts/<id>.json`): the lines after the last provision are split at SCHEDULE / ANNEXURE / APPENDIX / FORM headings; where a schedule was printed twice (a page and its later replacement) only the newest version is kept. Tables and blanks come out simplified (columns read in turn), so the note tells readers to consult the printed form, and they stay Unverified.

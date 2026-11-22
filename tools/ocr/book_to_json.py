@@ -329,6 +329,8 @@ def convert(spec):
                                                or re.match(r"^(Notification No\.\s*)?S\.?\s*R\.?\s*O\.?\s*\d{1,4}\s*\(I\).{0,30}dated", l["text"])):
             end = i - pos[i]; break
     if os.environ.get("BOOK_TRACE"): print(f"  trace {spec['id']}: start {start}, end {end}, kept {len(lines[:end])} of {len(lines)} lines; stopped at: {lines[end]['text'][:60] if end < len(lines) else '(none)'}")
+    global REST
+    REST = lines[end:]
     lines = lines[:end]
     infer_missing_numbers(lines, spec["id"])
     # paragraphs
@@ -404,6 +406,48 @@ def convert(spec):
             s["text"] = [x for k, x in enumerate(s["text"]) if x and (k == 0 or x != s["text"][k - 1])]
     return preamble, [p for p in parts if p["sections"]]
 
+
+REST = []
+SCHED_HEAD = re.compile(r"^[\W\d]{0,3}(THE\s+)?(([A-Z]+)\s+)?(SCHEDULES?|ANNEXURES?|APPENDIX|APPENDICES|FORMS?)\b", re.I)
+def _sched_key(title):
+    m = re.search(r"\b(FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH|EIGHTH|NINTH|TENTH)?\s*(SCHEDULE|ANNEXURE|APPENDIX|FORM)(?:\s*[-–]?\s*No\.?)?(?:[\s-]+(?:[IVX]{1,4}|[A-Z]|\d{1,2})(?![A-Za-z]))?", title, re.I)
+    return re.sub(r"[^a-z0-9]", "", m.group(0).lower()) if m else re.sub(r"[^a-z0-9]", "", title.lower())[:20]
+def schedule_sections(rest):
+    """The schedules, annexures and forms printed after the last provision, as [{title, text}] (text read as it comes: tables and blanks are simplified).
+    Where a schedule was printed twice (a page and its later replacement) only the newest version is kept."""
+    rows = []
+    for l in rest:
+        t = strip_markers(l["text"]).strip()
+        if re.match(r"^Following is the text of", t) or re.match(r"^Misc(ellaneous|\.)\s+(Notes|Notifications|Circulars)", t, re.I): break
+        if re.search(r"\b(Part|Pt\.?)\s+[IVX]+[,.]\s", t) and len(t) < 50: continue            # running head
+        if t and not (rows and rows[-1][0] == t and len(t) < 90): rows.append((t, l["page"]))
+    out, cur = [], None
+    k = 0
+    while k < len(rows):
+        t, pg = rows[k]
+        if SCHED_HEAD.match(t) and len(t) < 46 and not re.search(r"[a-z]{3,}.*\b(shall|may|is|are)\b", t):
+            title = t.strip(" .-\"[")
+            while k + 1 < len(rows) and (re.match(r"^[\[(]\s*[Ss]ee\b", rows[k + 1][0]) or (rows[k + 1][0].isupper() and len(rows[k + 1][0]) < 60 and not SCHED_HEAD.match(rows[k + 1][0]) and len(title) < 90)):
+                title += " " + rows[k + 1][0].strip(); k += 1
+            cur = {"title": title, "text": [], "pages": {pg}}; out.append(cur)
+        else:
+            if cur is None: cur = {"title": "Schedules, annexures and forms (as printed)", "text": [], "pages": set()}; out.append(cur)
+            cur["pages"].add(pg)
+            lab = re.match(r"^\(\s*([a-z]{1,4}|\d{1,2})\s*\)", t)
+            prev = cur["text"][-1] if cur["text"] else ""
+            joins = prev and not re.search(r"[.:;\]\")]\s*$", prev) and re.match(r"^[a-z,(]", t) and not lab
+            if joins: cur["text"][-1] = prev + " " + t
+            else: cur["text"].append((">" if lab and not lab.group(1).isdigit() else "") + t)
+        k += 1
+    best = {}
+    for x in out:
+        if not x["text"]: continue
+        key = _sched_key(x["title"]); x["code"] = max((CODES.get(pg, -1) for pg in x["pages"]), default=-1)
+        old = best.get(key)
+        if old is None or (x["code"], len(x["text"])) > (old["code"], len(old["text"])): best[key] = x
+    keep = {id(v) for v in best.values()}
+    return [{"title": x["title"], "text": x["text"]} for x in out if id(x) in keep]
+
 # looser heading endings ("Title: text", "Title. Text", "Title- Text", "Title - (1)"), used only for the
 # number expected next
 PROV2 = re.compile(r"^[\"“\[]?(\d{1,3}[A-Z]{0,2})[.,]\s*([A-Z][^.:;\n]{2,110}?)\s*(?:[.:,]|\s[-–—]|[-–—])\s+(?=[A-Z(\[\d])(.*)$")
@@ -449,6 +493,15 @@ for i in a.ids:
         json.dump({"id": i, "scans": [{"file": f, "scan": k, "bookPage": where.get((f, k))} for f, k in sc]}, open(out / f"{i}.json", "w"), indent=1)
         print(i, len(sc), "scan pages"); continue
     preamble, parts = convert(spec)
+    if os.environ.get("BOOK_SCHEDULES"):
+        sched = schedule_sections(REST)
+        f = ROOT / "data/acts" / f"{i}.json"
+        d0 = json.load(open(f))
+        d0["schedules"] = [x for x in d0.get("schedules", []) if not x.get("text")] + sched
+        if sched: d0["schedulesNote"] = "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+        else: d0.pop("schedulesNote", None)
+        json.dump(d0, open(f, "w"), indent=2, ensure_ascii=False)
+        print(i, len(sched), "schedules/forms,", sum(len(x["text"]) for x in sched), "paragraphs"); continue
     pages = {s.pop("bookPage") for p in parts for s in p["sections"]}
     if spec.get("titleFromText") and parts and parts[0]["sections"]:
         first = " ".join(parts[0]["sections"][0]["text"][:1])

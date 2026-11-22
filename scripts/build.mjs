@@ -229,6 +229,9 @@ ${body}
     };
     const hand = handCheck(act, extras.checks);
 
+    const schedAnchor = (k) => `sched-${k + 1}`;
+    const inlineScheds = (act.schedules || []).map((x, k) => [x, k]).filter(([x]) => x.text);
+    const pdfScheds = (act.schedules || []).filter((x) => !x.text);
     const toc = act.parts
       .map(
         (p) => `
@@ -236,7 +239,7 @@ ${body}
           <ol>${p.sections.map((s) => `<li><a href="#${provisionAnchor(s.no)}"><span class="toc-no">${e(displayNo(s.no))}</span> ${e(s.title || '—')}</a></li>`).join('')}</ol>
         </li>`
       )
-      .join('');
+      .join('') + (inlineScheds.length ? `<li><span class="toc-part"><a href="#schedules">Schedules, annexures and forms</a></span><ol>${inlineScheds.map(([x, k]) => `<li><a href="#${schedAnchor(k)}">${e(x.title)}</a></li>`).join('')}</ol></li>` : '');
 
     const parts = act.parts
       .map(
@@ -310,9 +313,14 @@ ${body}
     const sourceNotes = act.sourceNotes ? `<p class="muted small source-notes">${e(act.sourceNotes)}</p>` : '';
 
     const schedules = act.schedules?.length
-      ? `<section class="schedules"><h2>Schedules and annexures</h2><p class="muted small">Schedules are mostly tables, so they are shown as published in the official PDF.</p><ul class="act-list">${act.schedules
-          .map((x, k) => `<li class="act-row" data-sched="${k}"><a href="${pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`)
-          .join('')}</ul></section>`
+      ? `<section class="schedules" id="schedules"><h2>Schedules, annexures and forms</h2>${pdfScheds.length ? `<p class="muted small">Schedules are mostly tables, so they are shown as published in the official PDF.</p><ul class="act-list">${act.schedules
+          .map((x, k) => (x.text ? '' : `<li class="act-row" data-sched="${k}"><a href="${pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`))
+          .join('')}</ul>` : ''}${inlineScheds.length && act.schedulesNote ? `<p class="muted small">${e(act.schedulesNote)}</p>` : ''}${inlineScheds
+          .map(([x, k]) => {
+            const paras = x.text.map((raw) => { const { level, text } = parseParagraph(raw); return `<p class="l${level}">${e(text)}</p>`; }).join('');
+            return `<article class="provision schedule" id="${schedAnchor(k)}" data-no="" data-title="${e(x.title)}" data-cite="${e(x.title)}, ${e(act.title)}"><header class="prov-head"><h3><a class="prov-link" href="#${schedAnchor(k)}">${e(x.title)}</a></h3><div class="prov-tools" role="group" aria-label="Tools for ${e(x.title)}"><button type="button" data-action="link" title="Copy link to this schedule">Link</button></div></header><div class="prov-body">${paras}</div></article>`;
+          })
+          .join('')}</section>`
       : '';
 
     // Instruments recorded in the register whose text is not in the library yet.
@@ -833,6 +841,7 @@ ${body}
           }))
         ),
         ...schedRows,
+        ...(a.schedules || []).map((x, k) => (x.text ? { act: a.id, no: '', title: x.title, part: 'Schedules, annexures and forms', anchor: `sched-${k + 1}`, sched: 1, text: x.text.map((t) => stripMarkers(t.replace(/^>+/, ''))).join('\n') } : null)).filter(Boolean),
       ];
     }),
   };

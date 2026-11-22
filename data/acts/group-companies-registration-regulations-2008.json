@@ -138,7 +138,76 @@
       ]
     }
   ],
-  "schedules": [],
+  "schedules": [
+    {
+      "title": "FORM I [see Regulation 4] CERTIFICATE OF REGISTRATION OF A GROUP",
+      "text": [
+        "Islamabad, the 20_.",
+        "The Securities and Exchange Commission of Pakistan having considered the application for registration as a Group by... (Name of the holding company) and being satisfied with the said application, hereby registers ... (Name of the holding company) and its subsidiaries, namely ..(Name of all subsidiaries) as a Group under serial number in exercise of its powers under Regulation 4 of the Group",
+        "Companies Registration Regulations, 2008.",
+        "Signature of the officer.",
+        "Seal"
+      ]
+    },
+    {
+      "title": "FORM II [see Regulation 5(2)] CERTIFICATE OF CHANGE IN THE COMPOSITION OF A GROUP",
+      "text": [
+        "Islamabad, the 20_",
+        "The Securities and Exchange Commission of Pakistan having considered the application for change in the composition of Group registered under serial number hereby change the composition of the Group which now comprises of (Name of the holding company) and its subsidiaries, namely .. ......(Name of all subsidiaries).",
+        "Signature of the officer.",
+        "Seal"
+      ]
+    },
+    {
+      "title": "Annexure \"A",
+      "text": [
+        "See Regulation 3(i)",
+        "STATEMENT OF SHAREHOLDING",
+        "AS ON",
+        "Particulars of the Holding company",
+        "Name",
+        "CUIN",
+        "No. of Par Amount Held by Percent",
+        "Shares value (Rs.) -age of",
+        "Share- holding (Name of the",
+        "Sponsors/",
+        "Directors)",
+        "Total Paid-up Capital",
+        "====== ======== =====",
+        "No. of Par Amount Investment Percent-age",
+        "Shares value (Rs.) made in of total subsidiaries Investment and associates",
+        "Total Long-term",
+        "Investment",
+        "=== = ===",
+        "Particulars of the Holding company i. Name",
+        "CUIN",
+        "No. of Par Amount Held by Percent-",
+        "Shares value (Rs.) age of",
+        "Share- holding (Name of the holding company)",
+        "Total Paid-up Capital",
+        "== === ===",
+        "Group Companies Registration Regulations, 2008 Annexure A",
+        "No. of Par Amount Investment Percent-age",
+        "Shares value (Rs.) in other of total companies Investment",
+        "Total Long-term",
+        "Investments",
+        "== ======= i. Name",
+        "CUIN",
+        "No. of Par Amount Held by Percent-age",
+        "Shares value (Rs.) of Share- holding (Name of the holding company)",
+        "Total Paid-up Capital",
+        "====== == === ====I===",
+        "No. of Par Amount Investment Percent-age",
+        "Sharesvalue (Rs.) in other of total companies Investment",
+        "Total Long-term",
+        "Investments",
+        "== == =======",
+        "* If shares have been owned, held or controlled by the spouse or minor children of the sponsor/shareholder, the fact shall be disclosed separately.",
+        "Signature of Chief Executive/Company Secretary of the holding company"
+      ]
+    }
+  ],
   "frontNotes": [],
-  "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text from the last printed text before the repeal (the edition records no other later change). Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text from the last printed text before the repeal (the edition records no other later change). Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included.",
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

@@ -6,6 +6,7 @@ Deployed by Netlify from `main`; every change goes through a branch and a pull r
 ## Layout
 - `sources/manifest.json` — one entry per instrument: source PDF, edition (`amendedUpTo`), extraction options, `watch` (regulator page to check).
 - `sources/pdf/` — official PDFs (the ITR 2002 PDF is too large for git: `remotePdf`/`pdfUrl`).
+- Schedules, annexures and forms of instruments read from the printed edition are inline text in `schedules[].text` (see `docs/CONTENT_GUIDE.md`; `BOOK_SCHEDULES=1 tools/ocr/book_to_json.py`).
 - `scripts/extract_pdf.py` — PDF → `data/acts/<id>.json` (PyMuPDF). Options are documented in `docs/CONTENT_GUIDE.md`.
 - `scripts/build.mjs` — builds `dist/` (pages, search indexes, Sources page, service worker). `scripts/lib.mjs` validates.
 - `scripts/related.mjs` + `data/related/companies-act-2017.json` — register of rules/regulations/notifications under the Companies Act 2017, by section; shown under each section and on `acts/companies-act-2017/related.html`.

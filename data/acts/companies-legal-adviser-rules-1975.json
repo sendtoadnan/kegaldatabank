@@ -63,6 +63,27 @@
       ]
     }
   ],
-  "schedules": [],
-  "frontNotes": []
+  "schedules": [
+    {
+      "title": "SCHEDULE I [See rule 3] REGISTER OF LEGAL ADVISER",
+      "text": [
+        "Name of the Legal Adviser (If the legal adviser is a firm, name of firm and its partners should be given) Number of partners in case of a firm CNIC of the Legal Adviser appointed or of each partner if the Legal Adviser is a firm Name of Bar Council and enrollment number of the Legal Adviser or of each partner if the Legal Adviser is a firm Business Address Remuneration Date of appointment. Date of termination of appointment",
+        "3 5"
+      ]
+    },
+    {
+      "title": "SCHEDULE II",
+      "text": [
+        "[(See rule 3(2)]",
+        "CERTIFICATE (To be obtained annually from a legal Adviser)",
+        "I/We certify that during the year",
+        "I/We was/were not engaged as legal adviser in more than three companies/ ....... companies. The particulars of the companies in which I/We was/ were the legal adviser during the year are as follows:-",
+        "Name of the company. Address.",
+        "(1) (2)",
+        "Signature Name"
+      ]
+    }
+  ],
+  "frontNotes": [],
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }
