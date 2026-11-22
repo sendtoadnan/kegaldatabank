@@ -78,6 +78,10 @@ export function validateLibrary({ catalog, acts }, dataDir = DATA_DIR) {
       if (act[key] && !/^\d{4}-\d{2}-\d{2}$/.test(act[key])) errors.push(`${where}: ${key} must be YYYY-MM-DD`);
     }
 
+    for (const sc of act.schedules || []) {
+      if (!sc.title) errors.push(`${where}: a schedule is missing "title"`);
+      if (!sc.page && !(Array.isArray(sc.text) && sc.text.length)) errors.push(`${where}: schedule "${sc.title}" needs a PDF page or text`);
+    }
     const numbers = new Set();
     for (const part of act.parts || []) {
       if (!part.heading) errors.push(`${where}: a part is missing "heading"`);

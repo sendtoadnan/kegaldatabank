@@ -1471,7 +1471,9 @@
     "amendedUpTo": "2016-12-31",
     "amendedUpToLabel": "2016 (as stated on the saved copy)",
     "caution": "This edition is described as updated till 2016. Amendments made after 2016 are not reflected; check the current text before relying on it.",
-    "plainNumberProvisions": ["42D"],
+    "plainNumberProvisions": [
+      "42D"
+    ],
     "source": {
       "name": "Securities and Exchange Commission of Pakistan",
       "url": "https://www.secp.gov.pk"
@@ -1639,7 +1641,9 @@
     "amendedUpToLabel": "14 September 2023",
     "caution": "S.R.O. 1416(I)/2025 of 31 July 2025 amended Schedule I (qualification requirements for directors and officers); the schedules are shown only in the PDF of the edition updated to 14 September 2023, so that amendment is not reflected. Check SECP's current edition before relying on the schedules.",
     "summary": "Made by the Federal Government under section 282B of the Companies Ordinance, 1984 (recital).",
-    "numberingGaps": [6],
+    "numberingGaps": [
+      6
+    ],
     "sourceNotes": "Rule 6 (Commencement of operations by NBFC) is printed only as an empty bracket; the edition's note 52 records that its words were deleted.",
     "source": {
       "name": "Securities and Exchange Commission of Pakistan",
@@ -1759,6 +1763,83 @@
     },
     "watch": {
       "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-ordinance-1984",
+    "file": "companies-ordinance-1984.pdf",
+    "title": "Companies Ordinance, 1984",
+    "number": "Ordinance No. XLVII of 1984",
+    "type": "ordinance",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Companies Ordinance",
+      "CO 1984",
+      "CO1984",
+      "Repealed Ordinance"
+    ],
+    "enacted": "1984-07-05",
+    "status": "repealed",
+    "source": {
+      "name": "Consolidated edition supplied by the library's editor (source to be confirmed)",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2018-12-26",
+    "amendedUpToLabel": "As at 26 December 2018",
+    "bodyStartPage": 21,
+    "maxJump": 4,
+    "numberingGaps": [
+      11
+    ],
+    "caution": "Repealed by the Companies Act, 2017, except Part VIII-A (sections 282A to 282N), which section 509(1) of the Act keeps applicable, with all related or connected provisions, to non-banking finance companies as if the Ordinance had not been repealed. Kept for transactions, proceedings and companies of earlier periods and to read the rules and cases that refer to its section numbers (see the comparison with the Companies Act, 2017). This is a consolidated edition as at 26 December 2018, so later amendments (for example to Part VIII-A) are not reflected; the edition's own source is to be confirmed.",
+    "sourceNotes": "Text read from the PDF supplied by the library's editor, which carries the amendments in footnotes. Section 11 is shown as deleted in its contents list. Sections 78A, 160A and 204A are listed in the contents but are not printed in the text of this edition.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/ordinances/",
+      "manual": true
+    }
+  },
+  {
+    "id": "companies-court-rules-1997",
+    "file": "companies-court-rules-1997.pdf",
+    "title": "Companies (Court) Rules, 1997",
+    "number": "S.R.O. 187(I)/97",
+    "type": "rules",
+    "unit": "Rule",
+    "parent": "companies-act-2017",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Companies Court Rules",
+      "Company Court Rules",
+      "Court Rules 1997"
+    ],
+    "enacted": "1997-03-26",
+    "source": {
+      "name": "Gazette of Pakistan, Extraordinary, Part II, 26 March 1997",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "1997-03-26",
+    "amendedUpToLabel": "26 March 1997 (S.R.O. 187(I)/97, as made)",
+    "bodyEndPage": 64,
+    "schedules": [
+      {
+        "title": "Appendix I — Forms (Forms 1 to 115, with the rule that prescribes each)",
+        "page": 64
+      },
+      {
+        "title": "Appendix II — Statements of receipts and payments",
+        "page": 210
+      }
+    ],
+    "caution": "Made under section 438 of the Companies Ordinance, 1984, and so framed in terms of that Ordinance and its section numbers. Treated here as applying to proceedings under the Companies Act, 2017 (instruction of the library's editor, 21 Nov 2026); read each rule's references to the Ordinance as references to the corresponding provisions of the 2017 Act, which the register of related instruments and the forms page match by subject (to be confirmed). The links from Companies Act sections to these rules are matched by subject and are to be confirmed. The text is the Gazette edition as made; later amendments, if any, are not reflected. The 115 forms (Appendix I) and Appendix II are in the official PDF.",
+    "sourceNotes": "Text read from the Gazette PDF, which is itself a scanned and re-typed copy with some typing slips; wording is as printed.",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/rules/",
       "manual": true
     }
   },
@@ -3000,5 +3081,624 @@
       "page": "https://www.secp.gov.pk/laws/regulations/",
       "manual": true
     }
+  },
+  {
+    "id": "private-funds-regulations-2015",
+    "title": "Private Funds Regulations, 2015",
+    "number": "S.R.O. 1159(I)/2015",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Private Funds Regulations"
+    ],
+    "enacted": "2015-11-25",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1159(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Regulation 8's heading is the unnumbered line printed above it; the group heading \"Investment Conditions and Restrictions\" is omitted.",
+    "sourceNotes": "Regulation 8 was split out of regulation 7 by hand (21 Nov 2026): its heading line is printed above its number and was read as part of regulation 7.",
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "structuring-debt-securities-regulations-2020",
+    "title": "Structuring of Debt Securities Regulations, 2020",
+    "number": "S.R.O. 15(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Debt Securities Regulations"
+    ],
+    "enacted": "2017-01-11",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 15(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Chapter II (regulations 3 to 10, licensing of debt securities trustees) was deleted by S.R.O. 1384(I)/2020; the book prints the deleted wording in footnotes, which is not reproduced here.",
+    "numberingGaps": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "sourceNotes": "Regulations 7, 9 and 10 as first read were the book's footnote quotations of the deleted Chapter II and were removed by hand (21 Nov 2026).",
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "collateral-management-companies-regulations-2019",
+    "title": "Collateral Management Companies Regulations, 2019",
+    "number": "S.R.O. 890(I)/2019",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Collateral Management Regulations"
+    ],
+    "enacted": "2019-07-31",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 890(I)/2019",
+      "url": "https://www.secp.gov.pk"
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Regulation 22 is not printed in this edition (the book's footnote records the renumbering made by S.R.O. 915(I)/2020).",
+    "numberingGaps": [
+      22
+    ],
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "stock-exchanges-demutualization-regulations-2012",
+    "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012",
+    "number": "S.R.O. 750(I)/2012",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Demutualization Regulations"
+    ],
+    "enacted": "2012-06-18",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 750(I)/2012",
+      "url": "https://www.secp.gov.pk"
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan.",
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    }
+  },
+  {
+    "id": "competition-act-2010",
+    "title": "Competition Act, 2010",
+    "number": "Act No. XIX of 2010",
+    "type": "act",
+    "unit": "Section",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Competition Act"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, Act No. XIX of 2010",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2010-10-06",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan."
+  },
+  {
+    "id": "competition-commission-conduct-of-business-regulations-2007",
+    "title": "Competition Commission of Pakistan (Conduct of Business) Regulations, 2007",
+    "number": "S.R.O. 1191(I)/2007",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1191(I)/2007",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2007-11-20",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  },
+  {
+    "id": "competition-commission-investment-expenditure-regulations-2007",
+    "title": "Competition Commission (Expenditure and Investment) Regulations, 2007",
+    "number": "S.R.O. 1193(I)/2007",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1193(I)/2007",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2007-11-20",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  },
+  {
+    "id": "competition-commission-general-enforcement-regulations-2007",
+    "title": "Competition (General Enforcement) Regulations, 2007",
+    "number": "S.R.O. 1189(I)/2007",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1189(I)/2007",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2007-11-20",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  },
+  {
+    "id": "competition-commission-reward-payment-informants-regulations-2014",
+    "title": "Competition (Reward Payment to Informants) Regulations, 2014",
+    "number": "S.R.O. 406(I)/2014",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 406(I)/2014",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2014-05-23",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  },
+  {
+    "id": "competition-commission-appeal-rules-2007",
+    "title": "Competition Commission (Appeal) Rules, 2007",
+    "number": "S.R.O. 399(I)/2008",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 399(I)/2008",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2008-04-24",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  },
+  {
+    "id": "competition-commission-investigating-officers-rules-2007",
+    "title": "Competition Commission Enquiry (Conduct of Investigating Officers) Rules, 2008",
+    "number": "S.R.O. 400(I)/2008",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 400(I)/2008",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2008-04-24",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  },
+  {
+    "id": "competition-commission-extension-exemption-rules-2007",
+    "title": "Competition Commission (Extension in Exemption) Rules, 2007",
+    "number": "S.R.O. 401(I)/2008",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 401(I)/2008",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2008-04-24",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  },
+  {
+    "id": "competition-appellate-tribunal-rules-2015",
+    "title": "Competition Appellate Tribunal Rules, 2015",
+    "number": "S.R.O. 749(I)/2015",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 749(I)/2015",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.cc.gov.pk/",
+      "manual": true
+    },
+    "enacted": "2015-07-31",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  },
+  {
+    "id": "modaraba-companies-rules-1981",
+    "title": "Modaraba Companies and Modaraba Rules, 1981",
+    "number": "S.R.O. 83(I)/1981",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Modaraba Rules 1981"
+    ],
+    "enacted": "1981-01-26",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 83(I)/1981",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. The Schedules (forms of accounts and prospectus) are not included."
+  },
+  {
+    "id": "companies-incorporation-regulations-2017",
+    "title": "Companies (Incorporation) Regulations, 2017",
+    "number": "S.R.O. 704(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "enacted": "2017-07-26",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 704(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by S.R.O. 210(I)/2024 (12 February 2024), the only later change recorded",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "status": "repealed",
+    "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included."
+  },
+  {
+    "id": "intermediaries-registration-regulations-2017",
+    "title": "Intermediaries (Registration) Regulations, 2017",
+    "number": "S.R.O. 705(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "enacted": "2017-07-26",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 705(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by S.R.O. 210(I)/2024 (12 February 2024), the only later change recorded",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "status": "repealed",
+    "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included."
+  },
+  {
+    "id": "prudential-regulations-nbfc",
+    "title": "Prudential Regulations for Non-Banking Finance Companies",
+    "number": "Circular No. 2 of 2004",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Prudential Regulations for NBFCs"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "SECP Circular No. 2 of 2004",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "enacted": "2004-01-21",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Provisions are numbered by Part (for example II.1), as the printed numbering restarts in each Part. The classification tables in regulation III.5 were read column by column and are given row by row (classification, determinant, treatment of income, provisions to be made); the text of SECP Circular No. 23 of 2004, which the edition prints inside the table, is included. The Annexures (borrower's fact sheets and the form for approval of directors) are not reproduced. The printed text goes from regulation III.5 to III.7 (no regulation 6). The small margin table in regulation II.5(2) is flattened and should be checked against the scan."
+  },
+  {
+    "id": "prudential-regulations-consumer-finance-nbfc",
+    "title": "Prudential Regulations for Consumer Finance by NBFCs",
+    "number": "Circular No. 1 of 2006",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Prudential Regulations for Consumer Financing"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "SECP Circular No. 1 of 2006",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "enacted": "2006-01-09",
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Provisions are numbered by Part (for example II.1), as the printed numbering restarts in each Part. The classification tables in regulations D.7 and E.5 were read from the page and are given row by row; the small limits table in C.2 and the table in B are flattened and should be checked against the scan. The covering circular and contents list are not included."
+  },
+  {
+    "id": "companies-buy-back-rules-1999",
+    "title": "Companies (Buy-back of Shares) Rules, 1999",
+    "number": "S.R.O. 1337(I)/99",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Buy-back Rules 1999"
+    ],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "numberingGaps": [
+      5
+    ],
+    "enacted": "1999-12-14",
+    "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force. Sub-rule (2) of rule 4 was omitted by S.R.O. 660(I)/2001; the printed numbering goes from rule 4 to rule 6. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "companies-rehabilitation-sick-units-rules-1999",
+    "title": "Companies (Rehabilitation of Sick Industrial Units) Rules, 1999",
+    "number": "S.R.O. 897(I)/2012",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 897(I)/2012",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "enacted": "1999-08-03",
+    "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force. The notification number is printed as S.R.O. 897(I)/2012 against the date 3 August 1999; recorded as printed. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "secp-appellate-bench-procedure-rules-2003",
+    "title": "Securities and Exchange Commission of Pakistan (Appellate Bench Procedure) Rules, 2003",
+    "number": "S.R.O. 734(I)/2003",
+    "type": "rules",
+    "unit": "Rule",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [
+      "Appellate Bench Procedure Rules"
+    ],
+    "enacted": "2003-07-25",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 734(I)/2003",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "group-companies-registration-regulations-2008",
+    "title": "Group Companies Registration Regulations, 2008",
+    "number": "S.R.O. 1307(I)/2008",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "enacted": "2008-12-31",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1307(I)/2008",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by S.R.O. 210(I)/2024 (12 February 2024), the only later change recorded",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "status": "repealed",
+    "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text from the last printed text before the repeal (the edition records no other later change). Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "shariah-advisors-regulations-2017",
+    "title": "Shariah Advisors Regulations, 2017",
+    "number": "S.R.O. 1190(I)/2017",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "enacted": "2017-11-15",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1190(I)/2017",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by the Shariah Governance Regulations, 2023",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "status": "repealed",
+    "caution": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023. Kept for matters of earlier periods; text from the December 2021 edition. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  },
+  {
+    "id": "shariah-governance-regulations-2018",
+    "title": "Shariah Governance Regulations, 2018",
+    "number": "S.R.O. 1318(I)/2018",
+    "type": "regulations",
+    "unit": "Regulation",
+    "categories": [
+      "corporate"
+    ],
+    "aliases": [],
+    "enacted": "2018-11-02",
+    "textFrom": "printed-edition",
+    "source": {
+      "name": "Gazette of Pakistan, S.R.O. 1318(I)/2018",
+      "url": "https://www.secp.gov.pk"
+    },
+    "amendedUpTo": "2021-12-31",
+    "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by the Shariah Governance Regulations, 2023",
+    "watch": {
+      "page": "https://www.secp.gov.pk/laws/regulations/",
+      "manual": true
+    },
+    "status": "repealed",
+    "caution": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023. Kept for matters of earlier periods; text from the December 2021 edition. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
   }
 ]

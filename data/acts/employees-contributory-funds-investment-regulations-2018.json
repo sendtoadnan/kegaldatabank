@@ -134,6 +134,40 @@
       ]
     }
   ],
-  "schedules": [],
-  "frontNotes": []
+  "schedules": [
+    {
+      "title": "ANNEXURE-A [see rule 5]",
+      "text": [
+        "Mandatory disclosures regarding Investment out of Fund or Trust:",
+        "Particulars Audited/Un- Audited audited",
+        "2018 2017",
+        "Rs. Rs.",
+        "Size of fund or trust-Total Assets XXX XXX",
+        "Cost of investment out of fund or trust XXX XXX",
+        "Fair value of investment out of fund or trust XXX XXX",
+        "Percentage of investment out of fund or trust XX XX",
+        "Break-up of Cost of Investment out of Fund or Trust:",
+        "Year 2018 Year 2017",
+        "Particulars Rs. % of Rs. % of",
+        "Investment Investment",
+        "Investment in Money Market Collective XXX XX XXX XX",
+        "Investment Schemes",
+        "Investment in Equity Collective Investment XXX XX XXX XX",
+        "Schemes",
+        "Investment in Debt Collective Investment XXX XX XXX XX",
+        "Schemes",
+        "Investment in Other Collective Investment XXX XX XXX XX",
+        "Schemes",
+        "Investment in Listed Debt Securities XXX XX XXX XX",
+        "Investment in Listed Equity Securities XXX XX XXX XX",
+        "Investment in Debt Instruments of Statutory XXX XX XXX XX",
+        "Bodies",
+        "Investment in Government Securities XXX XX XXX XX",
+        "Bank Balances XXX XX XXX XX",
+        "Others XXX XX XXX XX"
+      ]
+    }
+  ],
+  "frontNotes": [],
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

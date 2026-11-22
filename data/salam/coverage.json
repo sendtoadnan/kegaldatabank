@@ -945,33 +945,33 @@
   "page": "III-20(1)",
   "title": "Companies (Buy-back of Shares) Rules, 1999",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-buy-back-rules-1999",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-20(5)",
   "title": "Companies (Rehabilitation of Sick Industrial Units) Rules, 1999",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-rehabilitation-sick-units-rules-1999",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-21",
   "title": "SECP (Appellate Bench Procedure) Rules, 2003",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "secp-appellate-bench-procedure-rules-2003",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1000,8 +1000,8 @@
   "page": "III-85",
   "title": "Group Companies Registration Regulations, 2008",
   "status": "Repealed by S.R.O. 210(I)/2024",
-  "library": null,
-  "ourEdition": null,
+  "library": "group-companies-registration-regulations-2008",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": "2024-02-12",
   "changes": [
    {
@@ -1015,7 +1015,7 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "book has later changes"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1110,11 +1110,11 @@
   "page": "III-223",
   "title": "Private Funds Regulations, 2015",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "private-funds-regulations-2015",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1406,11 +1406,11 @@
   "page": "III-373",
   "title": "Structuring of Debt Securities Regulations, 2020",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "structuring-debt-securities-regulations-2020",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1641,8 +1641,8 @@
   "page": "III-489",
   "title": "Companies (Incorporation) Regulations, 2017",
   "status": "Repealed by S.R.O. 210(I)/2024",
-  "library": null,
-  "ourEdition": null,
+  "library": "companies-incorporation-regulations-2017",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": "2024-02-12",
   "changes": [
    {
@@ -1676,18 +1676,18 @@
     "circulars": []
    }
   ],
-  "verdict": "not in library"
+  "verdict": "book has later changes"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
   "page": "III-511",
   "title": "Intermediaries (Registration) Regulations, 2017",
   "status": "Repealed by S.R.O. 210(I)/2024",
-  "library": null,
-  "ourEdition": null,
+  "library": "intermediaries-registration-regulations-2017",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -1759,11 +1759,11 @@
   "page": "III-611",
   "title": "Shariah Advisors Regulations, 2017",
   "status": "Repealed by S.R.O. 1314(I)/2023",
-  "library": null,
-  "ourEdition": null,
+  "library": "shariah-advisors-regulations-2017",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2105,11 +2105,11 @@
   "page": "III-889",
   "title": "Shariah Governance Regulations, 2018",
   "status": "Repealed by S.R.O. 1314(I)/2023",
-  "library": null,
-  "ourEdition": null,
+  "library": "shariah-governance-regulations-2018",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2201,11 +2201,11 @@
   "page": "III-985",
   "title": "Collateral Management Companies Regulations, 2019",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "collateral-management-companies-regulations-2019",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume I (65th update, 20 June 2026)",
@@ -2604,22 +2604,22 @@
   "page": "IV-141",
   "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "stock-exchanges-demutualization-regulations-2012",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
   "page": "IV-161",
   "title": "Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "stock-exchanges-demutualization-regulations-2012",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -2680,22 +2680,22 @@
   "page": "V-89",
   "title": "Prudential Regulations for Non-Banking Finance Companies",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "prudential-regulations-nbfc",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
   "page": "V-117",
   "title": "Prudential Regulations for Consumer Finance by NBFCs",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "prudential-regulations-consumer-finance-nbfc",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -3219,11 +3219,11 @@
   "page": "VI-19",
   "title": "Modaraba Companies and Modaraba Rules, 1981",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "modaraba-companies-rules-1981",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -3252,22 +3252,22 @@
   "page": "VII-1",
   "title": "Competition Act, 2010",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "competition-act-2010",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
   "page": "VII-31",
   "title": "Competition Commission (Conduct of Business) Regulations, 2007",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "competition-commission-conduct-of-business-regulations-2007",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -3285,11 +3285,11 @@
   "page": "VII-45",
   "title": "Competition Commission (General Enforcement) Regulations, 2007",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "competition-commission-general-enforcement-regulations-2007",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -3340,11 +3340,11 @@
   "page": "VII-100(1)",
   "title": "Competition Commission (Reward Payment to Informants) Regulations, 2014",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "competition-commission-reward-payment-informants-regulations-2014",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -3373,11 +3373,11 @@
   "page": "VII-101",
   "title": "Competition Commission (Appeal) Rules, 2007",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "competition-commission-appeal-rules-2007",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
@@ -3395,22 +3395,22 @@
   "page": "VII-123",
   "title": "Competition Commission (Extension in Exemption) Rules, 2007",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "competition-commission-extension-exemption-rules-2007",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",
   "page": "VII-132A",
   "title": "Competition Appellate Tribunal Rules, 2015",
   "status": null,
-  "library": null,
-  "ourEdition": null,
+  "library": "competition-appellate-tribunal-rules-2015",
+  "ourEdition": "2021-12-31",
   "lastChangeInBook": null,
   "changes": [],
-  "verdict": "not in library"
+  "verdict": "no later change recorded"
  },
  {
   "volume": "Volume II, 2nd edition (135th update, 20 June 2026)",

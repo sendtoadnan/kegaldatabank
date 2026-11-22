@@ -116,6 +116,63 @@
       ]
     }
   ],
-  "schedules": [],
-  "frontNotes": []
+  "schedules": [
+    {
+      "title": "FORMA",
+      "text": [
+        "Application for Seeking Approval under Regulation 3",
+        "Securities and Exchange Commission of Pakistan",
+        "Islamabad",
+        "Subject: Application for seeking approval under regulation 3 for filing petition for winding up",
+        "Dear Sir,",
+        "Well on behalf of (name and address of applicant) hereby apply for seeking approval under regulation 3 of the Licensed Persons (Obligation under Voluntary",
+        "Winding-up) Regulations, 2016 for filling petition for winding up of (name o(applicant), The board of directors of (name o(applicant) in its meeting held on (date of meeting) has already accorded its approval to file petition for winding up.",
+        "Well, on behalf of the applicant, hereby confirm that well have already invited investor claims by approaching all customers and that there remain no outstanding investor claim against the applicant.",
+        "Well, on behalf of the applicant, hereby undertake to comply with the requirements of the laws and such other conditions as may be communicated while granting approval this application.",
+        "All the necessary information required under the laws is enclosed. Any additional information will be furnished as and when called for by the Commission.",
+        "Yours sincerely,",
+        "Authorised signatory"
+      ]
+    },
+    {
+      "title": "Annexure--I",
+      "text": [
+        "Confirmation by securities exchange for satisfaction of investor claims of TRE certificate holder seeking permission for winding up",
+        "S. Particular",
+        "No.",
+        "1 Name of the TRE certificate holder",
+        "2 Current Status of TRE certificate holder",
+        "V Active",
+        "VIn-Active",
+        "V Declared Defaulter/Expelled",
+        "V TRE certificate forfeited",
+        "V Any other",
+        "3 Dates of invitation of Investor Claims (From---- To---)",
+        "4 Mode and Evidence of invitation of Investor Claims",
+        "5 Number of Investor Claims",
+        "6 Value of Investor Claims received ( individual and collective)",
+        "V Value of customers funds",
+        "V Value of Securities claimed",
+        "V Difference between claim and verified claims",
+        "7 Name of entity which verified the claims",
+        "8 Value of Claims Verified against each claim",
+        "V Value of customers funds",
+        "V Value of Securities claimed",
+        "V Difference between claim and verified claims",
+        "V Value of customers funds",
+        "V Value of Securities in sub-accounts",
+        "10 Satisfaction of Claims - details of each claim including;",
+        "V Amount paid against claim",
+        "V Securities transferred against claim (valued at day of transfer)",
+        "V Mode of satisfaction of claim",
+        "V % of satisfaction of claims against verified claims.",
+        "11 Any other material information",
+        "*Add additional working sheets where required Underlying workings will also be shared with the Commission.",
+        "Chief Regulatory Officer",
+        "Dated:"
+      ]
+    }
+  ],
+  "frontNotes": [],
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }

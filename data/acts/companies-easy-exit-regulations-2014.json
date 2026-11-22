@@ -103,6 +103,29 @@
       ]
     }
   ],
-  "schedules": [],
-  "frontNotes": []
+  "schedules": [
+    {
+      "title": "FORM EE-I [See Regulation 3(1)] APPLICATION TO THE CONCERNED REGISTRAR FOR STRIKING OFF NAME OF THE COMPANY FROM THE REGISTER OF COMPANIES",
+      "text": [
+        "1. CUIN (Incorporation Number):=",
+        "2. Name of the Company:",
+        "3. Fee paid Rs: Bank Challan No.",
+        "4. Name and Branch of bank:",
+        "Day Month Year -",
+        "5. Date of payment",
+        "6. Precise reasons for striking off name of the company:",
+        "Day Month Year",
+        "7. Date of members' resolution passed: (As per Form EE-II",
+        "8. Current Corresponding Address:",
+        "Verified that the information given above and in the accompanying documents, is true and correct to the best of my knowledge and belief and that nothing has been concealed.",
+        "9. Signature of Director/ Chief Executive:",
+        "10. Name of Signatory:",
+        "11. C.N.I.C No. of Signatory:",
+        "Day Month Year",
+        "12. Date (to be filed with the concerned registrar at relevant CRO.)"
+      ]
+    }
+  ],
+  "frontNotes": [],
+  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
 }
