@@ -2291,18 +2291,18 @@
    "Deposit Rules 1987"
   ],
   "enacted": "1987-09-26",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 778(I)/1987",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
   "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
+  "amendedUpToLabel": "SECP PDF as downloaded 23 Nov 2026; no later amendment recorded to 20 June 2026",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "parenNumbers": true,
+  "file": "companies-deposit-rules-1987.pdf"
  },
  {
   "id": "companies-legal-adviser-rules-1975",
@@ -3212,21 +3212,21 @@
    "Collateral Management Regulations"
   ],
   "enacted": "2019-07-31",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 890(I)/2019",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Regulation 22 is not printed in this edition (the book's footnote records the renumbering made by S.R.O. 915(I)/2020).",
   "numberingGaps": [
-   22
+   23
   ],
   "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpToLabel": "SECP consolidated PDF, updated till 30 November 2022; no later amendment recorded to 20 June 2026",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "sourceNotes": "SECP's consolidated edition prints regulation 22 and then regulation 24; it prints no regulation numbered 23.",
+  "file": "collateral-management-companies-regulations-2019.pdf"
  },
  {
   "id": "stock-exchanges-demutualization-regulations-2012",
@@ -3361,19 +3361,18 @@
    "corporate"
   ],
   "aliases": [],
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 406(I)/2014",
-   "url": "https://www.secp.gov.pk"
+   "name": "Competition Commission of Pakistan",
+   "url": "https://www.cc.gov.pk"
   },
   "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpToLabel": "Competition Commission of Pakistan PDF as downloaded 23 Nov 2026; no later change recorded to 20 June 2026",
   "watch": {
    "page": "https://www.cc.gov.pk/",
    "manual": true
   },
   "enacted": "2014-05-23",
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  "file": "competition-commission-reward-payment-informants-regulations-2014.pdf"
  },
  {
   "id": "competition-commission-appeal-rules-2007",
@@ -3409,19 +3408,18 @@
    "corporate"
   ],
   "aliases": [],
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 400(I)/2008",
-   "url": "https://www.secp.gov.pk"
+   "name": "Competition Commission of Pakistan",
+   "url": "https://www.cc.gov.pk"
   },
   "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpToLabel": "Competition Commission of Pakistan PDF as downloaded 23 Nov 2026; no later change recorded to 20 June 2026",
   "watch": {
    "page": "https://www.cc.gov.pk/",
    "manual": true
   },
   "enacted": "2008-04-24",
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  "file": "competition-commission-investigating-officers-rules-2007.pdf"
  },
  {
   "id": "competition-commission-extension-exemption-rules-2007",
@@ -3713,19 +3711,21 @@
   ],
   "aliases": [],
   "enacted": "2017-11-15",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 1190(I)/2017",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
   "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by the Shariah Governance Regulations, 2023",
+  "amendedUpToLabel": "SECP PDF as downloaded 23 Nov 2026; no later amendment recorded to 20 June 2026",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
   },
   "status": "repealed",
-  "caution": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023. Kept for matters of earlier periods; text from the December 2021 edition. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included."
+  "plainNumberProvisions": [
+   "12"
+  ],
+  "file": "shariah-advisors-regulations-2017.pdf"
  },
  {
   "id": "shariah-governance-regulations-2018",

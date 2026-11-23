@@ -235,10 +235,17 @@ def line_text(l, bs):
     return re.sub(r"[ \t]+", " ", "".join(out)).strip()
 
 
+PAREN_NUM = False  # set from the manifest option parenNumbers: bold "(8)" numbers are read as "8."
+
+
 def section_start(l, bs, untitled=False):
     """If the line begins a provision, return (number, heading, lead, rest_of_line)."""
     spans = []
     for s in l.spans:
+        if PAREN_NUM and not spans and is_bold(s):
+            pm = re.match(r"^\((\d+[A-Z]{0,4})\)(\s*)$", s["text"])
+            if pm:
+                s = dict(s, text=pm.group(1) + "." + pm.group(2))
         if not s["text"].strip():
             continue
         prev = l.spans[l.spans.index(s) - 1] if spans else None
@@ -588,6 +595,8 @@ def insert_omitted(parts, toc_rows):
 
 
 def extract(entry):
+    global PAREN_NUM
+    PAREN_NUM = bool(entry.get("parenNumbers"))
     pdf = ROOT / "sources" / "pdf" / entry["file"]
     if not pdf.exists() and entry.get("pdfUrl"):
         # editions too large to keep in the repository are fetched from the regulator when needed

@@ -1,533 +1,344 @@
 {
-  "id": "shariah-advisors-regulations-2017",
-  "title": "Shariah Advisors Regulations, 2017",
-  "number": "S.R.O. 1190(I)/2017",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [],
-  "enacted": "2017-11-15",
-  "lastAmended": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by the Shariah Governance Regulations, 2023",
-  "status": "repealed",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 1190(I)/2017",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to As at December 2021 (54th/115th update of the source); repealed by the Shariah Governance Regulations, 2023 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 1190(I)/2017 dated November 15, 2017.- In exercise of the powers conferred by sub-section (1) of section 512 read with section 451 of the Companies Act, 2017 (XIX of 2017), the Securities and Exchange Commission of Pakistan is pleased to notify the following Shariah Advisors Regulations, 2017 the same having been previous published for public consultation in the official Gazette for eliciting public comments vide notification S. R. O 928 (I)/2017 dated 18th September, 2017. Chapter I PRELIMINARY",
-  "parts": [
+ "id": "shariah-advisors-regulations-2017",
+ "title": "Shariah Advisors Regulations, 2017",
+ "number": "S.R.O. 1190(I)/2017",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "enacted": "2017-11-15",
+ "lastAmended": "2021-12-31",
+ "amendedUpToLabel": "SECP PDF as downloaded 23 Nov 2026; no later amendment recorded to 20 June 2026",
+ "status": "repealed",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "shariah-advisors-regulations-2017.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF SECP PDF as downloaded 23 Nov 2026; no later amendment recorded to 20 June 2026 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These regulations may be called Shariah Advisors Regulations, 2017 (2) They shall come into force fifteen days from the date of notification of these Regulations;",
-            "(3) They shall be applicable on:",
-            ">(a) every person providing Shariah advisory services to a company or an entity registered, licensed, and/or regulated by the Commission;",
-            ">(b) every company claiming to be a Shariah compliant company except-",
-            ">(i) an insurance or a takaful company; and",
-            ">(ii) a banking company or any other company which is regulated by the State Bank of Pakistan; and",
-            "(с) every company or entity claiming its securities to be Shariah compliant securities."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these regulations unless there is anything repugnant in the subject or context:",
-            ">(a) \"Act\" means the Companies Act, 2017 (XIX of 2017);",
-            ">(b) \"Commission\" means the Securities and Exchange Commission of Pakistan established under Section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
-            ">(c) \"Form\" means form appended to these regulations;",
-            ">(d) \"Islamic financial services\" means financial services as defined in clause (ka) of sub-section (1) of section 2 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) that are certified by a Shariah Advisor as Shariah compliant;",
-            ">(e) \"limited liability partnership (LLP)\" shall have the same meaning as defined in Limited Liability Partnership Act, 2017 (XV of 2017);",
-            ">(f) \"Register of Shariah Advisors\" means a register containing names of Shariah Advisors registered with the Commission under these regulations;",
-            ">(g) \"securities\" shall have the same meaning as assigned to it in clause (61) of sub-section (1) of section (2) of the Act;",
-            ">(h) \"Shariah Advisor\" means a person who meets the fit and proper criteria and is registered with the Commission as specified in these regulations and whose name is included in the register of Shariah Advisors;",
-            ">(i) \"Shariah advisory services\" means advisory services provided by the Shariah Advisor in line with the Shariah principles for the purpose of section 451 of the Act and includes issuing a Shariah opinion; and",
-            ">(j) \"Shariah opinion\" means an approval, a certificate, fatwa (59 ii) or",
-            "an opinion issued by a Sharialı Advisor for the purpose of Section 451 of the Act in the manner as specified in these regulations.",
-            "(2) Words and expressions used but not defined in these regulations shall have the same meanings as are assigned to them in the Act, any administered legislation or subordinate legislation.",
-            "Chapter II",
-            "FIT AND PROPER CRITERIA FOR SHARIAH ADVISORS"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Eligibility for Shariah Advisor",
-          "text": [
-            "(1) A Shariah Advisor shall meet the following minimum fit and proper criteria-",
-            ">(a) in case of an individual:",
-            "i) Qualification:",
-            "a) holds Shahadat-ul-Aalamiyyah (plLelliy 36üs) Degree (Darse-",
-            "Nizami ,Lbis u j) from any recognized Board of Madaris with minimum seventy percent (70%) marks and Bachelor's degree recognized by Higher Education Commission (HEC) of Pakistan with minimum 2nd Class with at least four (4) years' experience of giving Shariah rulings in Fiqh-ul-Muamulat (CiLsLes) 2 19), that is, Islamic commercial jurisprudence including the period of Takhasus fil Ifta (L \"alll uis ua sái); or",
-            "b) holds a post graduate degree in Kuliyyatush Shariah ( US™ a ülls) or Kuliyyah Usooluddin (ül deal USi), L.L.M.",
-            "(Shariah), MS Shariah or equivalent with a minimum GPA of 2.5 or equivalent, from an institution recognized by Higher Education Commission (HEC) of Pakistan.",
-            "ii) Word Experience:",
-            "a) at least four (4 ) years' experience of giving Shariah rulings in fiqh (k ii), preferably fiqh- ul- muamulat (CiL dLesl| a i4), that is, Islamic commercial jurisprudence including the period of is, Islamic commercial jurisprudence including the period of Takhasus fil Ifta (LillL; ces ua iasi); or",
-            "b) at least five (5) years' experience in teaching or research or",
-            "training in Islamic financial services; or",
-            "c) at least five (5) years' experience in working in relevant de parast fts of an nearuton perienng islamic financial seleyast departments of an institution offering Islamic financial services;",
-            "or",
-            "d) at least five (5) years' experience in working in the relevant department of banking or securities or insurance regulator.",
-            "Explanation: A combination of eligible work experience shall be acceptable. For example, two years' experience in teaching or research or training in Islamic financial services and three years' experience in working in relevant departments of an institution offering Islamic financial services shall meet the five (5) years' experience requirement.",
-            "iii) Other Experience:",
-            "adequate understanding of relevant financial and legal concepts and",
-            "command over English language to comprehend legal documents pertaining to financial transactions.",
-            ">(b) in c.tsu ci'a firm, LLP, company, at loust one director or partner, as the case. ray be, shall comply with clause 1(a) above and, all other directors ór pariners and the chief exccutive officer:",
-            "i) Qualification and professional experience:",
-            "a) Shahadat-ul- Aalamiyyah (fLel 4 üö) (Dars-e-Nizami c* › pLäis) from any recognized Board of Madaris and Bachelor's Degree recognized by Higher Education Commission (HEC) of Pakistan and Pakistan and good understanding of banking, finance, capital markets; and at least four (4) years' experience in Islamic finance or Islamic banking; or at least five (5) years' post qualification experience in experience in teaching, research and development in Islamic Finance; or",
-            "b) Post graduate degree in Kuliyyatush Shariah (zuüll (S*), Kuliyyah Usooluddin (ç-llü Jeal JSi), L.L.M. (Shariah), MS •• Shariah or equivalent from any recognized University; and four :' (4) years' experience in teaching, research and development or",
-            "- professional experience in Islamic finance or Islamic banking; or",
-            "c) • Doctorate in Islamic banking, Islamic Finance, Islamie Economics, Shariah Law, Usooluddin (üt | Jeal) or Doctorate in Economics, Commerce, •Finance, Management Sciences with concentration in Islamic banking or Islamic finance; and five (5)",
-            "years' experience in teaching, research and development or",
-            "professional experience in Islamic finance or Islamic banking or",
-            "any combination therefore; or",
-            "d) Member of recognized body of International Federation of Accountants, or Member of recognized body of Investment Professionals, or Member of recognized body of Financial Analysts, or Member of recognized body of Risk Professionals, or",
-            "Master Degree in Finance, Banking, Accounting, Commerce; and",
-            "five (5) years' experience in teaching, research and development or professional experience in Islamic finance or Islamic banking;",
-            "or",
-            "e) M.Phil., M.S., M.Sc., or post graduate degree/diploma or B.Sc. in Islamic Finance, Islamic Economics, Islamic Commercial Jurisprudence, Usooluddin (ü|| Je-al), Kuliyyah Usooluddin JurisprudenCa, ,shariin Law, LLMKguivale t gom aiy (üt | Jeal (Si), Shariah Law, L.L.M. or equivalent from any HEC recognized University; and five (5 years' experience in teaching, research and development or professional experience in Islamic finance or Islamic banking.",
-            "ii) Other Experience:",
-            "adequate understanding of relevant financial and legal concepts and",
-            "command over English language to comprehend legal documents pertaining to financial transactions.",
-            "(2) Notwithstanding anything contained in clause (1) above, an individual, partner, director or chief executive of a firm, LLP or company shall be deemed eligible if s/he, in the opinion of the Commission, is a person who has adequate understanding of and experience in Shariah, legal, and financial issues pertaining to Islamic financial services."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Ineligibility",
-          "text": [
-            "An individual shall be ineligible to become a Shariah Advisor or a director, partner or chief executive uf a Sharialı Advisor if he-",
-            ">(a) is a minor;",
-            ">(b) is of unsound mind;",
-            ">(c) has applied to be adjudicated as an insolvent and his application is pending;",
-            ">(d) is an undischarged insolvent;",
-            ">(e) has been convicted by a court of law for an offence involving moral turpitude;",
-            ">(f) has been debarred from holding such office under any provision of any law administered by the Commission;",
-            ">(g) is lacking fiduciary behavior and a declaration to this effect has been made by the court at any time during the preceding five years;",
-            ">(h) has been declared by a court of competent jurisdiction as defaulter in repayment of loan to a tinancial institution;",
-            ">(i) in case of a Pakistani national, is not an income tax filer with the Federal Board of Revenue;",
-            ">(j) in case of foreign national, is not a registered tax payer, if applicable, in respective jurisdiction of residence or nationality;",
-            ">(k) has been convicted of any criminal offence involving fraud, negligence or",
-            "criminal breach of trust and financial impropriety;",
-            "(1) does not have a good reputation of ethical professional and social conduct befitting a Shariah Advisor as judged by the Commission; or",
-            ">(m) has an adverse Credit Information Bureau (CIB) report. Provided that in case of overdue position in CIB report, the person shall not be considered fit and proper person except in case where, such overdue amount is under litigation; and that no rejection shall be made unless the person has been provided an opportunity of making a representation before the Commission.",
-            "Chapter III",
-            "REGISTRATION OF SHARIAH ADVISOR"
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Prohibition",
-          "text": [
-            "(1) No person shall act as a Shariah Advisor for a company or entity unless registered with the Commission;",
-            "(2) A firm providing Shariah Advisory services, shall convert to an LLP or company by June 30, 2018 whereafter, it shall cease to be a Shariah Advisor."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Application procedure for Registration of Shariah Advisor",
-          "text": [
-            "(1) An individual, firm, LIP or company, may apply to the Commission for registration as Shariah Advisor as per Form B, particulars as per Form A, an affidavit as per the specimen given in Annexure I and bank challan evidencing payment of non-refundable application fee as specified in Annexure II;",
-            "(2) The Commission may, while considering an application under this regulation, require the applicant to furnish such additional information or clarification or documents, as it deems appropriate;",
-            "(3) The Commission may require an applicant to appear for an interview before any official of the Commission and/or any one or more members of the Shariah Board of the Commission in person or through video conferencing as deemed appropriate by the Commission;",
-            "(4) The Commission on being satisfied that the applicant is eligible and meets the fit and proper criteria, register the applicant as Shariah Advisor subject to such conditions as it may deem fit;",
-            "(5) The registration shall remain valid for a period of three years, unless cancelled earlier by the Commission, and will be renewed after every three years."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Commission to maintain a Register of Shariah Advisors",
-          "text": [
-            "The Commission shall maintain a register of Shariah Advisors in the manner it deems fit."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Renewal application",
-          "text": [
-            "(1) A Shariah Advisor shall, one month prior to the date of expiry of registration, apply to the Commission for renewal of registration as per Form D along with bank challan evidencing payment of nonrefundable application fee as specified in Annexure II;",
-            "(2) Where a Shariah Advisor fails to apply for renewal within the timé given in (1) above, the Shariah Advisor shall be deemed as suspended and shall cease to act as Shariah Advisor."
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Change of partner, director, chief executive",
-          "text": [
-            "Where there is a change of partner, director or chief executive, the firm, LLP or company shall file a new application, as per form E, along wilh Form A for each partner, director, chief executive, and a bank challan evidencing payment of non-refundable application fee as specified in Annexure II, within fifteen (15) days of such change."
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Opportunity of hearing",
-          "text": [
-            "Prior tr tee reje tion cian application, fhe C'ommnission shall provide an oppoctun!!y oï hu.dtg to the applican::",
-            "Chapter IV",
-            "LIMITS AND RESTRICTIONS"
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Limits on concurrent appointments of a Shariah Advisor",
-          "text": [
-            "(1) A Shariah Advisor may be appointed to provide Shariah advisory services, subject to the following limits applicable with effect from July 1, 2018:",
-            "Limit on concurrent appointments as a Shariah Advisor Individual/Single Member Four (4) Company (SMC) Firm/ LLP Four (4) times the number of individual Shariah Advisors who are its partners Company Four (4) times the number of individual Shariah Advisors who are its directors Provided that the upper limit shall not include appointments of a Shariah Advisor in any banking company or a company regulated by State Bank of Pakistan or a company or entity not registered in Pakistan until specified otherwise by the Commission;",
-            "(2) Shariah opinion given by a Shariah Advisor to a company or entity shall be deemed as an appointment;",
-            "(3) The appointment of a Shariah Advisor by a Non-banking Finance Company (NBFC) managing different collective investment scheme, pension funds, discretionary and non-discretionary portfolios shall be considered a single appointment;",
-            "(4) The appointment of a Shariah Advisor by a company or an entity issuing any number of Shariah compliant securities, shall be considered a single appointment; and",
-            "(5) If a Shariah Advisor who is a partner or director of a Shariah Advisor firm, LLP or company takes an appointment in his personal capacity as Shariah Advisor for a company or entity, the upper limit on concurrent appointments for the Shariah Advisor firm, LLP or company shall stand reduced by the number of such appointments."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "A Shariah Advisor shall",
-          "text": [
-            ">(a) not provide any services other than such services within the meaning of section 451 of the Act and ancillary professional services pertaining to research, education, and training in Islamic finance services;",
-            ">(b) not undertake any business activity that is prohibited in Islam;",
-            ">(c) in case of a firm, LLP or company, not obtain any financial services other than Islamic financial services;",
-            ">(d) adhere with the principles of professional belavior given in these regulations; and . (e) comply with any other condition as the Commission deems fit."
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Reporting by Shariah Advisor",
-          "text": [
-            "A Shariah Advisor shall report to the Commission as per Form C by 31 January of every year:",
-            ">(a) all appointments and engagements, domestic or international, held at any time during the year; and",
-            ">(b) details of the continuing professional development activities undertaken during the year.",
-            "Chapter V",
-            "SHARIAH OPINION"
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Shariah opinion",
-          "text": [
-            "(1) A Shariah opinion shall provide the underlying reasoning and references in detail and it shall, at the minimum, cover the following -",
-            ">(i) whether and to what extent the arrangement and related agreement and contracts, separately and collectively, are consistent with the Shariah principles;",
-            ">(ii) how the arrangement addresses the prohibited riba (Lu);",
-            ">(iii) whether the arrangement carries excessive gharar (Jjc ), and if yes, how it has been addressed;",
-            ">(iv) whether and to what extent the financing arrangement is consistent or",
-            "inconsistent with the relevant Shariah Standards of the Accounting and",
-            "Auditing Organization for Islamic Financial Institutions (AAOIFI);",
-            ">(v) exceptions, reservations, and qualifications regarding Shariah exmpliance, ifany, yand provided in detail ations regarding.Shariah (vi) any other relevant detail.",
-            "(2) A company or entity may use an abridged version of a Shariah opinion in its publications, where deemed necessary by the company or entity, however, the detailed Shariah opinion shall be made publicly available through its website;",
-            "(3) A Shariah opinion shall be signed by at least one individual who meets the fi and proper ah opia prokall be sieged byat llada one inese ienal vhomeets the fit and proper criteria provided in Regulation 3(1)(a) of these regulations;",
-            "(4) A Shariah opinion which is in the form of a fatwa (sg ** ) shall be signed by at least one individual who meets the fit and proper criteria provided in Regulation 3(1)(a)(i)(a) of these regulations;",
-            "(5) A Shariah Advisor shall provide a Shariah opinion to the company or entity in English along with Urdu translation."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Maintenance of record",
-          "text": [
-            "A Shariah Advisor and company or entity that solicits a Shariah opinion shall maintain record of all Shariah opinions for ten (10) years."
-          ]
-        },
-        {
-          "no": "16",
-          "title": "Dissemination of Shariah Opinion",
-          "text": [
-            "A company or entity obtaining a Shariah opinion shall disseminate it through appropriate means including its website such that it can be readily and publicly accessed without any hindrance or fee."
-          ]
-        },
-        {
-          "no": "17",
-          "title": "Conflicting Shariah opinions and dispute resolution",
-          "text": [
-            "(1) No Shariah Advisor shall publicly issue a Shariah opinion regarding a company or éniity or its security that is not solicited by that company or entity;",
-            "(2) Once a company or entity has obtained a Shariah opinion from a Shariah Advisor declaring the company or entity or its security, Shariah compliant, no other Shariah Advisor shall publicly issue a Shariah opinion declaring the company or entity or its security, non Shariah-compliant;",
-            "Provided that a Shariah Advisor, acting in good faith, may privately issue a Shariah opinion regarding a company or entity or its security if the same is solicited by another company or entity to meet its business needs, including the need to consider investing in or divesting from the subject company, entity, or its security;",
-            "Provided further that a Shariah Advisor ınay amend or revoke his own Shariah opinion based on new facts, findings, or research after giving the subject company or entity adequate notice to consider and act upon the same;",
-            "(3) Any dispute or difference of opinion regarding a Shariah opinion within the meaning of these regulations between a company or an entity and its Shariah Advisor or between any two or more Shariah Advisors, shall be referred to the Commission, which may refer it to any relevant forum including the Shariah Board of the Commission.",
-            "Chapter VI",
-            "OBLIGATIONS OF APPOINTING COMPANY OR ENTITY"
-          ]
-        },
-        {
-          "no": "18",
-          "title": "Obligations",
-          "text": [
-            "(1) A company or an entity appointing a Shariah Advisor shall comply with the following:",
-            ">(a) no company or entity shall appoint any person as a Shariah Advisor unless his name is included in the register of Shariah Advisors;",
-            ">(b) a company shall disclose in its financial statements details of any compensation paid to its Shariah Advisor for providing Shariah advisory services and any other ancillary professional services such as education and training in Islamic financial services; and",
-            ">(c) where a company or an entity obtains a Snariah opinion from more than one Shariah Advisor on the same issue, it shall make a disclosure of the reasons for obtaining more than cne Shariah opinion to each Shariah Advisor, as well as, in the prospectus, financial statements and any other relevant document.",
-            "(2) A company or entity may form its own Shariah board, comprising Shariah Advisors and technical members, for seeking Shariah advisory services, provided that:",
-            ">(a) the Shariah Board shall have at least three Shariah Advisors and may comprise technical members, the opinion of majority of the Shariah Advisors shall prevail;",
-            ">(b) the chairman of the Shariah Board shall be from amongst the Shariah Advisore; and",
-            ">(c) the technical member(s) of the Shrriah Board shall maeet the fit and",
-            "proper criteria specified in Regulation 3(1)(b).",
-            "19. Board of directors to approve appointment or removal of a"
-          ]
-        },
-        {
-          "no": "19",
-          "title": "Shariah Advisor",
-          "text": [
-            "(1) The board of directors of the company shall appoint or remove a Shariah Advisor and the board or a committee of the board shall meet the Shariah Advisor upon appointment, removal and resignation;",
-            "(2) The board of directors or a committee of the board shall meet the Shariah Advisor at least twice a year to review Shariah related or any other matter;",
-            "(3) Where a company or entity removes a Shariah Advisor, it shall report the same to the Commission within fourteen (14) days."
-          ]
-        },
-        {
-          "no": "20",
-          "title": "Company or Entity to inform the name of its Shariah Advisor",
-          "text": [
-            "The company or entity shall, within seven (7) days of appointment, inform the name of its Shariah Advisor to the Commission.",
-            "Chapter VII",
-            "DISCIPLINARY PROCEEDINGS"
-          ]
-        },
-        {
-          "no": "21",
-          "title": "Restriction or suspension",
-          "text": [
-            "(1) Where a Shariah Advisor, an appointing company or entity contravenes or fails to comply with any provision of these regulations, or is not in compliance with any condition or directive, circular or order issued by the Commission, the Commission may, after providing a reasonable opportunity of representation:",
-            ">(a) impose restrictions on its activities as Shariah Advisor and/or suspend its name on the register of Shariah Advisors;",
-            ">(b) remove his name from the register of Shariah Advisors; and/or",
-            ">(c) impose a penalty as provided in the Act.",
-            "(2) A Shariah Advisor who has been suspended under this regulation shall not act as a Shariah Advisor during the period of suspension and remove the cause of suspension as specified in the suspension order within a period of one hundred and twenty days from the r:ceipt of the suspension or der or such earlier period as provided in the said order;",
-            "(3) The Commission while suspending a Shariah Advisor may impose such conditions as it deems appropriate."
-          ]
-        },
-        {
-          "no": "22",
-          "title": "Cancellation of registration of Shariah Advisor",
-          "text": [
-            "(1) The Commission, after providing a reasonable opportunity of representation to a Shariah Advisor, may cancel the registration of a Shariah Advisor if,-",
-            ">(a) in the opinion of the Commission a Shariah Advisor has been in violation of these regulations or failed to discharge its obligations under these regulations;",
-            ">(b) s/he is found guilty of fraud or any criminal offence; or",
-            ">(c) s/he has been suspended and the cause of suspension has not been removed within one hundred and twenty (120) days from the receipt of the suspension order or such earlier period as provided through the order of suspension.",
-            "(2) The registration of a Shariah Advisor shall stand cancelled if such Shariah Advisor,-",
-            ">(a) is declared insolvent by a Court; or",
-            ">(b) is wound up by an order passed by a Court.",
-            "(3) Upon cancellation of registration of' Shariah Advisor, the person shall with immediate effect cease to act as Shariah Advisor.",
-            "Chapter VIII",
-            "PRINCIPLES OF PROFESSIONAL BEHAVIOR",
-            "23. In fulfilling his obligations, a Shariah Advisor shall adhere and uphold the Shariah, and shall observe the following principles of professional behavior:",
-            ">(a) Integrity.- A Shariah Advisor shall uphold fairness and truthfulness, and be straightforward and honest in professional relationships;",
-            ">(b) objectivity.- While carrying out his duties, a Shariah Advisor shall exercise professional independence and not allow any financial or",
-            "nonfinancial incentives to affect the objectivity of his judgement;",
-            ">(c) due diligence and responsibility.- A Shariah Advisor shall exercise diligence in his work and not form an opinion without first thoroughly understanding and analyzing relevant issues and shall assume responsibility for his professional work and for the work carried out by those working under him;",
-            ">(d) care and conscientiousness.- Before accepting an appointment, a Shariah Advisor shall carefully consider whether he is in a position to carry out the work involved keeping in view his competence and",
-            "available time and shall always strive to-",
-            ">(i) uphold fairness and equity for the stakeholders;",
-            ">(ii) act in a manner that preserves his honesty and integrity;",
-            ">(iii) exercise appropriate discretion in decision-making and take into account both juristic form and economic substance; and",
-            ">(iv) appreciate the diversity of opinions among various schools of thought and differences in expertise among his fellow Shariah Advisors;",
-            ">(e) confidentiality.- A Shariah Advisor shall maintain confidentiality of all information with which he is entrusted in his assignment as a Shariah Advisor and which is likely to be deemed material and sensitive by the company or entity;",
-            ">(f) Independence.- A Shariah Advisor shall maintain independence, and",
-            "strive not to be in a position of conflict of interest with the company or",
-            "entity, s/he should be independent of the appointing company or entity.",
-            "Explanation. -",
-            "The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent judgment without keing subscrvient to any form of conflict of interest. Wherever a conflict of interest is unavoidable, the Shariah Advisor shall declare it in writing to the company or entity. A Shariah Advisor shall also report any such conflict with regard to members of his family, business associates or companies in which they have an interest. Where there is such a conflict of interest, or a duty to another party, a Shariah Advisor shall abstain from participating in the party, a Shariah Advisor shall abstain from participating in the relevant decision or action on behalf of the company or entity. Where a notification is made of a conflict, it shall be recorded and retained by the company or entity."
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations may be called Shariah Advisors Regulations, 2017 (2) They shall come into force fifteen days from the date of notification of these Regulations;",
+      "(3) They shall be applicable on:",
+      ">(a) every person providing Shariah advisory services to a company or an entity registered, licensed, and/or regulated by the Commission;",
+      ">(b) every company claiming to be a Shariah compliant company except-",
+      ">>(i) an insurance or a takaful company; and",
+      ">>(ii) a banking company or any other company which is regulated by the State Bank of Pakistan; and",
+      ">(c) every company or entity claiming its securities to be Shariah compliant securities."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations unless there is anything repugnant in the subject or context:",
+      ">(a) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">(b) “Commission” means the Securities and Exchange Commission of Pakistan established under Section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(c) “Form” means form appended to these regulations;",
+      ">(d) “Islamic financial services” means financial services as defined in clause (ka) of sub-section (1) of section 2 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) that are certified by a Shariah Advisor as Shariah compliant;",
+      ">(e) “limited liability partnership (LLP)” shall have the same meaning as defined in Limited Liability Partnership Act, 2017 (XV of 2017);",
+      ">(f) “Register of Shariah Advisors” means a register containing names of Shariah Advisors registered with the Commission under these regulations;",
+      ">(g) “securities” shall have the same meaning as assigned to it in clause (61) of sub-section (1) of section (2) of the Act;",
+      ">(h) “Shariah Advisor” means a person who meets the fit and proper criteria and is registered with the Commission as specified in these regulations and whose name is included in the register of Shariah Advisors;",
+      ">(i) “Shariah advisory services” means advisory services provided by the Shariah Advisor in line with the Shariah principles for the purpose of section 451 of the Act and includes issuing a Shariah opinion; and",
+      ">(j) “Shariah opinion” means an approval, a certificate, fatwa (فتوى) or an opinion issued by a Shariah Advisor for the purpose of Section 451 of the Act in the manner as specified in these regulations.",
+      "(2) Words and expressions used but not defined in these regulations shall have the same meanings as are assigned to them in the Act, any administered legislation or subordinate legislation."
+     ]
     }
-  ],
-  "schedules": [
+   ]
+  },
+  {
+   "heading": "Chapter II — Fit And Proper Criteria For Shariah Advisors",
+   "sections": [
     {
-      "title": "Form A PARTICULARS",
-      "text": [
-        "(To be submitted by an individual Shariah Advisor and by every director, partner and CEO of a Shariah Advisor firm, LLP, or company)",
-        "Passport size",
-        "Photo",
-        "1. Full Name:",
-        "2. Father's Name:",
-        "3. Date of Birth (dd/mm/yyyy):",
-        "4. Religion:_ Nationality:",
-        "5. C.N.I.C. Number/ Passport No.: National Tax Number:",
-        "6. Correspondence address:",
-        "7. Phone and email:",
-        "Landline No.. Mobile Phone No.",
-        "E-mail:",
-        "8. Education:",
-        "a) Details of qualification: (starting from Matriculation)",
-        "S. Qualification Board / Year of % Marks Grade / GPA",
-        "No. University completion / Division b) Major subjects studied in Bachelors/Masters degree:",
-        "Bachelors",
-        "Masters",
-        "C) Continuing Professional Developinent courses/trainings attended, if any:",
-        "Sr. # Year Title Provided by.",
-        "d) Certification / memberships of professional bodies, if any:",
-        "Certifications",
-        "Memberships of professional bodies e) Language Skills in English, Arabic and Urdu",
-        "Proficiency (basic, English Arabic Urdu intermediate, advanced)",
-        "Writing",
-        "Reading",
-        "Speaking f) Research / Teaching / Fatwa experience",
-        "Research experience",
-        "Teaching experience",
-        "Fatawas experience g) Professional experience",
-        "Sr. Name of organization Designation From To",
-        "# / Job Title (mm/yyyy) (mm/yyyy)",
-        "h) Details of Appointments/ Engagements as Shariah Advisor",
-        "Sr. Name of organization From To",
-        "# (mт/yyyy) (mm/yyyy)",
-        "9. Have you ever been terminated or dismissed from any organization?",
-        "Yes No. _If yes, provide reasons for termination:",
-        "10. Do any of the following circumstances (or sim.ilar) apply to you? If you",
-        "• have applied to be adjudicated is an inscivent and application is pending;",
-        "• are an undischarged insolvent;",
-        "• have been convicted by a court of law for an oftence involving moral turpitude;",
-        "• have been debarred from holding an office under any provision of the",
-        "Act;",
-        "• are lacking fiduciary behavior and a declaration to this effect has been made by the court at any time during the preceding five years;",
-        "• have been declared by a court of competent jurisdiction as defaulter in repayment of loan to a financial institution;",
-        "• in case of a Pakistani national, are not a registered tax payer (filer) in",
-        "Pakistan and do not hold a valid National Tax Number given by Federal",
-        "Board of Revenue;",
-        "• in case of foreign national, are not a registered tax payer, if applicable, in respective jurisdiction of residence or nationality;",
-        "• have been convicted of any criminal offence involving fraud, negligence or criminal breach of trust and financial impropriety; or",
-        "• have an overdue / past due payment in the CIB report",
-        "Yes No_",
-        "11. Are you aware of any conflict of interest with the company or entity that has appointed you as a Shariah Advisor?",
-        "Yes No.",
-        "Explanation (if Yes)",
-        "12. References.",
-        "Sr. # Name Address Contact #",
-        "1",
-        "2",
-        "3 (Signature)"
-      ]
+     "no": "3",
+     "title": "Eligibility for Shariah Advisor",
+     "page": 2,
+     "text": [
+      "(1) A Shariah Advisor shall meet the following minimum fit and proper criteria-",
+      ">(a) in case of an individual:",
+      "i) Qualification: a) holds Shahadat-ul-Aalamiyyah (شھادۃ العالمیۃ) Degree (Darse-Nizami نظامیدرسِ) from any recognized Board of Madaris with minimum seventy percent (70%) marks and Bachelor’s degree recognized by Higher Education Commission (HEC) of Pakistan with minimum 2nd Class with at least four (4 ) years’ experience of giving Shariah rulings in Fiqh- ul- Muamulat (فـقـه الـمـعـامـالت), that is, Islamic commercial jurisprudence including the period of Takhasus fil Ifta (تخصص فی االفتا); or b) holds a post graduate degree in Kuliyyatush Shariah ( کلیۃ الشريعۃ) or Kuliyyah Usooluddin (کلیۃ اصول الدين), L.L.M. (Shariah), MS Shariah or equivalent with a minimum GPA of 2.5 or equivalent, from an institution recognized by Higher Education Commission (HEC) of Pakistan.",
+      "ii) Work Experience: a) at least four (4 ) years’ experience of giving Shariah rulings in fiqh (فـقـه), preferably fiqh- ul- muamulat (فـقـه الـمـعـامـالت), that is, Islamic commercial jurisprudence including the period of Takhasus fil Ifta (تخصص فی االفتا); or b) at least five (5) years’ experience in teaching or research or training in Islamic financial services; or c) at least five (5) years’ experience in working in relevant departments of an institution offering Islamic financial services; or d) at least five (5) years’ experience in working in the relevant department of banking or securities or insurance regulator.",
+      "Explanation: A combination of eligible work experience shall be acceptable. For example, two years’ experience in teaching or research or training in Islamic financial services and three years’ experience in working in relevant departments of an institution offering Islamic financial services shall meet the five (5) years’ experience requirement.",
+      "iii) Other Experience: adequate understanding of relevant financial and legal concepts and command over English language to comprehend legal documents pertaining to financial transactions.",
+      ">(b) in case of a firm, LLP, company, at least one director or partner, as the case may be, shall comply with clause 1(a) above and, all other directors or partners and the chief executive officer:",
+      "i) Qualification and professional experience: a) Shahadat-ul- Aalamiyyah (شھادۃ العالمیۃ) (Dars-e-Nizami ِدرس نظامی) from any recognized Board of Madaris and Bachelor’s Degree recognized by Higher Education Commission (HEC) of Pakistan and good understanding of banking, finance, capital markets; and at least four (4) years’ experience in Islamic finance or Islamic banking; or at least five (5) years’ post qualification experience in teaching, research and development in Islamic Finance; or b) Post graduate degree in Kuliyyatush Shariah (کلیۃ الشريعۃ), Kuliyyah Usooluddin (کلیۃ اصول الدين), L.L.M. (Shariah), MS Shariah or equivalent from any recognized University; and four (4) years’ experience in teaching, research and development or professional experience in Islamic finance or Islamic banking; or c) Doctorate in Islamic banking, Islamic Finance, Islamic Economics, Shariah Law, Usooluddin (اصول الدين) or Doctorate in Economics, Commerce, Finance, Management Sciences with concentration in Islamic banking or Islamic finance; and five (5) years’ experience in teaching, research and development or professional experience in Islamic finance or Islamic banking or any combination therefore; or d) Member of recognized body of International Federation of Accountants, or Member of recognized body of Investment Professionals, or Member of recognized body of Financial Analysts, or Member of recognized body of Risk Professionals, or Master Degree in Finance, Banking, Accounting, Commerce; and five (5) years’ experience in teaching, research and development or professional experience in Islamic finance or Islamic banking; or e) M.Phil., M.S., M.Sc., or post graduate degree/diploma or B.Sc. in Islamic Finance, Islamic Economics, Islamic Commercial Jurisprudence, Usooluddin (اصول الدين), Kuliyyah Usooluddin (کلیۃ اصول الدين), Shariah Law, L.L.M. or equivalent from any HEC recognized University; and five (5 years’ experience in teaching, research and development or professional experience in Islamic finance or Islamic banking.",
+      "ii) Other Experience: adequate understanding of relevant financial and legal concepts and command over English language to comprehend legal documents pertaining to financial transactions.",
+      "(2) Notwithstanding anything contained in clause (1) above, an individual, partner, director or chief executive of a firm, LLP or company shall be deemed eligible if s/he, in the opinion of the Commission, is a person who has adequate understanding of and experience in Shariah, legal, and financial issues pertaining to Islamic financial services."
+     ]
     },
     {
-      "title": "Form B APPLICATION FOR REGISTRATION OF SHARIAH ADVISOR",
-      "text": [
-        "(Individual, firm, LLP, or company)",
-        "The Islamic Finance Department (IFD),",
-        "SECP Head Office, Islamabad",
-        "Dear Sir/Madam,",
-        "I/We, hereby apply for registration as Shariah Advisor(s) in the name --..",
-        "- as per Shariah Advisors Regulations, 2017. I/We hereby furnish the following:",
-        "(For individual)",
-        ">(a) Particulars of individual Shariah Advisor (as per Form A).",
-        ">(b) HEC certified copies / equivalence certificate(s) of educational qualifications.",
-        ">(c) Certified copies of CNIC, NICOP etc.",
-        ">(d) National Tax Number certificate, (a print from FBR website is acceptakle).",
-        ">(e) Challan evidencing payment of fee as per the schedule (Arinexure II) of fees specified in these regulations.",
-        ">(f) Two passport size photographs with name and signature on the back.",
-        ">(g) An affidavit as per specimen in Annexure-I signed by the individual.",
-        "(For firm, LLP)",
-        ">(a) Certificate of Registration of firm, LLP.",
-        ">(b) List of partners along with signatures.",
-        ">(c) Particulars of each partner, and chief executive (as per Form A).",
-        ">(d) Relevant constitutive documents (Partnership Deed).",
-        ">(e) HEO ertified copies / equivalence certificate(s) of educational qualifications for partner and chief exccutive.",
-        ">(f) Certified copies of CNIC, NICOP for each partner and chief executive etc.",
-        ">(g) National Tax Number certificate (a print from FBR website is acceptable) for each partner and for firm.",
-        ">(h) Challar evidencing payment of fee as per the schedule (Annexure II) of fees specified in these regulations.",
-        ">(i) Two passport size photographs with name and signature on the back for each partner and chief executive.",
-        "An al davit as per specimen in Annexurc-I signed by each partner and chief executive.",
-        "(For company)",
-        ">(a) Memorandum and Articles of Association.",
-        ">(b) Certificate of incorporation of company.",
-        ">(c) List of directors / updated certified Form \".).",
-        ">(d) Particulars of each director and chiet execut.ve (as per Form A).",
-        ">(e) Certified copies of CNIC, NICOP etc. for eaclı director and chief executive.",
-        ">(f) National Tax Number certificate (a prit rom FBR wel:site is acceptable) for cach director, chief executive anc. for company.",
-        ">(g) Challan evidencing payment of fee as pe: the schedule of fees specified in these regulations.",
-        ">(h) HEO certified copies / equivalence certificate(s) of educational qualifications for each director and chief executive.",
-        ">(i) Two passport size photographs with name ard signature un the back for each director and chief executive.",
-        ">(j) An affidavit as per specimen in Annexure-I signed by each director and chief executive.",
-        "(Nanc, signature)"
-      ]
-    },
-    {
-      "title": "Form C",
-      "text": [
-        "Annual reporting for Shariah Advisor(s)",
-        "The Islamic Finance Department (IFD),",
-        "SECP Head Office, Islamabad",
-        "Dear Sir/Madam,",
-        "I hereby furnish the following information:",
-        "a) Details of Appointments/ Engagements as Sharialı Advisor:",
-        "Sr. Name of organization From To",
-        "# (тт/yyyy) (mm/yyyy)",
-        "Note: A firm, LLP, or company to provide detail of its appointments/ engagements as a Shariah Advisor (while individual Shariah Advisor including partners, directors of firm, company or LLP siall also provide detail of all appointments/engagements including those undertaken by them in their individual capacity).",
-        "b) Continuing Profess:onal Develcpment corses/trainings attended, if any:",
-        "Sr. Date/Year Title Provided by",
-        "# (Name, signature and date)",
-        "Fcin D",
-        "APPLICATION FOR RENEWAL",
-        "[INDIVIDUAL/FIRM/LLP/COMPANY]",
-        "The Islamic Finance Department (IFD)",
-        "SECP Head Office, Islamabad.",
-        "Dear Sir/Madam,",
-        "I/We, hereby apply for renewal of registration as Shariah Advisor as per",
-        "1.:4017 Shariah Advisors Regulations, 2017.",
-        "*=-07-70 a) Affidavit- specimen as per Annexure I (from the individual, each partner of firm, LLP or director of the company);",
-        "b) esolution of firm, LLP, company signed by all partners/directors;",
-        "c) Particulars on \"Form A\" for individual Shariah Advisor, and for each partner, director and Chief Executive of firm, LLP or company; and d) Original paid bank challan evidencing payment of fee as specified in"
-      ]
-    },
-    {
-      "title": "Annexure II",
-      "text": [
-        "Signature , Name of the applicant",
-        "Correspondence Address",
-        "Dato"
-      ]
-    },
-    {
-      "title": "Form E APPLICATION FOR CHANGE OF PARTNER, DIRECTOR, CHIEF EXECUTIVE [FIRM/LLP/COMPANY]",
-      "text": [
-        "The Islamic Finance Department (IFD)",
-        "SECP Head Office, Islamabad.",
-        "Dear Sir/Madam,",
-        "I/We, hereby apply for change of partner/director/chief executive as per",
-        "Shariah Advisors Regulations 2017.",
-        "I/we hereby furnish the following:",
-        "a) Affidavit- specimen as per Annexure I (from the individual, each partner of firm, LLP or director of the company).",
-        "b) Particulars on \"Form A\" for individual Shariah Advisor, and for each partner, director and Chief Executive of firm, LLP or company.",
-        "c) Resolution of firm, LLP, company signed by all partners/directors.",
-        "d) Original paid bank challan evidencing payment of registration fee é.s specified in Annexure II.",
-        "Signature",
-        "Name of the applicant_",
-        "Correspondence Address",
-        "Date_",
-        "•2017",
-        "111-2017"
-      ]
-    },
-    {
-      "title": "Annexure I",
-      "text": [
-        "[Affidavit]",
-        "(Specimen)",
-        "(This affidavit is to be provided on Stamp Paper duly attested by Oath",
-        "Commissioner/Notary Public)",
-        "Dated:",
-        "Islamic Finance Department (IFD),",
-        "SECP Head office, Islamabad",
-        ".... bearing CNIC No... .... hereby, declare that all information provided in and with this application is correct. I undertake to keep all the information up to date by communicating any change therein within twenty-one (21) days of such change.",
-        "Name and signature"
-      ]
-    },
-    {
-      "title": "SCHEDULE OF FEES]",
-      "text": [
-        "Particulars Fee in Rupees",
-        "Individual Shariah Advisor - initial application 5,000/-",
-        "Company, Firm, LLP - initial application 10,000/-",
-        "Individual Shariah Advisor - Renewal application 2,500/-",
-        "Company, Firm, LLP - Renewal application 5,000/-",
-        "Reporting for change of Partner, Director, Chief Executive 5,000/-",
-        "Annual reporting fee- for Individual 500/-",
-        "Annual reporting fee - for Company, Firm, LLP 2,000/-"
-      ]
+     "no": "4",
+     "title": "Ineligibility",
+     "page": 5,
+     "text": [
+      "An individual shall be ineligible to become a Shariah Advisor or a director, partner or chief executive of a Shariah Advisor if he-",
+      ">(a) is a minor;",
+      ">(b) is of unsound mind;",
+      ">(c) has applied to be adjudicated as an insolvent and his application is pending;",
+      ">(d) is an undischarged insolvent;",
+      ">(e) has been convicted by a court of law for an offence involving moral turpitude;",
+      ">(f) has been debarred from holding such office under any provision of any law administered by the Commission;",
+      ">(g) is lacking fiduciary behavior and a declaration to this effect has been made by the court at any time during the preceding five years;",
+      ">(h) has been declared by a court of competent jurisdiction as defaulter in repayment of loan to a financial institution;",
+      ">(i) in case of a Pakistani national, is not an income tax filer with the Federal Board of Revenue;",
+      ">(j) in case of foreign national, is not a registered tax payer, if applicable, in respective jurisdiction of residence or nationality;",
+      ">(k) has been convicted of any criminal offence involving fraud, negligence or criminal breach of trust and financial impropriety;",
+      ">(l) does not have a good reputation of ethical professional and social conduct befitting a Shariah Advisor as judged by the Commission; or",
+      ">(m) has an adverse Credit Information Bureau (CIB) report.",
+      "Provided that in case of overdue position in CIB report, the person shall not be considered fit and proper person except in case where, such overdue amount is under litigation; and that no rejection shall be made unless the person has been provided an opportunity of making a representation before the Commission."
+     ]
     }
-  ],
-  "frontNotes": [],
-  "caution": "Repealed by regulation 44 of the Shariah Governance Regulations, 2023. Kept for matters of earlier periods; text from the December 2021 edition. Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules, forms and annexures are not included.",
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Chapter III — Registration Of Shariah Advisor",
+   "sections": [
+    {
+     "no": "5",
+     "title": "Prohibition",
+     "page": 6,
+     "text": [
+      "(1) No person shall act as a Shariah Advisor for a company or entity unless registered with the Commission;",
+      "(2) A firm providing Shariah Advisory services, shall convert to an LLP or company by June 30, 2018 whereafter, it shall cease to be a Shariah Advisor."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Application procedure for Registration of Shariah Advisor",
+     "page": 6,
+     "text": [
+      "(1) An individual, firm, LLP or company, may apply to the Commission for registration as Shariah Advisor as per Form B, particulars as per Form A, an affidavit as per the specimen given in Annexure I and bank challan evidencing payment of non-refundable application fee as specified in Annexure II;",
+      "(2) The Commission may, while considering an application under this regulation, require the applicant to furnish such additional information or clarification or documents, as it deems appropriate;",
+      "(3) The Commission may require an applicant to appear for an interview before any official of the Commission and/or any one or more members of the Shariah Board of the Commission in person or through video conferencing as deemed appropriate by the Commission;",
+      "(4) The Commission on being satisfied that the applicant is eligible and meets the fit and proper criteria, register the applicant as Shariah Advisor subject to such conditions as it may deem fit;",
+      "(5) The registration shall remain valid for a period of three years, unless cancelled earlier by the Commission, and will be renewed after every three years."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Commission to maintain a Register of Shariah Advisors",
+     "page": 7,
+     "text": [
+      "The Commission shall maintain a register of Shariah Advisors in the manner it deems fit."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Renewal application",
+     "page": 7,
+     "text": [
+      "(1) A Shariah Advisor shall, one month prior to the date of expiry of registration, apply to the Commission for renewal of registration as per Form D along with bank challan evidencing payment of non-refundable application fee as specified in Annexure II;",
+      "(2) Where a Shariah Advisor fails to apply for renewal within the time given in (1) above, the Shariah Advisor shall be deemed as suspended and shall cease to act as Shariah Advisor."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Change of partner, director, chief executive",
+     "page": 7,
+     "text": [
+      "Where there is a change of partner, director or chief executive, the firm, LLP or company shall file a new application, as per form E, along with Form A for each partner, director, chief executive, and a bank challan evidencing payment of non-refundable application fee as specified in Annexure II, within fifteen (15) days of such change."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Opportunity of hearing",
+     "page": 7,
+     "text": [
+      "Prior to the rejection of an application, the Commission shall provide an opportunity of hearing to the applicant."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Limits And Restrictions",
+   "sections": [
+    {
+     "no": "11",
+     "title": "Limits on concurrent appointments of a Shariah Advisor",
+     "page": 7,
+     "text": [
+      "(1) A Shariah Advisor may be appointed to provide Shariah advisory services, subject to the following limits applicable with effect from July 1, 2018:",
+      "Limit on concurrent appointments as a Shariah Advisor Individual/Single Member Four (4) Company (SMC) Firm/ LLP Four (4) times the number of individual Shariah Advisors who are its partners Company Four (4) times the number of individual Shariah Advisors who are its directors",
+      "Provided that the upper limit shall not include appointments of a Shariah Advisor in any banking company or a company regulated by State Bank of Pakistan or a company or entity not registered in Pakistan until specified otherwise by the Commission;",
+      "(2) Shariah opinion given by a Shariah Advisor to a company or entity shall be deemed as an appointment;",
+      "(3) The appointment of a Shariah Advisor by a Non-banking Finance Company (NBFC) managing different collective investment scheme, pension funds, discretionary and non-discretionary portfolios shall be considered a single appointment;",
+      "(4) The appointment of a Shariah Advisor by a company or an entity issuing any number of Shariah compliant securities, shall be considered a single appointment; and",
+      "(5) If a Shariah Advisor who is a partner or director of a Shariah Advisor firm, LLP or company takes an appointment in his personal capacity as Shariah Advisor for a company or entity, the upper limit on concurrent appointments for the Shariah Advisor firm, LLP or company shall stand reduced by the number of such appointments."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "",
+     "page": 8,
+     "text": [
+      "A Shariah Advisor shall-",
+      ">(a) not provide any services other than such services within the meaning of section 451 of the Act and ancillary professional services pertaining to research, education, and training in Islamic finance services;",
+      ">(b) not undertake any business activity that is prohibited in Islam;",
+      ">(c) in case of a firm, LLP or company, not obtain any financial services other than Islamic financial services;",
+      ">(d) adhere with the principles of professional behavior given in these regulations; and",
+      ">(e) comply with any other condition as the Commission deems fit."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Reporting by Shariah Advisor",
+     "page": 8,
+     "text": [
+      "A Shariah Advisor shall report to the Commission as per Form C by 31 January of every year:",
+      ">(a) all appointments and engagements, domestic or international, held at any time during the year; and",
+      ">(b) details of the continuing professional development activities undertaken during the year."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Shariah Opinion",
+   "sections": [
+    {
+     "no": "14",
+     "title": "Shariah opinion",
+     "page": 9,
+     "text": [
+      "(1) A Shariah opinion shall provide the underlying reasoning and references in detail and it shall, at the minimum, cover the following -",
+      ">>(i) whether and to what extent the arrangement and related agreement and contracts, separately and collectively, are consistent with the Shariah principles;",
+      ">>(ii) how the arrangement addresses the prohibited riba (ربا);",
+      ">>(iii) whether the arrangement carries excessive gharar (غرر), and if yes, how it has been addressed;",
+      ">>(iv) whether and to what extent the financing arrangement is consistent or inconsistent with the relevant Shariah Standards of the Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI);",
+      ">>(v) exceptions, reservations, and qualifications regarding Shariah compliance, if any, and provided in detail; and",
+      ">>(vi) any other relevant detail.",
+      "(2) A company or entity may use an abridged version of a Shariah opinion in its publications, where deemed necessary by the company or entity, however, the detailed Shariah opinion shall be made publicly available through its website;",
+      "(3) A Shariah opinion shall be signed by at least one individual who meets the fit and proper criteria provided in Regulation 3(1)(a) of these regulations;",
+      "(4) A Shariah opinion which is in the form of a fatwa (فتوى) shall be signed by at least one individual who meets the fit and proper criteria provided in Regulation 3(1)(a)(i)(a) of these regulations;",
+      "(5) A Shariah Advisor shall provide a Shariah opinion to the company or entity in English along with Urdu translation."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Maintenance of record",
+     "page": 9,
+     "text": [
+      "A Shariah Advisor and company or entity that solicits a Shariah opinion shall maintain record of all Shariah opinions for ten (10) years."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Dissemination of Shariah Opinion",
+     "page": 9,
+     "text": [
+      "A company or entity obtaining a Shariah opinion shall disseminate it through appropriate means including its website such that it can be readily and publicly accessed without any hindrance or fee."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Conflicting Shariah opinions and dispute resolution",
+     "page": 10,
+     "text": [
+      "(1) No Shariah Advisor shall publicly issue a Shariah opinion regarding a company or entity or its security that is not solicited by that company or entity;",
+      "(2) Once a company or entity has obtained a Shariah opinion from a Shariah Advisor declaring the company or entity or its security, Shariah compliant, no other Shariah Advisor shall publicly issue a Shariah opinion declaring the company or entity or its security, non Shariah-compliant;",
+      "Provided that a Shariah Advisor, acting in good faith, may privately issue a Shariah opinion regarding a company or entity or its security if the same is solicited by another company or entity to meet its business needs, including the need to consider investing in or divesting from the subject company, entity, or its security;",
+      "Provided further that a Shariah Advisor may amend or revoke his own Shariah opinion based on new facts, findings, or research after giving the subject company or entity adequate notice to consider and act upon the same;",
+      "(3) Any dispute or difference of opinion regarding a Shariah opinion within the meaning of these regulations between a company or an entity and its Shariah Advisor or between any two or more Shariah Advisors, shall be referred to the Commission, which may refer it to any relevant forum including the Shariah Board of the Commission."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Obligations Of Appointing Company Or Entity",
+   "sections": [
+    {
+     "no": "18",
+     "title": "Obligations",
+     "page": 10,
+     "text": [
+      "(1) A company or an entity appointing a Shariah Advisor shall comply with the following:",
+      ">(a) no company or entity shall appoint any person as a Shariah Advisor unless his name is included in the register of Shariah Advisors;",
+      ">(b) a company shall disclose in its financial statements details of any compensation paid to its Shariah Advisor for providing Shariah advisory services and any other ancillary professional services such as education and training in Islamic financial services; and",
+      ">(c) where a company or an entity obtains a Shariah opinion from more than one Shariah Advisor on the same issue, it shall make a disclosure of the reasons for obtaining more than one Shariah opinion to each Shariah Advisor, as well as, in the prospectus, financial statements and any other relevant document.",
+      "(2) A company or entity may form its own Shariah board, comprising Shariah Advisors and technical members, for seeking Shariah advisory services, provided that:",
+      ">(a) the Shariah Board shall have at least three Shariah Advisors and may comprise technical members, the opinion of majority of the Shariah Advisors shall prevail;",
+      ">(b) the chairman of the Shariah Board shall be from amongst the Shariah Advisors; and",
+      ">(c) the technical member(s) of the Shariah Board shall meet the fit and proper criteria specified in Regulation 3(1)(b)."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Board of directors to approve appointment or removal of a Shariah Advisor",
+     "page": 11,
+     "text": [
+      "(1) The board of directors of the company shall appoint or remove a Shariah Advisor and the board or a committee of the board shall meet the Shariah Advisor upon appointment, removal and resignation;",
+      "(2) The board of directors or a committee of the board shall meet the Shariah Advisor at least twice a year to review Shariah related or any other matter;",
+      "(3) Where a company or entity removes a Shariah Advisor, it shall report the same to the Commission within fourteen (14) days."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Company or Entity to inform the name of its Shariah Advisor",
+     "page": 11,
+     "text": [
+      "The company or entity shall, within seven (7) days of appointment, inform the name of its Shariah Advisor to the Commission."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Disciplinary Proceedings",
+   "sections": [
+    {
+     "no": "21",
+     "title": "Restriction or suspension",
+     "page": 11,
+     "text": [
+      "(1) Where a Shariah Advisor, an appointing company or entity contravenes or fails to comply with any provision of these regulations, or is not in compliance with any condition or directive, circular or order issued by the Commission, the Commission may, after providing a reasonable opportunity of representation:",
+      ">(a) impose restrictions on its activities as Shariah Advisor and/or suspend its name on the register of Shariah Advisors;",
+      ">(b) remove his name from the register of Shariah Advisors; and/or",
+      ">(c) impose a penalty as provided in the Act.",
+      "(2) A Shariah Advisor who has been suspended under this regulation shall not act as a Shariah Advisor during the period of suspension and remove the cause of suspension as specified in the suspension order within a period of one hundred and twenty days from the receipt of the suspension order or such earlier period as provided in the said order;",
+      "(3) The Commission while suspending a Shariah Advisor may impose such conditions as it deems appropriate."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Cancellation of registration of Shariah Advisor",
+     "page": 12,
+     "text": [
+      "(1) The Commission, after providing a reasonable opportunity of representation to a Shariah Advisor, may cancel the registration of a Shariah Advisor if,-",
+      ">(a) in the opinion of the Commission a Shariah Advisor has been in violation of these regulations or failed to discharge its obligations under these regulations;",
+      ">(b) s/he is found guilty of fraud or any criminal offence; or",
+      ">(c) s/he has been suspended and the cause of suspension has not been removed within one hundred and twenty (120) days from the receipt of the suspension order or such earlier period as provided through the order of suspension.",
+      "(2) The registration of a Shariah Advisor shall stand cancelled if such Shariah Advisor,-",
+      ">(a) is declared insolvent by a Court; or",
+      ">(b) is wound up by an order passed by a Court.",
+      "(3) Upon cancellation of registration of Shariah Advisor, the person shall with immediate effect cease to act as Shariah Advisor."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure I",
+   "page": 25
+  },
+  {
+   "title": "Annexure Ii",
+   "page": 26
+  }
+ ]
 }

@@ -1,109 +1,110 @@
 {
-  "id": "competition-commission-reward-payment-informants-regulations-2014",
-  "title": "Competition (Reward Payment to Informants) Regulations, 2014",
-  "number": "S.R.O. 406(I)/2014",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [],
-  "lastAmended": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 406(I)/2014",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 406(I)/2014, May 23, 2014.- In exercise of the powers conferred under section 58 of the Competition Act, 2010 (the \"Act'), the Competition Commission of Pakistan (the 'Commission'), is pleased to make the following Regulations, namely:-",
-  "parts": [
+ "id": "competition-commission-reward-payment-informants-regulations-2014",
+ "title": "Competition (Reward Payment to Informants) Regulations, 2014",
+ "number": "S.R.O. 406(I)/2014",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "enacted": "2014-05-23",
+ "lastAmended": "2021-12-31",
+ "amendedUpToLabel": "Competition Commission of Pakistan PDF as downloaded 23 Nov 2026; no later change recorded to 20 June 2026",
+ "status": "in-force",
+ "source": {
+  "name": "Competition Commission of Pakistan",
+  "url": "https://www.cc.gov.pk"
+ },
+ "sourcePdf": "competition-commission-reward-payment-informants-regulations-2014.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF Competition Commission of Pakistan PDF as downloaded 23 Nov 2026; no later change recorded to 20 June 2026 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These regulations may be called the Competition (Reward Payment to Informants) Regulations, 2014.",
-            "(2) These regulations shall come into force at once.",
-            "(3) These regulations shall apply to persons who furnish information regarding contravention or a possible contravention of section 4 of the Act, except for the employees of the Commission and their dependents thereof."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these regulations, unless there is anything repugnant in the subject or context:",
-            ">(a) \"Act\" means the Competition Act, 2010.",
-            ">(b) \"Commission\" means the Competition Commission of Pakistan established under the Act.",
-            ">(c)",
-            "\"Informant\" means and includes any person providing the Commission with the information regarding the prohibited activity.",
-            ">(d) \"Information\" means and includes material information about the involvement of undertaking in a prohibited activity, which is known by the undertaking's board of Directors, Management, and/or Employees but not by the public and inter alia includes:",
-            ">(i) Minutes of meetings;",
-            ">(ii) Emails and fax transmissions exchanges between the Cartel members and the concerned directors/ employees of the Undertaking;",
-            ">(iii) Voice/video recordings of the meetings held.",
-            ">(e)",
-            "\"Prohibited Activity\" means any of the activities which are prohibited under section 4 of the Act.",
-            "(2)",
-            "(2) The words and expressions used in these regulations, and not defined herein, shall have the meanings respectively assigned to them in the Act or the rules and regulations prescribed under the Act."
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Quantum of Reward",
-          "text": [
-            "The Commission may grant reward ranging from Rs.200,000/-(Rupees Two Hundred Thousand Only) to Rs.2,000,000/- (Rupees Two Million Only), to Informant furnishing the information of the prohibited activity and fulfilling all other requirements under these regulations. 977 VII - 100C"
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Approaching the Commission",
-          "text": [
-            "(1) The Informant may make initial 4. contact witlı the Commission either via phone or otherwise, but without necessarily disclosing of his/ her name, if the Informant is hesitant to reveal his/ her identity at the very start.",
-            "[2. After initial contact, an officer, not less than the rank of Director, shall be designated by the Chairman to liaise with the Informant.",
-            "(3) The officers designated to deal with the Informant shall ensure that (3) any information provided is carefully safeguarded and handled.",
-            "(4) Upon initial assessment of the information provided by the Informant, (4) if the liaison officer finds that the information is likely to assist the Commission, a meeting with the Informant shall be arranged by the liaison officer to seek further details.",
-            "(5) The Informant shall remain available and continuously cooperate with (5) the Commission unless the Commission issues the Order.",
-            "(6) It shall be within the discretion of the Commission not to accept the (6) intended information provided by the Informant, and it shall also be within the discretion of the Commission to grant the financial reward claim, based on the veracity and usefulness of the information supplied under these regulations."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Calculation of Reward",
-          "text": [
-            "(1) The reward payable under these regulations shall be calculated by the Commission, while taking into account any or all of the following:",
-            ">(i) Accuracy, usefulness and effectiveness of the information provided under these regulations;",
-            ">(ii) Efforts made by the Informant and the nature of cooperation extended by the Informant;",
-            ">(iii) The seriousness of the prohibited activity.",
-            "(2) The determination of the Commission regarding the quantum of the (2) reward under these regulations shall be final."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Payment of Reward",
-          "text": [
-            "(1) The payment of reward shall be made in the 6. following two stages:",
-            ">(i) initial payment may be made within thirty (30) days of receipt of complete information and subject to the regulations (5) above after assessing generally the value/materiality of information given; and",
-            ">(ii) The final/remaining payment may be made within sixty (60) days of conclusion of enquiry and issuance of Show Cause Notice.",
-            "(2) In the event, the Commission comes to a conclusion that the information provided is false, fabricated or inaccurate, the Commission may by order direct the Informant to return the amount of reward."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Confidentiality",
-          "text": [
-            "The Commission shall, to the extent that is"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "( 1) These regulationsmay be called the Competition(Reward Payment to Informants) Regulations, 2014.",
+      "(3)These regulationsshall apply to persons who furnish information regarding contraventionor a possible contraventionof section 4 ofthe Act, except for the employees of the Commission and their dependents thereof."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 2,
+     "text": [
+      "( I) In theseregul,ations,unlessthereis anything repugnantin the subjector context:",
+      ">(b)\"Commission\"meanstheCompetitionCommissionof Pakistan establishedunderthe Act.",
+      ">(c)\"Informant\"means and includes any person providingthe Commission with the informationregardingthe prohibitedactivity.",
+      ">(d)\"Information\"meansandincludesmaterialinformationaboutthe involvementof undertakingin a prohibitedactivity,which is known by the undertaking'sboard of Directors,Management,and/orEmployees but not by the publicand inter alia includes:",
+      ">>(ii)Emailsandfax transmissionsexchangesbetweenthe Cartel membersandtheconcerneddirectors/employeesof the Undertaking;",
+      ">(e)\"ProhibitedActivity\"means any of the activitieswhich are prohibited undersection4 of the Act.",
+      "(2)The words and expressionsused in these regulations,and not defined herein,shall have the meaningsrespectivelyassignedto them in the Act or the rules and regulationsprescribedunder the Act."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Quantum",
+     "page": 2,
+     "text": [
+      "of Rewa rd.- The Commissionmay grant rewardranging fromRs.200,000/-(RupeesTwoHundredThousandOnly)to Rs. 2,000,000/(RupeesTwo Million Only), to Infonnantfurnishingthe infonnationof the prohibited activityand fulfillingall other requirementsunder these regulations."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Approaching the Commission",
+     "page": 2,
+     "text": [
+      "( 1) The Informantmay make initial contactwith the Commissioneither via phone or otherwise,but withoutnecessarily disclosingof his/hername,iftheInformantis hesitantto revealhis/heridentityat the verystatio",
+      "(2)After ini~ial contact,an officer, not less than the rank of Director,shall be designatedby the Chairmanto liaise with the Informant.",
+      "PART II]",
+      "(3)The officersdesignatedto deal with the Informantshall ensurethat any informationprovidedis carefullysafeguardedand handled.",
+      "(4)Upon initial assessmentof the informationprovidedby the Informant; if the liaisonofficerfinds that the informationis likely to assist the Commission,a meetingwith the Informantshall be arrangedby the liaisonofficerto seek further details.",
+      "(5)The Informantshall remain availableand continuouslycooperatewith the Commissionunlessthe Commissionissues the Order.",
+      "(6)It shall be withinthe discretionof the Commissionnot to acceptthe intendedinformationprovidedby the Informant,and it shallalsobe withinthe discretionof the Commissionto grantthe financialrewardclaim,basedon the veracityand usefulnessof the informationsuppliedunder these regulations."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Calculation of Reward",
+     "page": 3,
+     "text": [
+      "(I) Therewardpayableunderthese regulationsshall be calculatedby the Commission,while takinginto accountany or all of the following:",
+      ">>(i)Accuracy,usefulnessand effectivenessof the informationprovided undt<r these regulations;",
+      ">>(ii)Effortsmade by the Informantand the nature of cooperationextended by the Informant;",
+      "(2)The determinationof the Commissionregardingthe quantumof the rewardunder theseregulationsshall be final."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Payment ofReward",
+     "page": 3,
+     "text": [
+      "( 1) The paymentof rewardshall be made in the followingtwo stages:",
+      ">>(i)initialpaymentmaybe madewithinthirty(30)daysof receiptof completeinformationand subjectto the regulations(5) aboveafter assessinggenerallythe value/materiality of informationgiven; and",
+      ">>(ii)The final/remainingpaymentmay be made withinsixty (60) days of conclusi'onof enquiryand issuanceof Show CauseNotice.",
+      "(2)In the event, the Comm ission comes to a conclusionthat the information providedis false, fabricatedor inaccurate,the Commissionmay by order direct the Informantto returnthe amountof reward."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Confidentiality",
+     "page": 4,
+     "text": [
+      "The Comm ission shall, to the extent that is consistent with its obligationsto discloseor exchangeinformation,to keep the identityof the Informantsunder these regulationsconfidential.",
+      "NADIANABI, Secretary."
+     ]
     }
-  ],
-  "schedules": [],
-  "frontNotes": [],
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007.",
-  "enacted": "2014-05-23"
+   ]
+  }
+ ]
 }
