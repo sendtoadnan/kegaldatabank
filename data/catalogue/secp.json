@@ -57,7 +57,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "corporate-restructuring-companies-act-2016"
     },
     {
      "title": "Insurance Ordinance, 2000",
@@ -87,7 +88,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "companies-ordinance-1984"
     },
     {
      "title": "Securities and Exchange Ordinance, 1969",
@@ -98,7 +100,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "securities-and-exchange-ordinance-1969"
     }
    ]
   },
@@ -120,7 +123,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "llp-regulations-2018"
     },
     {
      "title": "Corporate Restructuring Companies Rules, 2019",
@@ -131,7 +135,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "corporate-restructuring-companies-rules-2019"
     },
     {
      "title": "Companies (Issue of Capital) Rules, 1996",
@@ -164,7 +169,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "public-offering-regulated-securities-licensing-regulations-2017"
     },
     {
      "title": "Securities Brokers (Licensing and Operations) Regulations, 2016",
@@ -174,7 +180,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "securities-brokers-licensing-operations-regulations-2016"
     },
     {
      "title": "Securities Exchanges (Licensing and Operations) Regulations, 2016",
@@ -184,7 +191,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "securities-exchanges-licensing-operations-regulations-2016"
     },
     {
      "title": "Central Depositories (Licensing and Operations) Regulations, 2016",
@@ -212,7 +220,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "clearing-houses-licensing-operations-regulations-2016"
     },
     {
      "title": "Clearing Houses (Registration and Regulation) Rules, 2005",
@@ -231,7 +240,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "securities-futures-advisers-regulations-2017"
     },
     {
      "title": "Research Analyst Regulations, 2015",
@@ -240,7 +250,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "research-analyst-regulations-2015"
     },
     {
      "title": "Credit Rating Companies Regulations, 2016",
@@ -250,7 +261,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "credit-rating-companies-regulations-2016"
     },
     {
      "title": "Debt Securities Trustees Regulations, 2017",
@@ -265,7 +277,8 @@
      "url": "https://www.secp.gov.pk/document/sro-16i2017-share-registrars-and-balloters-regulations-2017/",
      "number": "S.R.O. 16(I)/2017",
      "register": "companies-act-2017",
-     "saved": true
+     "saved": true,
+     "library": "share-registrars-balloters-regulations-2017"
     },
     {
      "title": "Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017",
@@ -275,7 +288,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "listed-companies-takeovers-regulations-2017"
     },
     {
      "title": "Reporting and Disclosure (of Shareholding by Directors, Executive Officers and Substantial Shareholders in Listed Companies) Regulations, 2015",
@@ -284,7 +298,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "reporting-disclosure-regulations-2015"
     },
     {
      "title": "Securities (Leveraged Markets and Pledging) Rules, 2011",
@@ -293,7 +308,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "leveraged-markets-pledging-rules-2011"
     },
     {
      "title": "Valuers (Registration and Governance) Regulations, 2016",
@@ -314,7 +330,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "centralized-kyc-organization-rules-2017"
     }
    ]
   },
@@ -330,7 +347,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "futures-exchanges-regulations-2017"
     },
     {
      "title": "Futures Brokers (Licensing and Operations) Regulations, 2018",
@@ -340,7 +358,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "futures-brokers-regulations-2018"
     },
     {
      "title": "Commodity Exchange and Futures Contracts Rules, 2005",
@@ -350,7 +369,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "commodity-exchange-futures-contracts-rules-2005"
     }
    ]
   },
@@ -374,7 +394,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "nbfc-notified-entities-regulations-2008"
     },
     {
      "title": "Private Funds Regulations, 2015",
@@ -383,7 +404,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "private-funds-regulations-2015"
     },
     {
      "title": "Real Estate Investment Trust Regulations, 2022",
@@ -392,7 +414,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "reit-regulations-2022"
     },
     {
      "title": "Voluntary Pension System Rules, 2005",
@@ -402,7 +425,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "voluntary-pension-system-rules-2005"
     },
     {
      "title": "Unit Linked Product and Fund Rules, 2015",
@@ -411,7 +435,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "unit-linked-products-fund-rules-2015"
     },
     {
      "title": "Modaraba Companies and Modaraba Rules, 1981",
@@ -422,7 +447,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "modaraba-companies-rules-1981"
     },
     {
      "title": "Modaraba Regulations, 2021",
@@ -432,7 +458,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "modaraba-regulations-2021"
     }
    ]
   },
@@ -459,7 +486,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "insurance-accounting-regulations-2017"
     },
     {
      "title": "General Takaful Accounting Regulations",
@@ -468,7 +496,8 @@
      "found": {
       "date": "2026-11-01",
       "how": "search-index"
-     }
+     },
+     "library": "general-takaful-accounting-regulations-2019"
     }
    ]
   },

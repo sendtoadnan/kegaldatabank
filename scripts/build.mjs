@@ -107,6 +107,7 @@ ${body}
 </footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="${base}assets/app.js" defer></script>
+<a class="fab-top" href="#" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'});return false">↑</a>
 </body>
 </html>
 `;
@@ -136,7 +137,8 @@ ${body}
   const actRow = (act, base) => {
     const count = provisionCount(act);
     const size = act.pdfOnly ? 'Official PDF' : `${count} ${act.unit.toLowerCase()}${count === 1 ? '' : 's'}`;
-    const upto = act.amendedUpToLabel ? ` · to ${e(act.amendedUpToLabel.replace(/\s*\(.*\)$/, ''))}` : '';
+    const lbl = act.amendedUpToLabel ? act.amendedUpToLabel.replace(/\s*\(.*\)$/, '') : '';
+    const upto = /^(\d|(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]* \d)/i.test(lbl) && lbl.length < 30 ? ` · to ${e(lbl)}` : '';
     return `
       <li class="act-row">
         <a href="${base}acts/${act.id}/index.html">
@@ -158,26 +160,66 @@ ${body}
   // ---------- home ----------
   {
     const base = '';
-    const cats = catalog.categories
-      .map((c) => {
-        const list = acts.filter((a) => a.categories.includes(c.id));
-        const principal = list.filter((a) => !a.parent);
-        const rows = principal
-          .map((a) => actRow(a, base) + children(a.id).filter((k) => list.includes(k)).map((k) => actRow(k, base).replace('class="act-row"', 'class="act-row child"')).join(''))
-          .join('');
-        const orphans = list.filter((a) => a.parent && !list.includes(byId.get(a.parent))).map((a) => actRow(a, base)).join('');
+    const verifiedCount = acts.filter((a) => a.verification.status === 'verified').length;
+    const catData = catalog.categories.map((c) => {
+      const list = acts.filter((a) => a.categories.includes(c.id));
+      const principal = list.filter((a) => !a.parent || !list.includes(byId.get(a.parent)));
+      return { c, list, principal };
+    });
+    // Practice-area cards: one tile per area with a count and its first few principal instruments.
+    const cards = catData
+      .map(
+        ({ c, list, principal }) => `
+      <a class="area-card" href="#cat-${c.id}">
+        <span class="area-count">${list.length}</span>
+        <span class="area-name">${e(c.name)}</span>
+        <span class="area-desc">${e(c.description)}</span>
+        <span class="area-eg">${principal.slice(0, 3).map((a) => e(a.title.replace(/,?\s*\d{4}$/, ''))).join(' · ')}</span>
+      </a>`
+      )
+      .join('');
+    const groupsAll = JSON.parse(fs.readFileSync(path.join(dataDir || path.join(ROOT, 'data'), 'contents-groups.json'), 'utf8')).groups;
+    const rowFor = (a, list) => {
+      const kids = children(a.id).filter((k) => list.includes(k));
+      const head = actRow(a, base);
+      if (!kids.length) return head;
+      return `${head}
+      <li class="act-kids"><details><summary>${kids.length} rule${kids.length === 1 ? '' : 's'} and regulations made under it</summary><ul class="act-list">${kids
+        .map((k) => actRow(k, base).replace('class="act-row"', 'class="act-row child"'))
+        .join('')}</ul></details></li>`;
+    };
+    const cats = catData
+      .map(({ c, list, principal }) => {
+        let inner;
+        if (list.length > 25) {
+          // A large area is split by our own subject groups (contents-groups.json) so it reads as short lists.
+          const used = new Set();
+          inner = groupsAll
+            .map((g) => {
+              const items = g.items.map((id) => byId.get(id)).filter((a) => a && principal.includes(a) && !used.has(a.id));
+              items.forEach((a) => used.add(a.id));
+              if (!items.length) return '';
+              const n = items.reduce((t, a) => t + 1 + children(a.id).filter((k) => list.includes(k)).length, 0);
+              return `<h3 class="sub-label">${e(g.name)} <span class="count">${n}</span></h3><ul class="act-list">${items.map((a) => rowFor(a, list)).join('')}</ul>`;
+            })
+            .join('');
+          const rest = principal.filter((a) => !used.has(a.id));
+          if (rest.length) inner += `<h3 class="sub-label">Other</h3><ul class="act-list">${rest.map((a) => rowFor(a, list)).join('')}</ul>`;
+        } else {
+          inner = `<ul class="act-list">${principal.map((a) => rowFor(a, list)).join('')}</ul>`;
+        }
         return `
     <section class="category" id="cat-${c.id}">
-      <h2>${e(c.name)} <span class="count">${list.length}</span></h2>
+      <h2>${e(c.name)} <span class="count">${list.length}</span> <a class="to-top" href="#top">Top ↑</a></h2>
       <p class="muted">${e(c.description)}</p>
-      <ul class="act-list">${rows}${orphans || ''}</ul>
+      ${inner}
     </section>`;
       })
       .join('');
 
     const total = acts.reduce((n, a) => n + provisionCount(a), 0);
     const body = `
-  <section class="hero">
+  <section class="hero" id="top">
     <h1>${e(site.name)}</h1>
     <p class="lede">${e(site.tagline)}</p>
     <form class="searchbar" action="search.html" method="get" role="search">
@@ -186,11 +228,18 @@ ${body}
       <button type="submit">Search</button>
     </form>
     <p class="hint">Try <a href="search.html?q=withholding%20tax">withholding tax</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=related%20party">related party</a> or <a href="search.html?q=KYC">KYC</a> · <a href="search-guide.html">Search guide</a></p>
-    <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
-    <p class="stats small"><a href="contents.html">Index of every law, rule and regulation, by subject</a> · <a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
+    <ul class="stat-tiles">
+      <li><strong>${acts.length}</strong><span>laws, rules and regulations</span></li>
+      <li><strong>${total.toLocaleString('en')}</strong><span>provisions</span></li>
+      <li><strong>${catalog.categories.length}</strong><span>practice areas</span></li>
+      <li><a href="about.html#verification"><strong>${verifiedCount}</strong><span>converted from the regulator's own PDF (editor-declared)</span></a></li>
+    </ul>
+    <p class="stats small"><a href="contents.html">Index by subject</a> · <a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a></p>
   </section>
   <div id="shelf-preview"></div>
-  <nav class="chips" aria-label="Practice areas">
+  <h2 class="section-label">Browse by practice area</h2>
+  <div class="area-grid">${cards}</div>
+  <nav class="chips sticky-chips" aria-label="Practice areas">
     ${catalog.categories.map((c) => `<a class="chip" href="#cat-${c.id}">${e(c.name)}</a>`).join('')}
   </nav>
   ${cats}`;
@@ -798,7 +847,7 @@ ${body}
       <li>Search and every instrument you have opened keep working offline. The site can be installed on a phone or desktop from the browser menu.</li>
     </ul>
     <h2>Verification</h2>
-    <p id="verification">Every instrument carries a verification status. <span class="badge ok">Verified</span> means an editor has checked the text against the named official source on the stated date. <span class="badge warn">Unverified</span> text has not yet been checked and should not be quoted without confirming it.</p>
+    <p id="verification">Every instrument carries a verification status. <span class="badge ok">Verified</span> means the editor has accepted the text against the named official source on the stated date. Most instruments are marked verified because the text was converted directly from the regulator\'s own PDF, which the editor declared reliable; that is not a line-by-line proofread, so quote a provision only after opening its <em>PDF p.</em> link. <span class="badge warn">Unverified</span> text has not yet been checked and should not be quoted without confirming it.</p>
     <h2>Search by meaning (AI)</h2>
     <p>Search can also find sections by meaning, using an open-source model (BGE small, MIT licence) that runs on your own device. There is no account or usage limit, and what you type is not sent anywhere. The model downloads once from public hosts (Hugging Face and jsDelivr). It only ranks sections: it writes no text, and it can miss sections, so check the law itself.</p>
     <h2>Disclaimer</h2>
