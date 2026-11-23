@@ -2844,17 +2844,17 @@
    "Futures Brokers Regulations"
   ],
   "enacted": "2018-09-25",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 1164(I)/2018",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
+  "amendedUpTo": "2025-12-12",
+  "amendedUpToLabel": "SECP consolidated PDF (file name says Dec 2023; text incorporates S.R.O. 2445(I)/2025 of 12 December 2025)",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "file": "futures-brokers-regulations-2018.pdf"
  },
  {
   "id": "joint-inspection-regulations-2015",
