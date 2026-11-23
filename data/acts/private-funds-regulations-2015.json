@@ -1,534 +1,491 @@
 {
-  "id": "private-funds-regulations-2015",
-  "title": "Private Funds Regulations, 2015",
-  "number": "S.R.O. 1159(I)/2015",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Private Funds Regulations"
-  ],
-  "enacted": "2015-11-25",
-  "lastAmended": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 1159(I)/2015",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 1159(I)/2015 dated November 25, 2015.- In exercise of powers conferred by sub-section (2) of section 282B of the Companies Ordinance, 1984 (XLVII of 1984), Securities and Exchange Commission of Pakistan hereby notifies the following Private Fund Regulations, 2015 for the regulation of Private Equity and Venture Capital Fund Management Services and the registration and regulation of the Private Funds and for matters connected therewith and incidental thereto. Private Funds Regulations, 2015 Chapter I Preliminary",
-  "parts": [
+ "id": "private-funds-regulations-2015",
+ "title": "Private Funds Regulations, 2015",
+ "number": "S.R.O. 1159(I)/2015",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Private Funds Regulations"
+ ],
+ "enacted": "2015-11-25",
+ "lastAmended": "2021-12-31",
+ "amendedUpToLabel": "SECP PDF as downloaded 23 Nov 2026; no later amendment recorded to 20 June 2026",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "private-funds-regulations-2015.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF SECP PDF as downloaded 23 Nov 2026; no later amendment recorded to 20 June 2026 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These Regulations shall be called the Private Funds Regulations, 2015.",
-            "(2) They shall come into force at once."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these Regulations, unless the context otherwise requires:-",
-            "i. \"Alternative Fund\" means a Private Fund which invests in portfolio of securities and other financial assets other than a Private Equity and",
-            "Venture Capital Fund.",
-            "il. \"Constitutive Documents\" means the Trust deed, placement memorandum and other principal documents governing the format ion of a Private Fund established by a Private Fund Management Company including all related material agreements;",
-            "[iii. \"Eligible Investor\" means a person who has net assets of at least Rs.15 million excluding the value of personal residence and who furnishes a declaration to the Private Fund Management Company that he understands the risks of investment in a Private Fund;]",
-            "iv. \"Form\" means any of the forms annexed to these Regulations;",
-            "v. \"Investment Policy Statement\" means a statement obtained from the investor which at least covers the in formation regarding investor knowledge, qualification, risk appetite and investment objective;",
-            "vi. \"Private Fund Management Company\" means Company licensed by the Commission to provide Private Equity & Venture Capital Fund management services under NBFC Rules, 2003;",
-            "vii. \"NA V of a Unit\" means the Net Assets of a Private Fund divided by the number of Units outstanding, at any given date; viii. \"Net Assets\" means the difference between the value of the assets and",
-            "liabilities of a Private Fund established by the Private Fund Management Company, on any given dale, and computed in the manner specified in the Placement Memorandum;",
-            "ix. \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
-            "x. \"Private Fund\" means an arrangement which has the purpose of pooling funds from one or more Eligible Investors for investment in a portfolio of securities or other financial assets for profit, income or other returns and where participants of the funds, neither have day to day control over the management of fund property, nor the right to give directions in respects of such management and which is established and operated by the Private Fund Management Company:",
-            "Provided that for the purpose of these regulations following shall not classify as a Private Fund:",
-            "a. collective investment schemes regulated under the Non-Banking Finance Companies and Notified Entities Regulations, 2008;",
-            "b. employee welfare trusts or gratuity trusts or employees provident fund or employees pension fund setup for the benefit of employees by companies; and",
-            "C. any such pool of funds which is separately regulated by the Commission or which is already established under any other specific law.",
-            "xi. \"Placement Memorandum\" means a document, issued by the Private Fund Management Company describing the details of a Private Fund Fund Management Company describing the details of a Private Fund and giving an offer for subscription by Eligible Investors only;",
-            "xii. \"Private Equity & Venture Capital Fund Management Services\" means services provided for management of Private Funds; [xiii. \"Private Equity and Venture Capital Fund\" means a Private Fund established in a closed-end structure for investment mainly in securities or financial assets other than derivatives of an unlisted company or for turning around a listed company or listed and unlisted SME or an unlisted company engaged in business of investing in developing a new product or process or expansion of business:",
-            "Provided that a Private Equity and Venture Capital Fund may invest in units of other Private Equity and Venture Capital Fund.]",
-            "xiv. \"Private Placement\" means the offer for sale of Units of a Private Fund offered to Eligible Investors by the Private Fund Management Company only through a Placement Memorandum, without without any public advertisement;",
-            "xv. \"Register\" means the Register for the purpose of recording the details of the Units held by each Unit Holder of the Private Fund;",
-            "xvi. \"Regulations\" means Private Funds Regulations, 2015 and includes Forms and Schedules annexed hereto;",
-            "xvii. \"Rules\" mean the Non-Banking Finance Companies (Establishment and",
-            "Regulation) Rules, 2003;",
-            "XV111. \"Schedule\" means the Schedule annexed to these Regulations;",
-            "xix. \"Trust Deed\" means the deed executed between the Private Fund Management Company and the Trustee in respect of a Private Fund;",
-            "[xx. \"Trustee\" means a person appointed as trustee or custodian as the case may be in respect of a Private Fund established in accordance with these Regulations;]",
-            "xxi. \"Units\" mean the instrument of ownership of the Private Fund signifying the beneficial interest of the Unit Holders in that Private Fund;",
-            "xxii. \"Unit Holder\" means the Eligible Investor who owns one or more units of a Private Fund and whose name appears in the Register.",
-            "Words and expression used but not defined in these Regulations shall have the same meaning, unless contrary to the context, as assigned to them in the Ordinance, Rules and the Securities Act 2015 and the Rules and Regulations made there under.",
-            "Chapter II 3. [Prohibition to engage in business of Private Equity and"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Venture Capital Fund Management Services without registration",
-          "text": [
-            "(1) No person shall establish, launch, or operate any business in the form of or in the nature Private Fund un less it is registered under these Regulations.]",
-            "(2) A fund in existence at the time of coming into force of these Regulations which falls within the definition of a Private Fund but is not registered with Commission shall, within a period of one year of coming into force of these Regulations, make an application for registration under these Regulations and the Commission, if it is satisfied, may register such fund without payment of a registration fee failing which they shall immediately cease to engage into this form of business."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Conditions for Launch of Private Fund",
-          "text": [
-            "A Private Fund shall be established and launched by the Private Fund Management Company duly licensed by the Commission for managing Private Funds subject to the following conditions;",
-            "[i. It is established as a trust under the Trust Act, 1882 (II of 1882), or as company under Companies, Act 2017, or as limited liability partnership under Limited Liability Partnership Act 2017 or any other legal structure as approved by the Commission;]",
-            "il. It is offered for subscription by Eligible Investors only;",
-            "iii. It is registered with the Commission as a Notified Entity prior to its launch;",
-            "iv. Its Units are not listed on any Exchange; and",
-            "V. Private Fund Management Company or Private Fund, as the case may be, shall comply with such other condition as may be imposed by the Commission from time to time."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Procedure for Registration: (1)",
-          "text": [
-            "No units of a Private Fund shall be offered for investment by Eligible Investors un less such fund is registered as a Notified Entity with the Commission.",
-            "[(2) Private Fund Management Company shall submit the draft Trust Deed along with the name and consent of the trustee of the proposed Private Fund in accordance with Schedule II or draft Memorandum of Association or draft Limited Liability Partnership Agreement alongwith custodian agreement for approval of the Commission as per schedule III.;]",
-            "[(3) Upon securing in-principle approval of the Commission, the Private Fund Management Company shall execute and seek registration of the Trust Deed in accordance with the provisions of the Trust Act, 1882 (II of 1882) or incorporate Company in accordance with Companies Act, 2017 or register limited liability partnership in accordance with Limited Liability Partnership Act, 2017 as the case may be.;]",
-            "(4) The Private Fund Management Company shall seek approval of the Commission for registration of a Private Fund as a Notified Entity by submitting an application as per Form I along with fee as specified in Schedule I.",
-            "(5) The Commission on being satisfied that the Private Fund is eligible for registration may register the Private Fund as a Notified Entity on such terms and conditions as it deems appropriate.",
-            "(6) After the registration of private fund as a notified entity by the Commission, the Private Fund Management Company shall offer the Private Fund for investment by Eligible Investors upon issuance of a Placement Memorandum.",
-            "(7) A copy of the Placement Memorandum seeking subscription by Eligible Investors shall be submitted to the Commission fifteen (15) days prior to launch of a Private Fund."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Appointment and Role of Trustee",
-          "text": [
-            "(1) The Private Fund Management Company shall appoint an independent Trustee which is registered with the Commission as a Trustee for Collective Investment Schemes under the NonBanking Finance Companies and Notified Entities Regulations, 2008.",
-            "Explanation: For the purposes of sub-Regulation (I), the test of independence principally emanates from the fact whether the trustee can reasonably be perceived as being able to exercise independent business judgment without being subservient to any form of conflict of interest."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Obligations of the Trustee",
-          "text": [
-            "The Trustee shall:",
-            "[i. take under its control all the property of the Private Fund and hold it for the Unit Holders in accordance with the Rules, Regulations and the provisions of the Constitutive Documents. Any cash and registerable assets shall be registered in the name of, or to the order of, the trustee in case of trust;]",
-            "ii. ensure that the sale, purchase, issue and transfer of Units effected by a Private Fund are carried out in accordance with the provisions of the Constitutive Documents;",
-            "iii. carry out the instructions of the Private Fund Management Company, in respect of investments unless these are in conflict with the provisions of these Regulations or the Constitutive Documents;",
-            "iv. issue a report to be included in the annual report of the Private Fund and therein state whether, in its opinion, the Private Fund opinion, Management Company has in all material respects managed the Private Fund in accordance with the provisions of the Constitutive Documents, the Rules and these Regulations, and if the Private Fund Management Company has not done so, the respects in which it has not done so and the steps that the trustee has taken in respect thereof;",
-            "V. not legally or beneficially own or invest in the Units of the Private Fund;",
-            "vi. obtain and maintain duplicate of all the records of register of Unit Holders maintained by the Private Fund Management Company or the Registrar and shall update the record on a regular basis;",
-            "vii. be liable for any loss caused due to its willful acts or omissions or that of its agents in relation to custody of assets or investment forming part of the property of Private Fund; and",
-            "viii. comply with any directions of the.Commission given in the interest of the Unit Holders."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Role of Private Fund Management Company",
-          "text": [
-            "The Private Fund Management Company shall:",
-            "[i. have at least minimum equity of rupees ten (10) million:",
-            "Provided that this shall not be applicable to an NBFC having valid investment advisory licence and complying with the minimum equity requirements required for investment advisory licence.]",
-            "ii. be obliged to manage the assets of a Private Fund in the interest of Unit Holders in good faith and to the best of its ability and without gaining undue advantage for itself or any of its related parties including connected persons and group companies or its officers; [(iia) before offering a private fund to an eligible investor shall asses or take into consideration the financial sector experience, risk tolerance and net worth of eligible investor as per Schedule VI; [(iii) prepare and fill the Investment Policy Statement in consultation with the eligible investor as per Schedule VI;]",
-            "Iv. account to the trustee for any loss in value of the Private Fund where such loss has been caused by its negligence, reckless or willful act or",
-            "omission;",
-            "V. be responsible [or the acts and omission of all persons to whom it may delegate any of its functions as Private Fund Management Company as if they were its own acts and omissions and shall also comply with the requirements for delegation of functions prescribed by the Commission through Circular No: 24 of 20 13 dated December 06, 2013 as amended from time to time;",
-            "vi. ensure that investment decisions are consistent with the objectives and",
-            "investment policy of the Private Fund as contained in the constitutive documents;",
-            "vii. ensure that investments do not deviate from the Constitutive Documents, Regulations or directions of the Commission;",
-            "viii. develop and follow internal investment restrictions and polices;",
-            "ix. review the performance of the Private Fund on regular and timely basis;",
-            "x. ensure that proper record of investment decisions is maintained;",
-            "xi. manage the Private Funds according to its Constitutive Documents, the rules, regulations, circular or directives issued by the Commission;",
-            "xii establish and maintain sufficient risk management system and",
-            "controls to enable it to identify, assess, mitigate, control and monitor risk in the best interest of the unit holders;",
-            "xiii. formulate and implement Board's approved internal control policies and procedures ensuring:",
-            "a. appropriate segregation of duties and in formation barriers between the trading, risk management and processing functions, commonly referred to as the front, middle and back offices;",
-            "b. segregation between trading, research, and corporate finance functions;",
-            "C. establish 'Chinese Walls' along with implementation of policies and physical apparatus designed to prevent the improper or",
-            "unintended dissemination of market sensitive information from one division of a multi-service firm to another division;",
-            "d. establish polices and procedure, reasonable under the reasonable circumstances, to ensure that individuals making investment decisions for the Private Fund Management Company are not trading on the basis of material nonpublic information obtained from another area of the Private Fund Management Company;",
-            "e. establish policies and procedures for managing, minimization and",
-            "disclosure of conflict of interest.",
-            "xiv. formulate a Board approved risk management policy for identifying, measuring and managing the risks of the investments, including the sources, nature and degree of such risks and shall also make compliance manuals;",
-            "XV. identify and assign a unit, department or personnel for carrying out risk management function which shall be, hierarchically and",
-            "functionally, independent of the operating units and shall be responsible for the identification, monitoring I measurement and",
-            "proper management of all risks;",
-            "xvi. only undertake sale and purchase transactions between Private Funds under its management or with client of the Private Fund Management company (cross trades) where the-",
-            "a. sale and purchase decisions are in the best interest of both clients/Private Funds;",
-            "b. transactions are executed on an arm's length and fair value basis;",
-            "C. reasons for such transactions are documented prior to execution;",
-            "and",
-            "d. activities are identified to both clientsl Private Funds in their respective periodic transaction reports or statements.",
-            "xvii. disclose at least the following information on half yearly basis to the 2 investor;",
-            "a) Detail : and composition of portfolio including value and",
-            "description of the portfolio, value of each security held in the portfolio and cash balances as on the date of report;",
-            "b) Details of expense charged and expense ratio including management fee, trustee fee, format ion cost, auditor fee, brokerage commission, bank charges, other charges etc.; as per the constitutive documents;",
-            "c) Details of benefit received during that period including interest, dividend, bonus units; and",
-            "d) Performance review.",
-            "xviii. shall maintain at its registered office, proper books and records of accounts and activities undertaken in connection with the Private Fund in order to enable a true and fair view to be formed of the:",
-            "a) assets and liabilities of the Private Fund;",
-            "b) the profit and loss accruing out of the operation of the Private Fund;",
-            "c) transactions undertaken with respect to the Private Fund;",
-            "d) amounts received in respect of issue of Units; and",
-            "e) payouts, if any, by way of distributions to the Holders.",
-            "xix. maintain the books of accounts and other records of the Private Fund at least for ten (10) years;",
-            "XX. within four (1[4]) months of close of the financial year of the Private Fund, prepare as per the approved applicable International Accounting Standards and International Financial Reporting Standards, and",
-            "transmit to the unit holders and the Commission, with respect to the Private Fund:",
-            "a) the balance sheet stating details of investments depicting cost and realizable value of such investments;",
-            "b) profit and loss statement;",
-            "c) cash flow statement; and",
-            "d) statement of movement in NAV per Unit of the private fund.",
-            "xxi. maintain register of unit holders as part of the records and exercise due diligence and take reasonable care to ensure that the register is accurate, complete and up-to-date and ensure that persons recorded in the register are eligible investors;",
-            "xxii. appoint external auditor of the Private Fund who shall be a Chartered Accountant and has received satisfactory rating under the Quality Acntunt aRevind ( (e)e iPedgrati actorytisti uteer the graliey Control Review (QCR) Program of the Institute of Chartered Accountants of Pakistan and the appointed auditor shall give the report on annual accounts of the Private Fund containing the following;",
-            "a. Whether in the auditor's opinion the accounts prepared for that period have been properly prepared in accordance with the relevant provisions of the Regulations;",
-            "b. Statement to the effect that the auditor has conducted audit of the Private Fund in accordance with the international standards on auditing as applicable in Pakistan;",
-            "C. Without prejudice to the foregoing, whether in the auditor's opinion, a true and fair view is given of the disposition of Private Fund at the end of the period and of the transactions of the Private Fund of the period;",
-            "d. if the auditor is of the opinion that proper books and records have not been kept by the Private Fund or the accounts prepared arc not in agreement with the books and records of the Private Fund, that fact; and",
-            "e. if the auditor has failed to obtain all the information and",
-            "explanations which, to the best of his knowledge and belief, are necessary for the purpose of the audit, that fact.",
-            "xxiii. ensure prevention of money laundering and terrorist financing and",
-            "abide by such laws directives and circulars-issued by the Federal Government and Commission regarding know your customer requirements and to safe guard against the involvement in money laundering and terrorist financing."
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Private Funds Regulations, 2015",
+      "(2) They shall come into force at once."
+     ]
     },
     {
-      "heading": "Chapter III",
-      "sections": [
-        {
-          "no": "9",
-          "title": "Minimum investment ill a Private Fund",
-          "text": [
-            "The Private Fund Management Company may raise money for investment in a Private Fund from an Eligible Investor through issue of Units subject to the following condition s:",
-            "[(i) the Private Fund Management Company shall accept offer for subscription to the units of Private Fund from eligible investor only;]",
-            "ii. copy of the Placement Memorandum has been furnished to the prospective investor and acknowledgment that the investor has read and understood the documents is received in writing;",
-            "iii. obtained the declaration as specified in Schedule V from Eligible Investor; and",
-            "[(iv) total number of Eligible Investors in a Private Fund does not exceed fifty or number as defined in Private Placement of Securities Rules, 2017:",
-            "Provided that the above restriction shall not apply to investor as Qualified Institutional Buyer.]"
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Private Fund Size",
-          "text": [
-            "(1) The Private Fund Management Company shall appropriately take into account the following aspects for determining the maximum size of a Private Fund under its management:",
-            "a) The resources, expertise and overall capacity of the Private Fund Management Company to carry out its duties in accordance with the acceptable and efficacious business practices, Regulations and",
-            "Constitutive Documents of the Private Fund; and",
-            "b) The investment objective, financial situation and particular needs of the investors of the Private Fund.",
-            "(2) The Private Fund Management Company may increase the size of the fund, subject to the enabling provision to this effect in the placement memorandum which shall also provide for circumstances and mechanism for increase in the size of fund:"
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Investment conditions and restrictions",
-          "text": [
-            "(1) The Private Fund Management Company on behalf of Private Fund shall;",
-            "i. only invest in securities, portfolio of securities with in Pakistan or any other financial asset as approved by the Commission. Provided that the Private Fund may make foreign investments subject to compliance with all the regulatory requirements with respect to foreign investments;",
-            "ii. make investments which are in conformity with its investment • strategy as disclosed in the Placement Memorandum;",
-            "iii. change the fundamental attributes including investment objective, policy and structure of tile private fund only upon approval of seventy policy and structure of tile private fund only upon approval of seventy five (75%) percent or more unit holders, in terms of value of the Private Fund and submit the updated Placement Memorandum to Commission and trustee within fifteen days of such change;",
-            "iv. invest with its connected person or connected person of the Trustee only if adequate disclosure to this effect is given in the Placement Memorandum and provided that such transact ion is done on an arm's length basis; and",
-            "V. identify and disclose in sufficient details any limitations and risks that a particular investment strategy poses.",
-            "(2) Where the Private Fund Management Company on behalf of Alternative Fund intends to use derivatives, details of their use must be properly and completely disclosed in the Placement Memorandum of the Alternative Fund. The Private Fund Management Company shall possess necessary expertise for the use of derivative instruments, which at the minimum include the following:",
-            "i. Understanding the different implications of derivative positions on the overall investment strategy; and",
-            "ii. Ensuring the derivative positions are fairly priced on a consistent basis while bearing in mind the market liquidity of such positions.",
-            "[(3) Where a Private Fund utilizes or proposes to utilize borrowing, the Private Fund Management Company shall ensure,-",
-            ">(i) that it has necessary expertise in managing Private Fund employing borrowing strategies including understanding the impact of borrowing on the overall risk of a portfolio and having the ability to monitor the use of borrowing;",
-            ">(ii) has clearly disclosed in the Placement Memorandum of the Private Fund, at the minimum, the following-",
-            ">(a) The borrowing parameter for the Private Fund (including the maximum amount of borrowing, duration, and whether secured or",
-            "unsecured), the basis of borrowing and risks involved;",
-            ">(b) That the liability of the unit holder is limited to their investments in the fund;",
-            ">(iii) it has borrowed only from a financial institution/companies;",
-            ">(iv) that short term borrowing by a Private Equity and Venture Capital Fund shall not exceed fifteen percent (15%) of the size of that Private Equity and Venture Capital Fund; and",
-            ">(v) that any long term borrowing by a Private Equity and Venture Capital Fund shall only be repayable on the date of maturity of that Private Equity and Venture Capital Fund or shall only be obtained against an instrument convertible into equity.]",
-            "(4) Private Fund Management Company shall inform the trustee and the Commission about any breach of the investment conditions and restrictions along with the reasons for the breach, and the proposed steps for rectification and shall rectify the breach within such period as may be specified in the Placement Memorandum.",
-            "[(5) A Private Fund Management Company may make investment in private funds manteged by it out ofits surplus equity (iemover and above the required minimum equity requirements).",
-            "(6) A Private Fund can be sub-categorized as Private Equity and Venture Capital Fund, Venture Capital Fund, Angel Fund, Small and Medium Enterprise Fund, Infrastructure Fund, Impact Fund, Hedge Fund etc.",
-            "(7) A Private Fund can be categorized into any sub-category subject to investment of at least seventy percentage of its net assets in eligible investment of that that sub-category investment.]",
-            "Chapter IV Placement Memorandum and Valuation"
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Contents of the Placement Memorandum",
-          "text": [
-            "The Placement Memorandum shall at minimum cover the information specified below in addition to requirements given in Schedule IV.",
-            "i. Purpose and Investment Objective of the fund: The investment policy and objectives of the fund including investment sty le, benchmark 1lif any], strategy and distinctive features.",
-            "ii. Risk Disclosure Statements:",
-            "a. Specific risks that accompany the investment portfolio and",
-            "investment strategy of the fund;",
-            "b. Statement to the effect that in the event:",
-            ">(i) some of the underlying investments of the Private Fund are not actively traded, the Unit Holders may face difficulties in redeeming their investments; and",
-            ">(ii) Of any variation in key underlying assumptions what will be the quantifiable impact on the NAY. Such impacts on the portfolio should cover sensitivity and worst case scenario analysis. analysis.",
-            "iii. Income Distribution Policy: Policy on distribution of investment returns and the sources of such returns.",
-            "iv. Borrowing: where borrowing is used, the calculation of the maximum amount of intended borrowing and assessment of the impact of such borrowing on the overall risk of the fund along with source of the borrowing.",
-            "V. Management fee payable to the Private Fund Management Company.-",
-            "(1) the professional or performance fee levied by the Private Fund Management Company should be commensurate with the degree of investment strategies and techniques employed by the Private Fund Management Company to achieve the stated investment objective.",
-            "(2) The calculation methodology of the fee and charges must be clearly disclosed in the Placement Memorandum.",
-            "vi. Fee payable to Trustee.- The fee which the trustee is entitled to as may be agreed between the Private Fund Management Company and the trustee and shall be chargeable to the Private Fund as an expense.",
-            "vii. Statement of Disclaimer: The following responsibility statement and",
-            "statement of disclaimer shall be displayed in the inside cover/ first page of the Placement Memorandum:",
-            "\"This Placement Memorandum has been prepared and approved by the Directors of the Private Fund Management Company and they collectively and individually accept full responsibility for the accuracy of all information contained herein and confirm having made all inquiries which are reasonable in the circumstances, that to the best of their knowledge and belief, there are no other facts omitted which would make any statement herein misleading.\"",
-            "\"The Securities and Exchange Commission of Pakistan has registered the Fund as a notified entity, and that the registration o/the Private Fund shall not be taken that the Securities and Exchange Commission of Pakistan recommends the investments or takes any responsibility of what so ever nature with respect to ill vestments.\"",
-            "viii. Investment Warning: The following Investment Warning must be placed in a prominent position in the Placement Memorandum;",
-            "\"This find has been established in Pakistan as a private find. It is only open for investments by eligible investors who fail within the definition of \"eligible investor\" within the meaning of Regulation 2(I)(iii) of Private Fund Regulations, 2015.",
-            "This find is only suitable for professional or experienced investors.",
-            "Regulatory requirements, which may be seen as necessary for the protection of retail investors or those who are not eligible investors, do not apply to private funds.",
-            "By declaring that you have received this warning and understood and",
-            "accepted its terms you are expressly agreeing that you are an eligible investor within the meaning of Regulation 2(1)(iii) of Private Fund Regulations, 2015. You are also expressly agreeing that you accept the risks ill the investment accordingly.",
-            "[ix. Name and details of auditor of the Fund.]"
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Private Fund valuation and pricing",
-          "text": [
-            "The Private Fund Management Company shall ensure that;",
-            ">(i) the valuation methodology is documented and disclosed in the Placement Memorandum specifying how the portfolio valued and units priced;",
-            ">(ii) the investment' of the Private Fund is fairly valued on a regular basis and the frequency of such valuation shall be clearly disclosed in the Placement Memorandum;",
-            ">(iii) the fund is valued at least once in a financial year by an independent valuer appointed with the consent of the trustee:",
-            "Provided that a fund sub-categorized as venture Capital Fund shall be valued once in two years by independent valuer appointed with the consent of trustee.]",
-            "Chapter V General Obligations and Responsibilities"
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Prohibition on inviting subscription from the public",
-          "text": [
-            "No person or the Private Fund Management Company shall issue any document or advertisement inviting subscription from the public for purchase of Units of a Private Fund."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Fee payable to the Commission",
-          "text": [
-            "The Private Fund Management Company managing a Private Fund within three month of the close of financial year of the Private Fund shall pay to the Commission an annual fee at such rate as specified in Schedule I, and such fee shall be chargeable to the Private Fund as an expense."
-          ]
-        },
-        {
-          "no": "16",
-          "title": "Relaxation of Regulations",
-          "text": [
-            "If any difficulty arises in giving effect to any of the provisions of these regulations in a particular case or, class of cases, or if it would be in the interest of capital market so to do, the Commission may, for the Commission reasons to be recorded in writing relax such requirements subject to conditions as it may deem fit."
-          ]
-        },
-        {
-          "no": "17",
-          "title": "Repeals",
-          "text": [
-            "The Private Equity and Venture Capital Fund Regulations, 2008 notified vide S.R.O. No. 867(1) of 2008 are hereby repealed.",
-            "Transitional Provisions.- The provisions of the Private Equity and Venture Capital Fund Regulations, 2008 shall remain in force for the regulation of the existing Fund Management Companies licensed to undertake the business of private equity fund and venture capital funds for a period of one year from the notification of these Regulation. Thereafter all the Fund Management Companies and funds regulated thereunder shall comply with all the provisions of these Regulations."
-          ]
-        },
-        {
-          "no": "18",
-          "title": "Savings",
-          "text": [
-            "Save as otherwise specifically provided, nothing in these otherwise Regulations shall affect or be deemed to affect anything done, action taken, investigation or proceedings commenced, order, relaxation granted un less withdrawn, appointment, conveyance, mortgage deed, document or agreement made, fee paid or accrued, resolution passed, direction given, proceedings taken or instrument executed or issued, under repealed the Private Equity and Venture Capital Fund Regulations, 2008 and any such thing, action, investigation, proceedings, order, appointment, conveyance, mortgage deed, document, agreement, fee, resolution, direction, proceedings or instrument shall if in force at the coming into force of these Regulations and not inconsistent with any of the provisions of these Regulations, continue to be in force, and have effect as if it were respectively done, taken, commenced, made, directed, passed, given, executed or issued under these Regulations."
-          ]
-        }
-      ]
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these Regulations, unless the context otherwise requires:-",
+      "i. “Alternative Fund” means a Private Fund which invests in portfolio of securities and other financial assets other than a Private Equity and Venture Capital Fund.",
+      "ii. \"Constitutive Documents\" means the Trust deed, placement memorandum and other principal documents governing the formation of a Private Fund established by a Private Fund Management Company including all related material agreements;",
+      "{fn:1-1}[iii. “Eligible Investor\" means a person who has net assets of at least Rs. 15million excluding the value of personal residence and who furnishes a declaration to the Private Fund Management Company that he understands the risks of investment in a Private Fund;]",
+      "iv. \"Form\" means any of the forms annexed to these Regulations;",
+      "v. “Investment Policy Statement” means a statement obtained from the investor which at least covers the information regarding investor knowledge, qualification, risk appetite and investment objective;",
+      "vi. “Private Fund Management Company” means Company licensed by the Commission to provide Private Equity & Venture Capital Fund management services under NBFC Rules, 2003;",
+      "vii. \"NAV of a Unit\" means the Net Assets of a Private Fund divided by the number of Units outstanding, at any given date;",
+      "viii. \"Net Assets\" means the difference between the value of the assets and liabilities of a Private Fund established by the Private Fund Management Company, on any given date, and computed in the manner specified in the Placement Memorandum;",
+      "ix. \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
+      "x. “Private Fund” means an arrangement which has the purpose of pooling funds from one or more Eligible Investors for investment in a portfolio of securities or other financial assets for profit, income or other returns and where participants of the funds, neither have day to day control over the management of fund property, nor the right to give directions in respects of such management and which is established and operated by the Private Fund Management Company:",
+      "Provided that for the purpose of these regulations following shall not classify as a Private Fund:",
+      "a. collective investment schemes regulated under the Non-Banking Finance Companies and Notified Entities Regulations, 2008;",
+      "b. employee welfare trusts or gratuity trusts or employees provident fund or employees pension fund setup for the benefit of employees by companies; and",
+      "c. any such pool of funds which is separately regulated by the Commission or which is already established under any other specific law.",
+      "xi. \"Placement Memorandum\" means a document, issued by the Private Fund Management Company describing the details of a Private Fund and giving an offer for subscription by Eligible Investors only;",
+      "xii. “Private Equity & Venture Capital Fund Management Services” means services provided for management of Private Funds;",
+      "{fn:2-2}[xiii. “Private Equity and Venture Capital Fund” means a Private Fund established in a closed-end structure for investment mainly in securities or financial assets other than derivatives of an unlisted company or for turning around a listed company or listed and unlisted SME or an unlisted company engaged in business of investing in developing a new product or process or expansion of business:",
+      "Provided that a Private Equity and Venture Capital Fund may invest in units of other Private and Venture Capital Fund.]",
+      "xiv. \"Private Placement\" means the offer for sale of Units of a Private Fund offered to Eligible Investors by the Private Fund Management Company only through a Placement Memorandum, without any public advertisement;",
+      "xv. \"Register\" means the Register for the purpose of recording the details of the Units held by each Unit Holder of the Private Fund;",
+      "xvi. “Regulations” means Private Funds Regulations, 2015 and includes Forms and Schedules annexed hereto;",
+      "xvii. \"Rules\" mean the Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003;",
+      "xviii. \"Schedule\" means the Schedule annexed to these Regulations;",
+      "xix. \"Trust Deed\" means the deed executed between the Private Fund Management Company and the Trustee in respect of a Private Fund;",
+      "{fn:3-3}[xx. \"Trustee\" means a person appointed as trustee or custodian as the case may be in respect of a Private Fund established in accordance with these Regulations;]",
+      "xxi. \"Units\" mean the instrument of ownership of the Private Fund signifying the beneficial interest of the Unit Holders in that Private Fund;",
+      "xxii. “Unit Holder” means the Eligible Investor who owns one or more units of a Private Fund and whose name appears in the Register.",
+      "Words and expression used but not defined in these Regulations shall have the same meaning, unless contrary to the context, as assigned to them in the Ordinance, Rules and the Securities Act 2015 and the Rules and Regulations made there under."
+     ],
+     "fn": [
+      {
+       "n": "1-1",
+       "text": "Substituted for the text “(iii) “ Eligible Investor” means a person who for himself alone offers a minimum of three (3) million rupees for investment in a Private Fund and who furnishes a declaration to the Private Fund Management Company that he understands the risks of investment in a Private Fund;” vide SRO 545(I)/2020 dated June 10, 2020."
+      },
+      {
+       "n": "2-2",
+       "text": "Substituted for the text “(xiii)“Private Equity and Venture Capital Fund” means a Private Fund established in a closed-end structure for investment in securities of an unlisted company or for turning around a listed company or a company listed on SME board or a unlisted company engaged in business of investing in developing a new product or process or expansion of business;” vide SRO 545(I)/2020 dated June 10, 2020"
+      },
+      {
+       "n": "3-3",
+       "text": "Substituted for the text “(xx) \"Trustee\" means a trustee, appointed in respect of a Private Fund established in accordance with these Regulations;” vide SRO 545(I)/2020 dated June 10, 2020"
+      }
+     ]
     }
-  ],
-  "schedules": [
+   ]
+  },
+  {
+   "heading": "Chapter II",
+   "sections": [
     {
-      "title": "FORMI",
-      "text": [
-        "[(Sec Regulation 5(4)]",
-        "APPLICATION FOR REGISTRATION OF PRIVATE FUND AS NOTIFIED",
-        "ENTITY INSTRUCTIONS:",
-        "A.",
-        "i. This form is meant for use by the Private Fund Management Company (hereinafter referred to as the \"applicant\") for making an application for the grant of a certificate of registration as notified entity proposed to be established and managed by it.",
-        "ii. The applicant shall complete this form, and submit it, along with the documents required under these Regulations to the Commission at its",
-        "Head Office at Islamabad.",
-        "iii. The application Form shall be filled in accordance with these",
-        "Regulations.",
-        "iv. The application shall be considered by the Commission when it is complete in all respects.",
-        "V. All answers must be legible.",
-        "vi. Information which needs to be supplied in more detail may be given on separate sheets and attached to the application form.",
-        "vii. The application must be signed and all signatures must be original.",
-        "viii. The application must be accompanied by a receipt of Rs. 1,000,000/- being the non-refundable application fee, deposited in (Name of Bank with branch) (Date) on",
-        "B. Details of the Fund:",
-        ">(a) Name of the proposed Private Fund;",
-        ">(b) Investment objectives;",
-        ">(c) Proposed amount of Investible Funds;",
-        ">(d) Details of commitments by Eligible Investors, if any and names and addresses of such Eligible Investors; and",
-        ">(e) Name and address of the auditor of the Private Fund.",
-        "Details of the Private Fund Management Company",
-        ">(a) Registered office address;",
-        ">(b) Names of directors of the Private Fund Management Company and their profile;",
-        ">(c) Names of the shareholders of tile Private Fund Management Company along with their percentage of shareholding; and",
-        ">(d) Previous approval, if any, by the Commission to manage a Private",
-        "Fund.",
-        "[(e) Certified true copy of the Memorandum of Association or Limited",
-        "Liability Partnership Agreement;",
-        ">(f) Custodian Agreement;",
-        ">(g) Certificate of incorporation/registration as the case may bej]",
-        "Details of the Trustee:",
-        ">(a) Name and contact details of the Trustee;",
-        "•",
-        ">(b) Registered office address; and",
-        ">(c) Name of the directors of Trustee and their profile;",
-        "1. Any additional information/ document in support of this application that may be importani or required by the Commission.",
-        "2. The application shall be accompanied by the documents supporting the information requested under this Form and any other document required under these Regulations.",
-        "3. Declaration statement as under:",
-        "a) We hereby declare and certify that the information provided in this application, including that provided in the attachment sheets and documents attached, is complete and true in all respects.",
-        "b) We further certify that we shall inform the Securities and",
-        "Exchange Commission of Pakistan immediately of any change in the information provided in the application and the documents attached with them.",
-        "c) We warrant that we shall comply with and be bound by the",
-        "Securities Act, 2015, the Securities and Exchange Commission of",
-        "Pakistan Act, 1997, the Companies Ordinance, 1984, Non-",
-        "Banking Finance Companies (Establishment and Regulation)",
-        "Rules, 2003 the Private Fund Regulations, 2015, and the regulations, guidelines, circulars, orders and directions that may be issued by the Securities and Exchange Commission of Pakistan from time to time.",
-        "For and on behalf of (Name of the applicant)",
-        "Authorized signatory (Name) (Signatures)",
-        "Date:",
-        "Place:"
-      ]
+     "no": "3",
+     "title": "Prohibition to engage in business of Private Equity and Venture Capital Fund Management Services without registration",
+     "page": 3,
+     "text": [
+      "{fn:3-4}[ (1) No person shall establish, launch, or raise money in Pakistan for investment in a Private Fund unless the Fund is registered under these Regulations.]",
+      "(2) A fund in existence at the time of coming into force of these Regulations which falls within the definition of a Private Fund but is not registered with Commission shall, within a period of one year of coming into force of these Regulations, make an application for registration under these Regulations and the Commission, if it is satisfied, may register such fund without payment of a registration fee failing which they shall immediately cease to engage into this form of business."
+     ],
+     "fn": [
+      {
+       "n": "3-4",
+       "text": "Substituted for the text “Prohibition to engage in business of Private Equity and Venture Capital Fund Management Services without registration.- (1) No person shall establish, launch, or operate any business in the form of or in the nature Private Fund unless it is registered under these Regulations.” vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
     },
     {
-      "title": "SCHEDULE I*",
-      "text": [
-        "[(See Rule 7A and Regulation 5(4)]",
-        "A) Application Fee under Rules:",
-        "S# Form Subject of application Amount (in Rs.)",
-        "Contents of the Trust Deed of the Fund",
-        "The Trust Deed must infer alia contain the following not necessarily in the sequence given:",
-        "1) Name and Registered address of the Trustee along with place and date of creation of Trust;",
-        "2) Category of the Fund i.e. Private Equity and Venture Capital Fund or",
-        "Alternative Fund;",
-        "2) Object or the Trust;",
-        "3) Duration and date of extinction of Trust;",
-        "4) Authorization/approval of tile Commission to constitute the Trust;",
-        "5) Parties to the Trust Deed identifying the Trustee as well as the beneficiaries;",
-        "6) Governing Jaw and jurisdiction;",
-        "7) Rights of the beneficiaries of the Trust;",
-        "8) Duties, powers and rights of the Private Fund Management Company in relation to the trust;",
-        "9) Duties, powers, rights and obligations of Trustee;",
-        "10) Mechanism for rectification of Trust Deed;",
-        "11) Duties of the Trustee which may be delegated to third parties;",
-        "12) Accounting period and appointment of the auditor;",
-        "13) Retirement or removal of Trustee;",
-        "14) Circumstances and procedure for the change of Private Fund Management",
-        "Company upon the request of the Holders;",
-        "15) Proposed size of Private fund;",
-        "16) Investment policy and authorized Investment;",
-        "17) Fees and charges to be paid out of the Private Fund;",
-        "18) Dividend policy;",
-        "19) Circumstances for the revocation of the Trust along with the mechanism;",
-        "and",
-        "20) Mechanism for the distribution of assets of Private Fund, upon the extinction or revocation of the Trust and the manner in which the beneficiaries shall be transferred their proportionate shares of the sale proceeds;"
-      ]
+     "no": "4",
+     "title": "Conditions for Launch of Private Fund",
+     "page": 4,
+     "text": [
+      "A Private Fund shall be established and launched by the Private Fund Management Company duly licensed by the Commission for managing Private Funds subject to the following conditions;",
+      "{fn:4-5}[i. It is established as a trust under the Trust Act, 1882 (II of 1882), or as company under Companies, Act 2017, or as limited liability partnership under Limited Liability Partnership Act 2017 or any other legal structure as approved by the Commission;]",
+      "ii. It is offered for subscription by Eligible Investors only;",
+      "iii. It is registered with the Commission as a Notified Entity prior to its launch;",
+      "iv. Its Units are not listed on any Exchange; and",
+      "v. Private Fund Management Company or Private Fund, as the case may be, shall comply with such other condition as may be imposed by the Commission from time to time."
+     ],
+     "fn": [
+      {
+       "n": "4-5",
+       "text": "Substituted for the text “It is established as a trust under the Trust Act, 1882 (II of 1882);” vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
     },
     {
-      "title": "SCHEDULE III",
-      "text": [
-        "Contents of Letter for Registration or Incorporation of Private Fund",
-        "To,",
-        "The Chief Executive Officer,",
-        "Name of the Company,",
-        "Address.",
-        "Dear Sir,",
-        "The approval to the draft trust deed/Memorandum of Association/Limited",
-        "Liability Agreement is without prejudice to the conditions and the requirements stipulated in the license issued in favor of the Private Fund Management",
-        "Company, the Non-Banking Finance Companies (Establishment & Regulation)",
-        "Rules, 2003 and Private Fund Regulations 2015. Further action will be taken on receipt of duly registered copy of the trust deed/Certified true copy of Limited",
-        "Liability Agreement and certificate of Registration/Certified true copy of",
-        "Memorandum of Association alongwith certificate of incorporation.",
-        "Yours truly,",
-        "Contents of Placement Memorandum",
-        "Notice: - This is not an exhaustive list. The Private Fund Management Company is bound to disclose any information that may be necessary for Eligible Investors to make an informed judgment.",
-        "1. Name of the Private Fund;",
-        "2. Key information of Private Fund Management Company;",
-        "3. Category of tile Fund (i.e. Private Equity and Venture Capital Fund or",
-        "Alternative Fund);",
-        "4. Key data and overview of Private Fund;",
-        "5. Purpose and Objective of the Private Fund;",
-        "6. Details of the Trustee;",
-        "7. Summary of tile substantive provisions of the Trust Deed;",
-        "8. Investment Policy and Strategy of the Private Fund;",
-        "9. Permitted Investments and Restrictions;",
-        "10. General and Specific risks;",
-        "11. Benchmark of the Private Fund;",
-        "12. Pricing policy;",
-        "13. Income distribution policy;",
-        "14. Details of Auditors of the Private Fund;",
-        "15. The accounting year of the Private Fund;",
-        "16. Periodic reporting to investors;",
-        "17. Frequency of issuance and redemptions of units;",
-        "18. Procedure for subscribing, redeem in g or conversion/transfer of units;",
-        "19. Fees and charges to be paid by the Private Fund;",
-        "20. Detail of Trustee;",
-        "21. Obligations and rights of Investment Advisor and Trustee and Unit holders;",
-        "22. Right/liability of Unit Holders;",
-        "23. An overview of the applicable regulatory and legal framework;",
-        "24. Detail of the Auditor of the Private Fund;",
-        "25. Circumstances for the revocation of the Trust;",
-        "26. Mechanism for the distribution of assets of Fund, upon the extinction or revocation of the Trust and the manner in which the beneficiaries shall be transferred their proportionate shares of the sale proceeds;",
-        "27. Retirement or removal of Trustee, specifically giving the Commission the power to remove the Trustee;",
-        "28. Circumstances and procedure for the change of Private Fund Management",
-        "Company upon the request of the Unit Holders;",
-        "29. A statement that the Private Fund Management Company accepts responsibility for the information contained in the placement memorandum as being accurate at the date of publication;",
-        "30. Disclosures required under these Regulations; and",
-        "31. Any other information that the Commission may specify from time to time.",
-        "ISee Regulation 2(1)(iii) and 9(iii)]",
-        "DECLARATION BY E LIGIBLE INVESTOR",
-        "All Eligible Investors are advised that completion of this declaration form is mandatory as per the Private Fund Regulations, 201 5 in order to invest in a",
-        "Private Fund.",
-        "1. I hereby acknowledge that:",
-        "a. I have examined the Constitutive Documents carefully and I understand that investment in this Private Fund (i.e. STATE NAME",
-        "OF THE FUND) may involve risks which I am willing to undertake;",
-        "b. the Units of the Private Fund have not been recommended by the",
-        "SECP and in making an investment decision, I will rely on my own judgment of the Private Fund and the terms of the offer including the merits and risks involved.",
-        "Name, if individual",
-        "Signature, if individual",
-        "Name, if entity",
-        "By:",
-        "Title:",
-        "Seal, if entity",
-        "[See Regulation 8 (iii)]",
-        "Contents of Investment Policy Statement",
-        "Notice: - This is not an exhaustive list. The Private Fund Management",
-        "Company is bound to disclose any information that may be necessary for Eligible",
-        "Investors to make an informed judgment.",
-        "i)- Financial Sector Knowledge and Experience",
-        "In determining eligible investor's financial sector knowledge and experience following shall be considered:",
-        "a) The investor's qualification, knowledge and understanding of the relevant financial market, types of financial products or arrangements and the risks involved;",
-        "b) The length of time the investor has participated in relevant financial markets; and c) Frequency of dealings and the extent to which the investor has relied on the financial advice from the investment service providers;",
-        "ii)- Risk Tolerance",
-        "In determining eligible investor's risk tolerance following shall be considered:",
-        "a) Relevance of a private fund in which investor intends to make investment;",
-        "b) The size and nature of transactions that have been undertaken by the investor in relevant financial markets;",
-        "c) The composition and size of the investor's existing investment portfolio, if any;",
-        "d) Any specific objective that investor intends to achieve through investment in this Private Fund;",
-        "e) Investor's tolerance for risk i.e. both ability and willingness of client to bear risk and return objectives;",
-        "f) Liquidity requirements if any in the near future and time horizon for investment in relation to specific security and overall portfolio;",
-        "g) Investor's tolerance on borrowing or leverage by the private fund selected for investment;",
-        "h) Tax or legal consideration which in future might affect investor's investment decision; and h) Other unique circumstances, matters or aspects of investor which the",
-        "Private Fund Management Company considers relevant;}",
-        "[See Regulation 8(iv)]",
-        "Contents of Investment Policy Statement",
-        "Notice: - This is not an exhaustive list. The Private Fund Management Company is bound to disclose any information that may be necessary for Eligible Investors to make an informed judgment.",
-        "a) The investor's qualification, knowledge and understanding of the relevant financial market, types of financial products or arrangements and the risks involved;",
-        "b) The length of time the investor has participated in relevant financial markets, the frequency of dealings and the extent to which the investor has relied on the financial advice from the investment service providers;",
-        "c) The size and nature of transactions that have been undertaken by the investor in relevant financial markets and the composition and size of the investor's existing investment portfolio, if any;",
-        "d) Investment objectives including types of securities in which investment would be made specifying proportion of exposure and restrictions, if any;",
-        "e) Investor's tolerance for risk i.e. both ability and willingness of client to bear risk, return objectives and a detailed statement of risks specific to investment policies and objectives;",
-        "f) Liquidity requirements, tax constraints and time horizon for investment in relation to specific security and overall portfolio; and g) Other unique circumstances, matters or aspects of investor which the Private Fund",
-        "Management Company considers relevant.\"",
-        "No. SCD/PRDD/NBFC/2015 (Bushra Aslam)",
-        "Secretary to the Commission"
-      ]
+     "no": "5",
+     "title": "Procedure for Registration: (1)",
+     "page": 4,
+     "text": [
+      "No units of a Private Fund shall be offered for investment by Eligible Investors unless such fund is registered as a Notified Entity with the Commission.",
+      "{fn:4-6}[(2) Private Fund Management Company shall submit the draft Trust Deed along with the name and consent of the trustee of the proposed Private Fund in accordance with Schedule II or draft Memorandum of Association or draft Limited Liability Partnership Agreement alongwith custodian agreement for approval of the Commission as per schedule III;]",
+      "{fn:4-7}[(3) Upon securing in-principle approval of the Commission, the Private Fund Management Company shall execute and seek registration of the Trust Deed in accordance with the provisions of the Trust Act, 1882 (II of 1882) or incorporate Company in accordance with Companies Act, 2017 or register limited liability partnership in accordance with Limited Liability Partnership Act, 2017 as the case may be;]",
+      "(4) The Private Fund Management Company shall seek approval of the Commission for registration of a Private Fund as a Notified Entity by submitting an application as per Form I along with fee as specified in Schedule I.",
+      "(5) The Commission on being satisfied that the Private Fund is eligible for registration may register the Private Fund as a Notified Entity on such terms and conditions as it deems appropriate.",
+      "(6) After the registration of private fund as a notified entity by the Commission, the Private Fund Management Company shall offer the Private Fund for investment by Eligible Investors upon issuance of a Placement Memorandum.",
+      "(7) A copy of the Placement Memorandum seeking subscription by Eligible Investors shall be submitted to the Commission fifteen (15) days prior to launch of a Private Fund."
+     ],
+     "fn": [
+      {
+       "n": "4-6",
+       "text": "Substituted for the text “(2) Private Fund Management Company shall submit the draft Trust Deed along with the name and consent of the trustee of the proposed Private Fund in accordance with Schedule II for approval of the Commission as per schedule III.” vide SRO 545(I)/2020 dated June 10, 2020."
+      },
+      {
+       "n": "4-7",
+       "text": "Substituted for the text “Upon securing in-principle approval of the Commission, the Private Fund Management Company shall execute and seek registration of the Trust Deed in accordance with the provisions of the Trust Act, 1882 (II of 1882)” vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Appointment and Role of Trustee",
+     "page": 5,
+     "text": [
+      "(1) The Private Fund Management Company shall appoint an independent Trustee which is registered with the Commission as a Trustee for Collective Investment Schemes under the Non-Banking Finance Companies and Notified Entities Regulations, 2008.",
+      "Explanation: For the purposes of sub-Regulation (1), the test of independence principally emanates from the fact whether the trustee can reasonably be perceived as being able to exercise independent business judgment without being subservient to any form of conflict of interest."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Obligations of the Trustee",
+     "page": 5,
+     "text": [
+      "The Trustee shall:",
+      "{fn:5-8}[i. take under its control all the property of the Private Fund and hold it for the Unit Holders in accordance with the Rules, Regulations and the provisions of the Constitutive Documents. Any cash and registerable assets shall be registered in the name of, or to the order of, the trustee in case of trust;]",
+      "ii. ensure that the sale, purchase, issue and transfer of Units effected by a Private Fund are carried out in accordance with the provisions of the Constitutive Documents;",
+      "iii. carry out the instructions of the Private Fund Management Company, in respect of investments unless these are in conflict with the provisions of these Regulations or the Constitutive Documents;",
+      "iv. issue a report to be included in the annual report of the Private Fund and therein state whether, in its opinion, the Private Fund Management Company has in all material respects managed the Private Fund in accordance with the provisions of the Constitutive Documents, the Rules and these Regulations, and if the Private Fund Management Company has not done so, the respects in which it has not done so and the steps that the trustee has taken in respect thereof;",
+      "v. not legally or beneficially own or invest in the Units of the Private Fund;",
+      "vi. obtain and maintain duplicate of all the records of register of Unit Holders maintained by the Private Fund Management Company or the Registrar and shall update the record on a regular basis;",
+      "vii. be liable for any loss caused due to its willful acts or omissions or that of its agents in relation to custody of assets or investment forming part of the property of Private Fund; and",
+      "viii. comply with any directions of the Commission given in the interest of the Unit Holders.",
+      "Role of Private Fund Management Company"
+     ],
+     "fn": [
+      {
+       "n": "5-8",
+       "text": "Substituted for the text “take under its control all the property of the Private Fund and hold it in trust for the Unit Holders in accordance with the Rules, Regulations and the provisions of the Constitutive Documents. Any cash and registerable assets shall be registered in the name of, or to the order of, the trustee;” vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "The Private Fund Management Company shall",
+     "page": 6,
+     "text": [
+      "i. have at least minimum equity of rupees ten (10) million:",
+      "Provided that this shall not be applicable to an NBFC having valid investment advisory licence and complying with the minimum equity requirements required for investment advisory licence.",
+      "ii. be obliged to manage the assets of a Private Fund in the interest of Unit Holders in good faith and to the best of its ability and without gaining undue advantage for itself or any of its related parties including connected persons and group companies or its officers;",
+      "{fn:6-10}[iia. before offering a private fund to an eligible investor shall asses or take into consideration the financial sector experience, risk tolerance and net worth of eligible investor as per Schedule VI;",
+      "{fn:6-11}[iii. prepare and fill the Investment Policy Statement in consultation with the eligible investor as per Schedule VI;]",
+      "iv. account to the trustee for any loss in value of the Private Fund where such loss has been caused by its negligence, reckless or willful act or omission;",
+      "v. be responsible for the acts and omission of all persons to whom it may delegate any of its functions as Private Fund Management Company as if they were its own acts and omissions and shall also comply with the requirements for delegation of functions prescribed by the Commission through Circular No: 24 of 2013 dated December 06, 2013 as amended from time to time;",
+      "vi. ensure that investment decisions are consistent with the objectives and investment policy of the Private Fund as contained in the constitutive documents;",
+      "vii. ensure that investments do not deviate from the Constitutive Documents, Regulations or directions of the Commission;",
+      "viii. develop and follow internal investment restrictions and polices;",
+      "ix. review the performance of the Private Fund on regular and timely basis;",
+      "x. ensure that proper record of investment decisions is maintained;",
+      "xi. manage the Private Funds according to its Constitutive Documents, the rules, regulations, circular or directives issued by the Commission;",
+      "xii. establish and maintain sufficient risk management system and controls to enable it to identify, assess, mitigate, control and monitor risk in the best interest of the unit holders;",
+      "xiii. formulate and implement Board’s approved internal control policies and procedures ensuring:",
+      "a. appropriate segregation of duties and information barriers between the trading, risk management and processing functions, commonly referred to as the front, middle and back offices;",
+      "b. segregation between trading, research, and corporate finance functions;",
+      "c. establish ‘Chinese Walls’ along with implementation of policies and physical apparatus designed to prevent the improper or unintended dissemination of market sensitive information from one division of a multiservice firm to another division;",
+      "d. establish polices and procedure, reasonable under the circumstances, to ensure that individuals making investment decisions for the Private Fund Management Company are not trading on the basis of material nonpublic information obtained from another area of the Private Fund Management Company;",
+      "e. establish policies and procedures for managing, minimization and disclosure of conflict of interest.",
+      "xiv. formulate a Board approved risk management policy for identifying, measuring and managing the risks of the investments, including the sources, nature and degree of such risks and shall also make compliance manuals;",
+      "xv. identify and assign a unit, department or personnel for carrying out risk management function which shall be, hierarchically and functionally, independent of the operating units and shall be responsible for the identification, monitoring / measurement and proper management of all risks;",
+      "xvi. only undertake sale and purchase transactions between Private Funds under its management or with client of the Private Fund Management company (cross trades) where the-",
+      "a. sale and purchase decisions are in the best interest of both clients/ Private Funds;",
+      "b. transactions are executed on an arm’s length and fair value basis;",
+      "c. reasons for such transactions are documented prior to execution; and",
+      "d. activities are identified to both clients/ Private Funds in their respective periodic transaction reports or statements.",
+      "xvii. disclose at least the following information on half yearly basis to the investor;",
+      "a) Detail and composition of portfolio including value and description of the portfolio, value of each security held in the portfolio and cash balances as on the date of report;",
+      "b) Details of expense charged and expense ratio including management fee, trustee fee, formation cost, auditor fee, brokerage commission, bank charges, other charges etc.; as per the constitutive documents;;",
+      "c) Details of benefit received during that period including interest, dividend, bonus units; and",
+      "d) Performance review.",
+      "xviii. shall maintain at its registered office, proper books and records of accounts and activities undertaken in connection with the Private Fund in order to enable a true and fair view to be formed of the:",
+      "a) assets and liabilities of the Private Fund;",
+      "b) the profit and loss accruing out of the operation of the Private Fund;",
+      "c) transactions undertaken with respect to the Private Fund;",
+      "d) amounts received in respect of issue of Units; and",
+      "e) pay-outs, if any, by way of distributions to the Holders.",
+      "xix. maintain the books of accounts and other records of the Private Fund at least for ten (10) years ;",
+      "xx. within four ({fn:8-12}[4]) months of close of the financial year of the Private Fund, prepare as per the approved applicable International Accounting Standards and International Financial Reporting Standards, and transmit to the unit holders and the Commission, with respect to the Private Fund:",
+      "a) the balance sheet stating details of investments depicting cost and realizable value of such investments;",
+      "b) profit and loss statement;",
+      "c) cash flow statement; and",
+      "d) statement of movement in NAV per Unit of the private fund.",
+      "xxi. maintain register of unit holders as part of the records and exercise due diligence and take reasonable care to ensure that the register is accurate, complete and up-todate and ensure that persons recorded in the register are eligible investors;",
+      "xxii. appoint external auditor of the Private Fund who shall be a Chartered Accountant and has received satisfactory rating under the Quality Control Review (QCR) Program of the Institute of Chartered Accountants of Pakistan and the appointed auditor shall give the report on annual accounts of the Private Fund containing the following;.",
+      "a. Whether in the auditor's opinion the accounts prepared for that period have been properly prepared in accordance with the relevant provisions of the Regulations;",
+      "b. Statement to the effect that the auditor has conducted audit of the Private Fund in accordance with the international standards on auditing as applicable in Pakistan;",
+      "c. Without prejudice to the foregoing, whether in the auditor's opinion, a true and fair view is given of the disposition of Private Fund at the end of the period and of the transactions of the Private Fund of the period;",
+      "d. if the auditor is of the opinion that proper books and records have not been kept by the Private Fund or the accounts prepared are not in agreement with the books and records of the Private Fund, that fact; and",
+      "e. if the auditor has failed to obtain all the information and explanations which, to the best of his knowledge and belief, are necessary for the purpose of the audit, that fact.",
+      "xxiii. ensure prevention of money laundering and terrorist financing and abide by such laws directives and circulars issued by the Federal Government and Commission regarding know your customer requirements and to safe guard against the involvement in money laundering and terrorist financing."
+     ],
+     "fn": [
+      {
+       "n": "6-9",
+       "text": "Substituted for the text “i. have at least minimum equity of rupees thirty (30) million; Provided that this shall not be applicable to an NBFC having valid investment advisory licence and complying with the minimum equity requirements required for investment advisory licence.” vide SRO 545(I)/2020 dated June 10, 2020."
+      },
+      {
+       "n": "6-10",
+       "text": "Inserted vide SRO 545(I)/2020 dated June 10, 2020."
+      },
+      {
+       "n": "6-11",
+       "text": "Substituted for the text “iii. fill the Investment Policy Statement in consultation with the eligible investor as per Schedule VI;” vide SRO 545(I)/2020 dated June 10, 2020."
+      },
+      {
+       "n": "8-12",
+       "text": "Substituted for the figure “3” vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
     }
-  ],
-  "frontNotes": [],
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the pages of the newer scan are incomplete; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Regulation 8's heading is the unnumbered line printed above it; the group heading \"Investment Conditions and Restrictions\" is omitted.",
-  "sourceNotes": "Regulation 8 was split out of regulation 7 by hand (21 Nov 2026): its heading line is printed above its number and was read as part of regulation 7.",
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Chapter III",
+   "sections": [
+    {
+     "no": "9",
+     "title": "Minimum investment in a Private Fund",
+     "page": 9,
+     "text": [
+      "The Private Fund Management Company may raise money for investment in a Private Fund from an Eligible Investor through issue of Units subject to the following conditions:",
+      "{fn:9-13}[i. the Private Fund Management Company shall accept offer for subscription to the units of Private Fund from eligible investor only;]",
+      "ii. copy of the Placement Memorandum has been furnished to the prospective investor and acknowledgment that the investor has read and understood the documents is received in writing;",
+      "iii. obtained the declaration as specified in Schedule V from Eligible Investor; and",
+      "{fn:10-14}[iv. total number of Eligible Investors in a Private Fund does not exceed fifty or number as defined in Private Placement of Securities Rule, 2017:",
+      "Provided that the above restriction shall not apply to investor as Qualified Institutional Buyer.]"
+     ],
+     "fn": [
+      {
+       "n": "9-13",
+       "text": "Substituted for the text “i. the Private Fund Management Company shall neither make nor accept initial offer for subscription to the Units of a Private Fund of an amount not less than Rupees three (3) million from a single Eligible Investor:” vide SRO 545(I)/2020 dated June 10, 2020."
+      },
+      {
+       "n": "10-14",
+       "text": "Substituted for the text “iv. total number of Eligible Investors in a Private Fund does not exceed thirty” vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Private Fund Size",
+     "page": 10,
+     "text": [
+      "(1) The Private Fund Management Company shall appropriately take into account the following aspects for determining the maximum size of a Private Fund under its management:",
+      "a) The resources, expertise and overall capacity of the Private Fund Management Company to carry out its duties in accordance with the acceptable and efficacious business practices, Regulations and Constitutive Documents of the Private Fund ; and",
+      "b) The investment objective, financial situation and particular needs of the investors of the Private Fund.",
+      "(2) The Private Fund Management Company may increase the size of the fund, subject to the enabling provision to this effect in the placement memorandum which shall also provide for circumstances and mechanism for increase in the size of fund."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Investment conditions and restrictions",
+     "page": 10,
+     "text": [
+      "(1) The Private Fund Management Company on behalf of Private Fund shall;",
+      "i. only invest in securities, portfolio of securities within Pakistan or any other financial asset as approved by the Commission. Provided that the Private Fund may make foreign investments subject to compliance with all the regulatory requirements with respect to foreign investments;",
+      "ii. make investments which are in conformity with its investment strategy as disclosed in the Placement Memorandum;",
+      "iii. change the fundamental attributes including investment objective, policy and structure of the private fund only upon approval of seventy five (75%) percent or more unit holders, in terms of value of the Private Fund and submit the updated Placement Memorandum to Commission and trustee within fifteen days of such change;",
+      "iv. invest with its connected person or connected person of the Trustee only if adequate disclosure to this effect is given in the Placement Memorandum and provided that such transaction is done on an arm’s length basis; and",
+      "v. identify and disclose in sufficient details any limitations and risks that a particular investment strategy poses.",
+      "(2) Where the Private Fund Management Company on behalf of Alternative Fund intends to use derivatives, details of their use must be properly and completely disclosed in the Placement Memorandum of the Alternative Fund. The Private Fund Management Company shall possess necessary expertise for the use of derivative instruments, which at the minimum include the following:",
+      "i. Understanding the different implications of derivative positions on the overall investment strategy; and",
+      "ii. Ensuring the derivative positions are fairly priced on a consistent basis while bearing in mind the market liquidity of such positions.",
+      "{fn:11-15}[(3) Where a Private Fund utilizes or proposes to utilize borrowing, the Private Fund Management Company shall ensure:",
+      "i. that it has necessary expertise in managing Private Fund employing borrowing strategies including understanding the impact of borrowing on the overall risk of a portfolio and having the ability to monitor the use of borrowing",
+      "ii. has clearly disclosed in the Placement Memorandum of the Private Fund, at the minimum, the following:",
+      "a. The borrowing parameter for the Private Fund (including the maximum amount of borrowing, duration, and whether secured or unsecured), the basis of borrowing and risks involved;",
+      "b. That the liability of the unit holder is limited to their investments in the fund;",
+      "iii. it has borrowed only from financial institution/companies;",
+      "iv. that short term borrowing by a Private Equity and Venture Capital Fund shall not exceed fifteen percent (15%) of the size of that Private Equity and Venture Capital Fund; and",
+      "v. that any long term borrowing by a Private Equity and Venture Capital Fund shall only be repayable on the date of maturity of that Private Equity and Venture Capital Fund or shall only be obtained against an instrument convertible into equity.]",
+      "(4) Private Fund Management Company shall inform the trustee and the Commission about any breach of the investment conditions and restrictions along with the reasons for the breach, and the proposed steps for rectification and shall rectify the breach within such period as may be specified in the Placement Memorandum.",
+      "{fn:12-16}[(5) A Private Fund Management Company may make investment in private funds managed by it out of its surplus equity (i.e. over and above the required minimum equity requirements).",
+      "(6) A Private Fund can be sub-categorized as Private Equity and Venture Capital Fund, Venture Capital Fund, Angel Fund, Small and Medium Enterprise Fund, Infrastructure Fund, Impact Fund, Hedge Fund etc.",
+      "(7) A Private Fund can be categorized into any sub-category subject to investment of at least seventy percentage of its net assets in eligible investment of that that sub-category investment.]"
+     ],
+     "fn": [
+      {
+       "n": "11-15",
+       "text": "Substituted for the text “(3) Where the financing of the Alternative Fund utilizes or proposes to utilize borrowing, the Private Fund Management Company shall: i. ensure that it has necessary expertise in managing Alternate Funds employing borrowing strategies including understanding the impact of borrowing on the overall risk of a portfolio and having the ability to monitor the use of borrowing ii. clearly disclose in the Placement Memorandum of the Alternative Fund, at the minimum, the following: a. The borrowing parameter for the Alternative (including the maximum amount of borrowing, duration, and whether secured or unsecured), the basis of borrowing and risks involved; b. That the liability of the unit holder is limited to their investments in the fund;” vide SRO 545(I)/2020 dated June 10, 2020."
+      },
+      {
+       "n": "12-16",
+       "text": "Inserted vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV",
+   "sections": [
+    {
+     "no": "12",
+     "title": "Contents of the Placement Memorandum",
+     "page": 12,
+     "text": [
+      "The Placement Memorandum shall at minimum cover the information specified below in addition to requirements given in Schedule IV.",
+      "i. Purpose and Investment Objective of the Fund: The investment policy and objectives of the fund including investment style, benchmark {fn:12-17}[if any], strategy and distinctive features.",
+      "ii. Risk Disclosure Statements:",
+      "a. Specific risks that accompany the investment portfolio and investment strategy of the fund;",
+      "b. Statement to the effect that in the event:",
+      ">>(i) some of the underlying investments of the Private Fund are not actively traded, the Unit Holders may face difficulties in redeeming their investments; and",
+      ">>(ii) Of any variation in key underlying assumptions what will be the quantifiable impact on the NAV. Such impacts on the portfolio should cover sensitivity and worst case scenario analysis.",
+      "iii. Income Distribution Policy: Policy on distribution of investment returns and the sources of such returns.",
+      "iv. Borrowing: where borrowing is used, the calculation of the maximum amount of intended borrowing and assessment of the impact of such borrowing on the overall risk of the fund along with source of the borrowing.",
+      "v. Management fee payable to the Private Fund Management Company. - (1) the professional or performance fee levied by the Private Fund Management Company should be commensurate with the degree of investment strategies and techniques employed by the Private Fund Management Company to achieve the stated investment objective.",
+      "(2) The calculation methodology of the fee and charges must be clearly disclosed in the Placement Memorandum.",
+      "vi. Fee payable to Trustee. - The fee which the trustee is entitled to as may be agreed between the Private Fund Management Company and the trustee and shall be chargeable to the Private Fund as an expense.",
+      "vii. Statement of Disclaimer: The following responsibility statement and statement of disclaimer shall be displayed in the inside cover/first page of the Placement Memorandum:",
+      "“This Placement Memorandum has been prepared and approved by the Directors of the Private Fund Management Company and they collectively and individually accept full responsibility for the accuracy of all information contained herein and confirm having made all inquiries which are reasonable in the circumstances, that to the best of their knowledge and belief, there are no other facts omitted which would make any statement herein misleading.”",
+      "“The Securities and Exchange Commission of Pakistan has registered the Fund as a notified entity, and that the registration of the Private Fund shall not be taken that the Securities and Exchange Commission of Pakistan recommends the investments or takes any responsibility of what so ever nature with respect to investments.”",
+      "viii. Investment Warning The following Investment Warning must be placed in a prominent position in the Placement Memorandum;",
+      "“This fund has been established in Pakistan as a private fund. It is only open for investments by eligible investors who fall within the definition of “eligible investor” within the meaning of Regulation 2(1)(iii) of Private Fund Regulations, 2015.",
+      "This fund is only suitable for professional or experienced investors. Regulatory requirements, which may be seen as necessary for the protection of retail investors or those who are not eligible investors, do not apply to private funds.",
+      "By declaring that you have received this warning and understood and accepted its terms you are expressly agreeing that you are an eligible investor within the meaning of Regulation 2(1)(iii)of Private Fund Regulations, 2015. You are also expressly agreeing that you accept the risks in the investment accordingly.",
+      "{fn:14-18}[ix. Name and details of auditor of the Fund]"
+     ],
+     "fn": [
+      {
+       "n": "12-17",
+       "text": "Inserted vide SRO 545(I)/2020 dated June 10, 2020."
+      },
+      {
+       "n": "14-18",
+       "text": "Inserted vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Private Fund valuation and pricing",
+     "page": 14,
+     "text": [
+      "{fn:14-19}[ The Private Fund Management Company shall ensure that;",
+      "i. the valuation methodology is documented and disclosed in the Placement Memorandum specifying how the portfolio valued and units priced;",
+      "ii. the investment of the Private Fund is fairly valued on a regular basis and the frequency of such valuation shall be clearly disclosed in the Placement Memorandum;",
+      "iii. the fund is valued at least once in a financial year by an independent valuer appointed with the consent of the trustee;",
+      "Provided that a fund sub-categorized as venture Capital Fund shall be valued once in two years by independent valuer appointed with the consent of trustee."
+     ],
+     "fn": [
+      {
+       "n": "14-19",
+       "text": "Substituted for the text “13. Private Fund valuation and pricing.- The Private Fund Management Company shall ensure that i. the valuation methodology is documented and disclosed in the Placement Memorandum along with the name of the auditor specifying how the portfolio valued and units priced; ii. the investment of the Private Fund is fairly valued on a regular basis and the frequency of such valuation shall be clearly disclosed in the Placement Memorandum; iii. the fund and its Units correctly valued and priced in accordance with the Placement Memorandum and Regulations.” vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V",
+   "sections": [
+    {
+     "no": "14",
+     "title": "Prohibition on inviting subscription from the public",
+     "page": 14,
+     "text": [
+      "No person or the Private Fund Management Company shall issue any document or advertisement inviting subscription from the public for purchase of Units of a Private Fund."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Fee payable to the Commission",
+     "page": 14,
+     "text": [
+      "The Private Fund Management Company managing a Private Fund within three month of the close of financial year of the Private Fund shall pay to the Commission an annual fee at such rate as specified in Schedule I, and such fee shall be chargeable to the Private Fund as an expense."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Relaxation of Regulations",
+     "page": 14,
+     "text": [
+      "If any difficulty arises in giving effect to any of the provisions of these regulations in a particular case or, class of cases, or if it would be in the interest of capital market so to do, the Commission may, for reasons to be recorded in writing relax such requirements subject to conditions as it may deem fit."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Repeals",
+     "page": 14,
+     "text": [
+      "The Private Equity and Venture Capital Fund Regulations, 2008 notified vide S.R.O. No. 867(I) of 2008 are hereby repealed.",
+      "Transitional Provisions.- The provisions of the Private Equity and Venture Capital Fund Regulations, 2008 shall remain in force for the regulation of the existing Fund Management Companies licensed to undertake the business of private equity fund and venture capital funds for a period of one year from the notification of these Regulation. Thereafter all the Fund Management Companies and funds regulated thereunder shall comply with all the provisions of these Regulations."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Savings",
+     "page": 15,
+     "text": [
+      "Save as otherwise specifically provided, nothing in these Regulations shall affect or be deemed to affect anything done, action taken, investigation or proceedings commenced, order, relaxation granted unless withdrawn, appointment, conveyance, mortgage deed, document or agreement made, fee paid or accrued, resolution passed, direction given, proceedings taken or instrument executed or issued, under repealed the Private Equity and Venture Capital Fund Regulations, 2008 and any such thing, action, investigation, proceedings, order, appointment, conveyance, mortgage deed, document, agreement, fee, resolution, direction, proceedings or instrument shall if in force at the coming into force of these Regulations and not inconsistent with any of the provisions of these Regulations, continue to be in force, and have effect as if it were respectively done, taken, commenced, made, directed, passed, given, executed or issued under these Regulations.",
+      "FORM I",
+      "[See Regulation 5(4)]",
+      "APPLICATION FOR REGISTRATION OF PRIVATE FUND AS NOTIFIED ENTITY INSTRUCTIONS: A. i. This form is meant for use by the Private Fund Management Company (hereinafter referred to as the “applicant”) for making an application for the grant of a certificate of registration as notified entity proposed to be established and managed by it.",
+      "ii. The applicant shall complete this form, and submit it, along with the documents required under these Regulations to the Commission at its Head Office at Islamabad.",
+      "iii. The application Form shall be filled in accordance with these Regulations.",
+      "iv. The application shall be considered by the Commission when it is complete in all respects.",
+      "v. All answers must be legible.",
+      "vi. Information which needs to be supplied in more detail may be given on separate sheets and attached to the application form.",
+      "vii. The application must be signed and all signatures must be original.",
+      "viii. The application must be accompanied by a receipt of Rs. 1,000,000/- being the nonrefundable application fee , deposited in",
+      "____________________________________________ on ________________. (Name of Bank with branch) (Date)",
+      "B. Details of the Fund:",
+      ">(a) Name of the proposed Private Fund;",
+      ">(b) Investment objectives;",
+      ">(c) Proposed amount of Investible Funds;",
+      ">(d) Details of commitments by Eligible Investors, if any and names and addresses of such Eligible Investors; and",
+      ">{fn:16-20}[(e) Certified true copy of the Memorandum of Association or Limited Liability Partnership Agreement;",
+      ">(f) Custodian Agreement;",
+      ">(g) Certificate of incorporation/registration as the case may be;]",
+      "Details of the Private Fund Management Company (a) Registered office address;",
+      ">(b) Names of directors of the Private Fund Management Company and their profile;",
+      ">(c) Names of the shareholders of the Private Fund Management Company along with their percentage of shareholding; and",
+      ">(d) Previous approval, if any, by the Commission to manage a Private Fund.",
+      "Details of the Trustee:",
+      ">(a) Name and contact details of the Trustee;",
+      ">(b) Registered office address; and",
+      ">(c) Name of the directors of Trustee and their profile;",
+      "1. Any additional information/ document in support of this application that may be important or required by the Commission.",
+      "2. The application shall be accompanied by the documents supporting the information requested under this Form and any other document required under these Regulations.",
+      "3. Declaration statement as under:",
+      "a) We hereby declare and certify that the information provided in this application, including that provided in the attachment sheets and documents attached, is complete and true in all respects.",
+      "b) We further certify that we shall inform the Securities and Exchange Commission of Pakistan immediately of any change in the information provided in the application and the documents attached with them.",
+      "c) We warrant that we shall comply with and be bound by the Securities Act, 2015, the Securities and Exchange Commission of Pakistan Act, 1997, the Companies Ordinance, 1984, Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003 the Private Fund Regulations, 2015, and the regulations, guidelines, circulars, orders and directions that may be issued by the Securities and Exchange Commission of Pakistan from time to time.",
+      "For and on behalf of................................... (Name of the applicant) Authorized signatory .............................. ………………................ (Name) (Signatures) Date: Place:"
+     ],
+     "fn": [
+      {
+       "n": "16-20",
+       "text": "Inserted vide SRO 545(I)/2020 dated June 10, 2020."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sourceNotes": "Regulation 8 was split out of regulation 7 by hand (21 Nov 2026): its heading line is printed above its number and was read as part of regulation 7."
 }
