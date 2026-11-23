@@ -796,7 +796,7 @@ ${body}
         base: '',
         page: 'contents',
         body: `
-  <section class="prose contents-page">
+  <section class="prose contents-page wide">
     <h1>Index of laws, rules and regulations</h1>
     <p>All ${acts.length} instruments in the library, by subject: the Act first, then the rules and regulations made under it. Each title opens the instrument. For laws SECP administers that are not here yet, see <a href="laws.html">SECP laws</a>.</p>
     <input class="idx-filter" id="idx-filter" type="search" placeholder="Filter by title, number or short name" aria-label="Filter the index" autocomplete="off">
@@ -818,17 +818,21 @@ ${body}
       base: '',
       page: 'search-guide',
       body: `
-  <section class="prose search-guide">
+  <section class="prose search-guide wide">
     <h1>Search guide</h1>
     <p>Type any of these in the search box. A short name or topic lists the matching law or rule above the provision results; a short name also works for jumping to a provision, for example <a href="search.html?q=s%20149%20ITO"><code>s 149 ITO</code></a> or <a href="search.html?q=s%20204%20CA%202017"><code>s 204 CA 2017</code></a>.</p>
     <p class="muted small">Topics point to a whole law or rule, not to a particular provision. Use the provision search for the words of the law itself.</p>
+    <input class="idx-filter" id="guide-filter" type="search" placeholder="Filter by law, number or topic" aria-label="Filter the search guide" autocomplete="off">
+    <nav class="chips" aria-label="Practice areas">${catalog.categories.map((c) => `<a class="chip" href="#cat-${c.id}">${e(c.name)}</a>`).join('')}</nav>
     ${catalog.categories
       .map((c) => {
         const list = acts.filter((a) => a.categories.includes(c.id));
         if (!list.length) return '';
-        return `<h2 id="cat-${c.id}">${e(c.name)}</h2><dl class="term-list">${list
-          .map((a) => `<div><dt><a href="acts/${a.id}/index.html">${e(a.title)}</a>${a.number ? ` <span class="muted small">${e(a.number)}</span>` : ''}</dt><dd>${searchTermsFor(a).map((t) => `<a class="chip" href="search.html?q=${encodeURIComponent(t)}">${e(t)}</a>`).join(' ') || '<span class="muted">—</span>'}</dd></div>`)
-          .join('')}</dl>`;
+        const withTerms = list.filter((a) => searchTermsFor(a).length);
+        const without = list.filter((a) => !searchTermsFor(a).length);
+        return `<section class="guide-cat"><h2 id="cat-${c.id}">${e(c.name)} <span class="count">${withTerms.length}</span></h2><dl class="term-list">${withTerms
+          .map((a) => `<div data-q="${e((a.title + ' ' + (a.number || '') + ' ' + searchTermsFor(a).join(' ')).toLowerCase())}"><dt><a href="acts/${a.id}/index.html">${e(a.title)}</a>${a.number ? ` <span class="muted small">${e(a.number)}</span>` : ''}</dt><dd>${searchTermsFor(a).map((t) => `<a class="chip" href="search.html?q=${encodeURIComponent(t)}">${e(t)}</a>`).join(' ')}</dd></div>`)
+          .join('')}</dl>${without.length ? `<details class="no-terms"><summary>${without.length} more with no everyday names recorded yet</summary><p class="muted small">Search finds these by their title and number. Names and topics can be added to <code>data/search-terms.json</code>.</p><ul>${without.map((a) => `<li data-q="${e((a.title + ' ' + (a.number || '')).toLowerCase())}"><a href="acts/${a.id}/index.html">${e(a.title)}</a></li>`).join('')}</ul></details>` : ''}</section>`;
       })
       .join('')}
   </section>`,

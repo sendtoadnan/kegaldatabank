@@ -366,3 +366,17 @@ html { scroll-behavior: smooth; }
 .read-progress { position: fixed; top: 0; left: 0; right: 0; height: 3px; background: var(--accent); transform-origin: 0 50%; transform: scaleX(0); z-index: 30; }
 @supports (animation-timeline: scroll()) { .read-progress { animation: rp linear both; animation-timeline: scroll(root); } @keyframes rp { to { transform: scaleX(1); } } }
 @media print { .read-progress { display: none; } }
+
+/* ---- Wide list pages: Index and Search guide ---- */
+.prose.wide { max-width: 1080px; }
+.prose.wide .idx-list { display: grid; grid-template-columns: 1fr; column-gap: 28px; }
+@media (min-width: 900px) { .prose.wide .idx-list { grid-template-columns: 1fr 1fr; } .prose.wide .term-list { display: grid; grid-template-columns: 1fr 1fr; column-gap: 28px; } }
+.prose.wide .chips { position: sticky; top: 56px; z-index: 5; background: var(--bg); padding: 10px 0; margin: 12px 0; }
+.idx-item[hidden], .guide-cat[hidden], .term-list > div[hidden], .no-terms li[hidden] { display: none; }
+.guide-cat h2 .count { font-size: 0.8rem; color: var(--muted); font-weight: 400; }
+.no-terms { margin: 0 0 1.5rem; }
+.no-terms summary { cursor: pointer; color: var(--link); font-size: 0.9rem; }
+.no-terms ul { columns: 2; column-gap: 28px; padding-left: 18px; font-family: var(--sans); font-size: 0.88rem; }
+@media (max-width: 700px) { .no-terms ul { columns: 1; } }
+.prose.wide .chips { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: thin; }
+.prose.wide .chips .chip { white-space: nowrap; }

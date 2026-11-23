@@ -786,3 +786,23 @@
   box.addEventListener('input', apply);
   apply();
 })();
+
+// Search guide: filter the topic list.
+(function () {
+  var f = document.getElementById('guide-filter');
+  if (!f) return;
+  f.addEventListener('input', function () {
+    var q = f.value.trim().toLowerCase();
+    document.querySelectorAll('.guide-cat').forEach(function (sec) {
+      var any = false;
+      sec.querySelectorAll('[data-q]').forEach(function (el) {
+        var ok = !q || el.getAttribute('data-q').indexOf(q) > -1;
+        el.hidden = !ok;
+        if (ok) any = true;
+      });
+      var d = sec.querySelector('details');
+      if (d && q) d.open = true;
+      sec.hidden = !any;
+    });
+  });
+})();
