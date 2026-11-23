@@ -351,3 +351,18 @@ html { scroll-behavior: smooth; }
 .fab-top { position: fixed; right: 18px; bottom: 18px; width: 42px; height: 42px; border-radius: 50%; background: var(--accent); color: var(--accent-text); display: flex; align-items: center; justify-content: center; text-decoration: none; font-size: 1.2rem; box-shadow: 0 4px 14px rgba(0,0,0,.25); opacity: 0; pointer-events: none; transition: opacity .2s; z-index: 20; }
 @supports (animation-timeline: scroll()) { .fab-top { animation: fab-in linear both; animation-timeline: scroll(root); animation-range: 400px 600px; } @keyframes fab-in { to { opacity: 1; pointer-events: auto; } } }
 @media print { .fab-top { display: none; } }
+
+/* ---- Sources page filters, act details card, reading progress ---- */
+.src-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin: 16px 0 12px; }
+.src-card { text-align: left; font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; cursor: pointer; }
+.src-card strong { display: block; font-family: var(--serif); font-size: 1.5rem; color: var(--accent); }
+.src-card span { font-size: 0.8rem; color: var(--muted); }
+.src-card.is-on { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent) inset; }
+.src-filter { width: 100%; max-width: 420px; padding: 10px 12px; border: 1px solid var(--border); border-radius: 10px; background: var(--surface); color: var(--text); font: inherit; }
+
+.meta-wrap { margin: 14px 0; }
+.meta-wrap > summary { cursor: pointer; font-size: 0.85rem; color: var(--muted); padding: 4px 0; }
+.meta-wrap .meta { margin-top: 8px; }
+.read-progress { position: fixed; top: 0; left: 0; right: 0; height: 3px; background: var(--accent); transform-origin: 0 50%; transform: scaleX(0); z-index: 30; }
+@supports (animation-timeline: scroll()) { .read-progress { animation: rp linear both; animation-timeline: scroll(root); } @keyframes rp { to { transform: scaleX(1); } } }
+@media print { .read-progress { display: none; } }

@@ -12,7 +12,7 @@
  ],
  "enacted": "2012-06-18",
  "lastAmended": "2021-12-31",
- "amendedUpToLabel": "SECP PDF as downloaded 23 Nov 2026; no later amendment recorded to 20 June 2026",
+ "amendedUpToLabel": "20 June 2026 (no later amendment recorded)",
  "status": "in-force",
  "source": {
   "name": "Securities and Exchange Commission of Pakistan",
@@ -21,7 +21,7 @@
  "sourcePdf": "stock-exchanges-demutualization-regulations-2012.pdf",
  "verification": {
   "status": "verified",
-  "against": "SECP PDF SECP PDF as downloaded 23 Nov 2026; no later amendment recorded to 20 June 2026 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
   "verifiedBy": "Editor (declared reliable)",
   "verifiedOn": "2026-11-23"
  },

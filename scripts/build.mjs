@@ -107,6 +107,7 @@ ${body}
 </footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="${base}assets/app.js" defer></script>
+<div class="read-progress" aria-hidden="true"></div>
 <a class="fab-top" href="#" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'});return false">↑</a>
 </body>
 </html>
@@ -411,7 +412,7 @@ ${body}
       <h1>${e(act.title)} ${verificationBadge(act)}</h1>
       ${act.preamble ? `<p class="preamble">${e(stripMarkers(act.preamble))}</p>` : ''}
       ${noteList(act.frontNotes, 'Amendment notes on the title and enacting text', 'front')}
-      <dl class="meta">${meta}</dl>
+      <details class="meta-wrap" open><summary>Details of this instrument</summary><dl class="meta">${meta}</dl></details>
       ${verification}
       ${caution}
       ${sourceNotes}
@@ -670,7 +671,7 @@ ${body}
             : r?.status === 'manual' ? `<br><span class="muted small">${e(r.note)}</span>` : '';
         const page = r?.page || a.source.url;
         return `
-        <tr>
+        <tr data-status="${r?.status || 'manual'}" data-ver="${a.verification.status}" data-text="${e((a.title + ' ' + (a.number || '')).toLowerCase())}">
           <td><a href="acts/${a.id}/index.html">${e(a.title)}</a></td>
           <td>${a.amendedUpToLabel ? e(a.amendedUpToLabel) : a.enacted ? `As enacted (${e(a.enacted)})` : 'Not stated'}</td>
           <td><span class="badge ${cls}">${label}</span>${latest}</td>
@@ -708,8 +709,18 @@ ${body}
       : '<p>No automated check has been run yet.</p>'}
     <div class="note-box"><strong>Two different checks.</strong> <em>Edition status</em> says whether the library holds the latest edition the regulator lists (<span class="badge ok">Latest edition</span>). <em>Text checked</em> says whether a person has compared the library's text word for word with that PDF (<span class="badge ok">Verified</span>); until then it is <span class="badge warn">Unverified</span> and should be confirmed against the PDF before it is quoted. An instrument can be the latest edition and still unverified.</div>
     <p class="muted small">The check runs every week. FBR and FMU pages are read automatically. SECP's website blocks automated access and Pakistan Code lists no edition dates, so those laws are checked by hand and a screenshot of each check is kept below.</p>
+    <div class="src-cards" role="group" aria-label="Filter the table">
+      <button type="button" class="src-card is-on" data-src-filter="all"><strong>${acts.length}</strong><span>all instruments</span></button>
+      <button type="button" class="src-card" data-src-filter="status:current"><strong>${count('current')}</strong><span>latest edition confirmed</span></button>
+      <button type="button" class="src-card" data-src-filter="status:manual"><strong>${count('manual')}</strong><span>to check on the website</span></button>
+      <button type="button" class="src-card" data-src-filter="status:newer"><strong>${count('newer')}</strong><span>newer edition listed</span></button>
+      <button type="button" class="src-card" data-src-filter="ver:verified"><strong>${acts.filter((a) => a.verification.status === 'verified').length}</strong><span>text marked verified</span></button>
+      <button type="button" class="src-card" data-src-filter="ver:unverified"><strong>${acts.filter((a) => a.verification.status !== 'verified').length}</strong><span>text unverified</span></button>
+    </div>
+    <input id="src-filter" class="src-filter" type="search" placeholder="Filter by title or number" autocomplete="off" aria-label="Filter instruments by title or number">
+    <p id="src-count" class="muted small" aria-live="polite"></p>
     <div class="table-wrap">
-      <table class="sources-table">
+      <table class="sources-table" id="sources-table">
         <thead><tr><th>Instrument</th><th>Edition in the library</th><th>Edition status</th><th>Text checked</th><th>Regulator page</th></tr></thead>
         <tbody>${rows}</tbody>
       </table>

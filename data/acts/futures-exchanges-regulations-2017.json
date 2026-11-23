@@ -21,7 +21,7 @@
  "sourcePdf": "futures-exchanges-regulations-2017.pdf",
  "verification": {
   "status": "verified",
-  "against": "SECP PDF SECP consolidated PDF, updated till 7 February 2025 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "against": "SECP consolidated PDF, updated till 7 February 2025 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
   "verifiedBy": "Editor (declared reliable)",
   "verifiedOn": "2026-11-23"
  },

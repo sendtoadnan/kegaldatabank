@@ -10,7 +10,7 @@
  "aliases": [],
  "enacted": "2014-05-23",
  "lastAmended": "2021-12-31",
- "amendedUpToLabel": "Competition Commission of Pakistan PDF as downloaded 23 Nov 2026; no later change recorded to 20 June 2026",
+ "amendedUpToLabel": "20 June 2026 (no later change recorded)",
  "status": "in-force",
  "source": {
   "name": "Competition Commission of Pakistan",
@@ -19,7 +19,7 @@
  "sourcePdf": "competition-commission-reward-payment-informants-regulations-2014.pdf",
  "verification": {
   "status": "verified",
-  "against": "SECP PDF Competition Commission of Pakistan PDF as downloaded 23 Nov 2026; no later change recorded to 20 June 2026 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "against": "Competition Commission PDF downloaded from cc.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
   "verifiedBy": "Editor (declared reliable)",
   "verifiedOn": "2026-11-23"
  },

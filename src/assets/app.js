@@ -752,3 +752,37 @@
     });
   }
 })();
+
+// Sources page: filter cards and text box for the editions table.
+(function () {
+  var table = document.getElementById('sources-table');
+  if (!table) return;
+  var rows = Array.prototype.slice.call(table.tBodies[0].rows);
+  var box = document.getElementById('src-filter');
+  var count = document.getElementById('src-count');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('[data-src-filter]'));
+  var mode = 'all';
+  function apply() {
+    var q = (box.value || '').toLowerCase().trim();
+    var shown = 0;
+    rows.forEach(function (r) {
+      var ok = true;
+      if (mode.indexOf('status:') === 0) ok = r.dataset.status === mode.slice(7);
+      else if (mode === 'ver:verified') ok = r.dataset.ver === 'verified';
+      else if (mode === 'ver:unverified') ok = r.dataset.ver !== 'verified';
+      if (ok && q) ok = r.dataset.text.indexOf(q) !== -1;
+      r.hidden = !ok;
+      if (ok) shown++;
+    });
+    count.textContent = 'Showing ' + shown + ' of ' + rows.length;
+  }
+  cards.forEach(function (c) {
+    c.addEventListener('click', function () {
+      mode = c.getAttribute('data-src-filter');
+      cards.forEach(function (x) { x.classList.toggle('is-on', x === c); });
+      apply();
+    });
+  });
+  box.addEventListener('input', apply);
+  apply();
+})();
