@@ -1,0 +1,472 @@
+{
+ "id": "book-building-regulations-2015",
+ "title": "Book Building Regulations, 2015",
+ "number": "S.R.O. 636(I)/2015",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "book-building-regulations-2015.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Book Building Regulations, 2015' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and Commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Book Building Regulations, 2015.",
+      "(2) They shall come into force at once",
+      "(3) They shall apply to;",
+      ">>(i) offer of shares for sale by the Issuer or the Offerer through Public Offerings by way of book building;",
+      ">>(ii) Issuer and the Offerer;",
+      ">>(iii) Book Runner; and",
+      ">>(iv) Designated Institution."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 2,
+     "text": [
+      "(1) In these Regulations unless there is anything repugnant in the subject or context,-",
+      ">(a) “Act” means the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(b) “Banker to the Book Building” means any scheduled bank with whom an account is opened and maintained by the Issuer or the Offerer for keeping the Bid Amount;",
+      ">(c) “Bid Amount” means the amount equal to the product of the number of shares bid for and the Bid Price;",
+      ">(d) “Bid Collection Center” includes designated offices of the Book Runner, the SubBook Runner, specified branches of any of the scheduled bank and offices of any other institution specified by the Commission where bids are received and processed;",
+      ">(e) “Bidder” means the Eligible Investors who make bids for shares in the Book Building process;",
+      ">(f) “Bidding Period” means the period during which bids for subscription of shares are received;",
+      ">(g) “Bid Price” means the price at which bid is made for a specified number of shares;",
+      ">(h) “Book Building Portion” means that part of the total Issue allocated for subscription through the Book Building;",
+      ">(i) “Book Building” means a process undertaken to elicit demand for shares offered for sale through which bids are collected from the Bidders and a book is built which depicts demand for the shares at different price levels;",
+      ">(j) “Book Runner” means a person registered under these Regulations;",
+      ">(k) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Act;",
+      ">(l) “Designated Institution” includes the securities exchange, central depository or clearing house approved by the Commission to provide System for conducting Book Building;",
+      ">(m) “Dutch Auction Method” means the method through which Strike Price is determined by arranging all the Bid Price in descending order along with the number of shares and the cumulative number of shares bid for at each Bid Price. The Strike Price is determined by lowering the Bid Price to the extent that the total number of shares offered under the Book Building Portion is subscribed;",
+      ">(n) “Eligible Investor” includes individual and Institutional Investor whose Bid Amount is not less than the Minimum Bid Size;",
+      ">(o) “Floor Price” means the minimum price per share set by the Issuer or the Offerer;",
+      ">(p) “Institutional Investors” means any of the following entities:",
+      ">>(i) A Banking company as defined in the Banking Companies Ordinance, 1962.",
+      ">>(ii) A Financial Institution as referred to in Section 3A of the Banking Companies Ordinance, 1962.",
+      ">>(iii) An Investment Finance Company as defined in the Non-Banking Companies (Establishment and Regulation) Rules, 2003.",
+      ">>(iv) A Company as referred to in Section 503 of the Ordinance.",
+      ">>(v) A registered broker.",
+      ">>(vi) A Fund established under the Collective Investment Scheme under the NonBanking Companies (Establishment and Regulation) Rules, 2003.",
+      ">>(vii) A Trust established by a deed under the provisions of the Trust Act, 1882.",
+      ">(q) “Issue” means offer of shares for sale by an Issuer;",
+      ">(r) “Key Employee” means chief executive officer, director, chief financial officer and chief operating officer by whatever name called;",
+      ">(s) “Limit Price” means the maximum price a prospective Bidder is willing to pay for a share under the Book Building;",
+      ">(t) “Limit Bid” means a bid by the Bidder at a Limit Price;",
+      ">(u) “Minimum Bid Size” means the Bid Amount equal to one million rupees;",
+      ">(v) “Offer Size” means the total number of shares offered for sale comprising allocation to the Book Building Portion and allocation to the retail portion excluding pre-IPO placement, if any;",
+      ">(w) “Offer for Sale” means an offer of shares for sale by an Offerer;",
+      ">(x) “Ordinance” means the Companies Ordinance, 1984 (XLVII of 1984);",
+      ">(y) “Regulations” means the Book Building Regulations, 2015;",
+      ">(z) “Related Employees” mean such employees of the Issuer, the Offerer the Book Runner and Sub-Book Runner, if any who are directly involved in the Issue or the Offer for Sale;",
+      ">(aa) “Securities Act” means the Securities Act, 2015 (III of 2015);",
+      ">(bb) “Share” for the purpose of these Regulations shall include shares of a company and units of a REIT Scheme;",
+      ">(cc) “Step Bid” means a series of Limit Bids at increasing prices;",
+      ">(dd) “Strike Price” means the price per share determined on the basis of Book Building;",
+      ">(ee) “Sub-Book Runner” means a person registered under these regulations as a book runner and appointed by the Book Runner through an agreement in writing, as its agent, for the purpose of collecting Bids on its behalf; and",
+      ">(ff) “System” means an online electronic system operated by the Designated Institution for conducting Book Building.",
+      "(2) All words and expressions used but not defined in these Regulations shall, have the same meaning as assigned to them in the Act, the Ordinance, the Securities Act, 2015 (III of 2015) and the Real Estate Investment Trust Regulations, 2015."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Eligibility And Procedure For Book Building",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Eligibility",
+     "page": 4,
+     "text": [
+      "The following persons are eligible to issue or offer shares for sale to the public through the Book Building process under these Regulations,-",
+      ">>(i) a public limited company or a body corporate; and",
+      ">>(ii) an Offerer that intends to offer shares for sale held in a public unlisted or listed company or an unlisted or listed body corporate."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Conditions for Offer of Shares through Book Building",
+     "page": 4,
+     "text": [
+      "The Issuer or the Offerer may offer shares for sale under these Regulations, if it fulfills the following conditions namely:",
+      ">>(i) the Issuer meets all requirement as stipulated under the Listing of Companies and Securities Regulations of the stock exchange where the company is to be listed;",
+      ">>(ii) the total Offer Size is not less than twenty five million shares or such higher number of shares as may be specified by the Commission from time to time;",
+      ">>(iii) allocation of shares under the Book Building Portion shall not exceed seventy five per cent of the total Offer Size or such lower percentage as may be specified by the Commission from time to time;",
+      ">>(iv) it has appointed a Book Runner, through an agreement in writing, for undertaking the Book Building;",
+      ">>(v) name of the Book Runner and Sub-Book Runner, if any, is disclosed in the prospectus;",
+      ">>(vi) the Issuer or the Offerer has entered into a tripartite agreement in writing with the Designated Institution and the Book Runner and such agreement shall specify inter-",
+      "alia, the rights, duties, responsibilities and obligations of each party to the agreement and shall provide a clause on dispute resolution mechanism among the parties to the agreement;",
+      ">>(vii) details including address and contact persons for each designated Bid Collection Center are disclosed in the prospectus in the form and manner as provided in Appendix-A;",
+      "(viii) it has obtained approval of the Commission for issue, circulation and publication of the prospectus;",
+      ">>(ix) the prospectus is issued, circulated and published not less than seven days and more than thirty days before the commencement of the subscription period for the retail portion of the Issue, as required under the Securities Act; and",
+      ">>(x) within five working days of the closing of the Bidding Period, supplement to the prospectus shall be published at least in all those newspapers in which the prospectus was earlier published and also disseminated through securities exchange where shares are to be listed.",
+      "Explanation:- For the purposes of this clause the expression supplement to the prospectus means information relating to the Strike Price, the Offer Price, names of the underwriters of the retail portion of the Issue or the Offer for Sale, underwriting commission, category wise breakup of the successful bidders along with number of shares provisionally allocated to them and such other information as may be required by the Commission."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Procedure for Issue or Offer of shares through Book Building",
+     "page": 5,
+     "text": [
+      "(1) The bidding shall be conducted electronically through the System in a fair, efficient and transparent manner.",
+      "(2) The bidding shall remain open for at least two consecutive working days.",
+      "(3) In addition to the disclosures required under the Securities Act, the disclosures mentioned in Appendix-A to these Regulations shall also be suitably made in the Prospectus.",
+      "(4) After approval of the prospectus by the Commission, the Issuer or the Offerer shall seek allocation of dates for the Bidding Period and the retail subscription period.",
+      "(5) The Issuer or the Offerer shall, at least two days before commencement of the Bidding Period, place copy of the Prospectus on the websites of the Book Runner, the Designated Institution, the Issuer and the securities exchange(s) at which the company is to be listed after inserting dates of the Bidding Period.",
+      "(6) In case the Issuer or the Offerer does not receive bids for the number of shares allocated under the Book Building Portion, at the Floor Price, the offer shall be cancelled and the same shall be immediately intimated to the Commission, all the securities exchanges and the Designated Institution and the margin money shall be refunded to the bidders immediately but not later than two working days of the closing of the Bidding Period;",
+      "(7) The Book Building process will be considered as cancelled if the total number of bids received is less than forty;",
+      "(8) The associated companies and associated undertakings of the Issuer or the Offerer shall not in aggregate make bids for shares in excess of five per cent of the Book Building Portion and in order to check this, the Issuer or the Offerer shall provide names and Unique Identification Numbers of all its associated companies and associated undertakings as disclosed in the prospectus to the Book Runner at least three working days before the commencement of the Bidding Period;",
+      "(9) The Issuer or the Offerer shall open two separate bank accounts for collection of applications’ money, one each for the Book Building Portion and retail portion; and",
+      "(10) The Book-Runner shall ensure that subscription money received against the bids accepted shall not be released to the Issuer or the Offerer by the Banker to the Book Building Portion until:",
+      ">>(i) credit or dispatch of all shares allocated under the retail portion of the issue; and",
+      ">>(ii) issuance of NOC by the concerned Securities Exchange in case the company is already listed or formal trading of the company in case of new listing."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "The Floor Price",
+     "page": 6,
+     "text": [
+      "The Floor Price shall be decided by the Issuer or the Offerer and in case it is at a premium to the face value full justification for setting the Floor Price shall be disclosed in the Prospectus ."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Basis of Allotment",
+     "page": 6,
+     "text": [
+      "(1) In case the bids received are sufficient to allot the total number of shares offered for sale under the Book Building Portion, the allotment shall be made on the basis of highest bid priority that is the bid made at the highest price shall be considered first for allotment of shares.",
+      "(2) In case all the bids made above the Strike Price are accommodated and shares are still available for allotment, such available shares will be allotted against the bids made at the Strike Price strictly on time priority basis."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Restriction on Extension in the Biding Period",
+     "page": 6,
+     "text": [
+      "(1) No extension in the bidding period shall be allowed except in case of closure of banks due to extra ordinary circumstances. In such case, Book Runner shall apply to the Commission for extension in the Bidding Period.",
+      "(2) In case extension is granted under sub-regulation (1), the same shall be disseminated through publication in all those newspapers where the prospectus was published and the website of the Book Runner, Designated Institution and securities exchange(s) where the company is to be listed."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Restriction on revision of the Floor Price",
+     "page": 7,
+     "text": [
+      "The Floor Price shall not be revised once the Prospectus is published."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Restriction on Investors",
+     "page": 7,
+     "text": [
+      "(1) An Eligible Investor shall not make",
+      ">>(i) bid below the floor price;",
+      ">>(ii) a bid for more than 10% of the shares allocated under the Book Building Portion;",
+      ">>(iii) subject to the provision of clause (i) above, a bid with price variation of more than 20% of the prevailing indicative strike price or such other percentage as may be specified by the Commission;",
+      ">>(iv) a consolidated bid; or",
+      ">>(v) more than one bid either severally or jointly.",
+      "Explanation: For the purpose of this clause the term “Consolidated Bid” shall mean a bid which is fully or partially beneficially owned by persons other than the one named therein.",
+      "(2) In case there is any allocation or allotment of shares to investors through Pre-IPO placement, Private placement or through any other mode during the period of six months preceding the bidding date, at a price lower than the Strike Price, such shares shall not be saleable for a period of six months from the date of closing of subscription period for retail portion of the Issue."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Restriction on Related Employees",
+     "page": 7,
+     "text": [
+      "Related Employees of the Issuer, the Offerer the Book Runner and Sub-Book Runner shall not participate in the bidding for shares."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Restriction on provisional listing",
+     "page": 7,
+     "text": [
+      "The company whose shares are issued through Book Building shall not be provisionally listed."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Registration of the Eligible Investors",
+     "page": 7,
+     "text": [
+      "(1) The Book Runner shall:",
+      ">>(i) provide a mechanism for registration of the eligible investors at the designated Bid Collection Centers;",
+      ">>(ii) make all necessary arrangements for receiving bids and the instruments evidencing payment of the bid money; and",
+      ">>(iii) put in place a mechanism to enter details including the maximum Bid Amount of the registered Eligible Investors into the System.",
+      "(2) Once details of the Eligible Investor are entered into the System, the Designated Institution shall assign and communicate password and user ID to the Eligible Investors enabling them to directly place, revise or withdraw the bid as the case may be.",
+      "(3) The registration shall commence at least three days before the start of the Bidding Period and shall remain open till 03:00 p.m. on the last day of the Bidding Period."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Registration Of Book Runner",
+   "sections": [
+    {
+     "no": "14",
+     "title": "Prohibition",
+     "page": 8,
+     "text": [
+      "No person shall act or perform the functions of Book Runner unless such person is registered as a Book Runner with the Commission in accordance with these Regulations."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Eligibility criteria for registration",
+     "page": 8,
+     "text": [
+      "A person may apply to the Commission for registration as a Book Runner in accordance with these Regulations if such person is authorized by its constitutive document to act as a Book Runner and is a-",
+      ">(a) registered broker;",
+      ">(b) scheduled bank or a development financial institution as notified by the State Bank of Pakistan; or",
+      ">(c) any other institution as may be specified by the Commission."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Application and procedure for registration",
+     "page": 8,
+     "text": [
+      "(1) An application for registration as a Book Runner shall be made to the Commission in Form-A along with all the documents specified in Annexure-A and receipt evidencing payment of non-refundable fee of such amount as set out in Schedule-I.",
+      "(2) The Commission, while considering the application for registration, may require the applicant to furnish such further information or clarification regarding its activities and businesses as it deems appropriate.",
+      "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be intimated to the Commission within seven working days from the date of such change."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Grant of registration",
+     "page": 8,
+     "text": [
+      "(1) The Commission, while considering the application made under sub-regulation (1) of regulation 15 for granting a certificate of registration, shall inter alia take into account the following matters, namely:-",
+      ">(a) ability of the applicant to efficiently handle its functions as a Book Runner and honor its obligations in accordance with these Regulations;",
+      ">(b) necessary infrastructure including but not limited to adequate office space, equipment, experienced manpower having skill of performing functions as Book Runner;",
+      ">(c) conviction or involvement of the sponsors, directors or Key Employees of the applicant in an offence involving fraud or breach of trust; and",
+      "d) penal action against the applicant or its directors for an offence under the Ordinance, Act, the Securities and Exchange Ordinance, 1969 (XVII of 1969), The Stock Exchanges (Corporatization, Demutualization and Integration) Act, 2012 (Act No XV of 2012) or, the Securities Act.",
+      "2) The Commission on being satisfied that the applicant is eligible for registration may grant a certificate of registration to the applicant in Form-B.",
+      "(3) The certificate of registration shall remain valid for a period of three years from the date of registration unless it is restricted, suspended or cancelled earlier by the Commission."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Renewal of registration",
+     "page": 9,
+     "text": [
+      "(1) For renewal of its registration a Book Runner shall apply to the Commission, three months prior to the date of expiry of its registration, as per Form-C providing therewith a receipt evidencing payment of a non-refundable renewal fee of such amount as prescribed in Schedule-I and such documents as specified in Annexure-B.",
+      "(2) The Commission if satisfied that the applicant continues to meet the requirements for registration and is eligible for renewal of registration shall renew the registration of Book Runner and issue a certificate of renewal of registration to the applicant in Form-D.",
+      "(3) Where the application for renewal of registration is made within such time as specified in sub-regulation (1) but has not been decided by the Commission, the registration shall continue to be valid until the application for renewal is decided by the Commission.",
+      "(4) While granting renewal of registration to a Book Runner the Commission may, in addition to the criterion laid down for grant of registration, also take into account the past performance of the Book Runner."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Procedure where registration is not granted or renewed",
+     "page": 9,
+     "text": [
+      "(1) The Commission, after giving a reasonable opportunity of being heard to the applicant, may refuse to grant or renew a certificate of registration, if in opinion of the Commission such applicant does not fulfill the requirements prescribed in these regulations or where the Commission is of the view that it is not in public interest or in the interest of the capital market to grant or renew such certificate of registration.",
+      "(2) Any applicant being aggrieved by the decision of the Commission under sub-regulation (1) may prefer an appeal to the Appellate Bench of the Commission under section 33 of the Act within such time period as provided in the Act.",
+      "(3) The applicant may, if aggrieved by the decision of the Appellate Bench of the Commission under sub-regulation (2), prefer appeal to the Court under section 34 of the Act within such time period as provided in the Act.",
+      "(4) A Book Runner whose application for renewal of certificate of registration is refused by the Commission under sub-regulation (1) shall, from the date of receipt of the decision of the Commission, not to actor perform functions of a Book Runner."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Duties And Responsibilities Of The Issuer Or The Offerer, Book Runner And Designated Institution",
+   "sections": [
+    {
+     "no": "20",
+     "title": "Main Parties to the Issue and their Role and Responsibilities",
+     "page": 10,
+     "text": [
+      "(1) The Issuer or the Offerer.__ The Issuer or the Offerer shall be responsible to:",
+      ">>(i) appoint a Book Runner registered with the Commission and such Book Runner shall be independent and shall not be associated company or associated undertaking of the Issuer or the Offerer;",
+      ">>(ii) ensure that the Book Runner has adequate infrastructure and arrangement with the Designated Institution to carry out the Book Building on its behalf in a fair, efficient and transparent manner;",
+      ">>(iii) obtain all approvals, consents, no objection certificates and clearance relating to the issue or the Offer;",
+      ">>(iv) ensure that all disclosures as required under the Securities Act and these Regulations are made in the Prospectus;",
+      ">>(v) submit to the Commission, final report about issue, circulation and publication of the Prospectus; subscription received; strike price discovered; basis of allotment; refund made and related matters within thirty days of the closing of the public subscription;",
+      ">>(vi) provide to the Book Runner and disclose in the Prospectus, list of its associated companies and associated undertakings along with their respective Unique Identification Number, to be entered and capped at five per cent in the System before commencement of the Bidding Period;",
+      ">>(vii) ensure that list provided under clause (vi) above is complete and updated in all respects;",
+      "(viii) provide to the Book Runner names and Unique Identification Numbers of the Related Employees to be entered into the system before commencement of the Bidding Period; and",
+      ">>(ix) ensure that format and contents of the Bidding Form and bid revision Form are on the same format as specified by the Commission and are made part of the Prospectus.",
+      "(2) The Book Runner.__ The Book Runner to the issue or the Offer shall be responsible to:",
+      ">>(i) ensure that necessary infrastructure and electronic system is available to accept bids and to undertake the whole Book Building in a fair, efficient and transparent manner;",
+      ">>(ii) the Book Runner must be financially capable for honoring its commitments arising out of defaults by their client investors, if any;",
+      ">>(iii) collect margin money and subscription money from the Bidders in the manner as mentioned in these Regulations;",
+      ">>(iv) use the software provided by the Designated Institution for the Book Building on such terms and conditions as may be agreed through an agreement in writing;",
+      ">>(v) ensure that the software used for Book Building is based on Dutch Auction Method for display of the order book and determination of the strike price;",
+      ">>(vi) ensure that the bidders can access to the System and can revise their bids electronically using the user ID and the password;",
+      ">>(vii) ensure that it has established not less than two Bid Collection Centers in the city where the securities exchange on which the issuer is to be listed, is located, and in all major cities of the country at least in the Federal Capital and all the provincial capitals;",
+      "(viii) enter into an underwriting agreement with the Issuer or the Offerer with respect to underwriting of the Book Building Portion;",
+      ">>(ix) maintain record of all the bids received;",
+      ">>(x) ensure that it has obtained list and Unique Identification Numbers of the associated companies and associated undertakings of the Issuer;",
+      ">>(xi) ensure that names and Unique Identification Numbers of all the persons mentioned in clause (xi) are entered and capped at five per cent into the System before commencement of the Bidding Period;",
+      ">>(xii) ensure that no bid in aggregate exceeding five per cent is made by the persons referred to in clause (xi) above;",
+      "(xiii) ensure that it has obtained names and Unique Identification Numbers of the Related Employees of the Issuer, the Offerer and the Book Runner and that names and Unique Identification Numbers of all such employees are entered into the system and blocked for participation in the bidding;",
+      ">>(xiv) with the consent in writing, of the Issuer or the Offerer may appoint sub-Book Runner pursuant to an agreement in writing which shall clearly stipulates the roles and responsibilities of the sub-Book Runner. The prime responsibility for all acts of the sub-Book Runner shall be on the Book-Runner itself.",
+      "(3) Designated Institution.__(1) The Designated Institution shall ensure that the System used for the book building is capable to perform such functions as mentioned in Appendix-B.",
+      "(2) The Designated Institution shall ensure that:",
+      ">>(i) identity of the bidder is not displayed;",
+      ">>(ii) no bid is entered into the System after closing of the Bidding Period;",
+      ">>(iii) no bid is withdrawn after 4:00 p.m. on last day of the Bidding Period;",
+      ">>(iv) Downward revision of bid price shall not be allowed after 4:00 p.m. of the last day of the bidding;",
+      ">>(v) the software used for Book Building is based on Dutch Auction Method for display of the order book and determination of the strike price; and",
+      ">>(vi) record of all the bids received and the bidding book is maintained for a period of at least five years from the closing of the Bidding Period as per the format mentioned in Appendix-C."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Procedure For Bidding",
+   "sections": [
+    {
+     "no": "21",
+     "title": "Procedure for bidding",
+     "page": 12,
+     "text": [
+      "(1) The procedure for bidding shall be as under:",
+      ">>(i) bids can be at a ‘Limit Price’ or can be a ‘Step Bid’:",
+      "Provided that the minimum size of a limit bid shall not be less than one million rupees and in case of a step bid, the amount of any step shall not be less than two hundred and fifty thousand rupees;;",
+      ">>(ii) in addition to the procedure provided in regulation 12(2), the investors may place their bids through any of the Bid Collection Centers;",
+      ">>(iii) the persons at the Bid Collection Centers shall vet the bid applications and accept only such bid applications that are duly filled in and supported by pay order, demand draft or a bank receipt evidencing transfer of the bid money into the Issuer’s designated bank account;",
+      ">>(iv) on receipt of bid application in accordance with clause (iii), the Book Runner shall enter Bid into the System and issue to the bidder an electronic receipt bearing name of the book runner, name of the bidding center, date and time;",
+      ">>(v) the bidding shall commence from 09:00 a.m. and close at 05:00 p.m. on all days of the Bidding Period. The bids shall be collected and entered into the system by the Book-Runner till 05:00 p.m. on the last day of the bidding period; and",
+      ">>(vi) the registered investors shall have the right;",
+      ">(a) to withdraw their bids till 04:00 p.m. on last day of the bidding period either manually through the Bid Collection Centers or electronically through direct access to the system. No withdrawal shall be allowed after 4:00 p.m. on last day of the bidding period; and",
+      ">(b) subject to the provision of regulation No. 20(3)(2)(iv), to revise their bids any time either manually through the Bid Collection Centers or electronically through direct access to the system till 05:00 p.m. on the last day of the Bidding Period. No downward revision shall be allowed after 4:00 p.m. on last day of the bidding period.",
+      "(2) The Book Runner shall collect full amount of the bid money as margin money in respect of bids placed by the individual investors and not less than twenty five percent (25%) of the bid money as margin money in respect of bids placed by the institutional investors.",
+      "(3) Payment of margin money shall be accepted only through demand draft, pay order or online transfer and third party payment instruments shall not be accepted.",
+      "(4) The Book Runner may on its own discretion accept bid without margin money provided Book Building Portion is fully underwritten at least at the Floor Price by the Book Runner.",
+      "(5) The Book Runner may reject any bid for reasons to be recorded in writing provided the reason of rejection is disclosed to such bidder. Decision of the Book Runner shall not be challengeable by the bidder or its associates.",
+      "(6) The Designated Institution shall through the System display live throughout the bidding period an order book in descending order showing demand for shares at various prices and the accumulated number of shares bid for along with percentage of the total shares offered. The order book should also show the revised bids and the bids withdrawn. The order book shall be accessible through websites of the Designated Institution, Book Runner, securities exchanges, clearing house and the central depository.",
+      "(7) At the close of the bidding period, Strike Price shall be determined on the basis of Dutch Auction Method by Designated Institution.",
+      "(8) Once the Strike Price is determined all those bidders whose bids are found successful shall become entitled for allotment of shares.",
+      "(9) The bidders who have made bids at prices above the Strike Price shall be allotted shares at the Strike Price and the differential shall be refunded.",
+      "(10) The bidders who have made bids at the Strike Price shall be allotted shares in accordance with sub-regulation (2) of regulation 7.",
+      "(11) The bidders who have made bids below the Strike Price shall not qualify for allotment of shares and their margin money shall be refunded within five working days of the close of the bidding period.",
+      "(12) Successful bidders shall be intimated, within one working day of the closing of the bidding period, the Strike Price and the number of shares provisionally allotted to each of them. The successful institutional bidders shall, within three working days of the closing of the bidding period, deposit the balance amount as consideration against allotment of shares. Where a successful bidder defaults in payment of shares allotted to it, the margin money deposited by such bidder shall be forfeited to the Book Runner;",
+      "(13) Final allotment of shares out of the Book Building Portion shall be made after receipt of full subscription money from the successful bidders, however, shares to such bidders shall be credited at the time of credit and dispatch of shares out of the retail portion.",
+      "(14) The successful bidders shall be issued shares only in the form of book-entry to be credited in their respective CDS accounts. All the bidders shall, therefore, provide their CDC account numbers in the bid application.",
+      "(15) The Designated Institution shall continue to display on its website, the data pertaining to the Book Building and determination of the Strike Price for a period of at least three working days after closure of the bidding period."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Prohibition of fraudulent acts, etc",
+     "page": 14,
+     "text": [
+      "_ No person shall take part in the book building process, directly or indirectly severally or jointly for the purpose of inducing, dissuading, effecting, preventing or in any manner influencing or turning to his advantage engage in any act, practice which create a false and misleading appearance of active bidding by entering a series of bids creating the appearance of active bidding therein for raising or depressing strike price in the book building process."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Maintenance of Books and Records",
+     "page": 15,
+     "text": [
+      "The Issuer or the Offerer, the Book Runner and the Designated Institution shall maintain record of the issue for a period of at least five years from the closing of the public subscription."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Disciplinary Proceedings",
+   "sections": [
+    {
+     "no": "24",
+     "title": "Restriction or suspension of registration",
+     "page": 15,
+     "text": [
+      "(1) Where Book Runner fails to comply with or contravenes any provisions of these Regulations or is not in compliance with conditions of registration or any directive issued or order passed by the Commission, the Commission may, after providing a reasonable opportunity of representation to Book Runner, impose-",
+      ">(a) a restriction on activities as Book Runner or suspend its registration; and / or",
+      ">(b) a penalty provided under regulation 27.",
+      "(2) A Book Runner whose registration has been suspended shall not act as or perform the functions of Book Runner for any new issue during the period of suspension and remove the causes of suspension within a period of one hundred and twenty days from the receipt of the suspension order or such earlier period as specified in the order of suspension.",
+      "(3) The Commission while restricting or suspending the registration of the Book Runner may impose such conditions, as it deems appropriate."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Cancellation of registration",
+     "page": 15,
+     "text": [
+      "(1) The Commission, may after providing a reasonable opportunity of being heard to the Book Runner, cancel the registration of the Book Runner, if-",
+      ">(a) in the opinion of the Commission the Book Runner has violated any provision of this Regulation ;",
+      ">(b) it is found guilty of fraud; or",
+      ">(c) its registration has been suspended and the causes of suspension have not been removed within one hundred and twenty days from the receipt of suspension order or such earlier period as specified in the order of suspension.",
+      "(2) The Commission while cancelling the registration of Book Runner may take such measures and issue such directions as it deems appropriate and are not inconsistent with the Act, the Ordinance, the Securities Act and The Stock Exchanges (Corporatization, Demutualization and Integration) Act, 2012 (Act No XV of 2012).",
+      "(3) The registration of Book Runner shall stand automatically cancelled and its name shall be struck off if such Book Runner -",
+      ">(a) voluntarily surrenders its certificate of registration to the Commission;",
+      ">(b) is wound up by an order passed by a court of competent jurisdiction; or",
+      ">(c) ceases to hold a valid license or registration as a scheduled bank, development financial institution or register broker.",
+      "(4) Notwithstanding anything contained in sub-regulation (1), where the Commission is satisfied that delay in the cancellation of registration of Book Runner will be detrimental to the interest of investors or the public in general, the Commission may immediately cancel the registration of Book Runner till the time an opportunity of being heard is provided to the Book Runner and final order is passed:",
+      "Provided that where the Commission cancels the registration under sub-regulation (4), the Commission shall, after giving the Book Runner a reasonable opportunity of being heard, pass the final order within sixty days of such cancellation.",
+      "(5) Upon cancellation of the registration, the Book Runner shall forthwith cease its business as Book Runner."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Miscellaneous",
+   "sections": [
+    {
+     "no": "26",
+     "title": "Power of the Commission to issue directives, circulars, etc",
+     "page": 16,
+     "text": [
+      "The Commission may, if it is satisfied that it is necessary or expedient so to do in the public interest or in the interest of the capital market, by order in writing, give such directions or issue such circulars, not inconsistent with the Securities Act and these regulations, to Issuer or Offerer, Book Runner and Designated Institution as it may deem fit"
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Penalty",
+     "page": 16,
+     "text": [
+      "Whoever, fails or refuses to comply with, or contravenes any of the provisions of these Regulations shall be punishable with a fine not exceeding ten million rupees and where the contravention is continuing one with a further fine which may extend to one hundred thousand rupees for every day after the first during which such contravention continues."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Appendix-A",
+   "page": 17
+  },
+  {
+   "title": "Appendix-B",
+   "page": 19
+  },
+  {
+   "title": "Appendix-C",
+   "page": 20
+  },
+  {
+   "title": "Annexure-A",
+   "page": 22
+  },
+  {
+   "title": "Annexure-B",
+   "page": 24
+  }
+ ]
+}

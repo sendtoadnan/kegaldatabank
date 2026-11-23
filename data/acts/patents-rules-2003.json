@@ -1,0 +1,1030 @@
+{
+ "id": "patents-rules-2003",
+ "title": "Patents Rules, 2003",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "ip"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on IPO Pakistan's website (23 Nov 2026)",
+ "status": "in-force",
+ "source": {
+  "name": "Intellectual Property Organization of Pakistan",
+  "url": "https://ipo.gov.pk"
+ },
+ "sourcePdf": "patents-rules-2003.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "IPO Pakistan PDF 'Patents Rules, 2003' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Rules may be called the Patents Rules, 2003.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "In these rules, unless there is anything repugnant in the subject or context,-",
+      ">(a) “agent” means an advocate, or a person registered as an agent whose name is on the register of patent agents kept under section 79 and rule 45;",
+      "(2813) Price: Rs. 63.00 [5382 (2003). Gaz.]",
+      ">(b) “Chemical product” means a chemical compound;",
+      ">(c) “Claims” means claims made in the Patent application.",
+      ">(d) “Controller” means the Controller of Patents appointed under section 3;",
+      ">(e) “Convention application” shall have the meaning attributed to it under clause (c) of section 2;",
+      ">(f) “Form” means a form as set out in the Second Schedule to these rules;",
+      ">(g) “Graduate” means a graduate of a university established by law in Pakistan, any foreign University recognized by the Federal Government;",
+      ">(h) “Ordinance” means the Patents Ordinance, 2000 (LXI of 2000);",
+      ">(i) “patent” means a patent granted under the provisions of the Ordinance;",
+      ">(j) “Register” means the Register of Patents kept under section 54;",
+      ">(k) “research” means an effort to create or improve products or processes, especially by discovering new technology or advancing existing technology.",
+      ">(l) “section” means a section of the Ordinance;"
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Fee",
+     "page": 2,
+     "text": [
+      "(1) The fee to be paid in respect of any application, registration or any other matter under the Ordinance and these rules shall be those specified under the First Schedule to these rules, hereinafter referred to as the prescribed fee.",
+      "(2) Fee may be paid in cash at the Patent Office or may be sent by money order or postal order or cheques or bank drafts on a scheduled bank, payable to the Controller of Patents at Karachi, and if sent through the post shall be deemed to have been paid at the time when the money order, or the properly addressed and prepaid letter containing the cheque or the bank draft or the postal order, would be received in the ordinary course of post or courier.",
+      "(3) Cheques or bank drafts not carrying the correct addition for commission, and other cheques on which the full value cannot be collected in cash within the time allowed for payment of the fee shall be accepted only at the discretion of the Controller.",
+      "(4) Stamps shall not be received in payment of fee."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Forms",
+     "page": 3,
+     "text": [
+      "The forms set out in the Second Schedule to these rules with such variations as the circumstances of each case require, shall be used for the respective purposes therein mentioned, and if used, shall be sufficient."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Language, Size and nature of documents",
+     "page": 3,
+     "text": [
+      "(1) All documents (including drawings) making up an application for a patent or replacing such documents shall be in the English language. In case any document is in a language other then English a translation thereof in English verified by statutory declaration or otherwise to the satisfaction of the Controller shall be furnished.",
+      "(2) All documents referred to in sub-rule (1) above shall be so presented as to permit of direct reproduction by photography, electrostatic processes, photo offset and micro-filming, in an unlimited number of copies, all sheets shall be free from cracks, creases and folds. Only one side of the sheet shall be used.",
+      "(3) All documents referred to in sub-rule (1) above shall be on stout white A4 size paper (29.7cm X 21cm).",
+      "(4) The request for the grant of a patent and the description, claims, drawings and abstract shall each commence on a new sheet.",
+      "(5) Subject to sub-rule (1) of rule 11(1), the minimum margins shall be as follows: Top 2.0cm Left side 2.5cm Right side 2.0cm Bottom 2.0cm (6) The margins of the documents making up the application may contain the marginal numbers.",
+      "(7) In the application, except in the drawings,-",
+      ">(a) all sheets in the request shall be numbered consecutively; and",
+      ">(b) all other sheets shall also be numbered consecutively.",
+      "(8) All sheets of drawings contained in the application shall be numbered consecutively.",
+      "(9) Every document (other than drawings) referred to in sub-rule (1) above shall be typed or printed in legible characters in a black, indelible ink in at least 1 ½ line spacing.",
+      "Provided that any forms may be filled in writing, and that graphic symbols and characters and chemical and mathematical formulae may be written or drawn, in a black indelible colour.",
+      "(10) In all documents referred to in sub-rule (1) above units of weights and measures shall be expressed in terms of the metric system. If a different system is used they shall also be expressed in terms of the metric system. Temperatures shall be expressed in degrees Celsius. For the other physical values, the units recognized in international practice shall be used, for mathematical formulae the symbol, in general use, and for chemical formulae the symbols, atomic weight and molecular formulae in general use shall be employed. In general, use should be made of technical terms, signs and symbols generally accepted in the relevant field.",
+      "(11) If a formula or symbol is used in the specification, a copy thereof prepared in the same manner as drawings shall be furnished if the Controller so directs.",
+      "(12) The terminology and the signs shall be consistent throughout the application.",
+      "(13) All documents referred to in sub-rule (1) above shall be reasonably free from deletions and other alterations, overwritings and interlineations and shall, in any event, be legible."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Leaving and serving documents",
+     "page": 4,
+     "text": [
+      "(1) Any application, notice or other document authorized or required to be left, made or given at the Patent Office, or to the Controller or to any other person under the Ordinance or these rules, may be sent by hand, or by a prepaid letter through the post or courier service, and if sent by a prepaid letter shall be deemed to have been left, made or given at the time when the letter containing the same would be received in the ordinary course of post and courier service.",
+      "(2) Any written communication addressed to a right holder at his address as it appears on the Register or at his address for service, or to any applicant or other person in any proceedings under the Ordinance or these rules, at the address appearing on the application or notice, or given for service, shall be deemed to be properly addressed."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Address for service",
+     "page": 4,
+     "text": [
+      "(1) Every applicant or opponent in any proceedings under the Ordinance or these rules and every person who shall thereafter becomes a patentee shall give an address for service in Pakistan and such address may be treated, for all purposes connected with the patent, as the actual address of such applicant, opponent or registered proprietor. Unless such an address is given, the Controller shall be under no obligation either to proceed with the application or the opposition, or to send any notice that may be required by the Ordinance or these rules.",
+      "(2) For all matters falling under the provisions of section 81, any person may, unless otherwise directed by the Controller, authorize, under his personal signatures, a legal practitioner or a patent agent to act as his agent and to receive all notices, requisitions and communications. The authority may be given in the form as set out in Form P-28."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Application For Grant Of Patents",
+   "sections": [
+    {
+     "no": "8",
+     "title": "Application for the grant of Patents",
+     "page": 5,
+     "text": [
+      "(1) An application for grant of a patent, other than a Convention application, by the true and first inventor shall be made in the form as set out in Form P-1,",
+      "Provided that if the true and first inventor is not a party to the application, the applicant shall produce the original deed of assignment or other document from such true and first inventor, under which he is entitled to apply for a patent, unless such an application made in the form set out in Form P-1A itself is endorsed by the true and first inventor(s) in the presence of two witnesses with a statement that the application shall be made without his name as an applicant for the patent.",
+      "(2) A convention application by the true and first inventor shall be made in the form as set out in Form P-2.provided that if the true and first inventor is not a party to the application, the applicant shall produce the original deed of assignment or other document from such true and first inventor, under which he is entitled to apply for a patent, unless such application made in the form as set out in Form P-2A itself is endorsed by the true and first inventor in the presence of two witnesses with a statement that the application shall be made without his name as an applicant for a patent.",
+      "(3) In the case of an application, other than a Convention application, by the personal representative of a deceased person, who, immediately before his death, was entitled to make such an application, the probate of the will of the deceased, or the letter of administration of his estate, or an official copy of the probate or letter of administration, shall be produced at the Patent Office in proof of the applicant’s title to act as the personal representative.",
+      "(4) Where in pursuance of sub-section (3) of section 14, the Controller allows a single complete specification to be proceeded with in respect of two or more applications in respect of which two or more provisional specifications have been filed, the single complete specification may include any matter disclosed in any of the said specifications and shall be deemed to have been filed on such date, not earlier than the earliest date on which all the matter disclosed in the said single complete specification has been disclosed to the Patent Office in or in connection with the applications, as the Controller may direct.",
+      "(5) Where an applicant has made an application for a patent and, before the acceptance of the complete specification, makes a divisional application for a patent for matter included in the first mentioned application or in any specification filed in pursuance thereof, the Controller may direct that the fresh application or any specification filed in pursuance thereof shall be ante-dated to a date not earlier than the date of filing of the first mentioned application or specification if the applicant includes in the fresh application a request to that effect.",
+      "Provided that the Controller may require such amendment of the complete specification filed in pursuance of either of the said applications as may be necessary to ensure that neither of the said complete specification includes a claim for matter claimed in the other.",
+      "(6) Where a complete specification has been filed pursuant to two or more applications accompanied by provisional specifications for inventions which the applicant believes to be cognate or modifications one of another, and the Controller is of opinion that such inventions are not cognate or modifications one of another, the Controller may allow the complete specification to be divided into such number of complete specifications as may be necessary to enable that applications to be proceeded with as two or more separate applications for patents.",
+      "(7) Where a single Convention application has been made in respect of all or part of the inventions in respect of which two or more applications for protection have been made in one or more Convention countries, and the Examiner reports that the claims of the specification filed in the said Convention application relate to more than one invention, the Controller may allow one or more further applications to be filed and the specification to be divided into such number of specifications as may be necessary to enable two or more separate Convention applications to be proceeded with and may direct that the said applications be deemed to have been filed on the date of filing of the original application.",
+      "(8) Where in pursuance of sub-section (1) of section 88 the Controller allows more than three months to file a copy or copies of the specification or specifications, and drawings or documents filed or deposited by the applicant or his predecessor in title, as the case may be, in respect of the Conventional application, a request for such extension of time shall be made in the form as set out in Form P-4 provided, however that such extension shall not exceed maximum 3 periods of 3 months each from the date of filing of the Convention application.",
+      "(9) Save as aforesaid, all proceedings in connection with a Convention application shall be taken within the time and in the manner required by the Ordinance or prescribed by these rules for ordinary applications.",
+      "(10) Applications shall, on receipt by the Controller, be numbered and dated in the order of their receipt."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Specification, Abstract And Drawings",
+   "sections": [
+    {
+     "no": "9",
+     "title": "Specification",
+     "page": 6,
+     "text": [
+      "(1) Every specification, whether provisional or complete, shall begin with title and be signed, and dated at the end by the applicant or his agent.",
+      "(2) A specification in respect of a patent of addition shall contain a specific reference to the number of the main patent and patent application as the case may be with a definite statement that the invention comprises an improvement in, or a modification of, the invention claimed in the specification of the main patent or patent application as the case may be.",
+      "(3) Where the invention is capable of elucidation and presentation by drawings, such drawings shall be prepared in accordance with rule 11 and shall be supplied with, and referred to in detail in the specification:",
+      "(4) Irrelevant or other matter, not necessary, in the opinion of the Controller, for elucidation of the invention, shall be excluded from the title, description, abstract, claims and drawings.",
+      "(5) The Third Schedule to these rules shall have effect in relation to certain applications for patents, and patents for inventions which involve the use of or concern biological material."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Abstract",
+     "page": 7,
+     "text": [
+      "(1) The abstract shall commence with the title for the invention.",
+      "(2) The abstract shall contain a concise summary of the matter contained in the specification. The summary shall indicate the technical field to which the invention belongs and be drafted in a way which allows a clear understanding of the technical problem to which the invention relates, the gist of the solution to that problem through the invention and the principal use or uses of the invention. Where appropriate, the abstract shall also contain the chemical formula which, among those contained in the specification, best characterizes the invention. It shall not contain statements on the alleged merits or value of the invention or on its speculative application.",
+      "(3) The abstract shall normally consist of not more than 2 pages.",
+      "(4) If the specification contains any drawings, the applicant shall indicate on the abstract the figure or, exceptionally, the figures of the drawings which he suggests should accompany the abstract when published. The Controller may decide to publish one or more other figures if he considers that they better characterise the invention. Each main feature mentioned in the abstract and illustrated by a drawing shall be followed by the reference sign used in that drawing."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Drawings",
+     "page": 7,
+     "text": [
+      "(1) Drawings shall be on sheets the usable surface area of which shall not exceed 26.2 cm by 17 cm. The sheets shall not contain frames round the usable or used surface. The minimum margins shall be as follows,Top 2.5 cm Left side 2.5 cm Right side 1.5 cm Bottom 1.0 cm (2) Drawings shall be executed as follows,-",
+      ">(a) without colouring in durable, black, sufficiently dense and dark, uniformly thick and well-defined lines and strokes to permit satisfactory reproduction;",
+      ">(b) cross-sections shall be indicated by hatching which does not impede the clear reading of the reference signs and leading lines;",
+      ">(c) the scale of the drawings and the distinctness of their graphical execution shall be such that a photographic reproduction with a linear reduction in size to two-thirds would enable all details to be distinguished without difficulty. If, as an exception, the scale is given on a drawing, it shall be represented graphically;",
+      ">(d) all numbers, letters, and reference signs, appearing on the drawings shall be simple and clear and brackets, circles and inverted commas shall not be used in association with numbers and letters;",
+      ">(e) elements of the same figure shall be in proportion to each other, unless a difference in proportion is indispensable for the clarity of the figure;",
+      ">(f) the height of the numbers and letters shall not be less than 0.32 cm and for the lettering of drawings, the Latin and, where customary, the Greek alphabets shall be used;",
+      ">(g) the same sheet of drawings may contain several figures. Where figures drawn on two or more sheets are intended to form one whole figure, the figures on the several sheets shall be so arranged that the whole figure can be assembled without concealing any part of the partial figures. The different figures shall be arranged without wasting space, clearly separated from one another. The different figures shall be numbered consecutively in English numerals, independently of the numbering of the sheets;",
+      ">(h) reference signs not mentioned in the description or claims shall not appear in the drawings, and vice versa. The same features, when denoted by reference signs, shall, throughout the application, be denoted by the same signs;",
+      ">(i) the drawings shall not contain textual matter, except, when required for the under standing of the drawings, a single word or words such as “water”, “steam”, “open”, “closed”, section on AA”, and, in the case of electric circuits and block schematic or flow sheet diagrams, a few short catchwords; and",
+      ">(j) the sheets of the drawings shall be numbered in accordance with sub-rule (9)of rule 5.",
+      "(3) Flow sheets and diagrams shall be considered to be drawings for the purposes of these Rules.",
+      "(4) Drawings shall bear,-",
+      ">(a) in the left-hand top corner the name of the applicant and, in the case of drawings filed with a complete specification after one or more provisional specifications, the numbers and years of the applications;",
+      ">(b) in the right-hand top corner the number of sheets or drawings sent and the consecutive number of each sheet, and the words ‘original’ or ‘true copy’ as the case may require;",
+      ">(c) in the right-hand bottom corner the signature of the applicant or his agent.",
+      "(5) The title of the invention shall not appear on the drawings.",
+      "(6) No descriptive matter shall appear on constructional drawings, but drawings in the nature of flow sheets may bear descriptive matter to show the materials used and the chemical or other reactions or treatments effected in carrying out the invention.",
+      "(7) Drawings showing a number of instruments or units of apparatus and their interconnections, either mechanical or electrical, where each such instrument or unit is shown only symbolically, may bear such descriptive matter as is necessary to identify the instruments or units or their interconnections.",
+      "(8) No drawing or sketch, other than a graphic chemical formula or a mathematical formula, symbol or equation, shall appear in the verbal part of the specification and if such a formula, symbol or equation is used therein in a copy thereof, prepared in the same manner as original drawings, shall be furnished if the Controller so directs.",
+      "(9) Drawings shall be delivered at the Patent Office free from folds, breaks or creases, which would render them unsuitable for reproduction.",
+      "(10) If an applicant desires to adopt the drawings filed with his provisional specification as the drawings or part of the drawings for his complete specification, he shall refer to them in the complete specification as those filed with the provisional specification."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Manner of Making amendments",
+     "page": 9,
+     "text": [
+      "(1) When a specification, or any drawing accompanying it, requires an amendment, one copy shall be returned to the applicant or his agent and all amendments shall be made thereon as far as possible. Additional matter may be interpolated, if necessary, by rewriting such pages as are required to form a continuous document. Amendments shall not be made by slips pasting, or as footnotes, or by writing in the margin.",
+      "(2) The amended document shall be returned to the Controller together with the cancelled or replaced pages or drawings, if any, duly marked, cancelled and initialed by the applicant or his agent, along with a duplicate of any pages that have been added or substantially amended. Amendments, alterations or additions shall be initialed in the margin by the applicant or his agent.",
+      "(3) No amendments, alterations or additions shall be made in a document returned for amendment, beyond those necessary to comply with the requirements of the Controller."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Application under section 101",
+     "page": 9,
+     "text": [
+      "Application under section 101 shall be made in the form as set out in Form P-30."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Examination Of Applications, Publication, Opposition, Sealing Of Patent And Renewals",
+   "sections": [
+    {
+     "no": "14",
+     "title": "Procedure under Section 16",
+     "page": 10,
+     "text": [
+      "(1) When the Examiner, in pursuance of the requirements of sub-section (1) of section 16, reports that the invention as claimed in any claim of the complete specification has been published in any specification or other document, or otherwise cannot be accepted for the reasons specified in his report, the applicant shall be so informed in writing and shall be afforded an opportunity of amending his specification.",
+      "(2) If the applicant re-files his specification and the Examiner is not satisfied with the amendments, the applicant shall be given an opportunity to be heard in the matter if he so requests.",
+      "(3) Whether or not the applicant has re-filed his specification, the Controller may appoint a hearing if he considers it desirable to do so, having regard to the time remaining for putting the application in order or other circumstances of the case.",
+      "(4) When a hearing is appointed, the applicant shall be given at least ten days’ notice of the appointment or such shorter notice as appears to the Controller to be reasonable in the circumstances and shall as soon as possible notify the Controller in the form as set out in Form P-8 whether he will attend the hearing.",
+      "(5) After hearing the applicant, or without a hearing if the applicant has not attended or has notified that he does not desire to be heard, the Controller may prescribe or permit such amendment as will be to his satisfaction and may refuse to accept the complete specification unless the amendment is made within such period as he may fix, not exceeding the total period prescribed under sub-section (6) of section 16.",
+      "(6) An application for extension of time under the first proviso of sub-section (6) of section 16 shall be made in the form as set out in Form P-4.",
+      "(7) An application for postponement of normal acceptance by the applicant under the second proviso of sub-section (6) of section 16 shall be made in the form as set out in Form P-4."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Reference to other patents",
+     "page": 10,
+     "text": [
+      "(1) When, pursuant to the requirements of sub-section (1) of section17, the Controller directs that reference to a patent shall be inserted in the applicant’s complete specification, the reference shall be inserted in the following form:“Reference has been directed in pursuance of sub-section (1) of section 17 of the Patents Ordinance 2000, to Patent No._________.”",
+      "(2) An application under sub-section (2) of section 17 for the deletion of a reference inserted pursuant to a direction under sub-section (1) of section 17 shall be made in the form as set out in Form P-5, and shall state fully the facts relied upon in support of the application."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Substitution of applications, etc. under section 18",
+     "page": 10,
+     "text": [
+      "(1) A claim under sub-section (1) of section 18 that an application for a patent shall proceed in the name of the claimant or in the names of the claimants and the applicant or the other joint applicants shall be made in the form as set out in Form P-6 and shall be accompanied by a certified copy of any assignment or agreement upon which the claim is based.",
+      "(2) The original assignment or agreement shall also be produced for the Controller’s inspection, and the Controller may call for such other proof of title or written consent as he may require."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Advertisement of application",
+     "page": 11,
+     "text": [
+      "(1) The Controller shall advertise the acceptance of every application in the Official Gazette.",
+      "(2) Within thirty days from the date of receipt of the notice of acceptance of the application, the applicant shall send a copy of the abstract of the complete specification ‘as accepted’ to the institutions at the addresses mentioned in the Fourth Schedule to these rules by registered post."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Opposition to grant of patent",
+     "page": 11,
+     "text": [
+      "(1) A notice of opposition to the grant of a patent, (a) shall be given in the form as set out in Form P-7;",
+      ">(b) shall state the ground or grounds on which the opponent intends to oppose the grant, and",
+      ">(c) shall be accompanied by a statement in duplicate setting out fully the nature of the opponent’s interest, the facts upon which he relies and the relief which he seeks.",
+      "(2) A copy of the notice and of the statement shall be sent by the Controller to the applicant.",
+      "(3) If the applicant desires to proceed with his application, he shall, within two months of the receipt of such copies, file a counterstatement setting out fully the grounds upon which the opposition is contested and deliver to the opponent a copy thereof.",
+      "(4) The opponent may within two months from the receipt of the copy of the counterstatement file evidence in support of his case and shall deliver to the applicant a copy of the evidence.",
+      "(5) Within two months from the receipt of the copy of the opponent’s evidence or, if the opponent does not file any evidence, within two months from the expiration of the time within which the opponent’s evidence might have been filed, the applicant may file evidence in support of his case and shall deliver to the opponent a copy of the evidence; and within two months from the receipt of the copy of the applicant’s evidence, the opponent may file evidence confined to matters strictly in reply and shall deliver to the applicant a copy of the evidence.",
+      "(6) No further evidence shall be filed by either party except by leave or direction of the Controller.",
+      "(7) Copies of all documents referred to in the notice of opposition or in any statement or evidence filed in connection with the opposition, shall be furnished in duplicate for the Controller’s use unless he otherwise directs. Such copies shall accompany the notice, statement or evidence in which they are referred to.",
+      "(8) Where specification or other document in a foreign language is referred to, a translation thereof, verified by statutory declaration or otherwise to the satisfaction of the Controller, and two copies of the translation, shall also be furnished.",
+      "(9) On completion of the evidence if any, or at such other time as he may deem fit, the Controller shall appoint a time for the hearing of the case, and shall give the parties at least thirty days’ notice of the appointment.",
+      "(10) If either party desires to be heard he shall within ten days of receipt of the notice under sub-rule (9) above notify the Controller in the form as set out in Form P-8 and the Controller may refuse to hear either party who has not filed the said form prior to the date of hearing.",
+      "(11) If either party intends to refer at the hearing to any publication not already mentioned in the proceedings, he shall give to the other party and to the Controller at least ten days’ notice of his intention, together with details of each publication to which he intends to refer.",
+      "(12) After hearing the party or parties desiring to be heard or, if neither party desires to be heard, then without a hearing, the Controller shall decide the case and notify his decision to the parties.",
+      "(13) If in consequence of the proceedings the Controller directs that a reference to another patent shall be inserted in the applicant’s specification under sub-section (1) of section 17, the reference shall be as prescribed by rule",
+      "15. (14) If the applicant notifies the Controller that he does not desire to proceed with the application, the Controller in deciding whether costs should be awarded to the opponent shall consider whether proceedings might have been avoided if the opponent had given reasonable notice to the applicant before the opposition was filed."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Observations under section 24",
+     "page": 12,
+     "text": [
+      "(1) Observations under section 24:-",
+      ">(a) shall be given in the form as set out in Form P-9 (b) shall be accompanied by a statement in duplicate setting out fully the nature of the observant’s interest, the facts upon which he relies.",
+      "(2) Subject to sub-rule (2) below, the Controller shall send to the applicant a copy of,-",
+      ">(a) any document containing observations which he receives under subrule (1); and",
+      ">(b) any document referred to in any such observations being a document which he receives from the person making them.",
+      "(3) Nothing in sub-rule (2) above shall impose any duty on the Controller in relation to any document,-",
+      ">(a) a copy of which it appears to the Controller is readily available for retention by the applicant; or",
+      ">(b) which in his opinion is not suitable for photocopying, whether on account of size or for any other reason.",
+      "(4) The Controller shall refer the observations to the Examiner and the Examiner shall consider and comment upon them as he thinks fit.",
+      "(5) The Controller shall send a copy of the Examiner’s comments to the applicant.",
+      "(6) A person does not become a party to any proceedings under the Ordinance before the Controller by reason only that he makes observations under section 24."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Secrecy Directions under section 25",
+     "page": 13,
+     "text": [
+      "Where directions given by the Controller under sub-section (1) of section 25, prohibiting the publication of information with respect to an invention forming the subject of an application for a patent have been revoked and a patent is granted on the application, no renewal fees shall be payable in respect of any year which commences in the period during which directions were inforce."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Sealing of patents under section 27",
+     "page": 13,
+     "text": [
+      "(1) A request for the sealing of patent on an application shall be made in the form as set out in Form P-10 and shall accompany a copy of the evidence of dispatch of abstract under sub-rule (2) of rule 17.",
+      "(2) An application under sub-section (3) of section 27 for the extension of the period for making a request for the sealing of a patent shall be made in the form as set out in Form P-4"
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Form of patent",
+     "page": 13,
+     "text": [
+      "(1) Subject to sub-rule (2), the patent shall be in the form given in the Fifth Schedule to these rules, with modifications as the circumstances of each case may require and shall bear a number according to the application, after acceptance:",
+      "(2) The patents granted to applications filed under sub-section (7) of section 16, shall be in the form given in the Sixth Schedule to these rules."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Procedure under section 28",
+     "page": 13,
+     "text": [
+      "An application under section 28 for the amendment of a patent granted to deceased person shall be made in the form as set out in Form P-11 and shall be accompanied by evidence verifying the statements therein."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Renewals",
+     "page": 14,
+     "text": [
+      "(1) If it is desired, at the expiration of the fourth year from the date of a patent, or of any succeeding year during the term of the patent, to keep the patent in force, the prescribed renewal fee shall be paid alongwith requisite information in the form as set out in Form P-12 before the expiration of that year.",
+      "(2) All or any of the prescribed annual renewal fees may be paid in advance.",
+      "(3) A request for extension of the period for payment of any renewal fee under sub-section (2) of section 32 shall be made in the form as set out in Form P-4.",
+      "(4) On compliance with the terms of sub-rule (1) above, the Controller shall issue a certificate on form given in the Seventh Schedule to these rules.",
+      "(5) For the patents granted under the Patents and Designs Act, 1911,(II of 1911), no renewals shall be admitted after the expiry of the term of sixteen years."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Restoration, Revocation And Surrender Of Patents",
+   "sections": [
+    {
+     "no": "25",
+     "title": "Restoration of lapsed patents",
+     "page": 14,
+     "text": [
+      "(1) An application under sub-section (1) of section 45 for restoration of a patent shall be made in the form as set out in Form P-13 and shall be accompanied by evidence in support of the statements made in the application.",
+      "(2) If upon consideration of the evidence the Controller is not satisfied that a prima facie case for an order under sub-section (3) of section45 has been made out, he shall notify the applicant accordingly and, unless within two months the applicant requests to be heard in the matter, the Controllers shall refuse the application.",
+      "(3) If the applicant requests a hearing within the time allowed, the Controller after giving the applicant an opportunity of being heard shall determine whether the application may proceed to advertisement in the Official Gazette or whether it shall be refused.",
+      "(4) At any time within two months of the advertisement of the application under sub-rule (3), any person may give notice of opposition thereto in the form as set out in Form P-7.",
+      "(5) Such notice shall be accompanied by a copy thereof together with a statement in duplicate, setting out fully the nature of the opponent’s interest and the facts upon which he relies.",
+      "(6) A copy of the notice and of the statement shall be sent by the Controller to the applicant.",
+      "(7) Upon notice of opposition being given, provisions of sub-rules (3) to (12) of rule 18 shall apply.",
+      "(8) If the Controller decides in favour of the applicant, he shall notify him accordingly, and require him to give the requisite information in the form as set out in Form P-12, in respect of the unpaid renewal fee(s).",
+      "(9) In every order of the Controller restoring a patent the following provision shall be inserted for the protection of persons who have begun to avail themselves of the patented invention between the date when the patent ceased to have effect and the date of the application,-",
+      "No action or other proceeding shall be commenced or prosecuted nor any damage recovered in respect of any manufacture, use or sale of the patented product in the interim period as herein after defined by any person to have effect, the __________, who after such date and before the ____________, the date of the application has made, used, exercised or sold the patented product or has manufactured or installed any plant, machinery or apparatus claimed in the specification of the patent or for carrying out a method or process so claimed."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Revocation of patents under section 47",
+     "page": 15,
+     "text": [
+      "(1) An application for the revocation of a patent under section 47 shall,-",
+      ">(a) be made in the form as set out in Form P-14, (b) state the grounds for the application, and",
+      ">(c) be accompanied by a copy thereof, and a statement in duplicate setting out fully the nature of the applicants’ interests, the facts upon which he relies and the relief which he seeks.",
+      "(2) A copy of the application and of the statement shall be sent by the Controller to the patentee.",
+      "(3) Upon such application being made and a copy thereof sent to the patentee the provisions of sub-rules (3) to (12) of rule 18 shall apply with the substitution of references to the patentee for references to the applicant and of references to the applicant for references to the opponent.",
+      "(4) If the patentee offers to surrender his patent under section 49, the Controller, in deciding whether costs should be awarded to the applicant for revocation, shall consider whether proceedings might have been avoided if the applicant had given reasonable notice to the patentee before the application was filed.",
+      "(5) Revocation petition shall be disposed of within a period not exceeding one year."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Surrender of patents under section 49",
+     "page": 15,
+     "text": [
+      "(1) A notice of an offer by a patentee under section 49 to surrender his patent shall be given in the form as set out in Form P-15 and shall be advertised by the Controller in the Official Gazette.",
+      "(2) Any time within two months from the advertisement any person may give notice of opposition to the Controller in the form as set out in Form P-7, which shall be accompanied by a copy thereof and a statement in duplicate setting out fully the nature of the opponent’s interest, the facts upon which he relies, and the relief which he seeks.",
+      "(3) A copy of the notice and of the statement shall be sent by the Controller to the patentee.",
+      "(4) Upon such notice of opposition being given and a copy thereof sent to the patentee, the provisions of sub-rules (3) to (12) of rule 18 shall apply with the substitution of references to the patentee for references to the applicant."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Amendment Of Specification",
+   "sections": [
+    {
+     "no": "28",
+     "title": "Amendment of specification",
+     "page": 16,
+     "text": [
+      "(1) An application to the Controller for leave to amend an accepted complete specification under sub-section (3) of section 42 shall be made in the form as set out in Form P-16, and shall be advertised by publication of the application and the nature of the proposed amendment in the Official Gazette.",
+      "(2) An application to the Controller for leave to amend an application, under sub-section (2) of section 42 shall be made in the form as set out in Form P-16 and the Controller shall determine whether and subject to what conditions, if any, the amendment shall be allowed.",
+      "(3) Unless the Controller otherwise directs, an application or proposal for amendment of a specification shall be accompanied by a copy of the specification and drawings clearly showing the amendment sought in bold and underlined.",
+      "(4) Any person wishing to oppose the application filed under sub-rule (1) shall, within two months from the date of the advertisement in the Official Gazette give notice to the Controller in the form as set out in Form P-7.",
+      "(5) Such notice shall be accompanied by a copy thereof and a statement in duplicate setting out fully the nature of the opponent’s interest, the facts upon which he relies and the relief which he seeks.",
+      "(6) A copy of the notice and of the statement shall be sent by the Controller to the applicant or the patentee as the case may be.",
+      "(7) Upon such notice of opposition being given and a copy thereof sent to the applicant the provisions of sub-rules (3) to (12) of rule 18 shall apply.",
+      "(8) An application for leave to amend a complete specification, which has not been accepted, except when the amendment is made to meet an objection contained in an examiner’s report, shall be made in the form as set out in Form P-17.",
+      "(9) Where leave to amend a specification is given the applicant shall, if the Controller so requires, and within a time to be fixed by him, file a new specification and drawings as amended, which shall be prepared in accordance with these rules."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Powers Of The Controller",
+   "sections": [
+    {
+     "no": "29",
+     "title": "Powers of the Controller under section 35",
+     "page": 17,
+     "text": [
+      "(1) An application for directions under sub-section (1) of section 35 by a cograntee or co-proprietor of a patent shall be made in the form as set out in Form P-18 and shall be accompanied by a statement setting out fully the facts upon which the applicant relies and the directions which he seeks.",
+      "(2) A copy of the application and of the statement shall be sent by the Controller to each other person registered as grantee or proprietor of the patent and the applicant shall supply a sufficient number of copies for that purpose.",
+      "(3) Thereafter the Controller may give such directions as he may think fit with regard to the subsequent procedure.",
+      "(4) An application for directions under sub-section (2) of section 35 by a cograntee or co-proprietor of a patent shall be made in the form as set out in Form P-19, and shall be accompanied by a copy thereof, and a statement in duplicate setting out fully the facts upon which the applicant relies, and the directions which he seeks.",
+      "(5) A copy of the application and of the statement shall be sent by the Controller to the person in default.",
+      "(6) Thereafter the Controller may give such directions as he may think fit with regard to the subsequent procedure."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Power of the Controller under section 36",
+     "page": 17,
+     "text": [
+      "(1) An application under sub-section (1) of section 36 to determine a dispute as to right in an invention shall be made in the form as set out in Form P-20, and shall be accompanied by a copy thereof together with a statement in duplicate setting out fully the facts of the dispute and the relief which is sought.",
+      "(2) A copy of the application and of the statement shall be sent by the Controller to the other party to the dispute, who within two months after receipt thereof shall file a counterstatement in duplicate setting out fully the grounds on which he disputes the right of the applicant to the relief sought.",
+      "(3) The Controller shall send a copy of this counterstatement to the applicant and thereafter, subject to such directions as the Controller may think fit to give, the provisions of sub-rules (3) to (12) of rule 18 shall apply with the substitution of references to the applicant for references to the opponent and references to the other party for references to the applicant."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Power of the Controller under section 51",
+     "page": 17,
+     "text": [
+      "(1) A request for the correction of a clerical error in an application for a patent or any document filed in pursuance of such an application or in any patent or in the register, shall be made in the form as set out in Form P-21.",
+      "(2) Where the Controller requires notice of the nature of the proposed correction to be advertised under sub-section (4) of section 51, the advertisement shall be made by publication of the request and the nature of the proposed correction in the Official Gazette.",
+      "(3) Any person may, at any time within two months from the date of the advertisement in the Official Gazette, give notice to the Controller of opposition to the proposed correction in the form as set out in Form P-7.",
+      "(4) Such notice shall be accompanied by a copy thereof and a statement in duplicate setting out fully the nature of the opponent’s interest, the facts on which he relies, and the relief which he seeks.",
+      "(5) A copy of the notice and of the statement shall be sent by the Controller to the person making the request, and thereafter the provisions of subrules (3) to (12) of rule 18 shall apply.",
+      "(6) Where, in accordance with sub-section (3) of section 51, a hearing, is appointed, at least fourteen days’ notice of the appointment shall be given to the patentee or the applicant for a patent and to any other person to whom notice of the proposed correction has been given by the Controller."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Procedure under section 59",
+     "page": 18,
+     "text": [
+      "(1) An application under sub-section (1) of section 59 shall be made in the form as set out in Form P-22 and shall be accompanied by a statement in duplicate of the facts upon which the applicant relies and evidence in duplicate verifying the statement.",
+      "(2) If upon consideration of the evidence submitted under sub-rule (1), the Controller is not satisfied that a prima facie case is made out for the grant of a non-voluntary license he shall notify the applicant accordingly, and unless, within two months of making such notification, the applicant requests to be heard in the matter, the Controller shall refuse the application.",
+      "(3) Where the applicant requests a hearing within the time allowed, the Controller, after giving the applicant the opportunity of being heard, shall determine whether the application may proceed or whether it shall be refused.",
+      "(4) If upon consideration of the evidence the Controller is satisfied that a prima facie case has been made out for the grant of a nonvoluntary license, or if, after hearing the applicant, he so determines, he shall direct the application to be advertised in the Official Gazette, and shall send a copy of the application, the statement and the evidence filed in support thereof to the proprietor of the patent and to any other person shown on the register as having any right in or under the patent."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VIII — Register Of Patents",
+   "sections": [
+    {
+     "no": "33",
+     "title": "Entry of grant",
+     "page": 19,
+     "text": [
+      "Upon the sealing of a patent the Controller shall cause to be entered in the register the name, address, and nationality of the patentee as the grantee thereof, the title of the invention, the date of the patent, and the date of the sealing thereof, together with the address for service."
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Entry in respect of Convention applications",
+     "page": 19,
+     "text": [
+      "The patent granted on any convention application shall be entered in the register as dated of the official date of the first convention application in a convention country in respect of which the convention application was made, and the payment of renewal fees and the expiration of the patent shall be reckoned as from that date. The date of the convention application filed in the convention country shall also be entered in the register."
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Entry of renewal fee",
+     "page": 19,
+     "text": [
+      "Upon the issue of a certificate of payment under rule 24, the Controller shall enter in the register the fact that the fee has been paid, and the date of payment as stated on the certificate."
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Alteration of Name, Nationality or address",
+     "page": 19,
+     "text": [
+      "(1) A request by a patentee for the alteration of a name, nationality or address or address for service entered in the register in respect of a patent shall be made in the form as set out in Form P-23.",
+      "(2) If the Controller is satisfied that the request may be allowed, he shall cause the register to be altered accordingly."
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Recordal of assignment, transmissions Under Section 55 etc",
+     "page": 19,
+     "text": [
+      "An application for the registration of the title of any person becoming entitled by assignment, transmission or operation of law to a patent or to a share in a patent, or becoming entitled by virtue of a mortgage, licence or other instrument to any other interest in a patent, shall be made,-",
+      ">(a) In the case of an application under sub-section (1) of section 55 by the person becoming so entitled, in the form as set out in Form P-24 and",
+      ">(b) In the case of an application under sub-section (2) of section 55 by the assignor, mortgagor, licensor, or other party conferring the interest, in the form as set out in Form P-25"
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Production of documents of title and other proof",
+     "page": 19,
+     "text": [
+      "Every assignment, and every other document containing, giving effect to or being evidence of the transmission of a patent or affecting the proprietorship thereof as claimed by such application shall, unless the Controller otherwise directs, be presented to him together with application and he may call for such other proof of title or written consent as he may require for his satisfaction:",
+      "Provided that in the case of a document which is a public document, an official or certified copy thereof may be presented."
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Form of entry",
+     "page": 20,
+     "text": [
+      "The entry to be made in the Register on a request under rule 36 shall be as per schedule X to these rules."
+     ]
+    },
+    {
+     "no": "40",
+     "title": "Entry of notification of documents",
+     "page": 20,
+     "text": [
+      "An application for entry in the register of patents of the notification of any other document purporting to affect the proprietorship of the patent by an attested copy thereof may be certified for its accuracy as the Controller may direct, alternatively the original document may be produced at the Patent Office for further verification."
+     ]
+    },
+    {
+     "no": "41",
+     "title": "Inspection of the register",
+     "page": 20,
+     "text": [
+      "The register shall be open to public inspection at all times on which the Patent Office is open to the public, except at times when they are required for actual official use."
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Inspection of, and extracts from, the Register, Under Section 57 etc",
+     "page": 20,
+     "text": [
+      "(1) Certified copies of any entry in the register, or certified copies of, or extracts from, patent, specifications, and other public documents in the Patent Office, or of or from register and other records kept there, may be furnished by the Controller on making an application in the form as set out in Form P-26.",
+      "(2) A request under section 57 for information relating to any patent or application for a patent may be made,-",
+      ">(a) as to when a complete specification following a provisional specification has been filed, (b) as to when an application for patent has been accepted or deemed to have been abandoned, or deemed to have been refused, (c) as to when a complete specification is or will be published, (d) as to when a patent has been sealed or when the time for requesting sealing has expired, (e) as to when a renewal fee has been paid, (f) as to when a patent has expired, (g) as to when an entry has been made in the register or application has been made for the making of such entry, or",
+      ">(h) as to when any application is made or action taken involving an entry in the register or advertisement in the Official Gazette.",
+      "(3) Any such request shall be made in the form as set out in Form P-27 and a separate form shall be used in respect of each of the said matters."
+     ]
+    },
+    {
+     "no": "43",
+     "title": "Grant of Exclusive Marketing Rights",
+     "page": 21,
+     "text": [
+      "(1) Where an invention has been made whether in Pakistan or outside Pakistan and a mail box application for the same chemical product intended for use in medicine or agriculture has been filed in a convention country on or after first day of January 1995, patent and the approval to sell or distribute the chemical product intended for use in medicine or agriculture in that country have been granted and the applicant thereof has received approval to sell or distribute chemical product intended for use in medicine or agriculture from the Ministry of Industries and Production or any concerned division or organization authorized by the Ministry of Industries and Production Government of Pakistan, then, he shall have exclusive marketing rights by himself, his agent(s) or licensee(s) to sell or distribute in Pakistan, the chemical product intended for use in medicine or agriculture on and from the date of approval for 5 years or till the date of grant of patent or date of rejection of application, as the case may be, whichever is earlier.",
+      "(2) When an invention has been made in Pakistan and a mail box application for the chemical product intended for use in medicine or agriculture has been filed and approval of marketing has been granted to the applicant thereof by the Ministry of Industries and Production or any concerned division or organization authorized by the Ministry of Industries and Production in respect of that invention, then the applicant shall have the exclusive marketing rights by himself, his agent(s) or licensee(s) to sell and distribute in Pakistan the chemical product intended for use in medicine or agriculture and from the date of approval for 5 years or till the date of grant of patent or date of rejection of application, as the case may be, whichever is earlier."
+     ]
+    },
+    {
+     "no": "44",
+     "title": "Compulsory licenses",
+     "page": 21,
+     "text": [
+      "(1) For the purpose of this Ordinance the patentee shall be entitled to a payment upto three percent remuneration by the licensee, on the basis of total sales of that chemical product taking into consideration its trade price, under clause (iii) of sub-section (3) of section 59.",
+      "(2) Subject to the sub-section (1) of section 59, none or insufficient exploitation of a patent in case of a chemical product intended for use in agriculture or medicines shall be determined on the basis of health care requirements of Pakistan and monopolization of the market against the public interest.",
+      "Provided, that the patent holder does not make available the subject patented product, in sufficient quantities, so as to meet the requirement of the licensee(s). The licensee(s) shall be at liberty to import or procure the said chemical product form anywhere."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IX — Patent Agents",
+   "sections": [
+    {
+     "no": "45",
+     "title": "Register of patent agents",
+     "page": 22,
+     "text": [
+      "(1) The Patent office shall maintain the register of patent agents wherein shall be entered the name, the address, the business address, the qualifications and the date of registration of every patent agent.",
+      "(2) Legal practitioners shall not be required to be on the register of patent agents to act as patent agents otherwise than by way of drafting any specification."
+     ]
+    },
+    {
+     "no": "46",
+     "title": "Eligibility for registration",
+     "page": 22,
+     "text": [
+      "(1) No person shall be eligible for registration as a patent agent unless he is resident in Pakistan,-",
+      "(2) A person shall not be qualified for registration as a patent agent unless he is a citizen of Pakistan and,-",
+      ">(a) is at least a graduate in basic sciences (for example Physics, Chemistry, Mathematics, Pharmacy, Computer Sciences, and Genetics) or in engineering from a recognized University with at least one year experience of working with a patent agent or a legal practitioner practicing before the Patent Office and has passed a written and oral examination about law and procedure of patents, designs and integrated circuits with more than fifty percent score; or",
+      ">(b) has passed an examination in patent drafting from an institution or organization listed in the eighth Schedule to these rules.",
+      ">(c) has been a officer of Grade 17 or above in the Patent Office for a period of not less then ten years;",
+      "Provided that no such person shall be entitled to registration for a period of three years from the date of retirement or termination of service:",
+      "Provided further that no such person shall be entitled to registration if he has been dismissed or removed from service.",
+      ">(d) is already recognized as a Patent Agent and has been practicing as such for more then three years prior to coming into force of these rules."
+     ]
+    },
+    {
+     "no": "47",
+     "title": "Persons debarred from registration or remaining on the register of patent agents",
+     "page": 23,
+     "text": [
+      "A person shall not be eligible for registration as a patent agent or continue to remain on the register of patent agents if he,-",
+      ">(a) is barred by the provisions of section 84;",
+      ">(b) has been adjudged by a competent court to be of unsound mind;",
+      ">(c) is an undischarged insolvent;",
+      ">(d) being a discharged insolvent has not obtained from the court a certificate to the effect that his insolvency was caused by misfortune without any misconduct on his part;",
+      ">(e) has been convicted by a competent court, whether within or without Pakistan of an offence punishable with transportation or imprisonment, unless the offence of which he has been convicted has been pardoned or unless on an application made by him, the Federal Government has, by order in this behalf, removed the disability; or",
+      ">(f) is considered by the Federal Government not to be a fit and proper person by reason of any act of negligence, misconduct or dishonesty committed in his professional capacity."
+     ]
+    },
+    {
+     "no": "48",
+     "title": "Manner of making application",
+     "page": 23,
+     "text": [
+      "All applications for registration of a patent agent shall be made in the form as set out in Form PTA-1."
+     ]
+    },
+    {
+     "no": "49",
+     "title": "Procedure on application",
+     "page": 23,
+     "text": [
+      "(1) On receipt of an application for the registration of a person as a patent agent, the Controller shall grant him an opportunity of appearing in a written and oral examination that will be conducted once in a year.",
+      "(2) If the applicant has passed the written and oral examination and qualifies requirements of clause (a) of sub-rule (2) of rule 46 or has proved to the satisfaction of the Controller that he is exempt from appearing in such examination under the exemptions granted in clause (b) and (c) of sub-rule (2) of rule 46, the Registrar shall send an intimation to that effect to the applicant, and any person so intimated may pay the prescribed fees for his registration as a patent agent. On receipt of the prescribed fees, the Controller shall cause the applicant’s name to be entered in the register of patent agents, and shall issue to him a certificate on the form given in the Ninth Schedule to these rules."
+     ]
+    },
+    {
+     "no": "50",
+     "title": "Continuance of a name in the register of patent agents",
+     "page": 24,
+     "text": [
+      "Subject to the requirements of rule 47, the continuance of a person’s name in the register of patent agents shall be subject to his payment of the fee prescribed in that behalf."
+     ]
+    },
+    {
+     "no": "51",
+     "title": "Removal of agent’s name from the register of patent agents",
+     "page": 24,
+     "text": [
+      "(1) The Federal Government may remove permanently or temporarily from the register of patent agents the name of any patent agent,-",
+      ">(a) from whom a request has been received to that effect; or",
+      ">(b) from whom the annual fee has not been received on the expiry of three months from the date on which it became due; or",
+      ">(c) who is found to have been subject at the time of his registration or there after has become subject, to any of the disabilities stated in clauses (a) to (e) of rule 47; or",
+      ">(d) whom the Federal Government has declared not to be a fit or proper person to remain on the register of patent agents under sub-section (1) of section 83;",
+      "Provided that before making such declaration, the Federal Government shall call upon the person concerned to show cause why his registration should not be cancelled and shall make such further enquiry, if any, as it may consider necessary.",
+      "(2) The Federal Government shall remove from the register of patent agents the name of any patent agent who is dead.",
+      "(3) The removal of the name of any person from the register of patent agents shall be notified in the Official Gazette and shall, wherever possible, be communicated to the person concerned."
+     ]
+    },
+    {
+     "no": "52",
+     "title": "Restoration of removed names",
+     "page": 24,
+     "text": [
+      "(1) The Federal Government may, subject to the provisions of subsection (2) of section 83, on an application in the form as set out in Form PTA-2 from a person whose name has been temporarily removed under sub-rule (1) of rule 51, restore his name to the register of patent agents.",
+      "(2) The restoration of a name to the register of patent agents shall be notified in the Official Gazette, and shall wherever possible be communicated to the person concerned."
+     ]
+    },
+    {
+     "no": "53",
+     "title": "Alteration in the register of patent agents",
+     "page": 25,
+     "text": [
+      "(1) A patent agent may apply in the form as set out in Form PTA-3 for alteration of his name, address, business address or qualifications entered in the register of patent agents. On receipt of such application and the fee prescribed in that behalf, the Controller shall cause the necessary alteration to be made in the register of patent agents.",
+      "(2) Every alteration made in the register of patent agents shall be notified in the Official Gazette."
+     ]
+    },
+    {
+     "no": "54",
+     "title": "Publication of the register of patent agents",
+     "page": 25,
+     "text": [
+      "The register of patent agents shall be published, as the Controller or the Federal Government may deem fit, the entries being arranged in the alphabetical order of the surnames of the registered agents and copies thereof shall be placed on sale."
+     ]
+    },
+    {
+     "no": "55",
+     "title": "Agency",
+     "page": 25,
+     "text": [
+      "For all matters falling under the provisions of section 81, any person may, unless otherwise directed by the Controller, authorize under his personal signature, any person who is either a legal practitioner or a registered patent agent and to receive all notices, requisitions and communications. The authority may be given in the form as set out in Form P-28."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter X — Miscellaneous Provisions",
+   "sections": [
+    {
+     "no": "56",
+     "title": "Procedure for evidence before the Controller",
+     "page": 25,
+     "text": [
+      "(1) Where under these rules evidence is required to be filed it shall be by way of statutory declaration or affidavit unless otherwise expressly provided in these rules.",
+      "(2) The statutory declarations and affidavits required by these rules, or used in any proceedings thereunder, shall be headed in the matter or matters to which these relate, and shall be divided into paragraphs consecutively numbered, and each paragraph shall so far as possible be confined to one subject."
+     ]
+    },
+    {
+     "no": "57",
+     "title": "Form, etc., of affidavit",
+     "page": 25,
+     "text": [
+      "(1) The affidavits required by the Ordinance and these Rules, or used in any proceedings thereunder, shall be headed in the matter or matters to which they relate, shall be drawn up in the first person and shall be divided into paragraphs consecutively numbered; and each paragraph shall as far as possible, be confined to one subject. Every affidavit shall state the description and true place of abode of the person making the same, shall bear the name and address of the person leaving it and shall state on whose behalf it is left.",
+      "(2) Affidavits shall be confined to such facts as the deponent is able of his own knowledge to prove, except on interlocutory applications on which statements of his belief may be admitted, provided that the grounds thereof are stated.",
+      "(3) The affidavits referred to in sub-rule (1) shall be made and subscribed, as follows:-",
+      ">(a) In Pakistan before any court or person having by law authority to receive evidence, or before any officer empowered by such court or person as aforesaid to administer oaths, or before the commanding officer of any military, naval or air force station or ship occupied by troops in the service of Pakistan.",
+      ">(b) In any other part of the world before any court, Judge, justice of the peace or any officer authorized by law to administer an oath for the purpose of a legal proceeding, and be legalized by the Embassy of Pakistan in the country or region.",
+      "(4) Every statutory declaration or affidavit shall state the description and true place of abode of the person making the same, and shall be written, typed, or printed."
+     ]
+    },
+    {
+     "no": "58",
+     "title": "Action consequent upon Court order",
+     "page": 26,
+     "text": [
+      "Where an order has been made by the High Court in any case under the Ordinance, the person in whose favour the order has been made shall forth with lodge an application in the form as set out in Form P-29, accompanied by a sealed duplicate of the order or a certified copy of the order, and thereupon the register shall, if necessary, be corrected or rectified by making of any entry therein or the variation or deletion of any entry therein."
+     ]
+    },
+    {
+     "no": "59",
+     "title": "Controller may require statements",
+     "page": 26,
+     "text": [
+      "Where an applicant or an agent desires to be heard or not, the Controller may at any time require him to submit a statement in writing within a time to be notified by the Controller, or to attend before him and make explanations with respect to such matters as the Controller may require."
+     ]
+    },
+    {
+     "no": "60",
+     "title": "General powers of amendment",
+     "page": 26,
+     "text": [
+      "Any document for the amending of which no special provision is made by the Ordinance may be amended, and any irregularity in procedure which, in the opinion of the Controller, may be obviated without detriment to the interests of any person may be corrected if the Controller thinks fit, and upon such terms as he may direct."
+     ]
+    },
+    {
+     "no": "61",
+     "title": "Exercise of discretionary power and removal of difficulties",
+     "page": 27,
+     "text": [
+      "(1) except as otherwise provided in these rules, before exercising any discretionary power given to him by the Ordinance or these rules adversely to an applicant for a patent or for amendment of a specification, the Controller shall give at least ten days’ notice to the applicant of the time when he may be heard.",
+      "(2) Where, under these rules, any person required to do any act or thing, or any document or evidence is required to be produced or filed, and it is shown to the satisfaction of the Controller that for any reasonable cause that person is unable to do that act or thing, or that document or evidence cannot be produced or filed, the Controller may, upon the production of such evidence and subject to such terms as he thinks fit, dispense with the doing of any such act or thing, or the production or filing of such document or evidence.",
+      "(3) Where the hearing before the Controller of any dispute between two or more parties relating to any matter in connection with a patent or an application for a patent takes place after the date of the publication of the complete specification, the hearing of the dispute shall be in public unless the Controller, after consultation with those parties to the dispute who are represented at the hearing, otherwise directs."
+     ]
+    },
+    {
+     "no": "62",
+     "title": "General powers to extend time",
+     "page": 27,
+     "text": [
+      "The time prescribed by these rules for doing any act or taking any proceeding thereunder may be enlarged by the Controller if he thinks fit and upon such terms as he may direct. Provided that no such extension of time granted under this rule shall exceed a period of more than one month at a time, provided that total period of such enlargements shall not exceed three months against the statutory period prescribed. Every application for extension of time under this rule shall be made in the form as set out in Form P-4"
+     ]
+    },
+    {
+     "no": "63",
+     "title": "Publications of the Patent Office",
+     "page": 27,
+     "text": [
+      "(1) The Controller may publish from time to time reports of such cases relating to patents.",
+      "(2) The Controller may arrange for the publication and sale of copies of specifications, drawings and other documents in the Patent Office, and of indices to and abridgements of such documents."
+     ]
+    },
+    {
+     "no": "64",
+     "title": "Savings",
+     "page": 28,
+     "text": [
+      "Notwithstanding the supersession of Patents Rules, 1933, any application or other matter, pending under those rules shall be disposed of under those rules.",
+      "The First Schedule See Rule 3(1) Fee",
+      "S.No. Form. Description. Fee Rs.",
+      "(1) (2) (3) (4)",
+      "The Second Schedule See Rule 4 Forms",
+      "No. Form. Description Form P-1A Patents Ordinance, 2000 Form P-1A Reverse Patents Ordinance, 2000 Form P-1B Patents Ordinance, 2000 Form P-1C Patents Ordinance, 2000 Form P-1C Reverse Patents Ordinance, 2000 Form P-2A Patents Ordinance, 2000 Form P-2A Reverse Patents Ordinance, 2000 Form P-2B Patents Ordinance, 2000 Form P-2C Patents Ordinance, 2000 Form P-2C Reverse Patents Ordinance, 2000 Form P-3A Patents Ordinance, 2000 Form P-22A Patents Ordinance, 2000 Form P-22B Patents Ordinance, 2000 Form PTA-1 Patents Ordinance, 2000 Form PTA-2 Patents Ordinance, 2000 Form PTA-3 Patents Ordinance, 2000 The First Schedule See Rule 3(1) Fee",
+      "S.No. Form. Description Fee Rs.",
+      "The Second Schedule See Rule 4 Forms",
+      "No. Form. Description The Third Schedule See Rule 9(5)",
+      "Patents for inventions which involve the use of or concern biological material The Fourth Schedule See Rule 17(2) List of Institutions",
+      "No. Institution The Fifth Schedule See Rule 22 Model Form of Patent.",
+      "Government of Pakistan THE PATENT OFFICE",
+      "No.___________________of 20______.",
+      "The Sixth Schedule See Rule 22 Model Form of Patent under Mail Box Provisions",
+      "Government of Pakistan THE PATENT OFFICE",
+      "No.___________________of 20______.",
+      "The Seventh Schedule See Rule 24(4) Renewal Certificate",
+      "Government of Pakistan THE PATENT OFFICE",
+      "No.___________________of 20______.",
+      "Re: Pakistan Patent No.____________________",
+      "The Eighth Schedule See Rule 46(2)(b) List of Institutions.",
+      "No. Institution.",
+      "Hamdard Law School, Karachi. 1. Quaid-e-Azam University, Islamabad. 2. All Law Colleges affiliated with the provincial 3. Universities.",
+      "The Ninth Schedule See Rule 49(2) Certificate of Registration as a Patent Agent",
+      "Government of Pakistan THE PATENT OFFICE"
+     ],
+     "fn": [
+      {
+       "n": "29-1",
+       "text": "P-1 Application for patent when the true and first inventor is sole or 2250 joint applicant. (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "29-2",
+       "text": "P-1A Application for patent when the true and first inventor is NOT a 2250 party to the application. (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "29-3",
+       "text": "P-1B Application for patent of addition when the true and first inventor is 2250 sole or joint applicant. (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "29-4",
+       "text": "P-1C Application for patent of addition when the true and first inventor is 2250 NOT a party to the application. (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "29-5",
+       "text": "P-2 Convention application for patent when the true and first inventor is 2250 sole or joint applicant. (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "29-6",
+       "text": "P-2A Convention application for patent when the true and first inventor is 2250 NOT a party to the application. (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "29-7",
+       "text": "P-2B Convention application for patent of addition. 2250 (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "29-8",
+       "text": "P-2C Convention application for patent of addition when the true and first 2250 inventor is NOT a party to the application. (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "29-9",
+       "text": "P-3 Application for Provisional Specification. 675 (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "30-10",
+       "text": "P-3A Application for Complete Specification. 1575 (a) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "30-12",
+       "text": "P-5 Application for the deletion of a reference. 250"
+      },
+      {
+       "n": "30-13",
+       "text": "P-6 Application for substitution of applicant. 500"
+      },
+      {
+       "n": "30-18",
+       "text": "P-11 Application for the amendment of a patent granted to a deceased 2500 person."
+      },
+      {
+       "n": "31-23",
+       "text": "P-16 Application for amendment of pending specification / accepted 750 specification."
+      },
+      {
+       "n": "31-24",
+       "text": "P-17 Application to amend specification when the amendment is 250 made to meet an objection contained in an examiner’s report."
+      },
+      {
+       "n": "32-2",
+       "text": "P-1A application. Application for patent of addition when the true and first inventor is sole or joint"
+      },
+      {
+       "n": "32-3",
+       "text": "P-1B applicant. Application for patent of addition when the true and first inventor is NOT a party to"
+      },
+      {
+       "n": "32-6",
+       "text": "P-2A the application. Convention application for patent of addition."
+      },
+      {
+       "n": "32-7",
+       "text": "P-2B Convention application for patent of addition when the true and first inventor is"
+      },
+      {
+       "n": "32-11",
+       "text": "P-4 Application for the deletion of a reference."
+      },
+      {
+       "n": "32-12",
+       "text": "P-5 Application for substitution of applicant."
+      },
+      {
+       "n": "32-18",
+       "text": "P-11 Application for the amendment of a patent granted to a deceased person. Application for renewal of a patent."
+      },
+      {
+       "n": "32-23",
+       "text": "P-16 Application for amendment of pending specification / accepted specification. Application to amend specification when the amendment is made to meet an"
+      },
+      {
+       "n": "33-42",
+       "text": "PTA-3 qualifications. Fee: Rs. Application for patent when the true and first inventor is sole or joint applicant (Section 13(1) (Rule 8(1)) (To be accompanied in duplicate by a Provisional Specification on Form P-3 or the Complete Specification on Form P-3A) I (or we) ________________________________________________________________ Insert (in full) the name, ________________________________________________________________ address, and nationality ________________________________________________________________ of the applicant or ________________________________________________________________ applicants. hereby declare that: - Insert title of the invention. (i) I am in possession of an invention Insert who is the inventor. for______________________________________________________________ __________________________________;(ii) that I (or we)(or the said)(__________________________) claim to be the true and first inventor State here whether the thereof; specification accompanying this (iii) that the invention is not in use in Pakistan by any other person; form is form is “provisional” or (iv) that the ______________________specification filed with this application is, “complete”. and any amended specification which may hereafter be filed in this behalf will be, true of the invention to which this application relates; (v) that following are particulars of my application,- Insert number of sheets of the Description, Claim(s), Abstract, and Drawing(s). Description: Claim (s): Abstract: Drawing (s): Insert address for service in Pakistan. Address for service in Pakistan: I (or we) humbly pray that a patent may be granted to me (or us) for the said invention. Insert name, designation and address of the signatory. In case of Dated this ___________ day of ____________________, 20___ Agent, also include latest tele- communication Signature _____________________________________________ details. Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for patent when the true and first inventor is NOT a party to the application (Section 13(1) (Rule 8(1)) (To be accompanied in duplicate by a Provisional Specification on Form P-3 or the Complete Specification on Form P-3A) I (or we) Insert (in full) the name, ___________________________________________________________________ address, and nationality of ___________________________________________________________________ the applicant or ___________________________________________________________________ applicants. ___________________________________________________________________ hereby declare that: - Insert title of the invention. (i) I am in possession of an invention for Insert name. ___________________________________________________________________ ____________________________________________; Insert (in full) name, address, and (ii) that I (or we)(or the said)(__________________________) claim to be the assign nationality of inventor. of (or the legal representative of) ___________________________________________________________________ _____________________________________________________ State here whether the who claim(s) and is (are) believed to be the true and first inventor(s) thereof; specification accompanying this form is form is “provisional” or (iii) that the invention is not in use in Pakistan by any other person; “complete”. (iv) that the ______________________specification filed with this application is, and any amended specification which may hereafter be filed in this behalf will be, true of the invention to which this application relates; (v) that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. Insert number of sheets of the (vi) that following are particulars of my application,- Description, Claim(s), Abstract, and Drawing(s). Description: Claim (s): Abstract: Insert address for service in Pakistan. Drawing (s): Address for service in Pakistan: I (or we) humbly pray that a patent may be granted to me (or us) for the said invention. Insert name, designation and Dated this ___________ day of ____________________, 20___ address of the signatory. In case of Agent, also include latest tele-Signature _____________________________________________ communication details. Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for patent when the true and first inventor is NOT a party to the application (Section 13(1) (Rule 8(1)) ENDORSEMENT BY INVENTOR Insert (in full) the name, I (or we) address, and nationality of ___________________________________________________________________ the applicant or _________ applicants. ___________________________________________________________________ ___________________________________________________________________ ___________________________________________________________________ ___________________________ referred to on the reverse of this document as claiming to be the true and first inventor(s) agree that the said application shall be made with out my (or our) name(s) as (an) applicant(s) for a patent. Insert name, designation and address of the Dated this ___________ day of ____________________, 20___ signatory. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ Name and Signature of two witnesses:- 1.__________________________________________"
+      },
+      {
+       "n": "36-2",
+       "text": "_________________________________________ Fee: Rs. Application for patent of addition when the true and first inventor is sole or joint applicant. (Section 39) (To be accompanied in duplicate by a Provisional Specification on Form P-3 or the Complete Specification on Form P-3A) Insert (in full) the name, I (or we) address, and nationality _______________________________________________________________ of the applicant or ________________________________________________________________ applicants. ________________________________________________________________ ________________________________________________________________ hereby declare that: - Insert title of the invention. (i) I am in possession of an invention for State who is or are the inventor ________________________________________________________________ or inventors. _______________________________________; (ii)that___________________________________________________________ claim to be the true and first inventor(s) thereof; (iii) that the said invention is an improvement in or modification of my (or our) invention for which a patent was applied for on the _______________________ State here whether the and numbered_____________ [for which I was/we were the applicant(s)] [of specification accompanying this form is form is “provisional” or which I am/we are the patentee(s)]; “complete”. (iv) that the ______________________specification filed with this application is, Strike out the words and (and the complete specification) and any amended specification which may brackets “(and the complete hereafter be filed in this behalf will be, true of the invention to which this specification)”, if a “complete application relates; specification” accompanies this (v) that the facts and matters stated herein are true to the best of my (or our) form. knowledge, information and belief. Insert number of sheets of the (vi) that following are particulars of my application,- Description, Claim(s), Abstract, and Drawing(s). Description: Claim (s): Abstract: Insert address for Drawing (s): service in Pakistan. Address for service in Pakistan: I (or we) humbly pray that a patent may be granted to me (or us) for the said invention, and request that the term limited in such further patent for the duration thereof be the same as that of the original patent, or so much that term as is unexpired. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Signature _____________________________________________ Agent, also include latest tele- communication Name: ________________________________________ details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for patent of addition when the true and first inventor is NOT a party to the application. (Section 39) (To be accompanied in duplicate by a Provisional Specification on Form P-3 or the Complete Specification on Form P-3A) I (or we) Insert (in full) the name, __________________________________________________________________ address, and nationality of ___________________________________________________________________ the applicant or ___________________________________________________________________ applicants. ___________________________________________________________________ hereby declare that: - Insert title of the invention. (i) I am in possession of an invention for State who is or are the inventor ___________________________________________________________________ or inventors. ________________________________________; (ii) that I (or we) (or the said_______________________________) claim to be the assign of (or the legal representative of) ____________________________________ who claim(s) and is (are) believed to be the true and first inventor(s) thereof; (iii) that the said invention is an improvement in or modification of my (or our) State here whether the specification accompanying this invention for which a patent was applied for on the _______________________ and form is form is “provisional” or numbered_____________ [for which I was/we were the applicant(s)] [of which I “complete”. am/we are the patentee(s)]; Strike out the words and brackets (iv) that the ______________________specification filed with this application is, “and the complete specification)”, (and the complete specification) and any amended specification which may if a “complete specification” hereafter be filed in this behalf will be, true of the invention to which this application relates; (v) that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. (vi) that following are particulars of my application,- Insert number of sheets of the Description, Claim(s), Abstract, Description: and Drawing(s). Claim (s): Abstract: Drawing (s): Insert address for service in Pakistan. Address for service in Pakistan: I (or we) humbly pray that a patent may be granted to me (or us) for the said invention, and request that the term limited in such further patent for the duration thereof be the same as that of the original patent, or so much that term as is unexpired. Dated this ___________ day of ____________________, 20___ Insert name, designation and address of the signatory. In case of Signature _____________________________________________ Agent, also include latest tele-Name: ________________________________________ communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for patent of addition when the true and first inventor is NOT a party to the application. (Section 39) ENDORSEMENT BY INVENTOR Insert (in full) the name, I (or we) address, and nationality of ___________________________________________________________________ the applicant or ___________________________________________________________________ applicants. ___________________________________________________________________ ___________________________________________________________________ ________________________ referred to on the reverse of this document as claiming to be the true and first inventor(s) agree that the said application shall be made with out my (or our) name(s) as (an) applicant(s) for a patent. Insert name, designation and Dated this ___________ day of ____________________, 20___ address of the signatory. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ Name and Signature of two witnesses:- 1.__________________________________________"
+      },
+      {
+       "n": "39-2",
+       "text": "_________________________________________ Fee: Rs. Convention application for patent when the true and first inventor is sole or joint applicant (Section 13(2) (Rule 8(2)) (To be accompanied in duplicate by a Complete Specification on Form P-3A) Insert (in full) the name, I (or we) address, and nationality _______________________________________________________________ of the applicant or _______________________________________________________________ applicants. _______________________________________________________________ hereby declare that: - (i) I am (or we are) (or the said______________________) have/has made application(s) for the protection of an invention for _______________________ Insert title of the invention. _______________________________________________________________ ________ in the following Convention countries and on the following official date(s); Convention Country Date(s) Insert the name of the _____________________________ ________________ Convention country(ies) and _____________________________ ________________ official date(s). Insert the official date of the (ii) that the invention was not in use in Pakistan by any other person before the earliest Convention application.. ____________________________________________________________; (iii) that the specification filed with this application is, and any amended specification which may hereafter be filed in this behalf will be, true of the invention to which this application relates; (iv) that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. (iv) that following are particulars of my application,- Description: Insert number of sheets of the Description, Claim(s), Abstract, Claim (s): and Drawing(s). Abstract: Drawing (s): Insert address for service in Pakistan. Address for service in Pakistan: Insert the official date of the I (or we) humbly pray that a patent may be granted to me (or us) for the said earliest Convention application. invention in priority to other applicants and that such patent shall have the date ________________________. Dated this ___________ day of ____________________, 20___ Insert name, designation and Signature _____________________________________________ address of the signatory. In case of Name: ________________________________________ Agent, also include latest tele-Designation: ___________________________________ communication details. Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Convention application for patent when the true and first inventor is NOT a party to the application (Section 13(2) (Rule 8(2)) (To be accompanied in duplicate by a Complete Specification on Form P-3A) I (or we) Insert (in full) the name, ______________________________________________________________ address, and nationality _______________________________________________________________ of the applicant or _______________________________________________________________ applicants. hereby declare that: - (i) I am (or we are) (or the said ___________________ am/are/is the legal representative(s) of _______________________________________________________________ Give name, address and ____________________________________________________________ nationality of the Convention applicant or applicants. deceased or the assignee of _______________________________________________________________ ____________________________________________________ (ii) that __________________________________________________ has (or have) (jointly with me/us) made application(s) for the protection of the invention Insert title of the invention. for _______________________________________________________________i n the following Convention countries and on the following official date(s); Insert particulars of the Convention application on which Convention Country Date(s) the priority is based. _____________________________ ________________ _____________________________ ________________ Insert the official date of the earliest Convention application. (ii) that the invention was not in use in Pakistan by any other person before the ____________________________________________________________; (iii) that the specification filed with this application is, and any amended specification which may hereafter be filed in this behalf will be, true of the invention to which this application relates; (iv) that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. Insert number of sheets of the (iv) that following are particulars of my application,- Description, Claim(s), Abstract, and Drawing(s). Description: Claim (s): Abstract: Drawing (s): Insert address for Address for service in Pakistan: service in Pakistan. I (or we) humbly pray that a patent may be granted to me (or us) for the said Insert the official date of the invention in priority to other applicants and that such patent shall have the date earliest Convention application. ________________________. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Insert name, Name: ________________________________________ designation and address of the Designation: ___________________________________ signatory. In case of Agent, also include latest tele-Address: ______________________________________ communication _______________________________________________ details. To Controller of Patents Fee: Rs. Convention application for patent when the true and first inventor is NOT a party to the application (Section 13(2) (Rule 8(2)) ENDORSEMENT BY INVENTOR Insert (in full) the name, address, and nationality I (or we) of the applicant or _______________________________________________________________ applicants. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ ________________________ referred to on the reverse of this document as claiming to be the applicant(s) in the Convention countries specified in paragraph (ii), hereby state that the applicant(s) who has/have signed his/their name(s) on the reverse of this form is/are my/our assignee(s). Insert name, designation and Dated this ___________ day of ____________________, 20___ address of the signatory. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ Name and Signature of two witnesses:- 1.__________________________________________"
+      },
+      {
+       "n": "42-2",
+       "text": "_________________________________________ Fee: Rs. Convention application for patent of addition (Section 13(2) and 39) (To be accompanied in duplicate by a Complete Specification on Form P-3A) I (or we) ______________________________________________________________ Insert (in full) the name, ______________________________________________________________ address, and nationality of the applicant or ______________________________________________________________ applicants. hereby declare that: - (i) I am (or we are) (or the said ___________________ ) have/has made application(s) for the protection of an invention for ______________________ Insert title of the invention. ______________________________________________________________ ________ in the following Convention countries and on the following official date(s); Insert particulars of the Convention Country Date(s) Convention application on which _____________________________ ________________ the priority is based. _____________________________ ________________ Insert the official date of the (ii) that the invention was not in use in Pakistan by any other person before the earliest Convention application. __________________________________________________________; (iii) that the said invention is an improvement in or modification of my (or our) invention for which a patent was applied for on the _______________________ and numbered_____________ [for which I was/we were the applicant(s)] [of which I am/we are the patentee(s)]; (iv) that the specification filed with this application is, and any amended specification which may hereafter be filed in this behalf will be, true of the invention to which this application relates; (iv) that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. (iv) that following are particulars of my application,- Description: Insert number of sheets of the Description, Claim(s), Abstract, Claim (s): and Drawing(s). Abstract: Drawing (s): Address for service in Pakistan: Insert address for service in Pakistan. I (or we) humbly pray that a patent may be granted to me (or us) for the said invention in priority to other applicants and that such patent shall have the date ________________________ and request that the term limited in such Insert the official date of the earliest Convention application. further patent for the duration thereof be the same as that of the original patent, or so much that term as is unexpired.. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Insert name, designation and Name: ________________________________________ address of the Designation: ___________________________________ signatory. In case of Agent, also include latest tele- Address: ______________________________________ communication details. _______________________________________________ To Controller of Patents Fee: Rs. Convention application for patent of addition when the true and first inventor is NOT a party to the application. (Section 39 and 13(2)) (To be accompanied in duplicate by a Provisional Specification on Form P-3 or the Complete Specification on Form P-3A) I (or we) ______________________________________________________________ Insert (in full) the name, ______________________________________________________________ address, and nationality of _____________________________________________________________ the applicant or applicants. hereby declare that: - (i) that I (or we) (or the said_______________________________) am/are/is Give name, address and the legal representative(s) of nationality of the Convention ___________________________________________ applicant or applicants. deceased, or the assignee of __________________________________________; (ii) that Insert title of the invention. ____________________________ has (or have) (jointly with me/us) made application(s) for the protection of an invention for ________________ Insert particulars of the ______________________________________________________________ Convention application on which in the following Convention countries and on the following official date(s); the priority is based. Convention Country Date(s) _____________________________ ________________ Insert the official date of the _____________________________ ________________ earliest Convention application. (iii) that the invention was not in use in Pakistan by any other person before the ___________________________________________________________; (iv) that the said invention is an improvement in or modification of my (or our) invention for which a patent was applied for on the _______________________ and numbered_____________ [for which I was/we were the applicant(s)] [of which I am/we are the patentee(s)]; (iv) that the specification filed with this application is and any amended specification which may hereafter be filed in this behalf will be, true of the invention to which this application relates; (v) that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. Insert number of sheets of the (vi) that following are particulars of my application,- Description, Claim(s), Abstract, and Drawing(s). Description: Claim (s): Insert address for service in Pakistan. Abstract: Drawing (s): Address for service in Pakistan: Insert the official date of the I (or we) humbly pray that a patent may be granted to me (or us) for the said earliest Convention application. invention in priority to other applicant(s) and that such patent shall have the date ________________________, and request that the term limited in such further patent for the duration thereof be the same as that of the original patent, or so much that term as is unexpired. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Signature _____________________________________________ Agent, also include Name: ________________________________________ latest tele-Designation: ___________________________________ communication details. Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Convention application for patent of addition when the true and first inventor is NOT a party to the application. (Section 39 and 13(2)) ENDORSEMENT BY INVENTOR Insert (in full) the name, address, and nationality of the applicant or I (or we) applicants. ______________________________________________________________ ______________________________________________________________ ______________________________________________________________ ______________________________________________________________ referred to on the reverse of this document as claiming to be the applicant(s) in the Convention countries specified in paragraph )ii), hereby state that the applicant(s) who has/have signed his/their name(s) on the reverse of this form is/are my/our assignee(s). Insert name, designation and Dated this ___________ day of ____________________, 20___ address of the signatory. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ Name & Signature of two witnesses:- 1.__________________________________________"
+      },
+      {
+       "n": "45-2",
+       "text": "_________________________________________ Fee: Rs. Provisional Specification (Section 14) (To be supplied in duplicate with Forms P-1, P-1A, P-1B or P-1C) _____________________________________________________________ _____________________________________________________________ Insert title verbally _____________________________________________________________ agreeing with that in the _____________________________________________________________ application form. _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ Insert (in full) the name, address, and nationality of the applicant or applicants. The following specification particularly describes the nature of this invention:- Here begin description of the nature of the invention. Dated this ___________ day of ____________________, 20___ Fee: Rs. Application for complete specification (Section 14) (To be supplied in duplicate with Forms P-2, P-2A, P-2B or P-2C or Forms P-1, P-1A, P-1B or P-1C (if a Provisional Specification is not accompanying)) _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ Insert title verbally agreeing with that in the _____________________________________________________________ application form. _____________________________________________________________ ________ _____________________________________________________________ Insert (in full) the name, _____________________________________________________________ address, and nationality of the applicant or _____________________________________________________________ applicants. Description: (including this page) Insert number of sheets of the Description, Claim(s), Abstract, Claim (s): and Drawing(s). Abstract: Drawing (s): Insert address for service in Pakistan. Address for service in Pakistan: Here begin full description of the nature of the invention. The following specification particularly describes and ascertains the nature of this invention and the manner in which it is to be performed:- Dated this ___________ day of ____________________, 20___ Fee: Rs. Application for extension of time/Postponement of normal acceptance (Sections 16(6), 27(3), 32(2), 88(1) & Rules 8(8), 14(6), 14(7), 21(2), 24(3), (62) I (or we) _____________________________________________________________ Insert (in full) the name, address, and nationality. _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ hereby apply for ______ months extension of time under following provisions of the Ordinance or the Rules:- _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ The reasons for making this application are as follows:- _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ _____________________________________________________________ My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Agent, also include Signature _____________________________________________ latest tele- communication details. Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for deletion of reference (Section 17(2) (Rule 15(2)) (To be accompanied in duplicate by a copy of the direction issued under section 17(1)) IN THE MATTER OF Insert particulars of the case I (or we) _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ hereby apply for the deletion of a reference inserted pursuant to a direction under sub-section (1) of section 17. The facts relied upon in support of the application are as under,- Insert the facts relied _______________________________________________________________ upon in support of the application. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Insert name, designation and Signature _____________________________________________ address of the signatory. In case of Agent, also include Name: ________________________________________ latest tele-Designation: ___________________________________ communication details. Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for substitution of applicant (Section 18(1) (Rule 16(1)) Insert particulars of the IN THE MATTER OF patent application. I (or we) Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby request that you enter (or substitute) my (or our) name(s) as applicant(s) or joint applicant(s) in respect of the above referred patent application presently pending in the name of Insert in whose name _______________________________________________________________ the application is presently pending. I (or we) claim to be so entitled by virtue of _____________________________ _______________________________________________________________ _______________________________________________________________ Specify particulars of such document, giving its date, and the parties to the same, and showing how the claim there made is substantiated. And in proof whereof I (or we) transmit the accompanying ____________ with an attested copy thereof. Insert the nature of the document. My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Insert name, designation and address of the Signature _____________________________________________ signatory. In case of Agent, also include Name: ________________________________________ latest tele- communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Notice of Opposition (Section 23)(Rule 18(1)(a), 25(4), 27(2), 28(4) & 31(3)) Insert particulars of the IN THE MATTER OF case. I (or we) Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby give notice of my (or our) intention to oppose,- Strikeout whatever is (a) Under section 23, the grant of a patent application not applicable. No.______________; (b) Under rule 25(4) against restoration of the lapsed patent No. _____________; (c) Under rule 27(2) against surrender of the patent No. ___________; (d) Under rule 28(4) against amendment of the accepted patent application No.________________; (e) Under Rule 31(3) against the correction advertised under section 51(4) in respect of application for patent No._____________; (f) Under _____________________________________________________. Insert grounds of the The grounds of my (or our) opposition are as follows,- opposition. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Insert name, designation and Name: ________________________________________ address of the Designation: ___________________________________ signatory. In case of Agent, also include latest tele-Address: ______________________________________ communication details. _______________________________________________ To Controller of Patents Fee: Rs. Notice of intention to attend hearings (Section 23(2))(Rule 18(10)) Insert particulars of the IN THE MATTER OF case. I (or we) Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby give notice that the hearing in the above referenced matter fixed on Insert date of the ______ day of ________, 20__ will be attended by myself (or ourselves) or by hearing. some person on my (or our) behalf. My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Agent, also include Signature _____________________________________________ latest tele- communication details. Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for third party observations (Section 24(1))(Rule 19(1)(a)) Insert particulars of the IN THE MATTER OF case. I (or we) Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby give make following observations on the novelty of the above Insert observations. referenced patent application. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ And in proof whereof I (or we) transmit the accompanying ____________ with Insert the nature of the an attested copy thereof. documents (if any). My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Insert name, designation and address of the Signature _____________________________________________ signatory. In case of Agent, also include Name: ________________________________________ latest tele- communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for third party observations (Section 24(1))(Rule 19(1)(a)) Insert particulars of the IN THE MATTER OF case. I (or we) Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby give make following observations on the novelty of the above Insert observations. referenced patent application. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ And in proof whereof I (or we) transmit the accompanying ____________ with Insert the nature of the an attested copy thereof. documents (if any). My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Insert name, designation and address of the Signature _____________________________________________ signatory. In case of Agent, also include Name: ________________________________________ latest tele- communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Request for sealing. (Section 27(1))(Rule 21(1)) Insert particulars of the IN THE MATTER OF application. I (or we) Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ desire to have a patent sealed on my (or our) application referenced above and request that the following address may be entered on the Register as my (or our) address for service in Pakistan. _______________________________________________________________ Insert address for service in Pakistan. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert name, designation and address of the signatory. In case of Dated this ___________ day of ____________________, 20___ Agent, also include latest tele- communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for the amendment of a patent granted to a deceased person. (Section 28)(Rule 23) Insert particulars of the IN THE MATTER OF application. I (or we) _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ hereby request that you substitute my (or our) name(s) as applicant(s) in respect of the above referred patent application presently pending in the name Insert in whose name of the application is presently pending. ______________________________________________________________. I (or we) claim to be so entitled by virtue of _____________________________ Specify particulars of _______________________________________________________________ such document, giving _______________________________________________________________ its date, and the parties to the same, and showing how the claim there made is substantiated. Insert the nature of the And in proof whereof I (or we) transmit the accompanying ____________ with document. an attested copy thereof. My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Insert name, designation and address of the Signature _____________________________________________ signatory. In case of Agent, also include Name: ________________________________________ latest tele-Designation: ___________________________________ communication details. Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for renewal of patent. (Section 32)(Rule 24(1)) IN THE MATTER OF Insert particulars of the patent. I (or we) _______________________________________________________________ Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert detail of the annuity. hereby leave the prescribed fee of Rs.___________________________________ for payment of ____________ annuity in respect of the above referenced patent. Insert date on which The said annuity is falling due on _______ day of __________, 20___. the annuity is falling due. My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Insert name, designation and address of the Signature _____________________________________________ signatory. In case of Agent, also include Name: ________________________________________ latest tele- communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for restoration of patent. (Section 45(1))(Rule 25(1)) I (or we) _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ Insert detail of the patent. hereby apply for an order of the Controller for the restoration of the patent No._____________ dated the _______ day of ____________, 20___ granted to _______________________________________________________________ Insert date on which The circumstances which have led to the omission to pay the fee of the annuity was due. Rs._____________ on or before the ______ day of _________, 20__ are as follows:- The circumstance must be stated in details. I (or we) declare that I (or we) have not assigned the patent to any other person and that the facts and maters stated herein are true to the best of my (or our) knowledge, information and belief. Insert address for My (or our) address for service in Pakistan is:- service in Pakistan. Insert name, designation and address of the signatory. In case of Dated this ___________ day of ____________________, 20___ Agent, also include latest tele- communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for revocation of patent. (Section 47)(Rule 26(1)) Insert particulars of the IN THE MATTER OF case. I (or we) _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ hereby give notice of my (or our) intention to revoke the above referenced Insert name of the person in patent granted (or sealed) in the name of whose name the patent was _______________________________________________________________ granted or sealed. The grounds of my (or our) revocation are as follows,- _______________________________________________________________ _______________________________________________________________ Insert grounds of _______________________________________________________________ revocation in details. _______________________________________________________________ My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Signature _____________________________________________ Agent, also include latest tele-Name: ________________________________________ communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Surrender of patent (Section 49)(Rule 27(1)) Insert particulars of the IN THE MATTER OF case. I (or we) _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ hereby offer to surrender the above referenced patent dated __________ day Insert number and date. of ________, 20___ granted to _______________________________________________________________ Insert name of the _______________________________________________________________ person the said patent _______________________________________________________________ was granted. I (or we) declare that no action for infringement or for the revocation of the letters patent in question is pending before a Court. My (or our) reasons for making this offer are as follows,- _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert reasons. _______________________________________________________________ I (or we) declare that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Insert name, designation and Dated this ___________ day of ____________________, 20___ address of the signatory. In case of Agent, also include Signature _____________________________________________ latest tele- communication details. Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for amendment of pending specification/accepted specification. (Section 42(3))(Rule 28(1 and 2)) Insert particulars of the case. IN THE MATTER OF I (or we) Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert number and date. seek leave to amend the accepted specification for Patent No.____________ dated _________ as shown in bold and underlined in the copy hereunto annexed. I (or we) declare that no action for infringement or for the revocation of the letters patent in question is pending before a Court. Insert reasons. My (or our) reasons for making this amendment are as follows,- _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ I (or we) declare that the facts and matters stated herein are true to the best of Insert address for my (or our) knowledge, information and belief. service in Pakistan. My (or our) address for service in Pakistan is:- Insert name, designation and address of the signatory. In case of Agent, also include latest tele-Dated this ___________ day of ____________________, 20___ communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application to amend specification when the amendment is made to meet an objection contained in an examiner’s report. (Rule 28(8)) Insert particulars of the IN THE MATTER OF case. I (or we) _______________________________________________________________ Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ seek leave to amend the specification for Patent No.____________ Insert number and date. dated_________ . We attach a copy of the amended specification along as well copy of the as “as- filed” specification. Insert date of the My (or our) reasons for making this amendment is to meet the objection Examination Report. contained in the Examiner Report dated __________ day of _________, 20__. My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Signature _____________________________________________ Agent, also include latest tele- communication details. Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for Directions of Controller. (Section 35(1))(Rule 29(1)) Insert particulars of the IN THE MATTER OF case. I (or we) Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby request for your direction and any materials used by you in arriving at such decision. Our grounds for making this request are as under,- _______________________________________________________________ Insert grounds in _______________________________________________________________ details. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ ________________________________________________ And in proof whereof I (or we) transmit the accompanying documents. I (or we) declare that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. Insert address for service in Pakistan. My (or our) address for service in Pakistan is:- Insert name, designation and address of the signatory. In case of Agent, also include Dated this ___________ day of ____________________, 20___ latest tele- communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for directions of Controller. (Section 35(2))(Rule 29(4)) Insert particulars of the IN THE MATTER OF case. I (or we) Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby request for your direction and any materials used by you in arriving at such decision. Our grounds for making this request are as under,- _______________________________________________________________ Insert grounds in _______________________________________________________________ details. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ And in proof whereof I (or we) transmit the accompanying documents. I (or we) declare that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. Insert address for service in Pakistan. My (or our) address for service in Pakistan is:- Insert name, designation and address of the Dated this ___________ day of ____________________, 20___ signatory. In case of Agent, also include latest tele- communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Request for decision of Controller (Section 36(1))(Rule 30(1)) Insert particulars of the IN THE MATTER OF case. I (or we) Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby request for your decision and any materials used by you in arriving at such decision. Our grounds for making this request are as under,- _______________________________________________________________ Insert grounds in _______________________________________________________________ details. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ And in proof whereof I (or we) transmit the accompanying documents. I (or we) declare that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. Insert address for service in Pakistan. My (or our) address for service in Pakistan is:- Insert name, designation and address of the Dated this ___________ day of ____________________, 20___ signatory. In case of Agent, also include latest tele- communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Request for correction of clerical error(s) (Section 44, 51(2))(Rule 31(1)) Insert particulars of the IN THE MATTER OF case. I (or we) Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby request that the following clerical error(s) ________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Specify the document ________________________ in which the error in the occurs. _______________________________________________________________ No._______________ of the ______ day of _______, 20__ may be corrected in the manner shown in red ink in the official copy of the original ___________ Insert address for ___________________________________________________ hereunto service in Pakistan. annexed. My (or our) address for service in Pakistan is:- Insert name, designation and address of the signatory. In case of Agent, also include latest tele-Dated this ___________ day of ____________________, 20___ communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for grant of non-voluntary license. (Section 59(1))(Rule 32(1)) (To be accompanied by a statement in duplicate of the facts upon which the applicant relies and evidence in duplicate verifying the statement) Insert particulars of the IN THE MATTER OF patent. I (or we) _______________________________________________________________ _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ hereby make an application for the grant of non-voluntary license in respect of the patent whose particulars have been referenced above. Insert grounds in details. My (or our) grounds for making this request are as under,- _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ And in proof whereof I (or we) transmit the accompanying documents. Insert address for service in Pakistan. I (or we) declare that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. Insert name, My (or our) address for service in Pakistan is:- designation and address of the signatory. In case of Agent, also include latest tele- communication details. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for grant of exclusive marketing rights. (Section 30(4) Rule, 43) IN THE MATTER OF Insert particulars of the I (or we) case. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. hereby make an application for the grant of exclusive privilege of marketing of Insert details of the ___________________________________________________ being a product. chemical product intended to be used in medicine or agricultural in Pakistan. I hereby declare that ,- (a) I am (or we are) the true and first inventor (or assignee of the patent in respect) of the said product; (b) I (or we) have filed in my name (or our names) an application in Pakistan in respect of the said product patent as a mail box application; and (c) marketing approval has been obtained by me (or us) in a Convention Attach sufficient compelling evidence in country in respect of the said product. support of your application. And in proof whereof I (or we) transmit the accompanying documents. I (or we) declare that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. Insert address for service in Pakistan. My (or our) address for service in Pakistan is:- I pray that I am entitled to an exclusive privilege of marketing the said product for a period of five year after obtaining the marketing approval of the Ministry of Health, Government of Pakistan, or until the patent on the said application is granted or rejected, whatever period is earlier. Insert name, designation and address of the signatory. In case of Dated this ___________ day of ____________________, 20___ Agent, also include latest tele- communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for to the Federal Government for Exploitation of patent. (Section 58(4), 59(1), 59(3)(ii), Rule, 44) (To be accompanied by a statement in duplicate of the facts upon which the applicant relies and evidence in duplicate verifying the statement) Insert particulars of the patent. IN THE MATTER OF I (or we) _______________________________________________________________ Insert (in full) the name, address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby make an application for exploitation of the patent whose particulars have been referenced above. Insert grounds in details. My (or our) grounds for making this request are as under,- _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ And in proof whereof I (or we) transmit the accompanying documents. Insert address for service in Pakistan. I (or we) declare that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. My (or our) address for service in Pakistan is:- Insert name, designation and address of the signatory. In case of Agent, also include latest tele- communication details. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for alternation of a name, nationality, Address or address for service (Section 54(1))(Rule 36(1)) IN THE MATTER OF I (or we) Insert particulars of the _______________________________________________________________ patent. _______________________________________________________________ _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. hereby request that (a) our name appearing in the Register as _______________________________ shall be altered to read Strike out whichever is not as____________________________________________ required. (b) our address appearing in the Register as ______________________________ shall be altered to read as____________________________________________ Specify the document certifying the alteration. (c) our nationality appearing in the Register as ___________________________ Insert name, shall be altered to read designation and address of the as____________________________________________ signatory. In case of Agent, also include (d) our address for service appearing in the Register as ___________________ latest tele- communication details. shall be altered to read as____________________________________________ An attested copy of____________________________endorsing (a), (b) (c) or (d) is Attached herewith. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for recordal of assignment by an assignee. (Section 55(1))(Rule 37(a)) IN THE MATTER OF Insert particulars of the patent. I (or we) _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ hereby apply that you will enter my (or our) name (or names) in the Register as Insert number(s), dates(s) proprietor (or part proprietor) of patent(s) No(s)_______________ dated of the patent(s). _______ day of _________, 202___ granted to ______________________ _______________________________________________________________ Insert name(s) of the _______________________________________________________________ person(s) to whom the patent was granted. _______________________________________________________________ _______________________________________________________________ Insert title of the patent. of which the title is____________________________________________________ _______________________________________________________________ Specify particulars of I (or we) claim to be so entitled by virtue of _____________________________ such document, giving _______________________________________________________________ its date, and the parties _______________________________________________________________ to the same, and showing how the claim there made is substantiated. And in proof whereof I (or we) transmit the accompanying ____________ with Insert the nature of the an attested copy thereof. document. My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Insert name, Signature _____________________________________________ designation and address of the signatory. In case of Name: ________________________________________ Agent, also include Designation: ___________________________________ latest tele- communication details. Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for recordal of assignment etc. by an assignor etc. (Section 55(2))(Rule 37(b)) IN THE MATTER OF Insert particulars of the patent. I (or we) Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert (in full) the name, hereby apply that you will the following address, and nationality. person___________________________ _______________________________________________________________ Insert number(s), dates(s) _______________________________________________________________ of the patent(s). _______________________________________________________________ _______________________________________________________________i Insert name(s) of the n the Register as proprietor (or part proprietor) of Patent(s) No(s)__________ person(s) to whom the dated_________day of _________,202_____granted to patent was granted. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert title of the patent. _______________________________________________________________ Specify particulars of of which the title such document, giving is_____________________________________________________ its date, and the parties _______________________________________________________________ to the same, and The said person(s) are so entitled by virtue showing how the claim of____________________________ there made is _______________________________________________________________ substantiated. _______________________________________________________________ Insert the nature of the document. And in proof whereof I (or we) transmit the accompanying ____________ with an attested copy thereof. My (or our) address for service in Pakistan is:- Insert address for service in Pakistan. Dated this ___________ day of ____________________, 20___ Insert name, designation and address of the Signature _____________________________________________ signatory. In case of Agent, also include Name: ________________________________________ latest tele- communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Request for certificate of the Controller. (Section 57(1))(Rule 42(1)) Insert particulars of the IN THE MATTER OF patent. I (or we) Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ Set out the particulars _______________________________________________________________ which the Controller is hereby request the Controller to furnish me (or us) with his certificate to the required to certify. effect that ________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ My (or our) address is:- Insert address. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Agent, also include Signature _____________________________________________ latest tele- communication details. Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Request for search. (Section 57, 100)(Rule 42(3)) I _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ hereby request that I may be given such information as I may be entitled to under the provisions of the Ordinance with respect to the patents (or applications for patent). The information available with me are as under,- (a) Patent Insert as much as No._________________________________________________; information available. (b) Application for patent No.___________________________________; (c) Name of Patentee/Applicant ________________________________; (d) Title of Invention/Application _______________________________; (e) Subject matter of patent(s) _________________________________; (f) Classification of the patent(s) _______________________________; (g) Other _____________________________________________________. Insert address. My address is:- Insert name, designation and address of the Dated this ___________ day of ____________________, 20___ signatory. In case of Agent, also include latest tele- communication details. Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents To be stamped under Form of Authorisation to Agent. the stamp Act. (Section 81)(Rule 55) IN THE MATTER OF Insert particulars of the case. I (or we) _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. hereby authorize _______________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert name, address and _______________________________________________________________ communication details of _______________________________________________________________ the Agent. _______________________________________________________________ _______________________________________________________________ ________________________ to act as my (or our) Agent and to perform the functions, acts and deeds deemed permissible by the Ordinance and the Rules and to receive all notices, requisitions and communications until further notice. Strike out if not required. And I (or we) revoke the previous authority given by me (or us) to ________ Insert name of Agent _______________________________________________________________ whose authority is ________ cancelled. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ ________________________ in this matter. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Signature _____________________________________________ Agent, also include latest tele-Name: ________________________________________ communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application consequent upon a court or high court order. (Section 98)(Rule 58) Insert particulars of the IN THE MATTER OF case. I (or we) _______________________________________________________________ _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ Insert details of the High hereby submit a certified copy and a sealed duplicate of the order of the High Court and order thereof. Court of ______________ at _______________ dated __________________. I (or we) in the light of the said order request the Controller to record, correct Insert recordal, correction or rectification sought. and/or rectify the following entry in the Register __________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ ________________________ Insert the present entry in the Register (if any). The present entry in the Register to the above effect is as under,- _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ Insert address for service My (or our) address for service in Pakistan is,- in Pakistan. Insert name, designation and Dated this ___________ day of ____________________, 20___ address of the signatory. In case of Agent, also include Signature _____________________________________________ latest tele- communication details. Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for issuance of duplicate patent. (Section 101)(Rule 13) Insert particulars of the IN THE MATTER OF case. I (or we) _______________________________________________________________ _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ Insert details of the regret to have to inform you that the patent No.__________________________ patent. dated the ___________day of __________, 20____ granted to _______________________________________________________________ Insert name of original _______________________________________________________________ grantee. has been ______________________________________________________________ _______________________________________________________________ Insert the word “lost” or “destroyed” as the case _______________________________________________________________ may be, and state fully the _______________________________________________________________ circumstances. Also state _______________________________________________________________ the interest possessed by _______________________________________________________________ the applicant or applicants _______________________________________________________________ in the patent. _______________________________________________________________ ________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ I (or we) declare that the facts and matters stated herein are true to the best of my (or our) knowledge, information and belief. I (or we) beg therefore to apply for the issue of a duplicate of such patent. Insert name, Dated this ___________ day of ____________________, 20___ designation and address of the signatory. In case of Signature _____________________________________________ Agent, also include latest tele-Name: ________________________________________ communication details. Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for registration of a patent agent. (Section 80)(Rule 48) (To be filed in duplicate) I, _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ hereby make an application for registration of a patent agent. My particulars are as under,- (a) Business address; (b) Home address; (c) Father’s name; (d) Date and place of birth; (e) Occupation in full; (f) Particulars of qualification for registration as a patent agent are ________________________________________________________ ________________________________________________________ ________________________________________________________ Whether ay any time removed from the Register of Patent Agents and, if so, the reason for such removal. I declare that I am not subject to any of the disabilities or disqualifications prescribed by the Ordinance and the Rules. And in proof whereof I transmit the accompanying documents. I declare that the facts and matters stated herein are true to the best of my knowledge, information and belief. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Insert name, designation and Name: ________________________________________ address of the Designation: ___________________________________ signatory. Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application for restoration of name of a patent agent. (Rule 52(1)) (To be filed in duplicate) I, _______________________________________________________________ Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ hereby make an application for restoration of my name to the Register of Patent Agents. I attach herewith a clearance certificate from the Federal Government in this behalf. I declare that I am not subject to any of the disabilities or disqualifications prescribed by the Ordinance and the Rules. I declare that the facts and matters stated herein are true to the best of my knowledge, information and belief. Insert name, designation and address of the signatory. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents Fee: Rs. Application by a patent agent for alteration of name, address, business address or qualifications. (Rule 53(1)) (To be filed in duplicate) I, Insert (in full) the name, _______________________________________________________________ address, and nationality. _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ hereby make an application for,- (a) alteration of my name; (b) alteration of my address; (c) alteration of my business address; or (d) alteration of my qualifications Insert the present entry in in the Register of Patent Agents. the Register of Patent Agents. My subject entry in the Register of Patent Agent is presently as under,- _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ ________________________ Insert name, designation and I attach herewith a certificate to the above effect and declare that the facts and address of the matters stated herein are true to the best of my knowledge, information and signatory. belief. Dated this ___________ day of ____________________, 20___ Signature _____________________________________________ Name: ________________________________________ Designation: ___________________________________ Address: ______________________________________ _______________________________________________ To Controller of Patents"
+      },
+      {
+       "n": "81-1",
+       "text": "P-1 Application for patent when the true and first inventor is sole or 2250 joint applicant. (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-2",
+       "text": "P-1A Application for patent when the true and first inventor is NOT a 2250 party to the application. (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-3",
+       "text": "P-1B Application for patent of addition when the true and first inventor is 2250 sole or joint applicant. (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-4",
+       "text": "P-1C Application for patent of addition when the true and first inventor is 2250 NOT a party to the application. (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-5",
+       "text": "P-2 Convention application for patent when the true and first inventor is 2250 sole or joint applicant. (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-6",
+       "text": "P-2A Convention application for patent when the true and first inventor is 2250 NOT a party to the application. (b) For each additional page of specification beyond 40 pages. 30 (b) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-7",
+       "text": "P-2B Convention application for patent of addition. 2250 (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-8",
+       "text": "P-2C Convention application for patent of addition when the true and first 2250 inventor is NOT a party to the application. (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-9",
+       "text": "P-3 Application for Provisional Specification. 675 (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "81-10",
+       "text": "P-3A Application for Complete Specification. 1575 (c) For each additional page of specification beyond 40 pages. 30 (d) For each additional claim beyond 20 claim. 75"
+      },
+      {
+       "n": "82-12",
+       "text": "P-5 Application for the deletion of a reference. 250"
+      },
+      {
+       "n": "82-13",
+       "text": "P-6 Application for substitution of applicant. 500"
+      },
+      {
+       "n": "82-18",
+       "text": "P-11 Application for the amendment of a patent granted to a deceased 2500 person."
+      },
+      {
+       "n": "83-23",
+       "text": "P-16 Application for amendment of pending specification / accepted 750 specification."
+      },
+      {
+       "n": "83-24",
+       "text": "P-17 Application to amend specification when the amendment is 250 made to meet an objection contained in an examiner’s report."
+      },
+      {
+       "n": "84-2",
+       "text": "P-1A application. Application for patent of addition when the true and first inventor is sole or joint"
+      },
+      {
+       "n": "84-3",
+       "text": "P-1B applicant. Application for patent of addition when the true and first inventor is NOT a party to"
+      },
+      {
+       "n": "84-6",
+       "text": "P-2A the application. Convention application for patent of addition."
+      },
+      {
+       "n": "84-7",
+       "text": "P-2B Convention application for patent of addition when the true and first inventor is"
+      },
+      {
+       "n": "84-11",
+       "text": "P-4 Application for the deletion of a reference."
+      },
+      {
+       "n": "84-12",
+       "text": "P-5 Application for substitution of applicant."
+      },
+      {
+       "n": "84-18",
+       "text": "P-11 Application for the amendment of a patent granted to a deceased person. Application for renewal of a patent."
+      },
+      {
+       "n": "84-23",
+       "text": "P-16 Application for amendment of pending specification / accepted specification. Application to amend specification when the amendment is made to meet an"
+      },
+      {
+       "n": "86-1",
+       "text": "Applications (1) The specification of an application for a patent, or of a patent, for an invention which involves the use of or concerns biological material: (a) Which is not available to the public at the date of filing the applications; and (b) Which cannot be described in the specification in such a manner as to enable the invention to be performed by a person skilled in the art, Shall, in relation to the biological material itself, be treated for the purposes of the Ordinance as disclosing the invention in such a manner only if one of the conditions set out in subparagraph (2) below is satisfied and the application as filed contains such relevant information as is available to the applicant on the characteristics of the biological material. (2) The conditions referred to in subparagraph (1) above are – (a) condition that,- (i) not later than the date of filing of the application, the biological material has been deposited in a depositary institution prescribed by the Federal Government which is able to furnish a sample of the biological material; and (ii) the name of the depositary institution and the accession number of the deposit are given in the specification of the application; and (3) Where the information specified in subparagraph (2)(a)(i) or (ii) above is not contained in an application for a patent as filed, it shall be added to the application (a) before the end of the period of 12 months after the declared priority date or, where there is no declared priority date, the date of filing of the application; (b) where the Controller sends notification to the applicant that he has received a request by any person for information and inspection of documents under the relevant provisions of the Ordinance, before the end of one month after his sending to the applicant notification of his receipt of the request, whichever is the earliest. (4) The giving of the information specified in subparagraph (2)(ii) above shall constitute the unreserved and irrevocable consent of the applicant to the depositary institution with which biological material (including a deposit which is to be treated as having always been available by virtue of paragraph 5(2) below) is from time to time deposited making the biological material available on receipt of the Controller’s certificate authorizing the release to the person who is named therein as a person to whom the biological material may be made available and who makes a valid request therefore to the institution."
+      },
+      {
+       "n": "90-5",
+       "text": "New deposits (1) This paragraph applies where- (a) biological material ceases to be available from the institution with which it was deposited because- (i) the biological material is no longer viable, or (ii) for any other reason the institution is unable to supply samples, or (b) the depositary institution- (i) ceases to be a depositary institution for the purposes of this Schedule, either entirely or for the kind of biological material to which the deposited sample belongs, or (ii) discontinues, temporarily or permanently, the performance of its functions as regards deposited biological material, and no sample of the biological material has been transferred to another depositary institution, from which it continues to be available. (2) An interruption in availability of the biological material shall be deemed not to have occurred if within a period of three months from the date on which the depositor was notified of the interruption by the depositary institution- (a) the depositor (or applicant or proprietor if different) makes a new deposit of a sample of that biological material; and (b) the applicant or proprietor makes a request for amendment of the specification so as to indicate the accession number of the new deposit and, where applicable, the name of the depositary institution with which the deposit was made. (3) In the case provided for in subparagraph (1)(a)(i) above, the new deposit shall be made with the depositary institution with which the original deposit was made; in the cases provided for in subparagraphs 1(a(ii) and 1(b), it may be made with another depositary institution. (4) Where, in a case to which subparagraph (1)(b) applies, no notification of the interruption of availability of the biological material from the depositary institution is received by the depositor within six months from the date of such event, the three-month period referred to in subparagraph (2) shall begin on the date on which this event is announced in the Journal. (5) Any new deposit shall be accompanied by a statement signed by the person making the deposit certifying that the sample of biological material newly deposited is of the same biological material as was the sample originally deposited."
+      },
+      {
+       "n": "93-19",
+       "text": "GIK Institute of Engineering Sciences and Technology. 20 Plant Genetic Resource Institute, / National Agricultural Research Centre, (NARC), Chak Shahzad, Islamabad 21 Nuclear Institute of Biotechnology & Genetic Engineering, Faisalabad 22 Whereas_________________________________________________________ ______________________________________________________________________ ______________________________________________________________________ ______________________________________________________ hath declared that he is in possession of an invention for_____________ ______________________________________________________________________ ______________________________________________________________________ ______________________________________________________________________ ______________________________________________________ and that the_________________true and first inventor thereof (or the legal representative or assign of the true and first inventor) and that the same is not used in Pakistan by any other person to the best of his knowledge, information and belief; And whereas he hath humbly prayed that a patent might be granted to him for the said invention; And where he hath by and in his complete specification (of which a printed copy is hereunto annexed) particularly described and ascertained the nature of the invention and the manner in which the same is to be performed; The Federal Government is pleased to order by these presents that the above said petitioner (including his legal representatives and assigns or any of them) shall, subject to the provisions, limitations and restrictions of the Patents Ordinance, 2000, as patentee have the privilege of enjoying rights in the said invention throughout Pakistan, and of authorizing others so to do for the term of twenty years form the___________day of __________, 20____ subject to the conditions that the validity of this patent is not guaranteed by the Government and also provided that the fees prescribed for the continuation of this patent are duly paid. In witness whereof the Federal Government has caused this patent to be sealed as of the ___________day of________, 20___. Signature of Controller_______________________ Date of Sealing______________________________ Whereas_________________________________________________________ ______________________________________________________________________ ______________________________________________________________________ ______________________________________________________ hath declared that he is in possession of an invention for_________________________ ______________________________________________________________________ ______________________________________________________________________ ______________________________________________________________________ ______________________________________________________ and that the_________________true and first inventor thereof (or the legal representative or assign of the true and first inventor) and that the same is not used in Pakistan by any other person to the best of his knowledge, information and belief; And whereas he hath filed an application for grant of patent claiming protection for chemical products intended for use in medicine or agriculture after the first day of January 1995, in accordance with Article 70(8) and 70(9) of the World Trade Organization Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPs); And whereas he hath humbly prayed that a patent might be granted to him for the said invention; And where he hath by and in his complete specification (of which a printed copy is hereunto annexed) particularly described and ascertained the nature of the invention and the manner in which the same is to be performed; The Federal Government is pleased to order by these presents that the above said petitioner (including his legal representatives and assigns or any of them) shall, subject to the provisions, limitations and restrictions of the Patents Ordinance, 2000, as patentee have the privilege of enjoying rights in the said invention throughout Pakistan, and of authorizing others so to do for the term of twenty years form the___________day of __________, 20____ subject to the conditions that the validity of this patent is not guaranteed by the Government and also provided that the fees prescribed for the continuation of this patent are duly paid. In witness whereof the Federal Government has caused this patent to be sealed as of the ___________day of________, 20___. Signature of Controller_______________________ Date of Sealing______________________________ Whereas_________________________________________________________ ______________________________________________________________________ ______________________________________________________________________ ______________________________________________________ Has paid the prescribed fee for the _____________________annuity in respect of the above reference patent. Therefore the said patent has been renewed upto the _____________day of ________________, 20_____. Signature of Controller_______________________ Date _______________________________________ It is certified that Mr.__________________________________________________________ Of____________________________________________________________________ ________ ______________________________________________________________________ ______________________________________________________________________ ______________________________________________________________________ ________________________ has satisfied the Controller of Patents that he has acquired the necessary qualification, experience and competence specified under rules 46, 47 and 49 to be registered as a Patent Agent in the Register of Patent Agents maintained under rule 45. Subject to the provisions of rules 50 and 51, the Controller hereby registers him as a Patent Agent in the Register of Patent Agents. Signature of Controller_______________________ Date________________________________________"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

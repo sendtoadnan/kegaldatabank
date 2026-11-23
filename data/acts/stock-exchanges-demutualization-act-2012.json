@@ -1,0 +1,30 @@
+{
+ "id": "stock-exchanges-demutualization-act-2012",
+ "title": "Stock Exchanges (Corporatization, Demutualization and Integration) Act, 2012",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Demutualization Act"
+ ],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "stock-exchanges-demutualization-act-2012.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Stock Exchanges (Corporatization, Demutualization and Integration) Act, 2012' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}

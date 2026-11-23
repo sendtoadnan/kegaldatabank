@@ -1,0 +1,29 @@
+{
+ "id": "financial-institutions-recovery-of-finances-ordinance-2001",
+ "title": "Financial Institutions (Recovery of Finances) Ordinance, 2001",
+ "number": "Ordinance No. XLVI of 2001",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [],
+ "enacted": "2001-08-30",
+ "amendedUpToLabel": "Pakistan Code edition (Ministry of Law and Justice)",
+ "status": "in-force",
+ "source": {
+  "name": "Pakistan Code (Ministry of Law and Justice)",
+  "url": "https://pakistancode.gov.pk"
+ },
+ "sourcePdf": "financial-institutions-recovery-of-finances-ordinance-2001.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Financial Institutions (Recovery of Finances) Ordinance, 2001' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Taken from the Pakistan Code (Ministry of Law and Justice) because the State Bank's own PDF would not download (server error, 23 Nov 2026). Replace with the State Bank's copy if wanted; the edition date is not stated. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}

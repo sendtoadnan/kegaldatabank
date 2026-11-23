@@ -20,8 +20,10 @@
  },
  "sourcePdf": "llp-act-2017.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Pakistan Code (Ministry of Law and Justice) consolidated edition updated to 15 October 2021. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Pakistan Code (Ministry of Law and Justice)): llp-act-2017.pdf, edition 15 October 2021; editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "WHEREAS it is expedient to make provisions for the formation and regulation of limited liability partnerships and for matters connected therewith or incidental thereto; It is hereby enacted as follows:—",
  "parts": [

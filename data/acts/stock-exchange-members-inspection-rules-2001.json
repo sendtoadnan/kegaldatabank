@@ -1,0 +1,83 @@
+{
+ "id": "stock-exchange-members-inspection-rules-2001",
+ "title": "Stock Exchange Members (Inspection of Books and Record) Rules, 2001",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "stock-exchange-members-inspection-rules-2001.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Stock Exchange Members (Inspection of Books and Record) Rules, 2001' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, commencement and application",
+     "page": 1,
+     "text": [
+      "i. These rules may be called the Stock Exchange Members (Inspection of Books and Record) Rules, 2001. ii. They shall come into force at once. iii. They shall apply to all members of the stock exchanges in Pakistan."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "In these Rules, unless there is anything repugnant in the subject or context,a. “Branch office” means an office, branch or shop opened and maintained by a member within or outside the premises of a stock exchange for conducting the business and trading of shares and securities; b. “Central Depository Companies Regulations” means the regulations of a central depository company registered with the Commission under the Central Depository Companies (Establishment and Regulation) Rules, 1996; c. “Central Depository System” means the central depository system established under section 4 of the Central Depositories Act, 1997 (XIX of 1997); and d. “member” means a member of a stock exchange. i. All other words and expressions used but not defined in these rules shall have the same meaning as are assigned to them in the Securities and Exchange Ordinance, 1969 (XVII of 1969), the Companies Ordinance, 1984 (XLVII of 1984), or the Central Depositories Act, 1997 (XIX of 1997)."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Inspection by a member",
+     "page": 1,
+     "text": [
+      "The Commission may order inspection of books and record required to be maintained by a member of stock exchange under these rules."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Procedure for inspection",
+     "page": 1,
+     "text": [
+      ". As and when the Commission decides to undertake an inspection, a notice of fifteen days shall be given to the member of the exchange for such purpose. Provided that the notice, as aforesaid, shall not be required if the Commission is satisfied that immediate inspection is necessary in the interest of investors and the securities market. i. The Commission may appoint one or more persons as inspectors to inspect the books and record of a member of a stock exchange."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Obligations of a member",
+     "page": 2,
+     "text": [
+      ". Every director, proprietor, partner, officer and employee of the member of stock exchange, who is being inspected, shall produce such books of accounts, record and other documents under his custody or control with information relating to transaction in securities market within such time as may be required by the person inspecting the record. i. The member, referred to in sub-rule(1) shall, in addition to the record required to be maintained under the Securities and Exchange Rules, 1971, maintain and provide the following record and documents for inspection to the person authorized by the Commission for the purpose, namely:. documents relating to opening of the sub-account of the customers with the Central Depository Company of Pakistan Limited; a. documents of sub-account holders and the group account holders as per requirement of the Central Depository Company regulations; b. documents relating to Zakat status of a customer having an account with the Central Depository Company; c. written consent of clients in respect of contracts entered into as principals; d. margin deposit book; e. registers of accounts of agents; f. an agreement with an agent specifying the scope of authority and responsibilities of the member and his agent. g. record of pledging or arranging for the pledging of any security carried for the account of any customer, whether physically held or in the Central Depository System with a commercial bank; h. record of extension or maintenance of credit or arranging for the extension or maintenance of credit to the customers for the purpose of purchasing or carrying any security; i. record of borrowing on any security or lending or arranging for the lending of any security carried for the account of the customer; j. record of dealing in foreign currencies as a dealer duly authorized by the State Bank of Pakistan within the brokerage house at the stock exchange premises; k. record of establishment of branch offices within or outside the premises of the stock exchange with the following information, namely:l. has been suspended by a stock exchange, i. Location of the branch offices; ii. intimation to the stock exchange of such offices;",
+      "iii. status of the person authorized to manage the branch office whether as an authorized agent or an employee as per the Stock Exchange Regulations. iv. proof of business being done at the branch office in the name of the member; v. authority given to the agent or employee to perform all acts on behalf of the member; vi. proof of maintenance of the branch offices bank account in the name of the member; vii. proof of proper maintenance of accounts of the customers at the branch offices; and viii. any other documents and records required to be maintained under regulations made by the stock exchange. ii. A member shall allow a person carrying out inspection to have reasonable excess to the premises occupied by him or any other person on his behalf and also extend reasonable facility for examining any books, record, documents computer-data in possession of the member or any other person and also provide copies of documents or other materials which, in the opinion of the person carrying the inspection, are relevant."
+     ],
+     "fn": [
+      {
+       "n": "3-6",
+       "text": "Submission of inspection report.- . A person authorized to carry inspection shall submit his report to the Commission within the time specified in the order. i. A person carrying out the inspection shall be entitled to examine or record statements of any member, director, partner, proprietor and employee of the member. ii. The inspection report shall be in accordance with the terms of reference given in the order of inspection. In addition, specific findings or views of the authorized person shall also be given in the report about the maintenance of books and record in accordance with these rules."
+      },
+      {
+       "n": "3-8",
+       "text": "Action on findings.- On receipt of explanation, if any, from a member, inspected under these rules, the Commission may require such member to take such measures as it may deem fit in the interest of the securities market for due compliance with the provisions of the Securities and Exchange Ordinance, 1969 and the rules made thereunder. F. No. 1(11)CF/POL/99 (ABDUL HALEEM JADRAN) Joint Director"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

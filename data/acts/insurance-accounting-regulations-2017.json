@@ -1,0 +1,393 @@
+{
+ "id": "insurance-accounting-regulations-2017",
+ "title": "Insurance Accounting Regulations, 2017",
+ "number": "S.R.O. 88(I)/2017",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "Updated as of 3 March 2025 (SECP)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "insurance-accounting-regulations-2017.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Insurance Accounting Regulations, 2017' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short Title and Commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Insurance Accounting Regulations, 2017.",
+      "(2) These regulations shall come into force at once:",
+      "Provided that annual accounts for the period ended on 31st December, 2016 and quarterly accounts for the period ending 31st March 2017 shall be prepared in accordance with the previous requirements."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "In these Regulations, unless there is anything repugnant in the subject or context.",
+      ">>(i) “Ordinance” means the Insurance Ordinance 2000 (XXXIX of 2000);",
+      ">>(ii) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">>(iii) “Regulatory Returns” means the statements which are required to be delivered to the Commission by Insurers under section 46 of the Ordinance as prescribed in Annexure II of the Insurance Rules, 2017;",
+      ">>(iv) “Published Financial Statements” means the accounts which are required to be delivered to the Commission by an insurer under section 233 of the Companies Ordinance, 1984;",
+      ">>(v) “Policyholder Liabilities” has the same meaning given under section 2 of the Insurance Ordinance, 2000."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Application and Scope",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be applied to the Regulatory Returns and the Published Financial Statements.",
+      "(2) Every Insurer shall comply, so far as concerns recognition and measurement of assets, liabilities, expenses and revenues, with International Financial Reporting Standards which are adopted by the Institute of Chartered Accountants of Pakistan and notified by the Commission.",
+      "(3) For the purposes of preparing Regulatory Returns and Published Financial Statements, an insurer carrying on life insurance business shall comply with the requirements of Part A and an insurer carrying on non-life insurance business shall comply with the requirements of Part B."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Provisions applicable only to Regulatory Returns",
+     "page": 2,
+     "text": [
+      "(1) Where an insurer is required to submit consolidated financial statements in accordance with the provisions of section 237 of the Companies Ordinance, 1984, or the applicable International Financial Reporting Standard, the insurer shall not be required to submit the consolidated Regulatory Returns.",
+      "(2) The insurer shall not be required to submit explanatory notes to the Regulatory Returns except as specified in these Regulations or as specified in the Forms of Regulatory Returns."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Relaxation of Regulations",
+     "page": 2,
+     "text": [
+      "Where the Commission is satisfied that it is not practicable to comply with the requirements of these Regulations in a particular case or class of cases, the Commission may, for reasons to be recorded in writing, relax such requirement subject to such conditions as it may deem appropriate.",
+      "PART A",
+      "LIFE INSURANCE"
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Provisions applicable only to Published Financial Statements",
+     "page": 2,
+     "text": [
+      "(1) For the purpose of classification and disclosure of profits;",
+      ">>(i) Profits for the year disclosed in the Published Financial Statements shall be determined by consolidating revenues and expenses relating to the Statutory as well as Shareholders’ Fund. Except for the provisions relating to Ledger Accounts A and B below, balances retained within Statutory Funds over and above insurance liabilities shall be treated as a part of shareholders’ equity and not as liabilities.",
+      ">>(ii) For the purpose of Published Financial Statements, Insurance Liabilities stated in the Statement of Financial Position shall include any balances in Ledger Accounts A and B in Statutory Funds which include participating business. Balances in Ledger Accounts C and D shall be included as part of Shareholders’ Equity. Ledger Accounts A, B, C and D shall be as is defined in Section 22 of the Ordinance."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Segment analysis",
+     "page": 2,
+     "text": [
+      "(1) Some of the forms of Published Financial Statements specified in the Annexure II of the Insurance Rules, 2017 provide segment analysis by type of business as well as fund (statutory fund or shareholders’ fund). If the company writes any type of business which is different from other types of business in terms of nature of products or types of risks in addition to the segments already identified in the said published forms, if the gross premiums for that class constitute 10% or more of the gross premium revenue of the insurer, the gross premiums for such types of business shall be disclosed separately.",
+      "(2) If an insurer writes business outside Pakistan then a complete set of Regulatory Returns except for Form LA as set out in Insurance Rules, 2017 shall be prepared for such business."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Audit Report",
+     "page": 2,
+     "text": [
+      "The Regulatory Returns as well as Published Financial Statements shall be accompanied by an Audit Report as required under Section 48(2) of the Ordinance in accordance with the formats as specified by the Commission from time to time."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Grossing up of assets and liabilities and of revenues and expenses",
+     "page": 2,
+     "text": [
+      "(1) Except as required in subregulation (2) and sub-regulation (3), balances relating to outwards reinsurance ceded by an insurer shall not be offset against balances relating to business written by the insurer, but shall constitute separate balances to be disclosed in the balance sheet, profit and loss account, statement of cash flows or other statement or notes thereto.",
+      "(2) Reinsurance taken into account in determining the amount of policyholder liabilities shall also be separately determined, and the value of policyholder liabilities excluding the effect of reinsurance and the value net of reinsurance shall be separately disclosed.",
+      "(3) Amounts due and receivable and payable between a reinsurer and a cedant may be offset and recognized net in the regulatory returns and the published financial statements, under the circumstance only that there is a clear legal right of offset of the amounts. This requirement shall not apply to underwriting balances."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Insurance liabilities",
+     "page": 3,
+     "text": [
+      "The term Insurance liabilities shall include policyholder liabilities, unearned reinsurance commission and balances in statutory fund ledger accounts A and B."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Investments in Statutory Funds at Fair Value",
+     "page": 3,
+     "text": [
+      "Investments in Statutory Funds shall be classified in accordance with the requirements of International Financial Reporting Standards ensuring that there is no accounting mismatch arising as a result of inconsistency in valuing investments and liabilities of the statutory fund."
+     ]
+    },
+    {
+     "no": "11A",
+     "title": "Recording of advance, withholding or refundable tax",
+     "page": 3,
+     "text": [
+      "[(1) Advance, withholding or refundable tax attributable to the shareholders’ fund of a life insurer shall be recorded in the books of the shareholders’ fund and advance, withholding or refundable tax attributable to a statutory fund of a life insurer shall be recorded in the books of the respective statutory fund.",
+      "(2) It shall be permissible for the shareholders’ fund of the life insurer to purchase the full amount of adjustable advance, withholding or refundable tax recorded in the books of the statutory fund(s) against cash or cash equivalent and government securities. The shareholders’ fund shall, however, mandatorily purchase advance, withholding or refundable tax related to the statutory fund(s), which is adjustable within a period of one year, in cash or cash equivalent and government securities.] {fn:3-1}"
+     ],
+     "fn": [
+      {
+       "n": "3-1",
+       "text": "Inserted by S.R.O. 312(I)/2025 dated March 3, 2025"
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Premiums",
+     "page": 3,
+     "text": [
+      "(1) Premiums shall be recognized as revenue when due and receivable from the policyholders, except that unpaid premiums shall be recognized as revenue only in the following instances:",
+      ">>(i) during days of grace as specified in the policy; or",
+      ">>(ii) where the actuarial valuation assumes that all premiums due have been received.",
+      "(2) Where premiums due are recognized, all expenses which would fall due if the premiums had been received will be recognized as such.",
+      "(3) Reinsurance premiums accepted where the reinsurance contract is on a proportional basis or where the term of the reinsurance contract is directly referable to the term of the underlying policy or policies shall be recognized as revenue in accordance with sub -regulations (1) and (2).",
+      "(4) Reinsurance premiums accepted where the reinsurance contract is on a non-proportional basis and the term of the reinsurance contract is not directly referable to the term of any underlying policy or policies shall be brought to account as revenue in accordance with the pattern of reinsurance service.",
+      "(5) Premiums accepted under a coinsurance or pool arrangement shall be considered to be revenue of the participating insurers each for their own share only, unless a contract of reinsurance exists under which an insurer has primary liability for the whole of the business and reinsures it to another or others."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Insurance Benefits",
+     "page": 4,
+     "text": [
+      "(1) Insurance benefits shall include claims as well as direct claim settlement costs. The amount reported on the face of the Statement of comprehensive income shall be the expense after accounting for the movement in outstanding claims (both reported and incurred but not reported).",
+      "(2) A liability for outstanding claims shall be recognized in respect of all claims incurred to balance sheet date. Where outstanding claims are contractually payable within twelve months of the balance sheet date, these must be measured at the undiscounted value of expected future payments. Where such claims are contractually payable over a period exceeding twelve months from the balance sheet date, then such claims should be stated at values determined by the appointed actuary using basis consistent with those used in the determination of policyholder liabilities.",
+      "(3) A claim shall be considered to be incurred at the time of the occurrence of the incident giving rise to the claim, except as otherwise expressly indicated in a contract of insurance.",
+      "(4) The claims liability must include amounts in relation to unpaid reported claims, claims incurred but not reported, and expected claims settlement costs. The value at which claims incurred but not reported are stated in the financial statements shall be determined by the appointed actuary.",
+      "(5) In the case of investment-linked business, claims shall be recognized at the time at which the policy ceases to participate in the earnings of the fund."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Reinsurance expense",
+     "page": 4,
+     "text": [
+      "(1) Premium ceded to reinsurers must be recognized as a liability as follows:",
+      ">>(i) for reinsurance contracts operating on a proportional basis, or for which the term of the reinsurance contract is directly referable to the term of the underlying policy or policies, at the same point at which the premium of the underlying policy or policies is recognized as revenue.",
+      ">>(ii) for reinsurance contracts operating on a non-proportional basis, and for which the term of the reinsurance contract is not directly referable to the term of any underlying policy or policies, on inception of the reinsurance contract."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Claims recoveries",
+     "page": 4,
+     "text": [
+      "(1) Claims recoveries receivable from reinsurers and other recoveries receivable shall be recognized as assets.",
+      "(2) Claims recoveries receivable from reinsurers and other recoveries receivable shall be recognized at the same time as the claims which give rise to the right to the recovery are recognized."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Reinsurance Profit Commission",
+     "page": 4,
+     "text": [
+      "Reinsurance profit commission should be recognized as an asset where such commission has contractually fallen due. Where the commission has not fallen due, any amount accrued may still be recognized as an asset, being calculated as if the contractual period for it’s determination ended on the balance sheet date. Where such accrual is significant the basis followed and the amount accrued should be disclosed in a note to the accounts."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Expenses",
+     "page": 4,
+     "text": [
+      "(1) Commissions and other expenses shall be recognized as expenses in the earlier of the financial year in which they are paid and the financial year in which they become due and payable, except that commissions and other expenses which are directly referable to the acquisition or renewal of specific contracts shall be recognized not later than the period in which the premium to which they refer is recognized as revenue.",
+      "(2) Where one fund owns assets which are used by another fund, such use shall be translated into an imputed transaction constituting revenue of the owning fund and an expense of the using fund. Where there is a clear and transparent method of ascertaining the fair value of the imputed transaction, then the transaction should be recognized at this value in the books of both the funds involved. In other cases the transaction shall be valued in terms of apportionment of cost.",
+      "(3) All expenses shall be apportioned equitably to the statutory and shareholder’s funds to which they relate and, within each statutory fund, to the groups of policies to which they relate. In determining equitable apportionment, regard shall be had to circumstances in which charges are made by one fund for the use of assets or facilities owned by that fund but used by another.",
+      "(4) No expenses shall be deferred to subsequent financial years other than as permitted by International Accounting Standards/International Financial Reporting Standards, and no expenses which are directly referable to the acquisition or renewal of specific contracts of insurance shall be deferred in any case:",
+      "Provided that taking of expenses into account in determining policyholder liabilities shall not be taken to constitute deferral of expenses."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Appropriation of profit to shareholders’ fund from statutory funds (Applicable to Regulatory Returns only)",
+     "page": 5,
+     "text": [
+      "(1) An appropriation of profit from a statutory fund shall be recorded as an appropriation in the revenue account of that statutory fund in the financial period in respect of which it is made.",
+      "(2) An appropriation of profit from a statutory fund shall be recorded as revenue of the shareholders’ fund in the financial period in respect of which it is made."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Shareholder interests in statutory funds (Applicable to Regulatory Returns only",
+     "page": 5,
+     "text": [
+      ").- (1) The shareholders’ fund shall not recognize as an asset any interest in, entitlement to the assets of or capital transfer provided to any statutory fund.",
+      "(2) A capital transfer provided to a statutory fund by the shareholders’ fund shall be recorded as a debit balance in shareholders’ equity, clearly identified as capital contributed to statutory fund, and changes in the amount of capital contributed to statutory funds shall not pass through the profit and loss account but shall be recorded in the financial statements of the shareholders’ fund as increases or decreases in that debit balance.",
+      "(3) No statutory fund shall recognize as a liability any amount due to the shareholder’s fund consisting of a capital transfer received from a shareholder’s fund, or retained profits attributable to shareholders, or any loan or advance, other than a current liability consisting of amounts due to the shareholder’s fund on account of expenses due to be reimbursed to the shareholder’s fund and on account of surplus appropriated to the shareholders’ fund."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Shareholders’ Fund and Policyholders’ funds (Applicable to Regulatory Returns only)",
+     "page": 5,
+     "text": [
+      "(1) The amount representing the residue of assets left after all liabilities other than policyholder liabilities in the balance sheet of a statutory fund or the aggregate statutory funds balance sheet in the statutory accounts shall be disclosed as equity and policyholder funds.",
+      "(2) The following components of equity and policyholder funds shall be separately disclosed:",
+      ">>(i) Policyholder liabilities (inclusive of bonuses allocated);",
+      ">>(ii) Retained earnings attributable to participating policy holders which have not yet been distributed (Ledger Account A);",
+      ">>(iii) Retained earnings arising from participating business, attributable to shareholders but not available for distribution (Ledger Account B);",
+      ">>(iv) Retained earnings arising from participating business, attributable to shareholders and available for distribution (Ledger Account C);",
+      ">>(v) Retained earnings arising from business other than participating business, attributable to shareholders (Ledger Account D);",
+      ">>(vi) Surplus not yet allocated;",
+      ">>(vii) Shareholders’ capital in the statutory fund; and",
+      "(viii) Such reserves, whether or not prescribed, as may be established by the statutory fund.",
+      "(3) The Notes to these statements shall include disclosure of movements in each of the accounts set out in sub-regulation (2).",
+      "(4) Where these statements are made up to a date as at which a valuation of policyholder liabilities in accordance with section 50 of the Ordinance is carried out by the company’s appointed actuary, the amount of policyholder liabilities recorded in these statements shall be the greater of the amount of policyholder liabilities certified by the appointed actuary and the minimum actuarial reserve for policyholder liabilities.",
+      "(5) Where these statements are made up to a date as at which a valuation of policyholder liabilities in accordance with section 50 of the Ordinance is not carried out by the company’s appointed actuary, the amount of policyholder liabilities recorded in these financial statements shall be the greater of the amount of policyholder liabilities certified by the appointed actuary and the minimum actuarial reserve for policyholder liabilities at the valuation most recently performed.",
+      "(6) The Notes to these statements shall show the allocation of surplus, if any, in the financial year, required to be made under section 21 of the Ordinance, and such accounts as are relevant shall be recorded following such allocation of surplus.",
+      "(7) Policyholder liabilities shall not include any bonuses proposed to be allocated to participating policies, unless before the balance date those amounts have been so allocated."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Admissibility of Assets (Applicable to Form LI only)",
+     "page": 6,
+     "text": [
+      "(1) The value of assets for the purposes of the Balance Sheet shall be in accordance with the company’s accounting policies for such assets and the method of assigning values to investments provided for in these regulations.",
+      "(2) Where the value of any asset arrived at in accordance with sub-regulation (1) is different from the value which may be treated as admissible under Section 32 of the Ordinance, then the Regulatory Returns will include Form LI (“Statement of Solvency”) as set out in Insurance Rules, 2017.",
+      "PART B",
+      "NON-LIFE INSURANCE"
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Segment analysis",
+     "page": 7,
+     "text": [
+      "(1) Some of the forms of Published Financial Statements specified in the Annexure II of the Insurance Rules, 2017 provide segment analysis by class of business. Separate figures for any class of business are required in addition to the segments already identified in the published forms if the gross premiums for that class constitute 10% or more of the gross premium revenue of the insurer. Amounts relating to classes constituting less than 10% may be clubbed together in ‘Miscellaneous”.",
+      "(2) If an insurer writes business outside Pakistan then a complete set of Regulatory Returns except for Form GA as set out in Insurance Rules, 2017 shall be prepared for such business."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Audit Report",
+     "page": 7,
+     "text": [
+      "The Regulatory Returns as well as Published Financial Statements shall be accompanied by an Audit Report as required under Section 48(2) of the Ordinance in accordance with the format as specified by the Commission from time to time."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Premiums",
+     "page": 7,
+     "text": [
+      "(1) Premium receivable under a policy / cover note issued shall be recognized as written from the date of attachment of risk to the policy / cover note.",
+      "(2) Over the period of insurance from inception to expiry, except as stated in sub-regulation (3), premium shall be recognized as revenue as follows:",
+      ">>(i) For direct business, evenly over the period of the policy;",
+      ">>(ii) For proportional reinsurance business, evenly over the period of the underlying policies;",
+      ">>(iii) For non-proportional reinsurance business, in accordance with the pattern of reinsurance service.",
+      "(3) Where the pattern of incidence of risk varies over the period of the policy, the premium shall be recognized as revenue in accordance with the pattern of incidence of risk.",
+      "(4) The unearned portion of premium income shall be recognized as a liability. Such liability shall be calculated either:",
+      ">>(i) as a proportion of the gross premium of each policy, determined as the ratio of the unexpired period of the policy and the total period, both measured to the nearest day; or",
+      ">>(ii) where the majority of policies are issued for one year, the unearned premium reserve may, as an alternative to the basis specified in (i) above, be determined by applying the twenty-fourths method, whereby the liability shall equal 1/24 of the premiums relating to policies commencing in the first month of the insurer’s financial year, 3/24 of the premiums relating to policies commencing in the second month of the insurer’s financial year, and so on;",
+      ">>(iii) For treaty re-insurance business accepted, premiums are usually declared through quarterly accounts submitted by the ceding companies. Such premiums should be recognized over the period covered by each underlying policy which may be approximated by recognizing premiums on the eighths basis. Therefore the unearned premium reserve set up as at 31 December of a year should equal 1/8 of the premium per the treaty accounts submitted in the first quarter, 3/8 of that for the second quarter, 5/8 of that for the third quarter and 7/8 of that for the fourth quarter;",
+      ">>(iv) For facultative acceptances the basis of recognizing premiums and determining the Unearned Premium Reserve shall be the same as for direct policies;",
+      ">>(v) If a company develops an alternative basis for determining reserves relating to reinsurance acceptances which it feels is more appropriate to its circumstances it may use such basis provided it discloses this fully in the notes to the financial statements.",
+      "(5) Premium/ premium adjustments not yet processed but relating to the financial year shall, so far as is practicable, be recognized as a receivable and earned over the period in accordance with these regulations.",
+      "(6) Premium revenue shall not include any levy which is an amount collected on behalf of a third party.",
+      "(7) Any levy charged on premiums which is not an amount collected on behalf of a third party shall be considered to be part of premium.",
+      "(8) Premiums accepted under a coinsurance or pool arrangement shall be considered to be revenue of the participating insurers each for their own share only, unless a contract of reinsurance exists under which an insurer has primary liability for the whole of the business and reinsures it to another or others.",
+      "(9) Where premiums for a policy are payable in installments, the full premium for the duration of the policy shall be recognized as income at the inception of the policy and a related asset set up for premiums, notwithstanding the fact that some installments may not, by agreement between the insurer and the insured, be payable until later."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Claims",
+     "page": 8,
+     "text": [
+      "(1) A liability for outstanding claims shall be recognized in respect of all claims incurred to balance date, and must be measured at the undiscounted value of expected future payments.",
+      "(2) A claim shall be considered to be incurred at the time of the incident giving rise to the claim, except as otherwise expressly indicated in a contract of insurance.",
+      "(3) The claims liability must include amounts in relation to unpaid reported claims; claims incurred but not reported, and expected claims settlement costs.",
+      "(4) Claims incurred but not reported shall be recognized in accordance with the Securities and Exchange Commission Guidelines for Estimation of Incurred but not Reported (IBNR) Claims Reserve, 2016."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Reinsurance expense",
+     "page": 8,
+     "text": [
+      "(1) Premium ceded to reinsurers must be recognized as a liability as follows:",
+      ">>(i) for reinsurance contracts operating on a proportional basis, on attachment of the underlying policies reinsured; and",
+      ">>(ii) for reinsurance contracts operating on a non-proportional basis, on inception of the reinsurance contract.",
+      "(2) Over the period of reinsurance from inception to expiry, except as stated in sub-regulation (3), reinsurance premium shall be recognized as an expense as follows:",
+      ">>(i) For proportional reinsurance business, evenly over the period of the underlying policies;",
+      ">>(ii) For non-proportional reinsurance business, evenly over the period of indemnity.",
+      "(3) Where the pattern of incidence of risk varies over the period of the policy, the premium shall be recognized as an expense in accordance with the pattern of incidence of risk.",
+      "(4) The portion of reinsurance premium not yet recognized as an expense shall be recognized as a prepayment.",
+      "(5) Premium adjustments not yet processed, and premium not yet processed but relating to the financial year shall, so far as is practicable, be recognised as a liability and brought to account as an expense in accordance with these regulations."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Claims recoveries",
+     "page": 9,
+     "text": [
+      "(1) Claims recoveries receivable from reinsurers and other recoveries receivable shall be recognized as assets and measured at the amount expected to be received.",
+      "(2) Claims recoveries receivable from reinsurers and other recoveries receivable shall be recognized at the same time as the claims which give rise to the right to the recovery are recognized."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Acquisition costs",
+     "page": 9,
+     "text": [
+      "(1) Commissions and other incremental acquisition costs incurred in obtaining and recording policies of insurance and reinsurance may be deferred and recognized as assets where they can be reliably measured and it is probable that they will give rise to premium revenue that will be recognized in subsequent reporting periods. Incremental acquisition costs of a policy are costs of selling, underwriting and initiating an insurance policy which have been incurred because that particular policy has been issued, i.e., the costs are identified at the level of an individual policy and not at the level of a portfolio of policies. Such costs may include, for example, surveyor costs where a survey has been carried out as a part of the underwriting process. They will not, however, include costs of permanent underwriting staff of the insurer.",
+      "(2) Deferred acquisition costs must be amortised systematically over the reporting periods over which the related premium revenue is recognized.",
+      "(3) An acquisition cost which is not incremental must be recognized as an expense during the period in which it is incurred."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Exchange commissions",
+     "page": 9,
+     "text": [
+      "Exchange commissions, profit commissions and other forms of revenue (apart from recoveries) receivable from reinsurers shall be deferred and brought to account as revenue in accordance with the pattern of recognition of the reinsurance premiums to which they relate."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Premium deficiency",
+     "page": 9,
+     "text": [
+      "(1) The provision for premium deficiency (liability adequacy test) shall be recognized in accordance with the requirements given in International Financial Reporting Standard 4 – Insurance contracts.",
+      "(2) The movement in the premium deficiency reserve shall be recorded as an expense and shall form a part of the underwriting result."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Statement of estimated exposure",
+     "page": 10,
+     "text": [
+      "The statement of estimated exposure shall be prepared in accordance with Form GI of the Regulatory Returns which also explains the basis of its preparation."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Admissibility of Assets",
+     "page": 10,
+     "text": [
+      "(1) The value of assets for the purposes of the Balance Sheet shall be in accordance with the company’s accounting policies for such assets and the method of assigning values to investments provided for in these regulations.",
+      "(2) Where the value of any asset arrived at in accordance with sub-regulation (1) is different from the value which may be treated as admissible under Section 32 of the Ordinance, then the Regulatory Returns will include Form GJ (“Statement of Solvency”) as set out in Insurance Rules, 2017.",
+      "_____________________________________________________________________________________",
+      "-sd-",
+      "(Bilal Rasul) Secretary to the Commission"
+     ]
+    }
+   ]
+  }
+ ]
+}

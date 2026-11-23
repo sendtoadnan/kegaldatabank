@@ -1,0 +1,1573 @@
+{
+ "id": "securities-brokers-licensing-operations-regulations-2016",
+ "title": "Securities Brokers (Licensing and Operations) Regulations, 2016",
+ "number": "S.R.O. 569(I)/2016",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Securities Brokers Regulations 2016",
+  "Brokers Regulations"
+ ],
+ "enacted": "2016-06-24",
+ "lastAmended": "2024-04-08",
+ "amendedUpToLabel": "8 April 2024",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "securities-brokers-licensing-operations-regulations-2016.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Securities Brokers (Licensing and Operations) Regulations, 2016.",
+      "(2) They shall come into force on the date of commencement of Part V of the Act.",
+      "{fn:1-3}[(3) Any person licenced by the Commission under these regulations to act as securities broker shall be permitted to undertake futures contracts based on securities and financial instruments in terms of sub-section (5) of section 52 of the Futures Market Act, 2016 (XIV 2016).; and",
+      "(4) These regulations shall not apply to the futures brokers to offer for trade futures contracts based on commodities and financial instruments in terms of sub-section 4 of section 52 of the Futures Market Act, 2016 (XIV 2016). A separate set of regulations shall be applicable to the licencing and operations of futures brokers to undertake futures contracts based on commodities and financial instruments.]"
+     ],
+     "fn": [
+      {
+       "n": "1-3",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, –",
+      ">(a) “Act” means the Securities Act, 2015 (III of 2015);",
+      ">(b) “advertisement” means dissemination or conveyance of information, or an invitation or solicitation, in respect of the services that the securities broker is licensed to carry on, by any means or in any form, including by means of, —",
+      ">>(i) publication in a newspaper, magazine, journal or other periodical;",
+      ">>(ii) display of posters, notices, billboards, hoardings etc.;",
+      ">>(iii) circulars, handbills, brochures, pamphlets, books or other documents;",
+      ">>(iv) letters addressed to individuals or bodies;",
+      ">>(v) photographs or cinematograph films;",
+      ">>(vi) sound broadcasting, television, the Internet or other media; or",
+      ">>(vii) tele-marketing and SMS marketing;",
+      ">(c) “blank sale” means sale by a securities broker on its proprietary account or on customer’s account when the securities broker or customer does not own shares respectively, or the sale does not constitute a sale with pre-existing interest or is a sale without entering into an SLB contract to meet delivery obligations on the settlement date;",
+      ">(d) “customer bank account” means the bank account opened by the securities broker with a scheduled bank in Pakistan wherein all customer money is deposited and maintained;",
+      ">{fn:2-4}[(e) “Companies Act” means Companies Act, 2017 (XIX of 2017);]",
+      ">{fn:2-5}[(ea) “financial instrument” includes any currency, currency index, interest rate, interest rate instrument, interest rate index, commodity index bond index and such other financial instruments as may be notified by the Commission in the official Gazette;",
+      ">(eb) “Futures Act” means the Futures Market Act, 2016 (XIV of 2016);",
+      ">(ec) “futures broker” means a person who, by way of business, whether as principal or agent, -",
+      ">>(i) makes or offers to make with any person, or induces or attempts to induce any person to enter into or to offer to enter into any agreement for or with a view to purchase or sale of a futures contract; or",
+      ">>(ii) solicits or accepts any order for, or otherwise dealing in, or effects transactions in a futures contract for its customer or on its own account;",
+      ">(ed) “futures contract” means-",
+      ">>(i) an arrangement where one party agrees to enter into a contract to deliver a specified quantity of a specified commodity or securities or financial instruments, to another party at a specified future time and at a specified price payable at that time; or",
+      ">>(ii) where the parties agree to discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity or securities or financial instruments agreed at the time of the making of the contract and at a specified future time; or",
+      ">>(iii) such other futures contract or class of futures contracts or derivative contracts as prescribed by the Commission, and includes options on contracts of the kind described in paragraph (i), (ii) or (iii);",
+      ">(ef) “regulated activity” means any activity, required to be licensed, under section 46 of the Futures Act;",
+      ">(eg) “regulated securities activity” means a regulated securities activity as specified in section 63 of the Act;",
+      ">(eh) “sale with pre-existing interest” shall mean the squaring up of:",
+      ">>(i) an earlier purchase in the same settlement or in a different settlement which will settle prior to the settlement of the sale; and",
+      ">>(ii) an open position in margin trading or margin financing as a financee on account of same UIN of same security.]",
+      ">(f) “scheduled bank” has the same meaning as defined in clause (m) of Section 2 of the State Bank of Pakistan Act, 1956 (XXXII of 1956);",
+      ">{fn:3-6}[(g) “Securities broker” for the purpose of these regulations means a broker licensed to undertake securities broker activity under Securities Act, 2015 and permitted to undertake future’s broker activity for futures contracts based on securities and financial instruments in terms of section 52 of the Futures Market Act, 2016;",
+      ">(ga) “securities lending and borrowing (SLB) contract” means the securities lending and borrowing contract executed through the system provided by an authorized intermediary as per the requirements of the applicable rules;",
+      ">(gb) “senior management officer” as defined in the Act for the purposes of these regulations, in addition to the persons mentioned in clause (lviii) of section (2) of the Act and, includes the compliance officer;]",
+      ">(h) “short sale” means a sale by a securities broker, on its proprietary account or on customer’s account, where the securities broker or customer does not own shares respectively, or the sale does not constitute a sale with pre-existing interest, but the securities broker or the customer, as the case may be, has an SLB contract to meet delivery obligations on the settlement date;",
+      ">{fn:3-7}[(i) “sponsor” means:",
+      ">(a) a person who has contributed initial capital in the company or has the right to appoint majority of the directors on the board of the company directly or indirectly; and",
+      ">(b) a person who replaces the person referred to in clause (a) above; and",
+      ">(c) a person or group of persons who has control of the company whether directly or indirectly;]",
+      ">(j) “unique identification number (UIN)” means the unique identification number issued by a clearing house to a person for trading on the securities exchange.",
+      "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the {fn:4-8}[Companies Act, the Futures Act], the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), Central Depositories Act, 1997 (XIX of 1997), and any rules or regulations made thereunder."
+     ],
+     "fn": [
+      {
+       "n": "2-4",
+       "text": "Substituted for the words “(e) “Ordinance” means the Companies Ordinance, 1984 (XLVII of 1984);” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "2-5",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "3-6",
+       "text": "Substituted under SRO 77(I)/2018 dated January 29, 2018, for the words: “(g) “sale with preexisting interest” shall mean the squaring up of: (i) an earlier purchase in the same settlement or in a different settlement which will settle prior to the settlement of the sale; and (ii) an open position in margin trading or margin financing as a financee on account of same UIN of same security.”"
+      },
+      {
+       "n": "3-7",
+       "text": "Substituted under SRO 77(I)/2018 dated January 29, 2018 for the words: “(i) “securities lending and borrowing (SLB) contract” means the securities lending and borrowing contract executed through the system provided by an authorized intermediary as per the requirements of the applicable rules; and”"
+      },
+      {
+       "n": "4-8",
+       "text": "Substituted for the words “Ordinance” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Licensing Requirements For Securities Broker",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Prohibition",
+     "page": 4,
+     "text": [
+      "No person shall act or perform the functions of a securities broker unless such person is licensed as a securities broker with the Commission in accordance with these regulations:"
+     ]
+    },
+    {
+     "no": "3A",
+     "title": "Prior-Permission from the Commission to undertake Securities Broker activity",
+     "page": 4,
+     "text": [
+      "{fn:4-9}[ (1) A person desirous of performing the functions of Securities broker shall, before obtaining TRE Certificate of a securities exchange, make an application to the Commission as set out in Form A-1 along- with the documents specified in Annexure A-1.",
+      "(2) The Commission, while considering the application for permission under subregulation (1), may require the applicant to furnish such further information or clarification, as it deems appropriate.",
+      "(3) The Commission, if it is satisfied that the person seeking permission to perform the functions of securities broker has fulfilled the criteria in terms of these regulation may permit by an order in writing to incorporate a securities broker company.",
+      "(4) The permission granted under sub-regulation (2) shall be valid for a period of six months unless extended for a maximum period of further three months under special circumstances, on the application of the sponsors made before the expiry of initial six months.",
+      "(5) During the validity of this permission, the sponsors shall obtain the TRE Certificate from securities exchange, get the securities broker company incorporated and submit an application to the Commission for grant of licence, after fulfilling all the conditions specified in these regulations.]",
+      "{fn:4-10}[Omitted]"
+     ],
+     "fn": [
+      {
+       "n": "4-9",
+       "text": "Inserted vide SRO 1914(I)/2022 dated October 14,2022"
+      },
+      {
+       "n": "4-10",
+       "text": "Deleted the words “Provided that any company deemed to be licensed as a securities broker under sub-section (3) of section 177 of the Act shall be allowed to carry out its functions under the category of Trading and Self-Clearing till the time as provided in the said section and thereafter an application for licence shall be made by such company under regulation 5 for any one of the categories as provided in sub- regulation (2) of regulation 5.” Vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Eligibility criteria for licensing of a securities broker",
+     "page": 4,
+     "text": [
+      "{fn:4-11}[- Subject to compliance with the provisions of the Act and the Futures Act, a company may apply to the Commission for licence as a securities broker, if-",
+      ">(a) the applicant’s memorandum and articles of association allow it to apply for grant of licence as a securities broker under the Act and the Futures Act;",
+      ">(aa) it is not a single member company {fn:5-12}[except in case of Online Only category];",
+      ">{fn:5-13}[(aab) has obtained prior permission of the Commission under regulation 3A(1) of these Regulations:",
+      "Provided that a person holding a valid license to act as a Futures Broker under Futures Brokers (Licensing and Operations) Regulations, 2018 may apply for license as a securities broker without prior permission of the Commission under these regulations.]",
+      "{fn:5-14}[Provided further that the requirement for obtaining prior permission under regulation 3A (1) shall not apply to a person desirous of performing function of securities broker under the category of “Trading only”, which also includes “Online-only” category.]",
+      ">(b) the applicant holds a valid TRE certificate issued in its name;",
+      ">(c) the applicant identifies names and details of its sponsors which shall be required to collectively hold and retain not less than fifty one per cent of the share capital of the applicant, and in the case of a listed company, not less than twenty five per cent of the share capital of applicant; provided that any change in sponsors shall not be affected without prior written approval of the Commission {fn:5-15}[:",
+      "Provided that no prior approval of the Commission shall be required in case of transfer/sale of shares among existing identified sponsors including reduction of number of sponsors under this clause.]",
+      ">(d) the applicant and its sponsors do not have controlling interest in any other company holding licence as a securities broker {fn:5-16}[:",
+      "Provided that the Commission may allow the establishment of a wholly owned subsidiary to provide Shariah-compliant brokerage services subject to the following terms and conditions,",
+      ">>(i) It shall obtain a certificate of Shariah-compliant company in terms of sub section (1) of Section 451 of the Companies Act, 2017 read with the Shariah Governance Regulations, 2023, and adhere to the Guidelines for Offering Islamic Financial Services issued by the Commission;",
+      ">>(ii) Proprietary trading shall only be allowed to any one of the parent or the subsidiary company;",
+      ">>(iii) The subsidiary company shall appoint a dedicated compliance officer;",
+      ">>(iv) The parent and subsidiary shall implement appropriate controls to prevent any sharing of information between the parent and subsidiary company, which can compromise customer interest or result in unfair trade practices;",
+      ">>(v) There shall be full disclosure of the relationship between the parent company and its subsidiary to the clients;",
+      ">>(vi) There shall be a policy in place to identify and address any conflict of interest arising due to parent and subsidiary relationship;",
+      ">>(vii) A person cannot be an employee of both parent and subsidiary company simultaneously.",
+      "(viii) The subsidiary shall be a Trading-only or Online Only broker;",
+      ">>(ix) Establishment of a Trading and Self-Clearing category subsidiary for offering Shariah-compliant brokerage services may be allowed only if there is a plan to merge both companies to transit towards Shariahcompliant Broker within a period of not more than three years; and",
+      ">>(x) Any other conditions as the Commission may deem fit.]",
+      ">(e) the applicant, its sponsors, directors and senior management officers are fit and proper persons as per the criteria specified in Annexure B;",
+      ">(f) the chief executive of the company does not hold such office in any other company;",
+      ">(g) the Director/employee of the company holding a licence as a securities broker does not hold the position of a Director in any other company licenced as a securities broker {fn:6-17}[:",
+      "Provided that in case a securities broker establishes a wholly owned subsidiary for offering Shariah-compliant brokerage services, the Director/employee of the parent company may hold the position of director in that subsidiary.]",
+      ">(h) its sponsors have submitted verifiable documents including wealth statements submitted with the tax authorities or a certificate issued by an auditor {fn:7-18}[appointed from the list of approved auditors for the relevant category of securities broker as notified by the Commission] to demonstrate that its networth is not less than twice the amount to be subscribed by him personally {fn:7-19}[:",
+      "Provided that this requirement shall not be applicable, -",
+      ">(i) in case of a Trading Only broker; and",
+      ">>(ii) in case where shares are transferred from existing sponsors to their family as incoming sponsor through gift deed or inheritance.]",
+      ">>(i) its sponsors have and will continue to have representation of at least twenty per cent on its board of directors;",
+      ">(j) it meets the financial resources requirements specified in these regulations; and",
+      ">(k) it has and shall continue to have the requisite number of personnel/employees having mandatory certification as specified by the Commission from time to time;",
+      ">{fn:7-20}[(l) its ultimate beneficial owners have not been convicted in any predicate offences provided under Anti-Money Laundering Act, 2010 (VII of 2010), Anti-Terrorist Act 1997 (XXVII of 2010) or any other criminal offence.",
+      "Explanation: - For the purposes of this regulation, the expression “ultimate beneficial owners” includes natural person or individual who ultimately own or control ten percent or more of the entity.]",
+      "Provided that in case of a company licensed under regulation 3, the Commission may, upon a request made by the applicant, grant additional time for compliance with the requirements of clauses (c), (d) and (i), on a case to case basis.",
+      "Explanation:- For the purpose of this regulation, where the sponsor of applicant is a company, the requirements applicable to the sponsors shall be applied to such extent as may be practical upon the majority shareholder, sponsors and directors of such sponsor company and the sponsoring company and the applicant shall give an undertaking to the Commission that they will inform the Commission in case of any change in the sponsors of the sponsoring company and the required documents.]"
+     ],
+     "fn": [
+      {
+       "n": "4-11",
+       "text": "Substituted under SRO 77(I)/2018 dated January 29, 2018, for the words “4. Eligibility criteria for licensing of a securities broker. - Subject to compliance with the provisions of the Act, a company may apply to the Commission for licence as a securities broker under any one of the categories specified in sub-regulation (2) of regulation 5, if- (a) the applicant’s memorandum and articles of association allow it to apply for grant of licence as a securities broker under the Act; (b) the applicant holds a valid TRE certificate issued in its name; (c) the applicant identifies names and details of its sponsors which shall be required to collectively hold and retain not less than fifty- one per cent of the share capital of the applicant, and in the case of a listed company, not less than twenty-five per cent of the share capital of applicant; (d) the applicant and its sponsors do not have controlling interest in any other company holding licence as a securities broker; (e) the applicant, its sponsors, directors and senior management officers are fit and proper persons as per the criteria specified in Annexure B; (f) the chief executive of the company does not hold such office in any other company; (g) in case of a company other than a company deemed licensed under regulation 3 above, its sponsors have submitted verifiable documents to demonstrate that they have financial resources not less than twice the amount of the paid-up capital requirement for the relevant category of securities broker for which application is made; (h) the names of its sponsors, directors and senior management officers are appearing on the list of active tax payers issued by the Federal Board of Revenue; Provided that this requirement shall not be applicable in the case of foreign nationals; (i) its sponsors have and will continue to have representation of at least twenty per cent on its board of directors; (j) the sponsors’ portion of share capital of the applicant or any part thereof shall not be sold or transferred, nor any arrangement for transfer of control of the securities broker shall be affected without prior written approval of the Commission; (k) its memorandum of association requires prior approval of the Commission for making any changes therein, other than an increase in its authorized share capital; (l) it meets the financial resources requirements specified in these regulations; and (m) it has and shall continue to have the requisite number of personnel/employees having mandatory certification as specified by the Commission from time to time; Provided that in case of a company deemed licensed under regulation 3, the Commission may, upon a request made by the applicant, grant additional time for compliance with the requirements of clauses (c), (d) and (i), on a case to case basis. Explanation:- For the purpose of this regulation, where the sponsor of applicant is a company, the requirements applicable to the sponsors shall be applied to such extent as may be practical upon the majority shareholder, sponsors and directors of such sponsor company and the sponsoring company and the applicant shall give an undertaking to the Commission that they will inform the Commission in case of any change in the sponsors of the sponsoring company and the required documents.”"
+      },
+      {
+       "n": "5-12",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022."
+      },
+      {
+       "n": "5-13",
+       "text": "Inserted vide SRO 1914(I)/2022 dated October 14,2022"
+      },
+      {
+       "n": "5-14",
+       "text": "Inserted vide SRO 202(I)/2024 dated Feb 14, 2024."
+      },
+      {
+       "n": "5-15",
+       "text": "Inserted vide SRO 301(I)/2022 dated February 23, 2022"
+      },
+      {
+       "n": "5-16",
+       "text": "Inserted vide SRO 570(I)/2024 dated April 8, 2024."
+      },
+      {
+       "n": "6-17",
+       "text": "Inserted vide SRO 570(I)/2024 dated April 8, 2024"
+      },
+      {
+       "n": "7-18",
+       "text": "Substituted the words “enlisted within category “A” of the State Bank of Pakistan’s panel of auditors” vide SRO 416(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "7-19",
+       "text": "Inserted vide SRO 301(I)/2022 dated February 23, 2022."
+      },
+      {
+       "n": "7-20",
+       "text": "Inserted vide SRO 1356(I)/2018 dated November 6, 2018."
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Application and procedure for granting a licence",
+     "page": 7,
+     "text": [
+      "(1) Subject to regulation (4), {fn:7-21}[an] application for a licence as a securities broker shall be made to the Commission in Form A along with all the documents specified in Annexure A and receipt evidencing payment of non-refundable fee of such amount as specified in Schedule I.",
+      "{fn:7-22}[Omitted]",
+      "(3) A company applying for licence under sub-regulation (1) above shall submit its application along-with supporting documents through the securities exchange to the Commission.",
+      "(4) The securities exchange shall scrutinize the application for grant of licence and the documents submitted by the applicant prior to submission of the same for consideration of the Commission along-with a letter of recommendation inter alia covering the following-",
+      ">(a) the contents of the application for licence and supporting documents are in conformity with these regulations;",
+      ">(b) the applicant meets the requirements of the Act [and the Futures Act] {fn:8-23} and these regulations for the purposes of licence under these regulations;",
+      ">(c) the applicant, its sponsors, directors and senior management officers are fit and proper persons as per the criteria specified in these regulations;",
+      ">(d) the applicant has arrangements for putting in place such trading, clearing and settlement, accounting and recording systems as are necessary for the purposes of the applicant's existing and anticipated operations of business; {fn:8-24}[]",
+      ">(e) the applicant has written policies, procedures, systems and controls to resolve customer complaints, handle conflict management, monitor unethical conduct and market abuse, prevent money laundering and combat terrorist financing {fn:8-25}[; and",
+      ">(f) the past track record of regulatory compliance of the applicant, its sponsors, directors and senior management officers is satisfactory.]",
+      "(5) The Commission, while considering the application for licence, may require the applicant to furnish such further information or clarification as it deems appropriate.",
+      "(6) The applicant shall, if so required, appear before the Commission for a representation through a person duly authorized for this purpose in writing by the board of directors of the applicant.",
+      "(7) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be communicated to the Commission within five working days from the date of such change."
+     ],
+     "fn": [
+      {
+       "n": "7-21",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "7-22",
+       "text": "Deleted the following words under SRO 77(I)/2018 dated January 29, 2018: “(2) The application for licence under these regulations may be made for any one of the following categories of securities brokers- (a) “Trading Only” category shall mean that a securities broker can only execute its proprietary trades and trades on behalf of its customers but cannot settle executed trades or keep custody of securities. (b) “Trading and Self-Clearing” category shall mean that a securities broker can execute as well as settle its proprietary trades and trades executed on behalf of its customers and can keep custody of securities owned by it and its customers subject to such conditions as may be imposed by the Commission. (c) “Trading and Clearing” category shall mean that a securities broker can execute as well as settle its proprietary trades and trades executed on behalf of its customers and can keep custody of securities owned by it and its customers subject to such conditions as imposed by the Commission and, in addition, such securities broker can settle trades of other securities brokers and their customers and keep custody of the securities owned by such other securities brokers and their customers: Provided that a securities broker deemed licenced under regulation 3 above and applying for fresh licence in accordance with the requirement of sub-section (3) of section 177 of the Act under the “Trading Only” category shall be required to transfer its clearing, settlement and custody functions within a transition period of six months or an extended time period as may be allowed by the Commission. Such securities broker, during the transition period, shall comply with the requirements applicable to the “Trading and Self-Clearing” category.”"
+      },
+      {
+       "n": "8-23",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "8-24",
+       "text": "Deleted the word “and” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "8-25",
+       "text": "Substituted for full stop “.”vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "5A",
+     "title": "Categorization of securities brokers",
+     "page": 8,
+     "text": [
+      "{fn:8-26}[ (1) The application for licence under these regulations may be made for any one of the following categories of securities brokers –",
+      ">(a) “Trading Only” category shall mean that a securities broker can only execute its proprietary trades and trades on behalf of its customers but cannot settle executed trades or keep custody of securities or money owned by it and its customers.",
+      "Provided that a Trading Only broker may keep custody of securities and money owned by it and its sponsors and directors and their close relatives and can settle its proprietary trades and trades executed on behalf of its sponsors and directors and their close relatives till such time as may be allowed by the Commission.",
+      "Provided further that the number of accounts permitted to a Trading Only broker for its sponsors and directors and their close relatives shall be specified by the Commission.",
+      "Explanation: close relative means spouse(s), lineal ascendants and descendants and siblings;",
+      ">{fn:9-27}[(aa) “Online-Only” category shall mean a sub-category of Trading Only securities broker, which can only execute trades on behalf of its customers through online or electronic means and shall not offer brokerage services through any office.",
+      "Provided that Online Only Broker shall not engage in proprietary trading. However, the Online Only Broker can execute trades on behalf of its sponsors, substantial shareholders, directors and their close relatives.",
+      "Provided further that the regulations applicable on Trading Only category shall also be applicable on Online Only, except where specifically mentioned otherwise in the regulations.]",
+      ">(b) “Trading and Self-Clearing” category shall mean that a securities broker can execute as well as settle its proprietary trades and trades executed on behalf of its customers and can keep custody of securities and money owned by it and its customers subject to such conditions as may be imposed by the Commission.",
+      ">(c) “Trading and Clearing” category shall mean that a securities broker can execute as well as settle its proprietary trades and trades executed on behalf of its customers and can keep custody of securities and cash owned by it and its customers subject to such conditions as imposed by the Commission and, in addition, such securities broker can settle trades of other securities brokers and their customers and keep custody of the securities and cash owned by such other securities brokers and their customers.",
+      "(2) Securities brokers already licensed under these regulations shall be required to convert to any one of the categories mentioned in sub-regulation (1) through submitting an application for conversion to a specific category on or before July 15, 2020 {fn:9-28}[or such extended date as specified by the Commission] along with an affidavit that securities broker shall comply with the financial resource requirement of the respective category till September 30, 2020 {fn:9-29}[or such extended date as specified by the Commission].",
+      "Provided that a securities broker which wants to convert to Trading and Clearing Broker shall submit an expression of interest within the time specified by the Commission. The expression of interest shall include the feasibility study, system and human resource requirements, operational and risk management model, legal documentation requirements, arrangement to ensure confidentiality of trading and customer related information of Trading Only brokers and proposed fee structure.",
+      "(3) A securities broker licensed under these regulations, which does not comply with financial resource requirements for Trading and Self-Clearing category specified under these regulations, shall apply for conversion to “Trading Only” category by July 15, 2020, {fn:10-30}[or such extended date as specified by the Commission] subject to compliance with financial resource requirements of the respective category, and shall be required to transfer the clearing, settlement and custody functions to the extent of its customers till November 30, 2020 or such extended date as may be specified by the Commission.",
+      "{fn:10-31}[Provided further that till the time a professional clearing member is available the Trading Only Brokers shall be allowed to keep custody and settle trades of their customers.]]"
+     ],
+     "fn": [
+      {
+       "n": "8-26",
+       "text": "Inserted vide SRO 77(I)/2020 dated February 2, 2020."
+      },
+      {
+       "n": "9-27",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022"
+      },
+      {
+       "n": "9-28",
+       "text": "Inserted vide SRO 342(I)/2020 dated April 27, 2020."
+      },
+      {
+       "n": "9-29",
+       "text": "Inserted vide SRO 342(I)/2020 dated April 27, 2020."
+      },
+      {
+       "n": "10-30",
+       "text": "Inserted vide SRO 342(I)/2020 dated April 27, 2020."
+      },
+      {
+       "n": "10-31",
+       "text": "Substituted the following proviso vide SRO 342(I)/2020 dated April 27, 2020: “Provided further that till the time at least three securities brokers have obtained licence as, or converted into Trading and Clearing Broker, or a professional clearing member is available the Trading Only Brokers shall be allowed to keep custody and settle trades of their customers.”"
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Financial Resources Requirement",
+     "page": 10,
+     "text": [
+      "{fn:10-32}[– {fn:10-33}[(1) An applicant for a licence as a securities broker shall comply with and ensure ongoing compliance with minimum paid up capital and net worth of Rupees thirty-five (35) million and net capital balance of Rupees five (5) million.",
+      "Provided that from October 1, 2020 or such extended date as may be allowed by the Commission the financial resource requirements as provided under sub-regulation 1(A) shall be applicable on securities brokers.",
+      "Provided further that existing securities brokers who are non-compliant with the above prescribed financial resource requirements in respect of paid up capital and net worth shall be deemed compliant with the financial resource requirements till October 1, 2020 {fn:11-34}[or such extended date as specified by the Commission] subject to submission of application for conversion to new category of securities brokers under regulation 5A.]",
+      "{fn:11-35}[(1A) With effect from October 1, 2020 or such extended date as may be allowed by the Commission {fn:11-36}[to a securities broker or category of securities brokers], {fn:11-37}[and the] securities broker shall be required to comply with and ensure ongoing compliance with the following levels of minimum net worth and net capital balance for each category:",
+      "Category of securities Minimum Net worth Minimum Net Capital broker -PKR million- Balance -PKR millionTrading Only 15 Not applicable {fn:11-38}[Online Only 7.5 Not applicable] Trading and Self Clearing {fn:11-39}[50] 10 Trading and Clearing 500 15",
+      "{fn:11-40}[Provided that the minimum net worth requirement for Trading and Self Clearing category shall be increased to rupees 60 million with effect from April 01, 2022 and shall be further increased to rupees 75 million with effect from April 01, 2023 or such extended dates as specified by the Commission.] {fn:11-41}[ ]",
+      "Provided further that the Trading Only category shall be required to maintain net capital balance of rupees 5 million till the time it has completely transferred its custody and clearing functions including proprietary.",
+      "Provided further that a securities broker with minimum net worth of rupees 250 million, which is a subsidiary of a bank with minimum long-term credit rating of AA- and is compliant with the minimum capital requirements of the State Bank of Pakistan, may be issued licence for the Trading and Clearing category if it is in compliance with all other conditions applicable on the Trading and Clearing category.",
+      "(1B) Securities brokers which convert into or obtain licence as Trading Only, Trading and Self Clearing or Trading and Clearing category shall be permitted to retain custody of proprietary and customer assets as follows:",
+      "Category of securities broker Assets Under Custody Limit Trading Only 2 times of net worth of securities broker Trading and Self Clearing 25 times of net worth of securities broker Trading and Clearing 35 times of net worth of securities broker",
+      "Provided that a Trading Only broker shall only be allowed to keep custody of securities and money owned by it and its sponsors and directors till such time as may be allowed by the Commission.",
+      "Provided further that during the transition period, till the time the Trading Only Broker has transferred its custody and clearing functions to the extent of its customers in accordance with these regulations, the limit of assets under custody of Trading Only Broker shall be 25 times of its net worth {fn:12-42}[:",
+      "Provided further that an Online Only broker shall not be allowed to keep any custody of securities and money.]",
+      "{fn:12-43}[Provided further that in case of a Trading and Self Clearing Broker which does not obtain Broker Fiduciary Rating, the limit of assets under custody shall be 15 times of its net worth and the assets under custody shall not include proprietary assets and the assets owned by its sponsors, directors and their close relatives.]",
+      "Provided further that Commission may specify limit of assets under custody with respect to Liquid Capital in place of net worth of securities broker in accordance with such maximum limits and time frame as may be specified by the Commission.",
+      "Provided further that where a Trading and Clearing broker, which is keeping custody of the securities and cash owned by other securities brokers and their customers, is facing difficulty in complying with the asset under custody limit, the Commission may, on an application made by such Trading and Clearing category securities broker to the Commission, enhance the asset under custody limit for such securities broker to such number of times of net worth of such securities broker as deemed appropriate by the Commission on case to case basis, subject to following conditions:",
+      ">>(i) Such securities broker has a satisfactory compliance track record;",
+      ">>(ii) No significant investor claims are outstanding against such securities broker;",
+      ">>(iii) Such securities broker has entered into arrangement for providing custodial and clearing services to at least ten Trading Only brokers; and",
+      ">>(iv) Such other conditions as may be prescribed by the Commission.]",
+      "(2) In case a securities broker fails to meet the minimum paid-up capital and/or networth requirements as specified in sub-regulations (1), the securities exchange shall immediately restrict the trading facility of such securities broker and its licence shall be suspended by the Commission without prejudice to any other disciplinary action under the Act and the Futures Act and these regulations.",
+      "{fn:12-44}[(3) A securities broker shall file monthly statements of net capital balance and liquid capital with the securities exchange and clearing house computed in a manner specified in Schedule II and III respectively, immediately after coming into force of these regulations, and shall also submit statement of net capital balance reviewed by the statutory auditor of the securities broker in the manner specified as on close of second quarter of its year of accounts and shall also disclose the net capital balance in its annual audited financial statements in accordance with regulation 34.]",
+      "{fn:13-45}[(4) The securities broker shall start maintaining minimum liquid capital as per such amounts and/or ratios and after such period of time as may be specified by the Commission and upon such specification by the Commission, the securities broker shall be required to disclose the calculation of liquid capital in its annual financial statements on and shall be required to submit statement of liquid capital reviewed by the statutory auditor of the securities broker in the manner specified as on close of second quarter of its year of accounts, and the requirement to maintain net capital balance, the requirement to submit monthly statements of net capital balance and the requirement to submit half yearly reviewed statements of net capital balance shall be discontinued.",
+      "Provided that the above requirements to maintain the net capital balance or the liquid capital and to submit the statements of net capital balance and liquid capital shall not be applicable on a securities broker which has converted to Trading Only broker and has completely transferred its custody and clearing functions including proprietary.]",
+      "(5) A securities broker shall immediately notify the Commission and the securities exchange if the net capital balance and/or the liquid capital fall below the specified threshold and shall immediately submit the revised net capital balance and/or liquid capital calculations.",
+      "(6) In case of non-submission of statements of net capital balance and liquid capital within a time period as may be notified by the exchange, and clearing house or any shortfall in the net capital balance and/or liquid capital, either reported by the securities broker or identified by the securities exchange, clearing house or the Commission, the securities exchange, and clearing house shall immediately restrict the trading facility of such securities broker and shall only allow it to close out the open position in a controlled environment.",
+      "(7) The net worth of a securities broker shall be calculated as total assets less total liabilities less surplus on revaluation, if any, created upon revaluation of fixed assets.",
+      "Provided that the Commission may issue clarification in respect of treatment of any item of assets and/or liabilities for the purpose of calculating the net worth of a securities broker.]",
+      "{fn:13-46}[Omitted]"
+     ],
+     "fn": [
+      {
+       "n": "10-32",
+       "text": "Substituted under SRO 77(I)/2018 dated January 29, 2018for the words: “6. Financial Resources Requirement, - (1) An applicant for a licence as a securities broker shall comply with and ensure ongoing compliance with the following specified levels of minimum paid-up capital, net worth and net capital balance- Category of securities broker Paid up Capital Net worth Minimum Net Capital Balance -PKR million- -PKR million- ------PKR million------ Trading Only 15 15 2.5 Trading and Self Clearing 35 35 5 Trading and Clearing 100 100 10 (2) A securities broker deemed licensed under regulation 3 and which obtains a licence under Trading Only or Trading and Self Clearing category but does not fulfill the requirements of minimum paid up capital and/or net worth for its category shall be required to meet the minimum paid up capital and/or net worth requirements in the following manner- Category of Minimum paid-up Within year 1 from obtaining fresh Within year 2 from obtaining fresh securities broker capital/net-worth licence licence requirement Trading Only Rs15 million Securities broker to meet at least 50% of Securities broker to meet remaining the amount less than the minimum amount less than the minimum specified specified requirement requirement Trading and Self-Rs35 million Securities broker to meet at least 50% of Securities broker to meet remaining Clearing the amount less than the minimum amount less than the minimum specified specified requirement requirement (3) In case a securities broker fails to meet the minimum paid-up capital and/or net-worth requirements as specified in sub-regulations (1) and (2), the securities exchange shall immediately restrict the trading facility of such securities broker and its licence shall be suspended by the Commission without prejudice to any other disciplinary action under the Act and these regulations. (4) A securities broker shall file monthly statements of net capital balance and liquid capital with the Commission and the securities exchange computed in a manner specified in Schedule II and III respectively, immediately after coming into force of these regulations, and shall also submit an audited statement of net capital balance on half yearly basis. The securities broker shall start maintaining minimum liquid capital as per such amounts and/or ratios and after such period of time as may be specified by the Commission through notification. Upon such notification by the Commission, the securities broker shall be required to submit audited statement of liquid capital on half yearly basis, and the requirement to maintain net capital balance, the requirement to submit monthly statements of net capital balance and the requirement to submit half yearly audited statements of net capital balance shall be discontinued. (5) A securities broker shall immediately notify the Commission and the securities exchange if the net capital balance and/or the liquid capital fall below the specified threshold and shall immediately submit the revised net capital balance and/or liquid capital calculations. (6) In case of any shortfall in the net capital balance and/or liquid capital, either reported by the securities broker or identified by the securities exchange or the Commission, the securities exchange shall immediately restrict the trading facility of such securities broker and shall only allow it to close out the open position in a controlled environment. (7) The net worth of a securities broker shall be calculated as total assets less total liabilities less surplus on revaluation, if any, created upon revaluation of fixed assets: Provided that the Commission may issue clarification in respect of treatment of any item of assets and/or liabilities for the purpose of calculating the net worth of a securities broker.”"
+      },
+      {
+       "n": "10-33",
+       "text": "Substituted sub-regulation (1) vide SRO 77(I)/2020 dated February 3, 2020. The substituted sub-regulation read as follows: (1) An applicant for a licence as a securities broker shall comply with and ensure ongoing compliance with minimum paid up capital and net worth of Rupees thirty-five (35) million and net capital balance of Rupees five (5) million. Provided that existing securities brokers who are non-compliant with the above prescribed financial resource requirements in respect of paid up capital and net worth as of December 31, 2017, shall comply with these requirements latest by March 30, 2020. Provided further that in case of securities brokers, who do not meet paid up capital and net worth requirements as prescribed above as of December 31, 2017, the Commission may impose other conditions including reduced custody limits, till such brokers are compliant with the requirements as prescribed above."
+      },
+      {
+       "n": "11-34",
+       "text": "Inserted vide SRO 342(I)/2020 dated April 27, 2020."
+      },
+      {
+       "n": "11-35",
+       "text": "Inserted vide SRO 77(I)/2020 dated February 3, 2020."
+      },
+      {
+       "n": "11-36",
+       "text": "Inserted vide SRO 1665(I) dated December 30, 2021"
+      },
+      {
+       "n": "11-37",
+       "text": "Substituted the word “each” vide SRO 1665(I) dated December 30, 2021"
+      },
+      {
+       "n": "11-38",
+       "text": "Inserted row in the table vide SRO dated 808(I)/2022 dated June 15, 2022."
+      },
+      {
+       "n": "11-39",
+       "text": "Substituted “75” vide SRO 342(I)/2020 dated April 27, 2020."
+      },
+      {
+       "n": "11-40",
+       "text": "Substituted the following vide SRO 1665(I) dated December 30, 2021: “Provided that the minimum net worth requirement for Trading and Self Clearing category shall be increased to rupees 60 million with effect from October 1, 2021 and shall be further increased to rupees 75 million with effect from October 1, 2022.”"
+      },
+      {
+       "n": "11-41",
+       "text": "Substituted the following vide SRO 342(I)/2020 dated April 27, 2020: “Provided that the minimum net worth requirement for Trading and Self Clearing category shall be increased to rupees 100 million with effect from October 1, 2021.”"
+      },
+      {
+       "n": "12-42",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022."
+      },
+      {
+       "n": "12-43",
+       "text": "Inserted vide SRO 342(I)/2020 dated April 27, 2020."
+      },
+      {
+       "n": "12-44",
+       "text": "Substituted the following vide SRO 342(I)/2020 dated April 27, 2020: “(3) A securities broker shall file monthly statements of net capital balance and liquid capital with the securities exchange and clearing house computed in a manner specified in Schedule II and III respectively, immediately after coming into force of these regulations, and shall also submit reviewed statement of net capital balance as on close of second quarter of its year of accounts and shall also disclose the net capital balance in its annual audited financial statements in accordance with regulation 34.”"
+      },
+      {
+       "n": "13-45",
+       "text": "Substituted the following vide SRO 342(I)/2020 dated April 27, 2020: “(4) The securities broker shall start maintaining minimum liquid capital as per such amounts and/or ratios and after such period of time as may be specified by the Commission and upon such specification by the Commission, the securities broker shall be required to disclose the calculation of liquid capital in its annual financial statements and shall be required to submit reviewed statement of liquid capital as on close of second quarter of its year of accounts, and the requirement to maintain net capital balance, the requirement to submit monthly statements of net capital balance and the requirement to submit half yearly reviewed statements of net capital balance shall be discontinued. Provided that the above requirements to maintain the net capital balance or the liquid capital and to submit the statements of net capital balance and liquid capital shall not be applicable on a securities broker which has converted to Trading Only broker and has completely transferred its custody and clearing functions including proprietary.”"
+      },
+      {
+       "n": "13-46",
+       "text": "Deleted the words under SRO 77(I)/2018 dated January 29, 2018: “7. Additional requirements for licence under Trading and Self-Clearing and Trading and Clearing categories. - Licence for Trading and Self-Clearing or Trading and Clearing categories shall only be granted to an applicant which fulfills the following additional conditions- (a) It has been admitted as a clearing member by the clearing house and a participant by the central depository; and (b) In case of a company applying for licence under the Trading and Clearing category, it is a public company and at least one director on its board meets the criteria of independent director. Explanation: “Independent director” in relation to the securities broker means such director who is not connected or does not have any other relationship, whether pecuniary or otherwise, with the securities broker, its associated companies, subsidiaries, holding company, sponsors or directors. The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgment without being subservient to any form of conflict of interest: Provided that without prejudice to the generality of this explanation, no director shall be considered independent if one or more of the following circumstances exist: (a) he/she has been an employee of the securities broker, any of its subsidiaries or holding company within the last three years; (b) he/she is or has been the chief executive officer of subsidiaries, associated company, associated undertaking or holding company of the securities broker in the last three years; (c) he/she has, or has had within the last three years, a material business relationship with the securities broker either directly, or indirectly as a partner, substantial shareholder or director of a body that has such a relationship with the securities broker; (d) he/she has received remuneration in the three years preceding his/her appointment as a director or receives additional remuneration, excluding retirement benefits from the securities broker apart from a director’s fee or has participated in the securities broker’s share option or a performance-related pay scheme; (e) he/she is a close relative of the securities broker’s promoters, directors or substantial shareholders: Explanation: close relative means spouse(s), lineal ascendants and descendants and siblings; (f) he/she holds cross-directorships or has significant links with other directors through involvement in other companies or bodies; or (g) he/she has served on the board for more than three consecutive terms from the date of his first appointment provided that such person shall be deemed “independent director” after a lapse of one term: Provided that any person nominated as a director under sections 182 and 183 of the Ordinance shall not be taken to be an \"independent director\" for the above-mentioned purposes: Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the securities broker.”"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Requirements for licence under Trading and Self-Clearing and Trading and Clearing categories",
+     "page": 14,
+     "text": [
+      "{fn:14-47}[ (1) Licence for Trading and Self-Clearing or Trading and Clearing categories shall only be granted to an applicant which has also been admitted as a clearing member by the clearing house and a participant by the central depository.",
+      "(2) From the conversion of licence under new categories of brokers after October 01, 2020, the requirements under sub-regulation (12) of regulation 16, sub-regulation (3) of regulation 25, sub-regulation (2) of regulation 29 and regulation 37 shall not be applicable to the Trading Only category which has completely transferred its custody and clearing functions including proprietary.",
+      "(3) {fn:14-48}[Applicants for the Trading Only including Online Only Broker category shall comply with the following minimum requirements, except where applicant for Online Only category is a single member company, in that case, such applicant shall comply with the following minimum requirements as applicable to the extent of a single member company:]",
+      ">(a) The list of directors and sponsors along with the latest Form A and subsequent Form 29 and pattern of shareholding along with the list of close relatives of such directors and sponsors shall be submitted along with the application for licence and with application for renewal of licence;",
+      ">(b) Trading Only Broker shall only open and maintain trading accounts and CDC sub-accounts of its directors and sponsors in addition to its proprietary account; and",
+      ">(c) In the case of any change in the director or sponsor, the Trading Only Broker shall immediately inform the Commission, securities exchange, clearing house and the central depository and close the trading account and CDC sub-account of outgoing director and/ or sponsor",
+      "(4) Applicants opting for the Trading and Self-Clearing category shall comply with the following minimum requirements-",
+      "{fn:14-49}[omitted]",
+      ">(a) It must maintain a minimum {fn:15-50}[Broker Fiduciary Rating of BFR 3], from a credit rating company licensed by the Commission and disclose such rating at all times on its website and all advertisements;",
+      "{fn:15-51}[Provided that all existing brokers licensed as Trading and Self Clearing shall obtain Broker Fiduciary Rating within such time as may be specified by the Commission.]",
+      "{fn:15-52}[Provided further that in case where the Trading and Self Clearing Broker has not obtained the Broker Fiduciary Rating within such time as may be specified by the Commission, reduced limits of assets under custody as provided in subregulation 1B of regulation 6 shall be applicable and disciplinary action under the Act and the Futures Market Act, 2016 may be taken]",
+      ">(b) It must appoint its statutory auditor from {fn:15-53}[the list of approved auditors for Trading and Self-Clearing Category as notified by the Commission]; and",
+      ">(c) it must comply with such additional requirements for submission of returns and statements in relation to segregation of customers’ assets including reconciliations of customer assets as specified by the Commission from time to time.",
+      "(5) Applicants opting for the Trading and Clearing category shall comply with the following minimum requirements-",
+      ">(a) compliance with the Listed Companies (Code of Corporate Governance) Regulations, 2019 and shall mandatorily comply with the following requirements:",
+      ">>(i) It must have at least 2 or one-third members of the board, whichever is higher, as independent director:",
+      "{fn:15-54} [Provided that the independent directors of Trading and Clearing applicant, shall meet the requirements of clause b (1) of fit and proper criteria in addition to other requirements prescribed therein.]",
+      ">>(ii) The Chief Financial Officer must meet the minimum qualification requirements;",
+      ">>(iii) The Head of Internal Audit must meet the minimum qualification requirements;",
+      ">>(iv) Audit Committee must be constituted by the Board as per the requirements of regulation 17 of the Listed Companies (Code of Corporate Governance) Regulations, 2019;",
+      ">>(v) Compliance with the regulation 14 of the Listed Companies (Code of Corporate Governance) Regulations, 2019 relating to the placement of significant issues before the board and/or committees; and",
+      ">>(vi) Compliance with regulation 35 of the Listed Companies (Code of Corporate Governance) Regulations, 2019 relating to the disclosure of significant polices on the website.",
+      ">(b) it is a public company;",
+      ">(c) it maintains a minimum long term entity rating of (A-) or equivalent from a credit rating company licensed by the Commission and disclose such rating at all times on its website and all advertisements;",
+      ">(d) it maintains a minimum {fn:16-55}[Broker Fiduciary Rating of BFR 2], as may be specified by the Commission, from a credit rating company licensed by the Commission and disclose such rating at all times on its website and all advertisements;",
+      ">(e) it has an acceptable track record in compliance with the applicable laws and handling of customer complaints; and",
+      ">(f) it must comply with such additional requirements for submission of returns and statements in relation to segregation of customers’ assets including reconciliations of customer assets as specified by the Commission from time to time.]"
+     ],
+     "fn": [
+      {
+       "n": "14-47",
+       "text": "Inserted vide SRO 77(I)/2020 dated February 3, 2020."
+      },
+      {
+       "n": "14-48",
+       "text": "Substituted the following text vide SRO 808(I)/2022 dated June 15, 2022: “Applicants for the Trading Only Broker category shall comply with the following minimum requirements:”"
+      },
+      {
+       "n": "14-49",
+       "text": "Omitted following clauses and renumbered next clauses vide SRO 342(I)/2020 dated April 27, 2020: “(a) it must have at least one independent director on its board who shall also be the head of audit committee. Explanation: “Independent director” in relation to the securities broker means such director who is not connected or does not have any other relationship, whether pecuniary or otherwise, with the securities broker, its associated companies, subsidiaries, holding company, sponsors or directors. The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgment without being subservient to any form of conflict of interest: Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the securities broker. (b) It must have an audit committee which shall be formed and shall function in accordance with the requirements specified by the Commission.”"
+      },
+      {
+       "n": "15-50",
+       "text": "Substituted with the words “Broker Fiduciary Rating, as may be specified by the Commission” vide SRO 360(I)/2023 dated March 14, 2023."
+      },
+      {
+       "n": "15-51",
+       "text": "Inserted vide SRO 360(I)/2023 dated March 14, 2023."
+      },
+      {
+       "n": "15-52",
+       "text": "Substituted with the following proviso vide SRO 360(I)/2023 dated March 14, 2023. “Provided that in case where the Trading and Self Clearing Broker has not obtained the Broker Fiduciary Rating, the reduced limits of assets under custody as provided in sub-regulation 1B of regulation 6 shall be applicable”."
+      },
+      {
+       "n": "15-53",
+       "text": "Substituted the words “category A or B of the panel of auditors maintained by the State Bank of Pakistan” vide SRO 416(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "15-54",
+       "text": "Inserted vide SRO 556(I)/2021 dated April 29, 2021"
+      },
+      {
+       "n": "16-55",
+       "text": "Substituted with the words “Broker Fiduciary Rating” vide SRO 360(I)/2023 dated March 14, 2023."
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Grant of licence",
+     "page": 16,
+     "text": [
+      "(1) The Commission, while considering the application for granting a licence, shall inter-alia take into account the following matters, -",
+      ">(a) that the applicant meets the requirements of the Act [and the Futures Act] {fn:16-56} and these regulations;",
+      ">(b) that the applicant has the ability to efficiently handle its functions as a securities broker and its obligations under the Act [and the Futures Act,] {fn:16-57} and these regulations;",
+      ">(c) that the applicant has the necessary infrastructure including but not limited to financial resources, policies, procedures, systems and controls to effectively and efficiently discharge its responsibilities as a securities broker;",
+      ">(d) that the applicant satisfies the Commission that the reasons for an earlier refusal for grant or renewal of licence, if any, as a securities broker are no longer applicable;",
+      ">{fn:17-58}[(e) compliance of the applicant’s sponsors, directors and senior management officers with the fit and proper criteria specified in Annexure B; and]",
+      ">{fn:17-59}[(f) history of past regulatory compliance and any pending penal action against the applicant, its sponsors, directors and senior management officers for an offence under the Act, the Futures Act and the Companies Act.]",
+      "(2) The Commission, upon being satisfied after conducting such inquiries and obtaining such further information as it deems appropriate that,-",
+      ">(a) the applicant is eligible for a licence;",
+      ">{fn:17-60}[(b) the applicant is in compliance with the provisions of the Act and the Futures Act, these regulations and any notifications or directives or guidelines or codes issued thereunder; and]",
+      ">(c) it is in the public interest and interest of capital market;",
+      "may grant a licence to the applicant in Form B for a period of one year under the provisions of the Act {fn:17-61}[and the Futures Act] and communicate this to the securities exchange, clearing house and central depository:",
+      "{fn:17-62}[Provided that any new license granted under these regulations shall have an expiry date of December 31, of that calendar year.]",
+      "Provided {fn:17-63}[further] that while deciding to grant licence to a securities broker, the Commission may seek additional information from other Government agencies/regulatory bodies including obtaining credit information bureau (CIB) reports from the State Bank of Pakistan and may also conduct a pre-licence assessment or a visit of the premises of the applicant to verify the genuineness of information submitted.",
+      "(3) Nothing in these regulations shall affect the power of the Commission to restrict, suspend or cancel the licence of a securities broker under the Act {fn:17-64}[and the Futures Act] if any or all of the events as mentioned therein have occurred or the securities broker fails to comply with any of the requirements of these regulations.",
+      "(4) Within three months of the grant of licence, the securities exchange, prior to allowing commencement of business to a securities broker, shall confirm through a visit of such securities broker’s premises that the securities broker has put in place-",
+      ">(a) adequate professional management including branch heads, system operators and compliance officer, as is necessary to allow the securities broker to carry out its obligations in accordance with the applicable laws, circulars, directives, etc.;",
+      ">(b) necessary technology, systems and internal procedures;",
+      ">(c) organizational structure with clear lines of responsibility and authority; and",
+      ">(d) risk management, supervisory system, infrastructure including but not limited to adequate office space, equipment and technical aspects including appropriate arrangement for clearing, settlement and custodian services, where allowed, to effectively and efficiently discharge its responsibilities as a securities broker with capacity for ongoing maintenance of the same."
+     ],
+     "fn": [
+      {
+       "n": "16-56",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "16-57",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "17-58",
+       "text": "Substituted for the words “(e) involvement of the applicant, its sponsors, directors or senior management officers in an offence involving fraud or breach of trust; and” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "17-59",
+       "text": "Substituted for the words “(f) history of past regulatory compliance and any pending penal action against the applicant, its sponsors, directors or senior management officers for an offence under the Act, the Securities and Exchange Ordinance, 1969 or the Ordinance.” Vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "17-60",
+       "text": "Substituted for the words “(b) the applicant is in compliance with the provisions of the Act, these regulations and any directives/guidelines/codes issued thereunder; and” vide SRO 77(I)/2018 dated January 29, 2018."
+      },
+      {
+       "n": "17-61",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018."
+      },
+      {
+       "n": "17-62",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018."
+      },
+      {
+       "n": "17-63",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018."
+      },
+      {
+       "n": "17-64",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018."
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Renewal of licence",
+     "page": 18,
+     "text": [
+      "{fn:18-65}[ (1) Subject to the provisions of the Act and the Futures Act and these regulations, a securities broker having a valid licence shall, through securities exchange, apply to the Commission by November 30, of every calendar year in Form C along with an undertaking stating that it is in compliance with all regulatory requirements and receipt evidencing payment of renewal fee of such amount as specified in Schedule I, for renewal of its licence for next calendar year.",
+      "(2) Any license renewed under these regulations shall be valid for a period of one year expiring on December 31 of each calendar year unless surrendered by the securities broker or suspended or cancelled by the Commission.",
+      "(3) An existing license granted to a securities broker under these regulations, irrespective of its validity date, shall be valid till December 31, 2018 unless surrendered by the securities broker or suspended or cancelled by the Commission. The securities broker may apply for renewal of its existing licence for the next calendar year i.e. from 01 January to 31 December 2019 through securities exchange latest by November 30, 2018.",
+      "(4) The securities exchange shall scrutinize the application for renewal of licence and the documents submitted by the securities broker prior to submission of the same for consideration of the Commission, along-with a letter of recommendation stating that it has reviewed the contents of the application and the supporting documents and has found the same to be in conformity with the Act and the Futures Act and these regulations:",
+      "Provided that while submitting the letter of recommendation to the Commission, the securities exchange shall also take into account the securities broker’s outstanding customer complaints and its track record with respect to its compliance with the applicable regulatory requirements:",
+      "Provided further that the securities exchange shall submit the applications of securities brokers eligible for renewal of licences to the Commission by December 15, of each calendar year.",
+      "(5) The Commission upon being satisfied that the applicant continues to meet the requirements for licensing, is in compliance with the provisions of the Act, the Futures Act, any rules, regulations, notifications, directives, guidelines or codes issued thereunder and it is in the public interest and interest of the capital market, may renew the licence of a securities broker as recommended by the securities exchange for another calendar year and convey the same to the securities exchange for onward dissemination to all stakeholders.",
+      "(6) Where the application for renewal of licence is made within the provided time but has not been decided by the Commission, the licence of the securities broker shall continue to be valid until the application for renewal is decided by the Commission.",
+      "(7) While renewing the licence of a securities broker the Commission may, also take into account the past track record and history of regulatory compliance of the securities broker, its sponsors, directors and senior management officers.",
+      "(8) The Commission shall send an intimation of renewal of licence of the securities broker to the securities exchange, clearing house and central depository.]"
+     ],
+     "fn": [
+      {
+       "n": "18-65",
+       "text": "Substituted for the words “9. Renewal of licence. - (1) Subject to the provisions of the Act and these regulations, a securities broker shall, one month prior to the date of expiry of its licence, apply to the Commission in Form C along with all the documents as specified in Annexure C and receipt evidencing payment of renewal fee of such amount as specified in Schedule I, for renewal of its licence. (2) A securities broker applying for renewal of licence under sub-regulation (1), shall submit its application along-with supporting documents through the securities exchange to the Commission. (3) The securities exchange shall scrutinize the application for renewal of licence and the documents submitted by the securities broker prior to submission of the same for consideration of the Commission, along-with a letter of recommendation stating that it has reviewed the contents of the application and the supporting documents and has found the same to be in conformity with the Act and these regulations: Provided that while submitting the letter of recommendation to the Commission, the securities exchange shall also take into account the securities broker’s outstanding investor complaints and its track record with respect to its compliance with the applicable regulatory requirements: Provided further that along-with the recommendation letter, the securities exchange shall submit a confirmation to the Commission that it has visited the premises of the securities broker and is satisfied with the infrastructure and human resources deployed by the securities broker to ensure ongoing compliance with these regulations. (4) The Commission upon being satisfied that the applicant continues to meet the requirements for licensing, is in compliance with the provisions of the Act, rules, regulations and any directives/guidelines/codes issued thereunder and it is in the public interest and interest of the capital market, shall renew the licence for one year and issue a certificate of renewal of licence to the applicant in the Form D. (5) Where the application for renewal of licence is made within the provided time but has not been decided by the Commission, the licence of the securities broker shall continue to be valid until the application for renewal is decided by the Commission. (6) While renewing the licence of a securities broker the Commission may, in addition to the criteria laid down for grant of licence, also take into account the past track record and history of regulatory compliance of the securities broker, its sponsors, directors and senior management officers. (7) The Commission shall send an intimation of renewal of licence of the securities broker to the securities exchange, clearing house and central depository.” Vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Procedure where licence is not granted or renewed",
+     "page": 19,
+     "text": [
+      "(1) The Commission, after giving a reasonable opportunity of hearing to the applicant, may refuse to grant or renew a licence if in the opinion of the Commission such applicant does not fulfill the requirements specified under the Act {fn:19-66} [and the Futures Act] and these regulations and where the Commission after taking into account the facts, is of the view that it is not in the public interest or in the interest of the capital market to grant or renew a licence.",
+      "(2) The applicant, if aggrieved by the decision of the Commission under subregulation (1), may, within a period of thirty days from the date of receipt of such refusal, prefer an appeal to the appellate bench of the Commission under section 33 of the Securities and Exchange Commission of Pakistan Act, 1997.",
+      "(3) {fn:19-67}[An applicant] whose application for renewal of licence is refused shall immediately inform all its existing customers, settle all dues of the customers within fifteen days and shall remain responsible for clearing and settlement of all its obligations up to the date on which it has been working as a securities broker, in the manner specified by the securities exchange with the approval of the Commission.",
+      "{fn:19-68}[(4) The Commission shall communicate its decision of refusal to grant or renew the licence to the applicant/securities broker, the securities exchange, the central depository and the clearing house.]"
+     ],
+     "fn": [
+      {
+       "n": "19-66",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "19-67",
+       "text": "Substituted for the words “A securities broker” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "19-68",
+       "text": "Substituted for the words “(4) The Commission shall communicate its decision of refusal to grant or renew the licence to the applicant or securities broker, as the case may be, the securities exchange, central depository and clearing house forthwith and in the case of refusal to renew the licence may also publish such fact in a newspaper of wide circulation in Pakistan.” Vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Cancellation of licence",
+     "page": 19,
+     "text": [
+      "(1) A securities broker may apply to the Commission for cancellation of its licence along-with a confirmation from the securities exchange that such securities broker has informed all its existing customers, settled all dues and pending claims of the customers and has completed all formalities for closure of business.",
+      "(2) The Commission may, after being satisfied that all formalities for closure of business including settlement of customer claims have been completed, cancel the licence of such securities broker:",
+      "Provided that the Commission may impose such conditions as it deems appropriate at the time of such cancellation of licence.",
+      "{fn:20-69}[(3) A licence granted to a securities broker under these regulations shall stand cancelled automatically where-",
+      ">(a) the TRE certificate of such securities broker is cancelled by the securities exchange; or",
+      ">(b) the securities broker surrenders its licence; or",
+      ">(c) the securities broker is declared defaulter by the securities exchange or TRE certificate suspended by the securities exchange and the reason for such default and/or suspension is not removed within a period of six months from declaration of such default and/or suspension; or",
+      ">(d) the securities broker surrenders the TRE certificate and the securities exchange cancels such TRE certificate subject to the requirements of regulations of the securities exchange; or",
+      ">(e) the securities broker is declared insolvent by a Court; or",
+      ">(f) the securities broker fails to apply for renewal of licence within the specified time; or",
+      ">(g) the licence is suspended by the Commission and such suspension has not been revoked till the time of expiry of licence issued to the securities broker;",
+      ">(h) the terminals of the securities broker are suspended by exchange and the reason for such suspension is not removed within a period of six months from such suspension.]",
+      "(4) A securities broker whose licence is cancelled under sub-regulation (3) shall inform all its existing customers, settle all dues of the customers within fifteen days and shall remain responsible for clearing and settlement of all its obligations up to the date on which it has been working as a securities broker.",
+      "(5) The Commission shall send an intimation of cancellation of licence of a securities broker to the securities exchange, clearing house and central depository {fn:20-70}[]."
+     ],
+     "fn": [
+      {
+       "n": "20-69",
+       "text": "Substituted for the words “(3) The Commission may cancel the licence granted to a securities broker in accordance with the provisions of the Act and/or where- (a) the TRE certificate of such securities broker is cancelled by the securities exchange; or (b) the securities broker is declared defaulter by a securities exchange and the reason for such declaration is not removed within a period of six months from such declaration; or (c) the securities broker surrenders the TRE certificate and the securities exchange cancels such TRE certificate subject to the requirements of regulations of the securities exchange; or (d) the securities broker is declared insolvent by a Court; or (e) the securities broker fails to apply for renewal of licence within the specified time; or (f) the licence is suspended by the Commission and such suspension has not been revoked till the time of expiry of licence issued to the securities broker” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "20-70",
+       "text": "Deleted the words “and may also publish the order of cancellation in a newspaper of wide circulation in Pakistan” vide SRO 77(I)/2018 dated January 29, 2018."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Conduct Of A Securities Broker",
+   "sections": [
+    {
+     "no": "12",
+     "title": "Invitations and Advertisements",
+     "page": 20,
+     "text": [
+      "(1) A securities broker shall not publish, circulate or distribute any advertisement or any information which is false, misleading or deceptive.",
+      "(2) A securities broker shall not publish, circulate or distribute any advertisement which:",
+      ">(a) refers, directly or indirectly, to any past specific recommendations of the securities broker which were or would have been profitable to any person; or",
+      ">(b) contains any statement that any report, analysis or other service will be furnished free or without charge, unless such report, analysis or service is in fact or will in fact be furnished in its entirety and without any condition or obligation.",
+      "(3) The advertisement shall not promise or guarantee any return or make any exaggerated statement or presentation to exploit an individual’s lack of experience and knowledge and should not include any other thing which otherwise is prohibited.",
+      "(4) The advertisement shall be legible, written in clear language, and should not be such which may prejudice interest of the investors in general.",
+      "(5) In the event of suspension of any TRE certificate holder, the TRE certificate holder so suspended shall not make any advertisement either singly or jointly with any other TRE certificate holder during the period of suspension.",
+      "(6) The advertisement shall not have any adverse reference regarding the reputation of any other securities brokers or a participant of the securities market {fn:21-71}[and/or futures market].",
+      "{fn:21-72}[(7) A securities broker shall advertise its business publicly only in accordance with the guidelines issued by the securities exchange under its regulations.]"
+     ],
+     "fn": [
+      {
+       "n": "21-71",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "21-72",
+       "text": "Substituted for the words “A securities broker shall not advertise its business publicly unless it obtains prior clearance from the securities exchange” vide SRO 592(I)/2019 dated May 28, 2019."
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Disclosure of financial risks",
+     "page": 21,
+     "text": [
+      "(1) A securities broker shall not commence business with a customer unless such securities broker provides the customer with a risk disclosure document in accordance with the specimen provided by the securities exchange, inter alia containing the basic risks involved in trading in securities [and/or futures contracts] {fn:21-73} including explanation of the following:",
+      ">(a) the risk of higher volatility which may affect the complete or partial execution of an order and the price at which it may be executed;",
+      ">(b) risk of lower liquidity;",
+      ">(c) speculative trading;",
+      ">(d) risk of wider spread;",
+      ">(e) price fluctuations due to corporate announcements;",
+      ">(f) systemic risk; and",
+      ">(g) specific risks of trading [in futures and] {fn:21-74} leverage markets etc.",
+      "(2) The securities broker shall obtain a written acknowledgment duly signed and dated by the customer confirming that such customer has understood the nature and contents of the risk disclosure document."
+     ],
+     "fn": [
+      {
+       "n": "21-73",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "21-74",
+       "text": "Substituted for the word “on” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Conflict of interest",
+     "page": 22,
+     "text": [
+      "(1) The securities broker shall take all reasonable steps including the framing of appropriate policies and procedures to minimize conflict of interest between such securities broker and its customers.",
+      "(2) Subject to the provision of sub-regulation (1), where any conflict of interest arises between the securities broker and its customer, the securities broker shall immediately inform the customer through verifiable means and not gain any direct or indirect advantage from the situation and shall act in the best interests of the customer.",
+      "(3) The securities broker must take reasonable steps to ensure that neither such securities broker nor any of its employees {fn:22-75}[] either offers or gives, or solicits or accepts, any inducement that is likely to conflict with any duties owed to the customers.",
+      "(4) The securities broker shall put in place a mechanism and take steps to avoid and eliminate the misalignment of incentives due to conflict of interest between the compensation of senior management officers, employees {fn:22-76}[] of the securities broker and interest of the customers.",
+      "{fn:22-77}[Omitted]",
+      "(6) The securities broker shall put in place a mechanism to resolve any conflict of interest that may arise in the conduct of business and take all reasonable steps to resolve all conflict of interests in an equitable manner.",
+      "(7) Where a securities broker has a material interest in a transaction to be entered into with or for a customer, or a relationship which gives rise to a conflict of interest in relation to such a transaction, the securities broker shall not knowingly either advise, or deal in the exercise of discretion, in relation to that transaction unless the securities broker has, –",
+      ">(a) disclosed that material interest or relationship, as the case may be, to the customer; or",
+      ">(b) taken reasonable steps to ensure that neither the material interest nor the relationship adversely affects the interests of the customer.",
+      "(8) The securities broker shall make appropriate disclosure to customers of possible source or potential areas of conflict of interest which could impair its ability to render fair, objective and unbiased service.",
+      "(9) In case of any breach of policies by its employees {fn:22-78}[], the securities broker shall promptly investigate, and take appropriate action against the persons responsible."
+     ],
+     "fn": [
+      {
+       "n": "22-75",
+       "text": "Deleted the words “or accredited representatives” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "22-76",
+       "text": "Deleted the words “and accredited representatives” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "22-77",
+       "text": "Deleted the words “(5) The securities broker shall disclose the names of such persons to its customers who are working as its accredited representatives.” Vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "22-78",
+       "text": "Deleted the words “and accredited representatives” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Confidentiality",
+     "page": 22,
+     "text": [
+      "(1) The securities broker must have in place proper systems and controls along with clearly documented policies and procedures reasonably designed, for ensuring confidentiality of information in relation to its business as a securities broker.",
+      "(2) The securities broker must establish ‘Chinese walls’ including policies and physical apparatus designed to prevent the improper or unintended dissemination of market sensitive information from one division or department to another.",
+      "(3) The securities broker must establish policies and procedures, reasonable under the circumstances, to ensure that individuals making proprietary investment decisions are not trading on the basis of material non-public information obtained from another departments or units of the securities broker.",
+      "(4) The securities broker and its employees {fn:23-79}[] shall neither profit nor seek to profit from confidential information, nor provide such information to anyone with the objective of making profit for itself or for its customers.",
+      "(5) The securities broker and its employees {fn:23-80}[] shall refrain from trading on the basis of confidential information, and its employees {fn:23-81}[] shall not reveal such information outside the company.",
+      "(6) The securities broker and its employees {fn:23-82}[] shall not disclose or discuss with any other person other than normal course of business or make improper use of the details of investments of customers and other information of confidential nature of a customer."
+     ],
+     "fn": [
+      {
+       "n": "23-79",
+       "text": "Deleted the words “and accredited representatives” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "23-80",
+       "text": "Deleted the words “and accredited representatives” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "23-81",
+       "text": "Deleted the words “and accredited representatives” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "23-82",
+       "text": "Deleted the words “and accredited representatives” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Duties and obligations of a securities broker",
+     "page": 23,
+     "text": [
+      "[ (1) In addition to the requirements provided under the Act and the Futures Act and any other rules or regulations made thereunder, a securities broker shall:",
+      ">(a) ensure fair treatment of its customers, not discriminate amongst them, and treat customers instructions and orders in due turn;",
+      ">(b) prominently display the licence granted by the Commission at a conspicuous place at its premises;",
+      ">(c) exercise due care and diligence while handling unsubstantiated market information or non-public price sensitive information;",
+      ">(d) take reasonable steps to ensure that any agreement, written communication, notification or information that such securities broker gives or sends to customers to whom the services are to be provided or are being provided is presented fairly and clearly and adequate details regarding the services to be provided by the securities broker are covered therein;",
+      ">(e) ensure that it has adequate infrastructural systems with reliable back up procedures;",
+      ">(f) abide by the Corporate Governance Code provided in Annexure D;",
+      ">(g) ensure compliance with all legal and regulatory requirements applicable to the conduct of its business activities so as to promote the best interests of customers and the integrity of the securities market and/or futures market;",
+      ">(h) remain in compliance with the licensing requirements at all times and inform the Commission immediately when it is non-compliant with any of the said requirements;",
+      ">(i) establish an internal code of practice, aimed at ensuring that members of its board of directors, employees act in accordance with the best interests of its customers, the integrity of the market and are in compliance of the Act and the Futures Act, these regulations and any other applicable laws, notifications, guidelines, directives and circulars etc.;",
+      ">(j) frame policies and procedures to ensure compliance with the regulatory requirements governing prohibition of insider dealing and market abuse;",
+      ">(k) ensure that Know Your Customer and Customer Due Diligence is being conducted properly in accordance with the relevant rules, regulations, notifications, guidelines, directives and circulars etc. issued by the Commission and/or the securities exchange from time to time;",
+      ">(l) ensure that the credit worthiness of its customers is evaluated through a proper credit risk assessment methodology and trading limits are assigned to each customer beyond which the customer shall not be allowed to take a position;",
+      ">(m) ensure that its sponsors, directors and employees exercise due care and responsibility while interacting with the media, and making any statement regarding any regulatory authority, the securities market and/or futures market or any participant thereof on any forum/channel;",
+      ">(n) maintain membership of an association of securities brokers which is approved by the Commission and abide by the code of conduct specified by such association at all times;",
+      ">(o) inculcate a culture of compliance of the regulatory requirements through ongoing education and training of its directors, employees; specify and enforce any appropriate sanctions for breach by its directors, employees of any policies and procedures regarding market conduct to deter such practices; and",
+      ">(p) ensure accuracy and completeness of the information shared or submitted by it to the clearing house, central depository, securities exchange, Commission and any other forum.",
+      ">(q) maintain a functional and accessible website as per requirements prescribed by the Commission and submit quarterly compliance report to the securities exchange.",
+      ">{fn:24-83}[(r) ensure compliance with guidelines for Internal control system and compliance function for securities brokers as specified by the Commission from time to time] {fn:24-84}[;",
+      ">(s) Online Only Broker shall mandatorily offer internet-based trading services to its clients and shall not provide physical place for trading to its clients;",
+      ">(t) where it offers internet-based trading facilities, implement adequate measures to ensure that: i. procedures and controls are in place to monitor and test the systems on a regular basis; ii. adequate cyber-security mechanism is in place; iii. operational and technical control systems are in place to manage the risks;",
+      "iv. all electronic communication is digitally signed, encrypted and secured with a backup stored in soft and secured form; and v. it complies with IT infrastructure standards, certifications or any other requirement or conditions, as may be specified by the Commission and/or the securities exchange.”;]",
+      "(2) A securities broker shall not:",
+      ">(a) in any way contribute to manipulating the demand for or supply of securities in the market or to influence prices of securities and futures contracts based on securities, or indulge in any action that can detract from transparent and standard pricing on the securities markets and/or futures market;",
+      ">(b) encourage sale or purchase of securities and futures contracts based on securities on account of a customer with the sole objective of generating commission or any other financial benefit for the securities broker or any of its employees;",
+      ">(c) have an incentive structure that encourages dealing in securities and futures contracts based on securities not suiting the risk profile of its customers;",
+      ">(d) maintain anonymous accounts or accounts that are opened or maintained in the name of fictitious persons;",
+      ">(e) deal in securities and futures contracts based on securities while in possession of material non-public information;",
+      ">(f) deal or transact business directly or indirectly or execute an order for a customer where the name of such customer is appearing on the list of delinquent customers maintained by the securities exchange;",
+      ">(g) operate and have any branch without registration of the same with the securities exchange and after fulfilling all other applicable requirements;",
+      ">(h) engage in manipulative or deceptive conduct or any other form of misconduct which would give other users of the securities market and/or futures market a false or misleading impression as to the prevailing market conditions, including but not limited to price, supply or demand;",
+      ">(i) spread rumors or disseminate false or misleading information;",
+      ">(j) engage in any investment transactions and activities that would result in manipulation of prices;",
+      ">(k) accept any money from a customer or another person on a promise of predetermined or guaranteed return; and",
+      ">(ka) accept any money or deposit or borrowing by whatsoever name called and in whatsoever manner from any person including an individual or any segment of public or directors and sponsors of a securities broker except in the following manner: -",
+      ">>(i) redeemable capital issued by a securities broker or under the Companies Act;",
+      ">>(ii) finance obtained by a securities broker from a financial institution;",
+      ">>(iii) advance, application or subscription money for shares of a securities broker",
+      ">>(iv) subordinated loans from directors, sponsors or substantial shareholders of a securities broker subject to the conditions as may be imposed by the Commission from time to time;",
+      ">(l) appoint an auditor who is an associate of its director or a senior management officer.",
+      ">(m) Engage in any arrangement with a person against fixed fee or commission in relation to introducing or facilitating a customer for trading through the securities broker operate from any office/location other than the registered office of the securities broker and branch office of the securities broker registered with the securities exchange under Branch office Regulations of the securities exchange; and",
+      ">(n) provide Access to the trading terminals other than its authorized employees and customers.",
+      "(3) A securities broker shall put in place, appropriate policies and procedures which govern trading or investment in securities and/or futures contracts based on securities by its employees, their spouses and dependent children, and such policies shall at the minimum cover following requirements/principles:",
+      ">(a) disclosure by its employee of any procession of or open position in securities and/or futures contracts based on securities by him/her, his/her spouse and /or dependent children along with details of their accounts with a securities broker and such information shall be reported to the compliance officer of the securities broker;",
+      ">(b) prior written approval for trading by its employees for their own personal accounts or on behalf of their spouses and/or dependent children;",
+      ">(c) approval or rejection of an application seeking trading or investment in securities and/or futures contracts based on securities by its employees;",
+      ">(d) periodic disclosure of securities and/or position in futures contracts based on securities held by its employees and their spouses and dependent children, and reporting of actual transactions, including volume, date and price, in a timely manner;",
+      ">(e) restriction on employees from deriving any benefit or personal advantage from information which is generally not available and which is obtained by reason of or in the course of their employment with the securities broker;",
+      ">(f) prescribing a minimum holding period and discouraging frequent short-term trading or trading for speculative purposes;",
+      ">(g) prescribing trading windows and blackout periods to restrict the misuse of confidential information; and",
+      ">(h) compliance of employees with the requirements specified by the securities exchange and the code of conduct specified by the securities exchange in relation to the trading by employees of a securities broker.",
+      "(4) A securities broker shall not trade through another securities broker of the same securities exchange on its own account or on account of its customers.",
+      "(5) Chief executive of the securities broker and his/her immediate family members can only trade through the securities broker which the chief executive is associated with in the said capacity.",
+      "(6) A securities broker shall formulate policies and take reasonable measures to restrict its employees, including employees serving as directors on its board, from trading through another securities broker of the same securities exchange.",
+      "(7) Shareholders and other directors of a securities broker shall be allowed to trade through another securities broker of the same securities exchange subject to the condition that the substantial shareholders and the directors fulfill the following requirements-",
+      ">(a) a one-time prior written approval is obtained from the securities broker of which such person is a director or substantial shareholder and the said approval shall also be submitted to the securities exchange; and",
+      ">(b) where any such director or substantial shareholder buys or sells securities and/or futures contracts based on securities through another securities broker of the same securities exchange, he/she shall notify in writing on the same day the following information to the company secretary of the securities broker of which he/she is a director or a substantial shareholder-",
+      ">>(i) name of the securities broker through which the transaction is carried out;",
+      ">>(ii) reason(s) for trading through another securities broker;",
+      ">>(iii) following details of the transaction-",
+      ">>>(A) the date of transaction;",
+      ">>>(B) the price at which the transaction is executed;",
+      ">>>(C) type of security or instrument traded",
+      ">>>(D) number of securities or futures contracts for securities /units traded;",
+      ">>>(E) form of security i.e., physical or book-entry form in the central depository system;",
+      ">>>(F) nature of transaction i.e., on-exchange or off-exchange transaction;",
+      ">>(iv) such director or the substantial shareholder shall also deliver a written record, along with a copy of the contract note issued by another securities broker, of the details mentioned under sub-clause (iii) to the company secretary within two days of effecting the transaction; and",
+      ">>(v) the company secretary shall immediately forward the above information to the securities exchange.",
+      "(8) A securities broker shall ensure that it has properly designed internal control policies and framework which are duly approved and periodically reviewed by its board of directors and the same shall be widely disseminated for compliance by all employees.",
+      "(9) The internal control policies and framework to be designed under sub-regulation (8), shall inter alia stipulate the following:",
+      ">(a) ensure that clear lines of responsibility, authority and tasks are adequately assigned to its employees;",
+      ">(b) ensure appropriate segregation of duties and information barriers between own account or proprietary trading and customer dealing functions;",
+      ">(c) ensure employment of sufficient human resource which is adequately trained to efficiently perform its functions;",
+      ">(d) ensure that channels of communications are properly documented and monitored regularly and effectively, including documentation of logs of e-mails and other inter-office communications;",
+      ">(e) put in place effective and operationally independent internal audit and compliance functions having appropriately trained and competent staff;",
+      ">(f) ensure that a periodic or annual review of the internal control system and assessment of overall level of compliance of the securities broker is carried out by the internal audit function, which reports directly to the board of directors or its audit committee;",
+      ">(g) ensure implementation of a trade review procedure, reasonably designed to identify trades that may violate the provisions of the Act and/or the Futures Act and any rules and regulations made thereunder; and",
+      ">(h) provide for periodic inspections of branch offices of the securities broker and supervision of business activities of such branches.",
+      "(10) A securities broker shall establish and implement a contingency plan to ensure continuity of its operations in the event of a disaster or crisis. Such contingency plan shall at the minimum cover the following requirements/principles-",
+      ">(a) offsite backup of key records, systems and information and mechanism for recovery;",
+      ">(b) alternate ways of communications with customers, employees and regulators;",
+      ">(c) details of alternate service providers in case of disaster;",
+      ">(d) details of availability of necessary redundancies - including infrastructural redundancies as well as operational and human capital; and",
+      ">(e) testing of the contingency plan on regular basis or any other interval as may be specified by the Commission.",
+      "(11) A securities broker shall not, unless it complies with the applicable framework for research analysts make a recommendation regarding purchase or sale of any particular security or taking position in any futures contract based on securities of any company, or publish, circulate or distribute any advertisement which represents, directly or indirectly, that any graph, chart, formula or other device set out or referred to in the advertisement:",
+      ">(a) can be used to determine which securities to buy or sell, or when to buy or sell them or which position to enter in to a futures contract based on securities or when to enter into such a position; or",
+      ">(b) can be used to determine what transaction to enter; or",
+      ">(c) will assist any person in deciding which securities and/or futures contracts based on securities to buy or sell, or when to buy or sell them.",
+      "(12) A securities broker licensed under these regulations shall ensure:",
+      ">(a) compliance with customers’ assets segregation requirements as specified by the securities exchange or the Commission from time to time;",
+      ">(b) submission of returns and statements in relation to segregation of customers’ assets including reconciliations of customer assets on such frequency and on such formats as may be required by the securities exchange and/or the Commission from time to time;",
+      ">(c) periodic audit of the statements, returns and reconciliations of customer assets as per the requirements of securities exchange or in the manner specified by the Commission from time to time;",
+      ">(d) that necessary steps are taken to keep its total assets under custody within the threshold specified by the central depository or the Commission from time to time;",
+      ">(e) that the compliance officer appointed or designated by the securities broker regularly monitors the customer assets, movements therein, and prepares reconciliations as required in clauses (b) and (c). In case any discrepancy is observed or any instance of unauthorized use of customer assets or any violation of law with respect to segregation and safekeeping of customer assets is observed the same must be reported to the securities broker for taking immediate remedial action. In case the securities broker fails to rectify the position within three business days, the matter should be reported to the Commission and the securities exchange by the compliance officer;",
+      ">(f) that in case where the allowed quantum of assets under custody exceeds such threshold as may be specified by the Commission from time to time, the securities broker shall appoint a whole-time compliance officer;",
+      ">(g) establishment of systems and controls for maintaining accurate and up-to-date records of customers’ asset holdings including information specifying the amount, location, and ownership status of customer assets. The records should be maintained in a way that appropriately distinguishes the customer assets account of one customer of the securities broker from the customer assets account of another customer of the securities broker and from the assets of the securities broker itself;",
+      ">(h) its systems and controls should provide for reconciliations on a regular basis, consistent with the volume of activity in the accounts, between internal accounts and records in relation to the customer assets and those of any third party with whom such customer assets are held; and",
+      ">(i) that an internal audit function, headed by a dedicated or designated head of internal audit possessing relevant qualification and experience, is put in place.",
+      "(13) In addition to meeting the conditions in these regulations, the securities broker licensed under these regulations shall comply with such other conditions as may be imposed by the Commission.] {fn:30-85}",
+      "{fn:32-86}[(14) The Securities Broker may offer completely Shariah-compliant brokerage services subject to the condition that it shall obtain a certificate of Shariah-compliant company in terms of sub-section (1) of Section 451 of the Companies Act, 2017 read with the Shariah Governance Regulations, 2023, and adhere to the Guidelines for Offering Islamic Financial Services issued by the Commission.”",
+      "(15) The Securities Broker may establish a window to provide Shariah-compliant services subject to compliance with the Guidelines for Offering Islamic Financial Services issued by the SECP and approval of Shariah-compliant brokerage services model from SECP.]"
+     ],
+     "fn": [
+      {
+       "n": "24-83",
+       "text": "Inserted under S.R.O 1333(I)/2019 dated November 6, 2019."
+      },
+      {
+       "n": "24-84",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022."
+      },
+      {
+       "n": "30-85",
+       "text": "Substituted for the following words under Vide SRO 77(I)/2018 dated January 29, 2018: “16. Duties and obligations of a securities broker. - (1) In addition to the requirements provided under the Act and any other rules or regulations made thereunder, a securities broker shall: (a) ensure fair treatment of its customers, not discriminate amongst them, and treat customers instructions and orders in due turn; (b) prominently display the licence granted by the Commission; (c) exercise due care and diligence while handling unsubstantiated market information or non-public price sensitive information; (d) take reasonable steps to ensure that any agreement, written communication, notification or information that such securities broker gives or sends to customers to whom the services are to be provided or are being provided is presented fairly and clearly and adequate details regarding the services to be provided by the securities broker are covered therein; (e) ensure that it has adequate infrastructural systems with reliable back up procedures; (f) abide by the Corporate Governance Code provided in Annexure D; (g) ensure compliance with all legal and regulatory requirements applicable to the conduct of its business activities so as to promote the best interests of customers and the integrity of the securities market; (h) remain in compliance with the licensing requirements at all times and inform the Commission immediately when it is non- compliant with any of the said requirements; (i) establish an internal code of practice, aimed at ensuring that members of the board, directors, employees and accredited representatives act in accordance with the best interests of its customers, the integrity of the market and are in compliance of the Act, these regulations and any other applicable laws, guidelines, directives, circulars etc.; (j) frame policies and procedures to ensure compliance with the regulatory requirements governing prohibition of insider dealing and market abuse; (k) ensure that Know Your Customer and Customer Due Diligence is being conducted properly in accordance with the relevant regulations/guidelines/circulars etc. issued by the Commission and/or the securities exchange from time to time; (l) ensure that the credit worthiness of its customers is evaluated through a proper credit risk assessment methodology and trading limits are assigned to each customer beyond which the customer shall not be allowed to take a position; (m) ensure that its sponsors, directors, accredited representatives and employees exercise due care and responsibility while interacting with the media, and making any statement regarding any regulatory authority, the securities market or any participant thereof on any forum/channel; (n) maintain membership of an association of securities brokers which is approved by the Commission and abide by the code of conduct specified by such association at all times; (o) inculcate a culture of compliance of the regulatory requirements through ongoing education and training of its directors, employees and accredited representatives; specify and enforce any appropriate sanctions for breach by its directors, employees and accredited representatives of any policies and procedures regarding market conduct to deter such practices; and (p) ensure accuracy and completeness of the information shared or submitted by it to the clearing house, central depository, securities exchange, Commission and any other forum. (2) A securities broker shall not: (a) in any way contribute to manipulating the demand for or supply of securities in the market or to influence prices of securities, or indulge in any action that can detract from transparent and standard pricing on the securities markets; (b) encourage sale or purchase of securities on account of a customer with the sole objective of generating commission or any other financial benefit; (c) have an incentive structure that encourages dealing in securities not suiting the risk profile of its customers; (d) maintain anonymous accounts or accounts that are opened or maintained in the name of fictitious persons; (e) deal in securities while in possession of material non-public information; (f) deal or transact business directly or indirectly or execute an order for a customer where the name of such customer is appearing on the list of delinquent customers maintained by the securities exchange; (g) operate and have any branch without registration of the same with the securities exchange and after fulfilling all other applicable requirements; (h) engage in manipulative or deceptive conduct or any other form of misconduct which would give other users of the securities market a false or misleading impression as to the prevailing market conditions, including but not limited to price, supply or demand; (i) spread rumors or disseminate false or misleading information; (j) engage in any investment transactions and activities that would result in manipulation of prices; (k) accept any money from a customer on a promise of predetermined or guaranteed return; and (l) appoint an auditor who is an associate of its director or a senior management officer. (3) A securities broker shall put in place, appropriate policies and procedures which govern trading or investment in securities by its employees, accredited representatives, their spouses and dependent children, and such policies shall at the minimum cover following requirements/principles: (a) disclosure by its employee and accredited representative of any securities held by him/her, his/her spouse and /or dependent children along with details of their accounts with a securities broker and such information shall be reported to the compliance officer of the securities broker; (b) prior written approval for trading by its employees and accredited representatives for their own personal accounts or on behalf of their spouses and/or dependent children; (c) approval or rejection of an application seeking trading or investment in securities by its employees and accredited representatives; (d) periodic disclosure of securities held by its employees and accredited representatives and their spouses and dependent children, and reporting of actual transactions, including volume, date and price, in a timely manner; (e) restriction on employees and accredited representatives from deriving any benefit or personal advantage from information which is generally not available and which is obtained by reason of or in the course of their employment with the securities broker; (f) prescribing a minimum holding period and discouraging frequent short-term trading or trading for speculative purposes; (g) prescribing trading windows and blackout periods to restrict the misuse of confidential information; and (h) compliance of employees and accredited representatives with the requirements specified by the securities exchange and the code of conduct specified by the securities exchange in relation to the trading by employees and accredited representatives of a securities broker. (4) A securities broker shall not trade through another securities broker of the same securities exchange on its own account or on account of its customers. (5) Chief executive of the securities broker and his/her immediate family members can only trade through the securities broker which the chief executive is associated with in the said capacity. (6) A securities broker shall formulate policies and take reasonable measures to restrict its employees and accredited representatives, including employees serving as directors on its board, from trading through another securities broker of the same securities exchange. (7) Shareholders and other directors of a securities broker shall be allowed to trade through another securities broker of the same securities exchange subject to the condition that the substantial shareholders and the directors fulfill the following requirements- (a) a one-time prior written approval is obtained from the securities broker of which such person is a director or substantial shareholder and the said approval shall also be submitted to the securities exchange; and (b) where any such director or substantial shareholder buys or sells securities through another securities broker of the same securities exchange, he/she shall notify in writing on the same day the following information to the company secretary of the securities broker of which he/she is a director or a substantial shareholder- (i) name of the securities broker through which the transaction is carried out; (ii) reason(s) for trading through another securities broker; (iii) following details of the transaction- (A) the date of transaction; (B) the price at which the transaction is executed; (C) type of security traded (D) number of securities/contracts/units traded; (E) form of security i.e., physical or book-entry form in the central depository system; (F) nature of transaction i.e., on-exchange or off-exchange transaction; (iv) such director or the substantial shareholder shall also deliver a written record, along with a copy of the contract note issued by another securities broker, of the details mentioned under sub-clause (iii) to the company secretary within two days of effecting the transaction; and (v) the company secretary shall immediately forward the above information to the securities exchange. (8) A securities broker shall ensure that it has properly designed internal control policies and framework which are duly approved and periodically reviewed by its board of directors and the same shall be widely disseminated for compliance by all employees and accredited representatives. (9) The internal control policies and framework to be designed under sub-regulation (8), shall inter alia stipulate the following: (a) ensure that clear lines of responsibility, authority and tasks are adequately assigned to its employees and accredited representatives; (b) ensure appropriate segregation of duties and information barriers between own account or proprietary trading and customer dealing functions; (c) ensure employment of sufficient human resource which is adequately trained to efficiently perform its functions; (d) ensure that channels of communications are properly documented and monitored regularly and effectively, including documentation of logs of e-mails and other inter-office communications; (e) put in place effective and operationally independent internal audit and compliance functions having appropriately trained and competent staff; (f) ensure that a periodic or annual review of the internal control system and assessment of overall level of compliance of the securities broker is carried out by the internal audit function, which reports directly to the board of directors or its audit committee; (g) ensure implementation of a trade review procedure, reasonably designed to identify trades that may violate the provisions of the Act and any rules and regulations made thereunder; and (h) provide for periodic inspections of branch offices of the securities broker and supervision of business activities of such branches. (10) A securities broker shall establish and implement a contingency plan to ensure continuity of its operations in the event of a disaster or crisis. Such contingency plan shall at the minimum cover the following requirements/principles- (a) offsite backup of key records, systems and information and mechanism for recovery; (b) alternate ways of communications with customers, employees, accredited representatives and regulators; (c) details of alternate service providers in case of disaster; (d) details of availability of necessary redundancies - including infrastructural redundancies as well as operational and human capital; and (e) testing of the contingency plan on regular basis. (11) A securities broker shall not, unless it complies with the applicable framework for research analysts and securities adviser, as the case may be, make a recommendation regarding purchase or sale of any particular security of any company, or publish, circulate or distribute any advertisement which represents, directly or indirectly, that any graph, chart, formula or other device set out or referred to in the advertisement: (a) can be used to determine which securities to buy or sell, or when to buy or sell them; or (b) can be used to determine what transaction to enter; or (c) will assist any person in deciding which securities to buy or sell, or when to buy or sell them. (12) A securities broker licensed under the Trading and Self-Clearing category or Trading and Clearing category shall ensure: (a) compliance with customers’ assets segregation requirements as specified by the securities exchange or the Commission from time to time; (b) submission of returns and statements in relation to segregation of customers’ assets including reconciliations of customer assets on such frequency and on such formats as may be required by the securities exchange and/or the Commission from time to time; (c) periodic audit of the statements, returns and reconciliations of customer assets as per the requirements of securities exchange or in the manner specified by the Commission from time to time; (d) that necessary steps are taken to keep its total assets under custody within the threshold specified by the central depository or the Commission from time to time; (e) that the compliance officer appointed or designated by the securities broker regularly monitors the customer assets, movements therein, and prepares reconciliations as required in clauses (b) and (c). In case any discrepancy is observed or any instance of unauthorized use of customer assets or any violation of law with respect to segregation and safekeeping of customer assets is observed the same must be reported to the securities broker for taking immediate remedial action. In case the securities broker fails to rectify the position within three business days, the matter should be reported to the Commission and the securities exchange by the compliance officer; (f) that in case where the allowed quantum of assets under custody exceeds such threshold as may be specified by the Commission from time to time, the securities broker shall appoint a whole-time compliance officer; (g) establishment of systems and controls for maintaining accurate and up-to-date records of customers’ asset holdings including information specifying the amount, location, and ownership status of customer assets. The records should be maintained in a way that appropriately distinguishes the customer assets account of one customer of the securities broker from the customer assets account of another customer of the securities broker and from the assets of the securities broker itself; (h) its systems and controls should provide for reconciliations on a regular basis, consistent with the volume of activity in the accounts, between internal accounts and records in relation to the customer assets and those of any third party with whom such customer assets are held; and (i) that an internal audit function, headed by a dedicated or designated head of internal audit possessing relevant qualification and experience, is put in place. (13) In addition to meeting the conditions in these regulations, the securities broker licensed under the Trading and Clearing category shall comply with such other conditions as may be imposed by the Commission.”"
+      },
+      {
+       "n": "32-86",
+       "text": "Inserted vide SRO 570(I)/2024 dated April 8, 2024."
+      }
+     ]
+    },
+    {
+     "no": "16A",
+     "title": "Additional requirements for Trading and Clearing broker",
+     "page": 32,
+     "text": [
+      "{fn:32-87}[ A Trading and Clearing broker shall comply with following additional requirements:",
+      ">(a) within three months of the grant of licence, it has -",
+      ">>(i) developed an operational model inter alia covering therein, transactions flow, manner of execution of transactions, roles and responsibilities of Trading and Clearing broker and customers, risk management parameters, default handing mechanism, dispute and grievance handing mechanism;",
+      ">>(ii) developed and implemented an automatic order routing mechanism;",
+      ">>(iii) employed personnel with sufficient education, experience and expertise to allow it to carry out its obligations in accordance with the applicable regulatory framework;",
+      ">>(iv) developed and implemented risk management system, internal control and policies and procedures to ensure effective compliance with the applicable regulatory framework;",
+      ">>(v) put in place infrastructure including but not limited to adequate office space, equipment and technical aspects including appropriate arrangement for clearing, settlement and custodian services, to effectively and efficiently discharge its responsibilities with capacity for ongoing maintenance of the same;",
+      ">>(vi) within six months of the grant of license it has submitted a report from an independent chartered accountant firm {fn:32-88}[appointed] {fn:32-89}[the list of approved auditors for Trading and Clearing Category as notified by the [Commission]] for appropriateness of controls and safeguards to ensure cyber security, access to confidential information and alteration, destruction, disclosure or dissemination of records and data;",
+      ">>(vii) it must put in place adequate internal controls, clearly documented policies and procedures and Chinese walls between its brokerage business and custodial services to Trading Only category securities brokers to manage conflict of interest and ensure confidentiality of trading and customer information of Trading Only category securities brokers;",
+      "(viii) ensure fair treatment of the Trading Only category securities brokers it is providing services to and not discriminate amongst them;",
+      ">>(ix) it must have documented business continuity plan including a disaster recovery site or shall develop the disaster recovery site within the time limit specified by the Commission;",
+      ">>(x) it shall continuously improve the quality and efficiency of its systems and procedures, including the attainment of relevant internationally recognized certifications;",
+      ">>(xi) it has put in place necessary controls and safeguards to ensure cyber security, access to confidential information and alteration, destruction, disclosure or dissemination of records and data;",
+      ">>(xii) it has put in place necessary arrangements for resolving disputes and redressal of grievances arising out of clearing and settlement of trades and custody of customer assets; and",
+      "(xiii) it must not solicit as customer any person who was within last two years a customer of the Trading Only Broker which has entered into arrangement with such Trading and Clearing Broker for custody and clearing services.",
+      "Provided that this condition shall not be applicable in the case of any person who was the customer of such Trading and Clearing Broker in the past.",
+      "The Commission may at any time inspect the above requirements.]"
+     ],
+     "fn": [
+      {
+       "n": "32-87",
+       "text": "Inserted vide SRO 77(I)/2020 dated February 3, 2020."
+      },
+      {
+       "n": "32-88",
+       "text": "Inserted vide SRO 416(I)2023."
+      },
+      {
+       "n": "32-89",
+       "text": "Substituted with the words “from category A of the panel of auditors maintained by the State Bank of Pakistan” vide SRO 416(I)/2023 dated March 29, 2023."
+      }
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Establishment of relationship with customer",
+     "page": 33,
+     "text": [
+      "(1) A securities broker shall not commence business with a customer [including acceptance of cash and securities from it] {fn:33-90} unless it has entered into an agreement with the customer, obtained acknowledgment of risk disclosure document, opened an account in the customer’s name and completed all other requirements as may be specified by the securities exchange, clearing house [and] {fn:33-91} central depository.",
+      "(2) A securities broker shall take reasonable steps to ensure that the identity, address and contact details of its customers are known and verified.",
+      "(3) A securities broker shall ensure that the information contained in the account opening form is updated, complete and correct and shall ensure that the mobile number and/or the email address of the customer is registered in the central depository’s and clearing company’s record as per the regulations of the central depository and the clearing company.",
+      "(4) A securities broker shall ensure maintenance of only true and correct information/particulars of its customers in the system and its records, and shall not change any detail provided by the customer in the official documents/records without prior approval of the customer and shall keep the record of such changes along with necessary documentary evidence.",
+      "(5) A securities broker shall hold in possession copies of documentation regarding the identity of customer and the identity of any representative of the customer.",
+      "(6) A securities broker must take reasonable care in evaluating that the customer has sufficient financial resources to settle the transactions the customer wishes to enter into."
+     ],
+     "fn": [
+      {
+       "n": "33-90",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "33-91",
+       "text": "Substituted for the words “or a” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Customers’ rights",
+     "page": 34,
+     "text": [
+      "(1) A securities broker shall not, in any written communication or agreement, seek to exclude or restrict:",
+      ">(a) any duty or liability to a customer which such customer has under any law or under any regulations made by the Commission;",
+      ">(b) any other duty to act with skill, care and diligence that is owed to a customer in connection with the provision of service as a securities broker; and",
+      ">(c) any liability owed to a customer for failure to exercise the degree of skill, care and diligence that may reasonably be expected of the securities broker in the provision of {fn:34-92}[their] service {fn:34-93}[].",
+      "(2) A purported exclusion or restriction prohibited by this regulation shall be void and of no effect."
+     ],
+     "fn": [
+      {
+       "n": "34-92",
+       "text": "Substituted for the word “the” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "34-93",
+       "text": "Deleted the words “of a regulated securities activity” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Execution of customer orders",
+     "page": 34,
+     "text": [
+      "(1) A securities broker shall not deal in securities {fn:34-94}[and/or futures contracts based on securities] on account of a customer without instructions of such customer.",
+      "(2) A securities broker shall take reasonable measures to execute the orders placed by the customers on the most advantageous terms as expeditiously as practical in the prevailing market conditions and a securities broker shall ensure that the use of negotiated deals market is properly justified.",
+      "(3) A securities broker shall always give priority to outstanding customer orders.",
+      "(4) All orders to buy or sell securities {fn:34-95} [and/or futures contracts based on securities] which a securities broker may receive shall be entered, in the chronological order, in a register to be maintained in a form which shows the name, trading code and UIN of the person who placed the order, the name and number of the securities {fn:34-96}[and/or futures contracts based on securities] to be bought or sold, the nature of the transaction and the limitation, if any, as to the price of the securities {fn:34-97}[and/or futures contracts based on securities] or the period for which the order is to be valid.",
+      "(5) The chronological register to be maintained under sub-regulation (4) may be maintained in electronic form including the logs generated from the system and telephone recording."
+     ],
+     "fn": [
+      {
+       "n": "34-94",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "34-95",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "34-96",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "34-97",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Order recording",
+     "page": 34,
+     "text": [
+      "(1) A securities broker shall ensure that all orders placed by customers through telephone are recorded over dedicated telephone lines and ensure that:",
+      ">(a) all telephone lines to be used by its employees {fn:34-98}[] who are responsible for taking and confirming orders, executing contracts, transferring funds, or",
+      "carrying out instructions incidental thereto, shall be routed through a centralized call recording system; and",
+      ">(b) all lines of communication are regularly tested to ensure ongoing proper functioning.",
+      "(2) A securities broker shall ensure that all orders received in-person from visiting customers are adequately recorded and acknowledgement is obtained from the customers.",
+      "(3) A securities broker shall ensure that it has preserved all records pertaining to all orders received from customers in writing or through any other document, fax, email, or through any other means."
+     ],
+     "fn": [
+      {
+       "n": "34-98",
+       "text": "Deleted the words “and accredited representatives” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Contract notes",
+     "page": 35,
+     "text": [
+      "(1) A securities broker shall, in respect of every contract for the purchase, sale or exchange of securities {fn:35-99}[and/or futures contracts based on securities] entered into by such securities broker, not later than the start of the next trading day after the contract was entered into, make out a contract note in accordance with sub-regulations (2) and",
+      "(3) and deliver it to the customer through a verifiable mode of communication and such securities broker shall retain proof of sending the contract notes to the customers.",
+      "(2) The contract notes shall be numbered with unique running serial numbers.",
+      "(3) The contract note shall state the nature of the transaction and shall include:",
+      ">(a) the name and licence number of the securities broker and the address of the principal place at which it carries on its business;",
+      ">(b) the name and address of the customer along with customer’s account number;",
+      ">(c) the name of the securities exchange on which the transaction is made;",
+      ">(d) the date on which the transaction is executed, the settlement date, the date the contract note is made out and unique number of the contract note;",
+      ">(e) the quantity and description of the securities {fn:35-100}[and/or futures contracts based on securities] transacted;",
+      ">(f) the unit price and total consideration;",
+      ">(g) type and market of the transaction;",
+      ">(h) the amount of consideration payable under the contract or, in the case of exchange of securities, sufficient particulars of the securities exchanged to identify them;",
+      ">(i) the rate or amount of the commission, ancillary charges, statutory and regulatory levies charged or payable for the transaction;",
+      ">(j) a statement stating that the transaction in the contract note shall be subject to the regulations of the securities exchange and/or the clearing house;",
+      ">(k) name of the authorized person of the securities broker, his/her telephone number and email address.; and",
+      ">(l) such other information as may be specified by the Commission from time to time.",
+      "(4) A contract note may contain the particulars of more than one transaction which have been transacted during one market day in relation to a customer."
+     ],
+     "fn": [
+      {
+       "n": "35-99",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "35-100",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Electronic contract notes",
+     "page": 36,
+     "text": [
+      "(1) A contract note that is issued by the securities broker may be in electronic form subject to authorization by the customer in writing.",
+      "(2) The electronic contract note shall be issued to the customer on the email address provided by such customer in writing and any change in the email address must be communicated by the customer to the securities broker in writing under signature and such securities broker must retain record of the same.",
+      "(3) The acknowledgment of the email sent to the customer shall be retained by the securities broker in soft and non-alterable form.",
+      "(4) The proof of delivery i.e., log report generated by the system at the time of sending the contract notes shall be maintained by the securities broker.",
+      "(5) The log report shall also provide the details of the contract notes that are not delivered to the customer’s e-mails or are rejected or bounced back.",
+      "(6) Wherever the electronic contract notes have not been delivered to the customer or have been rejected (bouncing of mails), the securities broker shall send a physical contract note to the customer within the timeline specified under regulation 21."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Segregation of customer money",
+     "page": 36,
+     "text": [
+      "(1) Customer money shall not form part of the assets of the securities broker for any purpose and shall not be available in any circumstances for payment of any debt or liability of the securities broker.",
+      "(2) A securities broker shall not use customer money for any purpose other than as allowed under the Act {fn:36-101}[and/or the Futures Act] or any rules or regulations made thereunder.",
+      "(3) A securities broker who receives or holds customer money shall open one or more designated bank accounts with a scheduled bank in Pakistan for such purpose and the title of the account shall reflect the same.",
+      "(4) A designated customer bank account shall be kept segregated from any account holding money belonging to the securities broker.",
+      "(5) A securities broker shall forthwith deposit into a designated bank account for the customers all customer money coming into the securities broker’s hands from a customer.",
+      "(6) A securities broker shall keep records of:",
+      ">(a) all amounts deposited into the designated bank account(s), specifying the customers on whose behalf the amounts are held and the dates on which the amounts were received;",
+      ">(b) all payments from the designated bank account(s), the dates of those payments, and the names of the customers on whose behalf the payments are made; and",
+      ">(c) such other particulars as may be specified by the Commission.",
+      "(7) No amount from customer bank account(s) shall be withdrawn in cash and all payments shall be made through cross cheques or other banking channels and where payment is made through cross cheques, the securities broker shall keep copy of the cheques issued for the purposes of record."
+     ],
+     "fn": [
+      {
+       "n": "36-101",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Accounting for and use of customer money",
+     "page": 37,
+     "text": [
+      "(1) A securities broker shall properly account for customer money and ensure that, –",
+      ">(a) customer money is not mixed with other money;",
+      ">(b) a securities broker can at all times calculate how much customer money stands to the credit of each customer; and",
+      ">(c) money belonging to one customer is not used for another customer.",
+      "(2) A securities broker shall not withdraw money received and deposited in the designated bank account otherwise than for the purpose of, –",
+      ">(a) making a payment to a person entitled to the money;",
+      ">(b) meeting obligations emanating from dealing in securities effected by the securities broker on the instructions of a customer;",
+      ">(c) defraying brokerage and other charges or levies incurred in respect of dealing in securities {fn:37-102}[and/or futures contracts based on securities] effected by the securities broker on the instructions of a customer; or",
+      ">(d) making a payment that is otherwise authorized by law."
+     ],
+     "fn": [
+      {
+       "n": "37-102",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Segregation of other customer assets",
+     "page": 37,
+     "text": [
+      "(1) All customer assets (other than customer money) held or received by a securities broker on account of a customer in connection with any trading in securities {fn:37-103}[and/or future contracts based on securities] shall be segregated and separately accounted for.",
+      "(2) A securities broker shall at all times keep such books as is necessary:",
+      ">(a) to show all handling of a customer’s assets including relevant dates; and",
+      ">(b) to distinguish such customer assets held or received by it on account of each separate customer and to distinguish such customer assets from its own assets and other assets held or received by the securities broker.",
+      "(3) A securities broker licensed under {fn:37-104} [these regulations] shall maintain a separate sub-account under its participant account in the CDS for each of its customers to maintain the custody of all securities belonging to the customer including margins deposited by the customer.",
+      "(4) A complete audit trail of the transactions pertaining to customer’s assets is to be maintained by the securities broker."
+     ],
+     "fn": [
+      {
+       "n": "37-103",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "37-104",
+       "text": "Substituted for the words “the Trading and Self Clearing category or Trading and Clearing category” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Periodic reporting to the customer",
+     "page": 37,
+     "text": [
+      "(1) A securities broker shall, on quarterly basis or on any other periodic basis as may be specified by the securities exchange and/or the Commission, furnish to the customer reports containing information regarding handling of securities {fn:38-105}[, futures contracts based on securities], receipts and payments and the holding balances of customer’s assets.",
+      "(2) A securities broker shall promptly provide to a customer any report or information pertaining to the account of such customer as and when requested by the customer."
+     ],
+     "fn": [
+      {
+       "n": "38-105",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Customer Complaints",
+     "page": 38,
+     "text": [
+      "(1) A securities broker shall have internal procedures to ensure the proper handling of complaints received from customers and to ensure that appropriate remedial action on those complaints is promptly taken.",
+      "(2) A securities broker shall take all reasonable measures to redress customers’ grievances promptly but not later than thirty days of receipt thereof and when called upon by the Commission or the securities exchange or any other regulatory body to do so it shall redress the grievances of customers within the time specified.",
+      "(3) A securities broker shall maintain records regarding customers’ grievances received by it and redressal of such grievances.",
+      "(4) A securities broker shall at the end of each quarter submit information about the number of customer grievances received, redressed and those remaining unresolved beyond three months of the receipt to the securities exchange along with the reasons thereof for delay."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Proprietary trading",
+     "page": 38,
+     "text": [
+      "(1) The proprietary trades of a securities broker shall be executed through designated terminals and by designated system operator(s).",
+      "(2) A securities broker shall formulate procedures and controls for execution of proprietary trades in terms of secrecy and preventing trading ahead of outstanding orders of customers, and shall identify the persons who are authorized to operate the proprietary trading account."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Appointment and functions of Compliance Officer",
+     "page": 38,
+     "text": [
+      "(1) A securities broker shall, as applicable, either designate or appoint a whole-time compliance officer, fulfilling the fit and proper criteria specified in these regulations and responsible for monitoring compliance of the securities broker with the applicable regulatory regime.",
+      "{fn:38-106}[(2) The compliance officer shall also be responsible for ensuring compliance with and performing functions pertaining to the segregation and safekeeping of customer assets.]",
+      "(3) The compliance officer shall immediately report any non-compliance with any requirement to the securities broker and the securities broker shall immediately take steps to ensure compliance with the regulatory regime.",
+      "(4) Where the securities broker fails to take steps as required under sub-regulation (3) the compliance officer shall immediately inform the securities exchange and the Commission of the non-compliance by the securities broker.",
+      "(5) The compliance officer shall prepare monthly compliance reports which shall be submitted to the board of directors of the securities broker."
+     ],
+     "fn": [
+      {
+       "n": "38-106",
+       "text": "Substituted for the following words under SRO 77(I)/2018 dated January 29, 2018: “(2) In case of a securities broker licensed under the Trading and Self-Clearing or Trading and Clearing categories, the compliance officer shall also be responsible for ensuring compliance with and performing functions pertaining to the segregation and safekeeping of customer assets as specified in clause (e) of sub-regulation (12) of regulation 16.”"
+      }
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Short selling by a securities broker",
+     "page": 38,
+     "text": [
+      "(1) A securities broker may short sell securities for its own account or for the customers’ accounts, in accordance with these regulations and the conditions specified by the securities exchange.",
+      "(2) A securities broker engaging in short selling transaction on account of a customer shall ensure that such customer is aware of the risks involved and has the financial capacity to assume such risks.",
+      "(3) A securities broker shall establish internal guidelines for short selling prior to conducting short selling transactions providing therein procedures for the supervision and monitoring of short selling activities by the securities broker, to ensure compliance with these regulations and conditions specified by the securities exchange.",
+      "(4) Short sale will only be permissible on uptick or zero-plus tick:",
+      "Provided that short sale may be allowed without up-tick or zero-plus tick up to the following extent:",
+      ">(a) a UIN will be allowed to make short sale to the maximum extent of 2% of average daily turnover of the respective security of previous one month;",
+      ">(b) a securities broker for all its proprietary and customer positions will be allowed to make short sale to the maximum extent of 4% of average daily turnover of the respective security in the previous one month;",
+      ">(c) all securities brokers on cumulative basis will be allowed to make short sale to the maximum extent of 40% of average daily turnover of the respective security in the previous one month:",
+      "Provided that the provisions of the first proviso shall not be available in the following cases:",
+      ">>(i) when the price of a security declines up to 2.5% from the closing price of the previous day, the exemptions shall not be available for the remainder of the day;",
+      ">>(ii) when lower circuit breaker, becomes applicable on the closing price of a security, the exemptions shall not be available for the next two working days;",
+      ">>(iii) when lower circuit breaker, becomes applicable on the closing price of a security consecutively for five working days, the exemptions shall not be available for next fifteen working days after the fifth working day.",
+      "{fn:39-107}[(5) No securities broker shall make a blank sale either for its own account or for the customers’ accounts except in the manner and to such extent as provided for within the regulations of the securities exchange.]"
+     ],
+     "fn": [
+      {
+       "n": "39-107",
+       "text": "Substituted the following words under SRO 1333(I)/2019 dated November 6, 2019: “(5) No securities broker shall make a blank sale either for its own account or for the customers’ accounts.”"
+      }
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Restrictions on Short Selling",
+     "page": 39,
+     "text": [
+      "(1) Where the price of a security on a trading platform has fallen significantly during a single trading day in relation to the closing price of that security on that trading platform on the previous trading day, the Commission may prohibit or restrict securities brokers from engaging in short selling in that security.",
+      "(2) A securities broker must declare short sales while placing the order in the trading system in the manner and procedure as may be specified by the securities exchange from time to time. The securities exchange, shall disclose the cumulative figures of short sales for public consumption at the close of market every day in accordance with its procedures."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Accounting And Audit",
+   "sections": [
+    {
+     "no": "32",
+     "title": "General",
+     "page": 40,
+     "text": [
+      "(1) The obligations and duties of a securities broker under these regulations with respect to audit and accounts are in addition to the requirements of the {fn:40-108}[Companies Act], the rules and regulations made thereunder and any directives issued thereunder.",
+      "(2) A securities broker may prepare financial statements on trade date or settlement date basis and accordingly account for income, assets and liabilities:",
+      "Provided that the securities broker shall disclose the said basis in its financial statements and shall not change the said basis during a financial year."
+     ],
+     "fn": [
+      {
+       "n": "40-108",
+       "text": "Substituted for the word “Ordinance” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Maintenance of books of accounts and other records",
+     "page": 40,
+     "text": [
+      "(1) A securities broker shall keep accounting and other records which shall sufficiently explain its business and transactions entered into (whether effected on its own behalf or on behalf of customers) and the financial position of the securities broker, and shall be such as to:",
+      ">(a) disclose with accuracy the financial position at that time;",
+      ">(b) enable the securities broker to prepare financial statements at any time and which comply with the requirements of law; and",
+      ">(c) demonstrate whether the securities broker is maintaining in its regulated securities activity has adequate financial resources to meet its business commitments.",
+      "(2) A securities broker shall ensure that all books and records with respect to accounting and audit under these regulations are updated in a timely manner.",
+      "(3) A securities broker shall ensure that information which is required to be recorded under the Act {fn:40-109}[and/or the Futures Act] and these regulations shall be recorded in such a way as to enable a particular transaction to be identified at any time and traced from initiation of the order to final settlement.",
+      "(4) All records required to be maintained under the Act {fn:40-110}[and/or the Futures Act] and these regulations including records maintained in electronic form shall be recorded, arranged, filed, indexed and cross-referenced so as to permit prompt access to any particular record.",
+      "(5) A securities broker shall prepare and maintain books of accounts and other documents in a manner that will disclose a true, accurate and up-to-date position of business, including but not limited to:-",
+      ">(a) record of all assets and liabilities of the securities broker including any commitments or contingent liabilities;",
+      ">(b) journal (or other comparable record), cash book and any other books of original entry, forming the basis of entries into any ledger, the books of original entry which contain a daily record of all orders for purchase or sale of securities {fn:41-111}[and/or futures contracts based on securities], all purchases and sales of securities, all receipts and deliveries of securities and all other debits and credits;",
+      ">(c) ledgers (or other comparable records) reflecting asset, liability, reserve, capital, income and expense accounts;",
+      ">(d) ledgers (or other comparable records) reflecting securities in transfer, securities borrowed and securities loaned and securities bought or sold;",
+      ">(e) record of all balance of all ledger accounts in the form of trial balances;",
+      ">(f) daily entries of all customer money which is deposited into or out of a designated bank account, where applicable;",
+      ">(g) record of transactions with the banks and the aggregate balances on designated bank accounts;",
+      ">(h) contract books showing details of all contracts entered into by the securities broker;",
+      ">(i) documents relating to opening of trading account of a customer with the securities broker;",
+      ">(j) documents relating to opening of the sub-account of the customers with the central depository, where applicable;",
+      ">(k) documents of sub-account holders as per requirements of the central depository, where applicable;",
+      ">(l) record of individual customers balances stating the name of each customer and the amount held or received for that customer;",
+      ">(m) record of the time, date and complete particulars of instructions received from and trades executed for customers;",
+      ">(n) counterfoils or copies of the contract notes issued to the customers;",
+      ">(o) margin deposit book;",
+      "{fn:41-112}[Omitted]",
+      ">(r) record of pledging or arranging for the pledging of any security carried for the account of any customer, where applicable;",
+      ">(s) record of extension or maintenance of credit or arranging for the extension or maintenance of credit to the customers for the purpose of purchasing or carrying any securities;",
+      ">(t) record of borrowings on any securities or lending or arranging for the lending of any securities carried for the account of the customer;",
+      ">(u) daily record of all purchases and sales of securities {fn:42-113}[and/or futures contracts based on securities] by the securities broker distinguishing those which are made by the securities broker on his own account and those which are made by him on behalf of others;",
+      ">(v) record of establishment of branch offices within or outside the premises of the securities exchange with the following information, namely: -",
+      "i. location of the branch offices;",
+      "ii. intimation to the securities exchange of such offices;",
+      "iii. details of trading terminals installed at the branch offices;",
+      "iv. status of the person authorized to manage the branch office;",
+      "v. proof of business being done at the branch office in the name of the securities broker;",
+      "{fn:42-114}[Omitted]",
+      "vii. proof of maintenance of the branch offices’ bank accounts in the name of the securities broker;",
+      "viii. proof of proper maintenance of accounts of the customers at the branch offices; and",
+      "ix. any other documents and records required to be maintained under regulations made by the securities exchange; and",
+      ">(w) all customer related record.",
+      "(6) A securities broker shall intimate to the securities exchange and the Commission the place where the books of accounts, records and documents are maintained.",
+      "(7) A securities broker shall maintain separate books of accounts for:",
+      ">>(i) money received from or on account of and money paid to or on account of each of its customer; and",
+      ">>(ii) the money received and the money paid on a securities broker {fn:42-115}[] or an associated person's own account."
+     ],
+     "fn": [
+      {
+       "n": "40-109",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018."
+      },
+      {
+       "n": "40-110",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018."
+      },
+      {
+       "n": "41-111",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018."
+      },
+      {
+       "n": "41-112",
+       "text": "Deleted the following words under SRO 77(I)/2018 dated January 29, 2018: “(p) registers of accounts of accredited representatives; (q) an agreement with an accredited representative specifying the scope of authority and responsibilities of the securities broker and accredited representative;”"
+      },
+      {
+       "n": "42-113",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "42-114",
+       "text": "Deleted the words “vi. authority given to the accredited representative to perform all acts on behalf of the securities broker;” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "42-115",
+       "text": "Deleted the words “, accredited representative” vide SRO 77(I)/2018 dated January 29, 2018"
+      }
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Preparation and submission of financial statements",
+     "page": 42,
+     "text": [
+      "(1) A securities broker shall prepare financial statements for each quarter, half year and for each financial year. The financial statements of the securities broker shall be prepared in compliance with the requirements of the {fn:42-116}[Companies Act] including conformity with the accounting standards as directed by the Commission.",
+      "(2) A securities broker must also disclose in its financial statements the following-",
+      ">(a) customer assets held in the designated bank account or in the central depository system;",
+      ">(b) total value of pledged securities with financial institutions indicating separately securities belonging to customers; {fn:43-117}[Omitted]",
+      ">(d) income from dividends;",
+      ">(e) pattern of shareholding, giving names of persons holding more than 5% shares;",
+      ">(f) all changes in shareholding above 5%;",
+      ">(g) treatment of amount receivable from customers {fn:43-118}[including aging analysis thereof]; {fn:43-119}[Omitted]",
+      ">{fn:43-120}[(h) amount of net capital balance and its computation in the manner specified in Schedule II.]",
+      "(3) A securities broker shall submit, within four months after the end of each financial year, its annual financial statements to the Commission along with its audit report."
+     ],
+     "fn": [
+      {
+       "n": "42-116",
+       "text": "Substituted for the word “Ordinance” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "43-117",
+       "text": "Deleted the words “(c) turnover during the period, separately showing turnover from proprietary trades, retail customers and institutional customers;” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "43-118",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "43-119",
+       "text": "Deleted the words “(h) aging analysis of amount due from customers; (i) in the case of amount receivable for more than five (5) days provision should be made to the extent by which the amount receivable exceeds the collateral held from such customer after applying haircuts; (ii) in the case of collateral in the form of listed shares, haircuts shall be applied on the basis of VAR as notified by the securities exchange or clearing house; (iii) in the case of collateral in the form of other securities, guidelines issued by the Commission or the securities exchange from time to time shall be followed.” Vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "43-120",
+       "text": "Inserted under SRO 1333(I)/2019 dated November 6, 2019."
+      }
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Appointment of auditor and related matters",
+     "page": 43,
+     "text": [
+      "{fn:43-121}[ (1) A securities broker shall ensure that the auditor appointed has inter-alia the powers and duties specified under subregulation 3 and-",
+      ">(a) those powers and duties are set out in an engagement letter;",
+      ">(b) the engagement letter is signed by the securities broker and the auditor; and",
+      ">(c) the securities broker retains a copy of the engagement letter.",
+      "(2) A securities broker shall, within seven days, give written notice to the Commission of the appointment, removal or resignation of an auditor.",
+      "(3) The auditor appointed by a securities broker shall have the right to, –",
+      ">(a) access the accounting and other records of the securities broker and all other documents relating to its business including the documents the securities broker is required to maintain under the Act and/or the Futures Act and these regulations; and",
+      ">(b) require from the securities broker such information and explanations as the auditor considers necessary for the performance of duties.",
+      "(4) In preparing an audit report, the auditor shall carry out such investigations as will enable him to form an opinion as to the matters required by sub-regulation 5 to be stated in the auditor’s report.",
+      "(5) The audit report shall state all the matters as are required to be stated in accordance with the requirements of the Companies Act and where applicable, must state additionally an opinion as to whether the securities broker was in compliance with the requirements of section 78 of the Act and/or section 62 of the Futures Act, and the relevant requirement of these regulations as at the date on which the balance sheet was prepared {fn:44-122}[:",
+      "“Provided that the above additional requirement of compliance with section 78 of the Act shall not be applicable on Online Only Broker and on Trading Only brokers who have completely transferred custody of assets to Professional Clearing Member or Trading and Clearing broker.”;] {fn:44-123}[]",
+      "(7) If the auditor is of the opinion that one or more of the requirements of subregulation 5 have not been met, such opinion shall be stated in the report and the relevant requirements which they have not been met shall be specified.",
+      "(8) Where an auditor resigns or is removed by the securities broker, a notice to that effect shall be sent to the Commission containing a statement signed by the auditor to the effect that there are no circumstances connected with his resignation or removal which the auditor considers should be brought to the attention of the Commission:",
+      "Provided that where the auditor is removed during their tenure, the securities broker shall appoint the auditor with prior approval of the Commission.]"
+     ],
+     "fn": [
+      {
+       "n": "43-121",
+       "text": "Substituted for the following words under SRO 77(I)/2018 dated January 29, 2018: “35. Appointment of auditor and related matters. - (1) A securities broker shall ensure that the auditor appointed has inter-alia the powers and duties specified under sub-regulation 3 and- (a) those powers and duties are set out in an engagement letter; (b) the engagement letter is signed by the securities broker and the auditor; and (c) the securities broker retains a copy of the engagement letter. (2) A securities broker shall, within seven days, give written notice to the Commission of the appointment, removal or resignation of an auditor. (3) The auditor appointed by a securities broker shall have the right to, – (a) access the accounting and other records of the securities broker and all other documents relating to its business including the documents the securities broker is required to maintain under the Act and these regulations; and (b) require from the securities broker such information and explanations as the auditor considers necessary for the performance of duties. (4) In preparing an audit report, the auditor shall carry out such investigations as will enable him to form an opinion as to the matters required by sub-regulation 5 to be stated in the auditor’s report. (5) The audit report shall state all the matters as are required to be stated in accordance with the requirements of the Ordinance and where applicable, must state additionally whether in the opinion of the auditor: (a) the securities broker has maintained throughout the financial year systems adequate to enable the auditor to identify with reasonable accuracy the assets held on behalf of customer and distinguish such assets from the proprietary assets of the securities broker; (b) the securities broker was in compliance with the requirements of section 78 of the Act and the relevant requirement of these regulations as at the date on which the balance sheet was prepared; (c) an adequate internal control system and compliance function commensurate with the size and nature of services performed by the securities broker was implemented during the period; and (d) the compliance officer performed its functions with efficiency during the year. (6) If the auditor is of the opinion that one or more of the requirements of sub-regulation 5 have not been met, such opinion shall be stated in the report and the relevant requirements which they have not been met shall be specified. (7) Where an auditor resigns or is removed by the securities broker, a notice to that effect shall be sent to the Commission containing a statement signed by the auditor to the effect that there are no circumstances connected with his resignation or removal which the auditor considers should be brought to the attention of the Commission.”"
+      },
+      {
+       "n": "44-122",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022."
+      },
+      {
+       "n": "44-123",
+       "text": "Omitted under SRO 1333(I)/2019 dated November 6, 2019. The omitted sub-section read as: “(6) The auditor shall also make out a limited assurance report of the securities broker stating whether, during the period, the securities broker has, in all material respects: (a) maintained systems and controls adequate to identify with reasonable accuracy the assets held on behalf of customer and distinguish such assets from the proprietary assets of the securities broker; (b) implemented an adequate internal control system and compliance function commensurate with the size and nature of services performed by the securities broker; and (c) established a compliance function which performed its functions with efficiency.”"
+      }
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Submission of information and returns",
+     "page": 44,
+     "text": [
+      "(1) The Commission may by written notice require a securities broker to submit to the Commission such information or periodic returns as it may require.",
+      "(2) In addition to any periodic returns required under sub-regulation (1), the Commission may by written notice require securities broker, either generally or in a particular case or class of cases, to submit to the Commission such other information or exceptional returns as it may require.",
+      "{fn:45-124} [Omitted]"
+     ],
+     "fn": [
+      {
+       "n": "45-124",
+       "text": "Omitted regulation 37 vide SRO 360(I)/2023 dated March 14, 2023. The omitted regulation is reproduced below."
+      }
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Repeal and savings",
+     "page": 45,
+     "text": [
+      "{fn:45-125}[ (1) The Securities and Exchange Rules, 1971, the Brokers and Agents Registration Rules, 2001, the Members Agents and Traders (Eligibility Standards) Rules, 2001 and Stock Exchange Members (Inspection of Books and Record) Rules, 2001 hereinafter referred to as repealed rules are hereby repealed.",
+      "(2) Anything done, actions taken, orders passed, registration granted, notifications issued, proceedings initiated and instituted, prosecutions filed, processes or communications issued and powers conferred, assumed or exercised by the Commission under the repealed rules referred in sub-regulation (1), shall, on the coming into operation of these amended regulations, be deemed to have been validly done, taken, passed, granted, issued, initiated or instituted, filed, conferred, assumed and exercised and every action, prosecution or proceeding instituted and every order, directive, notification, circular etc. issued by the Commission shall be deemed to have been initiated, instituted or issued under these regulations and shall be proceeded with to completion and be enforced and have effect accordingly.] *** {fn:45-126}[FORM A-1] [see regulation 3A (1)] APPLICATION FOR PRIOR-PERMISSION TO UNDERTAKE SECURITIES BROKER ACTIVITY",
+      "Dated: _______________ To",
+      "The Securities and Exchange Commission of Pakistan, Islamabad.",
+      "Dear Sir,",
+      "We hereby apply for grant of permission under regulation 3A of the Securities Brokers (Licensing and Operations) Regulation, 2016, to form a Securities Broker Company under the name and style of * ---------------------------------------------",
+      "The information and documents as required in the Annexure A to this form duly verified and signed by all sponsors and proposed directors along with an affidavit by them as to the correctness of the details is submitted.",
+      "We undertake to keep this information up to date by communicating changes or modifications therein within fourteen days of such changes or modifications.",
+      "A receipt of rupees [(Rs._________)] being the processing fee, deposited in------------ on ---",
+      "-------------------is enclosed.",
+      "Yours faithfully,",
+      "-----------------------Verification by Oath Commissioner Name of the Company Form A",
+      "FORM OF APPLICATION FOR LICENCE AS A SECURITIES BROKER [see regulation 5(1) {fn:47-127}[and 5A]]",
+      "To The Securities and Exchange Commission of Pakistan, Islamabad. Dear Sir,",
+      "1. We .... (Name of the company) ... hereby apply for licence of securities broker {fn:47-128}[] {fn:47-129}[under the … Trading Only/ {fn:47-130}[Online Only/] Trading and Self-Clearing/ Trading and Clearing…. Category] under section 68 of the Securities Act, 2015 {fn:47-131}[and/or section 51 of the Futures Market Act, 2016].",
+      "2. Certified true copies of all the documents specified in Annexure A of the Securities Brokers (Licensing and Operations) Regulations, 2016 are enclosed.",
+      "3. Original receipt of the bank for the fee of Rs.............................being the licensing fee is enclosed.",
+      "{fn:47-132}[4. We are interested in offering the following additional services and hereby apply for the requisite licenses (tick the appropriate box(es)): 󠆶 Securities and futures advisor {fn:47-133}[*] 󠆶 Consultant to the issue 󠆶 Underwriter]",
+      "Yours faithfully, Signature of the Chief Executive",
+      "{fn:47-134}[*Online Only broker may only apply for license of Securities and futures advisor.]",
+      "{fn:48-135}[Annexure A-I] [see regulation 3A (1)]",
+      "INFORMATION TO BE SUPPLIED TO UNDERTAKE SECURITIES BROKER ACTIVITY",
+      "1. Full name, former name if any, father’s or husband’s name, nationality, residential and business address, national tax number, present occupation of each sponsor, proposed director, proposed chief executive and proposed chairman of the Board. (Institutional sponsors shall mention their names and addresses only instead of giving all these particulars of their nominee directors). 2. Names and addresses of companies, firms and other organizations of which the aforesaid sponsors, proposed chief executive and proposed chairman are or have been directors, partners or office holders during the last ten years. 3. Financial standing, educational as well as professional qualifications and experience of persons mentioned in paragraph 1 above, supported by documentary evidence. 4. Percentage of capital, each sponsor proposes to contribute in the proposed company. 5. Feasibility report of the proposed company. 6. Names of the bankers of the sponsors’ along with their account numbers. 7. Draft of the Memorandum and Articles of Association. 8. Affidavit from each person mentioned in paragraph 1 above, stating that-",
+      "a) he has not been associated with any illegal banking business, deposit taking or financial dealings; b) he and companies in which he is a director or substantial shareholder have no overdue loans or installments outstanding towards banks or other financial institutions; c) neither he nor companies in which he is a director or substantial shareholder has defaulted in paying taxes as on the date of application; d) he has not been promotors or sponsor, director or chief executive of a defaulting cooperative finance society or finance company; e) he has never been convicted of fraud or breach of trust or of an offence involving moral turpitude or removed from service for misconduct; f) he has neither been adjudged an insolvent nor has defaulted in making payments, to his creditors.",
+      "Annexure A Information and Documents to be provided along with application for licence as a securities broker",
+      "1. General and business information:",
+      "1.1. Brief history of the applicant containing at least name of the applicant, date and place of its incorporation, date of commencement of business, names and contact details of sponsors, directors and senior management officers including group structure, if any, and length of experience as securities broker, if any.",
+      "1.2. Address of the registered office of the applicant (postal address, postal code and telephone, fax numbers.)",
+      "1.3. Mailing address of the applicant (postal address, postal code, telephone number, fax numbers and e-mail address of the concerned officer of the applicant.)",
+      "1.4. Percentage of capital, each sponsor proposes to contribute in the company.",
+      "1.5. Name of the securities exchange of which the applicant is a TRE certificate holder, along-with the TRE Certificate number.",
+      "1.6 Details of outstanding legal proceedings, if any, initiated against the applicant, its directors or senior management officers by the Commission or any other regulatory authority.",
+      "1.7 Details in case the applicant, its sponsors, directors, major shareholders or senior management officers have been declared insolvent or bankrupt, or declared defaulter by any authority.",
+      "1.8 Details of penal actions, if any, taken against the applicant, its sponsors, directors, major shareholders or senior management officers during the last three years by the Commission or any other regulatory authority.",
+      "1.9 In case any associated company of the applicant is already licensed under the Securities Act, 2015 {fn:49-136}[and/or the Futures Market Act, 2016], the following details shall be provided, namely: -",
+      ">>(i) name of such associated company;",
+      ">>(ii) details of warning notices, if any, issued to such associated company by the Commission;",
+      ">>(iii) details of legal proceedings, if any, initiated against such associated company by the Commission or any other regulatory authority; and",
+      ">>(iv) penal action, if any, taken against such associated company by the Commission during the last three years.",
+      "2. Details of infrastructural facilities (to be used for performing the functions of a securities broker):",
+      "2.1 Computer systems installed:",
+      ">(a) hardware configurations; and",
+      ">(b) software used",
+      "2.2 Data processing capacity:",
+      ">(a) available infrastructure (computers and other electronic equipment used for data processing and communication);",
+      ">(b) available manpower; and",
+      ">(c) office space (mention extent of area in square feet available)",
+      "3. Other information:",
+      "3.1 Details as per following format of all pending disputes in which the applicant is a party:",
+      "a) Name of the party",
+      "b) Name and place of court/tribunal where dispute is pending",
+      "c) Amount involved",
+      "d) Pending since e) Date of last hearing",
+      "f) Decision at last hearing",
+      "3.2 List of civil and criminal offenses in which the applicant or any of its sponsors, directors or senior management officer has remained involved during the last three years.",
+      "3.3 Any other information considered relevant to the business of the securities brokers.",
+      "3.4 Any significant awards or recognition, collective grievances against the applicant.",
+      "4. List of documents to be provided along with application:",
+      "4.1 Copy of memorandum and articles of association of the applicant duly certified from the concerned company registration office (CRO) containing copy of the certificate of incorporation {fn:50-137}[], duly certified from the CRO concerned.",
+      "4.2 Copy of Forms 3, 27, 28 and 29 of the applicant duly certified from the CRO concerned.",
+      "4.3 Audited accounts for the last three years and latest half yearly and quarterly accounts, where applicable.",
+      "4.4 Copies of documents evidencing compliance with the financial resource requirements specified in the Securities Brokers (Licensing and Operations) Regulations, 2016.",
+      "4.5 Profile/Fit and Proper related documents pertaining to the applicant, its sponsors, senior management officers and directors along-with details such as name, qualification, experience and date of appointment, directorship in other companies, names of such other companies and date of appointment as director in such other companies.",
+      "4.6 An undertaking from the sponsors of the applicant that they will not sell or transfer their shares {fn:50-138}[to other than existing identified sponsors] without prior written approval of the securities exchange and the Commission. 4.7 An undertaking from the directors of sponsoring company and the applicant that they will inform the Commission in case of any change in the sponsors/majority shareholders of the sponsoring company.",
+      "4.8 An undertaking that the securities broker, its directors, sponsors, senior management officers are in compliance with all the requirements for grant of a licence under the Securities Brokers (Licensing and Operations) Regulations, 2016.",
+      "4.9 Names and addresses of and particulars of any business carried on by each person holding an interest of 10% or more in the issued share capital of the securities broker.",
+      "4.10 The pattern of shareholding, identifying separately the sponsors and shares held by the sponsors",
+      "4.11 Bank details of the securities broker.",
+      "4.12 Details of the affiliation and outsourcing contracts, if any. {fn:50-139}[4.12A Entity rating of the applicant, where applicable.",
+      "4.12B Broker Fiduciary Rating of the applicant, as may be applicable.",
+      "4.12C Name of statutory auditor of the applicant.]",
+      "4.13 Any other information/document as required by the Commission.",
+      "Note: In case any of the above documents/information has already been submitted to the Commission, the applicant may only provide an undertaking that there is no change in the earlier submitted document/information."
+     ],
+     "fn": [
+      {
+       "n": "45-125",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "45-126",
+       "text": "Inserted vide SRO 1914(I)/2022 dated October 14, 2022"
+      },
+      {
+       "n": "47-127",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022."
+      },
+      {
+       "n": "47-128",
+       "text": "Deleted the words “under the …. Trading Only/Trading and Self-Clearing/Trading and Clearing…. Category” vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "47-129",
+       "text": "Inserted vide SRO 77(I)/2020 dated February 3, 2020."
+      },
+      {
+       "n": "47-130",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022."
+      },
+      {
+       "n": "47-131",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "47-132",
+       "text": "Inserted vide SRO 77(I)/2020 dated February 3, 2020."
+      },
+      {
+       "n": "47-133",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022."
+      },
+      {
+       "n": "47-134",
+       "text": "Inserted vide SRO 808(I)/2022 dated June 15, 2022. Inserted vide SRO 1914(I)/2022 dated October 14, 2022"
+      },
+      {
+       "n": "49-136",
+       "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+      },
+      {
+       "n": "50-137",
+       "text": "Omitted the word “and that of the certificate of commencement of business” under SRO 1333(I)/2019 dated November 6, 2019."
+      },
+      {
+       "n": "50-138",
+       "text": "Inserted vide SRO 301(I)/2022 dated February 23, 2022."
+      },
+      {
+       "n": "50-139",
+       "text": "Inserted vide SRO 77(I)/2020 dated February 3, 2020."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Read by machine from SECP's consolidated PDF (updated as of 8 April 2024). Regulation 37 (management rating) was omitted by S.R.O. 360(I)/2023; the PDF reproduces its old text in a note, which is not shown here as a regulation.",
+ "numberingGaps": [
+  37
+ ],
+ "frontNotes": [
+  {
+   "n": "1-1",
+   "text": "Amended under SRO 77(I)/2018 dated January 29, 2018; SRO 1356(I)/2018 dated November 6, 2018; SRO 592(I)/2019 dated May 28, 2019; SRO 1333(I)/2019 dated November 6, 2019; SRO 77(I)/2020 dated February 3, 2020; SRO 342(I)/2020 dated April 27, 2020; SRO 556(I)/2021 dated April 29, 2021; SRO 1665(I)/2021 dated December 30, 2021; SRO 301(I)/2022 dated February 23, 2022; and SRO 808(I)/2022 dated June 15, 2022, SRO 1896(I)/2022 dated October 10, 2022 and SRO 1914(I)/2022 dated October 14, 2022, SRO 360(I) dated March 14, 2023, SRO 416(I)/2023 dated March 29, 2023, 202(I)/2024 dated Feb 14, 2024 and SRO 570(I)/2024 dated April 8, 2024."
+  },
+  {
+   "n": "1-2",
+   "text": "Inserted vide SRO 77(I)/2018 dated January 29, 2018"
+  }
+ ]
+}

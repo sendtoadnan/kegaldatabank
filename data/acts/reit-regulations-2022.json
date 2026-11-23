@@ -1,0 +1,1141 @@
+{
+ "id": "reit-regulations-2022",
+ "title": "Real Estate Investment Trust Regulations, 2022",
+ "number": "S.R.O. 2067(I)/2022",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "REIT Regulations 2022",
+  "REIT Regulations"
+ ],
+ "enacted": "2022-11-28",
+ "lastAmended": "2026-01-01",
+ "amendedUpToLabel": "1 January 2026",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "reit-regulations-2022.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Real Estate Investment Trust Regulations 2022 (updated till January 1, 2026)', downloaded from secp.gov.pk 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Real Estate Investment Trust Regulations, 2022.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these Regulations, unless there is anything repugnant in the subject or context, -",
+      ">>(i) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">>(ii) “Accredited Investors” means the following:",
+      ">(a) institutional investors including the following:",
+      ">>(i) a financial institution [as defined in the companies Act, 2017] {fn:1-1};",
+      ">>(ii) a company as defined in the Companies Act, 2017;",
+      ">>(iii) an insurance company established under the Insurance Ordinance, 2000;",
+      ">>(iv) [] {fn:1-2}",
+      ">>(v) a securities broker;",
+      ">>(vi) a fund established as collective investment scheme under the NonBanking Finance Companies and Notified Entities Regulations, 2008;",
+      ">>(vii) a fund established as Voluntary Pension Scheme under the Voluntary Pension System Rules, 2005; (viii) a private fund established under Private Fund Regulations, 2015;",
+      ">>(ix) [] {fn:1-3}",
+      ">>(x) any other fund established under any special enactment;",
+      ">>(xi) a foreign company or any other foreign legal person;",
+      ">[(xia) limited Liability Partnership;] {fn:2-4}",
+      ">>(xii) any other entity as specified by the Commission; or",
+      ">(b) Individual investor (foreign or local) registered with National Clearing Company of Pakistan Limited having assets of at least Pakistani Rupees Five Million (5,000,000);",
+      ">>[(iii) “Borrowing” means funds received for a REIT Scheme with an obligation to pay back these funds:",
+      ">(a) from financial institutions through loan arrangement; or",
+      ">(b) through issuance of debt securities; or",
+      ">(c) from associated companies/ associated undertakings/ sponsors/ directors of the REIT Management Company, after prior approval of unitholders through special resolution;",
+      "Provided that tenure of borrowing from sponsors/directors of the RMC shall not exceed 24 months.] {fn:2-5} ;",
+      ">>(iv) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">>(v) “Central Depository” means a central depository as defined in the Securities Act, 2015;",
+      ">>(vi) “Concession Agreement” means an agreement, as amended from time to time, entered into between the Implementing Agency and the REIT Scheme for execution of a project under Public Private Partnership;",
+      ">>[(vii) “Customer Advances” means the amount received by the REIT Scheme or SPV in advance against sale of the Real Estate, or a part thereof or any interest therein;] {fn:2-6}",
+      "(viii) “Developmental REIT Scheme” means a REIT Scheme established for investment in one or more REIT Projects with the objective of development, construction, refurbishment and/or rehabilitation of the Real Estate [to generate income from sale of the Real Estate or any part thereof] {fn:2-7};",
+      ">>(ix) “Development Advisor” means a single entity or a consortium of entities (duly registered or licensed with their respective professional body/association/council, etc.) that can undertake the planning, design, costing, scheduling, contract preparation, coordination and supervision of a REIT Scheme;",
+      ">>[(x) “Financial Close” means when all the project and financing agreements have been signed and all conditions on those agreements have been met in a manner that enables the RMC to draw down the required financing for the REIT Scheme;] {fn:3-8}",
+      ">>(xi) “Fit and Proper Criteria” means the criteria as provided in Schedule VIII to these Regulations applicable to the Promoters, Major Shareholders, Directors and Key Executives of an RMC as specified by the Commission from time to time;",
+      ">>(xii) “Hybrid REIT Scheme” means a REIT Scheme, which is a combination of different types of REIT Schemes;",
+      "(xiii) “Information Memorandum” means a document containing minimum information as specified in Schedule IV-A;",
+      ">>(xiv) “Implementing Agency” means any of the line ministries, divisions, attached departments, executive departments, sub-ordinate offices, body corporate, autonomous body of the Federal Government or Provincial Government, or any organization or corporation owned or controlled by the Federal Government or Provincial Government;",
+      ">>[(xv) “Investment-based REIT Scheme” means a REIT Scheme established for making investment in one or more Real Estate for capital gain purpose, excluding agriculture land and vacant land or plots:",
+      "Provided that the Real Estate shall be zoned in metropolitan cities and must have requisite No Objection Certificate (NOC), approval and/or permission, where applicable;] {fn:3-9}",
+      ">>(xvi) “Key Executives” includes the chief executive officer, chief operating officer, chief financial officer, chief accounting officer, company secretary, internal auditor and the compliance officer irrespective of their designations;",
+      "(xvii) “Listed” means securities or units which have been allowed to be traded on a [licensed] {fn:3-10} securities exchange in Pakistan, and “Listing” shall be construed accordingly;",
+      "(xviii) “NAV” means the Net Assets of a REIT Scheme divided by the number of outstanding Units at any given date;",
+      ">>(xix) “Net Assets” means difference between the value of assets and liabilities of a REIT Scheme as given in the balance sheet at any given date;",
+      ">>(xx) “Offering Document/Prospectus” means a document containing information specified in these Regulations, in order to invite the public to buy Units;",
+      ">>(xxi) “Ordinance” means the Companies Ordinance, 1984 (XLVII of 1984);",
+      "(xxii) “Property Manager” means a person appointed by the RMC and/or SPV to manage and maintain the Real Estate;",
+      "(xxiii) “Public Private Partnership” means a collaboration or an arrangement between an Implementing Agency and a private sector entity to finance, build, and/or operate a project under the ambit of federal or provincial laws in Pakistan regulating public-private partnerships;",
+      "[(xxiv) “Real Estate” means immovable property consisting of land and inherently permanent structure that serves a passive function, and does not serve an active function, along with its structural components which are permanently affixed to land and cannot be dissembled for reassembling while facilitating its use for residential, commercial or industrial purposes; including all rights and interests therein, whether the interests are freehold or leasehold.",
+      "Explanation. – for the purposes of this clause the expressions,",
+      ">(a) “Passive function” refers to containing, supporting, sheltering, covering, or protecting and includes building, stores, warehouses, wall, floor, fixtures, elevators or escalators, central air conditioning systems, wiring, electrical, plumbing fittings, ceilings, windows, doors, enclosed parking places, sprinklers, fire alarms, fire escapes, and security systems, etc.",
+      ">(b) “Active function” refers to providing or installing plant, machinery, vehicles, furniture, gadgets, or equipment of any type for use, or for performing or enabling other economic activities including manufacturing, extracting, mining, creating, producing, converting, or transporting, etc.] {fn:4-11}",
+      ">>(xxv) “REIT Accountant” means an accounting firm appointed by the Trustee;",
+      "(xxvi) “Register” means the register of Unit Holders;",
+      "(xxvii) “Regulations” means the Real Estate Investment Trust Regulations, 2022;",
+      "(xxviii)“REIT Assets” means all Real Estate and other assets including financial assets of the REIT Scheme;",
+      "(xxix) “REIT Fund” means amount of capital injection in the form of either equity investment (cash or in kind) or Borrowing or a combination thereof to finance the REIT Scheme;",
+      ">(xxx) “REIT Management Services” means services provided by an RMC for the management of a REIT Scheme in accordance with these Regulations;",
+      "(xxxi) “REIT Project” means a Real Estate project [] {fn:4-12}executed under the REIT Scheme and shall include following types:",
+      ">(a) residential;",
+      ">(b) commercial;",
+      ">(c) industrial;",
+      ">(d) [warehousing and] {fn:4-13} agriculture;",
+      ">(e) healthcare;",
+      ">(f) transport and communication;",
+      ">(g) power;",
+      ">(h) energy;",
+      ">(i) telecommunication;",
+      ">(j) water and sanitation;",
+      ">(k) social, culture and commercial;",
+      ">(l) mining;",
+      ">(m) [hospitality] {fn:5-14}; or",
+      ">(n) any other type as allowed by the Commission.",
+      "(xxxii) “REIT Scheme” means a closed-end trust fund set up under the applicable Trust Laws and these Regulations for undertaking REIT Project(s);",
+      "(xxxiii)“Rental REIT Scheme” means a REIT Scheme established with the object of making investment in one or more REIT Project(s) with the purpose of generating rental income from it;",
+      "(xxxiv) “RMC” means a duly incorporated public limited company which has been licensed by the Commission under the Rules to undertake REIT Management Services;",
+      "(xxxv) “Rules” mean the Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003;",
+      "(xxxvi) “Schedule” means the Schedules annexed to these Regulations;",
+      "[(xxxvii) “Shariah Compliant REIT Scheme” means a REIT Scheme declared as Shariah compliant under the Companies Act, 2017 read with the Shariah Governance Regulations, 2023 as may be amended or substituted from time to time;] {fn:5-15}",
+      "(xxxviii) “Special Purpose Vehicle” or “SPV” means a limited liability company that is used as a conduit by a REIT Scheme for investment in REIT Project, subject to the limitations and requirements set forth in these Regulations;",
+      "(xxxix) “Special Resolution” has the meaning given to the term in the Act;",
+      ">(xl) “SPV Management Services Agreement” means an agreement to be entered into between a Special Purpose Vehicle and the RMC for the execution of REIT Project in terms of these Regulations;",
+      ">(xli) “Strategic Investor” means Accredited Investor(s) who undertake(s) to hold investment, free of encumbrances in a REIT Scheme as specified in these Regulations;",
+      "(xlii) “Transaction Advisor” means the financial, technical, legal and other consultants required to be appointed by the RMC;",
+      "[(xliii) “Trustee” means a company registered as trustee with the Commission under the NonBanking Finance Companies and Notified Entities Regulations, 2008;] {fn:5-16}",
+      "(xliv) “Trust Deed” means the deed of trust executed between an RMC and a Trustee with respect to a REIT Scheme in accordance with provisions of the applicable trust laws and these Regulations;",
+      ">(xlv) “Trust Laws” means the laws regulating trusts in Pakistan;",
+      "(xlvi) “Units” means the instrument of ownership of a REIT Scheme signifying the beneficial interest of the Unit Holders in such REIT Scheme;",
+      "(xlvii) “Unit Holder” means a person who is the legal owner of one or more Units and whose name appears in the Register;",
+      "(xlviii) “Valuation Report” means the report prepared by the Valuer in accordance with Schedule VI; and",
+      "(xlix) “Valuer” shall have the same meaning as assigned to it in the Companies (Further Issue of Shares) Regulations, 2020, to determine the value of the Real Estate[] {fn:6-17}.",
+      "(2) Words and expressions used but not defined in these Regulations shall have the same meaning as assigned to them in the Act or any administered legislation and the rules and regulations made thereunder."
+     ],
+     "fn": [
+      {
+       "n": "1-2",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "1-3",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "2-5",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "2-6",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "3-8",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "3-9",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "3-10",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "4-11",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "4-12",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "5-14",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "5-15",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "5-16",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "6-17",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Rmc Eligibility Requirements And Reit Management Services",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Eligibility",
+     "page": 6,
+     "text": [
+      "(1) The Promoters, Major Shareholders, Directors and Key Executives of an RMC shall comply with the Fit and Proper Criteria as specified in Schedule VIII.",
+      "(2) An RMC intending to undertake REIT Management Services shall have paid-up capital of not less than fifty (50) million rupees prior to applying for license and shall submit auditor’s certificate or latest audited financial statements not older than eight (8) months evidencing paid-up capital of at least fifty (50) million rupees.",
+      "Provided that RMC shall maintain subject paid up capital at all times."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Reit Structure And Reit Scheme",
+   "sections": [
+    {
+     "no": "4",
+     "title": "Types of REIT Structure",
+     "page": 6,
+     "text": [
+      "(1) A REIT Scheme can be executed under following structures:",
+      ">>(i) Direct Investment Structure: Under this structure, the REIT Scheme shall directly invest in the REIT Project;",
+      ">>(ii) Special Purpose Vehicle (SPV) Structure: Under this structure, the REIT Scheme, shall invest in the SPV, for [undertaking the REIT Project] {fn:6-18}, subject to following:",
+      ">(a) an RMC shall, with the consent of the Trustee, appoint an SPV through the SPV Management Services Agreement setting out the terms set forth in Schedule IX;",
+      ">(b) an RMC shall obtain approval of the Unit Holders through Special Resolution for change in structure of REIT Scheme, if any;",
+      ">(c) at least 75% of share capital of SPV shall be owned by the REIT Scheme;",
+      ">(d) any amendment including any modification, alteration and additions/deletions shall not be made in the SPV Management Services Agreement without the consent of the Trustee and prior notice of at least seven days to the Unit Holders, if any;"
+     ],
+     "fn": [
+      {
+       "n": "6-18",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Types of REIT Scheme",
+     "page": 7,
+     "text": [
+      "(1) An RMC can launch any REIT Scheme or [] {fn:7-19} a combination of REIT Scheme(s):",
+      "[Provided that where the REIT Scheme involves a Public Private Partnership, the RMC shall obtain relaxation and/or exemption in case of any difference or inconsistency between the provisions of Concession Agreement and these Regulations] {fn:7-20}."
+     ],
+     "fn": [
+      {
+       "n": "7-19",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "7-20",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — General Conditions For Launch Of Reit Scheme",
+   "sections": [
+    {
+     "no": "6",
+     "title": "General Conditions for launching REIT Scheme",
+     "page": 7,
+     "text": [
+      "(1) An RMC shall comply with the following conditions for launch of a REIT Scheme:",
+      ">>(i) REIT Project shall be within the territorial limits of the Islamic Republic of Pakistan [including Gilgit-Baltistan] {fn:7-21};",
+      ">>(ii) appoint Trustee for the REIT Scheme as per the provisions of these Regulations;",
+      ">>(iii) [In case an RMC is submitting an application for Shariah Compliant REIT Scheme, it shall obtain a Shariah compliance certificate as per the requirements of Companies Act, 2017, and the Shariah Governance Regulations, 2023 as may be amended or substituted from time to time;] {fn:7-22}",
+      ">>(iv) [execute a Trust Deed as per standard format provided in Schedule-I of these Regulations and shall obtain consent of Trustee;] {fn:7-23}",
+      ">>(v) register the Trust Deed with the relevant authorities under the applicable Trust Law;",
+      ">>(vi) appoint Valuer and other intermediaries, if required for launch of REIT Scheme;",
+      ">>(vii) obtain valuation of the Real Estate by the appointed Valuer at the time of acquisition;",
+      "(viii) share the copy of Information Memorandum, Concession Agreement [(where applicable)] {fn:7-24}and the Valuation Report with the Accredited Investor before issuance of Units and fund raising;",
+      ">>(ix) [submit following information/documents to the Commission for registration of REIT Scheme:",
+      ">(a) Copy of registered Trust deed;",
+      ">(b) Copy of bank challan evidencing fee as specified in Schedule -III;",
+      ">(c) Number of units to be issued;",
+      ">(d) Copy of information memorandum containing the minimum contents as per Schedule-IVA;",
+      ">(e) Copy of valuation report containing the minimum contents as per the Schedule VI;",
+      ">(f) Copy of SPV agreement, if any;",
+      ">(g) Latest audited balance sheet and profit and loss statement of the RMC;",
+      ">(h) Undertaking on non-judicial stamp paper that RMC is compliant with these regulations, REIT scheme is lawful and all information shared with the Commission is accurate.] {fn:8-25};",
+      ">[(ixa) The Commission may, if satisfied, register the REIT scheme with or without any conditions:",
+      "Provided that the Commission may from time to time impose any conditions, requirements or restrictions including but not limited to execution of REIT Scheme;",
+      ">(ixb) The RMC shall share all requisite information/documents mentioned at clause (ix) with the Trustee of the REIT Scheme;] {fn:8-26}",
+      ">>(x) issue Units against cash except those issued in lieu of Real Estate or shares of SPV as applicable;",
+      ">>(xi) submit a report containing the following information to the Commission and the trustee within 15 days of issuance of units to the accredited investors;",
+      ">(a) Number of units issued and name of investors;",
+      ">(b) Date of issuance;",
+      ">(c) Details of accredited investors[] {fn:8-27}and unit held by each;",
+      ">>(xii) keep subscription money received from investors in an account in the name of the Trustee;",
+      "(xiii) REIT Scheme involving moveable assets and where interest in land is other than freehold and lease hold, having lease period of less than 10 years, shall be executed through SPV structure;",
+      ">>(xiv) transfer the Real Estate or shares of SPV in name of the Trustee on the behalf of the REIT Scheme as per Regulation 8[:] {fn:8-28}",
+      "[Provided that original title documents of the real estate owned by SPV shall remain in custody of the Trustee.] {fn:8-29}"
+     ],
+     "fn": [
+      {
+       "n": "7-22",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "7-23",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "7-24",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "8-25",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "8-27",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "8-28",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Public Offering and listing of REIT Units",
+     "page": 9,
+     "text": [
+      "[(1) A REIT Scheme shall be listed subject to issuance or sale of Units to the public, through an Offering Document/Prospectus, as approved by the Commission, within a maximum period of:",
+      ">>(i) three (3) years from the date of transfer of real estate/shares of SPV for a",
+      "Developmental REIT Scheme or Hybrid REIT scheme with a developmental",
+      "component;",
+      ">>(ii) One (1) year from the date of transfer of real estate/shares of SPV for other types of",
+      "REIT Schemes;",
+      ">>(iii) REIT Schemes registered, prior to commencement of these Amendments, that have",
+      "transferred real estate/shares of SPV in the name of the REIT Scheme and achieved",
+      "Financial Close, but are yet to be listed, shall be listed within a maximum period of",
+      "three (3) years from the date of transfer of Real Estate/shares of SPV or financial Close,",
+      "whichever is later, or any such period as imposed by the Commission; and",
+      ">>(iv) REIT Schemes registered, prior to commencement of these Amendments, that have",
+      "not transferred real estate/shares of SPV in the name of the REIT Scheme and/or have",
+      "not achieved Financial Close, shall be listed on a securities exchange, as per clause (i)",
+      "and (ii) above, or any such period as imposed by the Commission:",
+      "Provided that the RMC shall ensure that Financial Close of such REIT Scheme is achieved",
+      "before listing of the REIT Scheme.] {fn:9-30}",
+      "(2) An RMC shall disclose all material information in the Offering Document/Prospectus as specified in Schedule IV of these Regulations.",
+      "(3) REIT Scheme shall comply with relevant public offering regime and listing regulations for issuance of Units to the public and listing of Units:",
+      "Provided that the relevant securities exchange and the Commission shall evaluate the listing and public offering application in compliance with the public offering regime and can approve/decline Listing.",
+      "[(4) The RMC shall ensure that Financial Close is achieved and Real Estate/shares of SPV are transferred in the name of the REIT Scheme, before public offer and listing of the REIT Scheme.] {fn:9-31}"
+     ],
+     "fn": [
+      {
+       "n": "9-30",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Transfer Of Real Estate",
+   "sections": [
+    {
+     "no": "8",
+     "title": "Transfer of Real Estate or shares of SPV",
+     "page": 9,
+     "text": [
+      "(1) An RMC shall transfer the Real Estate[/shares of SPV] {fn:10-32} in the name of Trustee on the behalf of the REIT Scheme, subject to the following conditions:",
+      ">>(i) [title of the Real Estate /shares of SPV shall be transferred within 120 days from the date of Registration of REIT Scheme:",
+      "Provided that subject time-line can be extended for a period of up to a maximum of 360 days from the date of registration of REIT Scheme, subject to intimation of same to the Commission, the Trustee and Unit Holders along with detailed valid rationale at least 10 working days before completion of initial 120 days and extension thereon, if availed;] {fn:10-33}",
+      ">[(ia) in case, the RMC has not transferred the real estate/shares of SPV in the name of Trustee on behalf of the REIT Scheme till the date of these Amendments, it shall transfer the real estate/shares of SPV within 360 days from date of registration of REIT Scheme;] {fn:10-34}",
+      ">>(ii) it shall submit to the Trustee, where applicable:",
+      ">(a) documents showing type of Real Estate, exact location, area along with dimensions of the Real Estate;",
+      ">(b) a confirmation that the RMC has issued public notice in one English and one Urdu newspaper in respective language having circulation all over Pakistan and specifically in the jurisdiction where the Real Estate is located, seeking objections to the proposed transfer of the Real Estate [/shares of SPV] {fn:10-35}, and objections received, if any, have been carefully evaluated;",
+      ">(c) its due diligence findings dealing with matters connected with title of Real Estate, clearly specifying, no encumbrances and encroachment, no illegal possession, no structural defects, status of charge, if any, capacity and authority of sellers to enter into transaction documents, no material litigation in connection with the Real Estate and no restrictions on transfer of Real Estate, as applicable;",
+      ">(d) for leasehold Real Estate, documentary proof confirming the remaining validity of the lease period:",
+      "Provided that the same shall also be disclosed at front page of Information Memorandum and Offering Document/Prospectus (as applicable).",
+      ">(e) an undertaking confirming that there is no litigation and encroachment related to the Real Estate, no injunctions have been passed against the proposed Real Estate issued by the concerned authorities, and to use the full outstanding debt, if any against the Real Estate only for the purpose of REIT Scheme;",
+      ">(f) copies of title documents, lease agreements and in the case of Rental REIT Scheme involving building structure and copy of completion certificate[;] {fn:11-36} [ ] {fn:11-37}",
+      ">(g) the Valuation Report;",
+      ">(h) such other documents or information as may be requested by the Trustee. [] {fn:11-38}",
+      "[(3) In case the REIT Scheme is executed through SPV structure, the RMC shall ensure that SPV creates a hypothecation ranking charge/mortgage on the Real Estate of the SPV relating to the REIT Project, in the favour of the Trustee of the REIT Scheme and any change in ranking charge due to Borrowing or change in value of asset or modification thereon shall be subject to NOC of the Trustee and filing of respective forms as per the Companies Regulations, 2024.] {fn:11-39}",
+      "(4) For the purpose of creating a ranking charge it shall be permissible for relevant hypothecation instrument to permit: (a) charges that are superior to the charge created under such instrument even if created subsequent in time; and (b) sale or any other alienation of the hypothecated property in the ordinary course of business and/or to the extent agreed with the Trustee.",
+      "(5) The Trustee shall return the subscription money in case the Real Estate/shares of SPV are not transferred within the prescribed timeline and cost incurred shall be borne by the investors:",
+      "Provided that the RMC shall disclose on the first page of Information Memorandum and/or Offering Document/Prospectus (as applicable) that there is possibility that the Real Estate/Shares of SPV might not be transferred resulting in negative yield and loss of principal to the Investors."
+     ],
+     "fn": [
+      {
+       "n": "10-33",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "11-36",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "11-37",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "11-38",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "11-39",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VI — Capital Injection, Addition, Conversion And Transfer",
+   "sections": [
+    {
+     "no": "9",
+     "title": "Capital Injection/Fund raising",
+     "page": 11,
+     "text": [
+      "(1) An RMC can raise additional capital [for REIT Scheme] {fn:11-40} through:",
+      ">>(i) right offer; or",
+      ">>(ii) other than right offer involving issuance of Units to Accredited Investor and/or public; or",
+      ">>(iii) Borrowing; or",
+      ">>(iv) combination thereof."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Addition of new Real Estate in REIT Scheme",
+     "page": 11,
+     "text": [
+      "(1) An RMC may acquire additional Real Estate in an existing REIT Scheme [/SPV] {fn:11-41}, subject to the following:",
+      ">>(i) RMC shall obtain consent of the Trustee for addition of the Real Estate;",
+      ">>(ii) RMC shall share adequate information with the Unit Holders relating to Real Estate as specified in part “Details of REIT Scheme” of Schedule IVA, where applicable, at least 21 days before the addition of the Real Estate:",
+      "Provided that front page disclosure shall be made in the Information Memorandum and/or Offering Document/Prospectus (as applicable) clearly stating that additional real state can be added to the scheme without approval of the Unit Holders;",
+      ">>(iii) RMC shall intimate addition of new Real Estate [] {fn:12-42} to the Commission, at least 10 days before the addition of the Real Estate.",
+      ">>(iv) If addition of Real Estate is financed through additional fund raising from equity capital, then RMC shall intimate the details of investors/type of investors and related details to the Commission within 15 days of issuance;",
+      ">>(v) the risk profile of the REIT Scheme should not be adversely altered/affected with respect to what is enunciated in its Information Memorandum and/or Offering Document/Prospectus (as applicable);",
+      ">>(vi) new Real Estate shall be transferred in the name of Trustee and all other requirements of these Regulations, shall be followed:",
+      "Provided that, in case where new Real Estate is added and financed through equity injections, in SPV structure, shares of SPV shall be transferred in the name of Trustee."
+     ],
+     "fn": [
+      {
+       "n": "12-42",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Conversion of REIT Scheme or continuity of REIT Scheme",
+     "page": 12,
+     "text": [
+      "(1) An RMC can convert one REIT Scheme into another REIT Scheme subject to approval of the Unit Holders through Special Resolution:",
+      "Provided that in case of Developmental REIT, conversion shall only be allowed after complete development of the project stated in the Information Memorandum and/or Offering Document/Prospectus."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Transfer of an Ongoing Under Construction Real Estate Project to REIT [Scheme]",
+     "page": 12,
+     "text": [
+      "(1) An RMC can transfer an ongoing under construction Real Estate project to REIT Scheme, subject to fulfillment of [all other requirements of these Regulations, and] {fn:12-44} following additional conditions:",
+      ">>(i) RMC shall submit following to the Trustee;",
+      ">(a) [Audited accounts reflecting financial position of the ongoing project clearly pronouncing at least;",
+      ">>(i) assets and liabilities at the start of the project;",
+      ">>(ii) assets and liabilities of the project at the date of transfer;",
+      ">>(iii) cash flow position of the project;",
+      ">>(iv) customers advance(s) received and utilized for the project;",
+      ">>(v) Valuation Report assessing value of the assets and liabilities to be transferred to the REIT Scheme.] {fn:13-45}",
+      "[] {fn:13-46}"
+     ],
+     "fn": [
+      {
+       "n": "12-43",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "13-45",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "13-46",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VII — Minimum Holding Requirements And Recovery Of Expenses",
+   "sections": [
+    {
+     "no": "13",
+     "title": "Minimum Holding by RMC and Strategic Investor",
+     "page": 13,
+     "text": [
+      "(1) An RMC shall hold or arrange through Strategic Investor(s), a minimum twenty-five (25) per cent Units of the initial size of the REIT Fund (equity only), till revocation of the fund or listing of REIT Scheme, whichever is earlier and the same shall be kept in an account marked as blocked and shall not be sold, transferred or encumbered.",
+      "(2) In case, there is more than one Strategic Investor, each one of them shall hold not less than five percent (5%) Units of the REIT Scheme:",
+      "Provided that subject to compliance with clause (1) above, Strategic Investor and/or the RMC may, transfer/sell their holding of the REIT Scheme to another Strategic Investor(s) with the approval of the Commission."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Recovery of [] expenses",
+     "page": 13,
+     "text": [
+      "{fn:13-47}[ (1) Expenses to be incurred in connection with the establishment and registration of the REIT Scheme as well as the offer for sale, allotment and issuance of Units including commission payable to underwriters, if not included in the private or public offer, shall be borne by an RMC, and shall be reimbursed to the RMC out of REIT Assets after audit of such expenses. These expenses shall be amortized by the REIT Scheme over a period of five (5) years or life of a REIT Scheme, whichever is shorter, and the same shall be stated in the Information Memorandum and the Offering Document/Prospectus (as applicable).",
+      "Fees and costs which can be charged to the REIT Scheme are specified in Schedule II annexed to these Regulations. ] {fn:13-48}"
+     ],
+     "fn": [
+      {
+       "n": "13-47",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "13-48",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter VIII — Obligations Of Rmc And Trustee",
+   "sections": [
+    {
+     "no": "15",
+     "title": "Obligations of an RMC",
+     "page": 13,
+     "text": [
+      "(1) An RMC shall:",
+      ">>(i) ensure that the Trust Deed is in accordance with Schedule I;",
+      ">>(ii) conduct due diligence to certify and ensure that the title of the Real Estate to be acquired for the purposes of the REIT Scheme is free from all defects, encroachments and encumbrances except encumbrances resulting from Borrowing as provided in these Regulations;",
+      ">>(iii) ensure that the REIT Assets are vested in the name of Trustee for the benefit of Unit Holders;",
+      ">>(iv) arrange transfer of Real Estate to the REIT Scheme or the SPV as per legal agreement and ensure that the Real Estate transferred to REIT Scheme or held by an SPV meets the requirements specified in these Regulations;",
+      ">[(iva) Provide to the Trustee, original title documents of real estate owned directly by REIT Scheme or through SPV, along with all other approvals related to Real Estate, including but not limited to NOC and approved layout plan from the relevant land and building authorities;] {fn:14-49}",
+      ">>(v) provide an undertaking to the Trustee that RMC and REIT Scheme is in conformity with these Regulations and the applicable Trust Laws;",
+      ">>(vi) ensure that all material contracts, including agreement for purchase of Real Estate, rental agreements, service providers’ agreements entered into for furtherance of the objects of the REIT Scheme and any other agreement for functioning of the REIT Scheme are legitimate, valid, binding and enforceable by or on behalf of the Trustee or the Special Purpose Vehicle (as the case maybe) in accordance with the stipulated terms of such contracts and agreements;",
+      ">>(vii) manage the REIT Scheme in the best interest of Unit Holders, in accordance with the Trust Deed and all applicable laws, rules, Regulations including notifications, circulars, guidelines and directives issued thereunder;",
+      "(viii) [with the consent of the Trustee, appoint an auditor from the list of approved auditors as notified by the Commission, Valuer, Development Advisor, Property Manager, Transaction Advisor, Independent consultant or other REIT intermediaries, where required for smooth functioning of the REIT Scheme and execution of REIT Project:",
+      "Provided that the above requirement shall also be applicable in case of appointment of intermediaries by SPV;",
+      "Provided further that the Valuer shall be appointed for a period of three (3) years and shall not be re-appointed as a Valuer for that REIT Scheme until lapse of two (2) years from its last retirement;] {fn:14-50}",
+      "[(viiia) enable the Trustee to conduct review of the REIT Project(s) by arranging such meetings and provision of such information to the Trustee as may be required, in case of both Direct Investment Structure and SPV Structure;] {fn:14-51}",
+      ">>(ix) provide a copy of the contract entered into between the Valuer and the RMC to the Trustee;",
+      ">>(x) ensure that the REIT Scheme is dissolved only after the disposal of the Real Estate, or in case of investment in SPV after disposal of shares;",
+      ">>(xi) ensure that profits arising out of the REIT Scheme and/or Special Purpose Vehicle are distributed to the Unit Holders as dividends in accordance with these Regulations;",
+      ">>(xii) ensure that Units are offered to public and listed in accordance with the public offering regime and listing regulations of the securities exchange;",
+      "(xiii) carry out all transactions involving the REIT Scheme managed by it on an arm’s length basis;",
+      ">>(xiv) ensure that Customer Advances are received in the name of the Trustee or in case of Special Purpose Vehicle in an account operated by SPV, as the case may be;",
+      ">>(xv) arrange insurance/Takaful coverage in relation to the Real Estate and comply with all requirements of the Commission in this behalf;",
+      ">>(xvi) be responsible for managing the REIT Scheme as per the object clause of its memorandum of association;",
+      "(xvii) obtain written approval of the Commission before issuing or offering Units for sale to the public;",
+      "(xviii) ensure that the issue and transfer of the Units is carried out in accordance with provisions of these Regulations;",
+      ">>(xix) ensure that the Information Memorandum and/or Offering Document/Prospectus (as applicable) are prepared in line with the requirement of these Regulations;",
+      ">>(xx) intimate the Commission before delegating one or more of its functions in relation to the REIT Scheme:",
+      "Provided that where the RMC delegates any of its functions, it shall ensure that the delegated person has sufficient experience and financial resources to carry out the delegated function and comply with Schedule V;",
+      ">>(xxi) be responsible for the remuneration, acts, omissions, defaults and negligence of all persons, along with resultant losses, to whom it delegates any of its functions;",
+      "(xxii) maintain at its registered office proper books of account including register of Unit Holders, record of the activities undertaken in connection with the REIT Scheme in order to enable a true and fair view to be formed of the:",
+      ">(a) REIT Assets and liabilities;",
+      ">(b) profit and loss accruing on account of operation of the REIT Scheme;",
+      ">(c) transactions undertaken with respect to the REIT Scheme;",
+      ">(d) amounts received in respect of issue of Units;",
+      ">(e) client wise detail of Customer Advances; and",
+      ">(f) pay-outs, if any, by way of distributions to the Unit Holders.",
+      "Provided that RMC shall preserve books of account of the REIT Scheme for at least ten (10) years after the extinguishment or revocation of the REIT Scheme.",
+      "(xxiii) [within one hundred and twenty days (120) of close of the financial year of the REIT scheme/SPV prepare, and transmit or make available on its website to the Unit Holders, the Trustee, the Commission, and the securities exchange(s), on which the Units of a REIT Scheme are listed, the audited financial statements of the REIT scheme/ SPV, statement of the movement in NAV, the report of the auditor, an annual Shariah review report as required under the Shariah Governance Regulations, 2023 (in case of Shariah compliant REIT), the Valuation Report and any other document as specified by the Commission and make the printed copy of the said accounts and reports available to any Unit Holder, free of cost, as and when requested:",
+      "Provided that if the REIT Scheme has been launched in less than 3 months before the close of financial year; no Units have been issued to public investors; and Customer Advances relating to REIT project have not been received, then REIT Scheme shall not be required to prepare audited accounts of REIT Scheme for the first fiscal year. However, the subject period shall be covered in the next year’s audited accounts.] {fn:16-52}",
+      "(xxiv) prepare and transmit or make available on its website to the Unit Holders, the Trustee, the Commission and the securities exchange(s), [on which the] {fn:16-53} Units are listed, within thirty (30) days of the close of the first and third quarter and [sixty (60) days] {fn:16-54} of the close of second quarter of the financial year of the REIT Scheme/SPV, financial statements showing balance sheet of the REIT Scheme/SPV as at the end of that quarter along with profit and loss statement, a cash flow statement and a statement of changes in NAV and make the printed copy of the said accounts available to any Unit Holder, free of cost, as and when requested;",
+      "[(xxiva) the RMC shall appoint at least such number of nominees on the board of directors of an SPV, which are in proportion to the shareholding or holding interest of the REIT Scheme in the SPV and ensure that director(s) and/or CEO so appointed shall comply with the fit & proper criterion as prescribed under Schedule VIII of these Regulations;] {fn:16-55}",
+      ">>(xxv) obtain rating for itself and for the REIT Scheme as per the rating criteria of a rating company and such rating shall be updated annually, or at such other time as may be specified by the Commission;",
+      "(xxvi) publish rating of RMC and the REIT Scheme in the annual and quarterly accounts and in all advertising and marketing materials of the REIT Scheme;",
+      "(xxvii) furnish in respect of the REIT Scheme, to the Commission and the securities exchange(s) on which the Units are listed, such information within such time as the Commission may specify;",
+      "(xxviii) ensure that a director immediately vacates his position if he becomes disqualified as per the Fit and Proper Criteria and inform the Commission of such compliance;",
+      "(xxix) before making any major change in purpose of the REIT Scheme mentioned in the Information Memorandum and/or Offering Document/Prospectus (as applicable), ensure that it has:",
+      ">(a) obtained approval of the Unit Holders through a Special Resolution; and",
+      ">(b) informed the Commission in writing along with the copy of Special Resolution.",
+      ">(xxx) cause to happen a determination of the NAV of the REIT Assets on yearly basis:",
+      "Provided that in case of Developmental REIT Scheme or Hybrid REIT Scheme or Listed REIT Scheme, NAV shall be calculated on six monthly basis.",
+      "(xxxi) ensure that it conforms to the provisions of Listed Companies (Code of Corporate Governance) Regulations, 2019 specified by the Commission;",
+      "(xxxii) maintain adequate financial, technical, organizational and human resources, and employ appropriate systems, procedures, processes and personnel to:",
+      ">(a) provide REIT Management Services in a proper and efficient manner on an on-going basis; and",
+      ">(b) comply with all applicable requirements of these Regulations and other applicable law.",
+      "(xxxiii) maintain satisfactory controls and written compliance procedures which address all applicable regulatory requirements;",
+      "(xxxiv) pay or arrange to pay such non-refundable fees as specified in the Schedule III;",
+      "(xxxv) solicit all monies only in the name of Trustee;",
+      "(xxxvi) not obtain, acquire or takeover the management of another REIT Scheme, without prior written approval of the Commission;",
+      "(xxxvii) not solicit Customer Advances before transfer of Real Estate in the name of Trustee:",
+      "Provided that this provision shall not apply in case of transfer of under construction Real Estate [project] {fn:18-56} to REIT Scheme.",
+      "(xxxviii) make sufficient arrangements for ensuring prevention of money laundering and terrorist financing, and comply with all laws, directives and circulars as may be issued by the Federal Government or the Commission to safeguard the RMC against involvement in money laundering and terrorist financing activities, including the SECP (Anti-Money Laundering and Countering Financing of Terrorism) Regulations, 2018 and the guidelines issued thereunder;",
+      "(xxxix) immediately inform the Commission, of any action of the SPV that contravenes the provisions of the Act, the Rules, these Regulations, guidelines, codes, circulars, directives or any other applicable laws;",
+      ">(xl) comply with the conditions/requirements specified by the Commission from time to time, including but not limited to execution of REIT Scheme:",
+      "Provided that the Commission may direct a particular RMC or a particular REIT scheme to comply with conditions/requirements as it may deem appropriate.",
+      ">(xli) immediately report cost overruns and any other material event in respect of Developmental REIT Scheme and Hybrid REIT Scheme to the Commission, Trustee and the Unit Holders;",
+      "[(xlii) ensure ongoing Shariah compliance in accordance with the Shariah Governance Regulations, 2023;",
+      "(xliii) ensure that Financial Close is achieved and Real Estate/shares of SPV are transferred in the name of the REIT Scheme, before public offer and listing of the REIT Scheme; and",
+      "(xliv) ensure that bank account of SPV is operated with authorization of Trustee;] {fn:18-57}",
+      "(2) In case of Public Private Partnership in addition to above:",
+      ">>(i) ensure that all material contracts, including the Concession Agreement, Project Agreements (if any), service providers’ agreements entered into for furtherance of the objectives of the REIT Scheme are legitimate, valid, binding and enforceable by or on behalf of the REIT Scheme in accordance with the stipulated terms of such contracts and agreements;",
+      ">>(ii) take all reasonable steps to ensure that the Concession Agreement is executed by the REIT Scheme (acting through the RMC and the Trustee) and the Implementing Agency and all the conditions in the Concession Agreement are either met to the satisfaction of the Implementing Agency or waived by the Implementing Agency, as may be applicable."
+     ],
+     "fn": [
+      {
+       "n": "14-50",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "16-52",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "16-53",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "16-54",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Obligations of a Trustee",
+     "page": 19,
+     "text": [
+      "(1) The Trustee, shall:",
+      ">>(i) exercise due diligence and vigilance in carrying out its functions and duties under the Trust Deed and these Regulations and all other applicable laws;",
+      ">>(ii) ensure that the REIT Assets, and REIT Project or the interest therein are held by it on behalf of the Unit Holders;",
+      ">>(iii) ensure that the title to all REIT Assets is lawfully vested in it;",
+      "[(iiia) Obtain from the RMC, original title documents of real estate owned directly by REIT Scheme or through SPV and all other approvals related to real estate including but not limited to NOC and approved layout plan from the relevant land and building authorities;",
+      "(iiib) conduct review of the REIT Project(s), in case of both Direct Investment Structure and SPV Structure; ] {fn:19-58}",
+      ">>(iv) deposit the money received by it relating to the REIT Scheme in a scheduled bank which has a minimum long-term rating of [AA- (AA minus)] {fn:19-59} or above,",
+      ">>(v) [ensure that the RMC has appointed an auditor from the list of approved auditors as notified by the Commission, Valuer, Development Advisor, Property Manager, Transaction advisor, Independent consultant and other intermediaries where required for smooth functioning of the REIT scheme and execution of REIT Project] {fn:19-60};",
+      ">>(vi) ensure that all insurance premiums have been paid by the REIT Scheme and the insurance policies are up to date;",
+      ">>(vii) verify that the Information Memorandum and/or Offering Document/Prospectus (as applicable) is prepared in compliance with requirement of these Regulations;",
+      "(viii) not delegate any of its duties unless the Trust Deed allows for the delegation:",
+      "Provided that in case of delegation, Trustee shall be liable to for any negligent act or omission, on its part or the part of any of its delegatees.",
+      ">>(ix) make payments to the delegatee from its own account;",
+      ">>(x) carry out the instructions of the RMC unless such instructions are in conflict with the Trust Deed, Information Memorandum, Offering Document/Prospectus, these Regulations, directions, guidelines, circulars or any other applicable laws;",
+      ">>(xi) ensure that the provisions relating to use of the Customer Advances, as set out in these Regulations, the Trust Deed, the Information Memorandum, the Offering Document/Prospectus are complied with;",
+      ">>(xii) immediately inform the Commission, of any action of the RMC related to the REIT Scheme, reasonably expected to be in the knowledge of the Trustee, that contravenes the Act, the Ordinance, the Rules, these Regulations, guidelines, codes, circulars, directives or any other applicable laws;",
+      "(xiii) ensure that the Valuer prepares and submits Valuation Report(s) as per Regulations;",
+      ">>(xiv) ensure that the Real Estate proposed by an RMC for a REIT scheme meets the requirements of these Regulations;",
+      ">>(xv) [ensure that bank account of SPV is operated with its authorization] {fn:20-61};",
+      ">>(xvi) ensure that the REIT Scheme is lawful and compliant with all relevant laws;",
+      "(xvii) seek confirmation from the RMC that;",
+      ">(a) all requisite approvals and NOCs, from the concerned authorities for functioning of the REIT Scheme have been procured;",
+      ">(b) there are no environmental laws that prohibit the transfer of the Real Estate or functioning of REIT Scheme.",
+      "Provided that the Project specific approvals maybe procured after transfer of Real Estate.",
+      "(2) In case of Public Private Partnership projects in addition to above, a Trustee shall:",
+      ">>(i) comply with the terms of the Concession Agreement and any financing documents for any financing raised by the REIT Scheme for the project including obligations relating to Unit Holder transfer restrictions;",
+      ">>(ii) enter into sponsor support agreements or such other financing documents as required pursuant to the Concession Agreement or as otherwise may be required by the lenders for a REIT Scheme:",
+      "Provided that Trustee shall have the right to appoint an accountant or consultant to assist and support it in the compliance of the responsibilities mentioned herein above and cost relating to same shall be charged to the REIT Scheme."
+     ],
+     "fn": [
+      {
+       "n": "19-59",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "19-60",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "20-61",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IX — Valuer And Reit Accountant",
+   "sections": [
+    {
+     "no": "17",
+     "title": "Obligations of the Valuer",
+     "page": 20,
+     "text": [
+      "(1) An RMC shall ensure that Valuer shall;",
+      ">>(i) on annual basis, value the Real Estate/REIT Asset for the purpose of calculation of NAV (whether held directly or through an SPV) in accordance with Schedule VI and produce a Valuation Report on Real Estate belonging to the REIT Scheme:",
+      "Provided that in case of developmental or hybrid REIT or listed REIT, valuation shall be conducted on half yearly basis.",
+      ">>(ii) ensure that, the valuation methodology adopted by it is in line with best practices prevalent in the real estate industry;",
+      ">>(iii) [carry out the valuation ] {fn:21-62}objectively and independently of its business or commercial relationships;",
+      ">>(iv) immediately inform the RMC and the Trustee [of] {fn:21-63} any conflict of interest and/or any circumstances or factors that come into the knowledge of the Valuer which can reasonably affect the accuracy of the Valuation Report;",
+      ">>(v) remain impartial while rendering professional services;",
+      ">>(vi) at all times perform its obligation with competence, integrity and professionalism;",
+      ">>(vii) conform to the valuation standards prescribed by International Valuation Standards Council (IVSC) to the extent possible and shall certify the same in the Valuation Report and any deviation from said standards shall be fully explained in the Valuation Report;",
+      "(viii) provide a declaration to the RMC stating that it meets the requirements specified in these Regulations, at the time of initial appointment and at the end of each year.",
+      "(2) The RMC shall ensure that all values determined by Valuer are, where applicable, disclosed in the Information Memorandum and/or the Offering Document/Prospectus.",
+      "(3) The RMC shall also ensure that the valuation methodology is documented and disclosed in the Information Memorandum and/or Offering Document/Prospectus (as applicable), specifying how the REIT Scheme is valued and its Units are priced.",
+      "(4) The RMC shall ensure that the investment of the REIT Scheme is fairly valued on a regular basis and the frequency of such valuation shall be clearly disclosed in the Information Memorandum and/or Offering Document (as applicable) and the REIT Scheme is valued at least once in every financial year."
+     ],
+     "fn": [
+      {
+       "n": "21-62",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Appointment of REIT Accountant",
+     "page": 21,
+     "text": [
+      "(1) The Trustee shall appoint, where required a REIT Accountant."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Obligations of REIT Accountant",
+     "page": 21,
+     "text": [
+      "(1) The REIT Accountant shall be responsible for authorizing and monitoring all payments/running bills including countersigning interim payment certificates and reporting variances to the Trustee after comparing them with the project milestones.",
+      "(2) The REIT Accountant may hire any technical/ professional resource necessary for the performance of his duties."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Removal of REIT Accountant",
+     "page": 21,
+     "text": [
+      "(1) The Trustee may remove the REIT Accountant if the Trustee is not satisfied with the performance of the REIT Accountant."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter X — Investments, Dividend, Borrowing And Customer Advances",
+   "sections": [
+    {
+     "no": "21",
+     "title": "Investment Policy",
+     "page": 22,
+     "text": [
+      "[ (1) The following Income test and Asset test shall be applicable to REIT Schemes:",
+      "Type of REIT Scheme Income Test",
+      "Rental REIT Schemes and 75% of income earned during a financial year shall be earned from Investment-based REIT Real Estate. Schemes",
+      "Developmental REIT During the first half of the life of the Scheme: 75% of income earned Schemes/ Hybrid REIT during a financial year shall be earned from: Schemes with a  Real Estate, or Development Component  Cash and Cash Equivalents.",
+      "During the second half of the life of the Scheme: 75% of income earned during a financial year shall be earned from Real Estate.",
+      "Type of REIT Scheme Asset Test",
+      "Rental REIT Schemes and 75% of gross assets as of the closing date of a financial year shall be Investment-based REIT invested in Real Estate. Schemes",
+      "Developmental REIT During the first half of the life of the Scheme: 75% of gross assets as Schemes/ Hybrid REIT of the closing date of a financial year shall be invested in: Schemes with a  Real Estate, or Development Component  Cash and Cash Equivalents.",
+      "During the second half of the life of the Scheme: 75% of gross assets as of the closing date of a financial year shall be invested in Real Estate.",
+      "(2) The REIT Scheme may invest any surplus funds in government debt securities or keep such funds as deposit with scheduled banks having not less than AA- (AA minus) long term rating or invest in money market fund.] {fn:22-64}"
+     ],
+     "fn": [
+      {
+       "n": "22-64",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Distribution policy",
+     "page": 22,
+     "text": [
+      "(1) An RMC shall devise distribution policy in the best interest of Unit Holders.",
+      "(2) The distribution policy shall be in consonance with the provision of applicable tax law.",
+      "(3) The distribution policy shall be stated in the Information Memorandum and Offering Document/Prospectus (as applicable) of a REIT Scheme.",
+      "(4) [Dividends shall be paid to the Unit Holders only in electronic mode] {fn:22-65}."
+     ],
+     "fn": [
+      {
+       "n": "22-65",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Borrowing",
+     "page": 23,
+     "text": [
+      "(1) An RMC shall not solicit, arrange or obtain any borrowing before registration of the Trust Deed, except Borrowing that has already been obtained against the Real Estate.",
+      "(2) An RMC shall clearly state policy for Borrowing in the Information Memorandum and/or the Offering Document/Prospectus (as applicable).",
+      "(3) An RMC may arrange Borrowing with the approval of its board of directors and consent of the Trustee or the board of directors of the SPV, as the case may be or in case of Public Private Partnership as per the Concession Agreement.",
+      "(4) An RMC shall utilize the Borrowing in interest of the REIT Scheme and the Unit Holders, for the purpose of supporting the core real estate operation:",
+      "Provided that liquidity generated from Borrowing owing to minor timing gaps between drawdowns and utilizations may be temporarily placed with bank having long term rating of [AA- (AA minus)] {fn:23-66} or above or invested in money market fund or Government Debt Securities."
+     ],
+     "fn": [
+      {
+       "n": "23-66",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Customer Advances",
+     "page": 23,
+     "text": [
+      "(1) An RMC shall clearly state policy for Customer Advances in the Information Memorandum and/or Offering Document/Prospectus (as applicable).",
+      "(2) An RMC may seek Customer Advances with the approval of its board of directors.",
+      "(3) An RMC shall utilize Customer Advances to finance the project related costs as disclosed in the Information Memorandum and/or Offering Document or in case of Public Private Partnership as per the Concession Agreement.",
+      "(4) Before the publication of marketing material/advertisement/invitation soliciting Customer Advances, an RMC shall share the same with the trustee for suggestion(s), if any.",
+      "(5) Suggestions of the Trustee, if any shall be addressed by the RMC.",
+      "(6) An RMC shall ensure that all marketing material, advertisements and invitations soliciting Customer Advances by whatever name called must contain the name of REIT Scheme, name of developer, name of concerned development authority, proposed date of completion and shall clearly state that payments are to be made through banking channels in the name of Trustee only.",
+      "(7) An RMC shall ensure that marketing material/advertisement/invitation soliciting Customer Advances is not misleading, fictitious or deceptive."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Disclosure of Customer Advances and Liabilities",
+     "page": 23,
+     "text": [
+      "(1) An RMC shall disclose Customer Advances and any other liabilities of a REIT Scheme in quarterly and annual accounts of a REIT Scheme."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XI — Special Purpose Vehicle (Spv) Structure",
+   "sections": [
+    {
+     "no": "26",
+     "title": "Additional Requirements for SPV structure",
+     "page": 23,
+     "text": [
+      "(1) The following additional requirements shall be complied with in case of SPV structure:",
+      ">>(i) [ ] {fn:24-67}",
+      ">>(ii) [] {fn:24-68};",
+      ">>(iii) the RMC shall ensure signing inter shareholder agreement with minority shareholders of SPV, whereby minority shareholders agree not to take any action in contravention of these Regulations or enter into any arrangement that adversely impacts the right and interest of REIT Scheme Unit Holders;",
+      ">>(iv) the SPV has been engaged by the RMC for the purposes of REIT Management Services in connection with purpose of the REIT Scheme, by execution of a SPV Management Services Agreement;",
+      ">>(v) both the REIT Scheme and the SPV shall appoint the same auditor and accountant and adopt the same accounting principles and policies;",
+      ">>[(vi) money received by the SPV relating to the REIT Project shall be deposited in a scheduled bank which has a minimum long-term rating of AA- (AA minus) or above;",
+      ">>(vii) shares of SPV shall be issued to the REIT Scheme in dematerialized form in CDS;",
+      "(viii) SPV shall comply with the conditions of Schedule-V while delegating any of its own function;",
+      ">>(ix) books of accounts of the SPV must be preserved for at least 10 years;",
+      ">>(x) bank account of SPV shall be operated with authorization of Trustee; and",
+      ">>(xi) the REIT Scheme can only acquire shares of an existing SPV that already holds/owns the Real Estate.] {fn:24-69}"
+     ],
+     "fn": [
+      {
+       "n": "24-67",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "24-68",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XII — Related Party Transactions And Independence",
+   "sections": [
+    {
+     "no": "27",
+     "title": "Related parties and related party transactions",
+     "page": 24,
+     "text": [
+      "(1) An RMC shall, in relation to a REIT scheme, carry out related party transactions with the prior approval of Trustee:",
+      ">>(i) on arm’s length basis;",
+      ">>(ii) consistent with investment objectives and strategy of a REIT Scheme;",
+      ">>(iii) in the interest of Unit Holders; and",
+      ">>(iv) with proper disclosure to Unit Holders.",
+      "(2) The RMC, its delegates or any other related parties shall not receive any benefit, monetary or otherwise, from a property agent, Real Estate developer or Real Estate builder in consideration for referring any transaction involving a REIT Scheme to such property agent, Real Estate developer or Real Estate builder."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Disclosure of related party transactions",
+     "page": 25,
+     "text": [
+      "(1) An RMC shall disclose related party transaction(s) in the Information Memorandum and/or Offering Document/Prospectus subsequently in annual as well as quarterly accounts of a REIT Scheme, highlighting the following:",
+      ">>(i) potential conflict of interest of the related party with respect to the REIT Scheme and the measures taken to address such conflicts;",
+      ">>(ii) beneficial interest of related party in a REIT Scheme and any changes therein;",
+      ">>(iii) the amount involved in transactions in respect of each related party for the relevant period.",
+      "(2) Where the business of a related party is in competition with the activities of a REIT Scheme, the Information Memorandum and/or the Offering Document/Prospectus, quarterly and annual accounts of the REIT Scheme shall disclose the business of the related party and its management so as to enable the Unit Holders to assess the nature of their business and the reasons why their business may adversely impact the business of the REIT Scheme.",
+      "(3) Where a REIT Scheme [acquires or sells Real Estate/shares of SPV from ] {fn:25-70}a related party, the Information Memorandum and/or the Offering Document/Prospectus shall disclose the following:",
+      ">>(i) Valuation Report for the Real Estate [/shares of SPV] {fn:25-71} that the related party has agreed to sell or buy; and",
+      ">>(ii) the price to be deposited in or paid out of the REIT Assets or the Units issued or to be [issued against] {fn:25-72} the REIT Assets as consideration and other terms of the transaction."
+     ],
+     "fn": [
+      {
+       "n": "25-70",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "25-72",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Independence",
+     "page": 25,
+     "text": [
+      "(1) The RMC, Trustee and the Valuer shall be independent of each other.",
+      "[Explanation. - For the purposes of this Regulation, the term “independent” means that there shall be no cross-shareholding or common directorship.] {fn:25-73}"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XIII — Fees",
+   "sections": [
+    {
+     "no": "30",
+     "title": "Management fee payable to RMC",
+     "page": 25,
+     "text": [
+      "(1) An RMC shall be entitled to a management fee which shall be clearly stated in the Information Memorandum and/or Offering Document/Prospectus along with the basis and quantum of fee to be charged to a REIT scheme.",
+      "Provided that the management fee shall be payable to RMC quarterly in arrears and shall be chargeable as an expense to the REIT Scheme.",
+      "(2) RMC or its nominee shall be entitled to performance fee computed and paid to the RMC or its nominee as per the mechanism disclosed in the Information Memorandum and/or Offering Document/Prospectus.",
+      "(3) Any change in the declared fee shall be approved by the Unit Holders through Special Resolution and disclosed in the annual accounts."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Monitoring fee payable to Commission",
+     "page": 26,
+     "text": [
+      "(1) Monitoring fee shall be paid [quarterly] {fn:26-74} to the Commission during the life of a REIT Scheme as per Schedule III.",
+      "[(2) The monitoring fee shall be paid by the RMC managing a REIT Scheme within fifteen (15) days of the close of every quarter and shall be chargeable as an expense to the REIT Scheme.] {fn:26-75}"
+     ],
+     "fn": [
+      {
+       "n": "26-74",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "26-75",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Fee payable to Trustee",
+     "page": 26,
+     "text": [
+      "(1) A Trustee shall be entitled to an annual fee as mutually agreed between the Trustee and the RMC.",
+      "[(2) The fee shall be paid to the Trustee in such manner as agreed between the RMC and the Trustee and shall be chargeable as an expense to the REIT Scheme.] {fn:26-76}"
+     ],
+     "fn": [
+      {
+       "n": "26-76",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Other Fee",
+     "page": 26,
+     "text": [
+      "(1) The Valuer shall be paid a predetermined amount of fee as determined at the time of his appointment and such fee shall not be contingent upon the value of the Real Estate as determined by the Valuer.",
+      "(2) The fee payable to all intermediaries shall be disclosed in the Information Memorandum, the Offering Document/Prospectus and in the annual accounts.",
+      "(3) The fee payable shall be charged as an expense to a REIT Scheme."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XIV — Retirements And Removals",
+   "sections": [
+    {
+     "no": "34",
+     "title": "Transfer of Management Rights of REIT Scheme",
+     "page": 26,
+     "text": [
+      "(1) The management rights of the REIT Scheme may be transferred to another RMC upon the occurrence of any of the following events:",
+      ">>(i) the RMC goes into liquidation, becomes bankrupt or winding up proceeding has been initiated or a liquidator has been appointed over its assets, or its license has been cancelled or does not hold valid license; or",
+      ">>(ii) where the Unit Holders pass a Special Resolution subject to occurrence of event of fraud or material event raising concerns over the performance of RMC and fulfil the conditions specified therein to pass such a resolution:",
+      "[Provided that the RMC shall not vote at such meetings and presence of the RMC shall not be counted towards requisite voting for Special Resolution] {fn:27-77};",
+      ">>(iii) if in the opinion of the Commission further management of REIT Scheme by the existing RMC is detrimental to the interest of the Unit Holders or for any other reason to be recorded in writing:",
+      "Provided that the RMC managing the REIT scheme shall be given opportunity of hearing before any action is taken against it under this regulation. However, the Commission shall not be restricted from taking any interim measures in the interest of Unit Holders;",
+      "(2) For the purpose of transfer of management right an RMC shall execute a supplemental Trust Deed subject to the approval of the Commission."
+     ],
+     "fn": [
+      {
+       "n": "27-77",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Retirement or removal of Trustee/Valuer",
+     "page": 27,
+     "text": [
+      "(1) The Commission shall remove the Trustee [if the Trustee] {fn:27-78} goes into liquidation, becomes bankrupt or if a receiver, liquidator or administrator is appointed over its assets and appoint a new Trustee.",
+      "Provided that the liquidator shall be bound to follow the instructions of the Commission and hand over all necessary records, transfer assets and give effect to the Commission’s decision in favor of the new Trustee within seven working days.",
+      "(2) The Commission may remove the Trustee in best interest of the Unit Holders and appoints a new Trustee.",
+      "[Provided that the trustee shall be given an opportunity of hearing by the Commission before any such removal.] {fn:27-79}",
+      "(3) A Trustee may, retire from his office on appointment of a new Trustee and the retirement shall take effect at the same time as the new Trustee is appointed or from the date of assumption of assets of the REIT Scheme by the newly appointed Trustee, whichever is later.",
+      "(4) An RMC may by giving reasons in writing inform the Commission for change of the Trustee and appoint a new Trustee.",
+      "[(5) The RMC with the consent of the Trustee may remove the Valuer if:",
+      ">>(i) there are reasonable grounds that raise concerns over the performance of the valuer and its removal is in the best interest of the Unit Holders; or",
+      ">>(ii) the Unit Holders pass a resolution requiring removal of the Valuer subject to occurrence of material event raising concerns over the performance of the Valuer; or",
+      ">>(iii) the Valuer contravenes any provision of the Ordinance, the Rules, these Regulations, or any directives, code or guidelines issued by the Commission.] {fn:27-80}",
+      "(6) Upon retirement or removal of the Valuer (s), the RMC in consultation with the Trustee shall appoint new Valuer (s) that meet (s) the criteria under these Regulations at least thirty (30)] days before the next due valuation date[:] {fn:28-81}",
+      "[Provided that RMC and Trustee shall inform the Commission within seven working days of removal of valuer and appointment of new valuer.] {fn:28-82}"
+     ],
+     "fn": [
+      {
+       "n": "27-78",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "27-80",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      },
+      {
+       "n": "28-81",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XV — Extinguishment Or Revocation Of Reit Scheme",
+   "sections": [
+    {
+     "no": "36",
+     "title": "Extinguishment/Revocation of REIT Scheme",
+     "page": 28,
+     "text": [
+      "(1) A REIT Scheme may be extinguished by the occurrence of any one or combination of the following events,-",
+      ">>(i) the REIT Scheme has reached end of its life as specified in the Trust Deed;",
+      ">>(ii) where the Unit Holders pass a Special Resolution demanding revocation of the trust on occurrence of material event which may affect return/viability of the REIT Scheme;",
+      ">>(iii) where the RMC goes into liquidation, becomes bankrupt or a liquidator has been appointed over its assets, or its license has been cancelled or does not hold valid license unless the management rights [are being] {fn:28-83} transferred in conformity with these Regulations;",
+      ">>(iv) in the opinion of the RMC the REIT Scheme is not commercially viable or the purpose of the scheme cannot be accomplished or its objective cannot be achieved and the Unit holders have consented to such an action through a Special Resolution:",
+      "Provided that the RMC shall not vote at such meetings and their presence shall not be counted towards requisite voting for Special Resolution.",
+      ">>(v) where applicable, in the opinion of Trustee and on occurrence of any event or circumstances which, as per Trust Deed, triggers conditions that require the REIT Scheme to be revoked;",
+      ">>(vi) the Concession Agreement, in the case of a Public Private Partnership has expired or has been terminated;",
+      ">>(vii) where the Commission deems it necessary to revoke REIT Scheme and directs so to the Trustee or the RMC in the interest of Unit Holders;",
+      "(viii) in case the transfer of Real Estate [or listing of the REIT Scheme] {fn:28-84}, does not take place for any reason within the time specified under these Regulations;",
+      ">>[(ix) in case title of real estate is transferred from the REIT Scheme in any manner other than as stated in these Regulations, Information Memorandum or the Offering Document/Prospectus; and/or",
+      ">>(x)if in the opinion of the Trustee, any action of RMC results in material violation of the constitutive document, the Act, Ordinance and/or Rules/Regulations relating to REIT Scheme, unless the management rights are being transferred in conformity with these Regulations.] {fn:29-85}",
+      "[Provided that an opportunity of hearing shall be provided to the RMC by the trustee in case revocation of REIT Scheme is initiated by the trustee under clause (v), (viii) and (x) above, whereas the Commission shall provide opportunity of hearing to the RMC in case revocation of REIT Scheme is initiated by the Commission under clause (vii) above. ] {fn:29-86}"
+     ],
+     "fn": [
+      {
+       "n": "28-83",
+       "text": "Substituted vide SRO 2(I)/ 2026 dated January 1, 2026"
+      }
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Procedure and manner of Revocation of REIT Scheme",
+     "page": 29,
+     "text": [
+      "(1) Where a REIT Scheme is to be revoked upon occurrence of events mentioned in regulation 36, the Trustee shall give notice to the RMC and shall publish such notice in one English and one Urdu newspaper in respective language having circulation all over Pakistan disclosing the circumstances leading to the revocation of the REIT Scheme.",
+      "(2) On the date of publication of the notice under sub-regulation (1) of this regulation the affairs of and all information relating to the REIT Scheme shall be transferred to the Trustee till the completion of the final settlement of the affairs of the REIT Scheme.",
+      "(3) From the date of publication of the notice, the Units of the REIT Scheme shall be delisted from the relevant securities exchange and REIT Scheme shall seize to carry on its business, except so far as may be required for the beneficial revocation thereof.",
+      "(4) The Trustee shall dispose off the assets of the REIT Scheme in the best interest of the Unit Holders and any sale, settlement or arrangement executed by the Trustee in pursuance of revocation of the REIT Scheme shall be binding on the RMC and Unit Holders of the REIT Scheme.",
+      "(5) The Trustee upon the commencement of revocation process shall also submit, in addition to specified statutory reports, quarterly reports to the Commission providing details of the various steps taken by it to finalize settlement of the affairs of the trust.",
+      "(6) The proceeds from the sale of the REIT Assets shall be first utilized towards discharge of such liabilities as are due and payable by the REIT Scheme and after making appropriate provision for meeting the expenses connected with such revocation and the balance amount shall be paid to the Unit Holders in proportion to their respective interest in the assets of the REIT Scheme.",
+      "(7) In case of revocation/liquidation, sequence of claim settlement with respect to multiple types of liabilities i.e. debt raised from banks, other borrowings, construction costs, Customer Advances, etc. shall be clearly pronounced in the Information Memorandum and/or Offering Document/Prospectus.",
+      "(8) On the completion of the revocation process the Trustee shall forward to the Commission and the Unit Holders a report on the revocation process containing particulars such as circumstances leading to the revocation, the steps taken for disposal of assets of the REIT Scheme before revocation, expenses of the fund for revocation, Net Assets available for distribution to the Unit Holders and a certificate from the auditors of the REIT Scheme.[] {fn:30-87}",
+      "[(9) On receipt of report by the Trustee, the Commission, if satisfied, shall cancel registration of REIT Scheme. Upon cancellation of the REIT Scheme by the Commission, the REIT Scheme shall cease to exist and trust shall be extinguished as per applicable laws.] {fn:30-88}"
+     ],
+     "fn": [
+      {
+       "n": "30-87",
+       "text": "Omitted vide SRO 2(I)/ 2026 dated January 1, 2026 BEING A SPECIALIZED TRUST AS DEFINED UNDER (NAME OF THE TRUSTS ACT) EXECUTED AT (PLACE/CITY OF EXECUTION/, PAKISTAN EXECUTED ON (DATE…………..)]89"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XVI — Meeting Of The Unit Holders Of The Reit Scheme",
+   "sections": [
+    {
+     "no": "38",
+     "title": "Meeting of the Unit Holders",
+     "page": 30,
+     "text": [
+      "(1) The meeting of the Unit Holders shall be held in accordance with the procedure prescribed in Schedule VII to these Regulations for the following purposes:",
+      ">>(i) Transfer of management rights of REIT Scheme;",
+      ">>(ii) Extinguishment or revocation of REIT Scheme;",
+      ">>(iii) Removal of Valuer;",
+      ">>(iv) Any other purpose required in these Regulations, specified in the Information Memorandum and/or the Offering Document/Prospectus or as specified by the Commission from time to time;",
+      "(2) For the purpose of this regulation, the meeting can be called by: -",
+      ">>(i) RMC;",
+      ">>(ii) Trustee; or",
+      ">>(iii) Commission",
+      ">(a) on its own motion in the interest of REIT Scheme; or.",
+      ">(b) at the request of Unit Holders having at least twenty-five percent (25%) Units in value of the total outstanding Units of the REIT Scheme present either in person or through proxy or represented by Trustee in such meeting."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter XVII — Miscellaneous",
+   "sections": [
+    {
+     "no": "39",
+     "title": "Application of the Ordinance/Act/Securities Act, 2015 to a REIT Scheme",
+     "page": 30,
+     "text": [
+      "(1) The provisions of the Act/Ordinance/Securities Act, 2015, where applicable governing matters relating to general meetings of a company, notice for meeting to shareholders, issue of right shares, allotment and transfer of shares, prospectus, public offering, listing of securities , accounts and audit of listed companies, declaration of dividend, shall as far as may be, mutatis mutandis apply unless specified otherwise in these Regulations to the meetings of the Unit Holders, notice for meeting to Unit Holders, issue of right or bonus Units, allotment and transfer of Units, declaration and payment of dividends, prospectus, public offering, listing of Units, accounts and audit of the REIT Scheme.",
+      "(2) International Accounting Standards notified by the Commission for listed companies shall also apply to a REIT Scheme, where relevant."
+     ]
+    },
+    {
+     "no": "40",
+     "title": "Relaxation/Exemption from Regulations",
+     "page": 31,
+     "text": [
+      "(1) The Commission may, upon receipt of application and for reasons to be recorded in writing, relax or exempt a REIT Scheme from any provision of these Regulations as it deems fit in the interest of the public and/or to remove any practical difficulties under these Regulations and/or to promote green real estate/infrastructure projects.",
+      "(2) The Commission may, while granting any relaxation or exemption to the Regulations, impose any other condition as it may deem necessary in the public interest."
+     ]
+    },
+    {
+     "no": "41",
+     "title": "Reporting Requirements",
+     "page": 31,
+     "text": [
+      "(1) An RMC shall report the following to the Commission on half yearly basis:",
+      ">>(i) Issuance of Units to the Investor;",
+      ">>(ii) Progress report on completion of the REIT Project;",
+      ">>(iii) Name of intermediaries and change in intermediaries, if any;",
+      ">>(iv) REIT fund size/ Capital Structure;",
+      ">>(v) Material event relating to RMC, REIT Scheme, REIT Project, Trustee;",
+      ">>(vi) Financial highlights of REIT Scheme;",
+      ">>(vii) Latest NAV of the REIT Scheme; (viii) Any other information specified by the Commission."
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Repeal and Savings",
+     "page": 31,
+     "text": [
+      "(1) The Real Estate Investment Trust Regulations, 2015 are hereby repealed:",
+      "Provided that repeal of the said regulations under sub-regulation (1), shall not-",
+      ">>(i) revive anything not in force at the time at which the repeal take effect; or",
+      ">>(ii) affect the previous operation of the repealed instruments or anything duly done or suffered thereunder; or",
+      ">>(iii)affect any right, privilege, obligation or liability acquired, accrued or incurred under or in respect of the said repealed instruments; or",
+      ">>(iv) affect any penalty imposed, forfeiture made or punishment incurred in respect of any offence committed against or in violation of the repealed instrument; or",
+      ">>(v) affect any inspection, investigation, prosecution, legal proceeding or remedy in respect of any obligation, liability, penalty, forfeiture or punishment as aforesaid, and any such inspection, investigation, prosecution, legal proceedings or remedy may be made, continued or enforced and any such penalty, forfeiture or punishment may be imposed, as if these regulations has not been notified.",
+      "(2) Save as otherwise specifically provided, nothing in these Regulations shall affect or be deemed to affect anything done, action taken, investigation or proceedings commenced, order, relaxation granted unless withdrawn, appointment, conveyance, mortgage deed, document or agreement made, fee paid or accrued, resolution passed, direction given, restrictions or conditions imposed, proceedings taken or instrument executed or issued, under the repealed Real Estate Investment Trust Regulations, 2015 and any such thing, action, investigation, proceedings, order, appointment, conveyance, mortgage deed, document, agreement, fee, resolution, direction, proceedings or instrument shall, if in force at the coming into force of these Regulations and not inconsistent with any of the provisions of these Regulations, continue to be in force, and shall have effect as if it were respectively done, taken, commenced, imposed, made, directed, passed, given, executed or issued under these Regulations."
+     ]
+    }
+   ]
+  }
+ ]
+}

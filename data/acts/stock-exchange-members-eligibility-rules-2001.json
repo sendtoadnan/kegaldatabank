@@ -1,0 +1,74 @@
+{
+ "id": "stock-exchange-members-eligibility-rules-2001",
+ "title": "Members, Agents and Traders Eligibility Standards Rules, 2001",
+ "number": "S.R.O. 150(I)/2001",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "stock-exchange-members-eligibility-rules-2001.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Members, Agents and Traders Eligibility Standards Rules, 2001' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These rules may be called the Members’ Agents and Traders (Eligibility Standards) Rules, 2001.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "In these rules, unless there is anything repugnant in the subject of context, --",
+      ">(a) “agent” means a person appointed by a member of a Stock Exchange to act on his behalf for the purpose recognized by a stock exchange and includes a sub-broker or head of a branch office;",
+      ">(b) “Commission” means Securities and Exchange Commission of Pakistan;",
+      ">(c) “trader” means an employee of a member who is authorized by such member to execute trade of the investors through the automated trading system in such exchange."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Eligibility criteria",
+     "page": 1,
+     "text": [
+      "(1) The eligibility criteria for registration as an agent shall be as follows, namely :-",
+      "In the case of an individual, the applicant:",
+      ">(a) is not less than 21 years of age;",
+      ">(b) is a citizen of Pakistan;",
+      ">(c) is not a lunatic or a person of unsound mind;",
+      ">(d) has not been convicted of any offence involving fraud or breach of trust;",
+      ">(e) has not been removed as an agent by a member of a stock exchange for fraud or breach of trust and furnish a certificate of that effect from his previous employee;",
+      ">(f) has at least passed graduation or equivalent examination from an institution recognized by the Government:",
+      "Provided that the Commission may relax the educational qualification on merits having regard to the applicant’s experience;",
+      ">(g) has attended a course for the agents prescribed by the stock exchange and approved by the Commission;",
+      ">(h) has at least two years experience in a related field such as banking, accountancy or in a broker’s office;",
+      ">(i) has faithfully complied with all general and specific directives of the Commission; and",
+      ">(j) in the case of partnership a firm or a body corporate, the partners or directors, as the case may be, shall comply with the requirements contained in clause (i).",
+      "(2) The aforesaid conditions shall also apply to the trader employed by a member.",
+      "ABDUL HALEEM JADRAN Joint Director"
+     ]
+    }
+   ]
+  }
+ ]
+}

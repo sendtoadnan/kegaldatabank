@@ -1,0 +1,28 @@
+{
+ "id": "fmu-aml-regulations-2015",
+ "title": "Anti-Money Laundering Regulations, 2015 (Financial Monitoring Unit)",
+ "number": "Securities and Exchange Commission of Pakistan",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "aml"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on the FMU's website (23 Nov 2026)",
+ "status": "in-force",
+ "source": {
+  "name": "Financial Monitoring Unit, Government of Pakistan",
+  "url": "https://www.fmu.gov.pk"
+ },
+ "sourcePdf": "fmu-aml-regulations-2015.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "FMU PDF 'Anti-Money Laundering Regulations, 2015 (Financial Monitoring Unit)' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}

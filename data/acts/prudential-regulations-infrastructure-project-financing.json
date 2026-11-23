@@ -1,0 +1,31 @@
+{
+ "id": "prudential-regulations-infrastructure-project-financing",
+ "title": "Prudential Regulations for Infrastructure Project Financing (IPF)",
+ "number": "State Bank of Pakistan, Infrastructure, Housing & SME Finance Department",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [
+  "IPF Prudential Regulations"
+ ],
+ "lastAmended": "2016-01-30",
+ "amendedUpToLabel": "30 January 2016 (date as listed by the State Bank)",
+ "status": "in-force",
+ "source": {
+  "name": "State Bank of Pakistan (laws and regulations page, downloaded by the library's editor)",
+  "url": "https://www.sbp.org.pk"
+ },
+ "sourcePdf": "prudential-regulations-infrastructure-project-financing.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "State Bank of Pakistan PDF downloaded from sbp.org.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Shown as the State Bank's PDF as downloaded on 23 Nov 2026 (its layout does not allow reliable conversion into regulations); read it in the PDF. The State Bank may have issued later circulars amending it.",
+ "pdfOnly": true
+}

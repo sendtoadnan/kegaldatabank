@@ -1,0 +1,29 @@
+{
+ "id": "psx-rule-book",
+ "title": "Pakistan Stock Exchange Limited Rule Book",
+ "number": "Pakistan Stock Exchange Limited",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "lastAmended": "2025-08-27",
+ "amendedUpToLabel": "27 August 2025 (PSX website)",
+ "status": "in-force",
+ "source": {
+  "name": "Pakistan Stock Exchange Limited",
+  "url": "https://www.psx.com.pk"
+ },
+ "sourcePdf": "psx-rule-book.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "PSX PDF 'PSX-Rulebook-August-27-2025' downloaded from psx.com.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Exchange rules made by the Pakistan Stock Exchange, not a statute. Shown as the PDF on PSX's website dated 27 August 2025 (its layout does not allow reliable conversion into rules); later amendments may not be shown.",
+ "pdfOnly": true
+}

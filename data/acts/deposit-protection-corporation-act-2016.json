@@ -1,0 +1,716 @@
+{
+ "id": "deposit-protection-corporation-act-2016",
+ "title": "Deposit Protection Corporation Act, 2016",
+ "number": "Act No. XXXVII of 2016",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [
+  "DPC Act"
+ ],
+ "enacted": "2016-01-01",
+ "amendedUpToLabel": "Edition date not stated on the State Bank's copy",
+ "status": "in-force",
+ "source": {
+  "name": "State Bank of Pakistan (legal page, downloaded by the library's editor)",
+  "url": "https://www.sbp.org.pk"
+ },
+ "sourcePdf": "deposit-protection-corporation-act-2016.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "State Bank of Pakistan website PDF, downloaded by the editor 22-23 Nov 2026; verification declared by the editor, not a line-by-line check",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "WHEREAS it is expedient to provide for the establishment, management and control of Deposit Protection Corporation as a subsidiary of the State Bank of Pakistan, for protection of [the depositors of member institutions, in order to contribute towards] financial stability of, and maintain public trust in, the financial system and for matters connected therewith or ancillary thereto; It is hereby enacted as follows:⸺",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, extent and commencement",
+     "page": 4,
+     "text": [
+      "(1) This Act may be called the Deposit Protection Corporation Act, 2016.",
+      "(2) It extends to the whole of Pakistan.",
+      "(3) It shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 4,
+     "text": [
+      "In this Act, unless there is anything repugnant in the subject or context,—",
+      ">(a) “banking company” has the same meaning as defined in section 5 of the Banking Companies Ordinance, 1962 (LVII of 1962);",
+      ">(b) “Board” means the Board of directors of the Corporation;",
+      ">{fn:4-1}[(ba) \"bridge institution\" means bridge bank or any other entity established under section 42H of the Banking Companies Ordinance, 1962 (LVII of 1962);]",
+      ">(c) “Chairman” means the Chairman of the Board;",
+      ">(d) “Director” means a member of the Board;",
+      ">{fn:4-1}[(da) \"eligible depositors” means such depositors as stated under sub-section (1) of section 8;]",
+      ">(e) “Corporation” means the Deposit Protection Corporation established under sub-section (1) of section 3;",
+      ">(f) “failed institution” means {fn:4-1}[a] member institution that {fn:4-1}[as such] by the State Bank under sub-section (1) of section 21;",
+      ">(g) “Governor” means the Governor of the State Bank and includes an Acting Governor;",
+      ">(h) “Managing Director” means the Managing Director appointed under section 12;",
+      ">(i) “member institution” means a banking company or a financial institution which is notified by the Corporation as a member institution and which is required to pay premium to the Corporation under the provisions of this Act;",
+      ">{fn:5-1}[(la) \"resolution\" refers to the process of exercising one or more of the resolution powers as provided in section 42E of the Banking Companies Ordinance, 1962 (LVII of 1962), with a view to achieve the resolution objectives, including by ensuring the continuity of a member institution's critical functions, as specified by the State Bank;]",
+      ">(j) “prescribed” means prescribed by rules or regulations made under this Act;",
+      ">(k) “protected deposit” means the deposit protected under section 7, {fn:5-1}[***];",
+      ">(l) “regulations” means regulations made under this Act;",
+      ">(m) “rules” means rules made under this Act;",
+      ">(n) “seal” means the common seal of the Corporation; and",
+      ">(o) “State Bank” means the State Bank of Pakistan established under the State Bank of Pakistan Act, 1956 (XXXIII of 1956).",
+      "CHAPTER-II",
+      "ESTABLISHMENT AND OPERATION OF THE CORPORATION"
+     ],
+     "fn": [
+      {
+       "n": "4-1",
+       "text": "Subs. and ins. by Act No. XXVII of 2024, ss. 2 & 3."
+      },
+      {
+       "n": "5-1",
+       "text": "Ins., omitted and subs. by Act No. XXVII of 2024, ss.3 & 4."
+      }
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Establishment of the Corporation",
+     "page": 5,
+     "text": [
+      "(1) On the commencement of this Act, there shall be established a Corporation to be called Deposit Protection Corporation.",
+      "(2) The Corporation shall be a body corporate having perpetual succession and a seal and shall by the said name sue and be sued.",
+      "(3) The head office of the Corporation shall be situated in Karachi. It may shift the head office and establish offices in Pakistan with the prior approval, in writing, of the State Bank."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Corporation to be a subsidiary of the State Bank",
+     "page": 5,
+     "text": [
+      "The Corporation shall be a subsidiary of the State Bank."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Objectives of the Corporation",
+     "page": 5,
+     "text": [
+      "{fn:5-1}[The objectives of the Corporation are to protect eligible depositors from losses to the extent of protected deposits and contribute to financial stability by reimbursing such deposits, in a failed institution and providing financial support for the resolution of a member institution.]"
+     ],
+     "fn": [
+      {
+       "n": "5-1",
+       "text": "Ins., omitted and subs. by Act No. XXVII of 2024, ss.3 & 4."
+      }
+     ]
+    },
+    {
+     "no": "5A",
+     "title": "Member institutions of the Corporation",
+     "page": 6,
+     "text": [
+      "{fn:6-1}[All banks scheduled under sub-section (2) of section 37 of the State Bank of Pakistan Act, 1956 (XXXIII of 1956) and microfinance banks as defined under section 2 of the Microfinance Institutions Ordinance, 2001 (LV of 2001) unless exempted or excluded by the Board, shall compulsorily be member institutions of the Corporation and liable to pay the prescribed premium.]"
+     ],
+     "fn": [
+      {
+       "n": "6-1",
+       "text": "Ins., omitted, subs., and added by Act No. XXVII of 2024, ss.5 & 6."
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Business and functions of the Corporation",
+     "page": 6,
+     "text": [
+      "The Corporation, under the overall supervision and control of the Board, may transact and carry on all or any of the following functions, namely:—",
+      ">(a) collect premiums and contributions from member institutions and others;",
+      ">(b) acquire, hold, manage and invest resources of the Corporation;",
+      ">(c) receive grants and borrow moneys;",
+      ">(d) assess and verify claims of the depositors made against the failed institution;",
+      ">(e) make or cause to be made payments to the {fn:6-1}[eligible] depositors to the extent of protected deposits;",
+      ">(f) recover payments made on account of protected deposits from the assets of failed institutions;",
+      ">(g) incur any expenses concerning its functions;",
+      ">(h) enter into any contracts or other arrangements or any financial or other transactions;",
+      ">(i) issue guarantees and indemnities;",
+      ">(j) purchase, hold, manage, lease, encumber, transfer and dispose of any property and assets;",
+      ">(k) hire, employ or retain any person as an employee, agent or consultant on full time, temporary or on deputation basis and make necessary regulations for the terms and conditions of their service;",
+      ">(l) create awareness among general public and depositors about the deposit protection scheme as contained in this Act; {fn:6-1}[*]",
+      ">(m) carry on any business, discharge any functions and exercise powers as are necessary for, incidental to, or in connection with, affairs of the Corporation or any other act or deed deemed by the Board to be in the interest of the Corporation or for the advancement of the purposes of this Act {fn:6-1}[;]",
+      ">{fn:6-1}[(n) make or cause to be made payments for resolution of a member institution;",
+      ">(o) recover payments on account of financial support provided and costs incurred for resolution; and",
+      ">(p) enter into an agreement or memorandum of understanding or any reciprocal arrangement, with other deposit protection agencies, by whatever name called, or any domestic or foreign authorities responsible for the supervision, regulation or resolution of financial institutions or any other authority, in pursuance of its objectives, notwithstanding the provisions of any other law for the time being in force, and subject to measures the Corporation considers appropriate to protect the confidentiality of any non-public information:",
+      "Provided that any agreement or memorandum of understanding or any reciprocal arrangement, with any foreign regulatory, supervisory or resolution authority under this clause, shall be carried out subject to the prior approval of the Federal Government.]"
+     ],
+     "fn": [
+      {
+       "n": "6-1",
+       "text": "Ins., omitted, subs., and added by Act No. XXVII of 2024, ss.5 & 6."
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Protected deposits",
+     "page": 7,
+     "text": [
+      "(1) The Corporation shall guarantee {fn:7-1}[*] payment of funds held in {fn:7-1}[an eligible] depositor’s accounts with a member institution, regardless of the number and size of the {fn:7-1}[deposit accounts, up to an amount and in the manner as] prescribed by the Corporation from time to time.",
+      "(2) The above amount shall be inclusive of any interest accrued or return due as at the date of the notification of the State Bank under sub-section (1) of section 21.",
+      "(3) Shariah compliant mechanism of deposit protection in respect of {fn:7-1}[member institutions operating under Islamic mode of finance] shall be provided in the prescribed manner which shall be approved by the State Bank’s Shariah {fn:7-1}[Advisory Committee].",
+      "(4) Within ninety days of its commencement of business, the Corporation shall publish, in at least two daily newspapers having wide circulation, the {fn:7-1}[amount of protected deposit] as provided under sub-section (1). Any subsequent change in the {fn:7-1}[amount of protected deposit] shall be in same way published in two daily newspapers having wide circulation {fn:7-1}[and on the website of the Corporation]."
+     ],
+     "fn": [
+      {
+       "n": "7-1",
+       "text": "Omitted, ins., subs., and added by Act No. XXVII of 2024, ss. 7 & 8."
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "",
+     "page": 7,
+     "text": [
+      "[Eligible depositors and exceptions].—(1) {fn:7-1}[All depositors of the member institution, except for the following, shall be eligible depositors:]",
+      ">(a) persons who have been granted preferential interest or return in deviation from the terms and conditions announced by a member institution which the member institution is obliged to apply to all its depositors of similar category;",
+      ">(b) members of the Board of Directors and senior management of a member institution including chief executive officer and key executives;",
+      ">(c) partners of auditing firms responsible to certify the member institutions’ financial statements;",
+      ">(d) persons having acquired rights to a deposit after the issuance of the State Bank’s notification under sub-section (1) of section 21;",
+      ">(e) spouse, dependent lineal ascendants and descendants and dependent brothers and sisters of the persons specified in clauses (b), (c) and (d);",
+      ">(f) any member institution whose deposits are in its name and on its account;",
+      ">(g) government or government institutions; {fn:8-1}[or]",
+      ">(h) any company as defined under the {fn:8-1}[Companies Act, 2017 (XIX of 2017), excluding a company registered as a single member company, Trust, NonGovernmental Organization or Non-profit Organization.]",
+      ">(i){fn:8-1}[* * * * *]",
+      "{fn:8-1}[(1A) The Board may exclude any other person or class of persons, institution or depositor from eligible depositors and any type of deposits or funds from protected deposits:",
+      "Provided that such exclusions may be reviewed by the Board from time to time. Such decision shall be published by the Corporation in two daily newspapers having wide circulation and on the website of the Corporation.]",
+      "(2) {fn:8-1}[The] deposits arising out of or related to transactions or actions constituting ‘money laundering’ within the meaning of the Anti-Money Laundering Act, 2010 (VII of 2010), if the offender has been convicted of such offence {fn:8-1}[, shall not be guaranteed under this law.]"
+     ],
+     "fn": [
+      {
+       "n": "7-1",
+       "text": "Omitted, ins., subs., and added by Act No. XXVII of 2024, ss. 7 & 8."
+      },
+      {
+       "n": "8-1",
+       "text": "Added, subs., omitted and ins. by Act No. XXVII of 2024, ss. 8 & 9."
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Share capital and limited liability",
+     "page": 8,
+     "text": [
+      "(1) The authorized share capital of the Corporation shall be one billion rupees or such other amount as the State Bank may, from time to time, determine by order in writing and shall be divided into shares of one million rupees each.",
+      "(2) The paid-up capital of the Corporation shall be such amount as may, from time to time, by order in writing be determined by the State Bank and contributed by the shareholders.",
+      "(3) The share capital may be divided into different kinds and classes as may be prescribed.",
+      "(4) The liability of shareholders of the Corporation shall be limited to the amount, if any, not fully paid-up on the shares held by them in the capital of the Corporation.",
+      "(5) No dividend shall be payable to the shareholders of the Corporation.",
+      "{fn:8-1}[(6) An amount equal to the paid-up capital of the Corporation contributed under sub-section (2) shall always remain preserved and shall not be used for payment to eligible depositors or providing financial support for resolution or for any other purpose except for making investments as specified under section 19.]"
+     ],
+     "fn": [
+      {
+       "n": "8-1",
+       "text": "Added, subs., omitted and ins. by Act No. XXVII of 2024, ss. 8 & 9."
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Board of directors",
+     "page": 9,
+     "text": [
+      "(1) The general superintendence, direction and management of affairs and business of the Corporation and overall policy making in respect of its operations shall vest in the Board which may exercise all such powers and do all such acts, deeds and things that may be exercised or done by the Corporation.",
+      "(2) The Board shall consist of the following seven directors, namely:—",
+      ">(a) a Deputy Governor of the State Bank as nominated by the State Bank;",
+      ">(b) four directors to be appointed on nomination by the Federal Government in consultation with the State Bank, {fn:9-1}[***] from among the persons who have knowledge of banking, commerce, industry, economics, finance or law and neither of these directors shall be an officer of the Federal or a Provincial Government or of the State Bank or an employee or director or shareholder of the member institution;",
+      ">(c) one director, an official of the Ministry of Finance, to be appointed on the recommendation of the Federal Government; and",
+      ">(d) the Managing Director.",
+      "(3) The directors appointed under clause (b) of sub-section (2) shall hold office for a term of three years and shall be eligible for re-appointment for an additional term of three years on the basis of their performance in the first term.",
+      "(4) The meetings of the Board shall be held at such times and places as may be prescribed or, until so prescribed, as and when convened by the Chairman.",
+      "(5) The directors shall be paid by the Corporation such fees and allowances for attending meetings of the Board or of any of its committees and for attending any other work of the Corporation as may be prescribed.",
+      "(6) No act or proceedings of the Board shall be invalid merely on the ground of existence of any vacancy in, or defect in the constitution of, the Board.",
+      "(7) The quorum of meetings of the Board shall be as may be prescribed or, until so prescribed, shall be three directors.",
+      "(8) All decisions of the Board shall be taken by majority of the directors present and voting at a meeting duly convened and held and in the event of an equality of votes the Chairman may exercise a casting vote.",
+      "(9) A resolution in writing signed by all directors shall be as effective as if such resolution had been passed at a meeting of the Board.",
+      "(10) Till such time the Board is constituted or three months of the commencement of this Act, whichever is earlier, all powers of the Board shall vest in the State Bank."
+     ],
+     "fn": [
+      {
+       "n": "9-1",
+       "text": "Omitted by Act No. XXVII of 2024, s. 10."
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Chairman",
+     "page": 10,
+     "text": [
+      "(1) The Deputy Governor of the State Bank shall be the Chairman of the Board.",
+      "(2) The Chairman shall, whenever present, preside over meetings of the Board. In absence of the Chairman, the directors present shall choose one of them to be the Chairman for such meeting."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Managing Director",
+     "page": 10,
+     "text": [
+      "(1) The State Bank shall appoint a professional person, who has significant experience in banking, finance, accountancy, business administration or public administration, as Managing Director of the Corporation for a term of five years and he shall be eligible for re-appointment for another term of five years on the basis of his performance in the first term:",
+      "Provided that the Managing Director may delegate his powers, by general or special order in writing, to senior executive of the Corporation for managing day- to- day affairs during his leave period or absence from Pakistan:",
+      "Provided further that if the office of Managing Director is vacant, the State Bank may appoint any of its senior executives as acting Managing Director for a period not exceeding three months.",
+      "(2) The Managing Director shall be the chief executive officer of the Corporation and shall, subject to the control and direction of the Board, administer affairs of the Corporation and shall have such powers for this purpose as are from time to time delegated to him by the Board.",
+      "(3) The salary and other terms and conditions of service of the Managing Director shall be such as the Board may determine except that neither the salary of the Managing Director nor his other terms and conditions of service shall be varied to his disadvantage after his appointment.",
+      "(4) The Managing Director shall devote his full time and attention to affairs of the Corporation, provided that the Managing Director may, in addition to his duties as the Managing Director, be entrusted with such other duties for such period as the Board may, by order in writing, determine."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Disqualifications of the directors",
+     "page": 10,
+     "text": [
+      "No person shall be appointed or hold office as director who—",
+      ">(a) is a member of the Senate, National Assembly, any Provincial Assembly or an elected member of a local council or local body constituted under any law relating to local councils or local bodies;",
+      ">(b) is a director, officer or employee of any banking company or financial institution or has an interest as a shareholder in a banking company or financial institution:",
+      "Provided that nothing in this clause shall apply where the director is in the employment of the, State Bank or its subsidiaries or where the director is, in addition to holding the office of director, entrusted with additional duties by the Board or State Bank;",
+      ">(c) has been convicted of tax evasion under any law or has been convicted or proceedings are pending against him under section 412 of the Companies Ordinance, 1984 (XLVII of 1984) or section 83 of the Banking Companies Ordinance, 1962 (LVII of 1962) or has been convicted by a court of law for an offence involving moral turpitude;",
+      ">(d) has been deprived of the right to hold a position of financial responsibility;",
+      ">(e) is in default of payments due from him to any banking company, financial institution, cooperative society, Government department, Government controlled or managed company or corporation and for the purpose of this clause, default in payment by the spouse, dependent children and companies, firms and other business concerns under the control or management of a person shall be considered as the default of such person; or",
+      ">(f) holds an office in a political party."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Removal of a director",
+     "page": 11,
+     "text": [
+      "A director or the Managing Director may be removed by the State Bank by an order in writing where it is established that—",
+      ">(a) any of the circumstances referred to in section 13 {fn:11-1}[becomes] applicable;",
+      ">(b) he has become physically or mentally incapable of carrying out his responsibilities for a continuous period of six months or more;",
+      ">(c) he has been engaged in a serious misconduct;",
+      ">(d) his activities impair the Corporation’s interests;",
+      ">(e) he has been absent from three or more successive meetings of the Board without reasonable ground; or",
+      ">(f) otherwise the State Bank considers him to be unfit to be a director or, as the case may be, Managing Director."
+     ],
+     "fn": [
+      {
+       "n": "11-1",
+       "text": "Subs. and ins. by Act No. XXVII of 2024, ss.11 & 12."
+      }
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Disclosure of interest",
+     "page": 11,
+     "text": [
+      "(1) Every director and employee of the Corporation shall disclose in writing to the Board {fn:11-1}[and the Managing Director respectively,] any commercial, financial or other business interest which he or his family members may have, whether directly or indirectly, and which may have adverse implications for the Corporation’s interest.",
+      "(2) In performing their obligations, the persons under sub-section (1) shall be bound to place the Corporation’s interests before their own interests.",
+      "(3) Directors shall not participate in any discussion and shall restrain from voting on the issues in which their commercial, financial or other business interest, or those of their families, is involved."
+     ],
+     "fn": [
+      {
+       "n": "11-1",
+       "text": "Subs. and ins. by Act No. XXVII of 2024, ss.11 & 12."
+      }
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Committees of directors",
+     "page": 11,
+     "text": [
+      "(1) The Board may constitute one or more committees consisting of such number of directors as it may determine.",
+      "(2) The powers, functions, duties and other terms of appointment of a committee of directors shall be such as the Board may determine.",
+      "(3) The members of a committee of directors shall hold office for such period as the Board may determine.",
+      "(4) The minutes of every meeting of a committee of directors shall be presented before the Board at its next meeting following the meeting of the committee.",
+      "(5) Subject to general and any special directions of the Board, a committee of directors shall deal with any matter entrusted to it by the Board."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Corporation’s resources",
+     "page": 12,
+     "text": [
+      "(1) The sources of the Corporation’s resources shall, among others, consist of the following, namely:—",
+      ">(a) the paid-up share capital;",
+      ">(b) initial premiums from member institutions;",
+      ">(c) periodic premiums from member institutions;",
+      ">(d) return on the investments;",
+      ">{fn:12-1}[(e) proceeds received from resolution or winding-up of a member institution for claims arising out of payment to eligible depositors or financial support for resolution; or]",
+      ">(f) other sources including loans, donations, grants and foreign assistance etc."
+     ],
+     "fn": [
+      {
+       "n": "12-1",
+       "text": "Subs. and ins. by Act No. XXVII of 2024, ss. 13 & 14."
+      }
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Financing the Corporation in shortfall of resources",
+     "page": 12,
+     "text": [
+      "(1) If at any time, resources of the Corporation fall short of its liabilities under this Act, such shortfall may be covered in one of the following ways, namely:—",
+      ">(a) requiring member institutions to pay advance premium;",
+      ">(b) increasing the premium;",
+      ">{fn:12-1}[(ba) interim loan or finance by the State Bank, on such terms and conditions as the State Bank may specify, subject to an irrevocable written guarantee of the Federal Government in favor of the State Bank to secure the repayment of the facility;]",
+      ">(c) drawing loans in accordance with the terms and conditions prescribed by the Board; and",
+      ">(d) allocations from the Federal Government.",
+      "(2) The amount paid in advance under clause (a) of sub-section (1) shall be adjusted against future premiums.",
+      "(3) The maximum amount of the increased premium contribution under clause (b) of sub-section (1) may not exceed such percentage of the deposit base as prescribed by the Board.",
+      "(4) Loans drawn by the Corporation may be secured by a guarantee issued by the Federal Government, State Bank or by Corporation’s assets, including Corporation’s future claims on member institutions for premium contributions."
+     ],
+     "fn": [
+      {
+       "n": "12-1",
+       "text": "Subs. and ins. by Act No. XXVII of 2024, ss. 13 & 14."
+      }
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Investments made and accounts maintained by the Corporation",
+     "page": 13,
+     "text": [
+      "(1) The Corporation may invest in—",
+      ">(a) Government securities issued or securities guaranteed by the Government; or",
+      ">(b) any other investment avenue as approved by the Board:",
+      "Provided that the Corporation shall formulate an investment policy within ninety days of its commencement of business. The investment policy shall be designed keeping in view objectives of the Corporation and in line with underlying factors like risks and liquidity.",
+      "(2) The Corporation shall open and maintain account with SBP Banking Services Corporation or with any other financial institution with prior approval of the Board."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Determining size of deposits",
+     "page": 13,
+     "text": [
+      "(1)The total amount of a member institution’s liability to {fn:13-1}[an eligible depositor] shall be determined by adding up all {fn:13-1}[the eligible depositor’s] deposits, including interest accrued or return due as at the date of notification under sub-section (1) of section 21. {fn:13-1}[*****]",
+      "(2) In the event of a joint deposit, each person’s portion shall be taken into account in establishing the total amount of that person’s deposits held by a member institution. If it is not otherwise provided for in the deposit contract, it shall be assumed that the depositors’ portions are equal.",
+      "(3) In the event of a deposit contract in favour of a third party, the person in whose favour the deposit has been opened (the beneficiary) shall be entitled to receive a payment from the Corporation unless it is otherwise provided for in the contract. If there is more than one beneficiary, the joint depositor rule as provided in sub-section (2) shall apply.",
+      "(4) A deposit which is encumbered or serves as collateral shall be included in the adding up under sub-section (1) and the amount due on the deposit shall not be paid to the titleholder of the deposit until the said encumbrance or security has been lifted. Where an order issued by a court in respect of such deposit is effective, the Corporation shall pay the amount due on the deposit to the person who is designated in the order as the person authorized to receive the deposit amount."
+     ],
+     "fn": [
+      {
+       "n": "13-1",
+       "text": "Subs. & Omitted by Act No. XXVII of 2024, ss.15 & 16."
+      }
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Terms and procedures for reimbursement of protected deposits",
+     "page": 13,
+     "text": [
+      "{fn:13-1}[ (1) The State Bank shall, by a notification to the Corporation, declare a member institution as a failed institution if:⸺",
+      ">(a) the State Bank has withdrawn the license of the member institution; or",
+      ">(b) an order has been made by the High Court to wind up the member institution; or",
+      ">(c) the State Bank has determined that the member institution is unable to pay its depositors.",
+      "(2) The Corporation shall pay eligible depositors of the failed institution up to the amount protected, in the cases where the State Bank has issued a notification under sub-section (1).",
+      "(3) The Corporation shall owe no interest or return on protected amounts.",
+      "(4) The Corporation shall pay the amount of protected deposit in cash or through transfer to any banking company or in any other way as determined by the Board.",
+      "(5) As soon as possible, after the issuance of notification under sub section (1), the Corporation shall collect necessary information and cause the same to be published in at least two daily newspapers having wide circulation and on the website of the Corporation, including information about the date after which eligible depositors shall be paid by the Corporation and the procedure for payments.",
+      "(6) Payments from the Corporation to the eligible depositors shall begin as early as possible from the date of the notification under sub-section (1). The Corporation shall ensure that payments to most of the eligible depositors are made or tendered within seven working days and that all payments are made or tendered within thirty working days at the latest, if there is no dispute as to the entitlement to, or ownership of, the deposit or where such deposit is not withheld or blocked in accordance with any law for the time being in force or under any order of Court.",
+      "(7) For foreign currency denominated deposits, the eligible depositor shall be paid the Rupee equivalent of the protected deposit amount at the exchange rate declared by the State Bank on the day of the notification under sub-section (1).",
+      "(8) In order to ensure smooth payment of protected deposit to eligible depositors, the Corporation may⸺",
+      ">(a) request the State Bank to assist in utilizing the branch network and any other resources of the member institution, declared as failed under sub-section (1);",
+      ">(b) request the liquidator appointed under section 51 of the Banking Companies Ordinance, 1962 (LVII of 1962), to-facilitate in reimbursement of protected deposits;",
+      ">(c) engage one or more member institutions for making payment to eligible depositors;",
+      ">(d) issue necessary directives to the member institutions for making payments of protected deposits; and",
+      ">(e) make payment directly to eligible depositors through bank draft or any other mode available.",
+      "(9) A member institution's liability towards its eligible depositors shall be reduced proportionally by the amounts paid by the Corporation to them under sub-section (2) and shall be replaced by an equivalent liability to the Corporation.",
+      "(10) A failed member institution shall be liable to the Corporation for an amount equal to any financial support provided under section 22A by the Corporation for its resolution and for any direct costs incurred by the Corporation for providing financial support or making payments to the eligible depositors.",
+      "(11) For the amount so paid by the Corporation to eligible depositors and to the extent of financial support provided for resolution, the Corporation shall assume and replace all rights of every such depositor including their priority rights under section 58 of the Banking Companies Ordinance, 1962 (LVII of 1962).",
+      "(12) The Corporation shall regularly notify the liquidator or the assignee in bankruptcy of the failed institution about the amount paid by the Corporation to any eligible depositor, any direct costs incurred and any financial support provided for the resolution of a member institution.",
+      "(13) As and when requested by the Corporation, the liquidator of the failed institution or the bridge institution shall share information with the Corporation on all recoveries and proceeds received from sale of assets of that failed institution.]"
+     ],
+     "fn": [
+      {
+       "n": "13-1",
+       "text": "Subs. & Omitted by Act No. XXVII of 2024, ss.15 & 16."
+      }
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Priority of claims",
+     "page": 15,
+     "text": [
+      "{fn:15-1}[(1) Notwithstanding anything contained in the Companies Act, 2017 (XIX of 2017), and any other law in respect of insolvency or liquidation or tax, the claim of the Corporation against the failed institution shall have priority over all unsecured claims under section 58 of the Banking Companies Ordinance, 1962 (LVII of 1962) to the extent of:",
+      ">(a) protected deposit paid or to be paid;",
+      ">(b) financial support provided for resolution of the failed institution;",
+      ">(c) any direct costs incurred for such payments and support; and",
+      ">(d) any arrears of outstanding premium.",
+      "(2) For the avoidance of doubt, it is clarified that payment to eligible depositors, to the extent of protected deposit, of a failed institution as declared under sub-section (1) of section 21 shall be made only through the Corporation.]"
+     ],
+     "fn": [
+      {
+       "n": "15-1",
+       "text": "Subs. and ins. by Act No. XXVII of 2024, ss.17 & 18."
+      }
+     ]
+    },
+    {
+     "no": "22A",
+     "title": "Provision of financial support for resolution",
+     "page": 15,
+     "text": [
+      "{fn:15-1}[ In the event of resolution of a member institution under the provisions of the Banking Companies Ordinance, 1962 (LVII of 1962), the Corporation may provide financial support to facilitate the process of resolution, subject to the provisions laid down in sub-section (1) of section 22B, in accordance with the resolution scheme prepared by the State Bank and as per the procedures approved by the Board."
+     ],
+     "fn": [
+      {
+       "n": "15-1",
+       "text": "Subs. and ins. by Act No. XXVII of 2024, ss.17 & 18."
+      }
+     ]
+    },
+    {
+     "no": "22B",
+     "title": "Terms and conditions for provision of financial support for resolution",
+     "page": 15,
+     "text": [
+      "(1) No financial support shall be provided by the Corporation for resolution of a member institution unless the State Bank, based on its assessment shared with the Corporation, has concluded that:",
+      ">(a) as a result of resolution, protected deposits shall be owed by a viable member institution;",
+      ">(b) the resolution of the member institution requires financial support to be provided by the Corporation;",
+      ">(c) as a result of resolution, holders of all classes of share capital and any subordinated debt have absorbed or will absorb the losses immediately before an order is made under section 42D of the Banking Companies Ordinance, 1962 (LVII of 1962);",
+      ">(d) any financial support by the Corporation under sub-section (1) shall not exceed the estimated amount needed to reimburse eligible depositors under sub-section 2 of section 21 and any direct costs associated for such reimbursement:",
+      "Provided that where all assets and liabilities of a member institution are transferred under a scheme of amalgamation, the estimated recoveries of the Corporation in the event of the winding-up of the member institution shall be deducted from the amount provided by the Corporation for such financial support.",
+      "(2) Where the protected deposits have been transferred to a transferee institution or a bridge institution during resolution, the Corporation shall be deemed to have discharged its reimbursement obligations in relation to protected deposits in the member institution under resolution."
+     ]
+    },
+    {
+     "no": "22C",
+     "title": "Modes for providing financial support for resolution",
+     "page": 16,
+     "text": [
+      "(1) The Corporation may provide financial support, based on the valuation under sub-section (2) of section 42E of the Banking Companies Ordinance, 1962 (LVII of 1962), for resolution of a member institution by:⸺",
+      ">(a) paying any difference between the assets and liabilities to be transferred to a transferee institution under a scheme of amalgamation, or to a bridge institution;",
+      ">(b) issuing guarantees or providing indemnities for losses related to the transferred assets and liabilities under a scheme of amalgamation;",
+      ">(c) paying any compensation under sub-section (7) of section 42E of the Banking Companies Ordinance, 1962 (LVII of 1962), to the extent arising because of any action taken by the State Banks to facilitate the transfer of protected deposits under a scheme of amalgamation; or",
+      ">(d) contributing to the recapitalization of the member institution under a scheme of reconstruction, to the extent that protected deposits would have absorbed losses in line with their priority under section 58 of the Banking Companies Ordinance, 1962 (LVII of 1962), if these deposits had not been part of exclusions under section 42G of the Banking Companies Ordinance, 1962 (LVII of 1962).",
+      "(2) In case the liquidator under the Banking Companies Ordinance, 1962 (LVII of 1962), has prepared a scheme to transfer the assets and liabilities of the member institution under liquidation to a transferee institution in terms of powers provided under sub-section (4) of section 51 of the Banking Companies Ordinance, 1962 (LVII of 1962), the Corporation may provide financing to the extent of difference between the assets and liabilities to be transferred to the transferee institution:",
+      "Provided that⸺",
+      ">(a) the State Bank or its nominee has been appointed as official liquidator;",
+      ">(b) the State Bank is of the view that scheme prepared by the liquidator will facilitate in protecting the interest of eligible depositors;",
+      ">(c) protected deposits shall be owed by a member institution which State Bank considers as viable;",
+      ">(d) reimbursement to eligible depositors has not yet been initiated; and",
+      ">(e) financial support shall not exceed the estimated amount needed to reimburse the protected deposits under sub-section (2) of section 21 and any direct costs associated for such reimbursement net of expected recoveries.]"
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Delegation of powers and appointment of attorneys",
+     "page": 17,
+     "text": [
+      "(1) The Board may, for the purpose of ensuring smooth and efficient functioning of the Corporation and facilitating transactions of its daily business, by resolution, delegate to the Managing Director or any other executive of the Corporation, subject to such conditions and limitations, if any, as may be specified therein, such of its powers and duties under this Act as it may deem necessary.",
+      "(2) The Board may, from time to time, by resolution appoint any company, firm or person to be the attorney of the Corporation for such purposes and with such powers, authorities and discretions, not exceeding those vested in or exercisable by the Board under this Act and for such period and subject to such conditions as the Board may think fit, and any such resolution may contain such provisions for the protection and convenience of persons dealing with any such attorney as the Board may think fit."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Accounts and audit",
+     "page": 17,
+     "text": [
+      "(1) The accounting year of the Corporation shall commence on the first day of July and end on the thirtieth day of June.",
+      "(2) The Corporation shall maintain proper accounts and other records to reflect true and fair view of its state of affairs and prepare annual statement of accounts, including the profit and loss accounts and statement of financial position.",
+      "(3) The accounts of the Corporation shall be audited by one or more auditors who shall be chartered accountants within the meaning of the Chartered Accountants Ordinance, 1961 (X of 1961), to be appointed by the Board.",
+      "(4) Every auditor shall be supplied with a copy of the annual statement of accounts and it shall be the duty of the auditor to examine the same together with the accounts and vouchers relating thereto and every auditor shall have a list delivered to him of all books kept by the Corporation and shall, at all reasonable times, have access to books, accounts and other documents of the Corporation and may employ accountants or other persons to assist him in auditing such accounts and may, in relation to such accounts, examine the Managing Director, directors and executives of the Corporation.",
+      "(5) The auditors shall submit a report to the Board regarding the annual statement of accounts and in any such report they shall state whether in their opinion the statement of accounts is a full and fair statement of accounts containing all necessary particulars and is properly drawn up so as to exhibit a true and correct view of the state of affairs of the Corporation and, in case they have called for any explanation or information from the Managing Director or the Board, whether it has been given and whether it is satisfactory.",
+      "(6) The Board may, in addition to the audit under sub-sections (3) and (4), cause to be carried out internal audit of the Corporation’s accounts and the internal auditors' reports shall be submitted to the Board."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Power of the State Bank to give directions",
+     "page": 17,
+     "text": [
+      "(1) In order to protect interest of {fn:17-1}[*] depositors or ensure financial stability, where the State Bank is satisfied that,—",
+      ">(a) in the public interest; or",
+      ">(b) to prevent affairs of the Corporation being conducted in a manner detrimental to the interests of its beneficiaries or in a manner prejudicial to interests of the Corporation or of the State Bank; or",
+      ">(c) to secure proper management of the Corporation generally or to further the objectives of this Act,",
+      "it is necessary to issue directions to the Corporation, the State Bank may, from time to time, issue such directions as it may deem fit and the Corporation shall be bound to comply with such directions.",
+      "(2) If any provision of this Act is contravened or if any default is made in complying with any requirement of this Act or of any rule or regulation, direction made or condition imposed there under, the State Bank may, on a complaint made in writing by the Corporation, or on its own motion, impose on the member institution and any other person who is knowingly a party to such contravention or default, a fine which may extend to two hundred thousand Rupees, and where a contravention or default is a continuing one, a further fine may be imposed which may extend to ten thousand Rupees for every day during which such contravention or default continues.",
+      "(3) The State Bank may recover the amount of any outstanding premium or fine from a member institution by debiting its account maintained with the SBP Banking Services Corporation.",
+      "(4) Any member institution or other person aggrieved by imposition of the fine under this section may, within twenty - one days from the date on which such decision is communicated to it, apply for review to the State Bank.",
+      "(5) Any dispute as to the amount of premium due from any member institution shall be decided by the State Bank and the decision of the State Bank shall be final."
+     ],
+     "fn": [
+      {
+       "n": "17-1",
+       "text": "Omitted by Act No. XXVII of 2024, s. 19."
+      }
+     ]
+    },
+    {
+     "no": "25A",
+     "title": "Coordination between the Corporation and the State Bank",
+     "page": 18,
+     "text": [
+      "{fn:18-1}[ The Corporation and the State Bank shall with mutual consultation, establish a mechanism for information sharing and coordination.]",
+      "CHAPTER-III",
+      "MISCELLANEOUS"
+     ],
+     "fn": [
+      {
+       "n": "18-1",
+       "text": "Ins. by Act No. XXVII of 2024, s. 20."
+      }
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Duty of officers and servants to maintain secrecy",
+     "page": 18,
+     "text": [
+      "(1) Except in performance of his duties under this Act, every executive or other employee of the Corporation shall preserve and aid in preserving secrecy with regard to all matters relating to affairs of the Corporation and of the State Bank coming to his knowledge and not published by the Corporation or by the State Bank and with regard to all matters relating to financial or monetary affairs of any institution, person, body of persons, any Government or authority whether in Pakistan or outside Pakistan that may come to his knowledge in performance of his duties.",
+      "(2) Every such executive or other employee who communicates any such matter, except when required by law so to do, or in discharge of his duties as such, shall be guilty of an offence punishable with imprisonment of either description for a term which may extend to three years, or with fine which may extend to one hundred thousand Rupees, or with both.",
+      "(3) No court shall take cognizance of any offence punishable under this section except upon a complaint in writing by a person authorized in this behalf by the Board."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Officers to be public officers",
+     "page": 19,
+     "text": [
+      "(1) For the purposes of Article 7 of the Qanun­e­Shahadat, 1984 (P.O. No. 10 of 1984), the provisions of Part IV of the Code of Civil Procedure, 1908 (Act V of 1908), and the provisions of rule 27 of Order V, and rule 52 of Order XXI of the said Code any person in service of the Corporation acting in his capacity as such shall be deemed to be a public officer.",
+      "(2) The provisions of Article 6 of the Qanun­e­Shahadat, 1984 (P.O. No. 10 of 1984), shall apply to the unpublished records of the Corporation and the Managing Director shall be deemed to be the officer or head of the department concerned."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Persons in service of the Corporation to be public servants",
+     "page": 19,
+     "text": [
+      "Every person in service of the Corporation shall be deemed to be a public servant within the meaning of section 21 of the Pakistan Penal Code (Act XLV of 1860)."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Production of unpublished records of the Corporation, etc",
+     "page": 19,
+     "text": [
+      "(1) No court, tribunal or other authority shall be entitled to compel the Corporation or any person in service of the Corporation to produce or, as the case may be, give any evidence derived from, any unpublished records of the Corporation.",
+      "(2) No court, tribunal or other authority shall permit any one to produce or give evidence derived from, any unpublished records of the Corporation, except with the prior permission in writing of the Managing Director who may give or withhold such permission as he thinks fit.",
+      "(3) Notwithstanding anything contained in this Act or any other law for the time being in force, a report prepared by the Corporation on a member institution under any law for the time being in force shall be deemed to be unpublished for the purposes of sub-sections (1) and (2) even if a copy of such report has been supplied to the member institution to which the report pertains, the State Bank or the Federal Government."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Pension, gratuity, provident fund and other employment benefits of Corporation’s employees to be exempt from attachments, etc",
+     "page": 19,
+     "text": [
+      "Notwithstanding anything contained in any law for the time being in force, pensions, gratuity or provident fund and other employment benefits granted by the Corporation to its executives and other employees shall not be liable to seizure, attachment or sequestration by process of any court at the instance of a creditor, for any demand against the pensioner or in satisfaction of a decree or order of any such court."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Exemption from taxes",
+     "page": 19,
+     "text": [
+      "Notwithstanding anything contained in the Wealth Tax Act, 1963 (XV of 1963), the Income Tax Ordinance, 2001 (XLIX of 2001), the Stamp Act, 1899 (II of 1899) or any other law for the time being in force relating to wealth tax, income tax, super tax or any other tax, the Corporation shall not be liable to pay any wealth tax, income tax or super tax."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Power to make rules",
+     "page": 20,
+     "text": [
+      "The State Bank may, with approval of the Federal Government and by notification in the official Gazette, make rules, consistent with the provisions of this Act, for carrying out the purposes of this Act."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Power to make regulations",
+     "page": 20,
+     "text": [
+      "(1)The Board may make regulations, not inconsistent with the provisions of this Act and the rules made thereunder, to provide for all matters for which provision is necessary or convenient for the purpose of giving effect to the provisions of this Act.",
+      "(2) Where any provision of the regulations is inconsistent with any provision of the rules, the provision of the rules shall prevail.",
+      "(3) Where the State Bank considers it expedient so to do, it may by order in writing, direct the Board to make any regulations or to amend or rescind any regulations already made, within such period as it may specify in this behalf.",
+      "(4) If the Board fails to comply with any direction of the State Bank under sub-section (3) within the specified period, the State Bank may make, amend or rescind any regulation directed by the State Bank to be made, amended or rescinded, and a regulation so made, amended or rescinded by the State Bank shall be deemed to have been made, amended or rescinded by the Board in accordance with the provisions of this section and shall have effect accordingly."
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Power to call information",
+     "page": 20,
+     "text": [
+      "(1) The Corporation may call for any record or information from any member institution {fn:20-1}[or conduct visits to review such information] as it may deem necessary for discharging its functions under this Act.",
+      "(2) The Corporation shall report to the State Bank in case any member institution fails to provide information or record required under sub-section (1) or comply with any provisions of this Act or any rules or regulations made under this Act and the State Bank may take any action corrective, penal or remedial against such member institution as it may deem appropriate keeping in view the nature and extent of failure."
+     ],
+     "fn": [
+      {
+       "n": "20-1",
+       "text": "Ins. and subs. by Act No. XXVII of 2024, ss. 21 & 22."
+      }
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Protection of actions taken in good faith and indemnity",
+     "page": 20,
+     "text": [
+      "{fn:20-1}[ (1) No suit, prosecution or any other legal proceedings including compensation for damages shall lie against the Corporation, its Chairman, Managing Director, Board of Directors or members thereof and officers and employees of the Corporation for any act of commission or omission done in exercise or performance of any functions, power or duty conferred or imposed by or under this Act upon such persons or any rules and regulations made thereunder, unless such act of commission or omission is proven beyond reasonable doubt to have been done in bad faith and with mala fide intent.",
+      "(2) The Chairman, Managing Director, Directors, members of any Board committee and officers and employees of the Corporation shall not be liable in their personal capacity for any act of commission or omission undertaken in their official capacity in good faith. In case of any such proceedings as mentioned in sub-section (1), they shall be indemnified by the Corporation which shall bear all the expenses thereof, unless an act or omission has been subsequently determined to have been undertaken in bad faith and with mala fide intent.]"
+     ],
+     "fn": [
+      {
+       "n": "20-1",
+       "text": "Ins. and subs. by Act No. XXVII of 2024, ss. 21 & 22."
+      }
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Liquidation of the Corporation",
+     "page": 20,
+     "text": [
+      "(1) The Corporation shall not be placed in liquidation save by order of the State Bank and in such manner as the State Bank may direct.",
+      "(2) On the liquidation of the Corporation,—",
+      ">(a) the outstanding assets of the Corporation shall be distributed among the member institutions in such manner and in such proportion as may be determined by the State Bank having regard to the amounts of premium paid by them during any prescribed period or the deposits of the said {fn:21-1}[institutions] as on the date of liquidation of the Corporation or other relevant circumstances; and",
+      ">(b) the remaining outstanding assets of the Corporation shall be transferred to the State Bank."
+     ],
+     "fn": [
+      {
+       "n": "21-1",
+       "text": "Subs. by Act No. XXVII of 2024, s. 23."
+      }
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Act to override",
+     "page": 21,
+     "text": [
+      "Except the application of any provision of the Act to the Corporation as a subsidiary of the State Bank, this Act shall have effect notwithstanding anything contained in any law for the time being in force or in any agreement, contract, or other applicable documents or instrument."
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Removal of difficulties",
+     "page": 21,
+     "text": [
+      "If any difficulty arises in giving effect to any of the provisions of this Act, the State Bank may make such order not inconsistent with the provisions of this Act, as may appear to it to be necessary for the purposes of removing the difficulty:",
+      "Provided that aforesaid power shall cease to exist on expiry of two years, from the commencement of this Act."
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Removal of deposit protection under the Banks (Nationalization) Act, 1974 (XIX of 1974)",
+     "page": 21,
+     "text": [
+      "Sub-section (4) of section 5 of the Banks (Nationalization) Act, 1974 (XIX of 1974) shall not be applicable to any member institution.",
+      "__________",
+      "RGN Date: 03-12-2024"
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Edition as downloaded from the State Bank of Pakistan's website by the library's editor on 22-23 Nov 2026; later amendments may not be reflected."
+}

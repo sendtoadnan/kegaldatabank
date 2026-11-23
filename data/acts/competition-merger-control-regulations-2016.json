@@ -1,0 +1,530 @@
+{
+ "id": "competition-merger-control-regulations-2016",
+ "title": "Competition (Merger Control) Regulations, 2016",
+ "number": "S.R.O. 1176(I)/2016",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "enacted": "2016-12-28",
+ "amendedUpToLabel": "As published on the Competition Commission's website (23 Nov 2026)",
+ "status": "in-force",
+ "source": {
+  "name": "Competition Commission of Pakistan",
+  "url": "https://www.cc.gov.pk"
+ },
+ "sourcePdf": "competition-merger-control-regulations-2016.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "CCP PDF 'Competition (Merger Control) Regulations, 2016' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, extent, application and commencement",
+     "page": 1,
+     "text": [
+      "(1)These regulations shall be called the Competition (Merger Control) Regulations, 2016.",
+      "(2)They shall come into force at once.",
+      "(3)These regulations shall apply to all the undertakings which are party to merger or intended merger, whether incorporated in Pakistan or not and all or any of such undertakings doing business in Pakistan."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, -",
+      ">(a) \"acquisition\" means any change of control of an undertaking by way of acquisition of shares, assets or any other means;",
+      ">(b) “Act” means the Competition Act, 2010;",
+      ">(c) \"amalgamation\" means the combination of two or more undertakings into a new entity aiming that neither of the combining undertakings shall survive as a legal entity and a completely new entity shall be formed to house the combined assets and liabilities of all such undertakings;",
+      ">(d) “applicant(s)” means merger parties who have filed an application under section 11;",
+      ">(e) \"asset management company\" means a company that invests the pooled funds of retail investors in securities in line with the stated investment objects against a fee;",
+      ">(f) “complainant” means person or persons who provide such information to the Commission which is alleged to having been concealed or omitted by the merger parties;",
+      ">(g) “concerned undertaking” means such undertaking intending to merge and meets the pre-merger notification threshold prescribed in regulation 4 hereof;",
+      ">(h) “confidential information” means-",
+      ">(i) the commercial information of an undertaking(s), the disclosure of which would or might, in the opinion of the Commission, significantly harm the legitimate business interests of the undertaking to which it relates; or",
+      ">>(ii) the information relating to the private affairs of an individual, the disclosure of which would or might, in the opinion of the Commission, significantly harm the individual’s interests; or",
+      ">>(iii) the information the disclosure of which would, in the opinion of the Commission, be contrary to the public interest;",
+      ">>(i) “favourable decision” means decision that a merger has not infringed, or that an intended merger if carried into effect, will not infringe section 11;",
+      ">(j) “Form” means application form set out in the Schedule to these Regulations;",
+      ">(k) “intended merger” means arrangement that is in progress or in contemplation that, if carried into effect, will result in the occurrence of a merger referred to in section 11;",
+      ">(l) “Investment Company” means a company engaged principally or wholly in buying and selling securities of other companies and includes a company, not being a holding company, the investment of which in the share capital of other companies at any one time is of an amount equivalent to eighty percent of the aggregate of its own paid up capital and free reserves, but does not include a bank or an insurance company or a corporation which is a member of a Stock Exchange”.",
+      ">(m) \"merger\" as defined in section 2 of the Act, for the purpose of any reference in these Regulations, means the merger, acquisition, amalgamation, combination or joining of two or more undertakings or part thereof into an existing undertaking or to form a new undertaking and the expression \"merge\" means to merge, acquire, amalgamate, combine or join, as the context may require;",
+      ">(n) “merger parties” means and includes any one or more undertakings which agree in principle or sign a non-binding letter of intent to proceed with any intended merger or may be directly or indirectly involved in consummation of a merger;",
+      ">(o) “merger situation” refers to both mergers and intended mergers;",
+      ">(p) “private litigants” means person or persons who are not party (ies) to a merger and suffer loss or damage as a result of merger or apprehends such loss or damage after intended merger;",
+      ">(q) \"Regulations\" means the Competition (Merger Control) Regulations, 2016;",
+      ">(r) “section” means section of the Act;",
+      ">(s) “unfavourable decision” means decision that a merger has infringed, or that an intended merger if carried into effect, will infringe section 11; and",
+      ">(t) “working day” means a day which is not a Saturday, Sunday or a public holiday.",
+      "(2) Words and expressions used in these Regulations rules, and not defined herein, shall have the meanings respectively assigned to them in the Act or the rules and regulations prescribed under the Act."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Mergers",
+     "page": 3,
+     "text": [
+      "Without prejudice to the generality of the term merger as defined under clause (h) of subsection 1 of section 2, merger shall be deemed to have occurred if -",
+      ">(a) two or more undertakings, previously independent of one another, merge to forma new undertaking and cease to exist as separate legal entities; or",
+      ">(b) one undertaking is absorbed by another with the latter retaining its legal entity and former ceasing to exist; or",
+      ">(c) one or more undertakings which acquire direct or indirect control of the whole or part of one or more other undertakings; or",
+      ">(d) the result of an acquisition by one undertaking (the first undertaking) of the assets or shares (including goodwill), or a substantial part of the assets or shares, of another undertaking (the second undertaking) is to place the first undertaking in a position to replace or substantially replace the second undertaking in the business or, as appropriate, the part concerned of the business in which that undertaking was engaged immediately before the acquisition; or",
+      ">(e) a collaborative arrangement by which two or more undertakings devote their resources to pursue a common objective; provided that such arrangement must be:",
+      ">(a) subject to joint control;",
+      ">(b) to perform the functions independently; and",
+      ">(c) on a lasting basis.",
+      "Explanation I: Control, in relation to an undertaking, shall be regarded as existing if, by reason of securities (being not less than 10% of their market value), contracts or any other means, or any combination of securities, contracts or other means, influence is capable of being exercised with regard to the activities of the undertaking and, in particular, by -",
+      ">(a) ownership of, or the right to use all or part of, the assets of an undertaking; or",
+      ">(b) rights or contracts which enable decisive influence to be exercised with regard to the composition, voting or decisions of the organs of an undertaking.",
+      "Explanation II: For the purpose of determining 'control' through 'securities', such securities mean shares in the share capital of an undertaking carrying voting rights and includes any other security which entitles the holder thereof to obtain or exercise voting rights. Such securities also include all depository receipts carrying entitlement to the holder to exercise voting rights in the related undertaking."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Pre-merger Notification Thresholds",
+     "page": 4,
+     "text": [
+      "(1) Any one or two or more of the concerned undertakings shall, as soon as they agree in principle or sign a non-binding letter of intent to proceed with the intended merger, but in any case, before consummation of the merger, shall give notice of its/their intention to do so, to the Commission;",
+      "(1A) Notwithstanding anything contained in any other law for the time being inforce, for capital market transactions the concerned undertakings shall, within a period of fifteen (15) days from the date of the transaction, seek clearance from the Commission on the form prescribed in Schedule II of these regulations. {fn:4-1}",
+      "(2) The merger parties, excluding asset management companies, may not be required to make application for clearance from the Commission under sub-section (2) of section 11, unless:",
+      ">(a) the value of gross assets of the undertaking, excluding value of goodwill, is not less than three hundred million rupees or the combined value of the undertaking and the undertaking(s) the shares of which are proposed to be acquired or the undertakings being merged, is not less than one billion rupees; or",
+      ">(b) annual turnover of the undertaking in the preceding year is not less than five hundred million rupees or the combined turnover of the undertaking and the undertaking(s) the shares of which are proposed to be acquired or the undertakings being merged is not less than one billion rupees; and",
+      ">(c) the transaction relates to acquisition of shares or assets of the value of one hundred million rupees or more; or",
+      ">(d) in case of acquisition of shares by an undertaking, if an acquirer acquires voting shares, which taken together with voting shares, if any ,held by the acquirer shall entitle the acquirer to more than 10% voting shares.",
+      "(3) The merger parties being asset management companies carrying out asset management services, may not be required to make application for clearance from the Commission under sub-section (1) of section 11, unless -",
+      ">(a) the collective exposure for itself and in all of its collective investment schemes in a single entity is more than 25% of total voting rights; or",
+      ">(b) the value of total assets under management of an asset management company is one billion rupees or more; and",
+      ">(c) the transaction relates to acquisition of shares or assets of the value of one hundred million rupees or more; or",
+      ">(d) in case of acquisition of shares by an undertaking, if an acquirer acquires voting shares, which taken together with voting shares, if any, held by the acquirer shall entitle the acquirer to more than 10% voting shares.",
+      "(4) The Commission may change the thresholds prescribed in sub-regulations (2) and (3) above from time to time and any such change shall be notified in the Gazette of Pakistan."
+     ],
+     "fn": [
+      {
+       "n": "4-1",
+       "text": "Inserted vide SRO No. 584(I)/2019 dated 26-03-2019"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Transactions Exempted",
+     "page": 5,
+     "text": [
+      "(1) The following transactions shall be exempt from filing pre-merger notification: -",
+      ">>(i) A transaction in which a holding company (whether incorporated in or outside Pakistan) increases its stake in its subsidiary or the subsidiaries thereof (whether incorporated in or outside Pakistan), or if such subsidiary acquire or increase their equity investment in each other;",
+      ">>(ii) a transaction in which a holding company (whether incorporated in or outside Pakistan), merges, amalgamates, combines or ventures jointly with its subsidiary or the subsidiaries thereof (whether incorporated in or outside Pakistan) merge, amalgamate, combine or venture jointly with each other; and",
+      ">>(iii) A transaction in which a bank or an insurance company or an investment company deals in trading of shares for its own account for the purpose of earning dividend income and capital gains and not with the intention of acquiring controlling interest in the investee company.",
+      ">>(iv) shares acquired by succession or inheritance;",
+      ">>(v) shares acquired as a gift from one’s spouse or immediate blood relatives;",
+      ">>(vi) shares acquired through will (testamentary bequeath);",
+      ">>(vii) voting shares acquired by a person, acting as securities underwriter in ordinary course of business; (viii) voting shares allotted pursuant to a right issue; provided that the voting securities acquired do not increase, directly or indirectly, the acquiring person’s per centum share of outstanding voting securities of the issuer;",
+      ">>(ix) Where an undertaking, the normal market activities of which include the carrying out of transactions and dealings in securities for its own account or for the account of others, acquires securities of another undertaking and sells back the acquired securities on pre-determined price within a period of 6 months from the date of such acquisition.",
+      ">>(x) real property or goods acquired in the ordinary course of business if the person who intends to acquire the assets shall not, as a result of the acquisition, hold all or substantially all of the assets of a business or of an operating segment of the business; and",
+      ">>(xi) un-explored real resource property acquired for the purpose of exploration or development.",
+      "While the above transactions may be exempt from pre-merger notification, they may still be subject to substantive review under the Act, if so deemed appropriate by the Commission."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Pre-merger application",
+     "page": 5,
+     "text": [
+      "(1) The pre-merger application to be made under sub-section (3) of section 11, shall be in the Form prescribed in the Schedule to these Regulations.",
+      "(2) The Commission may, by giving notice to the applicant, dispense with the obligation to submit any particular information or document (including any supporting document forming part of the Form), if it considers that such information or document is unnecessary for examination of the application.",
+      "(3) Where strict compliance with any part of the application is not possible, the Commission may allow that part of the application to be complied with in such other manner as it thinks fit.",
+      "(4) Notwithstanding sub-regulation (3), the Commission may refuse to accept the application submitted to it, if it does not comply with requirements of the Act Ordinance or these regulations.",
+      "(5) Every application shall be submitted in three copies, or as many copies, in such manner, as the Commission may require.",
+      "(6) No application under sub-regulation (1) shall be deemed to have been made unless it is accompanied by a processing fee at the rates prescribed in the table below and the processing fee is paid through bank challan or in the form of a bank draft drawn in favour of the Commission or through wire transfer directly to the Commission’s bank account (along with relevant details).",
+      "{fn:6-2}Turnover of merger Parties Fee (Undertakings)",
+      ">>(i) Up to 500 million rupees Rs. 800,000/-",
+      ">>(ii) More than 500 million but not exceeding 750 million rupees Rs. 1,200,000/-",
+      ">>(iii) More than 750 million but not exceeding 1000 million rupees Rs. 1,500,000/-",
+      ">>(iv) More than 1000 million rupees but not exceeding 5000 million rupees Rs. 2,000,000/-",
+      ">>(v) More than 5000 million rupees but not exceeding 10,000 million rupees Rs. 3,000,000/-",
+      ">>(vi) Exceeding 10,000 million rupees Rs. 4,500,000/Assets under management of the applicant Asset Management Company(ies) Fee",
+      ">>(i) Up to 5 billion rupees Rs. 800,000/-",
+      ">>(ii) More than 5 billion but not exceeding 7.5 billion rupees Rs. 1,200,000/-",
+      ">>(iii) More than 7.5 billion but not exceeding 10 billion rupees Rs. 1,500,000/-",
+      ">>(iv) More than 10 billion rupees but not exceeding 50 billion rupees Rs. 2,000,000/-",
+      ">>(v) More than 50 billion rupees but not exceeding 100 billion rupees Rs. 3,000,000/-",
+      ">>(vi) Exceeding 100 billion rupees Rs. 4,500,000/-",
+      "(7) The Commission may, for reasons to be recorded, remit or reduce the application fee as prescribed in the table provided in sub-regulation (6) of regulation 6 5 in favor of a reputable non-profit organization dedicated for public welfare, on its written request, subject to the condition that the Commission is satisfied that such undertaking has credible track record of performance during the preceding period of five years.",
+      "{fn:6-3}(8) For transactions, that have been consummated, processing fee shall be charged and calculated in the following manner;",
+      ">(a) If the Commission is notified voluntarily by the undertakings of a consummated transaction, the prescribed fee shall be as follows:",
+      "Turnover of Merger Parties (Undertakings) Fee",
+      ">>(i) Up to 500 million rupees Rs. 1,200,000/-",
+      ">>(ii) More than 500 million but not exceeding 750 million rupees Rs. 1,800,000/-",
+      ">>(iii) More than 750 million but not exceeding 1000 million rupees Rs. 2,250,000/-",
+      ">>(iv) More than 1000 million rupees but not exceeding 5000 million rupees Rs. 3,000,000/-",
+      ">>(v) More than 5000 million rupees but not exceeding 10,000 million rupees Rs. 4,500,000/-",
+      ">>(vi) Exceeding 10,000 million rupees Rs. 6,750,000/Assets under management of the applicant Asset Management Fee Company(ies)",
+      ">>(i) Up to 5 billion rupees Rs. 1,200,000/-",
+      ">>(ii) More than 5 billion but not exceeding 7.5 billion rupees Rs. 1,800,000/-",
+      ">>(iii) More than 7.5 billion but not exceeding 10 billion rupees Rs. 2,250,000/-",
+      ">>(iv) More than 10 billion rupees but not exceeding 50 billion rupees Rs. 3,000,000/-",
+      ">>(v) More than 50 billion rupees but not exceeding 100 billion rupees Rs. 4,500,000/-",
+      ">>(vi) Exceeding 100 billion rupees Rs. 6,750,000/-",
+      ">(b) If the Commission detects a consummated transaction, prescribed process fee shall be as follows:",
+      "Turnover of Merger Parties (Undertakings) Fee",
+      ">>(i) Up to 500 million rupees Rs. 1,600,000/-",
+      ">>(ii) More than 500 million but not exceeding 750 million rupees Rs. 2,400,000/-",
+      ">>(iii) More than 750 million but not exceeding 1000 million rupees Rs. 3,000,000/-",
+      ">>(iv) More than 1000 million rupees but not exceeding 5000 million rupees Rs. 4,000,000/-",
+      ">>(v) More than 5000 million rupees but not exceeding 10,000 million rupees Rs. 6,000,000/-",
+      ">>(vi) Exceeding 10,000 million rupees Rs. 9,000,000/Assets under management of the applicant Asset Management Fee Company(ies)",
+      ">>(i) Up to 5 billion rupees Rs. 1,600,000/-",
+      ">>(ii) More than 5 billion but not exceeding 7.5 billion rupees Rs. 2,400,000/-",
+      ">>(iii) More than 7.5 billion but not exceeding 10 billion rupees Rs. 3,000,000/-",
+      ">>(iv) More than 10 billion rupees but not exceeding 50 billion rupees Rs. 4,000,000/-",
+      ">>(v) More than 50 billion rupees but not exceeding 100 billion rupees Rs. 6,000,000/-",
+      ">>(vi) Exceeding 100 billion rupees Rs. 9,000,000/-",
+      "Note I: In case any of the merger parties, which is a subsidiary company, is non-operating or its turnover/ assets under management are not determinable or where it is clear that it is not the ultimate acquirer, the turnover/ assets under management of the ultimate acquirer shall be considered as its turnover/ assets under management for the purposes of determination of processing fee applicable to the merger.",
+      "Note II: The ultimate acquirer, as referred to in Note I above, means an undertaking:",
+      ">(a) being the direct or indirect parent or holding company of the merger party(s); or",
+      ">(b) bearing the cost of the transaction/merger; or",
+      ">(c) in possession of control of the merger party(s) in terms of legal, economic or structural links."
+     ],
+     "fn": [
+      {
+       "n": "6-2",
+       "text": "Revised vide SRO No. 421(I)/2024 dated 21-03-2024"
+      },
+      {
+       "n": "6-3",
+       "text": "Inserted vide SRO No. 421(I)/2024 dated 21-03-2024"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Persons making the application",
+     "page": 8,
+     "text": [
+      "(1) An application shall be made (jointly or otherwise) by the following, and no others:",
+      ">(a) where the applicant is an individual, by the individual;",
+      ">(b) where the applicant is a company or other body corporate, by a duly authorized officer of that company or body corporate;",
+      ">(c) where the applicant is a partnership firm, by a partner of that firm; and",
+      ">(d) where the applicant is an unincorporated association (other than a partnership), by an officer of that association or a member of its governing body.",
+      "(2) If a joint application is made, the application shall be regarded as being made to the Commission by or on behalf of all the applicants, and a joint representative shall be appointed as authorized to act on behalf of all the joint applicants for the purposes of these regulations, unless relaxed by the Commission."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Notice of application to other parties of the intended merger",
+     "page": 8,
+     "text": [
+      "(1) Where a party to an intended merger wishes to make or makes an application under section 11, it shall give notice to all other parties to the intended merger, with a copy endorsed to the Commission, stating that the application will be or has been made.",
+      "(2) If the applicant is unable, despite the exercise of due diligence, to contact other parties or persons as required under this regulation, the Commission may, if it considers appropriate, require the applicant to notify such other parties or persons in such mode and manner as the Commission may specify."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Additional information or documents",
+     "page": 8,
+     "text": [
+      "(1) The Commission may, at any time after receiving the application, give notice to the applicant for supply of further information or documents, within a stipulated period.",
+      "(2) Where the Commission finds that the information submitted in the application, is incomplete, it may give notice to the applicant specifying -",
+      ">(a) the information which is outstanding; and",
+      ">(b) such time limit as the Commission considers appropriate for the outstanding information to be submitted to the Commission.",
+      "(3) If, in relation to the application, the Commission does not receive the outstanding information referred to in sub-regulation (2) before the end of the time limit prescribed or of such further period, if any, as the Commission considers appropriate, the application shall be deemed not to have been made.",
+      "(4) The Commission may refuse to accept an application submitted to it, if -",
+      ">(a) the application is incomplete or is not accompanied by the relevant supporting documents; or",
+      ">(b) is not substantially in the prescribed form; or",
+      ">(c) is not accompanied by the prescribed amount of fee; or",
+      ">(d) is not in compliance with any requirement under the Act or regulations made there under;",
+      "Whereupon the application shall be deemed not to have been made.",
+      "(5) The receipt of an application by the Commission shall not in any way mean that the application is complete. The thirty working days time frame for the first phase review will not commence unless the non-conformity, if any, has been rectified by the applicant."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Factors for determination of substantial lessening of competition",
+     "page": 9,
+     "text": [
+      "(1) Whenever required to consider a merger situation, the Commission shall initially determine whether or not merger situation is likely to substantially prevent or lessen competition, by assessing the factors set out in sub-regulation (2).",
+      "(2) When determining whether or not the merger situation is likely to substantially prevent or lessen competition, the Commission shall assess the strength of competition in the relevant market, and the probability that the merger parties in the market after the merger will behave competitively or co-operatively, taking into account any factor that is relevant to competition in that market, including but not limited to—",
+      ">(a) the actual and potential level of import competition in the market;",
+      ">(b) the ease of entry into the market, including tariff and regulatory barriers;",
+      ">(c) the level and trends of concentration, and history of collusion, in the market;",
+      ">(d) the degree of countervailing power in the market;",
+      ">(e) the dynamic characteristics of the market, including growth, innovation, and product differentiation;",
+      ">(f) the nature and extent of vertical integration in the market;",
+      ">(g) whether the business or part of the business of a merger party or merger has failed or is likely to fail; and",
+      ">(h) whether the merger situation will result in the removal of an effective competitor.",
+      "Explanation: In taking the relevant market into account, the Commission may be guided by the principle that the relevant geographical market comprises the area in which the merger parties are involved in the demand and supply of the goods or services, in which the conditions of competition are sufficiently homogeneous and which can be distinguished from neighboring areas because the conditions of competition are appreciably different in those areas."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "First Phase Review",
+     "page": 9,
+     "text": [
+      "(1) Upon accepting a complete application form that meets all the applicable filing requirements, the Commission will carry out preliminary assessment whether the transaction falls within the meaning of a ‘merger’ as defined in the Act.",
+      "(2) Where the Commission considers that the transaction does not fall within the meaning of a merger as defined in the Act or intended merger as defined in these regulations, the Commission will inform the applicant as soon as is practicable.",
+      "(3) The Commission shall determine whether the merger meets the pre-merger notification thresholds as prescribed in these Regulations and the presumption of dominance as determined under section 2(1)(e) read with section 3, in terms of section 11(5).",
+      "(4) The first phase review shall entail a quick review and allow merger situations that clearly do not raise competition concerns under section 11 to proceed without delay.",
+      "(5) Subject to sub-regulation (5) of regulation 9, the Commission shall complete a first phase review within 30 working days. By the end of this period, the Commission will determine whether to issue a favourable decision and allow the merger situation to proceed or to carry on to a second phase review. The Commission’s decision will be communicated to the applicant through the issuance of an Order.",
+      "(6) The Commission after the first phase review may proceed to pass an order in accordance with the section 31 (d).",
+      "Subject to sub-regulation (5) of regulation 9, failure to make a determination under subregulation 4 hereof shall mean that the Commission has no objection to the intended merger."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Second Phase Review",
+     "page": 10,
+     "text": [
+      "(1) If the Commission, during the first Phase review, on the basis of all information before it, is unable to conclude that merger situation does not raise competition concerns, the Commission shall proceed to carry out a more detailed assessment as a second Phase review.",
+      "(2) If Commission decides to proceed with the second phase review, it shall notify to the merger parties of its decision and may require them to provide such further information as it considers necessary.",
+      "(3) The Commission shall complete the second phase review and shall give its decision within 90 working days.",
+      "(4) The 90 working days shall only commence after the Commission notifies to the merger parties that the merger situation has proceeded to a second phase review and all the information required under sub-regulation (2) of this regulation has been received by the Commission.",
+      "(5) In case, after the second phase review, the Commission determines:",
+      ">(a) that the intended merger under review lessens competition by creating or strengthening a dominant position and does not qualify the approval criteria as stipulated in regulation 15 , it may;",
+      ">>(i) prohibit consummation of the intended merger; or",
+      ">>(ii) approve the intended merger subject to conditions; or",
+      ">>(iii)approve the intended merger on the condition that the concerned undertakings enter into contracts specified by the Commission",
+      ">(b) that the intended merger under review does not lessen competition by creating or strengthening dominant position, it may give its clearance and authorize the intended merger with or without conditions."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Interim measures",
+     "page": 11,
+     "text": [
+      "During the first phase and second phase review if the Commission is of the opinion that in the situation that exists or is likely to emerge, the intended merger may adversely affect competition in the relevant market and an interim order is necessary in public interest, it may direct such undertaking to do or refrain from doing or continuing to do any act or thing specified in the order."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Merger without clearance",
+     "page": 11,
+     "text": [
+      "(1) Where an undertaking has consummated the merger which substantially lessens competition by creating or strengthening a dominant position in the relevant market, without obtaining clearance from the Commission, the Commission may without prejudice to the powers of imposing penalty under section 38, proceed to pass one or more of such order specified under section 31 after:",
+      ">(a) it gives notice of its intention to make such order stating the reasons therefore to such undertaking as may appear to it to be in contravention; and",
+      ">(b) it gives the undertaking an opportunity of being heard on such date as may be specified in the notice and placing facts and material in support of its contention before the Commission.",
+      "(2) During the proceedings under clause (1) above if the Commission is of the opinion that in the situation that exists or is likely to emerge, serious or irreparable damage may occur and an interim order is necessary in public interest, it may direct such undertaking to do or refrain from doing or continuing to do any act or thing specified in the order."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Efficiency Criteria",
+     "page": 11,
+     "text": [
+      "(1) If after the Phase 2 review, the Commission determines that the intended merger substantially lessens competition by creating or strengthening a dominant position, it may nonetheless approve the intended merger, if it is shown by the applicant that:",
+      ">(a) it contributes substantially to the efficiency of the production or distribution of goods or to the provision of services;",
+      ">(b) such efficiency could not reasonably have been achieved by a less restrictive means of competition;",
+      ">(c) the benefits of such efficiency clearly outweigh the adverse effect of the absence or lessening of competition; or",
+      ">(d) it is the least anti-competitive option for the failing undertaking’s assets, when one of the undertakings is faced with actual or imminent financial failure."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Hearings",
+     "page": 12,
+     "text": [
+      "(1) The Commission may, before passing any order with respect to first phase review and shall before passing an order with respect to second phase review, provide the concerned undertakings an opportunity of being heard.",
+      "(2) If the concerned undertaking does not appear personally or through its attorney or counsel, on the date of hearing in spite of notice. ex-parte decision shall be taken on the basis of facts of the case placed on record before the Commission.",
+      "(3) The hearings before the Commission shall normally be in private. But in exceptional circumstances and that too after having the views of the parties to the case, decide to conduct hearings in public."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Favourable Decisions",
+     "page": 12,
+     "text": [
+      "(1) Where the Commission allows a merger makes a favourable decision, it may impose conditions on the concerned undertaking for carrying out the merger and shall give notice of the decision to the concerned undertakings. The Commission may also place the favourable decision on its website. The Commission may, at the time of issuing a favourable decision for any intended merger, specify the validity period of the decision within which the intended merger must be carried into effect. The Commission will not take further action if the intended merger is effected within the validity period, unless any of the circumstances sated in regulation 17 occurs. In specifying the validity period, the Commission will consider that generally one year is sufficient period for merger parties to act on the favourable decision and to carry the intended merger into effect. However, the Commission will take account of the circumstances of each merger situation when specifying the duration of any validity period."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Review subsequent to clearance",
+     "page": 12,
+     "text": [
+      "(1) Subject to sub-section (13) of section 11, once a favourable decision has been made, the Commission will not take further action unless:-",
+      ">(a) the Commission has reasonable grounds for suspecting that information on which it has based its decision was materially incomplete, false or misleading; or",
+      ">(b) the Commission has reasonable grounds for suspecting that any of the merger parties failed to adhere to one or more terms of a commitment. Should any of these circumstances occur, the favourable decision may be revoked.",
+      "(2) Where the Commission has granted clearance subject to conditions, the Commission may within one year of its decision, review the same on its own or on the application of the concerned undertaking on the ground that the circumstances of the relevant market have so changed, as to warrant review of the conditions imposed."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Unfavourable Decisions",
+     "page": 13,
+     "text": [
+      "(1) Where the Commission is proposing to issue an unfavourable decision, it will issue a notice of the proposed unfavourable decision to the merger parties. The notice will state the facts on which the Commission relies upon, as well as the objections which the Commission proposes to take.",
+      "When the Commission makes an unfavourable decision, it will give notice of the decision to the merger parties and will also place the decision on its website. The Commission may also issue directions to remedy, mitigate or eliminate the adverse effects arising from the merger situation."
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Confidential information",
+     "page": 13,
+     "text": [
+      "(1) Subject to sections 51 and 52, if the applicant considers any part of the information in the application, or any document or correspondence submitted by the applicant to the Commission to be confidential, the applicant shall, at the time of submitting that application, document or correspondence, submit to the Commission –",
+      ">(a) a confidential version of that application, document or correspondence, containing and clearly identifying the confidential information;",
+      ">(b) a non-confidential version of that application, document or correspondence, in which the confidential information has been removed in the manner specified by the Commission; and",
+      ">(c) a written statement explaining why the information is confidential information.",
+      "(2) The Commission may dispense with the obligation to submit a non-confidential version of any application, document or correspondence if it considers that such version is unnecessary for examination of the application.",
+      "(3) If, in respect of the application, the applicant identifies any information therein to be confidential but does not provide the Commission with a non-confidential version of the application or the written statement referred to in sub-regulation (1) at the time he submits the application before the end of such further period, if any, as the Commission considers appropriate, the application shall be deemed not to have been made.",
+      "(4) The Commission may treat all the information provided by the applicant through any application, document or correspondence as non-confidential, if the applicant does not specify any part thereof as confidential."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Confidentiality",
+     "page": 14,
+     "text": [
+      "(1) The non-confidential versions of the application and their supporting documents may be shared with third parties, by placing on the Commission’s website for public viewing or through other means. Any confidential information removed from the nonconfidential versions should be replaced by square brackets containing the word “CONFIDENTIAL”.",
+      "(2) Any subsequent correspondence and documents sent by the applicant to the Commission shall be accompanied by a non-confidential version, except those where the applicant is of the view that they can be freely disclosed in their entirety. The Commission may share the non-confidential version of such correspondence or documents with third parties, either by placing them on the Commission’s website or through other means.",
+      "(3) Even, if the Commission allows any information to be treated as confidential, it may at any subsequent point in time require the applicant to resubmit the non confidential version of the relevant application, document or correspondence with that item of information included. This may happen when it becomes necessary for the Commission to share the information with third parties in order to properly assess the intended merger."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Compliance",
+     "page": 14,
+     "text": [
+      "In order to ensure compliance with any decision of the Commission, the concerned undertaking may be required to provide to the Commission compliance report by the date specified by the Commission in its order. In addition, the Commission may require further information or a further statement of compliance to be provided to it on periodical basis."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Investigations",
+     "page": 14,
+     "text": [
+      "The Commission may undertake, carry out or conduct an investigation if there are reasonable grounds for suspecting that a merger or that an intended merger if carried into effect will substantially lessen competition by creating or strengthening a dominant position in the relevant market."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Complaints about Merger situations",
+     "page": 14,
+     "text": [
+      "(1) In making complaints about merger situations to the Commission, complainants shall be required to provide all the relevant information including the following:-",
+      ">(a) Name and address of the complainant;",
+      ">(b) a description of the relationship between the complainant and the merger parties or merged entity;",
+      ">(c) a concise explanation of the reasons for, and details of, the complaint, including details of the merger situation to which the complaint relates, when and how the complainant became aware of the merger situation, and (where possible) the relative market positions of the parties named in the complaint; and",
+      ">(d) evidence directly related to the facts set out in the complaint, including appropriate copies of relevant correspondence, statistics or data which relate to the facts set out in the complaint (in particular, where they show developments in the market).",
+      "The Commission may also ask the complainant for further information or clarifications.",
+      "(2) The Commission will consider each complaint on its merits to determine if an investigation is warranted. If the Commission decides to pursue the complaint, it may seek further information from the merger parties.",
+      "(3) If a complainant does not wish to be identified, this should be made clear to the Commission at the earliest opportunity. However, potential complainants should note that it is sometimes necessary to reveal information which may identify the source of a complaint where this is necessary for the effective handling of the complaint.",
+      "(4) While providing information or documents to the Commission, complainants shall provide a non-confidential version of the complaint and of any other information or documents which the complainant may furnish.",
+      "(5) The Commission may recognize the importance of complainants voluntarily supplying information and also their interest in maintaining confidentiality. If the Commission proposes to disclose any of the information over which confidentiality has been claimed, it may in appropriate cases and to the extent that it is practicable to do so, consult the complainant who has provided the information."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Directions",
+     "page": 15,
+     "text": [
+      "(1) If the Commission concludes that the situation prevails and may prevail, or that after an intended merger which substantially lessens competition in the relevant market, the Commission may give such directions as it considers appropriate to remedy, mitigate or prevent the adverse effects to competition caused by the merger situation.",
+      "(2) The directions envisaged in sub-regulation (1) may include the following:-",
+      ">(a) Prohibiting the intended merger from being carried into effect or requiring a merger to be dissolved or modified in such manner as the Commission may direct;",
+      ">(b) requiring the merger parties to enter into such legally-enforceable agreements as may be specified by the Commission to prevent or lessen the anti-competitive effects which have arisen;",
+      ">(c) requiring the merger parties to dispose of such operations, assets or shares of such undertaking in such manner as may be specified by the Commission; and",
+      ">(d) providing a performance bond, guarantee or other form of security on such terms and conditions as the Commission may determine.",
+      "(3) The directions must be in writing and may be given to such person(s) as the Commission considers appropriate."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Right of Private Litigants",
+     "page": 16,
+     "text": [
+      "Parties as defined in regulation 2 (1) (p), suffering loss or damage directly arising from a merger that substantially lessens competition in the relevant market are entitled to commence a civil action seeking relief against the relevant undertakings. Such rights shall only arise after the Commission has made a decision that a merger has infringed the relevant provisions of the Act and the appeal period has expired or, where an appeal has been brought, upon determination of the appeal."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Appeals",
+     "page": 16,
+     "text": [
+      "The person aggrieved by any order passed by the any Member or authorized officer of the Commission in respect of a merger situation may file an appeal before the Appellate Bench of the Commission in accordance with the Competition Commission (Appeal) Rules, 2007."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Coordination and Cooperation in Transnational mergers",
+     "page": 16,
+     "text": [
+      "Subject to section 49, where the merger situation is subject to review under merger laws in more than one jurisdiction, the Commission shall:",
+      ">(a) without compromising effective enforcement of the domestic law, seek to cooperate its reviews of transnational mergers in appropriate cases;",
+      ">(b) consider actions by which they can eliminate or reduce the impediments to cooperation and coordination;",
+      ">(c) encourage merging parties to facilitate coordination among competition authorities, in particular with respect to timing of notifications and voluntary waivers of confidentiality rights, without drawing any negative inferences from a party’s decision not to do so;",
+      ">(d) give the merging parties, the opportunity to consult with the concerned competition authority at key stages of investigation with respect to any significant or practical issue that may arise during the course of investigation;",
+      ">(e) give an opportunity to third parties, with a legitimate interest, in the merger review as recognized under reviewing country’s merger laws, to express their view under the merger review process;",
+      ">(f) treat foreign undertakings, no less favourably than domestic undertakings in like circumstances; and",
+      ">(g) endeavour in reaching, in so far as possible, consistent, or at least non-conflicting outcomes."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Issuance of guidelines",
+     "page": 16,
+     "text": [
+      "(1) The Commission may issue from time to time guidelines in respect of the merger frame work.",
+      "(2) The guidelines shall be illustrative and not exhaustive and shall not set a limit on the investigation and enforcement powers of the Commission.",
+      "(3) The guidelines shall not be a substitute for the Act, the rules, regulations and orders made there under."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Mode of Service of Notice",
+     "page": 17,
+     "text": [
+      "(1) Any notice required to be issued to any undertaking under these Regulations may be:-",
+      ">(a) delivered personally at its last known address; or",
+      ">(b) left at its last known address or sent to it by ordinary post; or",
+      ">(c) sent through courier service at its last known address; or",
+      ">(d) sent through electronic mail."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Time",
+     "page": 17,
+     "text": [
+      "(1) Where an act is required to be done in accordance with these Regulations within a specified period after or from a specified date, the period begins immediately after that date.",
+      "(2) Where an act is required to be done in accordance with these Regulations within or not less than a specified period before a specified date, the period ends immediately before that date.",
+      "(3) Where the time prescribed by these Regulations for doing any act expires on a day which is not a working day, the act is in time if done at or before 5 p.m. on the next following working day.",
+      "(4) Where an act done in accordance with these Regulations is done on a day which is not a working day, or after 5 p.m. on a working day, the act shall be treated as done on the next following working day."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Removal of difficulty",
+     "page": 17,
+     "text": [
+      "In the matter of implementation of these Regulations, if any doubt or difficulty arises, the same shall be placed before the Commission and the decision of the Commission thereon shall be final and binding."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Overriding effect",
+     "page": 17,
+     "text": [
+      "These Regulations shall have effect in all matters relating to mergers notwithstanding anything inconsistent therewith contained in any other regulations framed under the Act."
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Repeal",
+     "page": 17,
+     "text": [
+      "On the commencement of these Regulations, the Competition (Merger Control) Regulations, 2007 shall stand repealed.",
+      "(Noman Laiq) Secretary"
+     ]
+    }
+   ]
+  }
+ ]
+}

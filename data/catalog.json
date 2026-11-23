@@ -24,6 +24,16 @@
       "id": "aml",
       "name": "AML / CFT",
       "description": "Anti-money laundering, counter-terrorist financing and sanctions compliance."
+    },
+    {
+      "id": "banking",
+      "name": "Banking & Foreign Exchange",
+      "description": "State Bank of Pakistan: foreign exchange law and manual, and banking law."
+    },
+    {
+      "id": "ip",
+      "name": "Intellectual Property",
+      "description": "Trade marks, patents, designs, copyright and geographical indications: laws and rules administered by IPO Pakistan."
     }
   ]
 }

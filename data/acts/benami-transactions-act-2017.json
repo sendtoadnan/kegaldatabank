@@ -21,8 +21,10 @@
  },
  "sourcePdf": "benami-transactions-prohibition-act-2017-pakistancode.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Pakistan Code, Ministry of Law and Justice consolidated edition. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "Official PDF from the regulator's website (Pakistan Code, Ministry of Law and Justice): benami-transactions-prohibition-act-2017-pakistancode.pdf, edition as held; editor declared regulator downloads verified on 23 Nov 2026 (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "WHEREAS it is expedient to provide for prohibition of holding property in Benami and restrict right to recover or transfer property held Benami and provide mechanism and procedure for confiscation of property held Benami and for matters connected therewi th or incidental thereto; It is hereby enacted as follows:⸺",
  "parts": [

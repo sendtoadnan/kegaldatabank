@@ -1,0 +1,211 @@
+{
+ "id": "asset-backed-securitization-regulations-2022",
+ "title": "Asset Backed Securitization Regulations, 2022",
+ "number": "S.R.O. 2135(I)/2022",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "asset-backed-securitization-regulations-2022.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Asset Backed Securitization Regulations, 2022' downloaded from the regulator's website on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Asset Backed Securitization Regulations, 2022.",
+      "(2) They shall come into force at once.",
+      "(3) They shall apply to offer of debt securities, including redeemable capital, debentures and sukuk by special purpose vehicles under securitization process.",
+      "(4) Special purpose vehicles owned or controlled by the Federal Government or Provincial Government may also adopt these regulations to the extent in accordance with applicable law."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context –",
+      ">(a) “Act” means the Securities Act, 2015 (III of 2015);",
+      ">(b) “Commission” means the Securities and Exchange Commission of Pakistan;",
+      ">(c) “Obligor” means an entity/person who is obligated to make payments on debt or receivables under a contractual agreement or any other arrangement;",
+      ">(d) “Regulations” means the Asset Backed Securitization Regulations, 2022;",
+      ">(e) “Rules” means the Companies (Asset Backed Securitization) Rules, 1999;",
+      ">(f) “Schedule” means a schedule appended to these Regulations.",
+      "(2) All other terms and expressions used but not defined in these regulations shall have the same meanings as are assigned to them in the Rules, the Act, the Companies Act, 2017 (XIX of 2017) or the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II — Conditions, Obligations And Operations Of Special Purpose Vehicle",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Eligibility",
+     "page": 2,
+     "text": [
+      "(1) Subject to rule 5 of the Rules, a company proposing to commence business as a Special Purpose Vehicle (the “SPV”) shall submit an application under the Rules for registration along with documents as per Schedule-I.",
+      "(2) The company must have a paid-up capital of not less than one million rupees.",
+      "(3) The company ensures that it’s promoters or sponsors, directors, chief executive, officer or employee fulfils the fit and proper criteria and provide affidavits/undertakings duly attested by Oath Commissioner as specified in Schedule-II."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Conditions, obligations and operations of SPV",
+     "page": 2,
+     "text": [
+      "(1) A Special purpose Vehicle may offer debt securities under securitization transaction, either by way of public offer or by way of private placement.",
+      "(2) Before making any public offer of debt securities, Special purpose Vehicle shall seek prior approval of the Commission under section 87 and 88 of the Act and for private placement of debt securities, it shall fulfil the requirements of private placement of Securities Rules, 2017.",
+      "(3) No Special purpose Vehicle shall: -",
+      ">(a) merge with, acquire or take over any other company or business, unless it has obtained prior approval of the Commission in writing to the scheme of such merger, acquisition or take-over. This requirement is in addition to the requirements of the Companies Act, 2017 (XIX of 2017) regarding scheme of arrangement where such schemes are subject to court approval and Commission files comments on schemes of arrangement to the Court;",
+      ">(b) pledge any of the assets held or beneficially owned by such Special Purpose Vehicle except for the benefit of the investors;",
+      ">(c) make a loan or advance money to any person except in connection with its normal business;",
+      ">(d) participate in a joint account with others in any transaction;",
+      ">(e) make any investment with the purpose of having the effect of vesting the management, or control, in the Special Purpose Vehicle; and",
+      ">(f) give guarantee, indemnity or security for any liability of a third party.",
+      "(4) A Special purpose Vehicle shall –",
+      ">(a) be obliged to manage its assets in the interest of the investors in good faith and to the best of its ability and without gaining any undue advantage for itself or any of its related parties, associates or its officers;",
+      ">(b) be responsible for the acts and omissions of all persons to whom it may delegate any of its functions as manager as if they were its own acts and omissions;",
+      ">(c) keep at its registered office, proper books of accounts and records, including register of investors to enable a complete and accurate view to be formed of its assets, liabilities, income and expenditure, as per the requirements of the Companies Act, 2017;",
+      "[Explanation: for the purposes of this regulation the expression “register of investor” shall include at least the name and contact details of investors, CNIC/passport number (for individual investors), registration number (in case of corporates), number of debt securities held, date of purchase and consideration paid];",
+      ">(d) prepare and transmit its periodical financial statements, in compliance with the requirements set out in the Companies Act, 2017 (XIX of 2017) together with a statement containing the following information namely:",
+      ">>(i) total number of investors; and",
+      ">>(ii) particulars of its directors, or executives as the case may be.",
+      ">(e) appoint an auditor or auditors in accordance with the relevant provisions of the Companies Act, 2017; and",
+      ">(f) provide a certificate from a QCR rated Chartered Accountant firm certifying that valuation methodology adopted by the SPV takes into account track record of the Company and the nature and viability of the project for which funds are to be raised through securitization along with other things."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Requirements for Assets that may be securitized",
+     "page": 3,
+     "text": [
+      "(1) The assets that are the subject matter of a securitization transaction must fulfil all of the following criteria: -",
+      ">(a) the assets must have cash generating ability and have an actionable claim;",
+      ">(b) the Originator has a valid and enforceable interest in the assets and in the cash flows of the assets prior to any securitization transaction;",
+      ">(c) all requisite regulatory approvals and other consents (where applicable), have been obtained and there are no impediments (contractual or otherwise) including no third party’s interest that prevent the effective transfer of the assets or the rights in relation to such assets from an originator to a Special purpose Vehicle;",
+      ">(d) the assets are protected from claims against the originator’s assets in the event of originator’s insolvency, winding up or otherwise;",
+      ">(e) the assets are transferred at arm’s length /commercial basis; and",
+      ">(f) Where the issue, offer or invitation of asset backed securities is Islamic in nature, the assets that are the subject matter of the securitization transaction must be acceptable in accordance with Shariah principles."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Miscellaneous",
+   "sections": [
+    {
+     "no": "6",
+     "title": "Special purpose Vehicle and the Originator relationship",
+     "page": 4,
+     "text": [
+      "(1) Special purpose Vehicle shall exercise independence in its own judgement and have independent board of directors.",
+      "(2) The Originator may establish a 100% owned SPV subject to compliance of the following conditions: -",
+      ">(a) the assets shall be transferred from the originator to its subsidiary;",
+      ">(b) all transactions between Special purpose Vehicle and the originator shall be conducted at arm’s length /commercial basis;",
+      ">(c) the offering document issued by the Special purpose Vehicle shall clearly disclose the relationship and any other interests between the originator and Special purpose Vehicle;",
+      ">(d) the Board of Special purpose Vehicle shall comprise of two third independent directors and CEO of Special purpose Vehicle shall be from amongst the independent directors;",
+      ">(e) the originator shall have no role in decision making process of Special purpose Vehicle in relation to securitization transaction;",
+      ">(f) The Special purpose Vehicle shall hold itself out as having a distinct, independent existence and shall pay all its debts from its own funds; and",
+      ">(g) The Special purpose Vehicle shall not give any surety or security for the obligations of any other person.",
+      "(3) The Board of Directors of the Special purpose Vehicle shall be responsible to ensure compliance with the above-mentioned conditions."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Credit enhancement",
+     "page": 4,
+     "text": [
+      "A Special purpose Vehicle may opt for credit enhancement of the asset pool, subject to making full disclosures of the arrangements in the offer document.",
+      "Explanation: for the purposes of this Regulations the expressions “credit enhancement” means an arrangement within a securitization transaction, intended to decrease the likelihood of default on the debt securities, in the form of cash collateral, profit retention, subordination, insurance, letter of credit, over-collateralization, undertakings and guarantees by third party including financial institution;"
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Servicers",
+     "page": 4,
+     "text": [
+      "(1) A Special purpose Vehicle may appoint either the originator or any other person as servicer in respect of securitization transaction.",
+      "(2) The Servicer appointed by the Special purpose Vehicle shall perform the following functions, namely: -",
+      ">(a) to coordinate with the obligors, manage the asset pool and collections therefrom;",
+      ">(b) administer the cash flows of such asset pool, distributions to investors; and reinvestment, if any, in accordance with the securitization transaction; and",
+      ">(c) manage incidental matters.",
+      "(3) Where Special purpose Vehicle appoints the originator as servicer, it shall adopt internal procedures designed to avoid conflict of interest and shall provide such information to the Commission.",
+      "(4) The investment agent shall ensure that the servicer keeps proper accounts in respect of the activities delegated to him and that the servicer has adequate operational systems and resources to administer the asset pool in relation to a securitization transaction."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Credit rating",
+     "page": 5,
+     "text": [
+      "(1) No Special purpose Vehicle shall offer debt securities or shariah compliant securitized instruments unless credit rating of the Instrument is obtained from a credit rating agency registered with the Commission.",
+      "(2) All credit ratings obtained by Special purpose Vehicle on the securitized instruments shall be disclosed in the offer document.",
+      "(3) A credit rating agency rating the securitized instruments issued by a Special purpose Vehicle shall include reference to the following in the rating rationale:",
+      ">(a) quality of the asset pool and the strength of cash flows;",
+      ">(b) payment structure;",
+      ">(c) adequacy of credit enhancements;",
+      ">(d) originator profile;",
+      ">(e) risks and concerns for investors and mitigating factors;",
+      ">(f) quality and experience of the servicer, if any.",
+      ">(g) terms of the servicer contract; and",
+      ">(h) any other relevant information."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Disclosures in the Offering Document",
+     "page": 5,
+     "text": [
+      "(1) The Special purpose Vehicle shall prepare the draft prospectus as per the format and disclosures prescribed in Schedule-III of the Regulations.",
+      "(2) The Information Memorandum prepared with respect to issue of a debt security through private placement shall contain at least the information and disclosures as prescribed in Schedule-IV of the Regulations."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Reporting",
+     "page": 5,
+     "text": [
+      "The Special purpose Vehicle shall submit reports to the Commission as per the requirements of Public Offering Regulations, 2017 and Private Placement of Securities Rules, 2017 along with copy of information memorandum."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Penalty for contravention of Regulations",
+     "page": 5,
+     "text": [
+      "Whoever fails or refused to comply with, or contravenes any requirements of the regulations shall be punishable with as provided under sub-section (2) of section 512 of the Companies Act, 2017."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure-A",
+   "page": 7
+  },
+  {
+   "title": "Annexure-B",
+   "page": 10
+  }
+ ]
+}

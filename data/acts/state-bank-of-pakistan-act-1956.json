@@ -1,0 +1,2076 @@
+{
+ "id": "state-bank-of-pakistan-act-1956",
+ "title": "State Bank of Pakistan Act, 1956",
+ "number": "Act No. XXXIII of 1956",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "banking"
+ ],
+ "aliases": [
+  "SBP Act"
+ ],
+ "enacted": "1956-01-01",
+ "lastAmended": "2022-01-28",
+ "amendedUpToLabel": "As amended up to 28 January 2022",
+ "status": "in-force",
+ "source": {
+  "name": "State Bank of Pakistan (legal page, downloaded by the library's editor)",
+  "url": "https://www.sbp.org.pk"
+ },
+ "sourcePdf": "state-bank-of-pakistan-act-1956.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "State Bank of Pakistan website PDF, downloaded by the editor 22-23 Nov 2026; verification declared by the editor, not a line-by-line check",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "WHEREAS it is necessary to provide for the constitution of State Bank to achieve domestic price stability by way of regulating the monetary and credit system of Pakistan and, without prejudice to said primary objective, contribute to the stability of the financial system of Pakistan and supporting the general economic policies of the Federal Government to foster development and fuller utilization of the country’s productive resources; It is hereby enacted as follows:- Establishment, Incorporation And Share Capital of the Bank",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
+    {
+     "no": "1",
+     "title": "Short title, extent and commencement",
+     "page": 6,
+     "text": [
+      "(1) This Act may be cited as the State Bank of Pakistan Act, 1956",
+      "(2) It extends to the whole of Pakistan",
+      "(3) It shall come into force at once and except section 46, shall be deemed to have taken effect on and from the twelfth day of May 1948."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 7,
+     "text": [
+      "In this Act, unless there is anything repugnant in the subject or context,-",
+      ">(a) {fn:7-2}Omitted;",
+      ">{fn:7-3}(aa) “advanced degree\" means a postgraduate qualification;",
+      ">(b) “approved foreign exchange” means currencies declared as such by any notification under Section 19;",
+      ">(c) “the Bank” means the State Bank of Pakistan;",
+      ">(d) “bank notes” means notes made and issued by the Bank in accordance with Section 24 and include currency notes of the Government of Pakistan issued by the Bank;",
+      ">(e) {fn:7-4}“ Board” means the Board of Directors of the Bank;",
+      ">(f) “Co-operative Bank” means a society registered under the Cooperative societies Act, 1912, or any other law for the time being in force in Pakistan relating to co-operative societies, the primary object of which is to provide financial accommodation to its members;",
+      ">{fn:7-5}[(ff) “debentures” includes participation term certificates;",
+      ">{fn:7-6}(ffa) “development finance activity\" means to undertake an activity to promote any activity of any priority sector such as agriculture, small and medium enterprises, housing or other such sectors;",
+      ">(g) “Director” means a Director for the time being of the {fn:8-7}Board;",
+      ">(h) {fn:8-8}Omitted;",
+      ">(i) “Governor” and “Deputy Governor” means respectively the Governor and Deputy Governor of the Bank;",
+      ">{fn:8-9}(ia) “international reserves” mean the Bank’s foreign exchange reserves;",
+      ">>{fn:8-10}[(ii) “loans and advances” includes finances provided on the basis of participation in profit and loss, markup in price, leasing, hire –purchase or otherwise;",
+      ">(j) {fn:8-11}Omitted;",
+      ">(k) “member” means a member for the time being of {fn:8-12}the Monetary Policy Committee;",
+      ">{fn:8-13}(ka) \"monetary liabilities\" means the total liabilities of the Bank as reflected in the annual audited financial statements at the balance sheet date as reduced by the sum of following liabilities of the same date, namely: —",
+      ">>(i) deposits of the Government;",
+      ">>(ii) amounts owing to the International Monetary Fund, the World Bank, Asian Development Bank or other such institutions;",
+      ">>(iii) deposits of foreign central banks or sovereign wealth funds;",
+      ">>(iv) utilized swap lines of foreign central banks; and",
+      ">>(v) balances of participant central banks under any clearing union;",
+      ">{fn:9-14}(kb) “price stability” means the maintenance of low and stable inflation guided by the government’s medium-term inflation target;",
+      ">{fn:9-15}(kc) “recognized university” means a university or equivalent academic institution recognized by the Higher Education Commission of Pakistan;",
+      ">(l) “rupee coin” means one-rupee coin {fn:9-16}[***]which {fn:9-17}is legal tender in Pakistan;",
+      ">(m) “scheduled bank” means a bank for the time being included in the list of banks maintained under sub-section (1) of Section 37 {fn:9-18}[;]",
+      ">{fn:9-19}[(n) “securities” includes securities as defined in the Capital Issues (Continuance of Control) Act, 1947 (XXIX of 1947);",
+      ">(o) “shares” includes modaraba certificates {fn:9-20}; and",
+      ">{fn:9-21}(oa) “Government” means the Federal or a Provincial Government or a Local Government, as the case may be;",
+      ">(p) {fn:9-22}“Monetary Policy Committee” means the Monetary Policy Committee established under section 9D."
+     ],
+     "fn": [
+      {
+       "n": "7-2",
+       "text": "Deleted words “annual general meeting” by Act No XVIII of 2015"
+      },
+      {
+       "n": "7-3",
+       "text": "Inserted by Act No. VI of 2022"
+      },
+      {
+       "n": "7-4",
+       "text": "Substituted the words “Central Board” by Act No XVIII of 2015"
+      },
+      {
+       "n": "7-5",
+       "text": "Inst. by Ordinance, LVII of 1980, S.2."
+      },
+      {
+       "n": "7-6",
+       "text": "Inserted by Act No. VI of 2022"
+      },
+      {
+       "n": "8-7",
+       "text": "Substituted the words “Central Board” by Act No XVIII of 2015"
+      },
+      {
+       "n": "8-8",
+       "text": "Deleted the words “general meeting” by Act No XVIII of 2015"
+      },
+      {
+       "n": "8-9",
+       "text": "Inserted by Act No. VI of 2022"
+      },
+      {
+       "n": "8-10",
+       "text": "Inst. by Ordinance, LVII of 1980, S.2."
+      },
+      {
+       "n": "8-11",
+       "text": "Deleted the words “Local Board” by Act No XVIII of 2015"
+      },
+      {
+       "n": "8-12",
+       "text": "Substituted the words “Local Board” by Act No XVIII of 2015"
+      },
+      {
+       "n": "8-13",
+       "text": "Inserted by Act No. VI of 2022"
+      },
+      {
+       "n": "9-14",
+       "text": "Inserted by Act No. VI of 2022"
+      },
+      {
+       "n": "9-15",
+       "text": "Inserted by Act No. VI of 2022"
+      },
+      {
+       "n": "9-16",
+       "text": "Deleted words “one rupee notes” by Act No XVIII of 2015"
+      },
+      {
+       "n": "9-17",
+       "text": "Substituted word “are” by Act No XVIII of 2015"
+      },
+      {
+       "n": "9-18",
+       "text": "Subs. by Ordinace, LVII of 1980, S.2 (c) and (d)."
+      },
+      {
+       "n": "9-19",
+       "text": "Added. by Ordinace, LVII of 1980, S.2 (c) and (d)."
+      },
+      {
+       "n": "9-20",
+       "text": "Inserted by Act No XVIII of 2015"
+      },
+      {
+       "n": "9-21",
+       "text": "Inserted by Act No. VI of 2022"
+      },
+      {
+       "n": "9-22",
+       "text": "Inserted by Act No XVIII of 2015"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Establishment and incorporation of the Bank",
+     "page": 10,
+     "text": [
+      "(1) As soon as may be after the commencement of this Act, steps shall be taken to establish, in accordance with the provisions of this Act, a bank to be called the State Bank of Pakistan or Bank Daulat-e-Pakistan, for the purposes of taking over, as from the first day of July, 1948, the management of the currency from the Reserve Bank of India, and carrying on the business of Central Banking.",
+      "(2) The Bank shall be a body corporate by the name of State Bank of Pakistan or Bank Daulat-e-Pakistan, having perpetual succession and a common seal, and shall by the said name sue and be sued.",
+      "{fn:10-23} (3) Subject to this Act, the Bank shall have the power to acquire, hold and dispose of movable and immovable property of any kind, to enter into contracts and to undertake all activities necessary for the achievement of its objectives."
+     ],
+     "fn": [
+      {
+       "n": "10-23",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Share capital",
+     "page": 10,
+     "text": [
+      "{fn:10-24} (1) The authorized capital of the Bank shall be five hundred billion Rupees, divided into five billion shares of one hundred Rupees each. The authorized capital may be increased by the resolution of the Board, subject to the approval of the Federal Government.",
+      "(2) The paid-up capital of the Bank shall be one hundred billion Rupees, divided into one billion shares of one hundred Rupees each, which shall be made up through issuance of bonus shares by capitalizing of profits or general reserve or through subscription of shares in cash by the Federal Government.",
+      "(3) The capital shall be fully paid-up and held exclusively by the Federal Government and shall not be transferable to any other person or entity.",
+      "(4) The Board may, with the prior approval of the Federal Government, increase the paid-up capital from time to time by a resolution, which shall be made up in the same manner as specified in sub-section (2).",
+      "(5) No reduction in either the authorized capital or paid-up capital shall be made at any time.",
+      "(6) The nominal value, issue price, the manner in which the new shares may be issued and their assignment to the register of shareholders shall be determined by the Board.",
+      "(7) Notwithstanding the amount of paid-up capital prescribed in sub-section (2), the paid-up capital and general reserves of the Bank shall increase to eight percent of its monetary liabilities through allocation from the distributable profit as determined in section 42."
+     ],
+     "fn": [
+      {
+       "n": "10-24",
+       "text": "Substituted by Act No. VI of 2022. Previously, section 4 was inserted by Act No. XVIII of 2015."
+      }
+     ]
+    },
+    {
+     "no": "4A",
+     "title": "Re-capitalization",
+     "page": 11,
+     "text": [
+      "{fn:11-25} In the event that in the audited annual financial statements of the Bank, the sum of paid-up capital and general reserves falls below zero, then—",
+      ">(a) the Board, with the advice of the external auditors of the Bank, shall examine and prepare a-report on the causes and extent of the shortfall within a period not exceeding thirty calendar days;",
+      ">(b) in the event that the Board approves the report under clause (a), the Bank shall request the Federal Government for a capital contribution to remedy the deficit with a view to restoring the capital to the level of prescribed paid-up capital under section 4; and",
+      ">(c) upon receipt of this request under clause (b), the Federal Government shall, within a period not exceeding thirty calendar days, transfer to the Bank the necessary amount in cash or in negotiable debt instruments with a specified maturity issued at prevailing market-related interest rates."
+     ],
+     "fn": [
+      {
+       "n": "11-25",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "4B",
+     "title": "Objectives",
+     "page": 12,
+     "text": [
+      "{fn:12-26} (1) The primary objective of the Bank shall be to achieve and maintain domestic price stability.",
+      "(2) Without prejudice to the Bank's primary objective, the Bank shall contribute to the stability of the financial system of Pakistan.",
+      "(3) Subject to sub-sections (1) and (2), the Bank shall support the Government’s general economic policies with a view to contributing to fostering the development and fuller utilization of Pakistan's productive resources."
+     ],
+     "fn": [
+      {
+       "n": "12-26",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "4C",
+     "title": "Functions of the Bank",
+     "page": 12,
+     "text": [
+      "{fn:12-27} The functions of the Bank to achieve the objectives set forth in section 4B and as further described in this Act, shall be to —",
+      ">(a) determine and implement monetary policy;",
+      ">(b) formulate and implement the exchange rate policy;",
+      ">(c) carry out and disseminate research relevant to Bank's objectives and functions;",
+      ">(d) hold and manage all international reserves of Pakistan;",
+      ">(e) issue and manage the currency of Pakistan, including regulating their denominations;",
+      ">(f) collect and produce statistics relevant to the Bank's objectives and functions;",
+      ">(g) operate and exercise oversight over payment systems;",
+      ">(h) license, regulate and supervise scheduled banks and financial institutions that fall under the domain of the Bank as further specified in this Act or any other Act;",
+      ">(i) resolve scheduled banks and other financial institutions that fall under the domain of the Bank as further specified in this Act or any other Act;",
+      ">(j) adopt and implement macro-prudential policy measures for scheduled banks and financial institutions that fall under the domain of the Bank;",
+      ">(k) act as the banker, financial adviser and fiscal agent to the Government, and its agencies, on the mutually agreed terms and conditions;",
+      ">(l) promote financial inclusion in Pakistan;",
+      ">(m) develop financial market infrastructures;",
+      ">(n) participate in international councils and organizations, including multilateral, international financial institutions,",
+      ">(o) cooperate with domestic and foreign public entities, concerning matters related to its objectives and functions; and",
+      ">(p) carry out any ancillary activities incidental to the exercise of its objectives under this Act."
+     ],
+     "fn": [
+      {
+       "n": "12-27",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Omitted",
+     "page": 13,
+     "text": [
+      "{fn:13-28}"
+     ],
+     "fn": [
+      {
+       "n": "13-28",
+       "text": "Deleted section 5 titled “Guarantee by Federal Government” by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Omitted",
+     "page": 13,
+     "text": [
+      "{fn:13-29}"
+     ],
+     "fn": [
+      {
+       "n": "13-29",
+       "text": "Deleted section 6 titled “Notice of Trust” by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Omitted",
+     "page": 13,
+     "text": [
+      "{fn:13-30}"
+     ],
+     "fn": [
+      {
+       "n": "13-30",
+       "text": "Deleted section 7 titled “Register of Shareholders by Act No XVIII of 2015"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Management",
+   "sections": [
+    {
+     "no": "8",
+     "title": "Offices, branches and agencies",
+     "page": 14,
+     "text": [
+      "(1) The head office of the Bank shall be situated in Karachi.",
+      "(2) The Bank may establish branches, offices, and agencies in Pakistan, or, with the prior approval of the {fn:14-31}Board anywhere outside Pakistan.",
+      "(3) The Bank shall create a special Agricultural Credit Department, the functions of which shall be:-",
+      ">(a) to maintain an expert staff to study all questions of agricultural credit and be available for consultation by the {fn:14-32}[Federal Government], Provincial Governments, Provincial Co-operative Banks and other banking organizations;",
+      ">(b) to co-ordinate the operations of the Bank in connection with agricultural credit and its relations with the Provincial Co - operative banks and any other organizations engaged in the business of agricultural credit."
+     ],
+     "fn": [
+      {
+       "n": "14-31",
+       "text": "Substituted the word “federal Government” by Act No XVIII of 2015"
+      },
+      {
+       "n": "14-32",
+       "text": "Subs, by Act, 23 of 1972."
+      }
+     ]
+    },
+    {
+     "no": "8A",
+     "title": "Establishment and maintenance of subsidiary or trust",
+     "page": 14,
+     "text": [
+      "{fn:14-33}[",
+      "Notwithstanding anything to this Act or in any other law for the time being in force, the Bank may establish and maintain a subsidiary or a trust for the following purposes, namely:-",
+      ">(a) for catering to all training needs of the Bank employees, financial sector and other agencies, organizations or institutions pertaining to banking and finance sector;",
+      ">(b) for handling the function of receipt, supply and exchange of Bank notes and coins which are legal tender;",
+      ">(c) for issue , supply, sale and purchase of prize bonds, holding draws thereof and other National Savings instruments; {fn:15-34}[***]",
+      ">(d) {fn:15-35}for protection of depositors or establishment of a deposit protection fund; and",
+      ">{fn:15-36}(e) generally for carrying out any other business or discharging any functions incidental to, or connected with, the affairs of the Bank."
+     ],
+     "fn": [
+      {
+       "n": "14-33",
+       "text": "Inserted by IX of 2001, S.2 (w.e.f 20-02-2001.)"
+      },
+      {
+       "n": "15-34",
+       "text": "Deleted by Act No XVIII of 2015"
+      },
+      {
+       "n": "15-35",
+       "text": "Inserted new sub-section d by Act No XVIII of 2015"
+      },
+      {
+       "n": "15-36",
+       "text": "Renumbered (d) by (e) by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Board of Directors",
+     "page": 15,
+     "text": [
+      "{fn:15-37}(1) Subject to section 9D, oversight of the affairs and functions of the Bank shall be entrusted to the Board of Directors, which shall supervise the management and the Bank's administration, operations and have the right of access to all the activities of the Bank.",
+      "(2) The Board of Directors shall consist of—",
+      ">(a) the Governor;",
+      ">(b) Secretary, Finance Division, Government of Pakistan without the right to vote; and",
+      ">(c) eight non-executive Directors, including at least one from each Province.",
+      "(3) The Deputy Governors shall have the right to attend the Board meetings without the right to vote.",
+      "(4) The Governor shall be the Chairperson of the Board. In the Governor’s absence, the Board shall be chaired by the Deputy Governor in charge of the Board meeting agenda items:",
+      "Provided that when the Deputy Governor chairs the Board meeting in absence of the Governor, the Deputy Governor shall have the right of casting vote.",
+      "(5) The non-executive Directors shall be eminent professionals each of whom is well-known for his integrity, expertise, and experience in the fields of economics, financial services, banking, law, information technology, risk management or accountancy to perform the oversight. They shall have an advanced degree from a recognized university or hold professional accreditation, and relevant experience in any such fields for not less than ten years."
+     ],
+     "fn": [
+      {
+       "n": "15-37",
+       "text": "Substituted by Act No. VI of 2022. Previously, the words “Central Board” were substituted by Act No XVIII of 2015."
+      }
+     ]
+    },
+    {
+     "no": "9A",
+     "title": "Powers of the Board",
+     "page": 16,
+     "text": [
+      "{fn:16-38}(1) The Board, with the exception of the powers entrusted to the Monetary Policy Committee under section 9D, shall perform the following functions, namely: -",
+      ">(a) define, approve and determine the general internal policies and rules of the Bank regarding the execution of its functions and approve internal rules for their implementation;",
+      ">(b) formulate and oversee foreign exchange reserve management, strategic investment and risk policy;",
+      ">(c) approve the annual budget of the Bank;",
+      ">(d) approve the annual report and financial statements of the Bank;",
+      ">(e) adopt and oversee the Bank's policies on internal and external audit, compliance, internal controls and risk management;",
+      ">(f) adopt and oversee the system of financial reporting, accounting policies, information technology and security in the Bank; and",
+      ">(g) establish committees of the Board to assist in oversight functions.”."
+     ],
+     "fn": [
+      {
+       "n": "16-38",
+       "text": "Substituted by Act No. VI of 2022. Previously, this section was substituted by Act No XVIII of 2015."
+      }
+     ]
+    },
+    {
+     "no": "9B",
+     "title": "Meetings of the Board of Directors",
+     "page": 17,
+     "text": [
+      "{fn:17-39}(1) At least six meetings of the Board shall be held in a financial year and as frequently as is necessary for the purpose of discharging its responsibilities under this Act.",
+      "(2) Meetings of the Board shall be convened by the Chairperson or at the written request of any three members of the Board.",
+      "(3) The quorum for a Board meeting shall be four members, including the Chairperson.",
+      "(4) Each member of the Board shall have one vote and in the event of an equality of votes, the person chairing the meeting shall be entitled to a casting vote.",
+      "(5) Except as otherwise provided in this Act, decisions of the Board shall be adopted by a majority of the Board members present and voting at the meeting.",
+      "(6) A resolution in writing together with the necessary documents, approved by all the directors of the Board for the time being entitled to receive notice of a meeting of the Board shall be as valid and effectual as if it had been passed at a meeting of the Board duly convened and held. A resolution under this sub-section shall be noted at a subsequent meeting of the Board and made part of the minutes of such meeting.",
+      "(7) Any or all the documents sent to the Directors, including by email or any other electronic mode shall be considered a valid document.",
+      "(8) The acts done by the Board shall be valid notwithstanding the fact that the appointment of any person as a member of the Board is defective or any person was disqualified for such appointment."
+     ],
+     "fn": [
+      {
+       "n": "17-39",
+       "text": "Substituted by Act No. VI of 2022. Previously, Section 9B added by Act, II of 1994, S.3."
+      }
+     ]
+    },
+    {
+     "no": "9C",
+     "title": "Prohibition on the Government borrowing",
+     "page": 18,
+     "text": [
+      "{fn:18-40}(1) The Bank shall not extend any direct credits to or guarantee any obligations of the Government, or any government-owned entity or any other public entity.",
+      "(2) The prohibition laid down in sub-section (1) shall not apply to governmentowned or publicly-owned banks and other regulated entities, which shall be given the same treatment as privately-owned banks.",
+      "(3) The Bank shall not purchase securities issued by the Government or, any government-owned entity or any other public entity on the primary market. Nonetheless the Bank may purchase such securities in the secondary market.",
+      "(4) The Bank shall not guarantee any loan, advance or investment entered into by the Government, any government-owned entity or any other public entity:",
+      "Provided that the existing outstanding debt owed to the Bank in the form of loans, advances or Government securities purchased on the primary market, at the time of the commencement of the State Bank of Pakistan (Amendment) Act, 2021 shall be retired in accordance with the terms and conditions under which such outstanding debts were extended. In compliance with the prohibition of monetary financing under this section no roll-over or re-profiling of such existing outstanding debt of the Government owed to the Bank shall be permitted.",
+      "(5) The guarantees issued by the Bank to secure the obligations of the Government outstanding on the commencement of the State Bank of Pakistan (Amendment) Act, 2021, shall not be increased, but can be rolled-",
+      "over in accordance with the terms and conditions under which such outstanding guarantees were issued.",
+      "(6) The amount of overdraft outstanding against Pakistan Railways shall be converted into long term debt with a duration of eight years and remunerated at market interest rates."
+     ],
+     "fn": [
+      {
+       "n": "18-40",
+       "text": "Substituted Section 9C by Act No. VI of 2022. Previously, by SBP (Amendment) Act, 2012 (Act No. IX of 2012 dated 13-3-2012)."
+      }
+     ]
+    },
+    {
+     "no": "9D",
+     "title": "Establishment of Monetary Policy Committee",
+     "page": 19,
+     "text": [
+      "{fn:19-41}",
+      "(1) There shall be a Monetary Policy Committee consisting of –",
+      ">(a) Governor, or in his absence, a Deputy Governor Chairperson nominated by him (b) three senior executives of the Bank to be Members nominated by the Governor (c) three members of the Board, to be nominated Members by the Board (d) three external members {fn:19-42}[*****]. Members",
+      "(2) {fn:19-43}Omitted.",
+      "(3) {fn:19-44}Omitted.",
+      "{fn:19-45}(4) External members shall be eminent professionals or academics from the fields of economics, finance or banking, having an advanced degree from a recognized university and relevant experience in any such fields for at least ten years.",
+      "{fn:19-46}(5) The Monetary Policy Committee shall determine its own regulations of procedure.",
+      "{fn:20-47}(6) The quorum for the Monetary Policy Committee meeting shall be four members including at least one of whom shall be the Governor as Chairperson, or in his absence, the relevant Deputy Governor as nominated by the Governor, one non-executive member of the Board, one external member and one senior executive of the Bank. The decision shall be taken by a majority of members present and voting, with the Chairperson having a casting vote."
+     ],
+     "fn": [
+      {
+       "n": "19-41",
+       "text": "Inserted new section 9D by Act No XVIII of 2015"
+      },
+      {
+       "n": "19-42",
+       "text": "Omitted the words,”,who shall be economist, to be appointed by the Federal Government on recommendation of the Board” by Act No. VI of 2022"
+      },
+      {
+       "n": "19-43",
+       "text": "Omitted by Act No. VI of 2022"
+      },
+      {
+       "n": "19-44",
+       "text": "Omitted by Act No. VI of 2022"
+      },
+      {
+       "n": "19-45",
+       "text": "Substituted by Act No. VI of 2022"
+      },
+      {
+       "n": "19-46",
+       "text": "Substituted by Act No. VI of 2022"
+      },
+      {
+       "n": "20-47",
+       "text": "Substituted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "9E",
+     "title": "Powers and functions of Monetary Policy Committee",
+     "page": 20,
+     "text": [
+      "{fn:20-48} In order to achieve the objectives of the Bank, the Monetary Policy Committee shall –",
+      ">(a) formulate {fn:20-50}[****] the monetary policy, including, as appropriate, decisions relating to intermediate monetary objectives, key interest rates and the supply of reserves in Pakistan and may make regulations for their implementation;",
+      ">(b) approve and issue the monetary policy statement and other monetary policy measures;",
+      ">(c) perform any other functions conferred on it by law; and",
+      ">(d) carry out any ancillary activities incidental to the exercise of its functions under this Act."
+     ],
+     "fn": [
+      {
+       "n": "20-48",
+       "text": "Insertion new section 9E by Act No XVIII of 2015"
+      },
+      {
+       "n": "20-50",
+       "text": "Omitted the words “,support and recommend”, by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "9F",
+     "title": "Executive Committee",
+     "page": 20,
+     "text": [
+      "{fn:20-51}(1) An Executive Committee shall be established with the power to formulate policies related to the Bank’s core functions as well as those related to administration and management matters, excluding those matters falling in the purview of the Monetary Policy Committee, or the Board of Directors.",
+      "(2) The Executive Committee shall consist of the Governor, the Deputy Governors, Executive Directors, and as needed other senior officials. The Governor and the Deputy Governors shall have the right to vote on decisions taken by the Executive Committee. The Governor shall have the casting vote.",
+      "(3) The Executive Committee shall adopt its own rules of procedure.",
+      "(4) The Executive Committee shall be chaired by the Governor and in the Governor's absence, by the Deputy Governor in charge of the Executive Committee meeting agenda items.",
+      "(5) The quorum for an Executive Committee meeting shall be two members, including the Chairperson.",
+      "(6) The Executive Committee may delegate, for implementation of its decisions, any of its powers to another committee of the Bank, or to another official of the Bank.",
+      "(7) Any residual matters that have not been explicitly addressed in this Act or allocated to the Board of Directors or the Monetary Policy Committee, if they require a policy decision shall be exercised by the Executive Committee or otherwise the Governor."
+     ],
+     "fn": [
+      {
+       "n": "20-49",
+       "text": "Substituted by Act No. VI of 2022"
+      },
+      {
+       "n": "20-51",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "9G",
+     "title": "Governor and Minister of Finance to establish liaison",
+     "page": 21,
+     "text": [
+      "{fn:21-52} The Governor and the Finance Minister shall establish a close liaison through a mutual agreement with each other and shall keep each other fully informed on all matters which jointly concern the Bank and the Ministry of Finance."
+     ],
+     "fn": [
+      {
+       "n": "21-52",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Governor and Deputy Governors",
+     "page": 21,
+     "text": [
+      "{fn:21-53} (1) The Governor of the Bank shall be its chief executive officer, who shall chair the Executive Committee and ensure the implementation of the decisions taken and policies adopted by the Board of Directors, Executive Committee and Monetary Policy Committee, and shall represent the Bank externally in person or through a nominee.",
+      "(2) At any time when the office of Governor is vacant or the Governor is incapacitated, the senior most Deputy Governor shall be the Acting Governor, until the Governor is appointed. Whenever, the Governor is on leave or travelling abroad, he may designate in writing one of the Deputy Governors as Acting Governor who, while chairing Board meeting in the absence of Governor, shall in case of equality of votes have casting vote.",
+      "(3) There shall be three Deputy Governors.",
+      "(4) A Deputy Governor shall perform such duties as may be assigned to him by the Governor.",
+      "(5) Persons eligible to serve the offices referred to in sub-sections (1) and (3) shall possess recognized integrity, expertise and advanced degree from a recognized university in the fields of economics, financial services, accountancy or banking with relevant professional experience in any such field for at least ten years."
+     ],
+     "fn": [
+      {
+       "n": "21-53",
+       "text": "Substituted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "[Omitted]",
+     "page": 22,
+     "text": [
+      "{fn:22-54} Omitted."
+     ],
+     "fn": [
+      {
+       "n": "22-54",
+       "text": "Deleted section 11 tilted “Executive Committee” by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "11A",
+     "title": "Appointments",
+     "page": 22,
+     "text": [
+      "{fn:22-55} (1) The Governor and the non-executive Directors shall be appointed by the President, upon the recommendation of the Federal Government taking into account the eligibility and disqualification criteria laid down in this Act.",
+      "(2) The Deputy Governors shall be appointed by the Federal Government after consultation between the Minister of Finance and the Governor, from amongst a panel of three candidates recommended by the Governor for each vacant position, in order of merit.",
+      "(3) External members of the Monetary Policy Committee shall be appointed by the Federal Government, upon the recommendation of the Board.",
+      "(4) In the event of a vacancy occurring amongst the appointed Governor, Deputy Governors, non-executive Directors and the external members of the Monetary Policy Committee, an appointment referred to in sub-sections (1), (2) and (3) shall be finalized within a period not exceeding thirty days on the occurrence of such vacancy.",
+      "(5) The Governor and the Deputy Governors shall devote their whole time to the affairs of the Bank and shall not engage in any business or other profession so long as they hold their offices during their tenure.”.",
+      "(6) The Governor shall be a citizen of Pakistan and shall not hold any other citizenship or permanent residency."
+     ],
+     "fn": [
+      {
+       "n": "22-55",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "[Omitted]",
+     "page": 23,
+     "text": [
+      "{fn:23-56} Omitted."
+     ],
+     "fn": [
+      {
+       "n": "23-56",
+       "text": "Deleted section 12 titled “Local Boards, their constitution and functions” by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Disqualifications of the Governor, Deputy Governors, Directors and members",
+     "page": 23,
+     "text": [
+      "{fn:23-57} No person shall be or shall continue to be the Governor, a non-executive Director, an external member of Monetary Policy Committee and a Deputy Governor, who —",
+      ">(a) is a member of the Parliament or a Provincial Assembly, or a Local Government or having dual Nationality;",
+      ">(b) is employed in any capacity in the public service of Pakistan or of any Province of Pakistan or any statutory body except the Bank or holds any office or position for which any salary or other remuneration is payable from public funds, except for engagement in educational work or senior executives of the Bank;",
+      ">(c) is or has been convicted of a serious criminal offense, money laundering, fraud or economic crime;",
+      ">(d) is, or at any time has been an undischarged insolvent; or has suspended payment or has compounded with the creditors;",
+      ">(e) is found to be permanently physically or mentally unable to perform the duties;",
+      ">(f) is a Director, officer or employee of any other bank or an entity regulated by the Bank;",
+      ">(g) is a shareholder of any bank or an entity regulated by the Bank;",
+      ">(h) is a member of any political party;",
+      ">(i) due to age is not able to complete the full term of appointment; or",
+      ">(j) absents themselves from three consecutive meetings of the Board or Monetary Policy Committee without leave from the Board or Monetary Policy Committee, as the case may be."
+     ],
+     "fn": [
+      {
+       "n": "23-57",
+       "text": "Substituted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Terms of Office",
+     "page": 24,
+     "text": [
+      "{fn:24-58} (1) The Governor, the Deputy Governors, the nonexecutive Directors shall be appointed for a term of five years and shall be eligible for re-appointment only for one term of five years.",
+      "(2) The external members of the Monetary Policy Committee shall be appointed for a term of five years and shall be eligible for one reappointment for another term of five years.",
+      "(3) No person shall hold the office of the Governor or Deputy Governor after attaining the age of sixty-five years.",
+      "(4) The Governor, Deputy Governor, non-executive Director or external member of the monetary policy committee vacating office shall not be eligible to become a Director or member, as the case may be, until the expiry of the term of office for which he was appointed.",
+      "(5) On commencement of the State Bank of Pakistan (Amendment) Act, 2021 shall not affect the tenure of the incumbent Governor, Deputy Governors, and non-executive Directors who shall remain in office until their current term expires in accordance with their current terms and conditions."
+     ],
+     "fn": [
+      {
+       "n": "24-58",
+       "text": "Substituted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "14A",
+     "title": "Remuneration, terms and conditions of service",
+     "page": 25,
+     "text": [
+      "{fn:25-59}(1) The terms and conditions of service, including remuneration, of the Governor and the Deputy Governors shall be determined by the Board of Directors.",
+      "(2) The leaves and official foreign travels of the Governor and Deputy Governors, shall be determined by the Board and the Governor, respectively.",
+      "(3) The terms and conditions including the remuneration for the external members of the Monetary Policy Committee shall be determined by the Board of Directors.",
+      "(4) The Governor and Deputy Governors shall recuse themselves from the meeting at the time of determination of their terms and conditions and remuneration.",
+      "(5) The terms and conditions of the appointment of the non-executive Directors including fees shall be determined by their appointing authority and shall be attached to the offer of their appointment.",
+      "(6) When determining the remuneration of the Governor, Deputy Governors and the fees of the non-executive Directors and external members of the Monetary Policy Committee, the average relevant level of remuneration or fees prevalent in the financial sector of Pakistan for comparable levels of appointment shall be taken into account, in order to allow for qualified professionals to be recruited and retained.",
+      "(7) The consolidated amount of remuneration of the Governor and Deputy Governors and fees of non-executive Directors and the external members of the Monetary Policy Committee shall be mentioned in the annual financial statement of the Bank.",
+      "(8) Neither the remuneration and fees nor the terms and conditions of service shall be varied to the appointee's disadvantage during his term of office.",
+      "(9) No remuneration or fees or compensation shall be based on the Bank's profits or any of its revenues."
+     ],
+     "fn": [
+      {
+       "n": "25-59",
+       "text": "Inserted by Act No. VI of 2022. Previously, omitted Section 14A by Act 2 of 1994, S.6."
+      }
+     ]
+    },
+    {
+     "no": "14B",
+     "title": "Resignation",
+     "page": 26,
+     "text": [
+      "{fn:26-60}(1) The Governor, a Deputy Governor, a non-executive Director or an external member of the Monetary Policy Committee may, by writing under his hand addressed to the appointing authority, resign his office.",
+      "(2) A resignation in sub-section (1) shall be addressed through the Board.",
+      "(3) On the acceptance of a resignation under sub-section (1) by the appointing authority, the office shall become vacant."
+     ],
+     "fn": [
+      {
+       "n": "26-60",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Dismissal of the Governor and Deputy Governor",
+     "page": 26,
+     "text": [
+      "{fn:26-61}(1) The appointing authority may remove the Governor, or a Deputy Governor, if he---",
+      ">(a) is guilty of gross misconduct; or",
+      ">(b) is incapable of properly performing the duties of his office by reason of physical or mental incapacity; or",
+      ">(c) has violated any of the stipulations mentioned in section 13.",
+      "(2) The appointing authority shall remove any non-executive Director or external member of the Monetary Policy Committee if he---",
+      ">(a) is guilty of gross misconduct; or",
+      ">(b) is incapable of properly performing the duties of his office by reason of physical or mental incapacity; or",
+      ">(c) has violated any of the stipulations mentioned in section 13:",
+      "Provided that no proceedings under sub-section (1) and (2) shall be initiated unless a show cause notice, including an opportunity of being heard, is given to such person.",
+      "(3) (a) The Governor, a Deputy Governor or a director may resign his office by statement to that effect in writing signed by him and addressed to the {fn:27-62}[Federal Government].",
+      ">(b) A statement of resignation by a Deputy Governor or director shall be addressed as above through the Governor.",
+      ">(c) A {fn:27-63}director or member may resign his office by a statement to that effect in writing signed by him and addressed to the {fn:27-64}Board.",
+      ">(d) On the acceptance of such a resignation by the {fn:27-65}[Federal Government] or the {fn:27-66} Board, as the case may be, the office shall become vacant.",
+      "(4) Any director or member vacating office under this section shall not be eligible to become a director or member, as the case may be, until the expiry of the term of office for which he was {fn:27-67}appointed.",
+      "(5) In the event of a vacancy occurring amongst the {fn:27-68}appointed directors, the {fn:27-69}[Federal Government] shall fill the vacancy by {fn:27-70}appointing another director.",
+      "(6) {fn:27-71}Omitted."
+     ],
+     "fn": [
+      {
+       "n": "26-61",
+       "text": "Substituted by Act No. VI of 2022."
+      },
+      {
+       "n": "27-62",
+       "text": "Subs. by Act, 23 of 1972."
+      },
+      {
+       "n": "27-63",
+       "text": "Inserted by Act No XVIII of 2015"
+      },
+      {
+       "n": "27-64",
+       "text": "Substituted by Act No XVIII of 2015"
+      },
+      {
+       "n": "27-65",
+       "text": "Subs. by Act, 23 of 1972."
+      },
+      {
+       "n": "27-66",
+       "text": "Substituted the words “Central Board” by Act No XVIII of 2015"
+      },
+      {
+       "n": "27-67",
+       "text": "Substituted by Act No XVIII of 2015"
+      },
+      {
+       "n": "27-68",
+       "text": "Substituted by Act No XVIII of 2015"
+      },
+      {
+       "n": "27-69",
+       "text": "Subs. by Act, 23 of 1972."
+      },
+      {
+       "n": "27-70",
+       "text": "Substituted by Act No XVIII of 2015"
+      },
+      {
+       "n": "27-71",
+       "text": "Deleted by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Omitted",
+     "page": 28,
+     "text": [
+      "{fn:28-72}"
+     ],
+     "fn": [
+      {
+       "n": "28-72",
+       "text": "Deleted section 16 titled “General and Annual General Meeting” by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "16A",
+     "title": "Conflict of interest",
+     "page": 28,
+     "text": [
+      "{fn:28-73}No person appointed under section 11A shall act as a representative of any commercial, financial, agricultural, industrial or other interest or receive or accept directions therefrom, in respect of duties to be performed under this Act. Every such person shall fully and promptly disclose to the Board any interest, whether personal, commercial, financial, agricultural, industrial or other, which he or any dependent member of his family may directly or indirectly hold or be connected with and which becomes the subject of consideration by the Board, and shall recuse themselves from any Board deliberations and voting related thereto:",
+      "Provided that such an interest, if so disclosed, shall not disqualify such member for the purpose of constituting a quorum.\":",
+      "Provided that no person appointed under section 11A shall be employed by any institution regulated by the Bank within a period of two years after vacating his position at the Bank"
+     ],
+     "fn": [
+      {
+       "n": "28-73",
+       "text": "Inserted by Act No. VI of 2022"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Business And Functions Of The Bank",
+   "sections": [
+    {
+     "no": "17",
+     "title": "Business which the Bank may transact",
+     "page": 28,
+     "text": [
+      "The Bank is authorised to carry on and transact the several kinds of business hereinafter specified, namely;",
+      "(1) The accepting of money on deposit {fn:28-74}[***]from, and the collection of money for the {fn:29-75}[Federal Government] the Provincial Governments {fn:29-76}[***], Local Authorities, banks and other persons: {fn:29-77}[Provided that no interest shall be paid on deposit received from the {fn:29-78}[Federal Government], a Provincial Government {fn:29-79}[***], or a Local Authority.",
+      "{fn:29-80}(1A) provide the refinance facility exclusively to the financial institutions falling under the supervisory jurisdiction of the Bank backed by such collateral and on such terms and conditions as may be determined by the Bank. This refinance shall not be provided to any person other than a financial institution. The Bank shall implement the refinance facility exclusively in pursuit of its mandate, without compromising its primary objective of price stability. The Bank shall not use the refinancing facility to directly or indirectly provide privileged access to funding to any financial institution or risk insurance of any specific sector.",
+      "2) (a) {fn:29-81}Omitted.",
+      ">(b) {fn:29-82}Omitted.",
+      ">(c) The purchase, sale and rediscount of bills of exchange and promissory notes drawn on and payable in Pakistan and bearing the signature of a scheduled bank, and issued or drawn for the purpose of holding or trading in securities of the {fn:29-83}[Federal Government or a Provincial Government] and maturing within ninety days from the date of such purchase or rediscount, exclusive of days of grace;",
+      ">(d) {fn:29-84}Omitted.",
+      ">[(e) {fn:30-85}Omitted.",
+      "(3) (a) The purchase and the sale of approved foreign exchange;",
+      ">(b) The purchase, sale and rediscount of bills of exchange including treasury bills, drawn in or on any place in countries whose currency has been declared as approved foreign exchange and maturing within {fn:30-86}[one hundred and eighty days] from the date of purchase, provided that no such purchase, sale or rediscount shall be made in Pakistan except with a scheduled bank;",
+      ">(c) The keeping of balances with banks in countries whose currency has been declared as approved foreign exchange;",
+      "(4) The making to {fn:30-87}[{fn:30-88}[****] scheduled banks or cooperative banks] of advances and loans repayable on demand or on expiry of fixed periods not exceeding {fn:30-89}[one hundred and eighty days] against the security of:-",
+      ">(a) stocks, funds and securities, other than immovable property, in which a trustee is authorised to invest trust money by any law for the time being in force in Pakistan;",
+      ">(b) gold or silver or documents of title to the same;",
+      ">(c) such bills of exchange and promissory notes as are eligible for purchase or rediscount by the Bank; {fn:30-90}[or otherwise fulfil the requirements of clause (2) but are payable on demand]; and",
+      ">{fn:30-91}[(d) promissory notes of any scheduled bank supported by such modaraba certificates or participation term certificates as are acceptable to the bank or by documents of title relating to goods, such documents having been transferred, assigned or pledged to any such bank as security for a loan or advance granted for bona fide commercial or trade transactions or for the purpose of financing seasonal agricultural operations of the marketing of crops];",
+      "[(4A) {fn:31-92}Omitted.",
+      "[(4B) {fn:31-93}Omitted.",
+      "[(4C) {fn:31-94}Omitted.",
+      "{fn:31-95}(4D) any balances held by the Bank under omitted sections17A, 17B, 17C, 17D and 17E shall stand transferred to the paid-up capital and general reserves of the Bank;",
+      "(5) {fn:31-96}Omitted.",
+      "(6) {fn:31-97}Omitted.",
+      "[(6A) {fn:31-98}Omitted.",
+      "[(6B) {fn:31-99}Omitted.",
+      "(7) The issue and purchase of telegraphic transfers, demand drafts and other kinds of remittances made payable at its own branches, offices or agencies;",
+      "(8) The drawing, accepting, making and issue, on its own account or on account of the {fn:32-100}[Federal Government], as the case may be, of any bill of exchange, {fn:32-101}[***] promissory note or engagement for the payment within or without Pakistan, of Pakistan or foreign currency payable to bearer or to a banker on demand {fn:32-102}[*********];",
+      "(9) (a) Subject to sub-clause (b) the purchase and sale of securities of countries whose currency has been declared as approved foreign exchange with an unexpired currency of not more than ten years;",
+      ">(b) The restrictions relating to maturity shall not apply to securities held by the Bank on the date on which this Act comes into force or any securities that may be received as assets under the Pakistan (Monetary System and Reserve Bank) Order 1947;",
+      "(10) (a) The purchase and sale of securities of the {fn:32-103}[Federal Government] or a Provincial Government of any maturity or of such securities of a Local Authorities as may be specified in this behalf by the {fn:32-104}[Federal Government] by notification in the official Gazette on the recommendation of the {fn:32-105}Board;",
+      ">(b) Securities, Debentures and shares fully guaranteed as to principal and interest by the {fn:32-106}[Federal Government] shall be deemed for the purpose of this section to be securities of that Government;",
+      ">{fn:32-107}[(c) The amount of such securities held at any time in the Banking Department shall be so regulated that the total value of such securities shall not exceed the aggregate amount of the share capital of the Bank, the Reserve Fund and four fifths of the liabilities of the Banking Department in respect of deposits] {fn:33-108}[*]:",
+      "{fn:33-109}Provided that the Bank may only undertake the above operations or purchase such securities on the secondary markets;",
+      "{fn:33-110}[(11) The custody of monies, securities, and other articles of value and the collection of the proceeds, whether principal or interest, profit, dividend or other return of any such securities];",
+      "(12) The sale and realisation of all property, whether movable or immovable which may in any way come into the possession of the Bank in satisfaction, or part satisfaction of any of its claims;",
+      "(13) The acting as agent to the {fn:33-111}[Federal Government], any Provincial Government, {fn:33-112}[***] or any Local Authority in the transaction of any of the following kinds of business, namely:-",
+      ">(a) the purchase and sale of gold or silver or approved foreign exchange;",
+      ">(b) the purchase, sale, transfer and custody of bills of exchange, securities or shares in any company;",
+      ">{fn:33-113}[(c) the collection of the proceeds, whether principal or interest, profit, dividend or other return, of any securities];",
+      ">(d) the remittance of such proceeds at the risk of the principal, by bills of exchange payable either in Pakistan or elsewhere {fn:33-114}[***];",
+      ">(e) the management of public debt; {fn:34-115}[and",
+      ">(f) the transaction of special drawing rights with the International Monetary Fund];",
+      "(14) The purchase and sale of gold coin and gold or silver bullion;",
+      "(15) The opening of an account with or the making of any agency arrangement with, and the acting as agent or correspondent of a bank incorporated in any country outside Pakistan or the principal currency authority of any country under the law for the time being in force in that country or any {fn:34-116}[international or regional bank formed by such principal currency authorities, {fn:34-117}[***] the investing of the funds of the Bank in the shares and securities of any such international or regional bank]; {fn:34-118}[and the holding and transacting of special drawing rights with the International Monetary Fund];",
+      "(16) (a) Subject to sub-clauses (b) and (c) the borrowing of money {fn:34-119}[***] for the purpose of the business of the Bank, and the giving of security for money so borrowed.",
+      ">(b) No money shall be borrowed under this sub-section from any person in Pakistan other than a scheduled bank or from any person outside Pakistan other than a bank which is the principal currency authority of any country under the law for the time being in force in that country;",
+      ">(c) The total amount of borrowings from persons in Pakistan shall not at any time exceed the amount of the share capital of the Bank;",
+      "(17) The making and issue of bank notes subject to the provisions of this Act;",
+      "{fn:35-120}[(18) The exercise of powers and the performance of functions and duties entrusted to the Bank by or under this Act or any other law for the time being in force];",
+      "{fn:35-121} [(18A) The entering into clearing and payments arrangements with any country or group of countries, on a general or regional or sub-regional basis, participation in the formation and settlement of international payments transactions under such arrangements, and incurring financial and other obligations relating thereto];",
+      "(19) {fn:35-122}Omitted.",
+      "[(19A) {fn:35-123}Omitted.",
+      "(20) Generally, the doing of all such matters and things as may be necessary, incidental to or consequential upon the exercise of its powers or the discharge of its duties or functions under this Act.",
+      "[17A. {fn:35-124}Omitted.",
+      "[17 B . {fn:36-125}Omitted.",
+      "[17C. {fn:36-126}Omitted. .",
+      "[17D. {fn:36-127}Omitted.",
+      "[17E. {fn:36-128}Omitted."
+     ],
+     "fn": [
+      {
+       "n": "28-74",
+       "text": "Omitted by Act, 1 of 1968."
+      },
+      {
+       "n": "29-75",
+       "text": "Subs. by Act, XXIII of 1972"
+      },
+      {
+       "n": "29-76",
+       "text": "Omitted by Ordinance, XXVII of 1981, Schedule 2."
+      },
+      {
+       "n": "29-77",
+       "text": "Inst. by Act, 1 of 1968."
+      },
+      {
+       "n": "29-78",
+       "text": "Subs. by Act, XXIII of 1972."
+      },
+      {
+       "n": "29-79",
+       "text": "Omitted by Ordinance, XXVII of 1981, Schedule 2."
+      },
+      {
+       "n": "29-80",
+       "text": "Substituted by Act No. VI of 2022. Previously, this sub-section 1A was inserted by Act No XVIII of 2015."
+      },
+      {
+       "n": "29-81",
+       "text": "Omitted by Act No. VI of 2022"
+      },
+      {
+       "n": "29-82",
+       "text": "Omitted by Act No. VI of 2022."
+      },
+      {
+       "n": "29-83",
+       "text": "Subs. By Ordinance, XXVII of 1981, Schedule 2."
+      },
+      {
+       "n": "29-84",
+       "text": "Omitted by Act No. VI of 2022"
+      },
+      {
+       "n": "30-85",
+       "text": "Omitted by Act No. VI of 2022"
+      },
+      {
+       "n": "30-86",
+       "text": "Subs by Act, 6 of 1965, S.2."
+      },
+      {
+       "n": "30-87",
+       "text": "Subs by Ordinance 5 of 1961, S.2."
+      },
+      {
+       "n": "30-88",
+       "text": "Omitted the words “Local Authorities”by Act No. VI of 2022."
+      },
+      {
+       "n": "30-89",
+       "text": "Subs by Ordinance XVI OF 1981, S.2."
+      },
+      {
+       "n": "30-90",
+       "text": "Subs by Ordinance 16 of 1981, S.2."
+      },
+      {
+       "n": "30-91",
+       "text": "Subs by Ordinance LVII of 1980, S.3."
+      },
+      {
+       "n": "31-92",
+       "text": "Omitted by Act No. VI of 2022. Previously, sub section (4-A) was Inserted by Ordinance, 5 of 1961."
+      },
+      {
+       "n": "31-93",
+       "text": "Omitted by Act No. VI of 2022. Previously sub-section (4-B) was inserted by Act, 1 of 1968."
+      },
+      {
+       "n": "31-94",
+       "text": "Omitted by Act No. VI of 2022. Previously sub-section (4-C) was inserted by Ordinance V of 1971."
+      },
+      {
+       "n": "31-95",
+       "text": "Inserted by Act No. VI of 2022."
+      },
+      {
+       "n": "31-96",
+       "text": "Omitted by Act No. VI of 2022"
+      },
+      {
+       "n": "31-97",
+       "text": "Omitted by Act No. VI of 2022"
+      },
+      {
+       "n": "31-98",
+       "text": "Omitted by Act No. VI of 2022. Previously, Subs. By Act. 17 of 1963. S.2."
+      },
+      {
+       "n": "31-99",
+       "text": "Omitted by Act No. VI of 2022. Previously, Clause (6-B) Inst. By Ordinance, XLVII of 1979. It shall be Deemed to take effect from 01-07-1979. See Ordinance, XLVII of 1980, S.2."
+      },
+      {
+       "n": "32-100",
+       "text": "Subs. by Act, 23 of 1972."
+      },
+      {
+       "n": "32-101",
+       "text": "Omitted the word “hundi,” by Act No. VI of 2022"
+      },
+      {
+       "n": "32-102",
+       "text": "Omitted the words “;but not such business shall be carried on or transacted without the previous approval of the [Federal Government]” Act No. VI of 2022"
+      },
+      {
+       "n": "32-103",
+       "text": "Subs. by Ordinance, 1981, Schedule.2."
+      },
+      {
+       "n": "32-104",
+       "text": "Subs. by Act, XXIII of 1972."
+      },
+      {
+       "n": "32-105",
+       "text": "Substituted by Act No XVIII of 2015"
+      },
+      {
+       "n": "32-106",
+       "text": "Subs. by Act, XXIII of 1972."
+      },
+      {
+       "n": "32-107",
+       "text": "Subs. by Act, XXIII of 1966, S.2.."
+      },
+      {
+       "n": "33-108",
+       "text": "Substituted “;”by Act No. VI of 2022."
+      },
+      {
+       "n": "33-109",
+       "text": "Inserted by Act No. VI of 2022."
+      },
+      {
+       "n": "33-110",
+       "text": "Subs. by Act, LVII of 1980 S.3(b)."
+      },
+      {
+       "n": "33-111",
+       "text": "Subs. by Act, XXIII of 1972."
+      },
+      {
+       "n": "33-112",
+       "text": "Omitted by Ordinance, XXVII of 1981, Schedule 2."
+      },
+      {
+       "n": "33-113",
+       "text": "Subs by Ordinance, LVII of 1980, S.3(c)"
+      },
+      {
+       "n": "33-114",
+       "text": "Omitted by Ordinance, XI of 1969, Schedule 2."
+      },
+      {
+       "n": "34-115",
+       "text": "Added by Ordinance, XI of 1969, Schedule 2."
+      },
+      {
+       "n": "34-116",
+       "text": "Subs for ‘International Bank formed by such principal currency authorities and the investing of the funds of the bank in the shares of such International bank’, by Act XXIII of 1966, S.2(2)"
+      },
+      {
+       "n": "34-117",
+       "text": "Word, ‘and’ omitted by Ordinance XI of 1969, S.2."
+      },
+      {
+       "n": "34-118",
+       "text": "Added by Ordinance XI of 1969, S.2."
+      },
+      {
+       "n": "34-119",
+       "text": "Words ‘for a period not exceeding three months’ omitted by Act, XXVI of 1975."
+      },
+      {
+       "n": "35-120",
+       "text": "Subs by Ordinance, XVI of 1981."
+      },
+      {
+       "n": "35-121",
+       "text": "Inst by Ordinance, XIII of 1973."
+      },
+      {
+       "n": "35-122",
+       "text": "Omitted by Act No. VI of 2022."
+      },
+      {
+       "n": "35-123",
+       "text": "Omitted by Act No. VI of 2022. Previously, Clause (19A) inst by Ordinance 44 of 2000, S.2 (b)."
+      },
+      {
+       "n": "35-124",
+       "text": "Omitted Section (17 A), titled “Rural Credit Fund”, by Act No. VI of 2022. Previously, Inst by Ordinance V of 1961."
+      },
+      {
+       "n": "36-125",
+       "text": "Omitted Section (17 B), titled “Industrial Credit Fund”, by Act No. VI of 2022. Previously, Inst by Act 1 of 1968."
+      },
+      {
+       "n": "36-126",
+       "text": "Omitted Section (17 C), titled “Export Credit Fund”, by Act No. VI of 2022. Previously, Inst by Ordinance, XXIII of 1972."
+      },
+      {
+       "n": "36-127",
+       "text": "Omitted Section (17 D), titled “Loans Guarantee Fund”, by Act No. VI of 2022. Previously, Inst by Act, XXIII of 1972."
+      },
+      {
+       "n": "36-128",
+       "text": "Omitted Section (17 E), titled “Housing Credit Fund”, by Act No. VI of 2022. Previously, added by Act, XLVII of 1979."
+      }
+     ]
+    },
+    {
+     "no": "17F",
+     "title": "Contributions and donations by the Bank",
+     "page": 36,
+     "text": [
+      "{fn:36-129}[",
+      "Notwithstanding anything contained in this Act or any other law for the time being in force, the Bank may contribute or donate funds to a body corporate in Pakistan for the study or promotion of, or research in, banking, economics and allied subjects."
+     ],
+     "fn": [
+      {
+       "n": "36-129",
+       "text": "Added by Ordinance, XVI of 1981, S.3."
+      }
+     ]
+    },
+    {
+     "no": "17G",
+     "title": "Lender of last resort",
+     "page": 36,
+     "text": [
+      "{fn:36-130}(1) Where the circumstances so warrant and a scheduled bank approaches the Bank for a financial facility to improve its liquidity and where the scheduled bank in the opinion of the Bank is solvent and can provide adequate collateral to support the financial facility, the Bank may provide short-term financial facility in accordance with the regulations made by the Bank in relation thereto, notwithstanding the provisions of subsections (2), (3) and (3A) of section 20.",
+      "(2) Where in the opinion of the Bank, the aforesaid financial facility to a scheduled bank is necessary to preserve the stability of the financial system and where the bank does not fulfill the requirements specified under subsection (1) of this section, the Bank may, provided that it determined the scheduled bank is viable in the medium term, provide such financial facility on such terms and conditions as the Bank specifies, provided that a written irrevocable guarantee of the Federal Government is received in favour of the Bank, securing the repayment of the facility, notwithstanding the provisions of sub-section (2), (3) and (3A) of section 20.",
+      "(3) For the purposes of this section, a financial facility shall not include participation in the capital of a scheduled bank:",
+      "“Provided that any outstanding holding by the Bank of equity or right to equity in any scheduled bank shall be liquidated within ten years from the commencement of the State Bank of Pakistan (Amendment) Act, 2021."
+     ],
+     "fn": [
+      {
+       "n": "36-130",
+       "text": "Substituted by Act No. VI of 2022."
+      }
+     ]
+    },
+    {
+     "no": "17H",
+     "title": "Regulatory powers",
+     "page": 37,
+     "text": [
+      "{fn:37-131}",
+      "(1) The Bank shall have power to issue such directives, instructions and regulations in whatsoever form as may be necessary for carrying out the functions of the Bank under this Act or any other law and shall be binding and enforceable.",
+      "(2) The Bank may take any enforcement action including imposition and collection of pecuniary penalties upon legal and natural persons for contravention of this Act, any law being administered by the Bank and exercise of any power under sub-section (1) ."
+     ],
+     "fn": [
+      {
+       "n": "37-131",
+       "text": "Inserted section 17H by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Open market and credit operations",
+     "page": 37,
+     "text": [
+      "{fn:37-132} (1) The Bank may operate in the financial markets by —",
+      ">(a) buying and selling outright (spot or forward) and conducting repurchase agreements of Government securities purchased in the secondary market;",
+      ">(b) swap or lending operations in foreign currencies;",
+      ">(c) lending or borrowing claims and marketable instruments and precious metals;",
+      ">(d) conducting, without prejudice to section 17G, credit operations with banks operating in Pakistan, with lending based on adequate collateral; and",
+      ">(e) other means as may be deemed expedient for the conduct of open market operations:",
+      "Provided that the existing Government securities purchased on the primary market and in the books of the Bank on commencement of the State Bank of Pakistan (Amendment) Act, 2021, may be sold or used for repurchase agreements for the purpose of open market operations.",
+      "(2) The {fn:38-134}Monetary Policy Committee shall determine the types of instruments and activities and other operational methods of monetary control including Shariahbased instruments to be used for open market and credit operations and it shall announce the conditions under which the Bank stands ready to enter into such transactions.",
+      "(3) For the purpose of regulating the monetary and credit system the Bank may issue certificates of deposit and new instruments including those that are Shariahcompliant."
+     ],
+     "fn": [
+      {
+       "n": "37-132",
+       "text": "Substituted by Act No. IX of 2012"
+      },
+      {
+       "n": "37-133",
+       "text": "Substituted by Act No. VI of 2022."
+      },
+      {
+       "n": "38-134",
+       "text": "Substituted the words “Central Board” by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Declaration of approved foreign exchange",
+     "page": 38,
+     "text": [
+      "{fn:38-135}",
+      "The Board may declare the currency of any country or any monetary unit of account to be approved foreign exchange for all or any of the purposes of this Act."
+     ],
+     "fn": [
+      {
+       "n": "38-135",
+       "text": "Substituted section 19 by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Business which the Bank may not transact",
+     "page": 38,
+     "text": [
+      "The Bank shall not, except as authorised under this Act-",
+      "(1) engage in trade or otherwise have a direct interest in any commercial, industrial or other undertaking except such interest as it may in any way acquire in the course of the satisfaction of any of its claims, but all such interest shall be disposed of at the earliest possible moment;",
+      "(2) purchase its own shares or the share of any other bank or of any company, or grant advances or loans upon the security of any such shares;",
+      "{fn:39-136}[(3) advance money on the mortgage, or otherwise on the security, of immovable property or documents of title relating thereto, except where such advance is made to any of its officers or servants for building a house for his personal use against the security of the said house;",
+      "(3A) become the owner of any immovable property except where ownership is necessary for the use of such property by the Bank, or {fn:39-137}for the purposes of use for Shariah compliant instruments, for the residence, recreation or welfare of its officers or servants];",
+      "(4) make unsecured advances and loans;",
+      "(5) draw or accept bills payable otherwise than on demand; and",
+      "{fn:39-138}[***]",
+      "{fn:39-139}(5A) undertake any quasi-fiscal operations or development finance activities.",
+      "(6) Omitted"
+     ],
+     "fn": [
+      {
+       "n": "39-136",
+       "text": "Clause 3 and (3A), subs for clause (3), by Act XVII of 1963, S.3."
+      },
+      {
+       "n": "39-137",
+       "text": "Inserted by Act No XVIII of 2015"
+      },
+      {
+       "n": "39-138",
+       "text": "Subsection (6) omitted by Act, II of 1994, S.9."
+      },
+      {
+       "n": "39-139",
+       "text": "Inserted by Act No. VI of 2022."
+      }
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Government business",
+     "page": 39,
+     "text": [
+      "(1) The Bank shall undertake to accept monies for account of the {fn:39-140}[Federal Government and Provincial Governments] and to make payments up to the amount standing to the credit of their accounts respectively and to carry out their exchange, remittance and other banking operations, including the management of public debt.",
+      "(2) (a) The {fn:40-141}[Federal Government] and Provincial Governments shall entrust the Bank, on such conditions as may be agreed upon between the Government concerned and the Bank, with all their money, remittance, and banking transactions in Pakistan, and, in particular, shall deposit free of interest all their cash balances with the Bank.",
+      ">(b) Nothing in this sub-section shall be deemed to prevent the {fn:40-142}[Federal Government] and any Provincial Government from carrying on money transactions, at places where the Bank has no office, branch or agency or from holding at such places such balances as they may require.",
+      ">(c) The {fn:40-143}[Federal Government] and each Provincial Government shall entrust the Bank, on such conditions as may be agreed upon between the Government concerned and the Bank, with the management of the public debt and with the issue of any new loans.",
+      ">(d) In the event of any failure to reach agreement on the conditions referred to in this section, the {fn:40-144}[Federal Government] shall decide the conditions and its decision shall be final."
+     ],
+     "fn": [
+      {
+       "n": "39-140",
+       "text": "Subs for “Federal Government, Provincial Government and Governments of such according States as may be approved by the Federal Government”, by Ordinance XXVII of 1981, Schedule2."
+      },
+      {
+       "n": "40-141",
+       "text": "Subs for “Central Government” by Act XXIII of 1972, S.6."
+      },
+      {
+       "n": "40-142",
+       "text": "Subs for “Central Government” by Act XXIII of 1972, S.6"
+      },
+      {
+       "n": "40-143",
+       "text": "Subs for “Central Government” by Act XXIII of 1972, S.6"
+      },
+      {
+       "n": "40-144",
+       "text": "Subs for “Central Government” by Act XXIII of 1972, S.6"
+      }
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Service Charges",
+     "page": 40,
+     "text": [
+      "{fn:40-145}",
+      "(1) The Bank shall make public from time to time the standard service charges at which it is prepared to provide financial accommodation to the borrowing entities.",
+      "(2) In respect of finance provided by the Bank it may determine, from time to time, the terms and conditions either generally or specially."
+     ],
+     "fn": [
+      {
+       "n": "40-145",
+       "text": "S.22 subs by Ordinance CX of 2002, S.5, (wef 04-11-2002)."
+      }
+     ]
+    },
+    {
+     "no": "23",
+     "title": "International reserves portfolio",
+     "page": 41,
+     "text": [
+      "{fn:41-146}",
+      "(1) The Bank may directly or indirectly purchase, hold and sell currencies, financial and capital instruments, including indices and derivatives, issued by governments, agencies, local authorities, corporate and supranational in countries, wherever issued, whose currency has been declared as approved foreign exchange and the remaining effective maturity of which is determined to be of not more than thirty years at the time of purchase:",
+      "Provided that the restrictions relating to maturity shall not apply to securities held by the Bank on the date on which this Act comes into force or any securities that may be received as assets under the Pakistan (Monetary System and Reserve Bank) Order, 1947. the permissibility of each of asset class shall be determined by the {fn:41-147}Board.",
+      "(2) The Bank may appoint managers, custodians, consultants, and any other professional advisors for the effective management of foreign exchange reserves of the country."
+     ],
+     "fn": [
+      {
+       "n": "41-146",
+       "text": "SBP (Amendment) Act, 2012 (Act No. IX of 2012 dated 13-3-2012)"
+      },
+      {
+       "n": "41-147",
+       "text": "Substituted by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Sole right to issue bank notes",
+     "page": 41,
+     "text": [
+      "(1) The Bank shall have the sole right to issue bank notes made payable to bearer on demand in Pakistan in accordance with the provisions hereinafter made, provided that the currency notes of the Government of Pakistan supplied to the Bank by the Government may be issued by it for a period which shall be fixed by the {fn:41-148}[Federal Government] on the recommendations of the {fn:41-149}Board.",
+      "(2) Any person contravening this authority or committing any other offence specified in Section 35, shall be liable to the penalties therein mentioned."
+     ],
+     "fn": [
+      {
+       "n": "41-148",
+       "text": "Substitute for Central Government by Act XXIII of 1972, section 6"
+      },
+      {
+       "n": "41-149",
+       "text": "Substituted by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Legal Tender",
+     "page": 42,
+     "text": [
+      "(1) Subject to the provisions of sub-section (2) every bank note shall be legal tender at any place in Pakistan for the amount expressed therein and shall be guaranteed by the Federal Government.",
+      "{fn:42-150}[(2) On the recommendation of the {fn:42-151}Board, the Federal Government may, by notification in the official Gazette, declare that with effect from such date as may be specified in the notification, any series of bank notes of any denomination shall cease to be legal tender and exchangeable:",
+      "Provided that any Note of such series may, within such period after the date so specified as the Federal Government may, by a like notification, appoint in this behalf, be tendered for exchange at such offices, branches and agencies, if any, of the Bank as may be specified for the purpose, and any such office, branch or agency shall exchange the note.]"
+     ],
+     "fn": [
+      {
+       "n": "42-150",
+       "text": "Subs by Act, XXIII of 1972, S.5."
+      },
+      {
+       "n": "42-151",
+       "text": "Substituted by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Issue Department",
+     "page": 42,
+     "text": [
+      "(1) The issue of bank notes shall be conducted by the Bank in an Issue Department which shall be separated and kept wholly distinct from the Banking Department and the assets of the Issue Department shall not be subject to any liability other than the liabilities of the Issue Department as hereinafter defined in Section 32.",
+      "(2) The Issue Department shall not issue bank notes to the Banking Department or to any person except in exchange for other bank notes or for such coin, bullion, {fn:42-152}[special drawing rights held with the International Monetary Fund], approved foreign exchange or securities as are permitted under this Act to form part of the assets of the Issue Department."
+     ],
+     "fn": [
+      {
+       "n": "42-152",
+       "text": "Inst by Ordinance XI of 1969, S.3."
+      }
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Denominations and form of bank notes",
+     "page": 43,
+     "text": [
+      "Bank notes made and issued by the Bank shall be in such denominations and of such design, form and material as may be approved by the {fn:43-153} [Federal Government] on the recommendations of the {fn:43-154}Board."
+     ],
+     "fn": [
+      {
+       "n": "43-153",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      },
+      {
+       "n": "43-154",
+       "text": "Substituted the words “Central Board” by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Re-issue of notes",
+     "page": 43,
+     "text": [
+      "The Bank shall not re-issue bank notes which are torn, defaced or excessively soiled."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Lost, stolen, mutilated or imperfect notes",
+     "page": 43,
+     "text": [
+      "Notwithstanding anything contained in any enactment or rule of law to the contrary, no person shall as of right be entitled to recover from the {fn:43-155}[Federal Government] or the Bank the value of any lost, stolen, mutilated or imperfect bank note."
+     ],
+     "fn": [
+      {
+       "n": "43-155",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      }
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Assets of the Issue Department",
+     "page": 43,
+     "text": [
+      "(1) The assets of the Issue Department shall not be less than the total of its liabilities and shall be maintained as follows:-",
+      ">{fn:43-156}[(a) of the total amount of the assets, assets of such value {fn:43-157}Board may specify shall be held in gold coins, gold bullion, silver bullion {fn:43-158}[, special drawing rights held with the International Monetary Fund or approved foreign exchange]; and",
+      ">{fn:43-159}[(b) the remainder of the assets shall be held in—",
+      ">>(i). rupee coins;",
+      ">>(ii). rupee securities of any maturity;",
+      ">>(iii). such bills of exchange and promissory notes payable in Pakistan as are eligible for purchase by the Bank under sub-clauses (a), (b) and (d) of clause (2) of Section 17;",
+      ">>(iv). promissory notes obtained by the Bank in respect of advances and loans made under clause (4) of Section 17 against such securities as are mentioned in sub-clauses (a) and (b) of that clause; and",
+      ">>(v). promissory notes obtained by the Bank in respect of advances and loans made under clause (6) of Section 17.]",
+      "Provided that the assets falling to the share of the Government of Pakistan under the provision of Pakistan (Monetary System and Reserve Bank) order, 1947, which are held by the Reserve Bank of India pending their physical transfer to the Bank shall form a part of the assets.",
+      "(2) For the purposes of this section, gold coin and gold bullion shall be valued at the market value of the fine gold content thereof, silver bullion shall be valued at {fn:44-160} [the market value of the fine silver content thereof], rupee coin shall be valued at its face value and rupee securities and securities specified in subsection (4) shall be valued at the market rate for the time being obtaining.",
+      "(3) Of the gold coin and gold or silver bullion held as assets not less then seventeen-twentieths shall be held in the custody of the Bank including its branches, offices or agencies, and the gold or silver belonging to the Bank which is in any other bank or in any mint or treasury or in transit may be reckoned as part of the assets.",
+      "{fn:44-161}[(4) For the purposes of this section, the approved foreign exchange which may be held as part of the assets shall be in any of the following forms, namely:",
+      ">(a) balances standing to the credit of the Bank with the principal currency authority of a country whose currency is an approved foreign exchange, or at any bank in such country;",
+      ">(b) bills of exchange bearing two or more good signatures, having a maturity not exceeding one hundred and eighty days and drawn on and payable at any place in a country whose currency is an approved foreign exchange; and",
+      ">(c) securities of a Government with an unexpired currency of not more than five years and payable in a currency which is an approved foreign exchange.]",
+      "(5) Restrictions relating to maturity shall not apply to securities mentioned in sub-section (4) held by the Bank on the date on which this Act comes into force or any securities that may be received as assets under the Pakistan (Monetary System and Reserve Bank) Order, 1947."
+     ],
+     "fn": [
+      {
+       "n": "43-156",
+       "text": "Subs by Ordinance, LII of 1965, S.2."
+      },
+      {
+       "n": "43-157",
+       "text": "Substituted the words “as the Federal Government in consultation with the Bank, may, by notification in the official Gazzette”, by the words “Board may” Act No XVIII of 2015"
+      },
+      {
+       "n": "43-158",
+       "text": "Inst by Ordinance XI of 1969, S.3."
+      },
+      {
+       "n": "43-159",
+       "text": "Subs by Act, XXIII of 1966, S.3."
+      },
+      {
+       "n": "44-160",
+       "text": "Subs for “0.0744103 grams of fine gold per rupee”, by Ordinance XXXVIII of 1977, S.2."
+      },
+      {
+       "n": "44-161",
+       "text": "Subs by Ordinance 52 of 1965, S.2(2)."
+      }
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Suspensions of assets requirements",
+     "page": 45,
+     "text": [
+      "Notwithstanding anything contained in the foregoing provisions, the Bank, may with the previous sanction of the {fn:45-162}Board, for periods not exceeding thirty days in the first instance, which may with the like sanction be extended from time to time by periods not exceeding fifteen days, hold as assets gold coin, gold or silver bullion, {fn:45-163}[special drawing rights held with the International Monetary Fund], or approved foreign exchange of less aggregate amount than that required by paragraph (a) of subsection (1) of Section 30."
+     ],
+     "fn": [
+      {
+       "n": "45-162",
+       "text": "Substituted the words “Federal Government” by the word “Board” by Act No XVIII of 2015"
+      },
+      {
+       "n": "45-163",
+       "text": "Inserted by Ordinance XXXVII of 1977, S.3, (w.e.f. 10th May, 1969)."
+      }
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Liabilities of the Issue Department",
+     "page": 45,
+     "text": [
+      "(1) The liabilities of the Issue Department shall be an amount equal to the total of the amount of the bank notes for the time being in circulation.",
+      "(2) For the purposes of this section any bank note which has not been presented for payment within forty years from the first day of July following the date of its issue shall be deemed not to be in circulation and the value thereof shall notwithstanding anything contained in subsection (2) of Section 26 be paid by the Issue Department to the Banking Department; but any such bank note, if subsequently presented for payment, shall be paid by the Banking Department."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Obligation to supply different forms of currency",
+     "page": 46,
+     "text": [
+      "(1) The Bank shall issue rupee coin on demand in exchange for bank notes and bank notes on demand in exchange for coin which is legal tender under the Pakistan Coinage Act.",
+      "(2) The Bank shall in exchange for bank notes of five rupees or upwards supply bank notes of lower value or coins which are legal tender under the said Pakistan Coinage Act, in such quantities as may in the opinion of the Bank be required for circulation. The {fn:46-164}[Federal Government] shall supply such coins to the Bank on demand and if it fails to do so at any time the Bank shall be released during the period of such failure from its obligation to supply them to the public.",
+      "(3) The {fn:46-165}[Federal Government] shall take over from the Bank at such times and in such quantities as the Bank may, with the previous approval of the {fn:46-166}[Federal Government], determine rupee coins which are not required for purposes of circulation against payment."
+     ],
+     "fn": [
+      {
+       "n": "46-164",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      },
+      {
+       "n": "46-165",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      },
+      {
+       "n": "46-166",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      }
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Obligation of the [Federal Government] in respect of rupee coin",
+     "page": 46,
+     "text": [
+      "{fn:46-167}",
+      "The {fn:46-168}[Federal Government] shall not re-issue any rupee coins taken over under sub-section (3) of Section 33 nor put into circulation any rupee coin except through the Bank and the Bank shall not dispose of rupee coin otherwise than for purposes of circulation or by delivery to the {fn:47-169}[Federal Government] under the preceding section."
+     ],
+     "fn": [
+      {
+       "n": "46-167",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      },
+      {
+       "n": "46-168",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      },
+      {
+       "n": "47-169",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      }
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Offences and penalties relating to unauthorized issue of bills and bank notes",
+     "page": 47,
+     "text": [
+      "(1) No person in Pakistan other than the Bank or as expressly authorised by this Act, the {fn:47-170}[Federal Government] shall draw, accept, make or issue any bill of exchange, hundi, promissory note or engagement for the payment of money payable to bearer on demand, or borrow, owe or take up any sum or sums of money on the bills, hundis or notes payable to bearer on demand of any such persons, but such cheques or drafts, including hundi, payable to bearer on demand or otherwise may be drawn on a person’s account with a banker, shroff or agent.",
+      "(2) Notwithstanding anything contained in the Negotiable Instruments Act, 1881, no person in Pakistan other than the Bank, or as expressly authorised by this Act, the {fn:47-171}[Federal Government] shall make or issue any promissory note expressed to be payable to the bearer of the instrument.",
+      "(3) Any person contravening the provision of this section shall be punishable upon conviction with fine which may extend to double the amount of the bill, hundi, promissory note or engagement in respect whereof the offence is committed.",
+      "(4) No prosecution under this section shall be instituted except on complaint made on behalf of the Bank."
+     ],
+     "fn": [
+      {
+       "n": "47-170",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      },
+      {
+       "n": "47-171",
+       "text": "Subs for “Central Government”, by Act XXIII of 1972, S.6."
+      }
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Minimum reserves",
+     "page": 47,
+     "text": [
+      "{fn:47-172}",
+      "(1) The Bank may require banks or financial institutions to hold minimum reserves on deposit accounts with the Bank in pursuance of its monetary policy objectives.",
+      "(2) The Bank may require the banks and financial institutions to hold special reserves on deposit accounts with the Bank in pursuance of its monetary policy or risk management of banking or financial sector and may provide for any remuneration or return on such special reserves.",
+      "(3) The Bank shall, by regulations, establish the method of calculating the minimum reserves required to be maintained under sub-section (2)."
+     ],
+     "fn": [
+      {
+       "n": "47-172",
+       "text": "SBP (Amendment) Act, 2012 (Act No, IX of 2012 dated 13-3-2012)"
+      }
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Scheduled banks",
+     "page": 48,
+     "text": [
+      "(1) The Bank shall maintain at all its offices and branches an up-todate list of banks declared by it to be scheduled banks under clause (a) of subsection (2).",
+      "(2) The Bank shall, by notification, in the official Gazette—",
+      ">(a) declare any bank to be scheduled bank which is carrying on the business of banking in Pakistan and which—",
+      ">>(i). is a banking company as defined in section 227F of the Companies Act, 1913, or a co-operative bank, or a corporation or a company incorporated by or established under any law in force in any place in or outside Pakistan;",
+      ">>(ii). has a paid-up capital and reserves of an aggregate value of",
+      "not less than five lakhs of rupees:",
+      "Provided that in the case of a co-operative bank, an exception may be made by the Bank;",
+      ">>(iii). satisfies the Bank that its affairs are not being conducted in a manner detrimental to the interest of its depositors;",
+      ">(b) direct the descheduling of any scheduled bank which ceases to fulfil the requirements mentioned in clause (a) or goes into liquidation or otherwise wholly or partly ceases to carry on banking business;",
+      "Provided that the Bank may, on application of the scheduled bank concerned and subject to such conditions, if any, as it may impose, defer the making of a direction under clause (b) for such period as the Bank considers reasonable to give the scheduled bank an opportunity of fulfilling the requirements mentioned in sub-clauses (ii) and (iii) of clause (a);",
+      ">(c) alter the description in the list of scheduled banks whenever any scheduled bank changes its name.",
+      "Explanation:- In sub-Section (2) the expression “value” means the real or exchangeable and not the nominal value of the capital and reserves and the valuation made by the Bank shall be final."
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Power to require returns from Corporations",
+     "page": 49,
+     "text": [
+      "The Bank may require any Corporation with which it has any transaction under Section 17 to furnish returns {fn:49-173}[referred to in] under sub-section (3) of Section 36, and if it does so require, the provisions of sub-section (6), (7) and (8) of Section 36 shall apply, so far as may be, to such Corporation as if it were a scheduled bank."
+     ],
+     "fn": [
+      {
+       "n": "49-173",
+       "text": "Sub for “prescribed under”, Ordinance XXIII of 1971, S.10."
+      }
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Accountability",
+     "page": 49,
+     "text": [
+      "{fn:49-174}(1)The Governor shall submit annual report before the Majlis-e-Shoora (Parliament) regarding the achievement of the Bank's objectives, conduct of monetary policy, state of the economy and the financial system. In addition, the Majlis-e-Shoora (Parliament) may require any senior official, including the Governor where appropriate, to attend at such additional times as may be required.",
+      "(2) The Bank shall, not less than twice a year, publish and submit to the Majlis-e-Shoora (Parliament) and the Minister for Finance a state of the economy report with reference to price development, money supply, credit, balance-of-payments and economic growth.",
+      "(3) The Bank shall, at minimum annual basis, publish a report on financial stability that provides the overall assessment of the financial system."
+     ],
+     "fn": [
+      {
+       "n": "49-174",
+       "text": "Substituted by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "40",
+     "title": "Annual financial statements and reports",
+     "page": 50,
+     "text": [
+      "{fn:50-175}(1) The financial year of the Bank shall begin on the first day of July of a calendar year and end on the last day of June of the next calendar year.",
+      "(2) The Bank shall formulate accounting policies and procedures and prepare financial statements in line with internationally recognized accounting standards as adapted by the Board in light of the special nature of central bank operations.",
+      "(3) Within four months after the close of each of its financial year, the Bank shall publish on its website and submit to the Federal Government and the Majlis-e-Shoora (Parliament) financial statements, approved by the Board, signed by the Governor, the Deputy Governor and the chief financial officer, along with the auditors' report thereon.",
+      "(4) The Bank shall prepare and publish, within five days of the close of the week, on its official website weekly accounts pursuant to a proforma approved by the Board."
+     ],
+     "fn": [
+      {
+       "n": "50-175",
+       "text": "Substituted by Act No. VI of 2022."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — General",
+   "sections": [
+    {
+     "no": "41",
+     "title": "General reserve, unrealized revaluation reserve and special reserve",
+     "page": 51,
+     "text": [
+      "{fn:51-176}",
+      "(1) The Bank, with the approval of the Board, shall establish and maintain a general reserve account. The general reserve account may not be used except for the purposes of increasing the paid-up capital or of covering losses sustained by the Bank.",
+      "(2) The Bank shall establish unrealized revaluation reserves accounts to account for unrealized gains and losses arising on its exposure in gold, financial instruments or other assets and liabilities on which such unrealized gains or losses are not required to be taken to the profit and loss account under the accounting standards followed by the Bank.",
+      "(3) The Bank, with the approval of the Board, shall also make allocation to the unrealized revaluation reserve from the net annual profit, representing the unrealized gain on its exposures in foreign currencies, financial instruments, other assets and liabilities on which unrealized gains or losses are taken to the profit and loss account in accordance with the accounting standards followed by the Bank.",
+      "(4) The Bank with the approval of the Board may establish special reserve accounts for any of its specific exposures."
+     ],
+     "fn": [
+      {
+       "n": "51-176",
+       "text": "Substituted by Act No. VI of 2022. Previously, Subs for, original section by Ordinance, XXIII of 1971, S.11."
+      }
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Profits, losses, and distributable earnings",
+     "page": 51,
+     "text": [
+      "{fn:51-177}(1) The annual distributable profit for a year shall be determined as follows:-",
+      "A=B+C-D",
+      "Where A = Distributable profit;",
+      "B = Net annual profit of the Bank as reflected in the audited financial statements;",
+      "C = amount of unrealized gains transferred to unrealized revaluation reserve account in previous one or more years that realized during the year; and",
+      "D = amount of unrealized gains included in 'B'.",
+      "(2) The Bank shall allocate the distributable profit as follows:---",
+      ">(a) an amount equivalent to twenty percent of distributable profit shall be credited to the general reserve account until the sum of the capital and general reserves equal eight percent of the total monetary liabilities of the Bank;",
+      ">(b) as may be determined by the Board, following a consultation with the Bank’s external auditors, from time to time shall be transferred to the special reserve accounts created for any of its specific, identified liability, contingency or expected diminution in the value of its assets; and",
+      ">(c) after accounting for the amounts as aforesaid, any remaining amount of the distributable profit shall be transferred to the Federal Government within thirty days after making the financial statements public.",
+      "(3) Following the initial attainment of the eight percent level, in case the sum of the Bank's capital and general reserves falls below such required level of monetary liabilities, the Bank shall allocate all the distributable profit to the Bank's capital and general reserves until the required level is re-established.",
+      "(4) If in any financial year the Bank incurs a net loss, this loss shall first be charged to the general reserve account and subsequently applied against the paid-up capital.",
+      "(5) No distribution shall be made out of current income of the Bank except as permitted by sub-section (2)."
+     ],
+     "fn": [
+      {
+       "n": "51-177",
+       "text": "Substituted by Act No. VI of 2022. Previously, Substituted section 42 by Act No XVIII of 2015."
+      }
+     ]
+    },
+    {
+     "no": "43",
+     "title": "External Audit",
+     "page": 53,
+     "text": [
+      "{fn:53-178}(1) The accounts, records and financial statements of the Bank shall, once a year, be audited in accordance with the international standards on auditing, by two independent external auditors who shall be of good repute and have international experience in the auditing of major international financial institutions or central banks or have affiliations with audit firms that have such experience.",
+      "(2) The Board, on the recommendation of the audit committee, shall appoint the external auditors for a period of five years and they shall not be eligible for reappointment at that time.",
+      "(3) The Board may, on the recommendation of the audit committee, terminate the contract of the Bank's external auditors for good cause.",
+      "(4) The external auditor shall report to the audit committee and the Board on key matters arising from the audit and in particular on material weaknesses in internal controls relating to the financial reporting process.",
+      "(5) The external auditors shall have full power to examine all books and accounts of the Bank and obtain all information about its transactions."
+     ],
+     "fn": [
+      {
+       "n": "53-178",
+       "text": "Substituted by Act No. VI of 2022, this section 43 was previously substituted by Act No XVIII of 2015, however."
+      }
+     ]
+    },
+    {
+     "no": "44",
+     "title": "Auditor-General of Pakistan",
+     "page": 53,
+     "text": [
+      "{fn:53-179} The Auditor-General of Pakistan may, without prejudic to the autonomy of the Bank and the audits conducted by the external auditors pursuant to section 43, conduct audit of the accounts of the Bank. Such audit shall not have concern with the merits of the policy decisions including implementation thereof by the Bank."
+     ],
+     "fn": [
+      {
+       "n": "53-179",
+       "text": "Substituted by Act No. VI of 2022."
+      }
+     ]
+    },
+    {
+     "no": "45",
+     "title": "Audit committee",
+     "page": 54,
+     "text": [
+      "{fn:54-180}(1)The Board shall constitute an audit committee and define its composition, responsibilities, duties and terms of reference.",
+      "(2) The audit committee shall consist of three or more non-executive Board members, with at least one having extensive experience in the field of accounting, auditing or internal controls. The audit committee may co-opt external experts without the right to vote. The criteria provided in subsection (5) of section 9 shall apply to the appointment of the external expert who shall not have been a member of the Board or staff in the three calendar years preceding his appointment as member of the audit committee.",
+      "(3) The audit committee's responsibilities shall be enshrined in the audit committee's terms of reference approved by the Board, which shall include, inter alia, —",
+      ">(a) overseeing the internal audit function;",
+      ">(b) approving the charter of the internal audit function;",
+      ">(c) recommending the appointment of external auditors, and their scope of work; and",
+      ">(d) evaluating the effectiveness of the internal control systems."
+     ],
+     "fn": [
+      {
+       "n": "54-180",
+       "text": "Substituted by Act No. VI of 2022."
+      }
+     ]
+    },
+    {
+     "no": "45A",
+     "title": "Chief internal auditor",
+     "page": 54,
+     "text": [
+      "{fn:54-181}(1) There shall be a chief internal auditor as an employee of the Bank who shall be designated and removed by the Board on recommendation of the audit committee from amongst the persons having extensive professional experience in the field of accounting or audit.",
+      "(2) The Board shall define the criteria and terms and conditions for the appointment and removal of the chief internal auditor."
+     ],
+     "fn": [
+      {
+       "n": "54-181",
+       "text": "Inserted by Act No. VI of 2022."
+      }
+     ]
+    },
+    {
+     "no": "46",
+     "title": "The Bank and its officers to be public officers",
+     "page": 55,
+     "text": [
+      "(1) For the purposes of Section 124 of the Evidence Act, 1872, the provisions of Part IV of the Code of Civil Procedure, 1908, and the provisions of rule 27 of Order V, and rule 52 of Order XXI of the said Code, the Bank and any {fn:55-182}[person in the service] of the Bank acting in his capacity as such shall be deemed to be public officer.",
+      "(2) The provisions of Section 123 of the Evidence Act shall apply to the unpublished records {fn:55-183}[***] of the Bank and the Governor shall be deemed to be the officer or head of the department concerned.",
+      "{fn:55-184}[(3) Every {fn:55-185}[person in the service] of the Bank shall be deemed to be a public servant within the meaning of section 21 of the Pakistan Penal Code (Act XLV of 1860)]"
+     ],
+     "fn": [
+      {
+       "n": "55-182",
+       "text": "Subs for, “officer” by Ordinance XVI of 1981, S.6(a) and shall deemed always to have been so substituted."
+      },
+      {
+       "n": "55-183",
+       "text": "Words “relating to the officers”, omitted by Ordinance XVI of 1981S.6(b) and shall be deemed always to have been so omitted."
+      },
+      {
+       "n": "55-184",
+       "text": "Added by Ordinance, XXIII of 1971, S.12"
+      },
+      {
+       "n": "55-185",
+       "text": "Subs for, “officer” by Ordinance XVI of 1981, S.6(c) and shall deemed always to have been so substituted."
+      }
+     ]
+    },
+    {
+     "no": "46A",
+     "title": "Production of unpublished record of Bank, etc",
+     "page": 55,
+     "text": [
+      "{fn:55-186}[",
+      "(1) No court tribunal or other authority shall be entitled to compel the Bank or any person in the service of the Bank to produce, or as the case may be, give any evidence derived from, any unpublished record of the Bank.",
+      "(2) No court, tribunal or other authority shall permit anyone to produce or give evidence derived from, any unpublished record of the Bank, except with the prior permission in writing of the Governor who may give or withhold such permission as he thinks fit.",
+      "(3) Notwithstanding anything contained in this Act or any other law for the time being in force, a report prepared by the Bank on a banking company under Section 40 of the Banking Companies Ordinance, 1962 (LVII of 1962), shall be deemed to be unpublished for the purposes of sub-sections (1) and (2) even if a copy of such report has been supplied to the banking company to which the report pertains or to the Federal Government or to the Pakistan Banking Council constituted under Section 9 of the Banks (Nationalisation) Act, 1974 (Act XIX of 1974)."
+     ],
+     "fn": [
+      {
+       "n": "55-186",
+       "text": "Inserted by Ordinance, XVI of 1981, S.7."
+      }
+     ]
+    },
+    {
+     "no": "46B",
+     "title": "Functional and Institutional Autonomy",
+     "page": 56,
+     "text": [
+      "{fn:56-187} The Bank shall be autonomous in the pursuit of its objectives and in the performance of its powers pursuant to this Act.",
+      "(2) Nothing in this Act, nor in any other law for the time being in force, shall be construed to allow any third party, including the Government or quasigovernment entities, to approve, suspend, annul or interfere with the management of the Bank, as well as the rights, duties and obligations of the Bank and of the members of its Board, the Executive Committee, the Monetary Policy Committee, or the staff of the Bank in the performance of their functions pursuant to this Act.",
+      "(3) No Governmental or quasi-Governmental body or agency shall issue any directive, directly or indirectly, to any banking company or any other financial institution regulated by the Bank which is inconsistent with the policies, regulations and directives issued by the Bank pursuant to or in exercise of its powers under this Act or any other law for the time being in force.",
+      "(4) The Bank, the members of its decision-making bodies and its staff shall neither request, nor take any instructions from any other person or entity, including Government or quasi-government entities. The autonomy of the Bank shall be respected at all times and no person or entity shall seek to influence the members of the Board, Executive Committee, Monetary Policy Committee, or the staff of the Bank in the performance of their functions.",
+      "(5) Without prejudice to the responsibility of the Minister of Finance and the powers of the Government as provided for in this Act or any other law the Bank shall directly submit the information and reports envisaged in section 39 to the concerned Standing Committee of the Parliament and the Government. The Bank shall interact and communicate directly with any third persons, including Government or quasi-government agencies, schedules banks and other regulated entities, in pursuit of its objectives.",
+      "(6) The Bank, with the approval of the Federal Government, may enter into an agreement or Memorandum of Understanding or any reciprocal arrangement, with any domestic or foreign regulatory or supervisory authority for the purpose of sharing and obtaining public and nonpublic confidential information notwithstanding the provisions of any other law for the time being in force.\"",
+      "(7) All matters relating to the Bank requiring approval of the Federal Government, Prime Minister or President shall be initiated by the Division allocated with the business of this Act on a reference received from the Bank or on its own initiative following written consultation with the Bank. Any reference so received from the Bank will be submitted in its original form to the competent authority for its decision within four weeks.",
+      "(8) The Bank shall be consulted prior to the introduction of any Bill by the Federal Government in the Parliament which may having a bearing on the functions of the Bank."
+     ],
+     "fn": [
+      {
+       "n": "56-187",
+       "text": "Substituted by Act No. VI of 2022. Previously, Inst “new section 46 B” by State Bank of Pakistan (Amendment) Act XIII of 1997, S.4."
+      }
+     ]
+    },
+    {
+     "no": "47",
+     "title": "Pensions of Bank employees to be exempt from attachments, etc",
+     "page": 57,
+     "text": [
+      "Notwithstanding anything contained in any law for the time being in force pension, {fn:57-188}[gratuity and provident fund] granted by the Bank to its officers and servants shall not be liable to seizure, attachment or sequestration by process of any Court in Pakistan at the instance of a creditor, for any demand against the pensioner or in satisfaction of a decree or order of any such Court."
+     ],
+     "fn": [
+      {
+       "n": "57-188",
+       "text": "SBP (Amendment) Act 2012 (Act No. IX of 2012 dated 9-3-2012)"
+      }
+     ]
+    },
+    {
+     "no": "48",
+     "title": "Exemption from Stamp Duty",
+     "page": 57,
+     "text": [
+      "The Bank {fn:57-189}[and any subsidiary or trust established by it] shall not be liable to the payment of any Stamp Duty under the Stamp Act, 1899."
+     ],
+     "fn": [
+      {
+       "n": "57-189",
+       "text": "Inst by Ordinance IX of 2001, S.3 (w.e.f. 20th February, 2001)."
+      }
+     ]
+    },
+    {
+     "no": "49",
+     "title": "Exemption from Taxes",
+     "page": 58,
+     "text": [
+      "{fn:58-190}[",
+      "Notwithstanding anything in the Wealth Tax Act, 1963 (XV of 1963), and Income Tax Ordinance, 1979 (XXXI of 1979), or any other law for the time being in force relating to wealth tax, income tax or super tax the Bank and any subsidiary, or trust, established by it shall not be liable to pay wealth tax, income tax or super-tax on their income or wealth.]"
+     ],
+     "fn": [
+      {
+       "n": "58-190",
+       "text": "Section 49 subs by Ordinance, IX of 2001, S.4. (w.e.f. 20th February, 2001)."
+      }
+     ]
+    },
+    {
+     "no": "50",
+     "title": "Liquidation of the Bank",
+     "page": 58,
+     "text": [
+      "The Bank shall not be placed in liquidation save by order of the {fn:58-191}[Federal Government] and in such manner and on such terms and conditions as it may direct."
+     ],
+     "fn": [
+      {
+       "n": "58-191",
+       "text": "Subs for, “Central Government”, by Act XXIII of 1972, S.6."
+      }
+     ]
+    },
+    {
+     "no": "51",
+     "title": "Act or proceeding of the Board not to be questioned",
+     "page": 58,
+     "text": [
+      "{fn:58-192}",
+      "No act or proceeding of the {fn:58-193}Board or {fn:58-194}the Monetary Policy Committee shall be questioned on the ground merely of the existence of any vacancy in or any defect in the constitution of such Board."
+     ],
+     "fn": [
+      {
+       "n": "58-192",
+       "text": "Substituted by Act No XVIII of 2015"
+      },
+      {
+       "n": "58-193",
+       "text": "Substituted the words “or a Local Board” by Act No XVIII of 2015"
+      },
+      {
+       "n": "58-194",
+       "text": "Substituted the words “or a Local Board” by the words “or the Monetary Policy Committee” by Act No XVIII of 2015"
+      }
+     ]
+    },
+    {
+     "no": "52A",
+     "title": "Protection of action taken in good faith and indemnity",
+     "page": 58,
+     "text": [
+      "{fn:58-195}(1) No suit, prosecution or any other legal proceeding including for damages shall lie against the Bank, Board of Directors or member thereof, Governor, Deputy Governors, member of any Board committee and Monetary Policy Committee, officers and employees of the Bank for any act of commission or omission done in exercise or performance of any functions, power or duty conferred or imposed by or under this Act upon such persons or any rules and regulations made thereunder or any legislation administered by the Bank, or rules and regulations made thereunder, unless such act of commission or omission is undertaken in bad faith and with malafide intent.",
+      "(2) The Governor, Deputy Governors, Directors, members of any Board committee and Monetary Policy Committee, officers and employees of the Bank shall not be liable in their personal capacity for any act of commission or omission undertaken in their official capacity in good faith. In case of any such proceedings as mentioned in sub-section (1), they shall be indemnified by the Bank which shall bear all the expenses thereof, unless an act or omission has been subsequently determined to have been undertaken in bad faith and with malafide intent"
+     ],
+     "fn": [
+      {
+       "n": "58-195",
+       "text": "Inserted by Act No. VI of 2022."
+      }
+     ]
+    },
+    {
+     "no": "52",
+     "title": "Omitted",
+     "page": 59,
+     "text": [
+      "{fn:59-196}"
+     ],
+     "fn": [
+      {
+       "n": "59-196",
+       "text": "SBP (Amendment) Act, 2012 (Act No. IX of 2012 dated 13-3-2012)"
+      }
+     ]
+    },
+    {
+     "no": "53",
+     "title": "Duty of Officers and Servants to maintain secrecy",
+     "page": 59,
+     "text": [
+      "(1) Except in the performance of his duties under this Act every officer or servant of the Bank shall preserve and aid in preserving secrecy with regard to all matters relating to the affairs of the Bank not published by it, and with regard to all matters relating to the financial or monetary affairs of any institution, person, body of persons, any Government or authority whether in Pakistan or outside that may come to his knowledge in the performance of his duties.",
+      "(2) Every such officer or servant who communicates any such matter, except when required by law to do so or in the discharge of his duty as such, shall be guilty of an offence and shall on conviction by a court of competent jurisdiction be punished with imprisonment of either description for a term which may extend to six months or with fine which may extend to Rs. 500 or with both.",
+      "(3) No court shall take cognizance of any offence punishable under this section except upon complaint in writing by a person authorised in this behalf by the Governor."
+     ]
+    },
+    {
+     "no": "54",
+     "title": "Powers of the Board to make regulations",
+     "page": 60,
+     "text": [
+      "{fn:60-197}",
+      "(1) {fn:60-198}Omitted.",
+      "(2) {fn:60-199}The Board of Directors may make regulations consistent with this Act and falling under the Board’s domain, in particular to provide for any of the following matters, namely:-",
+      ">(a) {fn:60-200}Omitted;",
+      ">(b) {fn:60-201}Omitted;",
+      ">(c) {fn:60-202}Omitted;",
+      ">(d) {fn:60-203}Omitted;",
+      ">(e) {fn:60-204}Omitted;",
+      ">(f) {fn:60-205}Omitted.",
+      ">(g) {fn:60-206}Omitted;",
+      ">(h) {fn:60-207}Omitted.",
+      ">(i) {fn:60-208}Omitted.",
+      ">(j) recruitment of officers and servants of the Bank including the terms and conditions of their service, {fn:61-209} performance management, promotion, compensation, rotation, constitution of superannuation, beneficial and other funds, with or without bank’s contribution, for the officers and servants of the Bank; their welfare; providing amenities, medical facilities, grant of loans and advances, their betterment and uplift;",
+      ">(k) the manner and form in which contracts binding on the Bank may be executed;",
+      ">(l) the provision of an official seal of the Bank and the manner and effect of its use;",
+      ">(m) the manner and form in which the balance sheet of the Bank shall be drawn up , and in which the accounts shall be maintained;",
+      ">(n) {fn:61-210}Omitted.",
+      ">(o) the relations of the scheduled banks with the Bank and the returns to be submitted by the scheduled banks to the Bank ;",
+      ">(p) {fn:61-211}Omitted.",
+      ">(q) the circumstances in which, and the conditions and limitations subject to which, the value of any lost, stolen, mutilated or imperfect bank note may be refunded as of grace;",
+      ">(r) the denomination, form, issue, negotiability, encashment and repatriation of the instruments mentioned in {fn:61-212}[clause] (8) of section 17;",
+      ">(s) {fn:62-213}Omitted;",
+      ">(t) generally for making any provision necessary or convenient for the conduct of the business, discharge of functions and for purposes of management of the Bank.",
+      "(3) Copies of all regulations made under this section shall be available to the public on {fn:62-214}request."
+     ],
+     "fn": [
+      {
+       "n": "60-197",
+       "text": "Substituted by Act No XVIII of 2015"
+      },
+      {
+       "n": "60-198",
+       "text": "Omitted by Act No. VI of 2022."
+      },
+      {
+       "n": "60-199",
+       "text": "Substituted by Act No. VI of 2022."
+      },
+      {
+       "n": "60-200",
+       "text": "Deleted by Act No XVIII of 2015"
+      },
+      {
+       "n": "60-201",
+       "text": "Deleted by Act No XVIII of 2015"
+      },
+      {
+       "n": "60-202",
+       "text": "Deleted by Act No XVIII of 2015"
+      },
+      {
+       "n": "60-203",
+       "text": "Deleted by Act No XVIII of 2015"
+      },
+      {
+       "n": "60-204",
+       "text": "Deleted by Act No XVIII of 2015"
+      },
+      {
+       "n": "60-205",
+       "text": "Omitted by Act No. VI of 2022."
+      },
+      {
+       "n": "60-206",
+       "text": "Deleted by Act No XVIII of 2015"
+      },
+      {
+       "n": "60-207",
+       "text": "Omitted by Act No. VI of 2022."
+      },
+      {
+       "n": "60-208",
+       "text": "Omitted by Act No. VI of 2022."
+      },
+      {
+       "n": "61-209",
+       "text": "Inserted by Act No. VI of 2022."
+      },
+      {
+       "n": "61-210",
+       "text": "Omitted by Act No. VI of 2022."
+      },
+      {
+       "n": "61-211",
+       "text": "Omitted by Act No. VI of 2022."
+      },
+      {
+       "n": "61-212",
+       "text": "Subs for, “subsection”, by Act I of 1968."
+      },
+      {
+       "n": "62-213",
+       "text": "Deleted by Act No XVIII of 2015"
+      },
+      {
+       "n": "62-214",
+       "text": "Substituted the word “payment” by Act No. VI of 2022"
+      }
+     ]
+    },
+    {
+     "no": "54A",
+     "title": "Provisions to override other laws",
+     "page": 62,
+     "text": [
+      "{fn:62-215}[",
+      "This Act shall have effect notwithstanding anything contained in any other law {fn:62-216},sgeneral or special for the time being in force or any agreement, contract, memorandum or articles of association."
+     ],
+     "fn": [
+      {
+       "n": "62-215",
+       "text": "Section 54A and 54B added by Ordinance, XLVII of 1980, S.8."
+      },
+      {
+       "n": "62-216",
+       "text": "Inserted by Act No. VI of 2022."
+      }
+     ]
+    },
+    {
+     "no": "54B",
+     "title": "Removal of difficulties",
+     "page": 62,
+     "text": [
+      "If any difficulty arises in giving effect to any of the provision of this Act the Federal Government may make such order as may appear to it to be necessary for the purpose of removing the difficulty.]"
+     ]
+    },
+    {
+     "no": "55",
+     "title": "Repeal",
+     "page": 62,
+     "text": [
+      "(1) The State Bank of Pakistan Ordinance, 1955, is hereby repealed.",
+      "(2) Any rules or regulations made, order passed, notification issued, thing done, action taken or proceedings commenced under any of the provisions of the State Bank of Pakistan Ordinance, 1955, or deemed to have been so made, passed, issued, done, taken or commenced, shall continue in force and be deemed to have been made, or as the case may be, passed, issued, done, taken or commenced under the corresponding provision of this Act.",
+      "{fn:63-217}Omitted"
+     ],
+     "fn": [
+      {
+       "n": "63-217",
+       "text": "Deleted “Schedule” by Act No XVIII of 2015"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Edition as downloaded from the State Bank of Pakistan's website by the library's editor on 22-23 Nov 2026; later amendments may not be reflected.",
+ "frontNotes": [
+  {
+   "n": "6-1",
+   "text": "Substituted for the preamble by Act No. VI of 2022"
+  }
+ ]
+}

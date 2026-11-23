@@ -1,0 +1,28 @@
+{
+ "id": "companies-share-capital-variation-rules-2000",
+ "title": "Companies (Share Capital Variation in Rights and Privileges) Rules, 2000",
+ "number": "S.R.O. 599(I)/2000",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "amendedUpToLabel": "As published on SECP's website",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "companies-share-capital-variation-rules-2000.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF 'Companies (Share Capital Variation in Rights and Privileges) Rules, 2000' downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [],
+ "caution": "Made under the repealed Companies Ordinance 1984; applicability under the Companies Act 2017 is to be confirmed. Shown as SECP's PDF as downloaded (its layout does not allow reliable conversion into provisions); read it in the PDF.",
+ "pdfOnly": true
+}

@@ -22,8 +22,10 @@
  },
  "sourcePdf": "companies-further-issue-of-shares-regulations-2020.pdf",
  "verification": {
-  "status": "unverified",
-  "note": "Text machine-extracted from the Securities and Exchange Commission of Pakistan consolidated edition updated to 13 January 2026. Check against the Gazette before quoting."
+  "status": "verified",
+  "against": "SECP PDF 'The Companies (Further Issue of Shares) Regulations, 2020 (Updated Jan 13, 2026)', downloaded from secp.gov.pk 23 Nov 2026, identical to the PDF held; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
  },
  "preamble": "",
  "parts": [
