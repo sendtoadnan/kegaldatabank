@@ -1,362 +1,404 @@
 {
-  "id": "listed-companies-buy-back-regulations-2019",
-  "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
-  "number": "S.R.O. 574(I)/2019",
-  "type": "regulations",
-  "unit": "Regulation",
-  "parent": "companies-act-2017",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Buy-back Regulations 2019",
-    "Listed Companies Buy-back Regulations"
-  ],
-  "enacted": "2019-05-23",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 574(I)/2019",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 574(I)/2019 dated May 23, 2019.- In exercise of powers conferred under section 512 read with section 88 of the Companies Act 2017 (XIX of 2017), the same having been previously published in the official Gazette vide Notification No. S.R.O. 486(I)/2019 dated April 23, 2019, as required under proviso to sub-section (1) of said section 512, the Securities and Exchange Commission is pleased to notify the following Regulations, namely:- Chapter I PRELIMINARY",
-  "parts": [
+ "id": "listed-companies-buy-back-regulations-2019",
+ "title": "Listed Companies (Buy-back of Shares) Regulations, 2019",
+ "number": "",
+ "type": "regulations",
+ "unit": "Regulation",
+ "parent": "companies-act-2017",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Buy-back Regulations 2019",
+  "Listed Companies Buy-back Regulations"
+ ],
+ "lastAmended": "2022-09-15",
+ "amendedUpToLabel": "SECP consolidated PDF, updated 15 September 2022",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "listed-companies-buy-back-regulations-2019.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF SECP consolidated PDF, updated 15 September 2022 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short Title, Commencement and applicability",
-          "text": [
-            "(1) These regulations shall be called the Listed Companies (Buy-Back of Shares) Regulations, 2019.",
-            "(2) They shall come into force at once.",
-            "(3) These regulations shall be applicable to buy-back of shares of companies listed on the securities exchange, [except for Special Purpose Acquisition Companies as covered in Public Offering Regulations, 2017] in pursuance of section 88 of the Companies Act, 2017 (XIX of 2017)."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
-            ">(a) \"Act\" means the Companies Act, 2017 (XIX of 2017);",
-            ">(b) \"authorized officer\" mean an officer of the company appointed by the board of directors to act as manager to the offer; [ ]",
-            ">(e) \"public announcement\" means an announcement made by the purchasing company for purchase or sale of its shares as per the format prescribed in these regulations;",
-            ">(f) \"purchase\" means buy-back of its own shares by a purchasing company under section 88 of the Act and these regulations;",
-            ">(g) \"purchasing company\" means a listed company that buy-back its own shares under section 88 of the Act and these regulations;",
-            ">(h) \"purchase period\" means the time period specified in regulation 7 of these regulations within which the purchase is to be made;",
-            ">(i) \"Schedule\" means schedule annexed to these regulations;",
-            ">(j) \"Securities Act\" means the Securities Act, 2015 (III of 2015); \"[(ja) \"Special Purpose Acquisition Company (SPAC)\" shall have the same meanings as defined under clause (liiia) of the Public Offering Regulations, 2017.]",
-            ">(k) \"treasury shares\" means the shares purchased and held by the purchasing company in its own name in accordance with section 88 of the Act and these regulations.",
-            "2.* All other words and expressions used but not defined in these regulations shall have the same meanings as are assigned to them in the Act, the Securities Act and the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997).",
-            "Chapter II",
-            "ELIGIBILITY FOR PURCHASE"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Eligibility Requirements for the Purchase",
-          "text": [
-            "(1) A company shall be eligible to purchase if it fulfils the following conditions, namely:-",
-            ">(a) it is listed on the securities exchange for a period of not less than three years;",
-            ">(b) it is compliant with the minimum capital or equity requirements | 1 or",
-            "licensing requiremer.ts , if any, after the purchase;",
-            ">(c) it has obtained approval of its members for purchase through special resolution;",
-            ">(d) board has undertaken that the funds specified for the purchase by the board of directors of the purchasing company are available with the company and after the purchase, the purchasing company is capable of meeting its obligations on time during the period up to the end of the immediately succeeding twelve months;",
-            ">(e) [the purchasing company shall not be on the default counter and has not défaulted on any debt instrument supported by auditors' certificate;]",
-            ">(f) board of directors of a purchasing company shall not propose or",
-            "recommend a purchase in any of the following namely:-",
-            "(1) winding up proceedings has commenced;",
-            ">(ii) a scheme of arrangement, compromise, reconstruction, merger or",
-            "de-merger is approved by the board of directors unless the Purchase is a part of such arrangement, compromise, reconstruction, merger or de-merger;",
-            ">(iii) a public offer for acquisition of shares of the purchasing company under the Securities Act has been announced; and",
-            ">(g) before the expiry of six months from the date of an earlier general meeting in which the purchase was disapproved by the members."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Procedure for Purchase",
-          "text": [
-            "(1) The general meeting in which the special resolution is to be passed shall be held not later than [forty-five] days of the date of the meeting of the board of directors in which the purchase is recommended.",
-            "(2) The purchasing company shall make a public announcement [as per Schedule II] within two working days of passing of the special resolution.",
-            "(3) The board of directors of purchasing company shall, before making the public announcement, authorize an officer of the company to act as manager to the offer who shall ensure compliance with the legal requirements pertaining to purchase of shares.",
-            "(5) The authorized officer shall, within fifteen days of the closing of the purchase period, submit a final report on the purchase to the Commission and the securities exchange on the format specified in Schedule IV; ["
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Purchase [procedure] through securities exchange",
-          "text": [
-            "Purchase shall be made through securities exchange subject to the following procedure, in addition to the purchase procedure provided in regulation 4, namely,-",
-            ">(a) the purchase shall be made through the automated trading system of the securities exchange; [ ]",
-            ">(b) [the purchasing company shall open an Investor Account Service (IAS)",
-            "at CDC for the purpose of the purchase.] [(c) the authorized officer shall operi a subaccount of the purchasing company with any licensed brokerage house which can only be utilized for purchase of shares during the purchase period.",
-            ">(d) the purchasing company shall ensure that sufficient funds are available the purchasing company shall ensure that sufficient funds are available for settlement in the designated clearing bank account of the company (e) The purchasing company shall intimate to the securities exchange, the number of shares purchased, along with the purchase price on daily basis for public dissemination;",
-            ">(f) The shares purchased on daily basis shall be placed in the blocked IAS (f) The shares purchased on daily basis shall be placed in the blocked IAS account of the purchasing company maintained with CDC; and",
-            ">(g) CDC shall ensure that the shares shall remain in Blocked account until the company decides to sell the treasury shares in accordance with these regulations.]"
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Purchase Period",
-          "text": [
-            "l ]",
-            "(2) [The purchase period for purchase through securities exchange shall start not later than seven days from the date of public announcement and shall close within one hundred and eighty (180) days from the date of passing of special resolution wherein members have given approval of the Purchase or till such date that the purchase is completed, whichever is earlier.]"
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Purchase Price",
-          "text": [
-            "[ ]",
-            "(2) Purchase through securities exchange shall be made at the spot/current share price [:]",
-            "s[Provided that this should not include purchase through negotiated deals market.]"
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Maximum holding of Treasury Shares",
-          "text": [
-            "(1) Treasury shares shall not at any time exceed twenty percent of the total paid up share capital of the purchasing company []",
-            "(2) Where the purchasing company has different classes of shares, the treasury shares for any class of shares shall not exceed twenty percent of total issued at any time and paid up shares of such class of shares.",
-            "(3) The treasury shares shall be held in the name of the purchasing company in a CDC blocked account in freeze form.",
-            "(4) The treasury shares shall not be placed under collateral either directly or indirectly.",
-            "(5) Any shares allotted as fully paid bonus shares in respect of the treasury shares, shall be treated as treasury shares for the purposes of these regulations and shall be held in the name of the company in CDC blocked account in freeze form.",
-            "Chapter III",
-            "OBLIGATIONS AND RESTRICTIONS"
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Obligations of the Purchasing company",
-          "text": [
-            "The purchasing company shall-",
-            ">(a) communicate to the Commission and the securities exchange simultaneously, the decision of the board of directors regarding recommendation of the purchase on the day the decision is made;",
-            ">(b) make public announcement on the format specified in Schedule II and",
-            "publish it in at least two daily newspapers, one each in Urdu and",
-            "English languages having nationwide circulation at least seven days before the commencement of the purchase period;",
-            "[ (d) cancel the shares within ten days of the closing of the purchase period where the purchase is made for the purpose of cancellation [:]",
-            "a[Provided that for cancellation of shares, the purchasing company has to follows the filing requirements of the Act, the Companies (General Provisions and Forms) Regulations, 2018 and the procedure prescribed by CDC.J, (e) submit to the Commission, the securities exchange and CDC, a copy of the special resolution authorizing the purchasing company to purchase on next working day of the general meeting in which it is passed and",
-            "such resolution shall specify the indicative number and percentage of shares to be purchased, mode of the purchase, allocated funds and the purchase period;",
-            ">(f) submit to the Commission and the securities exchange, the published copies of the public announcement within two days of its publication;",
-            ">(g) intimate to the Commission and the securities exchange on the day of the closing of the purchase period, the number of shares purchased, and",
-            "advertise the same within two days of the closure of purchase period in same newspapers in which the public announcement was published;",
-            ">(h) disclose in its annual report, detail of the shares purchased and detail of the treasury shares disposed of and such disclosures shall contain at least the number of shares purchased or sold and the price of the purchase or sale; and",
-            "cleu (i) file with the registrar concerned within thirty days of the closing of the purchase period the following documents-",
-            ">(i) copy of the board of directors resolution regarding the purchase;",
-            ">(ii) copy of the special resolution authorizing the purchase;",
-            ">(iii) copy of the notice of the general meeting in which the special resolution was passed; and",
-            ">(iv) copy of the public announcement;",
-            "["
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Restriction on the purchasing company",
-          "text": [
-            "The purchasing company shall not-",
-            ">(a) apply for voluntary delisting or voluntary winding up within a period of [two years] of the close of the purchase period;",
-            ">(b) engage in the sale of the already held treasury shares through the securities exchange-",
-            ">(i) during the purchase period and during six months after the closing of the purchase period; and",
-            ">(ii) during the period it is in possession of price sensitive information;",
-            ">(c) save as provided in regulation 12, withdraw, cancel or postpone the purchase once announced;",
-            ">(d) make a purchase before the expiry of [six months] from the last date of.",
-            "subscription by shareholders in respect of any further issue of capital;",
-            "[Explanation: further issue of capital shall not include bonus issue of shares.]",
-            ">(e) make a new purchase before the expiry of at-least one year from the date of submission of the final report of the previous purchase to the Commission by authorized officer for the purchase in accordance with these regulations []",
-            "[Provided, if the purchasing company is able to maintains 25% free float at the Securities Exchange, subsequent to the second buy back, it may offer the buy back during the above stated period.]",
-            "Explanation: For the purposes of clause (d) and (e), the purchase or the new purchase shall be deemed to commence from the date of general meeting of the purchasing company wherein the purchase is approved."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "General Restrictions",
-          "text": [
-            "(1) Except where the recommendation for the purchase is not approved by the members in the general meeting, the recommendation for the purchase by the board of directors shall not be withdrawn.",
-            "(2) The sponsors, directors, undertakings [ I of the purchasing company shall not directly or indirectly trade in shares of the purchasing company during the following periods-",
-            ">(a)",
-            ">(a) from the date of meeting of the board of directors in which the purchase is recommended till completion of the purchase; and",
-            ">(b)",
-            "from the date of meeting of the board of directors in which the disposal of treasury shares is recommended till completion of the sale.",
-            "Chapter IV",
-            "MISCELLANEOUS"
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Disposal of the Treasury Shares and procedure",
-          "text": [
-            "(1) The treasury shares shall not be sold, transferred or otherwise disposed of by the purchasing company within a period of six months from the closure of the purchase period.",
-            "(2)",
-            "(2) The treasury shares shall not be sold by the purchasing company unless it has obtained approval of its board of directors.",
-            "(3) The purchasing company shall make a public announcement as per Schedule V within two working days of decision of board of directors.",
-            "(4)",
-            "(4) The board of directors of the purchasing company shall before making the public announcement, designate an authorized officer for completion of sale of treasury shares.",
-            "(5)",
-            "(5) The purchasing company shall not issue further capital, other than bonus shares unless the treasury shares held by it are disposed of.",
-            "(6)",
-            "(6) The purchasing company may, subject to sub-regulation (1), dispose of treasury shares in full or any part thereof in any of the following manners or combination thereof:",
-            ">(a)",
-            ">(a) sell the treasury shares against consideration in the market through the securities exchange's automated trading system in trammarent manner, as approved by board of directors; and",
-            ">(b) 2(Sell the treasury shares to its employees under section 83A of the Act read with the Companies (Further Issue of Shares) Regulations, 2020 underthe authority of a special resolution in accordance with its articles of association.].",
-            "(7) In case of sale of treasury shares the following procedure shall be followed,-",
-            ">(a) the decision of sale shall be made by the board of directors shall be communicated to the Commission and the securities exchange on the day the decision is made;",
-            ">(b) sale of treasury shares shall start not later than seven days from the date of public announcement and shall close within forty-five days from the date of decision of board or till such date that the sale is completed, whichever is earlier.",
-            "(8) The purchasing company shall not dispose of the treasury shares in any manner from the date of a public announcement of offer for acquisition of shares of the purchasing company made by an acquirer under the Securities Act *till the time the acquisition process is complete.",
-            "(9) The purchasing company shall file the following information with the registrar concerned within thirty days of the disposal of the treasury shares-",
-            ">(a) mode of disposal;",
-            ">(b) maximum number of treasury shares available for sale;",
-            ">(c) total number of shares sold;",
-            ">(d) date-wise and price-wise breakup of shares sold;",
-            ">(e) total consideration received;",
-            ">(f) cumulative number of treasury shares sold to date;",
-            ">(g) number of balance treasury shares if any; and",
-            ">(h) cumulative number of shares cancelled to date.",
-            "(10) The purchasing company shall report to the securities exchange the number of shares sold on daily basis for public dissemination."
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Power to give directions",
-          "text": [
-            "Where the Commission is satisfied, on its own motion or on the basis of any information received by it, that it is necessary and expedient so to do-",
-            ">(a) in the interest of the shareholders of the purchasing company;",
-            ">(b) in the interest of investors or the market generally; or",
-            ">(c) to prevent the abuse of law or the process laid down in these regulations; it may issue directions to the purchasing company, any of its directors, o'ficers, or any other person; including but not limited to-",
-            ">(i) stopping the purchasing company at any stage from making the purchase or sale, as applicable;",
-            ">(ii) to do or desist from doing such acts as the Commission may determine; and (iii) carry out such steps as are necessary to rectify the situation."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Repeal and Saving",
-          "text": [
-            "(1) The Listed Companies (Buy-back of shares) Regulations, 2016, hereinafter referred as repealed Regulations, shall stand repealed: . Provided that repeal of repealed Regulation shall not-",
-            ">(a) revive anything not in force at the time at which the repeal takes effect;",
-            "or",
-            ">(b) affect the previous operation of the repealed Regulations or anything duly done or suffered thereunder; or",
-            ">(c) affect any right, privilege, obligation or liability acquired, accrued or"
-          ]
-        }
-      ]
-    }
-  ],
-  "schedules": [
+     "no": "1",
+     "title": "Short title, commencement and applicability",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Listed Companies (Buy-Back of Shares) Regulations, 2019.",
+      "(2) They shall come into force at once.",
+      "(3) These regulations shall be applicable to buy-back of shares of companies listed on the securities exchange, in pursuance of section 88 of the Companies Act, 2017 (XIX of 2017)."
+     ]
+    },
     {
-      "title": "Schedules, annexures and forms (as printed)",
-      "text": [
-        "OFFER LETTER IN CASE OF PURCHASE THROUGH TENDER OFFER OR PURCHASE",
-        "THROUGH SECURITIES EXCHANGE",
-        "[See Regulation 4(4)(a))",
-        "(To be on the letterhead of the purchasing company and to be sent to all its members)",
-        "To: [Name and address of the member]",
-        "Subject:- Offer for buy-back of shares by ... (name of the purchasing company) ...",
-        "Dear Sir/Madam,",
-        "1.",
-        "Pursuant to the Public Announcement dated ... (date of the Public Announcement) ... (copy enclosed) by ... (name of the purchasing company) ... (hereinafter referred to as the Company)",
-        "published in various daily newspapers on ... Iname and date of the Newspapers in which the Public",
-        "Announcement is published] this is to inform you that the Company intends to buy-back its own ... [number of shares] shares.",
-        "[number of shares] shares.",
-        "2.",
-        "Therefore, the Company hereby makes you an offer to buy-back shares held by you at a purchase price of Rs. ... (Purchase Price approved by members of the purchasing company in general meeting) ... per share. Please note that this offer for Purchase is vard till closing of the Purchase",
-        "_(date of the close of the Purchase Period).",
-        "3.",
-        "3. In case you are willing to sell the shares or part thereof held by you in the purchasing company, you may;",
-        ">(a) (In case of Tender Offer) tender the same through the Share Tender Form supporting by (In case of Tender Offer) tender the same through the Share Tender Form supporting by the free-delivery note evidencing credit of shares in the designated CDC account to the authorised officer. The Share Tender Form shall contain details of shares to be tendered, CDS account number, full name of the shareholder, father's name/husband's name, CNIC number, folio number, signature, phone number and postal & email addresses.",
-        ">(b)",
-        ">(b) (In case of purchase through Securities Exchange) sell such shares or part thereof to the broker. securities broker through the securities exchange by placing a sale order through your securities",
-        "4. The authorized officer shall acknowledge receipt of the shares.",
-        "5.",
-        "Purchase shall be made in accordance with the provisions of section 88 of the Companies Act;",
-        "2019 and the Listed Companies (Buy-back of Shares) Regulations, 2019.",
-        "6. In case ofany query regarding this offer for buy-back of shares, you may contact the Company at the following addresses:",
-        "[Name, phone & fax numbers and postal & e-mail addresses of the contact person of the purchasing company]",
-        "officer] [Name, phone & fax numbers and postal & e-mail addresses of the contact person of the authorized officer]",
-        "7. The directors of thepurchasing company accept full responsibility for the correctness of information contained in this Offer Letter.",
-        "Date: Yours truly,",
-        "Place:",
-        "[Name, signature phone number and postal address of the secretary of the Purchasing company\"",
-        "PUBLIC ANNOUNCEMENT FOR BUY BACK OF SHARES BY (NAME OF",
-        "THE PURCHASING COMPANY",
-        "[See Regulation 4 [(2)] and 10(b)]",
-        "To be published in the newspapers and on the website of the purchasing company",
-        "1. The public announcement shall contain at least the following information:",
-        ">(a) Name and address of the registered office of the purchasing company;",
-        ">(b) purpose of the purchase;",
-        ">(c) indicative quantum of the purchase both in terms of number and as a percentage of the paid up capital of the purchasing company, as applicable;",
-        ">(d) date of commencement of the purchase i.e., effective date of the purchase;",
-        ">(e) duration of the purchase period: From...( the date of commencement) to",
-        "... (the date of closing) ... both days inclusive",
-        ">(f) name of the securities exchange;",
-        ">(g) name, phone number, postal and email addresses of the authorized officer appointed by purchasing company;",
-        ">(h) name, contact number(s), postal &' email address of the contact person(s) appointed by the Company to handle queries and complaints regarding the Purchase;",
-        ">(i) any other information the purchasing company deems necessary to provide.",
-        "2. [It is clarified that all those persons who validly hold shares of the purchasing company except for the persons mentioned in regulation 12(2) of these regulations are eligible to participate in the purchase even if their names do not appear on Members' register of the purchasing company].",
-        "Date:",
-        "Place:",
-        "Name, signature & address of the",
-        "Secretary of the purchasing company",
-        "FINAL REPORT ON THE PURCHASE TO BE SUBMITTED TO THE",
-        "COMMISSION AND THE SECURITIES EXCHANGE BY AUHORISED",
-        "OFFICER",
-        "[See Regulation 4(5)]",
-        "To,",
-        ">(i) The Director,",
-        "Securities and Exchange Commission of Pakistan,",
-        "Islamabad.",
-        ">(ii) The Chief Executive,",
-        ".The Pakistan Stock Exchange Limited,",
-        "Karachi.",
-        "As required under regulation 4(5) of the Companies (Buy-Back of Shares)",
-        "Regulations, 2019, information on the Purchase by ... (Name of the purchasing company) is as under,",
-        "(1) date of the board of directors meeting in which the Purchase was decided;",
-        ">(ii) date of the general meeting of the members of the purchasing company in which special resolution regarding the Purchase was passed;",
-        ">(iii) date of publication of the Public Announcement;",
-        ">(iv) Purchase Period;",
-        ">(v) Purchase price [ ];",
-        ">(vi) date-wise and price-wise breakup of the purchase [ ]",
-        ">(vii) date of publication of the Public Announcement;",
-        ">(viii) [ ];",
-        ">(ix) total number of shares tendered for sale;",
-        ">(x) total number of shares accepted;",
-        ">(xi) criteria/procedure adopted for acceptance of shares;",
-        ">(xii) [ ];",
-        "(хiii) amount, date and mode of payment against the shares accepted;",
-        ">(xiv) number of treasury shares; and",
-        ">(xv) number of purchased shares cancelled, if any.",
-        "Yours truly,",
-        "Date:",
-        "Place:",
-        "[Name, signature, phone number, email and postal address of the authorised officer]",
-        "PUBLIC ANNOUNCEMENT FOR SALE OF TREASURY SHARES BY (NAME OF THE COMPANY)",
-        "[See Regulation 13(3)]",
-        "To be published in the newspapers and website of the purchasing company",
-        "(1)",
-        "information: (1) The public announcement shall contain at least the following",
-        ">(a) Name and address of the registered office of the purchasing company;",
-        ">(b) purpose of the sale;",
-        ">(c)",
-        ">(c) indicative quantum of the sale both in terms of number and as a percentage of the paid up capital of the company;",
-        ">(d)",
-        ">(d) date of commencement of the sale i.e., effective date of the sale;",
-        ">(e)",
-        "duration of the sale period: From ...( the date of commencement) to ...",
-        "(the daté of closing) ... both days inclusive",
-        ">(f) name of the securities exchange;",
-        ">(g)",
-        ">(g) name, phone number, postal and email addresses of the authorized officer appointed by the company;",
-        ">(h)",
-        "any other information the purchasing company deems necessary to provide.",
-        "Date:",
-        "Place:",
-        "[Name, signature & address of the Secretary of the company]"
-      ]
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
+      ">(a) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">(b) “authorized officer” mean an officer of the company appointed by the board of directors to act as manager to the offer;",
+      ">(c) [omitted] {fn:1-1}",
+      ">(d) [omitted] {fn:1-2}",
+      ">(e) \"public announcement\" means an announcement made by the purchasing company for purchase or sale of its shares as per the format prescribed in these regulations;",
+      ">(f) \"purchase\" means buy-back of its own shares by a purchasing company under section 88 of the Act and these regulations;",
+      ">(g) \"purchasing company\" means a listed company that buy-back its own shares under section 88 of the Act and these regulations;",
+      ">(h) \"purchase period\" means the time period specified in regulation 7 of these regulations within which the purchase is to be made;",
+      ">(i) \"Schedule\" means schedule annexed to these regulations;",
+      ">(j) \"Securities Act\" means the Securities Act, 2015 (III of 2015);",
+      ">(k) “treasury shares” means the shares purchased and held by the purchasing company in its own name in accordance with section 88 of the Act and these regulations.",
+      "2. All other words and expressions used but not defined in these regulations shall have the same meanings as are assigned to them in the Act, the Securities Act and the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
+     ],
+     "fn": [
+      {
+       "n": "1-1",
+       "text": "Omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      },
+      {
+       "n": "1-2",
+       "text": "Omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      }
+     ]
     }
-  ],
-  "frontNotes": [],
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Chapter II — Eligibility For Purchase",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Eligibility Requirements for the Purchase",
+     "page": 2,
+     "text": [
+      "(1) A company shall be eligible to purchase if it fulfils the following conditions, namely:-",
+      ">(a) it is listed on the securities exchange for a period of not less than three years;",
+      ">(b) it is compliant with the minimum capital or equity requirements [omitted] {fn:2-3} or licensing requirements, if any, after the purchase;",
+      ">(c) it has obtained approval of its members for purchase through special resolution;",
+      ">(d) board has undertaken that",
+      "the funds specified for the purchase by the board of directors of the purchasing company are available with the company; and",
+      "after the purchase, the purchasing company is capable of meeting its obligations on time during the period up to the end of the immediately succeeding twelve months;",
+      ">(e) [the purchasing company shall not be on the default counter and has not defaulted on any debt instrument supported by auditors’ certificate;] {fn:3-4}",
+      ">(f) board of directors of a purchasing company shall not propose or recommend a purchase in any of the following namely:-",
+      ">>(i) winding up proceedings has commenced;",
+      ">>(ii) a scheme of arrangement, compromise, reconstruction, merger or de-merger is approved by the board of directors unless the Purchase is a part of such arrangement, compromise, reconstruction, merger or de-merger;",
+      ">>(iii) a public offer for acquisition of shares of the purchasing company under the Securities Act has been announced; and",
+      ">(g) before the expiry of six months from the date of an earlier general meeting in which the purchase was disapproved by the members."
+     ],
+     "fn": [
+      {
+       "n": "2-3",
+       "text": "The following words omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022: “or minimum free float requirements of the securities exchange, as set out in listing regulations”"
+      },
+      {
+       "n": "3-4",
+       "text": "substituted for the words “the purchasing company should not be on the defaulter counter” vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      }
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Procedure for Purchase",
+     "page": 3,
+     "text": [
+      "(1) The general meeting in which the special resolution is to be passed shall be held not later than [forty-five] {fn:3-5} days of the date of the meeting of the board of directors in which the purchase is recommended.",
+      "(2) The purchasing company shall make a public announcement [as per Schedule II] {fn:3-6} within two working days of passing of the special resolution.",
+      "(3) The board of directors of purchasing company shall, before making the public announcement, authorize an officer of the company to act as manager to the offer who shall ensure compliance with the legal requirements pertaining to purchase of shares.",
+      "(4) [ omitted ] {fn:3-7}",
+      "(5) The authorized officer shall, within fifteen days of the closing of the purchase period, submit a final report on the purchase to the Commission and the securities exchange on the format specified in Schedule IV;"
+     ],
+     "fn": [
+      {
+       "n": "3-5",
+       "text": "substituted for the word “thirty” vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      },
+      {
+       "n": "3-6",
+       "text": "inserted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      },
+      {
+       "n": "3-7",
+       "text": "Sub-regulation (4) omitted vide S.R.O 1725(I)/2022 dated September 06, 2022 “The purchasing company shall, within five days of the public announcement, dispatch through registered mail or courier or electronic mode of communication, to all its members including custodian of depository receipts and other securities convertible into shares being purchased, if any, whose names appear on the register of members: (a) the offer letter on format specified in Schedule I; (b) a copy of the public announcement on format specified in Schedule II; and (c) in case of a tender offer, the share tender form on format specified in Schedule III.”"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "[Omitted]",
+     "page": 4,
+     "text": [
+      "[omitted] {fn:4-8}"
+     ],
+     "fn": [
+      {
+       "n": "4-8",
+       "text": "The following words omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022 “Purchase Procedure for Tender offer.- Where the purchase is made through a tender offer to the shareholders, following procedure shall be followed in addition to the procedure provide in regulation 4,- (a) the purchasing company shall, before making the public announcement, open an escrow account with a scheduled bank; (b) the purchasing company shall at all times during the purchase period maintain a deposit equivalent to twenty five percent of the consideration payable in the escrow account; (c) the remaining amount shall be deposited by the purchasing company in the escrow account at least three working days before the close of the purchase period; (d) the purchasing company shall open a designated CDC account; (e) shares tendered for sale in physical form shall not be accepted for the purchase; (f) shares shall be tendered through the share tender form to the authorized officer and the share tender form must be received before the closing of the purchase period; (g) within five days of the closing of the purchase period, the authorized officer shall prepare a list containing names of all those shareholders who have tendered shares for sale, the number of shares tendered and the number of shares accepted by the purchasing company for the purchase from each shareholder; (h) where the shares tendered for sale by shareholders exceed the number of shares announced to be purchased, the following procedure shall be adopted- (i) where all applications for up to five hundred shares can be accommodated, then all such applications shall be accommodated first. Where all application for five hundred shares cannot be accommodated, then balloting by authorized officer will be conducted among applications for five hundred shares only; (ii) where all applications for up to five hundred shares have been accommodated and shares are still available for purchase, then all applications for up to one thousand shares shall be accommodated. Where all applications for up to one thousand shares cannot be accommodated, then balloting by authorized officer will be conducted among applications for up to one thousand shares only; (iii) where all applications for up to five hundred shares and one thousand shares have been accommodated and shares are still available for purchase, then all applications for up to fifteen hundred shares shall be accommodated. Where all applications up to fifteen hundred shares cannot be accommodated, then balloting by authorized officer will be conducted among applications for up to fifteen hundred shares only; (iv) where all applications for up to five hundred shares, one thousand shares and fifteen hundred shares have been accommodated and shares are still available for purchase, then all application for up to two thousand shares shall be accommodated. Where all applications for up to two thousand shares cannot be accommodated, then balloting by authorized officer will be conducted among applications for up to two thousand shares; (v) after the purchase in the above mentioned manner, the balance shares, if any, shall be purchased on prorate basis from all the shareholders who have tendered more than two thousand shares; (i) where the shares tendered for sale by a shareholder are less than the minimum marketable lot, five hundred shares or marketable lot, whichever is lower shall be accepted; (j) the payment for accepted shares shall be made by the authorized officer through a bank draft or pay order out of the escrow account not later than seven days of the closing of the purchase period; and (k) the unaccepted shares, if any, shall be returned within seven days of the closing of the purchase period."
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Purchase [procedure] through securities exchange",
+     "page": 4,
+     "text": [
+      "{fn:4-9}Purchase shall be made through securities exchange subject to the following procedure, in addition to the purchase procedure provided in regulation 4, namely,-",
+      ">(a) the purchase shall be made through the automated trading system of the securities exchange; [omitted] {fn:5-10}",
+      ">(b) [the purchasing company shall open an Investor Account Service (IAS) at CDC for the purpose of the purchase.",
+      ">(c) the authorized officer shall open a subaccount of the purchasing company with any licensed brokerage house which can only be utilized for purchase of shares during the purchase period.",
+      ">(d) the purchasing company shall ensure that sufficient funds are available for settlement in the designated clearing bank account of the company (e) The purchasing company shall intimate to the securities exchange, the number of shares purchased, along with the purchase price on daily basis for public dissemination;",
+      ">(f) The shares purchased on daily basis shall be placed in the blocked IAS account of the purchasing company maintained with CDC; and",
+      ">(g) CDC shall ensure that the shares shall remain in Blocked account until the company decides to sell the treasury shares in accordance with these regulations.] {fn:5-11}"
+     ],
+     "fn": [
+      {
+       "n": "4-9",
+       "text": "Inserted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      },
+      {
+       "n": "5-10",
+       "text": "The word “and” omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      },
+      {
+       "n": "5-11",
+       "text": "Substituted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Purchase Period",
+     "page": 5,
+     "text": [
+      "(1) [omitted] {fn:5-12}",
+      "(2) [The purchase period for purchase through securities exchange shall start not later than seven days from the date of public announcement and shall close within one hundred and eighty (180) days from the date of passing of special resolution wherein members have given approval of the Purchase or till such date that the purchase is completed, whichever is earlier.] {fn:5-13};"
+     ],
+     "fn": [
+      {
+       "n": "5-12",
+       "text": "The following word omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022 “Purchase through tender offer shall be for a period of thirty days commencing from the date of dispatch of the offer letter”"
+      },
+      {
+       "n": "5-13",
+       "text": "Substituted vide S.R.O. 1725(I)/2022 dated September 06, 2022 for “The purchase period for purchase through securities exchange shall start not later than seven days from the date of public announcement and shall close within ninety days from the date of special resolution wherein members have given approval of the Purchase or till such date that the purchase is completed, whichever is earlier”."
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Purchase Price",
+     "page": 5,
+     "text": [
+      "(1) [omitted] {fn:5-14}",
+      "(2) Purchase through securities exchange shall be made at the spot/current share price[:",
+      "Provided that this should not include purchase through negotiated deals market.] {fn:5-15}."
+     ],
+     "fn": [
+      {
+       "n": "5-14",
+       "text": "The following word omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022 “In case of purchase through tender offer, the purchase price shall be the price as recommended by the board of directors and approved by the members through special resolution: Provided that it shall not be less than the preceding five trading days weighted average price of the shares.”"
+      },
+      {
+       "n": "5-15",
+       "text": "inserted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Maximum holding of Treasury Shares",
+     "page": 6,
+     "text": [
+      "(1) Treasury shares shall not at any time exceed twenty percent of the total paid up share capital of the purchasing company [ ]. {fn:6-16}",
+      "(2) Where the purchasing company has different classes of shares, the treasury shares for any class of shares shall not exceed twenty percent of total issued at any time and paid up shares of such class of shares.",
+      "(3) The treasury shares shall be held in the name of the purchasing company in a CDC blocked account in freeze form.",
+      "(4) The treasury shares shall not be placed under collateral either directly or indirectly.",
+      "(5) Any shares allotted as fully paid bonus shares in respect of the treasury shares, shall be treated as treasury shares for the purposes of these regulations and shall be held in the name of the company in CDC blocked account in freeze form."
+     ],
+     "fn": [
+      {
+       "n": "6-16",
+       "text": "Following words omitted vide SRO 54 (I)/2020 dated January 28, 2020 “provided that the free float of company after the purchase does not fall below twenty five percent of the total paid up share capital of the purchasing company”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Obligations And Restrictions",
+   "sections": [
+    {
+     "no": "10",
+     "title": "Obligations of the Purchasing company",
+     "page": 6,
+     "text": [
+      "The purchasing company shall-",
+      ">(a) communicate to the Commission and the securities exchange simultaneously, the decision of the board of directors regarding recommendation of the purchase on the day the decision is made;",
+      ">(b) make public announcement on the format specified in Schedule II and publish it in at least two daily newspapers, one each in Urdu and English languages having nationwide circulation at least seven days before the commencement of the purchase period;",
+      ">(c) [omitted] {fn:6-17}",
+      ">(d) cancel the shares within ten days of the closing of the purchase period where the purchase is made for the purpose of cancellation[:",
+      "Provided that for cancellation of shares, the purchasing company has to follows the filing requirements of the Act, the Companies (General Provisions and Forms) Regulations, 2018 and the procedure prescribed by CDC.] {fn:7-18}",
+      ">(e) submit to the Commission, the securities exchange and CDC, a copy of the special resolution authorizing the purchasing company to purchase on next working day of the general meeting in which it is passed and such resolution shall specify the indicative number and percentage of shares to be purchased, mode of the purchase, allocated funds and the purchase period;",
+      ">(f) submit to the Commission and the securities exchange, the published copies of the public announcement within two days of its publication;",
+      ">(g) intimate to the Commission and the securities exchange on the day of the closing of the purchase period, the number of shares purchased, and advertise the same within two days of the closure of purchase period in same newspapers in which the public announcement was published;",
+      ">(h) disclose in its annual report, detail of the shares purchased and detail of the treasury shares disposed of and such disclosures shall contain at least the number of shares purchased or sold and the price of the purchase or sale; and",
+      ">(i) file with the registrar concerned within thirty days of the closing of the purchase period the following documents-",
+      ">>(i) copy of the board of directors resolution regarding the purchase;",
+      ">>(ii) copy of the special resolution authorizing the purchase;",
+      ">>(iii) copy of the notice of the general meeting in which the special resolution was passed; and",
+      ">>(iv) copy of the public announcement;",
+      ">(j) [[omitted]",
+      ">(k) [omitted]",
+      ">(l) [omitted]] {fn:7-19}"
+     ],
+     "fn": [
+      {
+       "n": "6-17",
+       "text": "The following word omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022 “the purchasing company shall deposit the consideration payable in the designated clearing bank account at least one day before the settlement date;”"
+      },
+      {
+       "n": "7-18",
+       "text": "Inserted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      },
+      {
+       "n": "7-19",
+       "text": "The following is omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022 (j) “In case of purchase through securities exchange, report to the securities exchange the number of shares purchased on daily basis for public dissemination; (k) open Investor Account Service (IAS) at CDC for the purpose of the purchase; and (l) CDC shall ensure that the shares shall remain in Blocked account until the company decides to sell the treasury shares in accordance with these regulations.”"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Restriction on the purchasing company",
+     "page": 7,
+     "text": [
+      "The purchasing company shall not-",
+      ">(a) apply for voluntary delisting or voluntary winding up within a period of [two years] {fn:8-20} of the close of the purchase period;",
+      ">(b) engage in the sale of the already held treasury shares through the securities exchange-",
+      ">>(i) during the purchase period and during six months after the closing of the purchase period; and",
+      ">>(ii) during the period it is in possession of price sensitive information;",
+      ">(c) save as provided in regulation 12, withdraw, cancel or postpone the purchase once announced;",
+      ">(d) make a purchase before the expiry of [six months] {fn:8-21} from the last date of subscription by shareholders in respect of any further issue of capital",
+      "[Explanation: further issue of capital shall not include bonus issue of shares] {fn:8-22}.",
+      ">(e) make a new purchase before the expiry of at-least one year from the date of submission of the final report of the previous purchase to the Commission by authorized officer for the purchase in accordance with these regulations[:",
+      "“Provided, if the purchasing company is able to maintains 25% free float at the Securities Exchange, subsequent to the second buy back, it may offer the buy back during the above stated period.] {fn:8-23}",
+      "Explanation: For the purposes of clause (d) and (e), the purchase or the new purchase shall be deemed to commence from the date of general meeting of the purchasing company wherein the purchase is approved."
+     ],
+     "fn": [
+      {
+       "n": "8-20",
+       "text": "substituted for ‘’ twelve months” vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      },
+      {
+       "n": "8-21",
+       "text": "Substituted for words ‘three years’ vide S.R.O 857(I)/2019 dated July 25, 2019"
+      },
+      {
+       "n": "8-22",
+       "text": "Inserted vide S.R.O 857(I)/2019 dated July 25, 2019"
+      },
+      {
+       "n": "8-23",
+       "text": "Inserted vide S.R.O. 1725(I)/2022 dated September 06, 2022"
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "General Restrictions",
+     "page": 8,
+     "text": [
+      "(1) Except where the recommendation for the purchase is not approved by the members in the general meeting, the recommendation for the purchase by the board of directors shall not be withdrawn.",
+      "(2) The sponsors, directors, officers, associated companies and undertakings [omitted] {fn:8-24} of the purchasing company shall not directly or indirectly trade in shares of the purchasing company during the following periods-",
+      ">(a) from the date of meeting of the board of directors in which the purchase is recommended till completion of the purchase; and",
+      ">(b) from the date of meeting of the board of directors in which the disposal of treasury shares is recommended till completion of the sale."
+     ],
+     "fn": [
+      {
+       "n": "8-24",
+       "text": "The following word omitted vide S.R.O. 1725(I)/2022 dated September 06, 2022 “and shareholders holding more than ten percent of the voting shares”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Miscellaneous",
+   "sections": [
+    {
+     "no": "13",
+     "title": "Disposal of the Treasury Shares and procedure",
+     "page": 9,
+     "text": [
+      "(1) The treasury shares shall not be sold, transferred or otherwise disposed of by the purchasing company within a period of six months from the closure of the purchase period.",
+      "(2) The treasury shares shall not be sold by the purchasing company unless it has obtained approval of its board of directors.",
+      "(3) The purchasing company shall make a public announcement as per Schedule V within two working days of decision of board of directors.",
+      "(4) The board of directors of the purchasing company shall before making the public announcement, designate an authorized officer for completion of sale of treasury shares.",
+      "(5) The purchasing company shall not issue further capital, other than bonus shares unless the treasury shares held by it are disposed of.",
+      "(6) The purchasing company may, subject to sub-regulation (1), dispose of treasury shares in full or any part thereof in any of the following manners or combination thereof:",
+      ">(a) sell the treasury shares against consideration in the market through the securities exchange's automated trading system in transparent manner, as approved by board of directors; and",
+      ">(b) [Sell the treasury shares to its employees under section 83A of the Act read with the Companies (Further Issue of Shares) Regulations, 2020 under the authority of a special resolution in accordance with its articles of association.]; {fn:9-25}",
+      "(7) In case of sale of treasury shares the following procedure shall be followed,-",
+      ">(a) the decision of sale shall be made by the board of directors shall be communicated to the Commission and the securities exchange on the day the decision is made;",
+      ">(b) sale of treasury shares shall start not later than seven days from the date of public announcement and shall close within forty-five days from the date of decision of board or till such date that the sale is completed, whichever is earlier.",
+      "(8) The purchasing company shall not dispose of the treasury shares in any manner from the date of a public announcement of offer for acquisition of shares of the purchasing company made by an acquirer under the Securities Act till the time the acquisition process is complete.",
+      "(9) The purchasing company shall file the following information with the registrar concerned within thirty days of the disposal of the treasury shares-",
+      ">(a) mode of disposal;",
+      ">(b) maximum number of treasury shares available for sale;",
+      ">(c) total number of shares sold;",
+      ">(d) date-wise and price-wise breakup of shares sold;",
+      ">(e) total consideration received;",
+      ">(f) cumulative number of treasury shares sold to date;",
+      ">(g) number of balance treasury shares if any; and",
+      ">(h) cumulative number of shares cancelled to date.",
+      "(10) The purchasing company shall report to the securities exchange the number of shares sold on daily basis for public dissemination."
+     ],
+     "fn": [
+      {
+       "n": "9-25",
+       "text": "substituted vide S.R.O. 1725(I)/2022 dated September 06, 2022 for “sell the treasury shares to its employees under the Companies (further issue of shares) Regulations, 2018 under the authority of a special resolution and with prior written approval of the Commission” ***"
+      }
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Power to give directions",
+     "page": 10,
+     "text": [
+      "Where the Commission is satisfied, on its own motion or on the basis of any information received by it, that it is necessary and expedient so to do-",
+      ">(a) in the interest of the shareholders of the purchasing company;",
+      ">(b) in the interest of investors or the market generally; or",
+      ">(c) to prevent the abuse of law or the process laid down in these regulations; it may issue directions to the purchasing company, any of its directors, officers, or any other person; including but not limited to-",
+      ">>(i) stopping the purchasing company at any stage from making the purchase or sale, as applicable;",
+      ">>(ii) to do or desist from doing such acts as the Commission may determine; and",
+      ">>(iii) carry out such steps as are necessary to rectify the situation."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Repeal and Saving",
+     "page": 11,
+     "text": [
+      "(1) The Listed Companies (Buy-back of shares) Regulations, 2016, hereinafter referred as repealed Regulations, shall stand repealed:",
+      "Provided that repeal of repealed Regulation shall not –",
+      ">(a) revive anything not in force at the time at which the repeal takes effect; or",
+      ">(b) affect the previous operation of the repealed Regulations or anything duly done or suffered thereunder; or",
+      ">(c) affect any right, privilege, obligation or liability acquired, accrued or incurred under the said repealed Regulations; or",
+      ">(d) affect any penalty imposed, forfeiture made or punishment awarded in respect of any offence committed under the repealed Regulations; or",
+      ">(e) affect any inspection, investigation, prosecution, legal proceeding or remedy in respect of any obligation, liability, penalty, forfeiture or punishment as aforesaid,",
+      "and any such inspection, investigation, prosecution, legal proceeding or remedy may be made, continued or enforced and any such penalty, forfeiture or punishment may be imposed, as if these Regulations had not been commenced.",
+      "(2) Notwithstanding the repeal of the repealed Regulations anything done, actions taken, proceedings initiated and instituted, processes or communications issued and powers conferred, assumed or exercised by the Commission under the repealed Regulations shall, on the coming into force of these regulations, be deemed to have been validly done, taken, passed, issued, initiated or instituted, conferred, assumed and exercised and every action, order, directive, notification, circular etc. issued by the Commission shall be deemed to have been validly initiated or issued and shall be proceeded with to completion and be enforced and have effect accordingly."
+     ]
+    }
+   ]
+  }
+ ]
 }

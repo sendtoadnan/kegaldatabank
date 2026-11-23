@@ -1,456 +1,438 @@
 {
-  "id": "public-offering-regulated-securities-licensing-regulations-2017",
-  "title": "Public Offering (Regulated Securities Activities Licensing) Regulations, 2017",
-  "number": "S.R.O. 295(I)/2017",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Regulated Securities Licensing Regulations"
-  ],
-  "enacted": "2017-05-02",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 295(I)/2017",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 295(I)/2017 dated May 02, 2017.- In exercise of powers conferred by sub-section (4) of section 169 read with sections 63, 64, 65, 68, 69 and 80 of the Securities Act, 2015, (Act No III of 2015), the Securities and Exchange Commission of Pakistan is pleased to make the following regulations, the same have been previously publishedin the official Gazette vide Notifications No. S.R.O. 03(I)/2016 dated 1st January, 2016, S.R.O. 35(I)/2016 dated 20th January, 2016 and S.R.O.356(I)/2016 dated 21st April, 2016, namely;-",
-  "parts": [
+ "id": "public-offering-regulated-securities-licensing-regulations-2017",
+ "title": "Public Offering (Regulated Securities Activities Licensing) Regulations, 2017",
+ "number": "S.R.O. 295(I)/2017",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Regulated Securities Licensing Regulations"
+ ],
+ "enacted": "2017-05-02",
+ "lastAmended": "2025-08-06",
+ "amendedUpToLabel": "SECP consolidated PDF, updated 6 August 2025",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "public-offering-regulated-securities-licensing-regulations-2017.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF SECP consolidated PDF, updated 6 August 2025 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Part II",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title, commencement and application",
-          "text": [
-            "(1) These Regulations shall be called the Public Offering (Regulated Securities Activities Licensing) Regulations, 2017.",
-            "(2) They shall come into force at once.",
-            "(3) They shall apply to all persons carrying out activities as consultants to the issue, bankers to an issue [, underwriters and Debt Securities Trustee]."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
-            ">(i) \"application supported by blocked amount (ASBA)\" means a bid or",
-            "subscription application whose bid or subscription money is blocked in the bidder's or applicant's respective account maintained with the Banker to an issue or with any other scheduled bank;",
-            ">(ii) \"Act\" means the Securities Act, 2015 (III of 2015);",
-            ">(iii) \"annexure\" means any annexure to these Regulations;",
-            ">(iv) \"banker to an issue\" means a scheduled bank licensed [or permitted] by the Commission and capable to perform all or any of the following functions:",
-            ">(a) accept applications for bidding and subscription of securities (b) accept the bid money and subscription money of the bids. and",
-            "subscription applications mentioned in clause (i) above electronically, through cheque or through any other mode as disclosed in the relevant prospectus;",
-            ">(c) block the bid money and subscription money in the respective account of the bidder and the subscriber;",
-            ">(d) unblocking or refund of bid or subscription money; and",
-            ">(e) any other related function as may be specified by the Commission from time to time; [(iva) \"Companies Act\" means the Companies Act, 2017 (XIX of 2017);] 'Substituted for \"and underwriters\" by SRO 1385(I)/2020 dated December 23, 2020.",
-            "[(v) \"consultant to the issue\" means a person licensed by the Commission:",
-            ">(i) for undertaking the business of advising any person or undertaking • regarding:",
-            ">(a) \"[public offer of securities and/or] compliance with or in respect of laws or regulatory requirements relating to issue or offer of securities to the public;",
-            ">(b) arrangement, reconstruction, mergers, due diligence or take-over of a listed company, subsidiary of a listed company, company undertaking an activity licensed or registered by the Commission and any other regulated financial institution and any of its assets or liabilities;",
-            ">(ii) to act as an Investment agent for issuance of debt securities as specified in Structuring of Debt Securities Regulations, 2020;] [(va) \"Debt Securities Trustee\" means a person licensed by the Commission under the Act and appointed as Debt securities trustee by an Issuer through execution of Trust deed;]",
-            ">(vi) \"form\" means a form annexed to these Regulations;",
-            ">(vii) \"issue\" includes issue of securities through-",
-            ">(a) public offering by an issuer;",
-            ">(b) an offer for sale of security to the general public by an offeror; and",
-            ">(c) an offer of securities to the existing shareholders by a company or",
-            "a body corporate []",
-            "[Provided that issue in case of debt securities trustee also include private placement of debt securities. [(viia) \"issuer\" shall have the same meaning as assigned to it in clause (xxVii)",
-            "of section 2 of the Securities Act, 2015 (III of 2015);]",
-            ">(ix) \"schedule\" means a schedule annexed to these Regulations; [ ]",
-            ">(x) \"scheduled bank\" has the same meaning as defined in clause (m) of section 2 of the State Bank of Pakistan Act, 1956 (XXXII of 1956)",
-            "[; and]",
-            "[(xi) underwriter\" shall have the same meaning as assigned to it in clause (Ixvi) of the Securities Act, 2015 (III of 2015).]",
-            "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the [Companies Act] and the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997).",
-            "Chapter I Prohibition, Eligibility and Procedure for Grant of License"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Prohibition",
-          "text": [
-            "No person shall act as or perform the functions of banker to an Issue, consultant to the issue [, underwriter and debt securities trustee] unless such person is licensed [or has permission] by the Commission under these Regulations. •"
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Eligibility criteria for license",
-          "text": [
-            "A person may apply to the Commission for grant of license under these Regulations, if such person fulfills the conditions given in Schedule-I:"
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Application and procedure for granting of license",
-          "text": [
-            "(1) An application for a license shall be made to the Commission on Form A along with the documents specified in Annexure I and receipt evidencing payment of nonrefundable fee as specified in the Schedule II [Provided that an applicant which is eligible for Trading and Self-Clearing or Trading and Clearing category of licence as a securities broker under the Securities Brokers (Licensing and Operations) Regulations, 2016 and has opted to apply for licence of consultant to the issue and/or underwriter as part of application for licence of a securities broker or application for conversion to any category of securities brokers shall not be required to submit a separate application for licence under these regulations.]",
-            "(2) The Commission, while considering the application for grant of license, may require the applicant to furnish such further information or clarification regarding its activities and businesses as it deems appropriate.",
-            "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be intimated to the Comtission within seven working days from the date of such change.",
-            "(4)",
-            "(4) The applicant shall, if so required, by the Commission, appear before the Commission for personal representation through an officer duly authorized for this purpose in writing by the board of directors of the applicant."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Grant of license",
-          "text": [
-            "(1) The Commission, while considering the application made under sub-section (1) of regulation 5, shall beside the requirements mentioned under subsection (2) of section 69 of the Act inter-alia take into account the following matters, namely:-",
-            ">(a) that the applicant meets requirements of the Act, these regulations and",
-            "any general or particular directions earlier given by the Commission;",
-            ">(b)",
-            "that the applicant has the ability to efficiently handle its functions and",
-            "honor its obligations in accordance with the Act and the rules and",
-            "regulations made thereunder;",
-            ">(c) that the applicant has the necessary infrastructure including but not (c) that the applicant has the necessary infrastructure including but not limited to adequate office space, infrastructure, experienced and skilled manpower to effectively and efficiently discharge its responsibilities.",
-            ">(d) earlier refusal, if any, by the Commission for grant of license under earlier refusal, if any, by the Commission for grant of license under these regulations and Act; 1(e) the applicant and its sponsors/directors or CEO are fit and proper as per 1(e) the applicant and its sponsors/directors or CEO are fit and proper as per [criteria specified by the Commission]';]",
-            ">(f)",
-            ">(f) any pending penal action against the applicant, its sponsors, directors or chief executive for an offence under the Act, the Ordinance or the Securities and Exchange Commission of Pakistan Act, 1997;",
-            "]",
-            ">(i) the experience and expertise of the relevant employees; and",
-            ">(j) any other matter as is deemed necessary by the Commission.",
-            "(2) The Commission, if deems necessary, may seek additional information about the applicant from other agencies and regulatory bodies and may also conduct a pre-license assessment or a visit of the premises of the applicant to verify the genuineness of the submitted information.",
-            "(3) The Commission on being satisfied, after conducting such inquiries and after obtaining such further information as it deems appropriate, that-",
-            ">(a) the applicant is eligible for license;",
-            ">(b)",
-            ">(b) the applicant is in compliance with the provisions of the Act, these regulations and any directive, guidelines, or code issued thereunder;",
-            "and",
-            "conviction or involvement of the applicant, its sponsors, directors, or chief executive in an conviction or involvement of the applicant, its sponsors, directors, or chief executive in an offence involving fraud or breach of trust;\"",
-            ">(c) it is in the interest of capital market;",
-            "may grant a license to the applicant on Form B subject to such conditions or",
-            "restrictions as it considers necessary.",
-            "(4) The license shall remain valid for a period of one year from the date of its grant unless it is restricted, suspended or cancelled earlier by the Commission"
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Renewal of License",
-          "text": [
-            "[(1) Subject to the provisions of the Act and these regulations, consultant to the issue or underwriter [or Debt Securities Trustee] shall, one month prior to the date of expiry of its license, apply to the Commission on Form C along with an undertaking that it is compliant with all the regulatory requirements 3/;/ [Provided that a securities broker having valid license to act as consultant to the issue or underwriter shall apply, to the Commission in Form C of these Regulations or Form C of Securities Brokers (Licensing & Operations) Regulations, 2016 along with an undertaking stating that it is in compliance with all regulatory requirements\";]",
-            "(2) The Commission upon being satisfied that the applicant continues to meet the requirements for licensing and is eligible for renewal of license shall renew the license and issue a certificate of renewal of license to the applicant on Form D.",
-            "(3) Where the application for renewal of license is made within such time period as specified in sub-regulation (1) but has not been decided by the Commission, the license shall continue to be valid until the application for renewal is decided by the Commission.",
-            "• (4) While granting renewal of license, the Commission may, in addition to the criterion laid down for grant of a license, also take into account the past performance of the applicant."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Procedure where license is not granted or renewed",
-          "text": [
-            "(1) The Commission, after giving a reasonable opportunity of being heard to the applicant, may refuse to grant or renew the licence if in opinion of the Commission such applicant does not fulfill the requirements prescribed in these regulations or where the Commission after taking into account the facts, is of the view that it is not in the public interest or in the interest of the capital market to grant or renew such licence.",
-            "(2) The refusal to grant a licence or to renew a licence shall be communicated to the applicant within sixty days of the receipt of application under regulation 6 or 7, as the case may be, stating therein the grounds on which the application has been rejected.",
-            "(3) The applicant whose application for grant of a licence or renewal thereof is refused by the Commission shall, from the date of receipt of the decision of the Commission under sub-regulation (2), cease to act, or to perform the functions, as banker to an issue or consultant to the issue or underwriter [or Debt Securities Trustee] in any new issue.",
-            "(4) The banker to an issue or consultant to the issue or underwriter whose application for renewal of licence is refused by the Commission shall continue to act as banker to an issue or consultant to the issue or underwriter in all the ongoing issues in which they are acting as banker to an issue or consultant to the issue or underwriter till the completion of such issue.",
-            "[(4a) A Debt securities trustee whose application for renewal of license is refused by the Commission shall continue to act as such in all previous Issues in which it is acting as Debt securities trustee till the appointment of any other Debt securities trustee by the issuer or complete redemption of such Issues, whichever is earlier:",
-            "Provided that the appointment of any other Debt securities trustee should be made within such time period as mentioned in the refusal order but not exceeding 60 days from the date of such refusal.]",
-            "(5) The banker to an issue or consultant to the issue or underwriter [or Debt Securities Trustee] whose application for renewal of licence is refused shall intimate all their existing customers, if any, of this fact within a period of fourteen days from the date of receipt of such refusal."
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Duties and Functions",
-          "text": [
-            "A banker to an issue, consultant to the issue, Debt Securities Trustee and underwriter shall perform their duties and functions and discharge their obligations 4(and responsibilities] as specified in the Public Offering Regulations, 2017; Structuring of Debt Securities Regulations, 2020 and Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017, as applicable [Provided that in case of scheduled bank, investment finance service license holder and development financial institution registered with the securities exchange as market maker for debt securities, it shall be compliant with all the requirements laid down by the securities exchange relating to market making.]"
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Procedure for voluntary cancellation of license",
-          "text": [
-            "[(1) A banker to an issue or consultant to the issue or underwriter or debt securities trustee may voluntarily apply to the Commission for cancellation of its license [or permission] at least three months prior to the date of expiry of its license.",
-            "(2) The Commission may, upon being satisfied that the banker to an issue or consultant to the issue or underwriter [or debt securities trustee] has completed all the formalities for closure of business, accept the application made under sub-regulation (1) and cancel the licence of such banker to an issue or consultant to the issue or underwriter [or debt securities trustee or revoke permission granted to them].",
-            "(3) Upon cancellation of license [or revocation of permission], name of the banker to an issue or consultant to the issue or underwriter [or debt securities trustee] shall be excluded from the register of the regulated persons maintained by the Commission under section 72 of the Act."
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Maintenance of records by Underwriter and Consultant to the Issue",
-          "text": [
-            "(1) In addition to the requirements of section 79 of the Act, banker to an issue or consultant to the issue or underwriter shall also properly maintain all record relating to the Issue to which it is acting as a banker to an issue or consultant to the issue or underwriter for a period of at least ten years from the date of completion of its assignment.",
-            "(2) The Underwriter and Consultant to the Issue shall,-",
-            ">(a) ensure that the record is kept at such a place and maintained in such a manner that the Commission or any person appointed by it has easy access to it; and",
-            ">(b) establish and follow record retention policy which shall ensure that all relevant legal and regulatory requirements are complied with."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Exemption to financial institutions from licensing requirements in case of Underwriter, banker to an issue [, consultant to the issue] and debt securities trustee",
-          "text": [
-            "(1) In terms of section 64 of the Act, a development financial institution and scheduled bank shall be exempt from the licensing requirements to act as an underwriter, a banker to an issue [ consultant to the issue] and debt securities trustee as given in regulation 5, 6 and 7, subject to the condition that it meets all eligibility criteria given in Schedule-I:",
-            "Provided that in case of exemption relating to debt securities trustee, subclause (i) and sub-clause (ii) of clause 4 of schedule-I shall not be applicable.",
-            "[(2) Any development financial institution and scheduled bank shall obtain permission of the Commission prior to commencing the business as underwriter, a banker to an issue, consultant to the issue and debt securities trustee and the said development financial institution and scheduled bank shall submit a board resolution authorizing it to undertake the business as an underwriter, a banker to an issue, consultant to the issue and debt securities trustee along with documents specified in Annexure I of these Regulations. The development financial institution to act as an underwriter and scheduled bank to act as a banker to an issue shall pay a non-refundable fee of Rs. 500,000 and to act as Consultant to an issue, a scheduled bank and Development Financial Institution shall pay a non-refundable fee of Rs. 200,000/-, The scheduled bank to act as underwriter shall pay a non-refundable fee of Rs. 250,000/-]",
-            "(3) In case of debt securities trustee, development financial institution and scheduled bank shall pay non-refundable fee of Rs. 100,000.",
-            "(4) Any development financial institution and scheduled bank while acting as an underwriter, a banker to an issue [ consultant to the issue] and debt securities trustee shall remain compliant with all the requirements of these Regulations, Public Offering Regulations 2017 and [Structuring of Debt Regulations Securities Regulations, 2020,] where applicable.",
-            "(5) Within one month of the end of each calendar year, every development financial institution and bank engaged in the business of debt securities trustee shall submit an affidavit along with a fee of Rs. 100,000 that its compliant with all the requirements of these regulations.",
-            "[(5a) within one month of the end of each calendar year, every development financial institution engaged in the business of underwriting \"[and consultant to the issue] shall submit an affidavit along with a fee of Rs. 100,000/- that it is compliant with all the requirements of these Regulations.",
-            "Provided that a scheduled bank already licensed as an underwriter or a banker to an issue, [or consultant to an issue,] one month prior to expiry of its existing license shall submit an affidavit that it is compliant with all the requirements of these Regulations Provided further that within one month of the end of each calendar year a scheduled bank engaged in the business of underwriter \"[, consultant to the issue] and banker to an issue under regulation 12(2) shall submit an affidavit that it is compliant with all the requirements of these Regulations 6(:J.]",
-            "[Provided also that a scheduled bank which has permission or license to aci as banker to an issue under Regulation (5) or Regulation 12(2) respectively of these Regulations, within one month of the end of each calendar year or one month prior to expiry of its existing license as the case may be, shall pay fee of Rs. 250,000/ to the Commission.]",
-            "(6) Any development financial institution and scheduled bank shall become ineligible to act as underwriter, a banker to an issue [, consultant to the issue] and debt securities trustee ifit is non-compliant with any of the requirements of these Regulations including non-submission of affidavit [or applicable fee] on annual basis.]"
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Repeal and Savings",
-          "text": [
-            "(1) The Underwriters Rules, 2015 shall stand repealed.",
-            "(2) Save as otherwise specifically provided in these Regulations, nothing in these Regulations shall effect or be deemed to affect anything done, action taken, investigation or proceedings commenced, order made, unless withdrawn, withdrawn, conveyance, mortgage deed, document or agreement made, fee directed or paid or accrued, resolution passed, direction given, proceedings taken or instrument executed or issued, under or pursuant to repealed Underwriters Rules, 2015 and any such things, action, investigation, proceedings, order, appointment, any such things, action, conveyance, mortgage deed, document, agreement, fee, resolution, direction, proceedings or instrument shall if in force at the coming into force on these Regulations and not inconsistent with any of the provisions of these Rules continue to be in force and have effect as if it were respectively done, taken, commenced, made, directed, passed, given, executed or issued under these regulations."
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title, commencement and application",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Public Offering (Regulated Securities Activities Licensing) Regulations, 2017.",
+      "(2) They shall come into force at once.",
+      "(3) They shall apply to all persons carrying out activities as consultants to the issue, bankers to an issue {fn:1-1}[, underwriters and Debt Securities Trustee]."
+     ],
+     "fn": [
+      {
+       "n": "1-1",
+       "text": "Substituted for the words “and underwriters” vide SRO 1385(I)/2020 dated December 23, 2020."
+      }
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, -",
+      ">>(i) “application supported by blocked amount (ASBA)” means a bid or subscription application whose bid or subscription money is blocked in the bidder’s or applicant’s respective account maintained with the Banker to an issue or with any other scheduled bank;",
+      ">>(ii) “Act” means the Securities Act, 2015 (III of 2015);",
+      ">>(iii) “annexure” means any annexure to these Regulations;",
+      ">>(iv) “banker to an issue” means a scheduled bank licensed {fn:1-2}[or permitted] by the Commission and capable to perform all or any of the following functions:",
+      ">(a) accept applications for bidding and subscription of securities",
+      ">(b) accept the bid money and subscription money of the bids and subscription applications mentioned in clause (i) above electronically, through cheque or through any other mode as disclosed in the relevant prospectus;",
+      ">(c) block the bid money and subscription money in the respective account of the bidder and the subscriber;",
+      ">(d) unblocking or refund of bid or subscription money; and",
+      ">(e) any other related function as may be specified by the Commission from time to time;",
+      ">{fn:2-3}[(iva) “Companies Act” means the Companies Act, 2017 (XIX of 2017)];",
+      ">>{fn:2-4}[(v) “consultant to the issue” means a person licensed by the Commission:",
+      ">>(i) for undertaking the business of advising any person or undertaking regarding:",
+      ">(a) {fn:2-5}[public offer of securities and/or] compliance with or in respect of laws or regulatory requirements relating to issue or offer of securities to the public;",
+      ">(b) arrangement, reconstruction, mergers, due diligence or take-over of a listed company, subsidiary of a listed company, company undertaking an activity licensed or registered by the Commission and any other regulated financial institution and any of its assets or liabilities;",
+      ">>(ii) to act as an Investment agent for issuance of debt securities as specified in Structuring of Debt Securities Regulations, 2020;]",
+      ">{fn:2-6}[(va) “Debt Securities Trustee” means a person licensed by the Commission under the Act and appointed as Debt securities trustee by an Issuer through execution of Trust deed;]",
+      ">>(vi) “form” means a form annexed to these Regulations;",
+      ">>(vii) “issue” includes issue of securities through-",
+      ">(a) public offering by an issuer;",
+      ">(b) an offer for sale of security to the general public by an offeror; and",
+      ">(c) an offer of securities to the existing shareholders by a company or a body corporate {fn:2-7}[:",
+      "Provided that issue in case of debt securities trustee also include private placement of debt securities.]",
+      "{fn:3-8}[(viia) “issuer” shall have the same meaning as assigned to it in clause (xxvii) of section 2 of the Securities Act, 2015 (III of 2015);]",
+      "(viii) {fn:3-9}[Omitted]",
+      ">>(ix) “schedule” means a schedule annexed to these Regulations; {fn:3-10}[Omitted]",
+      ">>(x) “scheduled bank” has the same meaning as defined in clause (m) of section 2 of the State Bank of Pakistan Act, 1956 (XXXII of 1956) {fn:3-11}[; and]",
+      ">>{fn:3-12}[(xi) “underwriter” shall have the same meaning as assigned to it in clause (lxvi) of the Securities Act, 2015 (III of 2015).]",
+      "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the {fn:3-13}[Companies Act] and the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
+     ],
+     "fn": [
+      {
+       "n": "1-2",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021."
+      },
+      {
+       "n": "2-3",
+       "text": "Inserted vide S.R.O. 1569(I)/2018 dated December 26, 2018."
+      },
+      {
+       "n": "2-4",
+       "text": "Substituted for the text “(v) “consultant to the issue” means a person licensed by the Commission for undertaking the business of advising any person or undertaking regarding: (a)compliance with or in respect of laws or regulatory requirements relating to issue or offer of securities to the public; and (b)arrangement, reconstruction, mergers, due diligence or take-over of a listed company, subsidiary of a listed company, company undertaking an activity licensed or registered by the Commission and any other regulated financial institution and any of its assets or liabilities;” vide SRO 1385(I)/2020 dated December 23, 2020."
+      },
+      {
+       "n": "2-5",
+       "text": "Inserted vide S.R.O 1476(I)/2025 dated August 6, 2025"
+      },
+      {
+       "n": "2-6",
+       "text": "Inserted vide SRO 1385(I)/2020 dated December 23, 2020."
+      },
+      {
+       "n": "2-7",
+       "text": "Substituted for the semi colon (;) vide SRO 1385(I)/2020 dated December 23, 2020"
+      },
+      {
+       "n": "3-8",
+       "text": "Inserted vide S.R.O. 1569(I)/2018 dated December 26, 2018."
+      },
+      {
+       "n": "3-9",
+       "text": "Clause (viii) “Ordinance” means the Companies Ordinance, 1984 (XLVII of 1984)” omitted vide S.R.O. 1569(I)/2018 dated December 26, 2018."
+      },
+      {
+       "n": "3-10",
+       "text": "The word “and” omitted vide S.R.O. 1569(I)/2018 dated December 26, 2018."
+      },
+      {
+       "n": "3-11",
+       "text": "The full stop substituted with the expression “; and” vide S.R.O. 1569(I)/2018 dated December 26, 2018."
+      },
+      {
+       "n": "3-12",
+       "text": "Inserted vide S.R.O. 1569(I)/2018 dated December 26, 2018."
+      },
+      {
+       "n": "3-13",
+       "text": "Substituted for the word “Ordinance” vide S.R.O. 1569(I)/2018 dated December 26, 2018."
+      }
+     ]
     }
-  ],
-  "schedules": [
+   ]
+  },
+  {
+   "heading": "Chapter I",
+   "sections": [
     {
-      "title": "Schedule or annexure [See regulation 4]",
-      "text": [
-        "Eligibility criteria for license",
-        "1.. General Conditions",
-        ">(i) it is authorized by its articles and memorandum of association to act as a banker to an issue or consultant to the issue or underwriter [or debt securities trustee];",
-        ">(ii) it meets all the regulatory requirements required under the law governing its principal business; and",
-        ">(iii) it has employed at least one person at senior level who has at least five years' experience in the area of corporate finance or issue and offer of securities to the public or underwriting or accountancy or law or merger, acquisitions and reconstruction or any other relevant financial market experience as may be considered appropriate by the Commission.",
-        "Explanation:- In case, the company chief executive or any executive director meets the above experience requirement, it would be assumed to have complied with this eligibility requirement.",
-        "[Provided that paragraph (iii) shall not apply in case of Debt Securities Trustee.]",
-        "2. Specific Conditions:",
-        "(1) Banker to an issue:",
-        ">(i) it is a scheduled bank;",
-        ">(ii) it has presence in all the provinces of the country through its branches providing e-banking services;",
-        ">(iii) it is rated by a credit rating company licensed by the Commission; [ ]",
-        ">(iv) It has the ability to;",
-        ">(a) block the bid money and subscription money in the respective account of the bidder and the subscriber; and",
-        ">(b) unblock or refund the bid money and subscription money.",
-        "(2) Consultant to the issue:",
-        ">(i) it is",
-        ">(a) a licensed securities broker or wholly owned subsidiary of a securities broker; or",
-        "[(ai) a scheduled bank registered with the securities exchange as market maker for debt securities; or",
-        ">(ail) a development financial institution registered with the securities exchange as market maker for debt securities; or",
-        ">(aiv) an investment finance service license holder registered with the securities exchange as market maker for debt securities; or]",
-        ">(b) a wholly owned subsidiary of a scheduled bank or a wholly owned subsidiary of a development financial institution; or",
-        ">(c) any other company allowed by the Commission.",
-        "[Provided that Investment Finance Company can only act as Consultant to the Issue in case of public offering of debt securities and listings on the",
-        "Growth Enterprise Market:]",
-        "[Provided further that a Scheduled Bank and Development Finance",
-        "Institution can act as Consultant to the Issue in case of public offer of equity securities, public offer of debt securities, and listings on the Growth Enterprise",
-        "Market:",
-        "Provided further that a Scheduled Bank and Development Finance",
-        "Institution shall incorporate a separate subsidiary for this function within 5 years from the date of obtaining license or date of notification of amendments as applicable. If Scheduled Bank and Development Finance Institution fails to incorporate a subsidiary within 5 years from the date of obtaining license or date of notification of amendments, as applicable,it can only act as Consultant to the Issue in equity offering in consortium with a Securities Broker having a valid Consultant to the Issue license:",
-        "Provided further that a Scheduled Bank, Development Finance Development",
-        "Institution, and Investment Finance Company having license of Consultant to the Issue shall also be eligible to act as Investment Agent for issuance of debt securities.]",
-        "[(іi) in case of a securities broker, it has obtained a minimum broker fiduciary rating of BFR 3+ from a credit rating company licensed by the Commission:",
-        "Provided that all existing securities brokers licensed as Consultant to the",
-        "Issue shall obtain Broker Fiduciary Rating within such time as may be specified by the Commission;]",
-        ">(iii) in case of wholly .owned subsidiaries of a securities broker, scheduled bank or a development financial institution and any other company allowed by the",
-        "Commission, it complies with the following conditions:",
-        ">(a) it has minimum equity of [Rs 5] million; and",
-        ">(b) its sponsors and promoters, substantial shareholders, chief executive and directors fulfil the fit and proper criteria as specified in Schedule III []",
-        "[Provided that all existing companies which are already licensed as",
-        "Consultant to an issue, shall comply with minimum equity requirement of Rs. 5 million latest by December 31, 2022.]",
-        "(3) Underwriter:",
-        "[(i) it is a scheduled bank, a development financial institution, or an Asset",
-        "Management Company on behalf of Mutual Funds under its management compliant with non-banking finance companies framework;]",
-        "[(ia) a Modaraba Management Company on behalf of its Modaraba or a licensed securities broker both having minimum net worth of Rs. 100 million;]",
-        ">(ii) its credit rating, assigned by a credit rating agency licensed by the Commission, is not less than A- (long Term) and [A2] (short term).",
-        "[Provided that a Trading and Self-Clearing category securities broker with a minimum Broker rating as G[ ] specified by the Commission shall be eligible for the purposes of sub-regulation (5) of regulation 3 of the Public",
-        "Offering Regulations, 2017 subject to the condition that the amount to be underwritten shall not exceed three times of networth of such securities broker and such other conditions as may be imposed by the Commission.]",
-        "T[(4) Debt Securities Trustee:",
-        ">(i) it is a wholly owned subsidiary set up by a scheduled bank or a development financial institution or a depository company for carrying out the activities of debt securities trustee;",
-        ">(ii) it is any other company allowed by the Commission;",
-        ">(iii) it is authorized by its memorandum of association to act as a Debt securities trustee;",
-        ">(iv) its equity is not less than fifty million rupees;",
-        ">(v) its entity credit rating, assigned by a credit rating company licensed by the",
-        "Commission, is not less than A- (single A minus) and such rating is not more than six months old;",
-        ">(vi) it has necessary infrastructure for performing efficient and uninterrupted functions as debt securities trustee: and",
-        ">(vii) its chief executive or any of its executive directors or the senior management officer heading the Debt securities trustee function has at least three years' experience of providing services as a Debt securities trustee or has at least three years' experience of working at the senior management level in any regulated financial services sector.]"
-      ]
+     "no": "3",
+     "title": "Prohibition",
+     "page": 3,
+     "text": [
+      "No person shall act as or perform the functions of banker to an Issue, consultant to the issue {fn:3-14}[, underwriter and debt securities trustee] unless such person is licensed {fn:3-15}[or has permission] by the Commission under these Regulations.",
+      "Provided that a person registered as an underwriter prior to coming into force of these Regulations, shall be deemed to be licensed as an underwriter under these Regulations and shall comply with all the requirements of these Regulations within a period of one year from the date of coming into force of these Regulations.",
+      "Provided further that any person providing services as banker to an Issue and consultant to the issue at the time of coming into force of these Regulations shall obtain license under these Regulations within a period of six months from the date of notification of these Regulations in the Official Gazette. A person which is compliant with the eligibility criteria mentioned in these Regulations and has not yet obtained a license under these Regulations may provide services as banker to an issue and consultant to the issue during this six-month period."
+     ],
+     "fn": [
+      {
+       "n": "3-14",
+       "text": "Substituted for the words “and underwriter” vide SRO 1385(I)/2020 dated December 23, 2020"
+      },
+      {
+       "n": "3-15",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021."
+      }
+     ]
     },
     {
-      "title": "'SCHEDULE II (See regulation 5 and 7]",
-      "text": [
-        "Fresh license fee",
-        "Sr. Name of regulated securities activity Fresh license fee",
-        "No.",
-        "1 Consultant to the issue Rs.200,000/-",
-        "2 Underwriter Rs.250,000/-]",
-        "[3 Debt Securities Trustee Rs.100,000/-]",
-        "[See regulation 4 and schedule 1]",
-        "FIT & PROPER CRITERIA FOR SPONSORS AND PROMOTERS, CHIEF",
-        "EXECUTIVE AND DIRECTORS OF THE CONSULTANT TO THE ISSUE",
-        "(1) The fitness and propriety of any person shall be assessed by taking into account all the relevant factors including but not limited to the following:",
-        ">(a) Integrity and track record of such person;",
-        ">(b) Financial soundness of such a person;",
-        ">(c) Competence and capability of the person; and",
-        ">(d) Conflict of interest of such person with the business of the consultant to the issue issue",
-        "Provided that I (c) and (d) shall not be considered while assessing the fitness & propriety of sponsors and promoters and substantial shareholders of the consultant to the issue.",
-        "(2) The Fit and Proper Criteria is perpetual in nature and the company shall ensure compliance with the provisions of Fit and Proper Criteria.",
-        "ASSESSMENT OF FITNESS AND PROPRIETY",
-        ">(a) Integrity and Track Record",
-        "A person shall not be considered Fit and Proper if he:",
-        ">(i) has been convicted of an offence involving moral turpitude;",
-        ">(ii) has been involved in the mismanagement of investments, financial or business misconduct, fraud etcetera;",
-        ">(iii) has been the subject to adverse findings, after conducting an inquiry, by the",
-        "Commission or any other regulatory or professional body or government agency;",
-        ">(iv) has been actively involved in the management of a company or firm whose registration or license has been revoked or cancelled or which has gone into liquidation or other similar proceedings due to mismanagement of affairs, financial misconduct or malpractices;",
-        ">(v) is ineligible, under the Act, [Companies Act] or any other legislation or regulation, from acting as a director or serving in a managerial capacity of any other company;",
-        ">(vi) has entered into a plea bargain arrangement with the National Accountability",
-        "Bureau [:]",
-        "[Provided that individuals subject to fit and proper criteria shall provide an affidavit stating that no investigation is initiated by any Law Enforcement",
-        "Agency (LEA) against such person and in case of any investigation has been initiated, the fact must be disclosed.",
-        "Provided further that in case of any investigation initiated by LEAs against CEO or any director of the subject company, the board of directors of the company shall decide whether to retain such CEO or director and record reasons in writing for the same.]",
-        ">(vil) in case of promoters or substantial shareholder of the company, does not have the requisite disclosed and verifiable financial resources; and",
-        ">(viii) in case of promoters or sponsors or substantial shareholders of a company, does not have special knowledge of matters which the company may have to deal with as a Consultant to the issue.",
-        ">(b) Financial soundness",
-        "In determining a person's financial soundness, the following shall be considered:",
-        ">(i) whether such person's financial statements or record including wealth statements or income tax returns or assessment orders are available;",
-        ">(ii) whether the person has been declared by a court of competent jurisdiction as defaulter in repayment of loan to a financial institution;",
-        ">(iii) whether any instance of overdue or past due payment to a financial institution, irrespective of amount, is appearing in the overdue column of latest CIB report of the person and of the companies, firms, sole proprietorship etc. where the person is a chief executive, director (other than nominee director), owner or partner etc.",
-        "Provided that the Commission shall provide an opportunity of making representation to the person in case of overdue or past due payment;",
-        "Provided further that the following exceptions may be granted by the Commission for the purpose of this sub-clause in case where:-",
-        ">(a) Amount overdue is under litigation and the same is also appearing as amount under litigation in the CIB report; and",
-        ">(b) No overdue payment appearing in the overdue column in the subsequent latest CIB report;",
-        ">(iv) whether the person has applied to be adjudicated as an insolvent and his application is pending;",
-        ">(v) whether the person is an un-discharged insolvent;",
-        ">(vi) whether the person has been declared a defaulter by securities exchange, commodity exchange, clearing house, central depository and / or defaulted in payment of taxes in individual capacity or as a proprietary concern or any partnership firm or as director in an private unlisted and listed company; and",
-        ">(vii) whether the person has been a director and or/chief executive of any company or body corporate which has defaulted in payment of government duties/taxes.",
-        ">(c) Competence and Capability",
-        "In determining a person's competence and capability the following shall be considered:",
-        ">(i) the directors should be individuals (and at least one director should have]",
-        "management or business experience of at least five years at a senior level;",
-        ">(ii) [At least one of the directors and alll senior management officer may have experience and knowledge in the field of Corporate Finance, Issue and offer of securities to the public or underwriting or accountancy or law or merger, acquisition and reconstruction or any other field ancillary to the capital market or financial market;",
-        ">(iii) the chief executive should have a minimum experience of seven years in a senior management position, preferably in capital market or financial market sector;",
-        ">(iv) the chief executive should have completed master's degree in business administration, accounting, finance, commerce, economics, statistics or mathematics from any university duly recognized by Higher Education",
-        "Commission of Pakistan and demonstrated, through his qualification and experience, the capacity to successfully undertake the cognate responsibilities of the position; and",
-        ">(v) the persons must be fully conversant with the duties of chief executive and director as the case may be, as prescribed under the statutes, rules and",
-        "Regulations, memorandum and articles of association and the code of corporate governance",
-        ">(d) Conflict of interest",
-        "The directors and chief executive shall not be a director in any other company engaged in a similar business in Pakistan."
-      ]
+     "no": "4",
+     "title": "Eligibility criteria for license",
+     "page": 3,
+     "text": [
+      "_ A person may apply to the Commission for grant of license under these Regulations, if such person fulfills the conditions given in Schedule-I:"
+     ]
     },
     {
-      "title": "FORM A [See regulation 5(1)] APPLICATION FOR I[LICENSE] AS *UNDER THE PUBLIC OFFERING (REGULATED SECURITIES ACTIVITIES LICENSING)",
-      "text": [
-        "REGULATIONS, 2017.",
-        "To",
-        "The Securities and Exchange Commission of Pakistan (Full Address of SECP)",
-        "Pursuant to the decision of the board of directors (BOD) of . [name of applicant] ........ taken in its meeting held on ....... [date of meeting] ...., we hereby apply for license as under regulation 5 of the Public Offering (Regulated",
-        "Securities Activities Licensing) Regulations, 2017. (the Regulations) read with section 68 of the Securities Act, 2015. The requisite information and documents mentioned at",
-        "Annexure I of the Regulations are attached herewith.",
-        "Date:",
-        "Signature:",
-        "Place:",
-        "Name and designation of the chief executive, the company secretary or the chief financial officer duly authorized by the BoD through a resolution to sign and submit application for registration as",
-        "*Name of the regulated securities activity"
-      ]
+     "no": "5",
+     "title": "Application and procedure for granting of license",
+     "page": 4,
+     "text": [
+      "(1) An application for a license shall be made to the Commission on Form A along with the documents specified in Annexure I and receipt evidencing payment of non-refundable fee as specified in the Schedule II.",
+      "{fn:4-16}[Provided that an applicant which is eligible for Trading and Self-Clearing or Trading and Clearing category of licence as a securities broker under the Securities Brokers (Licensing and Operations) Regulations, 2016 and has opted to apply for licence of consultant to the issue and/or underwriter as part of application for licence of a securities broker or application for conversion to any category of securities brokers shall not be required to submit a separate application for licence under these regulations.]",
+      "(2) The Commission, while considering the application for grant of license, may require the applicant to furnish such further information or clarification regarding its activities and businesses as it deems appropriate.",
+      "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-regulation (1) shall be intimated to the Commission within seven working days from the date of such change.",
+      "(4) The applicant shall, if so required, by the Commission, appear before the Commission for personal representation through an officer duly authorized for this purpose in writing by the board of directors of the applicant."
+     ],
+     "fn": [
+      {
+       "n": "4-16",
+       "text": "Inserted vide SRO 76 (I)/2020 dated February 3, 2020"
+      }
+     ]
     },
     {
-      "title": "Annexure-I [See regulation 5(1) /& Regulation 12 and Form All LIST OF DOCUMENTS TO BE SUBMITTED ALONGWITH APPLICATION",
-      "text": [
-        "UNDER REGULATION 5(1) FOR LICENCE",
-        "2(The following documents and information shall be provided by the Applicant which is a licensed securities broker, a scheduled bank, a development financial institution, an investment finance service license holder, lan Asset Management Company on behalf of",
-        "Mutual Funds under its management, a Modaraba management company on behalf of its",
-        "Modaraba] and who meets eligibility criteria as prescribed in Schedule I of these",
-        "Regulations, to the Commission along with application under regulation 5(1) for license or under Regulation 12 for obtaining permission, where applicable:-]",
-        "[1. copy of Memorandum of Association of Applicant with enabling clause to act as [1. copy of Memorandum of Association of Applicant with enabling clause to act as",
-        "Underwriter or Consultant to an issue or debt securities trustee;",
-        "2. undertaking from the Applicant that it is compliant with all the regulatory requirements of these regulations",
-        "3. latest Credit Rating/ [ 1 Broker fiduciary rating (where applicable) from a credit rating company duly licensed by the Commission.",
-        "4. in case of Banks DfIs or Investment Finance Services, to act as consultant to an issue, confirmation from securities exchange that the Applicant is registered/appointed with it as market maker and compliant with all relevant requirements;",
-        "DOCUMENTSREQUIRED IN CASE OF WHOLLY OWNED SUBSIDIARY OF A",
-        "SECURITIES BROKER, A WHOLLY OWNED SUBSIDIARY OF A SCHEDULED",
-        "BANK OR A WHOLLY OWNED SUBSIDIARY OF A DEVELOPMENT FINANCIAL",
-        "INSTITUTION, AND A COMPANY UNDER CLAUSE 2(i)(C) OF SUB.",
-        "PARAGRAPH (2) OF THE SCHEDULE I OF THE REGUALTIONS TO ACT AS",
-        "CONSULTANT TO THE ISSUE & CLAUSE 4(i) &(ii) OF THE SCHEDULE I OF",
-        "THE REGUALTIONS TO ACT AS DEBT SECURITIES TRUSTEE",
-        ">(i) Brief history of the applicant containing name of the applicant; date and place of its incorporation; date of commencement of business; length of experience, if any; names of its sponsors and promoters; group structure, if any, its associated companies",
-        ">(ii) Last annual audited account accounts.",
-        ">(iii) Address of the registered office of the applicant (postal address, postal code and telephone and fax numbers).",
-        ">(iv) Profile of chief executive officer, chief financial officer, company secretary, compliance officer, directors and sponsors ofthe applicant Name, qualification, experience and date of appointment. Directorship in other companies, if any, names of such other companies and date of appointment as director in such other companies.",
-        ">(v) Copy of memorandum and articles of association",
-        ">(vi) Detail of ongoing legal proceedings, if any, initiated against the applicant by the",
-        "Commission or any other regulatory authority.",
-        ">(vii) An affidavit on the pattern as specified in Annexure-II signed by the chief executive or director or any other officer of the applicant authorized to do so.",
-        ">(viii) Latest Credit Rating/ (Broker Fiduciary Rating] (where applicable) from credit rating company duly licensed by the Commission",
-        ">(ix): Detail of penal action taken against company or its director, CEO or sponsors",
-        ">(x) In case any group or company of the applicant is already licensed under these",
-        "Regulations, the following details shall be provided:",
-        ">(a) Name of such group or company;",
-        ">(b) Detail of warning notices, if any, issued to such group or company by the",
-        "Commission during the last three years;",
-        ">(c) Detail of ongoing legal proceedings, if any, initiated against such group or company by the Commission; and",
-        ">(d) Penal action, if any, taken against such group or company by the Commission during the last three years.",
-        ">(xi) List of financial or criminal offenses in which the applicant or any of its sponsors or directors has remained involved during the last three years.",
-        ">(xii) Procedure for redressal of complaints lodged by the investors.",
-        "(хiii) Date-wise breakup of the Issues in which the applicant acted as consultant to the issue or underwriter or debt securities trustee during the last three years, if any",
-        ">(xiv) Any other information required by Commission.]",
-        "Instructions:-",
-        ">(a) The applicant must submit application for seeking licence under sub-regulation (1) of regulation 5 on Form A duly filled in and signed, together with supporting documents to the Securities and Exchange Commission of Pakistan.",
-        ">(b) All columns of the application on Form A should be filled in. In case a column is not relevant or not applicable, the same should also be filled in as \"Not Applicable\" or",
-        "\"Not Relevant\".",
-        ">(c) Information, which needs to be supplied in more details may be provided on separate sheets and attached to the application."
-      ]
+     "no": "6",
+     "title": "Grant of license",
+     "page": 4,
+     "text": [
+      "__ (1) The Commission, while considering the application made under sub-section (1) of regulation 5, shall beside the requirements mentioned under subsection (2) of section 69 of the Act inter-alia take into account the following matters, namely:-",
+      ">(a) that the applicant meets requirements of the Act, these regulations and any general or particular directions earlier given by the Commission;",
+      ">(b) that the applicant has the ability to efficiently handle its functions and honor its obligations in accordance with the Act and the rules and regulations made thereunder;",
+      ">(c) that the applicant has the necessary infrastructure including but not limited to adequate office space, infrastructure, experienced and skilled manpower to effectively and efficiently discharge its responsibilities.",
+      ">(d) earlier refusal, if any, by the Commission for grant of license under these regulations and Act;",
+      ">{fn:4-17}[(e) the applicant and its sponsors/directors or CEO are fit and proper as per {fn:4-18}[criteria specified by the Commission]]",
+      ">(f) any pending penal action against the applicant, its sponsors, directors or chief executive for an offence under the Act, the {fn:5-19}[Companies Act] or the Securities and Exchange Commission of Pakistan Act, 1997;",
+      "{fn:5-20}[omitted]",
+      ">>(i) the experience and expertise of the relevant employees; and",
+      ">(j) any other matter as is deemed necessary by the Commission.",
+      "(2) The Commission, if deems necessary, may seek additional information about the applicant from other agencies and regulatory bodies and may also conduct a pre-license assessment or a visit of the premises of the applicant to verify the genuineness of the submitted information.",
+      "(3) The Commission on being satisfied, after conducting such inquiries and after obtaining such further information as it deems appropriate, that-",
+      ">(a) the applicant is eligible for license;",
+      ">(b) the applicant is in compliance with the provisions of the Act, these regulations and any directive, guidelines, or code issued thereunder; and",
+      ">(c) it is in the interest of capital market;",
+      "may grant a license to the applicant on Form B subject to such conditions or restrictions as it considers necessary.",
+      "(4) The license shall remain valid for a period of one year from the date of its grant unless it is restricted, suspended or cancelled earlier by the Commission"
+     ],
+     "fn": [
+      {
+       "n": "4-17",
+       "text": "Substituted for the text “(e) conviction or involvement of the applicant, its sponsors, directors, or chief executive in an offence involving fraud or breach of trust;” vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "4-18",
+       "text": "Substituted for the expression “section 151 of the Act” vide SRO 537(I)/2022 dated April 19, 2022"
+      },
+      {
+       "n": "5-19",
+       "text": "Substituted for the word “Ordinance” vide S.R.O. 1569(I)/2018 dated December 26, 2018."
+      },
+      {
+       "n": "5-20",
+       "text": "Deleted the text “(g) any over dues or defaults, irrespective of the amount, appearing in the reports of the Credit Information Bureau of the State Bank of Pakistan of the following,- (I) the applicant, its sponsors, chief executive, directors and associates; and (II) the companies, firms, sole proprietorship where the chief executive, directors and sponsors of the applicant are chief executive, directors (other than nominee director) or sponsors; (h) The applicant’s past experience/ track record, if any; “ vide SRO 1395(I)/2021 dated October 27, 2021"
+      }
+     ]
     },
     {
-      "title": "Annexure-II [See [clause vii] of Annexure I)",
-      "text": [
-        "(On stamp paper of appropriate value)",
-        "AFFIDAVIT",
-        "- son/daughter/wife of adult, resident of and holding CNIC/Passport",
-        "No. do hereby state on solemn affirmation as under:-",
-        "1. That I am the chief executive/director of ....... (name of the applicant)...... and as such I am well conversant with the facts stated below.",
-        "2. That the statements made and the information and documents provided along with the application for licence as *under the Public Offering (Regulated Securities",
-        "Activities Licensing) Regulations, 2017. are correct to the best of my knowledge and belief and no facts have been concealed.",
-        "3. That the Securities and Exchange Commission of Pakistan will be notified of any change in the information provided to it along with the application for licence under regulation 5 of the said Regulations during the period the applications for licence is being considered.",
-        "4. That all the documents provided to the Securities and Exchange Commission of",
-        "Pakistan are true copies of the originals.",
-        "[5. That the .....(name of applicant)....is compliant with all the regulatory requirements of these regulations.]",
-        "That I do hereby verify that the statements made above are correct to the best of my knowledge and belief and nothing has been concealed therein.",
-        "DEPONENT",
-        "The Deponent is identified by me",
-        "Signature",
-        "• ADVOCATE (Name and Seal)",
-        "Solemnly affirmed before me on this day of at by the",
-        "Deponent above named who is identified to me by , Advocate.",
-        "Signature _",
-        "OATH COMMISSIONER FOR",
-        "TAKING AFFIDAVIT (Name and Seal)",
-        "*Name of the regulated securities activity"
-      ]
+     "no": "7",
+     "title": "Renewal of License",
+     "page": 5,
+     "text": [
+      "{fn:5-21}[(l) Subject to the provisions of the Act and these regulations, consultant to the issue or underwriter {fn:5-22}[or Debt Securities Trustee] shall, one month prior to the date of expiry of its license, apply to the Commission on Form C along with an undertaking that it is compliant with all the regulatory requirements] {fn:5-23}[:",
+      "Provided that a securities broker having valid license to act as consultant to the issue or underwriter shall apply, to the Commission in Form C of these Regulations or Form C of Securities Brokers (Licensing & Operations) Regulations, 2016 along with an undertaking stating that it is in compliance with all regulatory requirements.]",
+      "(2) The Commission upon being satisfied that the applicant continues to meet the requirements for licensing and is eligible for renewal of license shall renew the license and issue a certificate of renewal of license to the applicant on Form D.",
+      "(3) Where the application for renewal of license is made within such time period as specified in sub-regulation (1) but has not been decided by the Commission, the license shall continue to be valid until the application for renewal is decided by the Commission.",
+      "(4) While granting renewal of license, the Commission may, in addition to the criterion laid down for grant of a license, also take into account the past performance of the applicant."
+     ],
+     "fn": [
+      {
+       "n": "5-21",
+       "text": "Substituted for the text “(1) Subject to the provisions of the Act and these regulations, a banker to an issue or consultant to the issue or underwriter shall, one month prior to the date of expiry of its license, apply to the Commission on Form C along with all the documents as specified in Annexure III and receipt evidencing payment of non-refundable fee as specified in Schedule- II for renewal of its license.” Vide SRO 76 (I)/2020 dated February 3, 2020"
+      },
+      {
+       "n": "5-22",
+       "text": "Inserted vide SRO 1385(I)/2020 dated December 23, 2020"
+      },
+      {
+       "n": "5-23",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      }
+     ]
     },
     {
-      "title": "Form-B [see Regulations 6(3)] SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN LICENCE AS",
-      "text": [
-        "Islamabad, the ... (date).....",
-        "Licence No ..",
-        "1. The Securities and Exchange Commission of Pakistan, having considered the application for licence as *under regulation 5(1) of the Public Offering (Regulated Securities Activities Licensing) Regulations, 2017. (the Regulations) by ......",
-        "[Name of the applicant] ...... and being satisfied that the said ...... [Name of the applicant]...... is eligible for licence and that it would be in the interest of the securities market so to do, hereby grants licence, in exercise of the powers conferred by regulation",
-        "6(2) of the Regulations to .... [Name of the applicant].... as *to carry out the activities as specified in the Regulations subject to the condition that .... [Name of the applicant] ........., shall comply with all the provisions of the Regulations, Public Offering",
-        "Regulations 2017 and other conditions that may be imposed hereafter.",
-        "2. Unless cancelled or suspended this licence is valid for a period of one year from the date of this licence or the existence of ..... [Name of the applicant] .., whichever is earlier provided that it remains eligible under the Regulations for licence as",
-        "For and on behalf of the",
-        "Securities and Exchange Commission of Pakistan (Authorized Signatory)",
-        "*Name of regulated securities activity"
-      ]
+     "no": "8",
+     "title": "Procedure where license is not granted or renewed",
+     "page": 6,
+     "text": [
+      "(1) The Commission, after giving a reasonable opportunity of being heard to the applicant, may refuse to grant or renew the licence if in opinion of the Commission such applicant does not fulfill the requirements prescribed in these regulations or where the Commission after taking into account the facts, is of the view that it is not in the public interest or in the interest of the capital market to grant or renew such licence.",
+      "(2) The refusal to grant a licence or to renew a licence shall be communicated to the applicant within sixty days of the receipt of application under regulation 6 or 7, as the case may be, stating therein the grounds on which the application has been rejected.",
+      "(3) The applicant whose application for grant of a licence or renewal thereof is refused by the Commission shall, from the date of receipt of the decision of the Commission under subregulation (2), cease to act, or to perform the functions, as banker to an issue or consultant to the issue or underwriter {fn:6-24}[or Debt Securities Trustee] in any new issue.",
+      "(4) The banker to an issue or consultant to the issue or underwriter whose application for renewal of licence is refused by the Commission shall continue to act as banker to an issue or consultant to the issue or underwriter in all the ongoing issues in which they are acting as banker to an issue or consultant to the issue or underwriter till the completion of such issue.",
+      "{fn:6-25}[(4a) A Debt securities trustee whose application for renewal of license is refused by the Commission shall continue to act as such in all previous Issues in which it is acting as Debt securities trustee till the appointment of any other Debt securities trustee by the issuer or complete redemption of such Issues, whichever is earlier:",
+      "Provided that the appointment of any other Debt securities trustee should be made within such time period as mentioned in the refusal order but not exceeding 60 days from the date of such refusal.]",
+      "(5) The banker to an issue or consultant to the issue or underwriter {fn:6-26}[or Debt Securities Trustee] whose application for renewal of license is refused shall intimate all their existing customers, if any, of this fact within a period of fourteen days from the date of receipt of such refusal."
+     ],
+     "fn": [
+      {
+       "n": "6-24",
+       "text": "Inserted vide SRO 1385(I)/2020 dated December 23, 2020"
+      },
+      {
+       "n": "6-25",
+       "text": "Inserted vide SRO 1385(I)/2020 dated December 23, 2020"
+      },
+      {
+       "n": "6-26",
+       "text": "Inserted vide SRO 1385(I)/2020 dated December 23, 2020"
+      }
+     ]
     },
     {
-      "title": "FORM-C [see regulation 7(1)] APPLICA TION FOR RENEWAL OF LICENCE AS",
-      "text": [
-        "Tо,",
-        "The Securities and Exchange Commission of Pakistan",
-        "Pursuant to the decision of the Board of Directors of .... [Name of the Applicant]",
-        "taken in its meeting held on ...... (Date of Meeting] ..... we hereby apply for renewal of licence as an *under sub-regulation (1) of regulation 7 of the Public",
-        "Offering (Regulated Securities Activities Licensing) Regulations, 2017. 1| ]",
-        "Date:",
-        "Signature: _",
-        "Place.",
-        "officer duly authorized by the BoD through a resolution to sign and submit application for registration as",
-        "*Name of regulated securities activity"
-      ]
+     "no": "9",
+     "title": "Duties and Functions",
+     "page": 7,
+     "text": [
+      "{fn:7-27}[– A banker to an issue, consultant to the issue, Debt Securities Trustee and underwriter shall perform their duties and functions and discharge their obligations {fn:7-28} [and responsibilities] as specified in the Public Offering Regulations, 2017; Structuring of Debt Securities Regulations, 2020 and Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017, as applicable] [:",
+      "Provided that in case of scheduled bank, investment finance service license holder and development financial institution registered with the securities exchange as market maker for debt securities, it shall be compliant with all the requirements laid down by the securities exchange relating to market making.]"
+     ],
+     "fn": [
+      {
+       "n": "7-27",
+       "text": "Substituted for the text “9. Duties and Functions. -A banker to an issue, consultant to the issue and underwriter shall perform their duties and functions and discharge their obligations as specified in the Public Offering Regulations, 2017 and Listed Companies (Substantial Acquisition of Voting Shares and Takeovers) Regulations, 2017.” Vide SRO 1385(I)/2020 dated December 23, 2020"
+      },
+      {
+       "n": "7-28",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Procedure for voluntary cancellation of license",
+     "page": 7,
+     "text": [
+      "{fn:7-29}[(1) A banker to an issue or consultant to the issue or underwriter or debt securities trustee may voluntarily apply to the Commission for cancellation of its license {fn:7-30}[or permission] at least three months prior to the date of expiry of its license.]",
+      "(2) The Commission may, upon being satisfied that the banker to an issue or consultant to the issue or underwriter {fn:7-31}[or debt securities trustee] has completed all the formalities for closure of business, accept the application made under sub-regulation (1) and cancel the license of such banker to an issue or consultant to the issue or underwriter {fn:7-32}[or debt securities trustee or revoke permission granted to them].",
+      "(3) Upon cancellation of license {fn:7-33}[or revocation of permission], name of the banker to an issue or consultant to the issue or underwriter {fn:7-34}[or debt securities trustee] shall be excluded from the register of the regulated persons maintained by the Commission under section 72 of the Act."
+     ],
+     "fn": [
+      {
+       "n": "7-29",
+       "text": "Substituted for the text “(1) A banker to an issue or consultant to the issue or underwriter may voluntarily apply to the Commission for cancellation of its licence at least three months prior to the date of expiry of its licence.” vide SRO 1385(I)/2020 dated December 23, 2020"
+      },
+      {
+       "n": "7-30",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "7-31",
+       "text": "inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "7-32",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "7-33",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "7-34",
+       "text": "inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Maintenance of records by Underwriter and Consultant to the Issue",
+     "page": 7,
+     "text": [
+      "(1) In addition to the requirements of section 79 of the Act, banker to an issue or consultant to the issue or underwriter shall also properly maintain all record relating to the Issue to which it is acting as a banker to an issue or consultant to the issue or underwriter for a period of at least ten years from the date of completion of its assignment.",
+      "(2) The Underwriter and Consultant to the Issue shall, -",
+      ">(a) ensure that the record is kept at such a place and maintained in such a manner that the Commission or any person appointed by it has easy access to it; and",
+      ">(b) establish and follow record retention policy which shall ensure that all relevant legal and regulatory requirements are complied with."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Exemption to financial institutions from licensing requirements in case of Underwriter, banker to an issue [, consultant to the issue] and debt securities trustee",
+     "page": 8,
+     "text": [
+      "{fn:8-35}[ (1) In terms of section 64 of the Act, a development financial institution and scheduled bank shall be exempt from the licensing requirements to act as an underwriter, a banker to an issue {fn:8-37}[, consultant to the issue]and debt securities trustee as given in regulation 5, 6 and 7, subject to the condition that it meets all eligibility criteria given in Schedule-I:",
+      "Provided that in case of exemption relating to debt securities trustee, sub-clause (i) and sub-clause (ii) of clause 4 of schedule-I shall not be applicable.",
+      "{fn:8-38}[(2) Any development financial institution and scheduled bank shall obtain permission of the Commission prior to commencing the business as underwriter, a banker to an issue, consultant to the issue and debt securities trustee and the said development financial institution and scheduled bank shall submit a board resolution authorizing it to undertake the business as an underwriter, a banker to an issue, consultant to the issue and debt securities trustee along with documents specified in Annexure I of these Regulations. The development financial institution to act as an underwriter and scheduled bank to act as a banker to an issue shall pay a non-refundable fee of Rs. 500,000 and to act as Consultant to an issue, a scheduled bank and Development Financial Institution shall pay a non-refundable fee of Rs. 200,000/-. The scheduled bank to act as underwriter shall pay a non-refundable fee of Rs. 250,000/-.]",
+      "(3) In case of debt securities trustee, development financial institution and scheduled bank shall pay non-refundable fee of Rs. 100,000.",
+      "(4) Any development financial institution and scheduled bank while acting as an underwriter, a banker to an issue {fn:9-39}[, consultant to the issue] and debt securities trustee shall remain compliant with all the requirements of these Regulations, Public Offering Regulations 2017 and {fn:9-40}[Structuring of Debt Securities Regulations, 2020,] where applicable.",
+      "(5) Within one month of the end of each calendar year, every development financial institution and bank engaged in the business of debt securities trustee shall submit an affidavit along with a fee of Rs. 100,000 that its compliant with all the requirements of these regulations.",
+      "{fn:9-41}[(5a) within one month of the end of each calendar year, every development financial institution engaged in the business of underwriting {fn:9-42}[and consultant to the issue] shall submit an affidavit along with a fee of Rs. 100,000/- that it is compliant with all the requirements of these Regulations.",
+      "Provided that a scheduled bank already licensed as an underwriter or a banker to an issue, {fn:9-43}[or consultant to an issue] one month prior to expiry of its existing license shall submit an affidavit that it is compliant with all the requirements of these Regulations",
+      "Provided further that within one month of the end of each calendar year a scheduled bank engaged in the business of underwriter {fn:9-44}[, consultant to the issue] and banker to an issue under regulation 12(2) shall submit an affidavit that it is compliant with all the requirements of these Regulations] {fn:9-45}[:",
+      "Provided also that a scheduled bank which has permission or license to act as banker to an issue under Regulation (5) or Regulation 12(2) respectively of these Regulations, within one month of the end of each calendar year or one month prior to expiry of its existing license as the case may be, shall pay fee of Rs. 250,000/ to the Commission.]",
+      "(6) Any development financial institution and scheduled bank shall become ineligible to act as underwriter, a banker to an issue {fn:9-46}[, consultant to the issue] and debt securities trustee if it is non-compliant with any of the requirements of these Regulations including non-submission of affidavit [or applicable fee] on annual basis.]"
+     ],
+     "fn": [
+      {
+       "n": "8-35",
+       "text": "Substituted for the text “12. Exemption to financial institutions from licensing requirements in case of Underwriter and banker to an issue: (1) In terms of section 64 of the Act, a development financial institution and scheduled bank shall be exempt from the licensing requirements to act as an underwriter and a banker to an issue as given in regulation 5, 6 and 7, subject to the condition that it meets all eligibility criteria given in Schedule-I. (2) Any development financial institution and scheduled bank shall obtain approval of the Commission prior to commencing the business as underwriter and a banker to an issue. The said development financial institution and scheduled bank shall submit a board resolution authorizing it to undertake the business as an underwriter and a banker to an issue. The development financial institution to act as an underwriter and scheduled bank to act as a banker to an issue shall pay a non-refundable fee of Rs. 500,000/. In case of scheduled bank to act as underwriter, it shall pay a non-refundable fee of Rs. 250,000/- (3) Any development financial institution and scheduled bank while acting as an underwriter and a banker to an issue shall remain compliant with all the requirements of these Regulations and Public Offering Regulations 2017. (4) Within one month of the end of each calendar year, every development financial institution engaged in the business of underwriting shall submit an affidavit along with a fee of Rs 100,000/- that it is compliant with all the requirements of these Regulations. Provided that a scheduled bank already licensed as an underwriter or a banker to an issue, one month prior to expiry of its existing license shall submit an affidavit that it is compliant with all the requirements of these Regulations. Provided further that within one month of the end of each calendar year a scheduled bank engaged in the business of underwriter and banker to an issue under regulation 12(2) shall submit an affidavit that it is compliant with all the requirements of these Regulations. (5) Any development financial institution and scheduled bank shall become ineligible to act as underwriter and a banker to an issue if it is non-compliant with any of the requirements of these Regulations including non-submission of affidavit on annual basis.” vide SRO 1385(I)/2020 dated December 23, 2020"
+      },
+      {
+       "n": "8-36",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "8-37",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "8-38",
+       "text": "Substituted for the text “(2) Any development financial institution and scheduled bank shall obtain approval of the Commission prior to commencing the business as underwriter, a banker to an issue and debt securities trustee and the said development financial institution and scheduled bank shall submit a board resolution authorizing it to undertake the business as an underwriter, a banker to an issue and debt securities trustee. The development financial institution to act as an underwriter and scheduled bank to act as a banker to an issue shall pay a non-refundable fee of Rs. 500,000/. The scheduled bank to act as underwriter shall pay a non- refundable fee of Rs. 250,000/-.” Vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "9-39",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "9-40",
+       "text": "Substituted for the words “structuring of debt securities regulations, 2020,” vide S.R.O 1476(I)/2025 dated August 6, 2025"
+      },
+      {
+       "n": "9-41",
+       "text": "Inserted vide SRO 50(I)/2020 dated January 18, 2021"
+      },
+      {
+       "n": "9-42",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "9-43",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "9-44",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "9-45",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      },
+      {
+       "n": "9-46",
+       "text": "Inserted vide SRO 1395(I)/2021 dated October 27, 2021"
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Repeal and Savings",
+     "page": 9,
+     "text": [
+      "(1) The Underwriters Rules, 2015 shall stand repealed.",
+      "(2) Save as otherwise specifically provided in these Regulations, nothing in these Regulations shall effect or be deemed to affect anything done, action taken, investigation or proceedings commenced, order made, unless withdrawn, conveyance, mortgage deed, document or agreement made, fee directed or paid or accrued, resolution passed, direction given, proceedings taken or instrument executed or issued, under or pursuant to repealed Underwriters Rules, 2015 and any such things, action, investigation, proceedings, order, appointment, conveyance, mortgage deed, document, agreement, fee, resolution, direction, proceedings or instrument shall if in force at the coming into force on these Regulations and not inconsistent with any of the provisions of these Rules continue to be in force and have effect as if it were respectively done, taken, commenced, made, directed, passed, given, executed or issued under these regulations."
+     ]
     }
-  ],
-  "frontNotes": [],
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure-I",
+   "page": 20
+  },
+  {
+   "title": "Annexure-Ii",
+   "page": 23
+  }
+ ]
 }

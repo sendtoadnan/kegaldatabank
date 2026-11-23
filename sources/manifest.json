@@ -1979,17 +1979,17 @@
    "Buy-back Regulations 2019",
    "Listed Companies Buy-back Regulations"
   ],
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
+  "amendedUpTo": "2022-09-15",
+  "amendedUpToLabel": "SECP consolidated PDF, updated 15 September 2022",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "file": "listed-companies-buy-back-regulations-2019.pdf"
  },
  {
   "id": "employees-contributory-funds-investment-regulations-2018",
@@ -2215,17 +2215,17 @@
    "Auditors Reporting Obligations Regulations"
   ],
   "enacted": "2018-04-26",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 558(I)/2018",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
+  "amendedUpTo": "2024-04-01",
+  "amendedUpToLabel": "SECP consolidated PDF, amended till 1 April 2024",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "file": "auditors-reporting-obligations-regulations-2018.pdf"
  },
  {
   "id": "listed-companies-takeovers-regulations-2017",
@@ -2241,17 +2241,17 @@
    "Takeovers Regulations"
   ],
   "enacted": "2017-08-01",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 749(I)/2017",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
+  "amendedUpTo": "2024-01-24",
+  "amendedUpToLabel": "SECP consolidated PDF, updated 24 January 2024",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "file": "listed-companies-takeovers-regulations-2017.pdf"
  },
  {
   "id": "sukuk-privately-placed-regulations-2017",
@@ -2794,17 +2794,17 @@
    "Futures Exchanges Regulations"
   ],
   "enacted": "2017-06-22",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 510(I)/2017",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
+  "amendedUpTo": "2025-02-07",
+  "amendedUpToLabel": "SECP consolidated PDF, updated till 7 February 2025",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "file": "futures-exchanges-regulations-2017.pdf"
  },
  {
   "id": "bond-pricing-agency-rules-2017",
@@ -3020,17 +3020,17 @@
    "Regulated Securities Licensing Regulations"
   ],
   "enacted": "2017-05-02",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 295(I)/2017",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
+  "amendedUpTo": "2025-08-06",
+  "amendedUpToLabel": "SECP consolidated PDF, updated 6 August 2025",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
-  }
+  },
+  "file": "public-offering-regulated-securities-licensing-regulations-2017.pdf"
  },
  {
   "id": "commercial-papers-regulations-2013",
@@ -3508,19 +3508,19 @@
   ],
   "aliases": [],
   "enacted": "2017-07-26",
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 704(I)/2017",
+   "name": "Securities and Exchange Commission of Pakistan",
    "url": "https://www.secp.gov.pk"
   },
-  "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by S.R.O. 210(I)/2024 (12 February 2024), the only later change recorded",
+  "amendedUpTo": "2023-05-03",
+  "amendedUpToLabel": "SECP consolidated PDF, updated 3 May 2023 (regulations repealed 12 February 2024)",
   "watch": {
    "page": "https://www.secp.gov.pk/laws/regulations/",
    "manual": true
   },
   "status": "repealed",
-  "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included."
+  "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included.",
+  "file": "companies-incorporation-regulations-2017.pdf"
  },
  {
   "id": "intermediaries-registration-regulations-2017",

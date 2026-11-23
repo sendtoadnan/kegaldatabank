@@ -1,528 +1,514 @@
 {
-  "id": "companies-incorporation-regulations-2017",
-  "title": "Companies (Incorporation) Regulations, 2017",
-  "number": "S.R.O. 704(I)/2017",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [],
-  "enacted": "2017-07-26",
-  "lastAmended": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); repealed by S.R.O. 210(I)/2024 (12 February 2024), the only later change recorded",
-  "status": "repealed",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 704(I)/2017",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to As at December 2021 (54th/115th update of the source); repealed by S.R.O. 210(I)/2024 (12 February 2024), the only later change recorded and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 704(I)/2017 dated July 26, 2017.- In exercise of the powers conferred by sub-section (11) of section 512 read with section 10, 14, 16 and 17 of the Companies Act, 2017 (XIX of 2017), the Securities and Exchange Commission of Pakistan is pleased to notify the following Companies (Incorporation) Regulations, 2017, the same having been previously published vide SRO 423(I)/2017 dated June 05, 2017, namely:- Chapter I Preliminary",
-  "parts": [
+ "id": "companies-incorporation-regulations-2017",
+ "title": "Companies (Incorporation) Regulations, 2017",
+ "number": "S.R.O. 704(I)/2017",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "enacted": "2017-07-26",
+ "lastAmended": "2023-05-03",
+ "amendedUpToLabel": "SECP consolidated PDF, updated 3 May 2023 (regulations repealed 12 February 2024)",
+ "status": "repealed",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "companies-incorporation-regulations-2017.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF SECP consolidated PDF, updated 3 May 2023 (regulations repealed 12 February 2024) downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These regulations shall be called Companies (Incorporation) Regulations, 2017.",
-            "(2) They shall come into force on August 14, 2017."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "In these Regulations, unless there is anything repugnant in the subject or context,-",
-            ">(i) \"Act\" means Companies Act, 2017 (XIX of 2017); [(ii) \"annexure\" means an annexure appended to these Regulations;] [(iia) \"authorized intermediary\" shall have the same meaning as assigned to it in clause (iii) of sub-regulation (1) of regulation 2 of the Intermediaries (Registration) Regulations, 2017;]",
-            ">(iii) \"Commission\" means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997); [(iiia) \"form\" means form appended to these regulations;]",
-            ">(iv) \"regulations\" means the Companies (Incorporation) Regulations, 2017.",
-            "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the Securities and Exchange Commission of Pakistan Act, 1997, the Limited Liability Partnership Act, 2017, the Securities Act, 2015 and any rules made thereunder. Companies (Incorporation) Reg., 2017 Company Law & Procedurt.",
-            "Chapter II Reservation of Name"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Reservation of Name",
-          "text": [
-            "(1) Any person desirous of forming a company shall have the option to file either separate application for reservation of name in the manner as provided in sub-regulation (2) of this regulation or combined application for reservation of name and incorporation of company in the manner as provided in sub-regulation (3) of regulation 5.",
-            "(2) Separate application for reservation of name in terms of sub-section (4) of section 10 of the Act shall be made along with non-refundable application fee as specified in Seventh Schedule of the Act, in the following manner,-",
-            ">(i) online application through e-service; or",
-            ">(ii) physical application as per Inc. Form-I of the regulations with the registrar.",
-            "(3) The applicant may propose up to three names in order of priority for reservation of any one of them, ensuring that the proposed names fulfil the criteria specified in section 10 of the Act and these regulations.",
-            "(4) The registrar, if satisfied that any one of the proposed names in the order of priority, fulfills the criteria specified in the Act and these regulations, may issue availability of name as per Inc. Annexure-I for a period of sixty days from the date of availability of name letter.",
-            "(5) If the applicant fails to file application for incorporation of company along-with evidence of payment of fee within sixty days period, the name shall not remain available.",
-            "(6) In case of refusal of the proposed name(s), the registrar shall issue the order of refusal as per Inc. Annexure-II.",
-            "(7) The registrar, while considering the application for reservation of name may require the applicant to furnish such additional information as deemed appropriate:",
-            "Provided that where the requisite information is not provided within fifteen days or any further time allowed by the registrar, the application shall be disposed of on the basis of available information.]"
-          ]
-        },
-        {
-          "no": "3A",
-          "title": "Modes of payment of fee",
-          "text": [
-            "The fee as per Seventh Schedule of the Act as required under these regulations, may be paid through-",
-            ">(a) credit card; or",
-            ">(b) debit card; or",
-            ">(c) other mode of online payment made available by the Commission; or",
-            ">(d) challan in the designated branch of the bank.]"
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Prohibition of certain names",
-          "text": [
-            "(1) Subject to section 10 of the Act, the following words and combinations thereof shall not be used in the name of a company in English or any of the languages depicting the same meaning,-",
-            ">(i) Federal Government, Provincial Government, Name depicting association with any foreign government, Name suggesting association with any political personality, Commission, Authority, Register or",
-            "Registered, Co-operative, Bureau, Division, Department, Undertaking, Municipal, Union, Republic, Nation, President, Governor, Prime Minister, Chief Minister, Minister, Cabinet, Senate, National Assembly, [Provincial Assembly,] Parliament/Parliamentary, Statute/Statutory, Court/Judiciary/Judge, [Jury,l Administrator;",
-            ">(ii) Names of International bodies and abbreviations thereof including, but not limited to, United Nations, South Asian Association for Regional Cooperation, Organization of Islamic Conference, World Bank, International Finance Corporation, Asian Development Bank, Islamic Development Bank, International Monetary Fund, Red Cross, Red Crescent.",
-            "Provided that the Commission may allow any of the above names under special circumstances on the request of any government or",
-            "authority.",
-            "(2) Subject to section 10 of the Act, the following words [or acronyms] and combinations thereof may only be used in the name of a company subject to the criteria mentioned in each case,-",
-            ">(i) Association or Foundation - In case of companies to be established on grant of license by the Commission under section 42 of the Act or which are licensed by the Directorate General of Trade Organization under the Trade Organizations Act, 2013.",
-            "(11) Fund - In case of a public sector company, a trade organization, a Non-",
-            "Banking Finance Company to be established to undertake asset management services or private equity and venture capital fund management services or private equity and venture capital fund management services subject to prior approval of the Commission or a company to be established on grant of license by the Commission under section 42 of the Act.",
-            ">(iii) Council - In case of a company to be established on grant of license by the Commission under section 42 of the Act. Moreover, this expression may also be allowed to Sports Association, Trade Organization or a Professional Body.",
-            ">(iv) Chamber - In case of an entity which is to be established as a Trade Organization under Trade Organizations Act, 2013.",
-            ">(v) Trust - In case of Non-Banking Finance Company to be established to undertake REIT management services or asset management services subject to prior approval of the registrar.",
-            ">(vi) Society - In case of a company if proper justification is provided to the satisfaction of the registrar.",
-            ">(vii) Assurance/ Assurer/ Insurance/ Insurer/ Re-Assurance/ Re-Assurer/ Re-",
-            "Insurance/ Re-Insurer - In case of companies to be established to undertake business of Insurance, Assurance, Reinsurance and Re-",
-            "assurance subject to prior approval of the Commission.",
-            ">(viii) Board - In case of a company desirous to engage in the business of Paper and / or Board or to public sector companies.",
-            ">(ix) Bahria/Askari/Fauji/Fazaiya/Cadet/Armed Forces or Forces/Army/Navy/ Air Force/Shaheen/Military/Defence - In case of companies to be established by the relevant agency.",
-            ">(x) Bank/Banking/Banker - In case of companies to be established to undertake banking business subject to prior approval of State Bank of Pakistan or an investment bank subject to prior approval of the Commission. [(xа) [(xа) Chapter - In case of companies where NOC or permission of the organization/ entities having various chapters locally or globally, is provided.]",
-            ">(xi) Charter/Chartered - In case of companies having charter from the sovereign authority of the Federation or the Province.",
-            ">(xii) Corporation - In case of companies where proper justification is submitted to the satisfaction of registrar.",
-            ">(xiii) Exchange/Bourse - In case of Securities Exchange, Commodity Exchange, Mercantile Exchange and Exchange Company, subject to prior approval from the relevant authority. [ [(xv) Names of Famous/Distinct Personalities - In case of a company, where no objection certificate from the personality is provided or where proper justification is submitted to the satisfaction of registrar.]",
-            ">(xvi) Federation - In case of a company licensed under section 42 of the Act or trade bodies under Trade Organization Act, 2013.",
-            ">(xvii) Federal - In case of a company where it has a connection with or",
-            "patronage of the Federal Government subject to prior approval of the Commission.",
-            "(xviii) Province/Provincial/Sindh/Punjab/Baluchistan/Khyber Pakhtunkhwe or",
-            "KРK/FATA/Gilgit Baltistan or FANA/Azad Jammu & Kashmir or AJK.",
-            "In case of a company where it has a connection with or patronage of the concerned Government subject to prior approval of the Commission.",
-            ">(xix) Group - In case of accompany where this word implies several companies under single corporate ownership and applicants have to provide evidence of subsidiary/associate relationship with two or more companies.",
-            ">(xx) Holding - In case of a company where it qualifies to be a holding company as defined in clause 37 of sub-section (1) of section 2 of the Act to the satisfaction of the registrar.",
-            ">(xxi) Institute/Institution - In case of a company where it has submitted proper justification to the satisfaction of the registrar.",
-            ">(xxii) Finance, Financial, Investment Finance, Investment Advisory, Leasing, Asset Management, Housing Finance, Modaraba, Venture Capital, Private Equity - In case of Non-Banking Finance Company, investment company, Modaraba company, brokerage house subject to prior approval by the Commission. In case of any public sector financial institution subject to prior approval by the Commission or State Bank of Pakistan, as the case may be.",
-            "(xxiii) Name of Company containing country name of nationality other than Pakistan - In case of the companies where appropriate justification is submitted to the satisfaction of the registrar.",
-            ">(xxiv) Name of Company containing names of two countries i.e., Pakistan/Pak and any other foreign country - In case of companies where documentary evidence is provided to the satisfaction of the registrar to support the fact that the company is a Joint Venture of two Governments or companies [or individuals of two relevant countries]. (xXV) New/Modern/The/Al/International/Company/Co./Inc./Firm/Partnership/ LLP/LLC/Proprietor/Enterprise/Mills/Factory - In case of a company where proper justification is submitted to the satisfaction of the registrar. However, these expressions will not be acceptable if used to make proposed company name distinctive from existing companies. -",
-            ">(xxvi) State - In case of public sector companies.",
-            "(xxvii) University - In case of University Management Company for the management of University in terms of guidelines of Higher Education Commission.",
-            "(3) The name shall be considered undesirable, if1[ (ii) it includes any word or words which are offensive to any section of the people;",
-            ">(iii) it is identical with or resemble or similar to name of Limited Liability Partnership registered under the Limited Liability Partnership Act, 2017;",
-            ">(iv) any other word which in the opinion of registrar is undesirable.",
-            "Chapter III Incorporation of Company"
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Application for incorporation of company",
-          "text": [
-            "(1) An application for incorporation of company along with specified fee, shall be filed in any of the following modes, namely:-",
-            ">(i) separate application for incorporation of company in the manner as provided in sub-regulation (2); or",
-            ">(ii) combined application for reservation of name and incorporation of company in the manner as provided in sub-regulation (3).",
-            "(2) An applicant shall make separate application for incorporation of company either online through e-service or in physical form to the registrar as per Inc. Form-II along with the following documents,-",
-            ">(i) memorandum (in case of online application, e-service shall automatically generate memorandum on the basis of information provided by the applicant except for companies having specialized business);",
-            ">(ii) articles where required;",
-            ">(iii) copies of valid NIC/NICOP (national identity card/ national identity card for overseas Pakistanis) of the subscribers/ directors/chief executive officer or copies of valid Passport in case of a foreigner;",
-            ">(iv) in case of a single member company copy of valid NIC/NICOP of nominee or copy of valid Passport in case of a foreigner;",
-            ">(v) copy of NIC of witness in case of physical filing of application;",
-            ">(vi) in case of physical application, authority letter on stamp paper of requisite value in favour of any one of the subscribers or registered intermediary, authorizing him to file documents for incorporation of company on behalf of subscribers, make correction therein, if required and collect certificate of incorporation and other documents after incorporation of company. The authority letter shall be witnessed with his particulars and shall also be notarized;",
-            ">(vii) NOC/Letter of Intent/ License (if any)/ approval letter of the relevant regulatory authority in case of specialized business as mentioned in regulation 4;",
-            ">(viii) in case of physical application, original paid bank challan or other evidence of payment of fee specified in Seventh Schedule of the Act.",
-            ">(ix) copy of valid NIC/Passport of person duly authorized by the Board of directors of a body corporate which is a subscriber along with copy of Board resolution. In case of a subscriber which is a limited liability partnership, copy of valid NIC/ Passport of designated partner empowered to act as such, along with copy of instrument empowering him.",
-            ">(x) in case the subscriber is a foreign company or a foreign body corporate, the profile of the company, detail of its directors, their nationality and",
-            "country of origin, copy of its charter, statute or memorandum and",
-            "articles etc., certified in the manner as specified in regulation 15.",
-            "(3) The combined application for reservation of name and incorporation of company limited by shares shall be filed online through e-service on payment of fee along with scanned copies of only relevant and applicable documents, as mentioned in sub-regulation (2) except memorandum of association and articles of association, which shall be generated by e-service:",
-            "•Provided that facility of combined application shall not be available for companies to be formed to carry on or engage in any business which is subject to a licence or registration, permission or approval as required under the respective law:",
-            "Provided further that the applicant shall enter three names for the proposed company in the order of priority, out of which any one may be approved by the registrar subject to fulfillment of criteria mentioned in section 10 of the Act and in these regulations. If the name as per option one is not available, the name from other options in order of priority shall be considered for incorporation and in case of refusal of the proposed names, the registrar shall issue the order of refusal as per Inc. Annexure-Il.",
-            "(4) Any person may obtain certified copies of the extract of information contained in item 2.1 or 2.2 of Part-II (A), Part-II (D), Part-II (E) and Part-III of Inc. Form-II.]"
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Memorandum of Association",
-          "text": [
-            "(1) The memorandum of association shall be in conformity with Table B, C, D, E or F of the First Schedule to the Act and any other rules and regulations notified by the Commission/ Federal Government, as applicable to the kind of the company. It shall contain an undertaking that the company shall not engage in any of the restricted business, launch multi-level marketing (MLM), Pyramid and Ponzi Schemes, or other related activities / businesses or any lottery business, or engage in any of the permissıble business unless the requisite approval, permission, consent or license is obtained from competent authority as may be required under any law for the time being in force.",
-            "Explanation.- For the purposes of this regulation, \"restricted business\" Iincludesl undertaking or indulging, directly or indirectly in the business of a Loahing; Gvosmon ConTany: Yo vönmen Xaman, Ner M. Kogch Eri Cbinpang; Housing Finance Company, Discounting Services, Microfinance or Microcredit business, Insurance Business, Modaraba Management Company, Stock Brokerage business, forex, managing agency business of providing the services of security guards, securities broker, securities adviser, securities manager, share registrar, credit rating company, balloter, underwriter, debt securities trustee or any other business restricted under any law for the time being in force or as may be notified by the Commission [or any other government authority]. 3| ]",
-            "(4) The memorandum filed in physical form under sub-section (1) of memorandum section 16 of the Act, shall be properly stamped as required by the Stamp Act, 1899 (II of 1899), if applicable, duly subscribed and witnessed along with the declaration made thereunder:",
-            "Provided that in case of electronic submission of memorandum of association, the stamp duty shall not be paid till the time the Provincial Government devise and implement appropriate measures for payment and recovery of stamp duty through electronic means in terms of section 10 of the Electronic Transactions Ordinance, 2002 (LI of 2002).",
-            "(5) The registrar may require any person who makes a declaration under sub-section (1) of section 16 of the Act or is a promoter or director of the proposed company or is a witness to the signatures of the subscribers to the memorandum to furnish such information, clarification or document as he may deem necessary to satisfy himself for purposes of sub-sections (2) and (4) of section 16 of the Act."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Articles of Association",
-          "text": [
-            "(1) In case, the subscribers opt to file combined application for reservation of name and incorporation of company in the manner specified under sub-regulation (3) of regulation 5, the articles as per Table A of First Schedule to the Act shall be the articles of the company.",
-            "(2) In case of separate application for incorporation of company, the subscribers of the company limited by shares may adopt the articles as per Table A of First Schedule to the Act and notify the same to the registrar concerned as per Inc. Form-Il and filing of articles separately shall not be required by company adopting Table A:",
-            "Provided that in case articles as per Table A of the First Schedule to the Act are not adopted, the company limited by shares shall file the articles with the registrar along with application for incorporation.",
-            "(3) In the case of a company limited by guarantee or an unlimited company, the company shall file the articles with the registrar along with application for incorporation.]",
-            "17A. Signing of memorandum of association and articles of association.- (1) The memorandum and articles of the company shall be signed physically or electronically, as the case may be, by each subscriber to the memorandum and articles of association and where required, to be witnessed.",
-            "[2. Where a subscriber is other than a natural person, the memorandum and articles of association shall be signed by a natural person on its behalf in the following manner:",
-            ">(i) in case of a body corporate, duly authorized by a resolution of the board of directors;",
-            ">(ii) in case of a limited liability partnership, a designated partner empowered to act as such, alongwith copy of instrument empowering him; and",
-            ">(iii) in any other case by an authorized representative duly authorized to sign as such.J"
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Appointment of First Directors and Chief Executive Officer",
-          "text": [
-            "(1) The subscribers to the memorandum shall determine the number of directors and the names of the first directors in terms of provisions of section 157 of the Act.",
-            "(2) The subscriber to the memorandum shall also determine the name of the first chief executive officer in terms of provisions of section 186 of the Act.",
-            "(3) The number of directors as determined by the subscribers and particulars of first directors and first chief executive officer shall be stated in the application for incorporation of company as per [Inc. Form-II]."
-          ]
-        },
-        {
-          "no": "9",
-          "title": "[other information to be obtained or provided]",
-          "text": [
-            "(1) In addition to the particulars of subscribers as provided in section 31 and 37 of the Act, following further information shall be provided namely:- 4((i) a subscriber, in case of a Pakistani national, shall also specify number of his valid NIC/ NICOP and in the case of foreign national, number of his valid passport.J (ii) in case of a person other than a natural person, the address of its registered office or principal office shall be mentioned and the authorized representative signing the documents shall [likewise]",
-            "provide his particulars.",
-            "[(2) in case of a subscriber holding at least twenty five percent of the shares, voting rights or controlling interest in the proposed company on behalf of some other natural or legal person, following additional particulars of ultimate beneficial owner(s), shall be obtained and maintained:",
-            "a. Name of the subscriber (natural or legal person)",
-            "b. Name of the natural person(s) who is/are the Ultimate Beneficial Owner (UBO) of subscriber c. Father's name/Spouse's Name of UBO C.",
-            "d. NIC/NICOP/ Passport no. of UBO along with date of issue c. Nationality of UBO (. Country of origin of UBO (in case of foreign national or dual national)",
-            "g. Usual residential address of UBO h. Email address of UBO i. Date in which the UBO status was acquired (3) in case of indirect shareholding, control or interest being exercised through intermediary companies, entities or other legal persons or legal arrangements in the chain of ownership or control through at least twenty-five percent of the shares, voting rights or controlling interest in the proposed company, reasonable measures shall be taken to obtain the following particulars of the ultimate beneficial owner of the legal persons or arrangements. If there is no natural person, it should obtain the identity of the relevant natural person who holds the position of senior managing official:",
-            "Name Legal form (Company/LLP/ Partnership Firm/Trust/Any other body corporate (to be specified)) Date of incorporation/ registration Name of registering authority Business Address Country Email address Percentage of shareholding, control or interest of UBO in the legal person or legal arrangement Percentage of shareholding, control or interest of legal person or legal arrangement in the Company Identity of Natural Person who Ultimately owns or controls the legal person or arrangement (a) (b) (c) (d) • (e) (f) (g) (h) (j)",
-            "Explanation:- For the purposes of this regulation the term \"ultimate beneficial owner\" means a natural person who ultimately owns or controls a company, whether directly or indirectly, through at least twenty five percent shares or voting rights or by exercising effective control in that company through other means. Control through other means may be exercised through a chain of ownership or through close relatives or associates having significant influence or control over the finances or decisions of the company.]"
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Witness in case of physical submission of a document",
-          "text": [
-            "(1) In case of electronic submission of documents for incorporation of a company a witness is not required in terms of Section 3 of Electronic Transactions Ordinance, 2002.",
-            "(2) In case of physical submission of documents for incorporation of a company, the same shall be witnessed by a Pakistani National having valid CNIC:",
-            "Provided that where a document is required to be attested by a notary public or an oath commissioner or class 1 magistrate, the same shall be witnessed in accordance with the relevant law."
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Examination of documents by the registrar",
-          "text": [
-            "(1) The registrar shall examine the documents submitted for registration of a company and if he/she is satisfied that the same are complete in all respects and all the respects and requirements of the Act and regulations relating to incorporation of the company have been complied with, he shall register the memorandum and other documents delivered to him.",
-            "(2) In case any discrepancies and deficiencies are observed by the registrar in the documents filed, the same shall be communicated to the applicant in writing for resolution and the applicant shall remove the discrepancies and provide requisite information within seven days of date of written communication from the registrar.",
-            "(3) In case no response is received within stipulated time period, a first reminder shall be issued and a final reminder shall be issued seven days thereafter by the registrar concerned.",
-            "(4) In case no response is received from the applicant or the applicant fails to remove discrepancies or provide requisite information to the satisfaction of registrar within seven days of issue of final reminder, the registration of the [memorandum and other documents] may be refused."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Issuance of Certificate of Incorporation",
-          "text": [
-            "(1) On registration of memorandum of association of a company, the registrar shall issue a certificate of incorporation, under his signatures or authenticated by his official seal, as per 2|Inc. Annexure-III), which shall be conclusive evidence that the requirements of the Act as to registration have been complied with and that the company is duly incorporated under the Act.",
-            "(2) The certificate of incorporation may be issued electronically or in physical form."
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Additional requirements for a single member company",
-          "text": [
-            "(1) A person desirous of forming a singly member company shall comply with all the requirements for incorporation of a company as per regulation 5 of these Regulations.",
-            "(2) The person to be nominated under section 14 of the Act shall be in accordance with sub-Section (3) of Section 79 of the Act."
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Additional requirements for an association not for profit",
-          "text": [
-            "The subscribers to the memorandum of an association not for profit shall obtain license (under section 42 of the Act], before filing application in terms of regulation 5 of these regulations."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Additional requirements for foreign subscribers and security clearance",
-          "text": [
-            "(1) In case the subscriber is a foreign company or a foreign body corporate, the registrar shall require additional information including but not limited to, the profile of the foreign company or foreign body corporate, detail of its directors, their nationality and country of origin, copy of its charter, statute or memorandum and articles etc.:",
-            "Provided that the copy of any charter, statute, memorandum, articles or other instrument, constituting or defining the constitution of a foreign company or a foreign body corporate required to be filed with the registrar shall be duly certified to be a true copy by-",
-            ">(i) the public officer in the country where the foreign company or foreign body corporate is incorporated to whose custody the original is committed; or",
-            ">(ii) a Notary public of the country where the foreign company or foreign body corporate is incorporated; or",
-            ">(iii) an affidavit of a responsible officer of the foreign company or foreign body corporate in the country where the company is incorporated:",
-            "Provided further that the signature and seal of the official referred to in clause (i) or the certificate of the Notary Public referred to in clause (ii) above shall be authenticated by a Pakistan diplomatic consular or consulate officer and the certificate of the officer of the foreign company or foreign body corporate referred to in clause (iii) above shall be signed before a Pakistan diplomatic consular or consulate officer.",
-            "(2) In case the subscriber to the memorandum is an individual of foreign nationality, he may be required to file additional documents as deemed necessary by the registrar.",
-            "(3) The Commission shall obtain security clearance from Ministry of Interior (Mol) in following cases and in the manner prescribed hereunder:",
-            "(1) companies having foreign (other than Afghan and Indian national or",
-            "origin) subscribers/officers will be incorporated on the basis of an undertaking of each foreign subscriber / officer and case shall be forwarded for security clearance:",
-            "Provided that in case name of subscriber/officer is not security cleared by Mol, the subscriber/officer and the company, shall take immediate steps for replacement and shall transfer shares if any, held by the subscriber;",
-            ">(ii) companies having foreign subscribers/ officers who are Afghan or Indian national or of Afghan or Indian Origin will be incorporated after receipt of security clearance;",
-            ">(iii) security services provider companies will be incorporated after receipt of security clearance from Mol.",
-            "(4) The manner of security clearance shall be subject to any change in the security policy of government from time to time.]"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Companies (Incorporation) Regulations, 2017.",
+      "(2) They shall come into force on August 14, 2017."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
+      ">>(i) “Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">>{fn:1-1}[(ii) “annexure” means an annexure appended to these regulations;”]",
+      ">{fn:1-2}[(iia) “authorized intermediary” shall have the same meaning as assigned to it in clause (iii) of subregulation (1) of regulation 2 of the Intermediaries (Registration) Regulations, 2017;]",
+      ">>(iii) “Commission” means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      "{fn:1-3}[(iiia) “form” means form appended to these regulations; and]",
+      ">>(iv) “regulations” means the Companies (Incorporation) Regulations, 2017;",
+      "(2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the Securities and Exchange Commission of Pakistan Act, 1997, the Limited Liability Partnership Act, 2017, the Securities Act, 2015 and any rules made thereunder."
+     ],
+     "fn": [
+      {
+       "n": "1-1",
+       "text": "Clause (ii) substituted by S.R.O. 483 (I)/2018 dated April 17, 2018. Before substitution, clause (ii) read as follows:- “(ii) “annexure” means a form attached to these Regulations;”"
+      },
+      {
+       "n": "1-2",
+       "text": "New clause (iia) inserted by S.R.O. 483 (I)/2018 dated April 17, 2018."
+      },
+      {
+       "n": "1-3",
+       "text": "New clause (iiia) inserted by S.R.O. 483 (I)/2018 dated April 17, 2018."
+      }
+     ]
     }
-  ],
-  "schedules": [
+   ]
+  },
+  {
+   "heading": "Chapter II — Reservation Of Name",
+   "sections": [
     {
-      "title": "Inc. Form-I",
-      "text": [
-        "[See Section 10 of the Act and Regulation 3]",
-        "APPLICATION FOR RESERVATION OF NAME (To be completed by applicant in block letters.)",
-        "1. Fee payment Details1.1 pr : Challan No.",
-        "1.2 Challan Amount (Rs,)",
-        "2. Propose three options for name reservation in Option 1 the order of priority. (mandatory in case of Option 2 combined application. Fee will be charged for one name only instead of three names.)",
-        "Option 3 (Please enter the name without kind of company e.g. (Put.) Limited, Limited etc.).",
-        "(Мaxiтum 70 characters)",
-        "(As required under proviso (i) to sub-section (1) of section 26 of the Act, the proposed name shall always commensurate with the principal line of business of the company as mentioned in memorandum of association)",
-        "3. Kind of proposed company a. Private Limited Company b. Single Member Company",
-        "C. Public Limited Company d. Association Not for profit under section 42 of the Companies",
-        "Act, 2017 e. Other (Please specify)",
-        "4. Principal line of business for proposed company (Brief object as per clause 3 (i) of the Memorandum may be mentioned)",
-        "5. Meaning / Significance of proposed name (describe relevancy of proposed name with company's principal line of business)",
-        "6. If any company or entity exists with identical or similar name, please mention your relationship with such company or entity along with board resolution/",
-        "NOC showing no objection on registration of a company with similar name.",
-        "7. Declaration I do hereby solemnly and sincerely declare that the information provided in the form is true and correct and nothing is concealed and that the proposed name, if reserved, shall be used only for the purpose of registration of company",
-        "0.30-00-0 Name of Proposed Subscriber/ Authorized",
-        "Intermediary",
-        "9. Signature",
-        "10. Registration No of Authorized",
-        "Intermediary, if applicable",
-        "11. N.I.C No. where the applicant is proposed subscriber (Passport No. in case of foreign national)",
-        "12. Contact details of the applicant, Address i.e. address, email and cell No. Email:",
-        "etc. Cell No.",
-        "Day Month Year",
-        "13. Date",
-        "Enclosures:",
-        "1. Original paid bank challan evidencing payment of fee",
-        "2. Original NOC/ permission / letter of intent of competent authority (if applicable)",
-        "3. Any other document deemed necessary.",
-        "Inc. Form-II",
-        "[See Section 16 of the Act and Regulation 5]",
-        "APPLICATION FOR COMPANY INCORPORATION",
-        "PART-I (To be completed by the applicant in block letters)",
-        "1.1 Name of the Company",
-        "1.2 Fee payment Details 1.2 Fee payment Details 1.2.1 Challan No.",
-        "1.2.2 Challan Amount (Rs,)",
-        "PART-II",
-        "Section-A - Company information",
-        "2.1* Correspondence Address",
-        "City District Province",
-        "Telephone Number Email Address",
-        "Mobile Number",
-        "*Information regarding Correspondence address is to be provided only if the company does not have a place as its registered office at the time of Incorporation of company.",
-        "2.2 Registered office Address, if any",
-        "City District Province",
-        "Telephone Number Website (if any)",
-        "Mobile Number Email Address",
-        "2.3 Principal line of business (Brief objects as per clause 3 (i) of the",
-        "Memorandum may be mentioned)",
-        "Section-B - Capital Structure",
-        "Class/Kind Face Value Number of shares Total Amount",
-        "2.4 Authorized Capital",
-        "2.5 Paid Up Capital",
-        "Section-C - Special business information* (Applicable in case of Banking Company, Non-banking Finance Company, Insurance company, Modaraba management company, Stock Brokerage business, forex, managing agency, business of providing the services of security guards and any other business restricted under any other law or as may be notified by the Commission)",
-        "2.6 Nature of business in case of specialized business requiring license / permission / approval (please specify and also attach",
-        "NOC / approval of the relevant authority)",
-        "*(Additional documents will be required by the registrar)",
-        "Section-D - Company subscribers, directors, chief executive officer, and in case of single member company, nominee",
-        "2.7 State Number of directors fixed by subscribers:",
-        "[Please note that as per law a company must have minimum director as follows:]",
-        "Kind of Company Minimum number of No. of proposed directors required by law directors",
-        "Single Member Company 01",
-        "Private Limited Company 02",
-        "Public Limited Company 03",
-        "2.8 Details of subscribers, directors and chief executive officer*",
-        "[Name and surname (present and former) in full Fathers/Husbands Name in full NIC/NICOP (in case of Pakistani national) or Passport No (in case of foreigner) ** Incorporation/ Registration No. Nationality (with former nationality and nationality of the origin, if different) ***Occupation Residential address/ registered office address or principal office (in case of a Subscriber other than a natural person) NTN (in case of director, where applicable) Designation (Director/Subscriber/ CEO) Please specify Nature of directorship (appointed, nominee/ independent/ other) Name of entity nominating the director No. of shares subscribed (for subscriber) ****Signatures",
-        "Add details as applicable",
-        "** Applicable on subscribers other than natural persons",
-        "*** Please also mention names of other companies where directorship is held.",
-        "**** Signature of subscribers and consent to act as director or chief executive as the case may be. In case of online submission, the document will be signed electronically.J",
-        "2.9 Details of Nominee (only in case of single member company - Nominee shall not be a person other than relatives of the member- namely, a spouse, father, mother, brother, sister and son or daughter)",
-        "Name of Nominee",
-        "NIC of Nominee",
-        "Residential address of Nominee",
-        "Telephone number of Nominee",
-        "Email address of Nominee",
-        "Relationship of Nominee with subscriber",
-        "Signature of Nominee",
-        "Section-E - If the company limited by shares intends to adopt tables contained in First Schedule to the Act, tick the relevant table.",
-        "L Table A - Part I (Articles of association of company limited by shares)",
-        "Table A - Part II (Articles of association of single member company limited by shares)",
-        "Section-F - The company limited by shares in case it has not adopted articles of association contained in First Schedule to the Act, company limited by guarantee and unlimited company shall attach the articles of association.",
-        "PART - III",
-        "Declaration under section 16",
-        "3.1 Declarant Name",
-        "3.2 Declarant Profession / Designation Authorized Intermediary (Please check relevant box)",
-        "a person named in the articles as",
-        "Director of the proposed company",
-        "3.3 Declaration I do hereby solemnly and sincerely ,declare that:",
-        "a) I have been authorized as declarant by the subscribers;",
-        "b) all the requirements of the Companies Act, 2017, and the regulations made there under in respect of matters precedent to the registration of the said Company and incidental thereto have been complied with",
-        "'(c) necessary information about the ultimate beneficial owners of the proposed company, if any, as specified in regulation 9, has been obtained and is available on record.]",
-        "\"[d)] I make this solemn declaration conscientiously believing the same to be true.",
-        "3.4 Declarant Signature",
-        "3.5 Registration No of authorized intermediary, if applicable",
-        "Day Month Year",
-        "3.6. Date",
-        "Enclosures:",
-        ">(i) Original paid bank challan evidencing payment of fee;",
-        ">(ii) Memorandum of Association;",
-        ">(iii) Articles of Association, where applicable;",
-        ">(iv) Copies of valid NIC/NICOP of the subscribers/directors/chief executive officer or copy of",
-        "Passport in case of a foreigner;",
-        ">(v) Copy of valid NIC/NICOP of Nominee only in case of single member company or copy of",
-        "Passport in case of a foreigner;",
-        ">(vi) Copy of valid NIC of witness in case of physical filing;",
-        ">(vii) NOC/Letter of Intent/ License (if any) of the relevant regulatory authority in case of specialized business;",
-        ">(viii) Authority letter for filing of documents for the proposed company as per requirement of clause (vi) of sub-regulation (2) of regulation 5;",
-        ">(ix) Copy of valid NIC/Passport of person duly authorized by the Board of directors of a body corporate which is a subscriber along with copy of Board resolution and attendance sheet.",
-        "In case of a subscriber which is a limited liability partnership, copy of valid NIC/ Passport of designated partner empowered to act as such, along with copy of instrument empowering him;",
-        "In case the subscriber is a foreign company or a foreign body corporate, the profile of the company, detail of its directors, their nationality and country of origin, certified copy of its charter, statute or memorandum and articles etc.",
-        ">(xi) In case of foreign subscriber/ officer, an undertaking on stamp paper of requisite value duly signed, notarized and witnessed to the effect that in case name of subscriber/officer is not security cleared by Mol, the subscriber/officer and the company, shall take immediate steps for replacement and shall transfer shares if any, held by the subscriber.",
-        "Witness to above signatures: (For the documents submitted in physical form)",
-        "Signatures",
-        "Full Name (in Block Letters)",
-        "Father's/ Husband's name",
-        "Nationality",
-        "CNIC No.",
-        "Usual residential address",
-        "Inc. Annexure-I",
-        "Securities and Exchange Commission of Pakistan",
-        "Company Registration Office",
-        "<City Name>",
-        "No. CRO-/ <date>",
-        "<Applicant Name>",
-        "Applicant Address>",
-        "AVAILABILITY OF NAME",
-        "Dear Sir /Madam,",
-        "This is with reference to your name reservation request dated <date> on the above subject.",
-        "2. The above proposed name appears to be available for registration under the provisions of the Companies Act, 2017 and the Companies (Incorporation) Regulations,",
-        "2017. The proposed name shall be reserved for a period of sixty days only and the proposed company shall be registered with the said name if the documents for registration, along with evidence of payment of fee specified in Seventh Schedule of the Act, are presented within this period. However, after the lapse of the period, this office shall not take any responsibility if the name does not remain available for registration.",
-        "<Registrar*>",
-        "*Name & designation of the officer signing it",
-        "Inc. Annexure-II",
-        "Securities and Exchange Commission of Pakistan",
-        "Company Registration Office",
-        "<City Name>",
-        "No. CRO-/ <date>",
-        "<Applicant Name>",
-        "Applicant Address>",
-        "REFUSAL OF NAME",
-        "Dear Sir / Madam,",
-        "1. This is with reference to your name reservation request dated <date> on the above subject.",
-        "2. The proposed name(s) is/are not available for registration due to the below mentioned reasons/restrictions imposed under section 10 of the Companies Act, 2017 and the",
-        "<Pre-checked reasons as selected / checked from the examination page of application>",
-        "3. However, you may adopt some other suitable name of your preference *(and resubmit application for incorporation along with fresh proposed names) or file an appeal with the",
-        "Commission, if desired.",
-        "<Registrar**>",
-        "*applicable in case of combined application only",
-        "**Name & designation of the officer signing it",
-        "Inc. Annexure-III",
-        "COMPANY REGISTRATION OFFICE",
-        "SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
-        "Certificate of Incorporation",
-        "[Under section 16 uf the Companies Act, 2017 (XIX of 2017)]",
-        "Corporate Unique Identification No. _",
-        "I hereby certify that (COMPANY NAME) is this day incorporated under the",
-        "Companies Act, 2017 (XIX of 2017) and that the company is (COMPANY KIND).",
-        "Given at (LOCATION) this (DAY) day of (MONTH), Two Thousand and YEAR.",
-        "REGISTRAR*",
-        "SEAL",
-        "*Name & designation of the officer signing the certificate.",
-        "Availability of Name",
-        "Dear Sir/ Madam,",
-        "This is with reference to your' name reservation request dated (date) on the above subject.",
-        "2. The above proposed name appears to be available for registration under the provisions of the",
-        "Companies Act, 2017 and the Companies (Incorporation) Regulations, 2017. The proposed name shall be reserved for a period of sixty days only and the proposed company shall be registered with the said name if the documents for registration are presented within this period. However, after the lapse of the period, this office shall not take any responsibility if the name does not remain available for registration.",
-        "(Registrar)\""
-      ]
+     "no": "3",
+     "title": "Reservation of Name",
+     "page": 2,
+     "text": [
+      "{fn:2-4}[(1) Any person desirous of forming a company shall have the option to file either separate application for reservation of name in the manner as provided in sub-regulation (2) of this regulation or combined application for reservation of name and incorporation of company in the manner as provided in sub-regulation (3) of regulation 5.",
+      "(2) Separate application for reservation of name in terms of sub-section (4) of section 10 of the Act shall be made along with non-refundable application fee as specified in Seventh Schedule of the Act, in the following manner,-",
+      ">>(i) online application through e-service; or",
+      ">>(ii) physical application as per Inc. Form-I of the regulations with the registrar.",
+      "(3) The applicant may propose up to three names in order of priority for reservation of any one of them, ensuring that the proposed names fulfil the criteria specified in section 10 of the Act and these regulations.",
+      "(4) The registrar, if satisfied that any one of the proposed names in the order of priority, fulfills the criteria specified in the Act and these regulations, may issue availability of name as per Inc. AnnexureI for a period of sixty days from the date of availability of name letter.",
+      "(5) If the applicant fails to file application for incorporation of company along-with evidence of payment of fee within sixty days period, the name shall not remain available.",
+      "(6) In case of refusal of the proposed name(s), the registrar shall issue the order of refusal as per Inc. Annexure-II.",
+      "(7) The registrar, while considering the application for reservation of name may require the applicant to furnish such additional information as deemed appropriate:",
+      "Provided that where the requisite information is not provided within fifteen days or any further time allowed by the registrar, the application shall be disposed of on the basis of available information.]"
+     ],
+     "fn": [
+      {
+       "n": "2-4",
+       "text": "Regulation 3 substituted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before substitution, regulation 3 read as follows:- “3. Reservation of Name. – (1) Any person desirous of forming a company shall have the option to file either separate or combined application for reservation of name and incorporation of company: Provided that the application shall be filed either through e-service or in physical form. (2) The combined application shall be made in the following manner,- (i) application for reservation of name as per Annexure-I of the regulations along with non-refundable application fee as specified in Seventh Schedule of the Act shall be filed with the registrar; (ii) the applicant shall propose three names for the company in the order of priority, out of which any one may be approved by the registrar subject to fulfillment of criteria mentioned in these regulations and section 10 of the Act: Provided that in case of refusal of the proposed names, the registrar shall issue the order of refusal as per Annexure III and application for incorporation of company shall be held pending till such time the name of company is reserved. (iii) application for incorporation of company mentioning name of company as per option 1 contained in Annexure-I along with all relevant documents as specified in regulation 5: Provided in case the name as per option 1 is not available, the registrar shall enter the name from amongst other two options contained in Annexure-I, if deemed appropriate, in all the relevant forms or documents in cases where combined application is filed. (3) Separate application for reservation of name in terms of sub-section (4) of section 10 of the Act shall be made in the following manner,- (i) application as per Annexure-I of the regulations along with non-refundable application fee as specified in Seventh Schedule of the Act shall be filed with the registrar; (ii) the applicant shall ensure that the proposed name shall fulfil the criteria specified in section 10 of the Act and these regulations. (4) The registrar, if satisfied that the proposed name fulfills the criteria specified in the Act and these regulations, may issue availability of name as per Annexure-II for a period of sixty days from the date of availability of name letter. (5) If the applicant fails to file application for incorporation of company within the said period, the name shall not remain available. (6) In case of refusal of the proposed name, the registrar shall issue the order of refusal as per Annexure-III. (7) The registrar, while considering the application for reservation of name may require the applicant to furnish such additional information as deemed appropriate.”"
+      }
+     ]
     },
     {
-      "title": "Annexure - III",
-      "text": [
-        "Securities and Exchange Commission of Pakistan",
-        "Company Registration Office (City Name)",
-        "No. CRO-/ (Date)",
-        "(Applicant Name)",
-        "(Applicant Address)",
-        "Refusal of Name",
-        "Dear Sir/ Madam,",
-        "1. This is with reference to your name reservation request dated (date) on the above subject.",
-        "2. The proposed name is not available for registration due to the below mentioned reasons/ restrictions imposed under section 10 of the Companies Act, 2017 and the Companies (Incorporation)",
-        "Regulations, 2017:",
-        "(Pre-checked reasons as selected/checked from the examination page of application)",
-        "3. However, you may adopt some other suitable name of your preference or file an appeal with the",
-        "Commission, if desired.",
-        "(Registrar)\""
-      ]
+     "no": "3A",
+     "title": "Modes of payment of fee",
+     "page": 3,
+     "text": [
+      "{fn:3-5}[–The fee as per Seventh Schedule of the Act as required under these regulations, may be paid through-",
+      ">(a) credit card; or",
+      ">(b) debit card; or",
+      ">(c) other mode of online payment made available by the Commission; or",
+      ">(d) challan in the designated branch of the bank.]"
+     ],
+     "fn": [
+      {
+       "n": "3-5",
+       "text": "New regulation 3A inserted vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      }
+     ]
     },
     {
-      "title": "Annexure - IV [See Regulation 5]",
-      "text": [
-        "Application for Company Incorporation",
-        "PART-I (To be completed by applicant in block letters.)",
-        "1.1 Name of the Company",
-        "1.2 Fee payment Details 1.2.1 Challan No.",
-        "1.2.2 Challan Amount (Rs,)",
-        "PART-II",
-        "Section-A - Company information",
-        "2.1 Correspondence Address",
-        "City District Province",
-        "Telephone Number Email Address •",
-        "Mobile Number",
-        "2.2 Registered office Address, if any",
-        "City District Province",
-        "Telephone Number Website (if any)",
-        "Mobile Number Email Address",
-        "2.3 Principal line of business",
-        "Section-B - Capital Structure",
-        "Class/Kind Face Value Number of shares Total Amount",
-        "2.4 Authorized Capital",
-        "2.5 Paid Up Capital",
-        "Section-C - Special business information (Applicable in' case of Banking Company, Non-banking Finance Company, Insurance company,",
-        "Modaraba management company, Stock Brokerage business, forex, managing agency, business of providing the services of security guards and any other business restricted under any other law or as may be notified by the Commission)",
-        "2.6 Nature of business in case of specialized business requiring license/permission/ approval (please specify and also attach NOC",
-        "/ approval of the relevant authority)",
-        "*(Additional documents will be required by the registrar)",
-        "Section-D - Company subscribers, proposed directors, proposed chief executive officer, and nominee",
-        "2.7 State Number of directors fixed by subscribers:",
-        "[Please note that as per law a company must have minimum director as follows:J",
-        "Kind of Company Minimum number of directors mar o drecore irecdant No. of proposed required by law directors",
-        "Single Member Company 01",
-        "Private Limited Company 02",
-        "Public Limited Company 03",
-        "2.8 Details of subscribers, proposed directors and",
-        "Details of subscribers, proposed directors and proposed chief executive officer",
-        "Name Father / Husband Name CNIC (in case of Pakistani national) or Passport No (in case of foreigner) Incorporation / Registration Number Nationality Occupation Residential address /registered address / registered office address or principal office (in case of a subscriber other than a natural person) NTN (in cast/ of director, where applicable) Designation (Director / Subscriber /CEO) Please specify No of shares subscribe (for subscriber)",
-        "office address or principal office (in case of a subscriber other than a natural person) NTN (in cast/ of director, where applicable) Designation (Director / Subscriber /CEO) Please specify No of shares subscribe (for",
-        "*Add details as applicable",
-        "2.9 Details of Nominee (only in case of single member company)",
-        "Name of Nominee",
-        "CNIC of Nomince",
-        "Residential acdress of Nrminee",
-        "Telephone number of Nominee",
-        "Email address of Nomince",
-        "Relationship of'Nominee with subscriber",
-        "Signature of Nominee",
-        "Section-E - If the company limited by shares intends to adopt tables contained in First"
-      ]
-    },
-    {
-      "title": "Annexure-V (ON STAMP PAPER OF REQUISTE VALUE) LETTER OF AUTHORITY",
-      "text": [
-        "We, the undersigned subscribers to the Memorandum and Article of Association of proposed",
-        "......), do hereby authorize (... ...........) one of company M/s. (... ....) a registered subscriber/ director of the proposed Company; or (...",
-        "intermediary whose specimen signature is appended herein below to file the documents for incorporation of the proposed company and to correct or amend the Memorandum and Article of",
-        "Association and other documents and to collect certificate of incorporation of the company from",
-        "Company Registration Office.",
-        "Name and signature of subscriber - 1",
-        "Name and signature",
-        "Name and signature of subscriber - 2",
-        "Name and signature of subscriber - 3 Seal and",
-        "Signature of",
-        "Notary Public"
-      ]
+     "no": "4",
+     "title": "Prohibition of certain names",
+     "page": 3,
+     "text": [
+      "(1) Subject to section 10 of the Act, the following words and combinations thereof shall not be used in the name of a company in English or any of the languages depicting the same meaning,-",
+      ">>(i) Federal Government, Provincial Government, Name depicting association with any foreign government, Name suggesting association with any political personality, Commission, Authority, Register or Registered, Co-operative, Bureau, Division, Department, Undertaking, Municipal, Union, Republic, Nation, President, Governor, Prime Minister, Chief Minister, Minister, Cabinet, Senate, National Assembly, {fn:3-6}[Provincial Assembly,] Parliament/ Parliamentary, Statute/ Statutory, Court/ Judiciary/ Judge, {fn:3-7}[Jury,] Administrator.",
+      ">>(ii) Names of International bodies and abbreviations thereof including, but not limited to, United Nations, South Asian Association for Regional Cooperation, Organization of Islamic Conference, World Bank, International Finance Corporation, Asian Development Bank, Islamic Development Bank, International Monetary Fund, Red Cross, Red Crescent.",
+      "Provided that the Commission may allow any of the above names under special circumstances on the request of any government or authority.",
+      "(2) Subject to section 10 of the Act, the following words {fn:3-8}[or acronyms] and combinations thereof may only be used in the name of a company subject to the criteria mentioned in each case,-",
+      ">>(i) Association or Foundation - In case of companies to be established on grant of license by the Commission under section 42 of the Act or which are licensed by the Directorate General of Trade Organizations under the Trade Organizations Act, 2013.",
+      ">>(ii) Fund - In case of a public sector company, a trade organization, a Non-Banking Finance Company to be established to undertake asset management services or private equity and venture capital fund management services subject to prior approval of the Commission or a company to be established on grant of license by the Commission under section 42 of the Act.",
+      ">>(iii) Council - In case of a company to be established on grant of license by the Commission under section 42 of the Act. Moreover, this expression may also be allowed to Sports Association, Trade Organization or a Professional Body.",
+      ">>(iv) Chamber - In case of an entity which is to be established as a Trade Organization under Trade Organizations Act, 2013.",
+      ">>(v) Trust - In case of Non-Banking Finance Company to be established to undertake REIT management services or asset management services subject to prior approval by the Commission.",
+      ">>(vi) Society - In case of a company if proper justification is provided to the satisfaction of the registrar.",
+      ">>(vii) Assurance/Assurer/Insurance/Insurer/Re-Assurance/Re-Assurer/Re-Insurance/Re-Insurer - In case of companies to be established to undertake business of Insurance, Assurance, Reinsurance and Re-assurance subject to prior approval of the Commission.",
+      "(viii) Board - In case of a company desirous to engage in the business of Paper and/or Board or to public sector companies.",
+      ">>(ix) Bahria / Askari / Fauji / Fazaiya / Cadet /Armed Forces or Forces / Army / Navy / Air Force / Shaheen / Military / Defence - In case of companies to be established by the relevant agency.",
+      ">>(x) Bank/Banking/Banker - In case of companies to be established to undertake banking business subject to prior approval of State Bank of Pakistan or an investment bank subject to prior approval of the Commission.",
+      ">{fn:4-9}[(xa) Chapter – In case of companies where NOC or permission of the organization/entities having various chapters locally or globally, is provided.]",
+      ">>(xi) Charter/Chartered - In case of companies having charter from the sovereign authority of the Federation or the Province.",
+      ">>(xii) Corporation - In case of companies where proper justification is submitted to the satisfaction of registrar.",
+      "(xiii) Exchange/Bourse - In case of Securities Exchange, Commodity Exchange, Mercantile Exchange and Exchange Company, subject to prior approval from the relevant authority.",
+      ">>(xiv) {fn:4-10}[Omitted ]",
+      ">>{fn:4-11}[(xv) Names of Famous/Distinct Personalities – In case of a company, where no objection certificate from the personality is provided or where proper justification is submitted to the satisfaction of registrar.]",
+      ">>(xvi) Federation - In case of a company licensed under section 42 of the Act or trade bodies under Trade Organizations Act, 2013.",
+      "(xvii) Federal - In case of a company where it has a connection with or patronage of the Federal Government subject to prior approval of the Commission.",
+      "(xviii) Province/Provincial/Sindh/Punjab/Baluchistan/Khyber Pakhtunkhwa or KPK/FATA/Gilgit Baltistan or FANA/ Azad Jammu & Kashmir or AJK. In case of a company where it has a connection with or patronage of the concerned Government subject to prior approval of the Commission.",
+      ">>(xix) Group - In case of a company where this word implies several companies under single corporate ownership and applicants have to provide evidence of subsidiary/associate relationship with two or more companies.",
+      ">>(xx) Holding - In case of a company where it qualifies to be a holding company as defined in clause 37 of sub-section (1) of section 2 of the Act to the satisfaction of the registrar.",
+      ">>(xxi) Institute/Institution - In case of a company where it has submitted proper justification to the satisfaction of the registrar.",
+      "(xxii) Finance, Financial, Investment Finance, Investment Advisory, Leasing, Asset Management, Housing Finance, Modaraba, Venture Capital, Private Equity - In case of Non-Banking Finance Company, investment company, Modaraba company, brokerage house subject to prior approval by the Commission. In case of any public sector financial institution subject to prior approval by the Commission or State Bank of Pakistan, as the case may be.",
+      "(xxiii) Name of Company containing country name or nationality other than Pakistan - In case of the companies where appropriate justification is submitted to the satisfaction of the registrar.",
+      "(xxiv) Name of Company containing names of two countries i.e., Pakistan/Pak and any other foreign country - In case of companies where documentary evidence is provided to the satisfaction of the registrar to support the fact that the company is a Joint Venture of two Governments or companies {fn:5-12}[or individuals of two relevant countries].",
+      ">>(xxv) New/Modern/The/Al/International/Company/Co./Inc./Firm/Partnership/LLP/LLC/Proprietor/ Enterprise/Mills/Factory - In case of a company where proper justification is submitted to the satisfaction of the registrar. However, these expressions will not be acceptable if used to make proposed company name distinctive from existing companies.",
+      "(xxvi) State - In case of public sector companies.",
+      "(xxvii) University - In case of University Management Company for the management of University in terms of guidelines of Higher Education Commission.",
+      "(3) The name shall be considered undesirable, if—",
+      ">>(i) {fn:5-13}[Omitted]",
+      ">>(ii) it includes any word or words which are offensive to any section of the people;",
+      ">>(iii) it is identical with or resemble or similar to name of Limited Liability Partnership registered under the Limited Liability Partnership Act, 2017;",
+      ">>(iv) any other word which in the opinion of registrar is undesirable."
+     ],
+     "fn": [
+      {
+       "n": "3-6",
+       "text": "Inserted vide S.R.O. 483 (I)/2018 dated April 17, 2018"
+      },
+      {
+       "n": "3-7",
+       "text": "Inserted vide S.R.O. 483 (I)/2018 dated April 17, 2018"
+      },
+      {
+       "n": "3-8",
+       "text": "Inserted vide S.R.O. 483 (I)/2018 dated April 17, 2018"
+      },
+      {
+       "n": "4-9",
+       "text": "New clause (xa) inserted vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      },
+      {
+       "n": "4-10",
+       "text": "Clause (xiv) omitted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before omission, clause (xiv) read as follows:- “(xiv) Familiar Trade Names or Brand Names - In case of a company where permission of familiar trade name or brand name user is provided or proper documentary evidence of ownership/ use of trade name or brand name is furnished by the applicant to the satisfaction of the registrar.”"
+      },
+      {
+       "n": "4-11",
+       "text": "Clause (xv) substituted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before substitution, clause (xv) read as follows:- “(xv) Famous/Distinct Personalities - In case of a company where proper justification is submitted to the satisfaction of registrar.”"
+      },
+      {
+       "n": "5-12",
+       "text": "Substituted for the words “of two countries” vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      },
+      {
+       "n": "5-13",
+       "text": "Clause (i) omitted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before omission, clause (i) read as follows:- “(i) it includes the name of a registered trade mark or a trade mark which is subject of an application for registration, unless the consent of the owner or applicant for registration of the trade mark, as the case may be, has been obtained and produced by the promoters;”"
+      }
+     ]
     }
-  ],
-  "frontNotes": [],
-  "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included.",
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Chapter III — Incorporation Of Company",
+   "sections": [
+    {
+     "no": "5",
+     "title": "Application for incorporation of company",
+     "page": 6,
+     "text": [
+      "{fn:6-14}[(1) An application for incorporation of company along with specified fee, shall be filed in any of the following modes, namely:-",
+      ">>(i) separate application for incorporation of company in the manner as provided in sub- regulation (2); or",
+      ">>(ii) combined application for reservation of name and incorporation of company in the manner as provided in sub-regulation (3).",
+      "(2) An applicant shall make separate application for incorporation of company either online through e-service or in physical form to the registrar as per Inc. Form-II along with the following documents,-",
+      ">>(i) memorandum (in case of online application, e-service shall automatically generate memorandum on the basis of information provided by the applicant except for companies having specialized business);",
+      ">>(ii) articles where required;",
+      ">>(iii) copies of valid NIC/NICOP (national identity card/ national identity card for overseas Pakistanis) of the subscribers/ directors/chief executive officer or copies of valid Passport in case of a foreigner;",
+      ">>(iv) in case of a single member company copy of valid NIC/NICOP of nominee or copy of valid Passport in case of a foreigner;",
+      ">>(v) copy of NIC of witness in case of physical filing of application;",
+      ">>(vi) in case of physical application, authority letter on stamp paper of requisite value in favour of any one of the subscribers or registered intermediary, authorizing him to file documents for incorporation of company on behalf of subscribers, make correction therein, if required and collect certificate of incorporation and other documents after incorporation of company. The authority letter shall be witnessed with his particulars and shall also be notarized;",
+      ">>(vii) NOC/Letter of Intent/ License (if any)/ approval letter of the relevant regulatory authority in case of specialized business as mentioned in regulation 4;",
+      "(viii) in case of physical application, original paid bank challan or other evidence of payment of fee specified in Seventh Schedule of the Act.",
+      ">>(ix) copy of valid NIC/Passport of person duly authorized by the Board of directors of a body corporate which is a subscriber along with copy of Board resolution. In case of a subscriber which is a limited liability partnership, copy of valid NIC/ Passport of designated partner empowered to act as such, along with copy of instrument empowering him.",
+      ">>(x) in case the subscriber is a foreign company or a foreign body corporate, the profile of the company, detail of its directors, their nationality and country of origin, copy of its charter, statute or memorandum and articles etc., certified in the manner as specified in regulation 15.",
+      "(3) The combined application for reservation of name and incorporation of company limited by shares shall be filed online through e-service on payment of fee along with scanned copies of only relevant and applicable documents, as mentioned in sub-regulation (2) except memorandum of association and articles of association, which shall be generated by e-service:",
+      "Provided that facility of combined application shall not be available for companies to be formed to carry on or engage in any business which is subject to a licence or registration, permission or approval as required under the respective law:",
+      "Provided further that the applicant shall enter three names for the proposed company in the order of priority, out of which any one may be approved by the registrar subject to fulfillment of criteria mentioned in section 10 of the Act and in these regulations. If the name as per option one is not available, the name from other options in order of priority shall be considered for incorporation and in case of refusal of the proposed names, the registrar shall issue the order of refusal as per Inc. Annexure-II.",
+      "(4) Any person may obtain certified copies of the extract of information contained in item 2.1 or 2.2 of Part-II (A), Part-II (D), Part-II (E) and Part-III of Inc. Form-II.]"
+     ],
+     "fn": [
+      {
+       "n": "6-14",
+       "text": "Regulation 5 substituted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before substitution, regulation 5 read as follows:- “5. Application for incorporation of company. – (1) An applicant shall make an application either through e-service or in physical form to the registrar for incorporation of company as per Annexure-IV along with the following documents,- (i) Memorandum of Association; (ii) Articles of Association, where required; (iii) Copies of CNIC/NICOP of the subscribers/directors/chief executive officer or copies of Passport in case of a foreigner; (iv) Copy of CNIC/NICOP of Nominee only in case of single member company or copy of Passport in case of a foreigner; (v) Copy of CNIC of witness in case of physical filing; (vi) Authorization for filing of documents for the proposed company by the subscribers as per Annexure-V in favor of either one of them or registered intermediary; (vii) NOC/Letter of Intent/ License (if any) of the relevant regulatory authority in case of specialized business as mentioned in regulation 4; and (viii) Original paid bank challan evidencing the payment of fee specified in Seventh Schedule of the Act.”"
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Memorandum of Association",
+     "page": 7,
+     "text": [
+      "(1) The memorandum of association shall be in conformity with Table B, C, D, E or F of the First Schedule to the Act and any other rules and regulations notified by the Commission/Federal Government, as applicable to the kind of the company. It shall contain an undertaking that the company shall not engage in any of the restricted business, launch multi-level marketing (MLM), Pyramid and Ponzi Schemes, or other related activities/businesses or any lottery business, or engage in any of the permissible business unless the requisite approval, permission, consent or license is obtained from competent authority as may be required under any law for the time being in force.",
+      "Explanation.- For the purposes of this regulation, “restricted business” {fn:7-15}[includes] undertaking or indulging, directly or indirectly in the business of a Banking Company, Non- Banking Finance Company, Mutual Fund, Private Fund, Leasing, Investment Company, Investment Advisor, REIT Management Company, Housing Finance Company, Discounting Services, Microfinance or Microcredit business, Insurance Business, Modaraba Management Company, Stock Brokerage business, forex, managing agency, business of providing the services of security guards, securities broker, securities adviser, securities manager, share registrar, credit rating company, balloter, underwriter, debt securities trustee or any other business restricted under any law for the time being in force or as may be notified by the Commission {fn:8-16}[or any other government authority].",
+      "(2) {fn:8-17}[ Omitted ]",
+      "(3) {fn:8-18}[ Omitted ]",
+      "(4) The memorandum filed in physical form under sub-section (1) of section 16 of the Act, shall be properly stamped as required by the Stamp Act, 1899 (II of 1899), if applicable, duly subscribed and witnessed along with the declaration made thereunder:",
+      "Provided that in case of electronic submission of memorandum of association, the stamp duty shall not be paid till the time the Provincial Governments devise and implement appropriate measures for payment and recovery of stamp duty through electronic means in terms of section 10 of the Electronic Transactions Ordinance, 2002 (LI of 2002).",
+      "(5) The registrar may require any person who makes a declaration under sub-section (1) of section 16 of the Act or is a promoter or director of the proposed company or is a witness to the signatures of the subscribers to the memorandum to furnish such information, clarification or document as he may deem necessary to satisfy himself for purposes of sub-sections (2) and (4) of section 16 of the Act."
+     ],
+     "fn": [
+      {
+       "n": "7-15",
+       "text": "Substituted for the word “means” vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      },
+      {
+       "n": "8-16",
+       "text": "Inserted vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      },
+      {
+       "n": "8-17",
+       "text": "Sub-regulation (2) omitted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before omission, sub-regulation (2) read as follows:- “(2) The memorandum of association of the company shall be signed by each subscriber to the memorandum.”"
+      },
+      {
+       "n": "8-18",
+       "text": "Sub-regulation (3) omitted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before omission, sub-regulation (3) read as follows:- “ (3) Where the subscriber to the memorandum is a body corporate, the memorandum of association shall be signed by a natural person duly authorized in this behalf by a resolution of the board of directors of the body corporate or designated partner in case of limited liability partnership.”"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Articles of Association",
+     "page": 8,
+     "text": [
+      "{fn:8-19}[(1) In case, the subscribers opt to file combined application for reservation of name and incorporation of company in the manner specified under sub-regulation (3) of regulation 5, the articles as per Table A of First Schedule to the Act shall be the articles of the company.",
+      "(2) In case of separate application for incorporation of company, the subscribers of the company limited by shares may adopt the articles as per Table A of First Schedule to the Act and notify the same to the registrar concerned as per Inc. Form-II and filing of articles separately shall not be required by company adopting Table A:",
+      "Provided that in case articles as per Table A of the First Schedule to the Act are not adopted, the company limited by shares shall file the articles with the registrar along with application for incorporation.",
+      "(3) In the case of a company limited by guarantee or an unlimited company, the company shall file the articles with the registrar along with application for incorporation.]"
+     ],
+     "fn": [
+      {
+       "n": "8-19",
+       "text": "Regulation 7 substituted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before substitution, regulation 7 read as follows:- “7. Articles of Association. – (1) The subscribers of the company limited by shares may adopt the articles of association as per Table A of First Schedule to the Act and notify the same to the registrar concerned as per Annexure-IV: Provided that in the situation mentioned hereinabove, filing of articles of association separately shall not be required. Provided further that in case articles of association as per Table A of the First Schedule to the Act are not adopted, the company limited by shares shall file the articles of association signed by the subscribers to the memorandum with the registrar along with application for incorporation. (2) In the case of a company limited by guarantee or an unlimited company, the company shall file the articles of association signed by the subscribers to the memorandum with the registrar along with application for incorporation. (3) Where the subscriber is a body corporate, the articles of association shall be signed by a natural person duly authorized in this behalf by a resolution of the board of directors of the body corporate or designated partner of the limited liability partnership.”"
+      }
+     ]
+    },
+    {
+     "no": "7A",
+     "title": "Signing of memorandum of association and articles of association",
+     "page": 9,
+     "text": [
+      "{fn:9-20}[(1) The memorandum and articles of the company shall be signed physically or electronically, as the case may be, by each subscriber to the memorandum and articles of association and where required, to be witnessed.",
+      "(2) Where a subscriber is other than a natural person, the memorandum and articles of association shall be signed by a natural person on its behalf in the following manner:",
+      ">>(i) in case of a body corporate, duly authorized by a resolution of the board of directors;",
+      ">>(ii) in case of a limited liability partnership, a designated partner empowered to act as such, alongwith copy of instrument empowering him; and",
+      ">>(iii) in any other case by an authorized representative duly authorized to sign as such.]"
+     ],
+     "fn": [
+      {
+       "n": "9-20",
+       "text": "New regulation 7A inserted vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Appointment of First Directors and Chief Executive Officer",
+     "page": 9,
+     "text": [
+      "(1) The subscribers to the memorandum shall determine the number of directors and the names of the first directors in terms of provisions of section 157 of the Act.",
+      "(2) The subscriber to the memorandum shall also determine the name of the first chief executive officer in terms of provisions of section 186 of the Act.",
+      "(3) The number of directors as determined by the subscribers and particulars of first directors and first chief executive officer shall be stated in the application for incorporation of company as per {fn:9-21}[Inc. Form -II]."
+     ],
+     "fn": [
+      {
+       "n": "9-21",
+       "text": "Substituted for the expression “Annexure-IV” vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "title": "[Other information to be obtained or provided.]",
+     "page": 9,
+     "text": [
+      "{fn:9-22}(1) In addition to the particulars of subscribers as provided in section 31 and 37 of the Act, following further information shall be provided namely:-",
+      ">>{fn:9-23}[(i) a subscriber, in case of a Pakistani national, shall also specify number of his valid NIC/ NICOP and in the case of foreign national, number of his valid passport.]",
+      ">>(ii) in case of a person other than a natural person, the address of its registered office or principal office shall be mentioned and the authorized representative signing the documents shall {fn:9-24}[likewise] provide his particulars.",
+      "{fn:10-25}[(2). In case of a subscriber holding at least twenty five percent of the shares, voting rights or controlling interest in the proposed company on behalf of some other natural or legal person, following additional particulars of ultimate beneficial owner(s), shall be obtained and maintained:",
+      ">(a) Name of the subscriber (natural or legal person)",
+      ">(b) Name of the natural person(s) who is/are the Ultimate Beneficial Owner (UBO) of subscriber (c) Father’s name/Spouse’s Name of UBO (d) NIC/NICOP/ Passport no. of UBO along with date of issue (e) Nationality of UBO (f) Country of origin of UBO (in case of foreign national or dual national)",
+      ">(g) Usual residential address of UBO (h) Email address of UBO (i) Date in which the UBO status was acquired",
+      "(3) in case of indirect shareholding, control or interest being exercised through intermediary companies, entities or other legal persons or legal arrangements in the chain of ownership or control through at least twenty-five percent of the shares, voting rights or controlling interest in the proposed company, reasonable measures shall be taken to obtain the following particulars of the ultimate beneficial owner of the legal persons or arrangements. If there is no natural person, it should obtain the identity of the relevant natural person who holds the position of senior managing official:",
+      "Legal form Percentage of Percentage of Identity of (Company/LLPshareholding, shareholding, Natural Person / Partnership control or control or who Ultimately Name of entity Firm/Trust/ Name of registering authority Business Address Email address interest of UBO interest of legal owns or Any other body Date of incorporation in the legal person or legal controls the corporate (to person or legal arrangement in legal person or be specified)) Country arrangement the Company arrangement",
+      ">(a) (b) (c) (d) (e) (f) (g) (h) (i) (j)",
+      "Explanation:- For the purposes of this regulation the term “ultimate beneficial owner” means a natural person who ultimately owns or controls a company, whether directly or indirectly, through at least twenty five percent shares or voting rights or by exercising effective control in that company through other means. Control through other means may be exercised through a chain of ownership or through close relatives or associates having significant influence or control over the finances or decisions of the company.]"
+     ],
+     "fn": [
+      {
+       "n": "9-22",
+       "text": "Title of regulation 9 substituted vide S.R.O. 927 (I)/2020 dated September 28, 2020. Before substitution, title read as follows; “9. Other information to be provided.-“"
+      },
+      {
+       "n": "9-23",
+       "text": "Clause (i) substituted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before substitution, clause (i) read as follows:- “(i) a subscriber, in case of a Pakistani national, shall also specify his national identity card number and in the case of foreign national, his passport number.”"
+      },
+      {
+       "n": "9-24",
+       "text": "Inserted vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      },
+      {
+       "n": "10-25",
+       "text": "Sub regulations 9(2) and (3) inserted vide S.R.O. 927 (I)/2020 dated September 28, 2020."
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Witness in case of physical submission of a document",
+     "page": 10,
+     "text": [
+      "(1) In case of electronic submission of documents for incorporation of a company a witness is not required in terms of Section 3 of Electronic Transactions Ordinance, 2002.",
+      "(2) In case of physical submission of documents for incorporation of a company, the same shall be witnessed by a Pakistani National having valid CNIC:",
+      "Provided that where a document is required to be attested by a notary public or an oath commissioner or class I magistrate, the same shall be witnessed in accordance with the relevant law."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Examination of documents by the registrar",
+     "page": 11,
+     "text": [
+      "(1)The registrar shall examine the documents submitted for registration of a company and if he/she is satisfied that the same are complete in all respects and all the requirements of the Act and regulations relating to incorporation of the company have been complied with, he shall register the memorandum and other documents delivered to him.",
+      "(2) In case any discrepancies and deficiencies are observed by the registrar in the documents filed, the same shall be communicated to the applicant in writing for resolution and the applicant shall remove the discrepancies and provide requisite information within seven days of date of written communication from the registrar.",
+      "(3) In case no response is received within stipulated time period, a first reminder shall be issued and a final reminder shall be issued seven days thereafter by the registrar concerned.",
+      "(4) In case no response is received from the applicant or the applicant fails to remove discrepancies or provide requisite information to the satisfaction of registrar within seven days of issue of final reminder, the registration of the {fn:11-26}[memorandum and other documents] may be refused."
+     ],
+     "fn": [
+      {
+       "n": "11-26",
+       "text": "Substituted for the word “memorandum” vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Issuance of Certificate of Incorporation",
+     "page": 11,
+     "text": [
+      "(1) On registration of memorandum of association of a company, the registrar shall issue a certificate of incorporation, under his signatures or authenticated by his official seal, as per {fn:11-27}[Inc. Annexure-III], which shall be conclusive evidence that the requirements of the Act as to registration have been complied with and that the company is duly incorporated under the Act.",
+      "(2) The certificate of incorporation may be issued electronically or in physical form."
+     ],
+     "fn": [
+      {
+       "n": "11-27",
+       "text": "Substituted for the expression “Annexure-VI” vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Additional requirements for a single member company",
+     "page": 11,
+     "text": [
+      "(1) A person desirous of forming a single member company shall comply with all the requirements for incorporation of a company as per regulation 5 of these Regulations.",
+      "(2) The person to be nominated under section 14 of the Act shall be in accordance with subSection (3) of Section 79 of the Act."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Additional requirements for an association not for profit",
+     "page": 11,
+     "text": [
+      "The subscribers to the memorandum of an association not for profit shall obtain license {fn:11-28}[under section 42 of the Act], before filing application in terms of regulation 5 of these regulations."
+     ],
+     "fn": [
+      {
+       "n": "11-28",
+       "text": "Substituted for the words “as per Associations with charitable and not for profit objects (Licensing and Corporate Governance) Regulations, 2017” vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      }
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Additional requirements for foreign subscribers and security clearance",
+     "page": 11,
+     "text": [
+      "{fn:11-29}[ (1) In case the subscriber is a foreign company or a foreign body corporate, the registrar shall require additional information including but not limited to, the profile of the foreign company or foreign body corporate, detail of its directors, their nationality and country of origin, copy of its charter, statute or memorandum and articles etc.:",
+      "Provided that the copy of any charter, statute, memorandum, articles or other instrument, constituting or defining the constitution of a foreign company or a foreign body corporate required to be filed with the registrar shall be duly {fn:12-30}[omitted] –",
+      ">>(i) {fn:12-31}[certified to be a true copy by] the public officer in the country where the foreign company or foreign body corporate is incorporated to whose custody the original is committed; or",
+      ">>(ii) {fn:12-32}[certified to be a true copy by] a Notary public of the country where the foreign company or foreign body corporate is incorporated; or",
+      ">>(iii) {fn:12-33}[certified to be a true copy by] an affidavit of a responsible officer of the foreign company or foreign body corporate in the country where the company is incorporated:",
+      ">>{fn:12-34}[(iv) apostillised by the designated competent authority of the state of origin of the foreign public document, who have acceded to the Hague Convention abolishing the requirement of Legalisation for foreign public documents (Apostille Convention) of 1961 and such state is also recognized by the Government of Pakistan for receiving of apostillised documents:]",
+      "Provided further that the signature and seal of the official referred to in clause (i) or the certificate of the Notary Public referred to in clause (ii) above shall be authenticated by a Pakistan diplomatic consular or consulate officer and the certificate of the officer of the foreign company or foreign body corporate referred to in clause (iii) above shall be signed before a Pakistan diplomatic consular or consulate officer.",
+      "(2) In case the subscriber to the memorandum is an individual of foreign nationality, he may be required to file additional documents as deemed necessary by the registrar.",
+      "(3) The Commission shall obtain security clearance from Ministry of Interior (MoI) in following cases and in the manner prescribed hereunder:",
+      ">>(i) companies having foreign (other than {fn:13-35}[omitted] Indian national or origin) subscribers/officers will be incorporated on the basis of an undertaking of each foreign subscriber /officer and case shall be forwarded for security clearance:",
+      "Provided that in case name of subscriber/officer is not security cleared by MoI, the subscriber/officer and the company, shall take immediate steps for replacement and shall transfer shares if any, held by the subscriber;",
+      ">>(ii) companies having foreign subscribers/ officers who are {fn:13-36}[omitted] Indian national or of {fn:13-37}[omitted] Indian Origin will be incorporated after receipt of security clearance;",
+      ">>(iii) security services provider companies will be incorporated after receipt of security clearance from MoI.",
+      "(4) The manner of security clearance shall be subject to any change in the security policy of government from time to time.]"
+     ],
+     "fn": [
+      {
+       "n": "11-29",
+       "text": "Regulation 15 substituted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before substitution, regulation (15) read as follows:- “15. Additional requirements for foreign subscribers and security clearance.- (1)In case the subscriber is a foreign company, additional information is required by the registrar including but not limited to, the profile of the company, detail of its directors, their nationality and country of origin, copy of its charter, statute or memorandum and articles etc.: Provided that the copy of any charter, statute, memorandum, articles or other instrument, constituting or defining the constitution of a foreign company required to be filed with the registrar shall be duly certified to be a true copy by – (i) the public officer in the country where the company is incorporated to whose custody the original is committed; or (ii) a Notary public of the country where the company is incorporated; or (iii) an affidavit of a responsible officer of the company in the country where the company is incorporated. Provided further that the signature and seal of the official referred to in clause (i) or the certificate of the Notary Public referred to in clause (ii) above shall be authenticated by a Pakistan diplomatic consular or consulate officer and the certificate of the officer of the company referred to in clause (iii) above shall be signed before a Pakistan diplomatic consular or consulate officer. (2) In case the subscriber to the memorandum is a foreign national residing outside Pakistan, he may be required to file additional documents as deemed necessary by the registrar and his/her signatures and address on the memorandum and articles of association shall be identical with the details appearing in his passport. (3) The Commission shall obtain security clearance from Ministry of Interior (MoI) in following cases and in the manner prescribed hereunder: (i) companies having foreign (other than Afghan and Indian national or origin) subscribers/officers will be incorporated and case shall be forwarded for security clearance: Provided that in case name of subscriber/officer is not security cleared by MOI, he or she shall take immediate steps for replacement as subscriber/officer and shall transfer shares held by him to another eligible person; (ii) Companies having foreign subscribers/ officers who are Afghan or Indian national or of Afghan or Indian Origin will be incorporated after receipt of security clearance; (iii) Private security companies, will be incorporated after receipt of security clearance.”"
+      },
+      {
+       "n": "12-30",
+       "text": "Omitted vide S.R.O. 530 (I)/2023 dated May 3, 2023. Before omission, read as follows:- “certified to be a true copy by”."
+      },
+      {
+       "n": "12-31",
+       "text": "Inserted vide S.R.O. 530 (I)/2023 dated May 3, 2023."
+      },
+      {
+       "n": "12-32",
+       "text": "Inserted vide S.R.O. 530 (I)/2023 dated May 3, 2023."
+      },
+      {
+       "n": "12-33",
+       "text": "Inserted vide S.R.O. 530 (I)/2023 dated May 3, 2023."
+      },
+      {
+       "n": "12-34",
+       "text": "Inserted vide S.R.O. 530 (I)/2023 dated May 3, 2023."
+      },
+      {
+       "n": "13-35",
+       "text": "Omitted vide S.R.O. 530 (I)/2021 dated April 18, 2022. Before omission, read as follows:- “Afghan and”"
+      },
+      {
+       "n": "13-36",
+       "text": "Omitted vide S.R.O. 530 (I)/2021 dated April 18, 2022. Before omission, read as follows:- “Afghan or”"
+      },
+      {
+       "n": "13-37",
+       "text": "Omitted vide S.R.O. 530 (I)/2021 dated April 18, 2022. Before omission, read as follows:- “Afghan or”"
+      }
+     ]
+    },
+    {
+     "no": "16",
+     "title": "[Omitted]",
+     "page": 13,
+     "text": [
+      "{fn:13-38}[ Omitted ]",
+      "{fn:14-39}[Inc. Form-I]",
+      "COMPANIES (INCORPORATION) REGULATIONS, 2017",
+      "[See Section 10 of the Act and Regulation 3]",
+      "APPLICATION FOR RESERVATION OF NAME Inc. Form-II",
+      "COMPANIES (INCORPORATION) REGULATIONS, 2017",
+      "[See Section 16 of the Act and Regulation 5]",
+      "APPLICATION FOR COMPANY INCORPORATION"
+     ],
+     "fn": [
+      {
+       "n": "13-38",
+       "text": "Regulation 16 omitted vide S.R.O. 483 (I)/2018 dated April 17, 2018. Before omission, regulation (16) read as follows:- “16. Filing of Certificate for receipt of share money.- (1) The company shall report receipt of subscription money from the subscribers along with certificate by a practicing chartered accountant or a cost and management accountant verifying receipt of the money so subscribed within forty five days from the date of incorporation of the company as per Annexure VII. (2) The shares of the subscriber shall be deemed to be cancelled where,- (i) the company has reported non-receipt of share money or receipt of less than required share money as per Annexure-VII; or (ii) the company has not filed Annexure-VII within forty five days of incorporation as this shall be deemed to be non-receipt of share money. (3) The registrar shall give following direction to the company: (i) to remove the name of the subscriber from the register who has failed to pay the subscription money; (ii) either add another shareholder with evidence of payment of share money or to change status of the company, if required: Provided that before giving any such direction, an opportunity of hearing shall be granted by the registrar to the company and the subscriber who has failed to pay share money. (4) The company shall be required to comply with the direction within fourteen days, failing which appropriate action under the Act would be initiated by the registrar against the company: Provided that the company shall submit revised information in pursuance of the direction as per Annexure-IV along with the relevant documents within seven days from the last date the direction was required to be complied with.”"
+      },
+      {
+       "n": "14-39",
+       "text": "Substituted all annexures “Annexure-I”, “Annexure II”, “Annexure III”, “Annexure-IV”, “Annexure-V”, “Annexure VI”, and both “Annexure VII” with “Inc. Form-I”, “Inc. Form-II”, “Inc. Annexure-I”, “Inc. Annexure-II” and “Inc. Annexure- III” vide S.R.O. 483 (I)/2018 dated April 17, 2018."
+      },
+      {
+       "n": "18-40",
+       "text": "Table substituted vide S.R.O. 927 (I)/2020 dated September 28,2020."
+      },
+      {
+       "n": "19-41",
+       "text": "New sub-clause as (c) Inserted vide S.R.O. 927 (I)/2020 September 28, 2020."
+      },
+      {
+       "n": "19-42",
+       "text": "Existing sub-clause (c) be renumbered as sub-clause (d) vide S.R.O. 927 (I)/2020 September 28, 2020."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "caution": "Repealed by S.R.O. 210(I)/2024 (12 February 2024). Kept for matters of earlier periods. Text read from the older (December 2021) scan of the printed edition, the last text before the repeal (the edition records no other later change). Unverified: to be checked against the scan. Annexures and forms are not included."
 }
