@@ -15,7 +15,7 @@
  "lastAmended": "2025-08-12",
  "amendedUpToLabel": "Chapters as on the State Bank's website, downloaded 23 Nov 2026 (the cover still reads 'updated upto March 14, 2020', but the chapters cite amendments dated up to 12 August 2025)",
  "status": "in-force",
- "caution": "State Bank of Pakistan's Foreign Exchange Manual, chapters 1 to 22 as on its website on 23 Nov 2026 (401 paragraphs). The cover page still says 'updated upto March 14, 2020', but the chapters cite later amendments, the latest dated 12 August 2025 among the dates found; the State Bank may have amended further by FE Circulars, so check its current circulars before relying on a paragraph. The appendices (forms and lists, including Appendix V and the list of authorized dealers), annexures and the Notifications of Appendix II are not included here (their PDFs are held). Paragraphs are numbered chapter.paragraph (for example 12.6); paragraphs marked 'Omitted' are as printed. Verification declared by the editor on 23 Nov 2026 (not a line-by-line check).",
+ "caution": "State Bank of Pakistan's Foreign Exchange Manual, chapters 1 to 22 as on its website on 23 Nov 2026 (401 paragraphs). The cover page still says 'updated upto March 14, 2020', but the chapters cite later amendments, the latest dated 12 August 2025 among the dates found; the State Bank may have amended further by FE Circulars, so check its current circulars before relying on a paragraph. Appendices II (Federal Government notifications), IV (list of authorized dealers), the list of authorized hotels and the 120 forms of Appendix V are linked below as the State Bank's own PDFs and searchable by their words. Appendix I is the Foreign Exchange Regulation Act, 1947 (its own page in this library). Appendix III (the State Bank's notifications) and the Annexures are not on the State Bank's Manual page and are not included. Paragraphs are numbered chapter.paragraph (for example 12.6); paragraphs marked 'Omitted' are as printed. Verification declared by the editor on 23 Nov 2026 (not a line-by-line check).",
  "source": {
   "name": "State Bank of Pakistan, Foreign Exchange Manual (Exchange Policy Department)",
   "url": "https://www.sbp.org.pk/epd/index.htm"
@@ -3385,6 +3385,622 @@
    ]
   }
  ],
- "schedules": [],
+ "schedules": [
+  {
+   "title": "Appendix II — Notifications issued by the Federal Government under the Foreign Exchange Regulation Act, 1947",
+   "page": 1,
+   "pdf": "foreign-exchange-manual-appendix-ii.pdf"
+  },
+  {
+   "title": "Appendix IV — List of Authorized Dealers",
+   "page": 1,
+   "pdf": "foreign-exchange-manual-appendix-iv-authorized-dealers.pdf"
+  },
+  {
+   "title": "List of Authorized Hotels",
+   "page": 1,
+   "pdf": "foreign-exchange-manual-authorized-hotels.pdf"
+  },
+  {
+   "title": "Appendix V — Form 1",
+   "page": 1,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 3",
+   "page": 3,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 4",
+   "page": 4,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 5",
+   "page": 5,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 6",
+   "page": 6,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 7",
+   "page": 8,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 8",
+   "page": 10,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 10",
+   "page": 14,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 11",
+   "page": 26,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 12",
+   "page": 27,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 12A",
+   "page": 28,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 14",
+   "page": 30,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 15",
+   "page": 31,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 16",
+   "page": 32,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 17",
+   "page": 33,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 18",
+   "page": 34,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 19",
+   "page": 35,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 20",
+   "page": 36,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 21",
+   "page": 37,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 22",
+   "page": 38,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 23",
+   "page": 39,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 24",
+   "page": 40,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 25",
+   "page": 42,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 26",
+   "page": 43,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 27",
+   "page": 44,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 29",
+   "page": 47,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 30",
+   "page": 48,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 32",
+   "page": 51,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 35",
+   "page": 64,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 36",
+   "page": 65,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 38",
+   "page": 70,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 39",
+   "page": 71,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 40",
+   "page": 72,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 41",
+   "page": 73,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 43",
+   "page": 75,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 44",
+   "page": 76,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 45",
+   "page": 77,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 47",
+   "page": 80,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 48",
+   "page": 81,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 49",
+   "page": 82,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 50",
+   "page": 83,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 51",
+   "page": 86,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 51A",
+   "page": 90,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 52",
+   "page": 91,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 53",
+   "page": 93,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 54",
+   "page": 95,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 54A",
+   "page": 97,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 55",
+   "page": 98,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 56",
+   "page": 99,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 57",
+   "page": 100,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 58",
+   "page": 101,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 59",
+   "page": 102,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 60",
+   "page": 103,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 61",
+   "page": 104,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 62",
+   "page": 105,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 63",
+   "page": 111,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 64",
+   "page": 115,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 65",
+   "page": 116,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 66",
+   "page": 117,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 67",
+   "page": 119,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 68",
+   "page": 121,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 69",
+   "page": 124,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 70",
+   "page": 125,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 71",
+   "page": 126,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 72",
+   "page": 132,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 73",
+   "page": 133,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 74",
+   "page": 135,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 75",
+   "page": 146,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 76",
+   "page": 151,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 77",
+   "page": 153,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 78",
+   "page": 154,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 79",
+   "page": 157,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 80",
+   "page": 160,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 82",
+   "page": 162,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 83",
+   "page": 163,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 84",
+   "page": 165,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 85",
+   "page": 166,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 86",
+   "page": 170,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 87",
+   "page": 171,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 88",
+   "page": 172,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 8",
+   "page": 174,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 92",
+   "page": 177,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 93",
+   "page": 178,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 95",
+   "page": 180,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 95A",
+   "page": 181,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 96",
+   "page": 182,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 96A",
+   "page": 184,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 97",
+   "page": 185,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 97A",
+   "page": 186,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 98",
+   "page": 187,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 99",
+   "page": 188,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 100",
+   "page": 189,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 103",
+   "page": 192,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 106",
+   "page": 195,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 107",
+   "page": 196,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 108",
+   "page": 197,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 109",
+   "page": 198,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 110",
+   "page": 199,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 111",
+   "page": 200,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 112",
+   "page": 201,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 113",
+   "page": 202,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 114",
+   "page": 203,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 120",
+   "page": 209,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 121",
+   "page": 210,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 122",
+   "page": 211,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 123",
+   "page": 212,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 126",
+   "page": 215,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 130",
+   "page": 219,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 132",
+   "page": 221,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 134",
+   "page": 223,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 135",
+   "page": 224,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 137",
+   "page": 226,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 138",
+   "page": 227,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 139",
+   "page": 228,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 140",
+   "page": 229,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 141",
+   "page": 230,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 142",
+   "page": 231,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 143",
+   "page": 232,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 144",
+   "page": 233,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  },
+  {
+   "title": "Appendix V — Form 146",
+   "page": 235,
+   "pdf": "foreign-exchange-manual-appendix-v-forms.pdf"
+  }
+ ],
  "frontNotes": []
 }

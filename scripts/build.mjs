@@ -364,7 +364,7 @@ ${body}
 
     const schedules = act.schedules?.length
       ? `<section class="schedules" id="schedules"><h2>Schedules, annexures and forms</h2>${pdfScheds.length ? `<p class="muted small">Schedules are mostly tables, so they are shown as published in the official PDF.</p><ul class="act-list">${act.schedules
-          .map((x, k) => (x.text ? '' : `<li class="act-row" data-sched="${k}"><a href="${pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`))
+          .map((x, k) => (x.text ? '' : `<li class="act-row" data-sched="${k}"><a href="${x.pdf ? `${base}sources/${x.pdf}` : pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`))
           .join('')}</ul>` : ''}${inlineScheds.length && act.schedulesNote ? `<p class="muted small">${e(act.schedulesNote)}</p>` : ''}${inlineScheds
           .map(([x, k]) => {
             const paras = x.text.map((raw) => { const { level, text } = parseParagraph(raw); return `<p class="l${level}">${e(text)}</p>`; }).join('');
@@ -931,7 +931,7 @@ ${body}
       const schedRows = st
         ? st.schedules
             .filter((x) => x.text)
-            .map((x) => ({ act: a.id, no: '', title: x.title, part: st.pdfOnly ? 'Official PDF' : 'Schedules and annexures', anchor: '', pdf, pdfPage: x.page, text: x.text }))
+            .map((x) => ({ act: a.id, no: '', title: x.title, part: st.pdfOnly ? 'Official PDF' : 'Schedules and annexures', anchor: '', pdf: x.pdf ? `sources/${x.pdf}` : pdf, pdfPage: x.page, text: x.text }))
         : [];
       if (a.pdfOnly) return schedRows.length ? schedRows : [{ act: a.id, no: '', title: a.title, part: 'Official PDF', anchor: '', text: a.summary || '' }];
       return [
@@ -989,12 +989,13 @@ ${body}
 
   // ---------- schedule text for the filter box on instrument pages (served as /schedule-text/<id>.json) ----------
   for (const [id, j] of scheduleText) {
-    if (byId.has(id)) write(`schedule-text/${id}.json`, JSON.stringify({ s: j.schedules.map((x) => ({ t: x.title, p: x.page, x: x.text })) }));
+    if (byId.has(id)) write(`schedule-text/${id}.json`, JSON.stringify({ s: j.schedules.map((x) => ({ t: x.title, p: x.page, x: x.text, ...(x.pdf ? { f: x.pdf } : {}) })) }));
   }
 
   // ---------- official source PDFs (served as /sources/<id>.pdf) ----------
   for (const a of acts) {
     if (a.sourcePdf && !a.sourcePdfUrl) write(`sources/${a.id}.pdf`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', a.sourcePdf)));
+    for (const f of new Set((a.schedules || []).map((x) => x.pdf).filter(Boolean))) write(`sources/${f}`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', f)));
   }
 
   // ---------- screenshots of hand checks (served as /evidence/<file>) ----------

@@ -56,6 +56,10 @@ export function validateLibrary({ catalog, acts }, dataDir = DATA_DIR) {
     if (act.sourcePdf && !act.sourcePdfUrl && !fs.existsSync(path.join(dataDir, '..', 'sources', 'pdf', act.sourcePdf))) {
       errors.push(`${where}: sourcePdf "${act.sourcePdf}" not found in sources/pdf/`);
     }
+    for (const x of act.schedules || []) {
+      // a schedule may be a separate PDF of its own (e.g. the appendices of the Foreign Exchange Manual)
+      if (x.pdf && !fs.existsSync(path.join(dataDir, '..', 'sources', 'pdf', x.pdf))) errors.push(`${where}: schedule PDF "${x.pdf}" not found in sources/pdf/`);
+    }
     if (!act.pdfOnly && Array.isArray(act.parts) && act.parts.length === 0) errors.push(`${where}: no parts (set "pdfOnly": true for PDF-only items)`);
     if (act.id && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(act.id)) errors.push(`${where}: id "${act.id}" must be lowercase-kebab-case`);
     if (act._file && act.id && act._file !== `${act.id}.json`) errors.push(`${where}: file name must be "${act.id}.json"`);
