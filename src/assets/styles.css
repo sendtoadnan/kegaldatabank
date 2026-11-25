@@ -398,3 +398,10 @@ html { scroll-behavior: smooth; }
 .notice-row .act-meta { font-size: .85rem; color: var(--muted, #666); }
 .chip[aria-pressed="true"] { background: var(--accent, #1d4ed8); color: #fff; border-color: transparent; }
 #notice-year { margin-left: .25rem; }
+
+/* Reading aids in provision text: bold list labels and run-in captions; part headings stand out */
+.prov-body .lbl { font-weight: 700; font-variant-numeric: tabular-nums; }
+.prov-body .runin { font-weight: 700; }
+.prov-body p.l1, .prov-body p.l2, .prov-body p.l3 { border-left: 2px solid var(--border); margin-left: 0.2em; }
+.part-heading { border-bottom: 2px solid var(--border); padding-bottom: 6px; }
+.prov-head h3 .prov-no { font-weight: 800; }

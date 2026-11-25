@@ -20,6 +20,20 @@ import {
 } from './lib.mjs';
 import { loadExtras, validateExtras, citedSections, delegation, handCheck, EVIDENCE_DIR } from './related.mjs';
 
+// Reading aids for a provision's paragraph (HTML already escaped): the list label "(i)", "(a)", "1." is set in bold,
+// and for instruments flagged runInHeadings a short caption ending in a colon ("(i) Definitions:", "Instruments: ...") is bold too.
+function emphasise(html, act) {
+  const m = /^(\(?[A-Za-z0-9]{1,5}\)|\d{1,3}[A-Z]{0,2}\.)(\s+|$)/.exec(html);
+  let rest = m ? html.slice(m[0].length) : html;
+  if (act.runInHeadings) {
+    const whole = /^([^<:]{2,90}:)\s*$/.exec(rest);
+    const run = /^([A-Z][^<:()]{2,60}:)(\s+)(?=\S)/.exec(rest);
+    if (whole) rest = `<strong class="runin">${whole[1]}</strong>`;
+    else if (run && run[1].split(/\s+/).length <= 8 && !/^(Provided|Note|However)\b/.test(run[1])) rest = `<strong class="runin">${run[1]}</strong>${run[2]}${rest.slice(run[0].length)}`;
+  }
+  return m ? `<span class="lbl">${m[1]}</span> ${rest}` : rest;
+}
+
 const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-');
 
 export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
@@ -305,7 +319,7 @@ ${body}
             const paras = s.text
               .map((raw) => {
                 const { level, text } = parseParagraph(raw);
-                return `<p class="l${level}">${renderText(text, anchor, known)}</p>`;
+                return `<p class="l${level}">${emphasise(renderText(text, anchor, known), act)}</p>`;
               })
               .join('');
             const notes = (s.notes || []).map((n) => `<li>${e(n)}</li>`).join('');
