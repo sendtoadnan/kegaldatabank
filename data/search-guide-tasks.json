@@ -1,0 +1,25 @@
+{
+ "_about": "Common starting points for the Search guide: a plain question and the laws and rules to open first. They point to whole instruments only (never to a provision) and say nothing about what the law provides. Ids are instrument ids; `search` is an optional search to run.",
+ "tasks": [
+  {"task": "Register or incorporate a company", "laws": ["companies-act-2017", "companies-incorporation-regulations-2017", "companies-general-provisions-forms-regulations-2018", "companies-registration-offices-regulations-2018"]},
+  {"task": "Register a single-member or group company", "laws": ["single-member-companies-rules-2003", "group-companies-registration-regulations-2008"]},
+  {"task": "Run a general meeting or vote electronically", "laws": ["companies-act-2017", "companies-e-voting-regulations-2016"]},
+  {"task": "Buy back a company's own shares", "laws": ["listed-companies-buy-back-regulations-2019", "companies-buy-back-rules-1999"]},
+  {"task": "Take over a listed company", "laws": ["listed-companies-takeovers-regulations-2017", "securities-act-2015"]},
+  {"task": "Raise money from the public (IPO, bonds, sukuk)", "laws": ["public-offering-regulations-2017", "book-building-regulations-2015", "sukuk-privately-placed-regulations-2017", "commercial-papers-regulations-2013"]},
+  {"task": "Offer shares privately or to a few investors", "laws": ["private-placement-rules-2017", "private-funds-regulations-2015"]},
+  {"task": "Wind up, strike off or rehabilitate a company", "laws": ["companies-easy-exit-regulations-2014", "voluntary-winding-up-obligations-regulations-2016", "corporate-rehabilitation-act-2018", "corporate-rehabilitation-regulations-2019"]},
+  {"task": "Set up a licensed broker, adviser or exchange", "laws": ["securities-brokers-licensing-operations-regulations-2016", "securities-futures-advisers-regulations-2017", "securities-exchanges-licensing-operations-regulations-2016", "futures-brokers-regulations-2018"]},
+  {"task": "Insider trading and market misconduct", "laws": ["securities-act-2015", "insider-information-regulations-2016"]},
+  {"task": "Anti-money laundering and know-your-customer", "laws": ["anti-money-laundering-rules-2008", "fmu-aml-regulations-2015", "aml-cft-sanctions-rules-2020", "centralized-kyc-organization-rules-2017"]},
+  {"task": "Mergers, cartels and competition complaints", "laws": ["competition-act-2010", "competition-merger-control-regulations-2016", "competition-leniency-regulations-2019"]},
+  {"task": "Bank loans, recovery of loans and security", "laws": ["financial-institutions-recovery-of-finances-ordinance-2001", "financial-institutions-secured-transactions-act-2016", "banking-companies-ordinance-1962"]},
+  {"task": "Cheques, promissory notes and bills of exchange", "laws": ["negotiable-instruments-act-1881"]},
+  {"task": "Foreign exchange and remittances", "laws": ["foreign-exchange-regulation-act-1947", "foreign-exchange-manual"]},
+  {"task": "Protect a trademark, patent, design or copyright", "laws": ["trade-marks-ordinance-2001", "patents-ordinance-2000", "registered-designs-ordinance-2000", "copyright-ordinance-1962"]},
+  {"task": "Income tax, withholding and returns", "laws": ["income-tax-ordinance-2001", "income-tax-rules-2002"]},
+  {"task": "Mutual funds, REITs, private equity and pensions", "laws": ["reit-regulations-2022", "private-equity-venture-capital-fund-regulations-2008", "voluntary-pension-system-rules-2005"]},
+  {"task": "Insurance and takaful", "laws": ["insurance-sound-prudent-management-regulations-2012", "insurance-accounting-regulations-2017", "general-takaful-accounting-regulations-2019"]},
+  {"task": "Not-for-profit and charitable companies", "laws": ["association-charitable-not-for-profit-regulations-2018"]}
+ ]
+}

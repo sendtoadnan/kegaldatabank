@@ -809,6 +809,44 @@ ${body}
     );
   }
 
+  // Search guide extras: common starting points and an A-Z of terms (every term -> the laws it finds).
+  const actById = new Map(acts.map((a) => [a.id, a]));
+  const taskFile = path.join(dataDir || path.join(ROOT, 'data'), 'search-guide-tasks.json');
+  const taskList = fs.existsSync(taskFile) ? JSON.parse(fs.readFileSync(taskFile, 'utf8')).tasks || [] : [];
+  const actLink = (a) => `<a href="acts/${a.id}/index.html">${e(a.title)}</a>`;
+  const guideTasks = taskList.length
+    ? `<section class="guide-cat" id="tasks"><h2>Common starting points <span class="count">${taskList.length}</span></h2><p class="muted small">Where to look first for a common job. These open whole laws and rules, not particular provisions.</p><dl class="term-list">${taskList
+        .map((t) => {
+          const laws = t.laws.map((id) => actById.get(id)).filter(Boolean);
+          return laws.length ? `<div data-q="${e((t.task + ' ' + laws.map((a) => a.title).join(' ')).toLowerCase())}"><dt>${e(t.task)}</dt><dd class="task-laws">${laws.map(actLink).join(' ')}</dd></div>` : '';
+        })
+        .join('')}</dl></section>`
+    : '';
+  const azMap = new Map();
+  for (const a of acts) {
+    for (const t of searchTermsFor(a)) {
+      const key = t.toLowerCase();
+      if (!azMap.has(key)) azMap.set(key, { label: t, laws: [] });
+      azMap.get(key).laws.push(a);
+    }
+  }
+  const azLetters = new Map();
+  [...azMap.values()]
+    .sort((x, y) => x.label.toLowerCase().localeCompare(y.label.toLowerCase()))
+    .forEach((t) => {
+      const ch = /^[a-z]/i.test(t.label) ? t.label[0].toUpperCase() : '#';
+      if (!azLetters.has(ch)) azLetters.set(ch, []);
+      azLetters.get(ch).push(t);
+    });
+  const guideAz = `<section id="az"><h2>A–Z of terms <span class="count">${azMap.size}</span></h2><p class="muted small">Every name and topic, with the laws it finds. Select a term to search for it.</p><nav class="chips az-nav" aria-label="Letters">${[...azLetters.keys()].map((l) => `<a class="chip" href="#az-${l === '#' ? 'num' : l}">${l}</a>`).join('')}</nav>${[...azLetters.entries()]
+    .map(
+      ([l, list]) =>
+        `<section class="guide-cat az-letter"><h3 id="az-${l === '#' ? 'num' : l}">${l}</h3><ul class="az-list">${list
+          .map((t) => `<li data-q="${e((t.label + ' ' + t.laws.map((a) => a.title).join(' ')).toLowerCase())}"><a class="az-term" href="search.html?q=${encodeURIComponent(t.label)}">${e(t.label)}</a> <span class="muted small">${t.laws.map(actLink).join(' · ')}</span></li>`)
+          .join('')}</ul></section>`
+    )
+    .join('')}</section>`;
+
   // ---------- search guide: every instrument with the names and topics it can be found by ----------
   write(
     'search-guide.html',
@@ -823,7 +861,9 @@ ${body}
     <p>Type any of these in the search box. A short name or topic lists the matching law or rule above the provision results; a short name also works for jumping to a provision, for example <a href="search.html?q=s%20149%20ITO"><code>s 149 ITO</code></a> or <a href="search.html?q=s%20204%20CA%202017"><code>s 204 CA 2017</code></a>.</p>
     <p class="muted small">Topics point to a whole law or rule, not to a particular provision. Use the provision search for the words of the law itself.</p>
     <input class="idx-filter" id="guide-filter" type="search" placeholder="Filter by law, number or topic" aria-label="Filter the search guide" autocomplete="off">
-    <nav class="chips" aria-label="Practice areas">${catalog.categories.map((c) => `<a class="chip" href="#cat-${c.id}">${e(c.name)}</a>`).join('')}</nav>
+    <nav class="chips" aria-label="Jump to">${[['tasks', 'Common starting points'], ['az', 'A–Z of terms'], ...catalog.categories.map((c) => ['cat-' + c.id, c.name])].map(([h, n]) => `<a class="chip" href="#${h}">${e(n)}</a>`).join('')}</nav>
+    ${guideTasks}
+    ${guideAz}
     ${catalog.categories
       .map((c) => {
         const list = acts.filter((a) => a.categories.includes(c.id));
