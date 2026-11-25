@@ -91,6 +91,7 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
     <a href="${base}contents.html"${page === 'contents' ? ' aria-current="page"' : ''}>Index</a>
     <a href="${base}shelf.html"${page === 'shelf' ? ' aria-current="page"' : ''}>My shelf</a>
     <a href="${base}laws.html"${page === 'laws' ? ' aria-current="page"' : ''}>SECP laws</a>
+    <a href="${base}notices.html"${page === 'notices' ? ' aria-current="page"' : ''}>Notices</a>
     <a href="${base}sources.html"${page === 'sources' ? ' aria-current="page"' : ''}>Sources</a>
     <a href="${base}about.html"${page === 'about' ? ' aria-current="page"' : ''}>About</a>
   </nav>
@@ -765,6 +766,52 @@ ${body}
   </section>`,
       })
     );
+  }
+
+  // ---------- notifications, circulars, directives and guidelines (PDF catalogue) ----------
+  {
+    const dir = path.join(dataDir || path.join(ROOT, 'data'), 'notices');
+    const textDir = path.join(dataDir || path.join(ROOT, 'data'), 'notices-text');
+    const sets = fs.existsSync(dir) ? fs.readdirSync(dir).filter((n) => n.endsWith('.json')).sort().map((n) => JSON.parse(fs.readFileSync(path.join(dir, n), 'utf8'))) : [];
+    if (sets.length) {
+      const fmtDate = (d) => { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(d); return m ? `${+m[3]} ${['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][+m[2] - 1]} ${m[1]}` : ''; };
+      const mb = (b) => (b >= 1048576 ? `${(b / 1048576).toFixed(1)} MB` : `${Math.max(1, Math.round(b / 1024))} KB`);
+      const all = sets.flatMap((st) => st.items.map((it) => ({ ...it, kind: st.kind, kindLabel: st.label, reg: st.regulator })));
+      for (const it of all) {
+        const src = path.join(ROOT, 'sources', 'pdf', it.file);
+        if (!fs.existsSync(src)) throw new Error(`notices: ${it.file} not found in sources/pdf/`);
+        write(`sources/${it.file}`, fs.readFileSync(src));
+      }
+      all.sort((x, y) => (y.date || `${String(y.year).padStart(4, '0')}-00-00`).localeCompare(x.date || `${String(x.year).padStart(4, '0')}-00-00`) || x.title.localeCompare(y.title));
+      for (const st of sets) {
+        const tf = path.join(textDir, `secp-${st.kind}.json`);
+        if (fs.existsSync(tf)) write(`notices-text/secp-${st.kind}.json`, fs.readFileSync(tf));
+      }
+      const years = [...new Set(all.map((x) => x.year).filter(Boolean))].sort((x, y) => y - x);
+      const row = (it) => `<li class="notice-row" data-kind="${it.kind}" data-year="${it.year || ''}" data-id="${e(it.id)}" data-q="${e((it.title + ' ' + (it.number || '') + ' ' + (it.date || '') + ' ' + it.year).toLowerCase())}"><a href="sources/${e(it.file)}" target="_blank" rel="noopener"><span class="act-title">${e(it.title)}</span></a><span class="act-meta">${[it.number, fmtDate(it.date) || (it.year ? String(it.year) : ''), it.kindLabel.replace(/s$/, ''), `${it.pages} p.`, mb(it.bytes)].filter(Boolean).map(e).join(' · ')}</span></li>`;
+      write(
+        'notices.html',
+        layout({
+          title: `Notices — ${site.name}`,
+          description: 'SECP notifications, circulars, directives and guidelines, each linked to its official PDF.',
+          base: '',
+          page: 'notices',
+          body: `
+  <section class="prose notices-page wide">
+    <h1>Notifications, circulars, directives and guidelines</h1>
+    <p>${all.length} documents of the Securities and Exchange Commission of Pakistan, each opening its own PDF as saved from the SECP website. Titles are SECP's own file names made readable; the number and date are read automatically from the title or the first page, so some are missing and a few may be wrong: check the PDF itself. These are shown as PDFs, not converted to text, and have not been checked line by line.</p>
+    <p class="muted small">The filter looks at titles, numbers and years, and, once you start typing, at the opening words of each document (read from the PDF; for scanned pages, by text recognition, so it may miss a word). For a notification that amends a law, open the law's own page: its text is already updated.</p>
+    <input class="idx-filter" id="notice-filter" type="search" placeholder="Filter by title, number, year or opening words" aria-label="Filter the notices" autocomplete="off">
+    <nav class="chips src-cards" aria-label="Kind">
+      <button type="button" class="chip" data-notice-kind="">All <span class="count">${all.length}</span></button>
+      ${sets.map((st) => `<button type="button" class="chip" data-notice-kind="${st.kind}">${e(st.label)} <span class="count">${st.items.length}</span></button>`).join('')}
+    </nav>
+    <p class="muted small"><label>Year <select id="notice-year"><option value="">All</option>${years.map((y) => `<option>${y}</option>`).join('')}</select></label> · <span id="notice-count">${all.length} shown</span></p>
+    <ul class="notice-list">${all.map(row).join('')}</ul>
+  </section>`,
+        })
+      );
+    }
   }
 
   // ---------- index of the whole library, by subject, with a link to each instrument ----------

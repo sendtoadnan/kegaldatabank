@@ -806,3 +806,45 @@
     });
   });
 })();
+
+// Notices page: filter by kind, year, title and (once typing) the opening words of each document.
+(function () {
+  var box = document.getElementById('notice-filter');
+  if (!box) return;
+  var rows = Array.prototype.slice.call(document.querySelectorAll('.notice-row'));
+  var kindBtns = document.querySelectorAll('[data-notice-kind]');
+  var yearSel = document.getElementById('notice-year');
+  var count = document.getElementById('notice-count');
+  var kind = '', texts = null, loading = false;
+  function norm(s) { return (s || '').toLowerCase(); }
+  function run() {
+    var q = norm(box.value.trim()), y = yearSel.value, n = 0;
+    var words = q.split(/\s+/).filter(Boolean);
+    rows.forEach(function (r) {
+      var hay = r.getAttribute('data-q') + (texts && texts[r.getAttribute('data-id')] ? ' ' + norm(texts[r.getAttribute('data-id')]) : '');
+      var ok = (!kind || r.getAttribute('data-kind') === kind) && (!y || r.getAttribute('data-year') === y) &&
+        words.every(function (w) { return hay.indexOf(w) > -1; });
+      r.hidden = !ok;
+      if (ok) n++;
+    });
+    count.textContent = n + ' shown';
+  }
+  function loadTexts() {
+    if (texts || loading) return;
+    loading = true;
+    var kinds = Array.prototype.map.call(kindBtns, function (b) { return b.getAttribute('data-notice-kind'); }).filter(Boolean);
+    Promise.all(kinds.map(function (k) {
+      return fetch('notices-text/secp-' + k + '.json').then(function (r) { return r.ok ? r.json() : {}; }).catch(function () { return {}; });
+    })).then(function (all) { texts = Object.assign.apply(null, [{}].concat(all)); run(); });
+  }
+  box.addEventListener('input', function () { loadTexts(); run(); });
+  yearSel.addEventListener('change', run);
+  kindBtns.forEach(function (b) {
+    b.addEventListener('click', function () {
+      kind = b.getAttribute('data-notice-kind');
+      kindBtns.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      run();
+    });
+  });
+  kindBtns[0].setAttribute('aria-pressed', 'true');
+})();
