@@ -145,7 +145,14 @@ export function escapeHtml(s) {
 }
 
 // Paragraph strings may start with ">" markers to indent clauses: ">(a) ..." or ">>(i) ...".
+// A table is a run of paragraphs that start with "|": "|!Head|Head|Head" is the header row, "|a|b|c" a row, and a row
+// with one cell is a caption/section row. Cells never contain "|".
 export function parseParagraph(p) {
+  if (p.startsWith('|')) {
+    const head = p[1] === '!';
+    const cells = p.slice(head ? 2 : 1).split('|');
+    return { level: 0, row: cells, head, text: cells.filter(Boolean).join(' · ') };
+  }
   const m = /^(>*)\s*/.exec(p);
   return { level: Math.min(m[1].length, 3), text: p.slice(m[0].length) };
 }

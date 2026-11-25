@@ -175,7 +175,10 @@
      "page": 7,
      "text": [
       "(1) A Shariah Advisor may be appointed to provide Shariah advisory services, subject to the following limits applicable with effect from July 1, 2018:",
-      "Limit on concurrent appointments as a Shariah Advisor Individual/Single Member Four (4) Company (SMC) Firm/ LLP Four (4) times the number of individual Shariah Advisors who are its partners Company Four (4) times the number of individual Shariah Advisors who are its directors",
+      "|Limit on concurrent appointments as a Shariah Advisor",
+      "|!Individual/Single Member Company (SMC)|Four (4)",
+      "|Firm/ LLP|Four (4) times the number of individual Shariah Advisors who are its partners",
+      "|Company|Four (4) times the number of individual Shariah Advisors who are its directors",
       "Provided that the upper limit shall not include appointments of a Shariah Advisor in any banking company or a company regulated by State Bank of Pakistan or a company or entity not registered in Pakistan until specified otherwise by the Commission;",
       "(2) Shariah opinion given by a Shariah Advisor to a company or entity shall be deemed as an appointment;",
       "(3) The appointment of a Shariah Advisor by a Non-banking Finance Company (NBFC) managing different collective investment scheme, pension funds, discretionary and non-discretionary portfolios shall be considered a single appointment;",

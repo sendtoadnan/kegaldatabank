@@ -11,6 +11,8 @@ numbers in the text become {fn:page-n} markers, and page numbers and running hea
 """
 import fitz, re, sys, json
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from pdf_tables import find_tables, row_strings, clean_cell
 
 SMALL = {"a", "an", "and", "as", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "with", "etc"}
 
@@ -29,12 +31,13 @@ def norm(s): return re.sub(r"[^a-z0-9]", "", s.lower())
 def page_lines(doc):
     """Lines of every page, with lines of one row (a number and its title are often separate lines) joined.
     Each line: page, x, y, size (of ordinary text), bold, text (superscripts as \x01n\x02), ph (page height)."""
-    raw = []
+    raw = []; tabs = {}
     for pno, pg in enumerate(doc):
         for b in pg.get_text("dict")["blocks"]:
             for l in b.get("lines", []):
                 spans = [s for s in l["spans"] if s["text"].strip()]
                 if spans: raw.append((pno, pg.rect.height, l["bbox"][0], l["bbox"][1], spans))
+        tabs[pno] = find_tables(pg)
     sizes = {}
     for _, _, _, _, sp in raw:
         for s in sp: sizes[round(s["size"], 1)] = sizes.get(round(s["size"], 1), 0) + len(s["text"])
@@ -62,7 +65,14 @@ def page_lines(doc):
         out.append({"page": r["page"], "ph": r["ph"], "x": r["x"], "y": r["y"], "size": size, "small": sm, "body": body,
                     "bold": bool(norm_spans) and all(s["flags"] & 16 for s in norm_spans if len(s["text"].strip()) > 1) and any(len(s["text"].strip()) > 1 for s in norm_spans),
                     "text": text})
-    return out
+    res = []; done = set()
+    for l in out:
+        hit = next((t for t in tabs.get(l["page"], []) if t["x0"] - 3 <= l["x"] <= t["x1"] + 3 and t["y0"] - 2 <= l["y"] + 4 <= t["y1"] + 2), None)
+        if hit is None: res.append(l); continue
+        if id(hit) not in done:
+            done.add(id(hit))
+            res.append({"page": l["page"], "ph": l["ph"], "x": hit["x0"], "y": hit["y0"], "size": body, "small": False, "body": body, "bold": False, "text": "\x00TABLE", "table": hit["rows"]})
+    return res
 
 
 def split_page_furniture(lines):
@@ -146,6 +156,9 @@ def chapter(doc, ch):
         paras = []; stack = []; vals = {}; fnotes = []
         cur = None; prevl = None
         for l in body[j:end]:
+            if l.get("table"):
+                paras.append({"rows": l["table"]}); cur = None; prevl = l
+                continue
             t = l["text"]
             def fnrep(m):
                 n = m.group(1)
@@ -185,6 +198,8 @@ def chapter(doc, ch):
                 cur["t"] += " " + t
         text = []
         for p in paras:
+            if "rows" in p:
+                text += row_strings(p["rows"]); continue
             q = re.sub(r"\s+", " ", p["t"]).strip()
             q = re.sub(r"\s+([,.;:])", r"\1", q)
             if q: text.append(">" * p["lvl"] + q)
@@ -229,4 +244,4 @@ def main():
     json.dump(parts, open(OUT, "w"), indent=1, ensure_ascii=False)
 
 
-main()
+if __name__ == "__main__": main()

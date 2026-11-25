@@ -152,3 +152,9 @@ Apply the same steps to any long PDF (manuals, chapter files, circular compilati
 5. **Reading aids** (build): list labels are bold on every instrument; set `"runInHeadings": true` in an instrument's JSON to make short captions ("(i) Definitions:", "Instruments: ...") bold.
 6. **Check the result against the old data**: every old paragraph number must still exist; read a sample of long paragraphs and a table. Tables are not rebuilt (they read as running text; the caution says so).
 7. Then `npm run build`, `cd tools/ai && node make_vectors.mjs`, `npm test`.
+
+### Tables (26 Nov 2026)
+- A table is stored as paragraph strings: `|!Head|Head|Head` (header row), `|a|b|c` (row), `|Caption` (one filled cell, shown as a title row). The build turns a run of them into an accessible, scrollable table (header cells `scope`, numbers right-aligned, zebra rows, wide tables in smaller type). Search and AI passages read a row as its cells joined by " · ".
+- New conversions: `tools/pdf_tables.py` (PyMuPDF `find_tables`, empty rows/columns dropped) is used by `tools/fe_manual.py`.
+- Instruments already in `data/acts`: `python3 tools/add_tables.py <id> [--apply]` (or `--all`) turns a table into rows only when its words, in any reading order, are exactly the words of one run of the provision's text; it refuses to write if any instrument's words would change. Tables left as text are listed: most are in annexures and forms that exist only as linked PDF pages, or sit among other text; they need the table-aware step in the extractor.
+- Tables without ruled lines are not detected.

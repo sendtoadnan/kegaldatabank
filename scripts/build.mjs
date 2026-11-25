@@ -20,6 +20,37 @@ import {
 } from './lib.mjs';
 import { loadExtras, validateExtras, citedSections, delegation, handCheck, EVIDENCE_DIR } from './related.mjs';
 
+// Paragraph strings to HTML: ordinary paragraphs with their indent level, and runs of table rows ("|a|b|c") as one
+// accessible, horizontally scrollable table. fmt(text, isParagraph) escapes and decorates a piece of text.
+function renderParas(list, fmt) {
+  let out = '';
+  let rows = [];
+  const flush = () => {
+    if (!rows.length) return;
+    const cols = Math.max(...rows.map((r) => r.row.length));
+    const isNum = (c) => /^[-+(]?[\d][\d,.\s]*%?\)?$/.test(c.trim());
+    const cell = (c, tag, extra = '') => `<${tag}${extra}${tag === 'td' && isNum(c) ? ' class="num"' : ''}>${fmt(c, false)}</${tag}>`;
+    let head = '';
+    let body = '';
+    for (const r of rows) {
+      const filled = r.row.filter(Boolean);
+      if (r.head) head += `<tr>${Array.from({ length: cols }, (_, i) => cell(r.row[i] || '', 'th', ' scope="col"')).join('')}</tr>`;
+      else if (filled.length === 1 && cols > 1) body += `<tr class="tbl-title"><th colspan="${cols}" scope="colgroup">${fmt(filled[0], false)}</th></tr>`;
+      else body += `<tr>${Array.from({ length: cols }, (_, i) => cell(r.row[i] || '', 'td')).join('')}</tr>`;
+    }
+    out += `<div class="tbl-wrap${cols > 6 ? ' tbl-wide' : ''}" role="region" aria-label="Table" tabindex="0"><table>${head ? `<thead>${head}</thead>` : ''}<tbody>${body}</tbody></table></div>`;
+    rows = [];
+  };
+  for (const raw of list) {
+    const p = parseParagraph(raw);
+    if (p.row) { rows.push(p); continue; }
+    flush();
+    out += `<p class="l${p.level}">${fmt(p.text, true)}</p>`;
+  }
+  flush();
+  return out;
+}
+
 // Reading aids for a provision's paragraph (HTML already escaped): the list label "(i)", "(a)", "1." is set in bold,
 // and for instruments flagged runInHeadings a short caption ending in a colon ("(i) Definitions:", "Instruments: ...") is bold too.
 function emphasise(html, act) {
@@ -316,12 +347,7 @@ ${body}
           .map((s) => {
             const anchor = provisionAnchor(s.no);
             const known = new Set((s.fn || []).map((f) => f.n));
-            const paras = s.text
-              .map((raw) => {
-                const { level, text } = parseParagraph(raw);
-                return `<p class="l${level}">${emphasise(renderText(text, anchor, known), act)}</p>`;
-              })
-              .join('');
+            const paras = renderParas(s.text, (t, isPara) => (isPara ? emphasise(renderText(t, anchor, known), act) : renderText(t, anchor, known)));
             const notes = (s.notes || []).map((n) => `<li>${e(n)}</li>`).join('');
             const fns = (s.fn || [])
               .map((f) => `<li id="${anchor}-fn-${slug(f.n)}"><span class="fn-no">${e(fnLabel(f.n))}</span> ${e(f.text)}</li>`)
@@ -382,7 +408,7 @@ ${body}
           .map((x, k) => (x.text ? '' : `<li class="act-row" data-sched="${k}"><a href="${x.pdf ? `${base}sources/${x.pdf}` : pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`))
           .join('')}</ul>` : ''}${inlineScheds.length && act.schedulesNote ? `<p class="muted small">${e(act.schedulesNote)}</p>` : ''}${inlineScheds
           .map(([x, k]) => {
-            const paras = x.text.map((raw) => { const { level, text } = parseParagraph(raw); return `<p class="l${level}">${e(text)}</p>`; }).join('');
+            const paras = renderParas(x.text, (t) => e(t));
             return `<article class="provision schedule" id="${schedAnchor(k)}" data-no="" data-title="${e(x.title)}" data-cite="${e(x.title)}, ${e(act.title)}"><header class="prov-head"><h3><a class="prov-link" href="#${schedAnchor(k)}">${e(x.title)}</a></h3><div class="prov-tools" role="group" aria-label="Tools for ${e(x.title)}"><button type="button" data-action="link" title="Copy link to this schedule">Link</button></div></header><div class="prov-body">${paras}</div></article>`;
           })
           .join('')}</section>`

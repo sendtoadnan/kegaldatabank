@@ -67,8 +67,12 @@
      "page": 2,
      "text": [
       "All life insurers carrying out unit linked business shall offer the unit linked products having the minimum financial protection component (i.e. life insurance coverage) as specified in table below:",
-      "Minimum Financial Protection Type of Product (life insurance cover for death due to any cause) Regular premium individual life contracts (endowment, wholelife 5 times of the Basic Annual Premium etc.) Child education / marriage or family income benefit contracts 5 times of the Basic Annual Premium (where no fixed sum cover is paid on death due to any cause)",
-      "Single premium contracts 1.25 times of the premium"
+      "|!Type of Product||Minimum Financial Protection",
+      "|(life insurance cover for death due to any",
+      "|cause)",
+      "|Regular premium individual life contracts (endowment, wholelife etc.)|5 times of the Basic Annual Premium|",
+      "|Child education / marriage or family income benefit contracts (where no fixed sum cover is paid on death due to any cause)|5 times of the Basic Annual Premium|",
+      "|Single premium contracts|1.25 times of the premium|"
      ]
     },
     {
@@ -531,7 +535,11 @@
       ">>(i) The insurer shall maintain continuous communication with the policyholder so as to provide him pertinent information about the policy and any ancillary matters related thereto, in a timely and effective manner through the communication channel, chosen by the policyholder, throughout the policy cycle. The insurer will, at the least, communicate with the policyholder in the following instances as follows:",
       ">(a) The insurer shall send a “welcome message” through SMS at the registered mobile number of the policyholder containing information about issuance of insurance policy, dispatch of insurance policy documents, and free look period clause.",
       ">(b) The insurer shall send the renewal notice to the policyholder prior to the due date of premium through mail/courier or email at his/her active email address, or both, as specified by the policyholder in writing at the time of policy inception, or later. The insurer will also send follow-up SMS for collection of renewal premium, two days after sending the renewal notices. The insurer shall send the renewal notices for policies with variable premium payment frequencies, at the following intervals, as provided through the table below:",
-      "Premium payment frequency Minimum No. of days prior to due date Annual Thirty days Semi annual Fifteen days Quarterly One week Monthly One week",
+      "|!Premium payment frequency|Minimum No. of days prior to due date",
+      "|Annual|Thirty days",
+      "|Semi annual|Fifteen days",
+      "|Quarterly|One week",
+      "|Monthly|One week",
       ">(c) After premium payment is received by the insurer from the policyholder, the insurer shall send an SMS for acknowledging the receipt of payment to the policyholder, in addition to any other payment acknowledgment receipt provided to the policyholder",
       ">(d) At the time of issuing units against each premium, the insurer shall send a statement or SMS or email to the policyholder informing the amount of charges deducted from the premium, net amount invested, and number of new units created;",
       ">(e) The insurer shall send intimation of effectuating endorsement for any change in the insurance policy through email at the active email address of the policyholder or SMS, or both, as preferred by the policyholder. Thereafter, the insurer shall also send the endorsement through mail/courier or email, or both, as specified by the policyholder in writing.",

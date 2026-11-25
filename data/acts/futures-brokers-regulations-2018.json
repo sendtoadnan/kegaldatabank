@@ -213,8 +213,10 @@
      "text": [
       "[ {fn:6-12} (1) An applicant for a licence as a futures broker shall",
       "comply with and ensure ongoing compliance with the following minimum net worth requirements for each category:",
-      "Category Minimum Net worth (Rs. in Million) Futures Broker 10",
-      "Agri-Only Futures Broker 5 ]",
+      "|!Category|Minimum Net worth (Rs. in Million)",
+      "|Futures Broker|10",
+      "|Agri-Only Futures Broker|5",
+      "]",
       "(2) In case a futures broker fails to meet the minimum {fn:6-13}[ ] net-worth requirements as specified in sub-regulation (1), the futures exchange shall {fn:6-14}[allow a further period of 30 calendar days to the futures broker to comply with the minimum capital requirement and failing of which the futures exchange shall] restrict the trading facility of such futures broker and its licence shall be suspended by the Commission without prejudice to any other disciplinary action under the Act and these regulations.",
       "{fn:6-15}[omitted]",
       "(7) The net worth of a futures broker shall be calculated as total assets less total liabilities less surplus on revaluation, if any, created upon revaluation of fixed assets:",
