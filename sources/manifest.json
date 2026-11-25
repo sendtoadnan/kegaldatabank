@@ -3289,19 +3289,19 @@
    "corporate"
   ],
   "aliases": [],
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 1191(I)/2007",
-   "url": "https://www.secp.gov.pk"
+   "name": "Competition Commission of Pakistan",
+   "url": "https://www.cc.gov.pk"
   },
-  "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpTo": "2016-12-31",
+  "amendedUpToLabel": "As published on the Competition Commission's website (23 Nov 2026), including S.R.O. 1200(I)/2016",
   "watch": {
-   "page": "https://www.cc.gov.pk/",
+   "page": "https://cc.gov.pk/home/regulations",
    "manual": true
   },
   "enacted": "2007-11-20",
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  "file": "competition-commission-conduct-of-business-regulations-2007.pdf",
+  "noteMaxSize": 10
  },
  {
   "id": "competition-commission-investment-expenditure-regulations-2007",
@@ -3337,19 +3337,26 @@
    "corporate"
   ],
   "aliases": [],
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 1189(I)/2007",
-   "url": "https://www.secp.gov.pk"
+   "name": "Competition Commission of Pakistan",
+   "url": "https://www.cc.gov.pk"
   },
-  "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpTo": "2016-11-26",
+  "amendedUpToLabel": "Revised to 26 November 2016, as published on the Competition Commission's website (23 Nov 2026)",
   "watch": {
-   "page": "https://www.cc.gov.pk/",
+   "page": "https://cc.gov.pk/home/regulations",
    "manual": true
   },
   "enacted": "2007-11-20",
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  "caution": "The text as published still refers to the Competition Ordinance, 2007 in places.",
+  "file": "competition-commission-general-enforcement-regulations-2007.pdf",
+  "noteMaxSize": 10,
+  "plainNumberProvisions": [
+   "30",
+   "58",
+   "59",
+   "60"
+  ]
  },
  {
   "id": "competition-commission-reward-payment-informants-regulations-2014",
@@ -3431,19 +3438,19 @@
    "corporate"
   ],
   "aliases": [],
-  "textFrom": "printed-edition",
   "source": {
-   "name": "Gazette of Pakistan, S.R.O. 401(I)/2008",
-   "url": "https://www.secp.gov.pk"
+   "name": "Competition Commission of Pakistan",
+   "url": "https://www.cc.gov.pk"
   },
   "amendedUpTo": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
+  "amendedUpToLabel": "20 June 2026 (no later change recorded)",
   "watch": {
-   "page": "https://www.cc.gov.pk/",
+   "page": "https://cc.gov.pk/home/regulations",
    "manual": true
   },
   "enacted": "2008-04-24",
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007."
+  "file": "competition-commission-extension-exemption-rules-2007.pdf",
+  "noteMaxSize": 10
  },
  {
   "id": "competition-appellate-tribunal-rules-2015",

@@ -1,883 +1,1009 @@
 {
-  "id": "competition-commission-general-enforcement-regulations-2007",
-  "title": "Competition (General Enforcement) Regulations, 2007",
-  "number": "S.R.O. 1189(I)/2007",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [],
-  "lastAmended": "2021-12-31",
-  "amendedUpToLabel": "As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 1189(I)/2007",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to As at December 2021 (54th/115th update of the source); its later updates to 20 June 2026 record no change to this instrument and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 1189(I)/2007, November 20, 2007.- In exercise of the powers conferred by section 56 of the Competition Ordinance, 2007 (the Ordinance) read with sub-section (1) of section 40 thereof, the Competition Commission of Pakistan (the Commission), is pleased to make the Competition (General Enforcement) Regulations, 2007, namely:- PART-I PRELIMINARY",
-  "parts": [
+ "id": "competition-commission-general-enforcement-regulations-2007",
+ "title": "Competition (General Enforcement) Regulations, 2007",
+ "number": "S.R.O. 1189(I)/2007",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [],
+ "enacted": "2007-11-20",
+ "lastAmended": "2016-11-26",
+ "amendedUpToLabel": "Revised to 26 November 2016, as published on the Competition Commission's website (23 Nov 2026)",
+ "status": "in-force",
+ "source": {
+  "name": "Competition Commission of Pakistan",
+  "url": "https://www.cc.gov.pk"
+ },
+ "sourcePdf": "competition-commission-general-enforcement-regulations-2007.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "Competition Commission PDF downloaded from cc.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-25"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Part I — Preliminary",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title, commencement and Jurisdiction",
-          "text": [
-            "(1) These regulations may be called the Competition (General Enforcement) Regulations, 2007.",
-            "(2) They shall come into force at once.",
-            "(3) These regulations shall apply to all such undertakings doing business in Pakistan whether incorporated in Pakistan or not, which commit contravention or are likely to commit contravention of the prohibitions under Chapter II of the Ordinance and any other provisions in relation thereto under the Ordinance or the rules, regulations, directions and orders made there under."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
-            ">(a) \"applicant\" means a party to a prohibited agreement who have filed an application under regulation 4;",
-            ">(b) \"application\" means an application seeking exemption under these regulations;",
-            ">(c) \"Chairman\" means the Chairman of the Commission appointed under sub-section (2) of section 14 and includes the Acting Chairman appointed under section 16 thereof;",
-            ">(d) \"Commission\" means the Competition Commission of Pakistan established under section 12;",
-            ">(e) \"complainant\" means an undertaking or a registered association of consumers filing a complaint or the Federal Government filing a reference under regulation 17;",
-            ">(f) \"confidential information\" means commercial information the disclosure of which would, or might, in the opinion of the Commission, significantly harm the legitimate business interests of the undertaking to which it relates;",
-            ">(g) \"document\" means any matter expressed or described upon any substance by means of letters, figures or marks, or by any other means, used or intended to be used for the purpose of recording that mattrr; 1(gg) \"Fee schedule\" means the schedule notified under section 20(2)(b) of the Ordinance.]",
-            ">(h) \"informant\" means a person who furnishes information regarding contravention of provisions of the Ordinance of which cognizance is to be taken by the Commission;",
-            ">(i) \"inquiry officer\" means an officer appointed by the Commission to enquire into any matter under these regulations;",
-            ">(j) \"intervener\" means any person or undertaking permitted to intervene by the Commission in any proceedings under these regulations;",
-            ">(k) \"Ordinance\" means the Competition Ordinance, 2007;",
-            "(1) \"party\" shall include complainant and an undertaking defined in clause (p) of section, 2 or the officer concerned of the department of the Commission conducting the case before it, or any statutory authority, as the case may be, and shall include a respondent or respondents against whom any inquiry or proceeding is instituted or relief is sought to be made and shall also include any person permitted to join the proceedings or an intervener but does not include an informant;",
-            ">(m) \"person\" includes an undertaking;",
-            ">(n) \"section\" means section of the Ordinance;",
-            ">(o) \"working day\" means a day which is not Saturday, Sunday or a public holiday;",
-            "(2) Words and expressions used in these regulations, but not defined herein shall have the meanings assigned in the Ordinance or the rules and regulations prescribed under the Ordinance.",
-            "PART-II",
-            "Exemption procedure"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Who can apply",
-          "text": [
-            "(1) An application for grant of individual or block exemption pursuant to sections 5 and [7] shall not be made by any person except a party to the agreement; provided that:",
-            ">(a) where the applicant is an individual, by the individual;",
-            ">(b) where the applicant is a company or other body corporate, by a duly authorized officer of that company or body corporate;",
-            ">(c) where the applicant is a partnership firm, by a partner of that firm; and",
-            ">(d) in case of any other entity, by an authorized representative of such entity.",
-            "(2) If a joint application is made, the application shall be regarded as being made to the Commission by or on behalf of all the applicants, and a joint representative shall be appointed duly authorized to act on behalf of all the joint applicants for the purposes of these regulations."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Form of application for exemption",
-          "text": [
-            "(1) Application under these regulations for the exemption of any agreement shall be on the Form as provided in the Schedule to these regulations.",
-            "(2) The Commission may, by giving notice to the applicant, dispense with the obligation to submit any particular information or document (including any supporting document forming part of the prescribed Form, if it considers that such information or document is unnecessary for examination of the application.",
-            "(3) Where strict compliance with any part of the application is not possible, the Commission may allow that part of the application to be complied with in such other manner as it thinks fit.",
-            "(4) Every application shall be submitted in triplicate, or in such other number as and in such manner, as the Commission may require.",
-            "(5) An application received by the Commission under this regulation shall be recorded in the public register in such manner as the Commission deems expedient.",
-            "(6) No applicant shall make an application under sub-regulation (1) hereof unless it is accompanied by a processing fee 'las prescribed under the Fee Schedule]. The fee may be paid in the form of bank challan deposited with a branch of the authorized bank of the Commission or [a bank draft] in favour of the Commission.",
-            "[4A. Grant of block exemption without application: In cases, where pro-competitive benefits are on record, in terms of section 9 of the Competition Act, 2010, the Commission may grant block exemption at its own, without any application to be submitted by the concerned undertaking(s).]"
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Power to call for information",
-          "text": [
-            "The Commission may call for any information or submission of a document in relation to the grant of exemption."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Power to refuse an application",
-          "text": [
-            "The Commission may refuse an application submitted under regulation 4, if-",
-            ">(a) the application is not made in accordance with regulation 4.",
-            ">(b) the Commission has reasonable grounds for suspecting that any information submitted to it (whether contained in the application, under regulation 4 or otherwise) is incomplete, false or misleading or",
-            "omits to state any material information;",
-            ">(c) the Commission's direction for any information under regulation 5 is not complied with; or",
-            ">(d) the Commission has reasonable grounds to believe that there has been a material change in any information submitted to the Commission (whether as contained in the application, under regulation 4 or",
-            "otherwise), and such change has not been notified to the Commission."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Power to inquire",
-          "text": [
-            "Where the Commission receives an application made under regulation 4 above, the Commission may proceed to decide the matter on the basis of the record made available or it may decide to commence an inquiry in accordance with these regulations."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Burden of proof",
-          "text": [
-            "The applicant desirous of obtaining an exemption under these regulations shall bear the burden of proving that the conditions relating thereto have been satisfied in terms sub-section (2) of section 9"
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Exemptions",
-          "text": [
-            "(1) The Commission may subject to such conditions or obligations as it may consider appropriate, grant an individual or block exemption in respect of an agreement if - (a) an application for an exemption has been made to the Commission in accordance with regulation 4; and",
-            ">(b) the criteria for exemption provided in section 9 are met.",
-            "(2) Before making a block exemption order, the Commission shall notify the proposed order by publishing it in one English and one Urdu national daily newspaper, with a summary thereof, stating:",
-            ">(a) brief facts;",
-            ">(b) grounds for grant of exemption;",
-            ">(c) conditions, if any, to which the exemption shall be subject to; and",
-            ">(d) the period for which such exemption is valid.",
-            "(3) the Commission may on an application made in accordance with the [and accompanied with the fee as prescribed under the \"Fee Schedule], extend the period for which an exemption has effect."
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Cancellation, variation of exemptions",
-          "text": [
-            "(1) Where the Commission has reasonable grounds for believing that there has been a material change of circumstances since the Commission granted an individual exemption or the information on the basis of which an individual exemption was granted was incomplete, false or misleading, it may, by notice in writing proceed in accordance with regulation 38 and pass an order in terms of sub-sections (1) or (2) of section 6.",
-            "(2) Subject to sub section (3) of section 7, prior to cancellation of the block exemption granted by the Commission, the Commission shall comply with the notice and hearing requirements as provided in regulation 38."
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Powers when conducting inquiry",
-          "text": [
-            "For the purposes of an inquiry 11. under Regulation 7, the Commission shall have and exercise same powers as under Regulation 7, the Commission shall have and exercise same powers as provided in regulation 23."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Interim measures",
-          "text": [
-            "(1) Where the Commission has reason to believe that:",
-            ">(a) an agreement is or has been in existence which may infringe the prohibitions under section 4; or",
-            ">(b) the prohibition under section 4 has been infringed but the Commission has not completed the inquiry into the matter, the Commission may for the purposes of-",
-            ">(i) preventing serious, irreparable damage to a particular serious, irreparable undertaking or category of undertakings, or",
-            ">(ii) protecting the public interest, give such directions as it considers appropriate for that purpose.",
-            "(2) Before giving a direction under this regulation, the Commission shall -",
-            ">(a) give written notice to the undertaking to whom it proposes to give the direction; and",
-            ">(b) give that undertaking an opportunity to make written or oral representations within the time specified by the Commission in this behaf.",
-            "(3) A notice under sub-regulation [(2)] shall state the reasons for issuing, the direction.",
-            "(4) Any direction given under this regulation shall have effect while sub-",
-            "regulation (1) applies, but may subsequently be revoked or substituted by a subsequent direction under regulation 14."
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Decisions following an inquiry",
-          "text": [
-            "Consequent upon the conclusion of an inquiry conducted under regulation 7, the Commission may proceed to grant or refuse an exemption.",
-            "(2) Before making the decision to refuse the grant of exemption, the Commission shall-",
-            ">(a)",
-            ">(a) give written notice to the undertaking likely to be affected by the proposed decision; and",
-            ">(b) give that undertaking an opportunity of hearing."
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Directions in relation to agreements",
-          "text": [
-            "(1) The Commission may give such directions as the Commission may consider appropriate while granting or refusing an exemption including the direction requiring the parties to the agreements-",
-            ">(a) to modify the agreement; or",
-            ">(b) to terminate the agreement.",
-            "(2) A direction under this regulation shall be in writing."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Enforcement of Directions",
-          "text": [
-            "(1) If an undertaking fails, without reasonable cause, to comply with a direction under regulation 14, the Commission may-",
-            ">(a) require such undertaking to make good its default within the period specified in this behalf; or",
-            ">(b) cancel the exemption in respect of the agreement;",
-            ">(c) proceed to impose the penalty in accordance with section 38; or",
-            ">(d) initiate proceedings in a court of competent jurisdiction.",
-            "PART-III",
-            "Enquiries and Adjudications"
-          ]
-        },
-        {
-          "no": "16",
-          "title": "Inquiry",
-          "text": [
-            "(1) Without prejudice to the generality of the powers conferred under section 37 and subject to sub-regulation (2) hereof, the Commission may commence an inquiry:",
-            ">(a) suo moto; or",
-            ">(b) upon a reference made to it by the Federal Government under regulation 17; or",
-            ">(c)",
-            ">(c) on receipt of a complaint from an undertaking or a registered association of consumers under regulation 17.",
-            "(2) The Commission may commence an inquiry upon receipt of a complaint if the facts before it, appear to constitute a contravention of the following provisions:",
-            ">(a) prohibition in section 3;",
-            ">(b) prohibition in section 4;",
-            ">(c) prohibition in section 10;",
-            ">(d) prohibition in section 11; or",
-            ">(e) any act, omission or facts otherwise available appear to constitute contravention of the provisions of Chapter II of the Ordinance."
-          ]
-        },
-        {
-          "no": "17",
-          "title": "Reference and Complaints",
-          "text": [
-            "(1) The Commission shall upon a reference made to it by the Federal Government, conduct enquiries into any matter relevant to the purposes of the Ordinance.",
-            "(2) Without prejudice to the foregoing where the Commission receives from an undertaking or a registered association of consumers a complaint in writing, it may, unless it is of opinion that the application is frivolous or vexatious or based on insufficient facts, or is not substantiated by prima facie evidence, conduct an inquiry into the matter to which the complaint relates."
-          ]
-        },
-        {
-          "no": "18",
-          "title": "Contents of complaint and reference",
-          "text": [
-            "(1) A complaint/ reference/ application under these regulations shall state -",
-            ">(a) Name of the person making the complaint/reference/application;",
-            ">(b) address in Pakistan for delivery of notice/document;",
-            ">(c) telephone number, fax number and electronic mail address, if available;",
-            ">(d) mode of service of notice/documents to be used;",
-            ">(e) name and address(es) of respondent(s); and",
-            ">(f) name and address of authorized representative, if any;",
-            "(2) The complaint/ reference/ application shall contain -",
-            ">(a) a brief statement of facts;",
-            ">(b) a summary of the alleged contravention of the Ordinance;",
-            ">(c) a succinct presentation in support of each contravention;",
-            ">(d) such other particulars as may be specified by the Commission;",
-            ">(e) a schedule listing all documents/affidavits/evidence in support of each of the presentations ; and",
-            ">(f) relief(s) sought."
-          ]
-        },
-        {
-          "no": "19",
-          "title": "Fee for filing Complaint",
-          "text": [
-            "Except for the reference filed by the Federal Government, each complaint received under these regulations shall be accompanied by an evidence having paid the fee of 'las prescribed under the Fee (2) Fee can be paid either by tendering demand draft or pay order payable in favour of the Commission or challan form evidencing the payment of fee in the account of the Commission."
-          ]
-        },
-        {
-          "no": "20",
-          "title": "Power to strike out",
-          "text": [
-            "(1) Any vexatious or frivolous complaint, application or request for joinder or intervention, as the case may be, by any person/persons may be dismissed by the Commission. The Commission's decision on the aforesaid applications being frivolous/ vexatious shall be made on the basis of facts and circumstances of each case. 2 (2) The Commission may, on an application by a co-respondent or a cocomplainant or a co-applicant stating that no relief has been claimed by or against him/her/it or that no relief has to be granted to or against him/her/it, permit the striking out of such person from the proceedings.",
-            "'|(3) No application made under sub-regulation (2) shall be processed unless it is accompanied by a processing fee as prescribed in the Fee Schedule]"
-          ]
-        },
-        {
-          "no": "21",
-          "title": "Withdrawal of private complaints",
-          "text": [
-            "The Commission may permit the withdrawal of a complaint at any stage of the proceeding but an inquiry or",
-            "proceeding does not necessarily abate on such withdrawal and may proceed if so decided by the Commission."
-          ]
-        },
-        {
-          "no": "22",
-          "title": "Initiation of proceedings under section 30",
-          "text": [
-            "(1) Where the Commission on its own or upon filing of the complaint is satisfied, that there has been or is likely to be, a contravention of any provision of the Ordinance, the Commission may issue a show cause notice stating the reasons thereof to such person as may appear to it to have been or likely to be in contravention.",
-            "(2) If the information available on the record is sufficient to satisfy the Commission that the contravention of any provision of Chapter II has been committed or is likely to be committed the Commission may proceed under sub-",
-            "regulation (1) above without conducting inquiry under these regulations."
-          ]
-        },
-        {
-          "no": "23",
-          "title": "Powers during proceedings",
-          "text": [
-            "(1) The Commission shall, for the purpose of any proceedings, investigation or inquiry under these regulations, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (Act V of 1908), while trying any case, in respect of the following matters, namely:",
-            ">(a) Summoning and enforcing the attendance of any witness and",
-            "examining him on oath;",
-            ">(b) discovery and production of any document or other material object producible as evidence;",
-            ">(c) accept evidence on affidavits;",
-            ">(d) requisitioning of any public record from any court or office; and",
-            ">(e)",
-            ">(e) issuing of a commission for the examination of any witness, document or both.",
-            "(2) The Commission may, for the purpose of an inquiry or during the course of' an inquiry, may:",
-            ">(a) call for information from any person for the purpose of satisfying itself, whether there has been any contravention of the provisions of the Ordinance;",
-            ">(b)",
-            "require any person to produce or deliver any document or thing in its custody or under control, deemed useful or relevant to the inquiry and",
-            "allow any record kept to be examined by an officer of the Commission specified in this behalf, and",
-            ">(c)",
-            "examine any person acquainted with the facts and circumstances of the case.",
-            "(3) 1000-09- (3) The Commission shall have the power to authorize any officer to enter and search any premises for the purpose of enforcing any provision of the Ordinance.",
-            "(4)",
-            "(4) For the purpose of paragraph (3) above, the Commission may:",
-            ">(a) have full and free access to any premises, place, accounts, documents or computer;",
-            ">(b) stamp, or make an extract or copy of any accounts, documents or",
-            "computer-stored information to which access is obtained under clause (a);",
-            ">(c) impound any accounts or documents and retain them for as long as may be necessary for the purposes of the Ordinance;",
-            ">(d) where a hard copy or computer disk of information stored on a computer is not made available, impound and retain the computer for as long as is necessary to copy the information required; and",
-            ">(e) make an inventory of any article found in any premises or place to which access is obtained under clause (a).",
-            "(5) Any officer of the Commission who seeks to exercise the right to enter and search premises shall be required to provide evidence of his authority to act on behalf of the Commission.",
-            "(6) In the event that an undertaking refuses the entry of Inquiry Officer without reasonable cause, forcible entry may be made in terms of section 35."
-          ]
-        },
-        {
-          "no": "24",
-          "title": "Termination of Inquiry",
-          "text": [
-            "The Commission may terminate the inquiry at any stage and make announcement of its decision after recording the reasons for doing so if-",
-            ">(a) the complainant does not provide proper cooperation during inquiry;",
-            ">(b) the complainant has failed to provide any supplementary materials to the Commission within the time limit set by the Commission; and",
-            ">(c) if a complaint is struck down under sub-regulation (1) of regulation 20."
-          ]
-        },
-        {
-          "no": "25",
-          "title": "Interim Order",
-          "text": [
-            "(1) Where, during the course of any proceeding in . 7 cases of contravention of statutory provisions of the Act, the Commission is of opinion that the issue of a final order in the proceedings is likely to take time and that, in the situation that exists or is likely to.emerge, serious or irreparable damage may occur and an interim order is necessary in the public interest, it may, after giving the undertaking concerned an opportunity of being heard, by order, direct such undertaking to do or refrain from doing or continuing to do any act or thing specified in the order, (2) The Commission may pass an interim order, if considered necessary as a matter of urgency for the purpose of:-",
-            ">(a) preventing serious, irreparable damage to a particular person or class of persons; or",
-            ">(b)",
-            ">(b) protecting the public interest, the Commission may give such (b) proteting athe onubdes aperept, ate for Chat puspon may give such directions as it considers appropriate for that purpose.",
-            "(3) The Commission may, subject to sub-regulation (2) above read with section 32 of the Act, on the application of a party or of its own initiative, after giving the undertaking concerned an opportunity of being heard, by order direct such undertaking to de or refrain from doing or continuing to do any act or thing specified in the order.",
-            "(4) The Commission shall exercise its power under these regulations by taking into account all the relevant circumstances, including:-",
-            ">(a) the urgency of the matter;",
-            ">(b)",
-            ">(b) the effect on the party making the request if the relief sought is not granted; and",
-            ">(c) the effect on competition if the relief is granted.",
-            "(5) Any order or direction issued under these regulations shall be in accordance with the provisions of section 32, and shall remain in force for such a period as may be specified therein but not beyond the date of final order made under section 31.]"
-          ]
-        },
-        {
-          "no": "26",
-          "title": "Hearing after submission of Inquiry Report",
-          "text": [
-            "(1) Upon receipt of inquiry report where the Commission is satisfied that there has been or is likely to be, a contravention of any provision of Chapter II of the Ordinance, the Commission shall:",
-            ">(a) give notice of its intention to make such order stating the reasons therefor to such person as may appear to it to be in contravention; and",
-            ">(b) give the person an opportunity of being heard on such date as may be specified in the notice and of placing before the Commission facts and",
-            "material in support of its contention.",
-            "(2) The hearing convened pursuant to the notice issued under subregulation (1) above shall, proceed in the following manner-",
-            ">(a) \"[Presentation of case: (i) The parties concerned or their duly authorized representative shall be asked to present their case and to produce relevant oral and/or documentary evidences forming the basis for issuance of show cause notice.",
-            ">(ii) The parties shall appoint only such representatives to appear before the Commission on their behalf who are fully briefed so as to be conversant in all respects with the facts and issues of the matter being heard as well as the status of the undertaking and are duly authorized to make statements or commitments for and on their behalf in relation thereto and can respond to any or all queries made by the adjudicating authority in respect thereof.]",
-            ">(b) Filing of reply: The Commission may give the person or undertaking against whom a notice is issued under clause (a) of sub-regulation (1)",
-            "above for contravention of the provisions of the Ordinance, a reasonable time to present its explanation or arguments in defense, orally or in writing or both, and produce documents in support of its stance, in person or through its authorized representative.",
-            ">(c) The Commission in its discretion may call the Inquiry Officer to attend and participate such hearing.",
-            ">(d) Adjournment of hearing:",
-            "i. The Commission, if sufficient cause is shown, may from time to time adjourn the hearing for reasons to be recorded in writing:",
-            "Provided that not more than two adjournments shall be given in any case except in exceptional circumstances the nature of such exceptional circumstances shall be duly recorded;",
-            "ii. All parties or their authorized representatives shall append their signature on a register maintained for this purpose by the officer authorized in this regard by the Commission noting the date of hearing, if re-fixed or on grant of adjournment, as the case may be, and no separate notice shall be issued to such parties unless a new date of hearing is fixed by the Commission.",
-            ">(e) Ex-parte order: Where on the day fixed for hearing, including day of hearing re-fixed on adjournment, if any party or parties to the proceeding do not appear even after service of notice or having noted the date, the proceedings [may] continue in the absence of such party or parties, not appearing and an ex-parte decision [may] be made.",
-            "[(3) During the course of hearing, any mutual agreement or an undertaking given by the parties may be recorded and signed by the persons, representing both the parties, who are duly authorized in this regard]"
-          ]
-        },
-        {
-          "no": "26A",
-          "title": "Taking of Evidence",
-          "text": [
-            "(1) Subject to the provisions of the Ordinance, the Commission may determine the manner and the nature of evidence that may be adduced in the proceedings before it.",
-            "(2) Without prejudice to sub-regulation (1), the Commission may for the purpose of inquiry or investigation, as the case may be,-",
-            ">(a) admit evidence taken in the form of verifiable transcripts of tape recordings, unedited versions of video recording, electronic mail, telephone records including authenticated mobile telephone records, written signed un-sworn statements of individuals or signed responses to written questionnaires or interviews or comments or opinions or to written questionnaires or interviews or comments or opinions or",
-            "analyses of experts based upon market surveys or economic studies or",
-            "other authoritative texts or otherwise, as documentary evidence;",
-            ">(b) admit as genuine, every document purporting to be a certificate, certified copy or other document, which is by law declared to be admissible as evidence of any particular fact;",
-            ">(c) admit the entries in the books of account, including those maintained in an electronic form, regularly kept in the course of business, including entries in any public or other official book, register or record or an electronic record, made by a public servant in the discharge of his official duty, or by any other person in performance of a duty, specially enjoined by the law of the country in which such book, register or",
-            "record or an electronic record is kept, as documentary evidence;",
-            ">(d) admit the opinion of any person acquainted with the handwriting of the person by whom a document is supposed to have been written or",
-            "signed, as relevant fact to prove the handwriting of the person by whom the document was written or signed;",
-            ">(e) admit the opinion of the handwriting experts or the experts in identifying finger impressions or the persons specially skilled in interpretation of foreign law or of science or art;",
-            ">(f) take notice of the facts of which notice can be taken by a court of law under Article 112 of the Qanoun-e-Shahadat Order 1984 (X of 1984);",
-            ">(g) accept the facts, which parties to the proceedings admit or agree in writing as proved; and",
-            ">(h) presume that any document purporting to be a certified copy of any recordof any authority, court or government of any country not forming part of Pakistan as genuine and accurate, if the document purports to be certified in any manner which is certified by any representative of the government of such country to be the manner commonly in use in that country for the certification of copies of such records, including certification by the Embassy or the High Embassy Commission of that country in Pakistan.",
-            "(3) The Commission may call for the parties to lead evidence by way of affidavit or lead oral evidence in the manner.",
-            "(4) The Commission shall have the discretion to record the proceedings of (4) taking evidence through either a tape recorder or a video camera.",
-            "(5) If the Commission directs evidence by a party to be led by way of oral submission, the Commission, if considered necessary or expedient, grant an opportunity to the other party or parties, as the case may be, to cross examine the person giving the evidence.",
-            "(6) The Commission, if considered necessary or expedient, direct that the evidence of any of the parties to be recorded by an officer or person designated for the said purpose, in a manner so prescribed by the Commission.",
-            "(7) The Commission may direct the parties to file written note of arguments/submissions in the matter.",
-            "1 26B. Production of additional evidence before the Commission.- (1) The parties to the proceedings shall not be entitled to produce before the Commission additional evidence, either oral or documentary, which was in the possession or knowledge byt was not produced before the Commission during the proceedings under section 30 of the Ordinance, but if the Commission requires any document to be produced or any witness to be examined or any affidavit to be filed to enable it to pass orders or for any other substantial cause, or if the Commission has not given sufficient opportunity to the party to adduce evidence, the Commission, for reasons to be recorded, may allow such document to be produced or witness to be examined or affidavit to be filed or may allow such evidence to be adduced.",
-            "(2)",
-            "(2) Such document may be produced or such witness examined or such evidence adduced before the Commission as the Commission may direct.",
-            "(3)",
-            "(3) If the document is directed to be produced or witness examined or evidence adduced before any authority, such authority shall comply with the directions of the Commission and after compliance, send the document, the record of the deposition of the witness or the record of the evidence adduced, to the Commission.]"
-          ]
-        },
-        {
-          "no": "27",
-          "title": "Intervener",
-          "text": [
-            "(1) Any person may be permitted to intervene and participate, subject to the conditions noted hereunder or as the Commission may deem appropriate, in any proceeding if such person satisfies the Commission that such person has sufficient interest in the outcome of the proceedings;",
-            "(2)",
-            "(2) A request for intervention shall be accompanied by proof of payment of fees;",
-            "(3) The amount of fee payable by the intervener shall be the same as payable by a complainant in accordance with regulation 19;",
-            "(4) A request for intervention shall contain:-",
-            ">(a) name of the person making the request;",
-            ">(b) address in Pakistan for service of notice/documents;",
-            ">(c)",
-            "telephone number, facsimile number and electronic mail address, if available;",
-            ">(d): the mode of service of notice/documents to be used; OГ-6Л-ЛС_(» (e) a concise statement of the matters in issue in the proceedings which a concise statement of the matters in issue in the proceedings which affect the person making the request; and",
-            ">(f) a schedule listing all documents/affidavit/evidences in support of the statement."
-          ]
-        },
-        {
-          "no": "28",
-          "title": "Remedies",
-          "text": [
-            "(1) Without prejudice to the generality of the powers conferred upon the Commission under section 31, the Commission may consider any of the following types of remedies, including, but not limited to:",
-            ">(a) remedies that are intended to restore all or part of the market structure, such as;",
-            "i. prohibition of an anticipated merger;",
-            "ii. divestment of a completed acquisition; and",
-            "iii. partial prohibition or divestment.",
-            ">(b) remedies that are intended to increase the competition, such as;",
-            "i. requiring access to essential inputs/facilities;",
-            "ii. dismantling exclusive distribution arrangements; and",
-            "ill. removing no competition clauses in customer contracts.",
-            ">(c) remedies aimed at excluding or limiting the possibility that the merged undertaking will take advantage of the increased market power resulting from the merger to behave anti-competitively or to exploit its customers or suppliers, such as;",
-            "[ -]",
-            "[i]. a commitment to non-discriminatory behavior;",
-            "[ii]. an obligation to increase the transparency of prices; and",
-            "[iii]. an obligation to refrain from conduct, the main purpose or effect of which is to inhibit entry;",
-            "Provided, however, that the remedial action that the Commission may decide to take will always depend on the facts and circumstances of the case.",
-            "(2) In deciding what an appropriate remedy is, the Commission shall consider the effectiveness of different remedies and their associated costs and may regard to the principle of proportionality.",
-            "(3) In addressing the question of which remedies would be appropriate, and would provide as comprehensive a solution as is reasonable and practicable, the Commission may take account of how adequately the action would remedy, prevent or mitigate the competition concerns."
-          ]
-        },
-        {
-          "no": "29",
-          "title": "Assessment of competitive effects of abuse of dominant position",
-          "text": [
-            "The Commission in assessing the competitive effects of abuse of dominant position in the relevant market, may consider, the following factors of dominance including, but not limited to, the commonly used measures such as;",
-            ">(a) Market shares i. Market share of the concerned undertaking and for this purpose may use information from a variety of sources including the main parties, other competitors, customers, buyers, suppliers, trade associations and market research reports.",
-            "ii. Market shares can be measured in terms of revenues, volumes, production capacities or [outputs], depending on the markets concerned and the information available.",
-            ">(b) Concentration measures [i. May generally look at measures of the degree of concentration as an indicator of the ability of leading undertakings in a market to exercise market power.]",
-            "ii. Other competitive constraints will need to be considered before finding that these undertakings have such market power.",
-            ">(c) Structural factors There may be other structural factors which may also provide an indication of current competitive conditions within the market.",
-            ">(d) Any other factors The Commission may have regard to such other factors on case-by-case basis.",
-            "PART-IV",
-            "Commitments"
-          ]
-        },
-        {
-          "no": "30",
-          "title": "Acceptance of Commitments",
-          "text": [
-            "[(1) The Commission may, at any time after initiating proceedings under Section 30 but before the conclusion thereof may, at its discretion, accept commitments from the concerned undertakings that remedy violations of the provisions of Chapter II of the Act.]",
-            "(2) Before accepting any commitments, the Commission may ensure that the commitments are sufficient to clearly address the adverse effects to competition which have been identified."
-          ]
-        },
-        {
-          "no": "31",
-          "title": "Procedures of Commitments",
-          "text": [
-            "The Commission shall encourage the relevant persons to take the initiatives for proposing suitable commitments which may appropriately resolve any competition concerns.",
-            "(2) The Commission may consult with such persons as it thinks appropriate before accepting the commitments offered by them."
-          ]
-        },
-        {
-          "no": "32",
-          "title": "Acceptance of Commitments",
-          "text": [
-            "(1) The Commission is not bound to accept commitments offered by any party.",
-            "[2. The acceptance of commitments by the Commission would not mean that a violation has hot taken place.]"
-          ]
-        },
-        {
-          "no": "33",
-          "title": "Favourable Decisions",
-          "text": [
-            "(1) The Commission may, at its discretion, issue a favourable decision where commitments have been accepted.]",
-            "(2) The Commission may revoke the favourable decision, if any of the commitments accepted by the Commission have been breached."
-          ]
-        },
-        {
-          "no": "34",
-          "title": "Power to vary, substitute or release",
-          "text": [
-            "The Commission may vary, substitute or release a commitment upon an application, accompanied by the prescribed fee, from the concerned undertaking.]",
-            "PART-V",
-            "Cooperation between the Commission and other regulatory bodies"
-          ]
-        },
-        {
-          "no": "35",
-          "title": "Cooperation between the Commission and other regulatory 35. authorities on competition matters",
-          "text": [
-            "(1) Subject to section 48, the Commission may enter into any agreement with any regulatory authority for the purposes of-",
-            ">(a) facilitation and cooperation between the Commission and the regulatory authority in the performance of their respective functions in so far as they relate to issues of competition between undertakings;",
-            ">(b) avoiding duplication of activities by the Commission and the regulatory authority, being activities involving the determination of the effects on competition of any act done, or proposed to be done; and",
-            ">(c) ensuring as far as practicable, consistency between decisions made or",
-            "other steps taken by the Commission and the regulatory authority in so far as any part of those decisions or steps consists of or relates to a determination of any issue of competition between undertakings.",
-            "(2) An agreement that is entered into under sub-regulation (1) above is referred to in this regulation as a cooperation agreement.",
-            "(3) A cooperation agreement may include provisions -",
-            ">(a) enabling each party, I ] to furnish to another party information in its possession if the information is required by that other party for the purpose of the performance by it of any of its functions;",
-            ">(b) enabling each party to forbear to perform any of its functions in relation to a matter in circumstances where it is satisfied that another party is performing functions in relation to that matter; and",
-            ">(c) requiring each party to consult with any other party before performing any function in the circumstances where the respective exercise by each party of the function concerned involves the determination of issues of competition between undertakings that are identical to one another or fall within the same category of such an issue, being a category specified in the agreement.",
-            "(4) In this reguiation-",
-            "\"issue of competition between undertakings\" includes an issue of competition between undertakings that arises generally in the sector of activity in relation to which the Commission or the regulatory authority may exercise powers and",
-            "such an issue that falls, or could fall, to be the subject of the exercise by the Commission or the regulatory authority of powers in particular circumstances;",
-            "\"party\" means a party to a cooperation agreement and a reference to another party (whether that expression or the expression\" \"the other party\" is used)",
-            "shall, where there are two or more other parties to the agreement, be construed as a reference to one or more of those other parties or each of them, as appropriate."
-          ]
-        },
-        {
-          "no": "36",
-          "title": "Cooperation between the Commission and foreign competition bodies",
-          "text": [
-            "(1) Subject to section 47, the Commission may, with the approval of the Federal Government, enter into arrangements with any foreign competition body whereby each party to the arrangements may -",
-            ">(a) furnish to the other party information in its possession if the information is required by that other party for the purpose of performance by it of any of its functions; and",
-            ">(b) provide such other assistance to the other party as will facilitate the performance by that other party of any of its functions.",
-            "(2) The Commission shall not furnish any information to a foreign competition body pursuant to such arrangements unless it requires, and obtains from, that body an undertaking in writing that it will comply with terms specified in the undertaking, including the provisions of any other written law concerning the disclosure of such information by the Commission.",
-            "(3) The Commission may give an undertaking to a foreign competition body that it will comply with terms specified in the undertaking where -",
-            ">(a) those terms correspond to the provisions of any law in force in the country or",
-            "territory in which the body is established, being provisions which concern the disclosure by the body of the information referred to in clause (b); and",
-            ">(b) compliance with the requirement is a condition imposed by the body for furnishing information in its possession to the Commission pursuant to the arrangements referred to in sub-regulation (1). \"Words \"the information\" omitted by SRO 1126(I)/2008 dated October 30, 2008.",
-            "(4) In this regulation, \"foreign competition body\" means a person in whom there are vested functions under the law of another country or territory with respect to the enforcement or the administration of provisions of law of that country or territory concerning competition between undertakings.",
-            "PART-VI",
-            "Decisions of the Commission"
-          ]
-        },
-        {
-          "no": "37",
-          "title": "Favourable Decisions of the Commission",
-          "text": [
-            "[(1) Where the Commission makes a favorable decion*, it shall limit itself to imposing a penalty of up to PKR 7,500,000, or 1% of the turnover of the undertaking, for each violation on the concerned undertaking.]",
-            "[ ]"
-          ]
-        },
-        {
-          "no": "38",
-          "title": "Unfavourable decisions of the Commission",
-          "text": [
-            "(1) Where -",
-            ">(a) after considering the statements made, or documents produced, in the course of proceedings before the Commission; or",
-            ">(b) in the case of an inquiry, after considering the inquiry report, the Commission proposes to make a decision that any of the provisions of the Ordinance, rules, regulations, order or directions made or issued thereunder have been infringed, the Commission shall give written notice to the person(s) likely to be affected by such notice; and shall also give such person(s) an opportunity to make a representation to the Commission.",
-            "(2) The Commission may also, upon considering the representation, if any, made by the person(s) concerned, as it thinks fit, make a decision that any of the provisions of the Ordinance, rules, regulations, order or directions made or issued thereunder, have been infringed.",
-            "(3) Every notice envisaged in sub-regulation (1) above shall state -",
-            ">(a) the facts on which the Commission relies, the objections taken by the Commission, the actions the Commission proposes and the reasons for the proposed action; and",
-            ">(b) the period within which a relevant person may make written representations to the Commission provided, however, such period shall not exceed a period of 30 days.",
-            "(4) A party to any proceeding before the Commission may on an application made to the Commission in that behalf, be allowed to inspect or obtain copies of the documents or records submitted during proceedings on payment of fee as specified in regulation 19, provided that an inspection shall be allowed only in the presence of an officer so authorized by the Commission; Competition Ordinance, 2007 R.41A Competition Ordinance, 2007 R.41A (5) Where, in written representation on the matters referred to in a notice given to a relevant person, that relevant person requests to make oral representations to the Commission on such matters, the Commission may give that relevant person a reasonable opportunity to make such oral representations.",
-            "(6) Where the Commission has given the relevant person a reasonable opportunity to make oral representations under sub-regulation (5) above but no oral representations have been made, the Commission may proceed with the case in the absence of such representations.",
-            "Explanation: 'relevant person' means a person to whom notice is required to be given under these regulations."
-          ]
-        },
-        {
-          "no": "39",
-          "title": "Imposition of Penalty",
-          "text": [
-            "(1) Subject to section 38 of the Ordinance the Commission may by order, direct any undertaking or any director, officer or employee of an undertaking, or any other person to pay by way of penalty such sum as may be specified in the order if, after giving the undertaking concerned an opportunity of hearing, the Commission is of the opinion that the undertaking has acted in contravention of the provisions of the Ordinance.",
-            "(2) For the recovery of any amount from any person the Commission may serve upon a concerned person or the Chief Executive or Director of the concerned undertaking a notice as prescribed in Schedule A.",
-            "PART-VII",
-            "Appeals"
-          ]
-        },
-        {
-          "no": "40",
-          "title": "Appeals",
-          "text": [
-            "The person aggrieved by any order passed by any Member or authorized officer of the Commission pursuant to the provisions of the Ordinance, may file an appeal before the Appellate Bench of the Commission in accordance with the Competition Commission (Appeal) Rules, 2007.",
-            "PART-VIII",
-            "Miscellaneous"
-          ]
-        },
-        {
-          "no": "41",
-          "title": "Guidelines",
-          "text": [
-            "(1) The Commission may, where deemed necessary issue and publish guidlines from time to time in order to ensure compliance with the provisions of the Ordinance or rules and regulations made thereunder.",
-            "(2) Where the guidelines would apply to an industry or a sector of industry, the Commission may, in preparing such guidelines, consult with the concerned regulatory authority (if any).",
-            "(3) The guidelines shall be illustrative and not exhaustive and shall not set a limit on the enforcement powers of the Commission.",
-            "(4) The guidelines shall not be a substitute for the Ordinance, the rules, regulations and the orders made thereunder.",
-            "141A. Fees.- (1) The fees payable to the Commission, shall be as",
-            "141A. Fees.- (1) The fees payable to the Commission, shall be as prescribed under the Fee Schedule.",
-            "(2) The fees payable to the Commission may be paid in the form of bank challan deposited with a branch of the authorized bank of the Commission, or through a bank draft in favour of the Commission. R. 41A Pt. VII, Competition (3) Any document or application to be submitted to the Commission under the Ordinance or the rules/regulations made thereunder, shall not be deemed to have been submitted, until the fee prescribed under the \"Fee Schedule\" has been duly paid.",
-            "(4) The Fee Schedule may be amended by the Commission from time to time, and be notified in the official gazette."
-          ]
-        },
-        {
-          "no": "41B",
-          "title": "Refund of fees",
-          "text": [
-            "Where any fee is required to be paid to the Commission, such fee shall not be refundable, whether in whole or in parts, except at the discretion of the Commission.]"
-          ]
-        },
-        {
-          "no": "42",
-          "title": "Forms",
-          "text": [
-            "(1) The application form prescribed under these regulations as provided in the Schedule to these regulations, shall be accessible to the public on the Commission's website.",
-            "(2) The Commission may prescribe such other Forms as it deems fit for the purposes of [under the Fee Schedule].",
-            "(3) The Commission may make any modification or amendment necessary to any Form.",
-            "(4) Where strict compliance with a Form is not possible, the Commission may allow that Form to be complied with in such other manner as it deems appropriate."
-          ]
-        },
-        {
-          "no": "43",
-          "title": "Directions as to Forms",
-          "text": [
-            "(1) A Form shall be completed and lodged in accordance with the relevant provisions of law and such directions as are specified in that Form or by the Commission.",
-            "(2) Unless otherwise required, all particulars to be inserted in a Form, shall be in the English language.",
-            "44. General requirements for documents submitted to 44."
-          ]
-        },
-        {
-          "no": "44",
-          "title": "Commission",
-          "text": [
-            "(1) Any document required to be submitted to the Commission shall be in accordance with the directions as are specified in the relevant Form prescribed or as directed by the Commission.",
-            "(2) Every document, if not in the English language, shall be accompanied by a translation thereof, verified by the affidavit of a person qualified to translate it and in the case of a document in foreign language it shall also be certified by the embassy of the concerned foreign country in Pakistan, before it may be received, filed or used by the Commission."
-          ]
-        },
-        {
-          "no": "45",
-          "title": "Associations of undertakings",
-          "text": [
-            "(1) Where a regulation requires the Commission to give notice of any matter to an association of undertakings, the Commission shall give such notice to the director, secretary, manager or other similar officer of the association on its behalf.",
-            "(2) Where a regulation requires the Commission to give notice of any matter to each of more than 20 members of an association of undertakings, the Commission may, instead of giving such notice to any such member, give such notice to the director, secretary, manager or other similar officer of the association on that member's behalf, provided that individual notice shall be given to the member who has made an application."
-          ]
-        },
-        {
-          "no": "46",
-          "title": "Notices",
-          "text": [
-            "(1) Unless otherwise specified, any notice required to be sent to or served on any person by the Commission pursuant to the Ordinance, rules or regulations made thereunder, may be:",
-            ">(a) delivered personally at the last known address of the person; or",
-            ">(b) left at or sent to the person by courier to the last known address ; or",
-            ">(c)",
-            ">(c) sent to the person by facsimile or, with the consent of that person, by electronic mail.",
-            ">(d)",
-            ">(d) in case of a company or a body corporate at the last known registered address.",
-            "(2)",
-            "(2) Where the Commission has taken all reasonable steps to give notice to the person but has been unable to give such notice or in the Commission's opinion there is doubt that it has been able to give such notice it shall publish the same in atleast one national daily news paper circulated:",
-            ">(a) in case of an undertaking being a company or body corporate, in the province where the registered office is situated;",
-            ">(b) in any other case, in the province where the notice has been served under sub-regulation (1) above.",
-            "(3)",
-            "(3) Where these regulations allow or require notice to be given to a person, such notice shall be treated as if it had been received by or served on that person—",
-            ">(a) in the case of personal delivery, on the day of delivery;",
-            ">(b)",
-            ">(b) when left at the last known address, on the day of leaving;",
-            ">(c)",
-            ">(c) when sent by courier, on the working day after the day on which it was couriered; or",
-            ">(d)",
-            ">(d) in the case of a facsimile transmitted on a working day before 5 p.m., on that day or in any other case on the working day after the day on which it is transmitted.",
-            "(4)",
-            "(4) Where sub-regulation (2) applies, tne notice shall be treated as having been given on the date of its publication.",
-            "(5)",
-            "(5) Any notice given under these regulations shall be in writing.",
-            "47."
-          ]
-        },
-        {
-          "no": "47",
-          "title": "Time",
-          "text": [
-            "(1) Where an act is required to be done in accordance with these regulations within a specified period after or from a specified date, the period begins immediately after that date.",
-            "(2)",
-            "(2) Where an act is required to be done in accordance with these regulations within or not less than a specified period before a specified date, the period ends immediately before that date.",
-            "(3)",
-            "(3) Where the time prescribed by these regulations for doing any act expires on a day which is not a working day, the act is in time if done at or before 5 p.m. on the following working day.",
-            "•",
-            "(4)",
-            "(4) Where an act done in accordance with these regulations is done on a day which is not a working day, or after 5 p.m. on a working day, the act shall be treated as done on the following working day. R. 48%"
-          ]
-        },
-        {
-          "no": "48",
-          "title": "Information to be treated as confidential",
-          "text": [
-            "(1) Where any 48. information furnished to the Commission has been identified as confidential, but no statement in writing has been given to explain why the information is no confidential, the Commission may give notice to the person furnishing the information to provide the statement in writing within such time limit as the Commission considers appropriate.",
-            "(2) Where a statement in writing has been given to the Commission to explain why any information furnished to the Commission is confidential, the Commission may, in its discretion, require and give notice to the person furnishing the information to provide written clarification within such time limit as the Commission considers appropriate.",
-            "(3) Where the person furnishing the information fails to provide to the Commission with the statement in writing mentioned in sub-regulation (1) or with the written clarification mentioned in sub-regulation (2), as the case may be, within the time limit specified by the Commission, the information furnished will be deemed as non confidential information.",
-            "(4) Where the Commission proposes to disclose information which has been furnished to the Commission and identified as confidential, the Commission may -",
-            ">(a) inform the person who furnished the information or the person fron:",
-            "whom the information originated, of the Commission's proposed action;",
-            "and",
-            ">(b) give that person a reasonable opportunity to make representation to (b) give that person a reasonable opportunity to make representation to the Commission on the Commission's proposed action."
-          ]
-        },
-        {
-          "no": "49",
-          "title": "Consultation",
-          "text": [
-            "The Commission shall have the discretion to consult 49. with such persons whose consultation would be advantageous, necessary or convenient to carry out the functions or discharge the duties of the Commission under the Ordinance."
-          ]
-        },
-        {
-          "no": "50",
-          "title": "Public register",
-          "text": [
-            "(1) The Commission shall maintain a register in which there shall be entered -",
-            ">(a) all decisions that the Commission is required to publish under these regulations;",
-            ">(b) all applications for decisions under the Ordinance, a summary of the nature and objectives and an indication of the final outcome of the application; and",
-            ">(c) all summaries of notices published under these regulations.",
-            "(2) Subject to payment of inspection fee as prescribed under these regulations, the register shall be open to public inspection by prior appointment, at the Commission's office or such other address as may be notified, during business hours with restrictions as the Commission may decide from time to time."
-          ]
-        },
-        {
-          "no": "50A",
-          "title": "Inspection and certified copies of documents",
-          "text": [
-            "Subject to the provisions of regulation 48, a party to the proceedings, may, on an application in writing in that behalf addressed to the concerned Member of the Commission, be allowed to inspect or obtain copies of the documents or records submitted during proceedings on payment of fee as prescribed under the Fee Schedule.",
-            "(2) The concerned Member of the Commission may, on an application of a person, who is not a party to the proceedings, on sufficient cause demonstrated, allow such person inspection of documents or records mentioned in sub regulation (1) on payment of fee as prescribed under the Fee Schedule.",
-            "(3) An inspection shall be allowed only in the presence of an officer so authorized by the concerned Member of the Commission:-",
-            "Provided that the inspection of documents or copying thereof as per sub regulation (1) or sub regulation (2) shall be allowed under the supervision of and subject to the time limits to be prescribed by the concerned Member of the Commission or an officer so authorized by the concerned Member of the Commission in this behalf.",
-            "(4) An officer of the Federal or Provincial Government or a Regulatory Authority shall be allowed inspection and to obtain copies of documents or records mentioned in sub-regulation (1) on making written request to the concerned Member of the Commission for the purpose on payment of fee as prescribed under the Fee Schedule."
-          ]
-        },
-        {
-          "no": "50B",
-          "title": "Copying charges",
-          "text": [
-            "(1) Copying charges of the record of the Commission for parties to the proceedings shall be as prescribed under the Fee (2)",
-            "(2) Copying charges for the certified copy of the order passed by the Member or any officer of the Commission shall be as prescribed under the Fee 51."
-          ]
-        },
-        {
-          "no": "51",
-          "title": "Powers to determine procedure in certain circumstances",
-          "text": [
-            "In a situation not provided for in these regulations, the procedure shall be determined by a Committee consisting of at least three (3) members one of whom shall be the Chairman and such other Members as the Chairman may appoint.",
-            "52."
-          ]
-        },
-        {
-          "no": "52",
-          "title": "Removal of doubt/difficulty",
-          "text": [
-            "In the matter of implementation of these regulations , if any, doubt or difficulty arises, the same shall be placed before the Chairman and two Members, and their decision thereon shall be final and binding."
-          ]
-        },
-        {
-          "no": "52A",
-          "title": "Conduct of proceedings",
-          "text": [
-            "(1) The Commission, its Chairman, the Members or officers, (hereinafter called the presiding authority) presiding over any proceedings under the ordinance, shall administer and enforce the administer Ordinance, rules and regulations effectively, with the mainimum of procedural requirements.",
-            "(2)",
-            "(2) Notwithstanding anything contained in regulations 51 and 52 of these regulations, during the course of any proceedings, the presiding authority shall have the power to administer affirmations, issue or direct the issuance of notices, and make all decisions regarding the admission or exclusion of evidence or any other procedural matters which may arise during the course of the hearing.",
-            "(3)",
-            "(3) All the parties, counsels, witnesses and other persons present at a hearing shall conduct themselves with decorum and deference to the authority presiding over such proceedings.",
-            "(4) The presiding authority shall, exercise control over the proceedings to achieve orderly completion of the proceedings, and may order the removal of any person from the hearing who displays disrespect to the authority or tries to obstruct the hearing.",
-            "(5) The presiding authority shall be entitled in its discretion and in the manner deemed fit to seek assistance from any person or persons, including but not limited to, technical or professional experts, advizers, consultants, or any officer / Member of the Commission, whose participation or consultation would be deemed appropriate to facilitate the orderly completion of the proceedings.",
-            "(6) No proceedings of the Commission shall be invalid by reason of any defect or irregularity unless the presiding authority, on an objection taken by any party, is of the opinion that substantial injustice has been caused by such defect or irregularity or there are otherwise sufficient reasons for doing so, and the authority may, in such event, make such orders as deemed appropriate by it for the rectification of such defect or irregularity.]"
-          ]
-        },
-        {
-          "no": "53",
-          "title": "Relaxation of Regulations",
-          "text": [
-            "If any difficulty arises in giving effect to any provision of these regulations or other regulations made under the Ordinance in a particular case, or class of cases or it would be in the interest of competition so to do, the Commission may, for reasons to be recorded in writing, relax such requirements subject to such conditions as it may deem fit."
-          ]
-        },
-        {
-          "no": "54",
-          "title": "Compliance with orders of the Commission",
-          "text": [
-            "The Commission shall have power to direct the parties concerned to file an affidavit of compliance with its order or such other documents in the manner specified in its order.",
-            "[PART-IX",
-            "Reward Payment Scheme"
-          ]
-        },
-        {
-          "no": "55",
-          "title": "Reward Payment to Informants Scheme",
-          "text": [
-            "The Commission shall introduce a scheme of \"Reward Payment to Informants\", aimed at uncovering and taking action against cartel activity."
-          ]
-        },
-        {
-          "no": "56",
-          "title": "Salient features of the Scheme",
-          "text": [
-            "Salient feątures of the aforesaid 56. Scheme, its modus operandi and other details shall be provided in the guidelines to be issued by the Commission, in due coursed."
-          ]
-        },
-        {
-          "no": "57",
-          "title": "Cases of leniency",
-          "text": [
-            "This Scheme shall not apply to the cases of leniency as per section 39 of the Ordinance and the Competition (Leniency) Regulations, 2007.]",
-            "[PART-X",
-            "Procedure for Treatment of Information Received from Anonymous Informants",
-            "58. The information received by the Commission from an anonymous informant, which for reasons to be recorded and on the basis of supportive evidence, is believed to be authentic, may be treated as a complaint in terms of section 37 of the Act and necessary fee thereon shall stand waived. section 37 of the Act and necessary fee thereon shall stand waived. 59. Such information, soon upon its receipt, shall be forwarded to the Member/authorized officer concerned to determine, whether the information received merits a formal enquiry under section 37(2).",
-            "60. If the Member/ authorized officer decides to proceed with formal enquiry, he shall be authorized to appoint the enquiry officer/enquiry committee, as he may deem fit, for conducting the enquiry.]",
-            "(Mohammed Hayat Jasra)",
-            "Secretary"
-          ]
-        }
-      ]
-    }
-  ],
-  "schedules": [
-    {
-      "title": "ompetition Ordinance, 2007 Schedule",
-      "text": [
-        "[See regulation 4]"
-      ]
+     "no": "1",
+     "title": "Short title, commencement and jurisdiction",
+     "page": 1,
+     "text": [
+      "(1) These regulations may be called the Competition (General Enforcement) Regulations, 2007.",
+      "(2) They shall come into force at once.",
+      "(3) These regulations shall apply to all such undertakings doing business in Pakistan whether incorporated in Pakistan or not, which commit contravention or are likely to commit contravention of the prohibitions under Chapter II of the Ordinance and any other provisions in relation thereto under the Ordinance or the rules, regulations, directions and orders made there under."
+     ]
     },
     {
-      "title": "FORM INFORMATION TO BE PROVIDED BY THE UNDERTAKING(S) MAKING THE APPLICATION",
-      "text": [
-        "1. Information about the Applicant(s) and Other Parties to the",
-        "Agreement",
-        "1.1. Please give the full name, address (by registered office, where appropriate, and principal place of business, if different), telephone and fax numbers and e-mail address (where available) of the Applicant(s) and a brief description of' the nature of its business. If the Applicant(s) is a partnership, sole proprietor or other unincorporated body trading under a business name, give the name(s) and address(es) of the partners or proprietor(s). Please quote any reference which should be used.",
-        "1.2. Please give the full name, address, telephone and fax numbers and e-mail address (where available) of any representative(s) who has been authorised to act for the Applicant(s), indicating whom they represent and in what capacity (e.g. an advocate).",
-        "1.3. Where the declaration to be made in the form set out in Part 2A is signed by an advocate or other representative of the Applicant(s), please provide written proof of that representative's authority to act on the Applicant(s)'s behalf.",
-        "1.4. If a joint application is being submitted, state the full name of the joint representative, his address (by registered office, where appropriate, and principal place of business, if different), telephone and fax numbers and e- mail address (where available). Where the joint applicants have appointed separate representatives, an explanation must be included as to why a joint representative could not be appointed. The particulars listed in this paragraph must then be furnished for each representative.",
-        "1.5. Please provide details of the steps taken or to be taken to notify all the other parties to the agreement or conduct which is the subject of the application of whom the Applicant(s) is aware that the application is being submitted.",
-        "Indicate whether those parties have received a copy of the application and if so, ' whether confidential information was included in the copy of the application. If the Applicant(s) considers that it is not practicable to notify the other parties of the application, please give the reasons why it is not practicable.",
-        "1.6. Please identify the groups to which each party to the agreement or conduct which is the subject of the application belongs. For the purposes of the information required by this Form, a group relationship exists where one undertaking:",
-        "1.6.1. owns more than half the capital or business assets of another undertaking;",
-        "1.6.2. has the power to exercise more than half the voting rights in another undertaking;",
-        "1.6.3. has the power to appoint more than half the members of the supervisory board, board of directors or bodies legally representing the undertaking; or",
-        "1.6.4. has the right to manage the affairs of another undertaking.",
-        "1.7. An undertaking which is jointly controlled by several other undertakings (e.g. a joint venture) should be treated for the purpose of this application as being part of the group of each of these undertakings.",
-        "2. Purpose of the Application",
-        "Please specify that the application is being made to get exemption, for a prohibited agreement as provided in section 4, explain how the agreement contributes to improving production or distribution and/or promoting technical or economic progress, and how consumers will be allowed a fair share of the resulting benefit. Explain how each restriction imposed by the agreement is indispensable to the attainment of those objectives, and how the agreement does not afford the undertakings concerned the possibility of eliminating competition in respect of a substantial part of the products in question.",
-        "3. Details of the Agreement or Conduct",
-        "3.1. Please provide a brief description of the agreement or conduct which is the subject of the application (including the nature, content, purpose, date(s) and duration).",
-        "3.2. If the application is made in relation to a written agreement, attach either an original of the most recent text of that agreement, or a copy certified by the Applicant to be a true copy of the original. If the application is made in relation to an agreement which is not written, Applicants are to provide a full description of the agreement. If the application is made in relation to conduct, provide a full description of that conduct.",
-        "3.3. Identify any provisions in the agreement or aspects of the conduct which may restrict the parties in their freedom to take independent commercial decisions or to act on those decisions.",
-        "3.4. If the application relates to standard form terms and conditions, indicate the number of agreements expected to be entered into on those terms and conditions.",
-        "4. Information on the Parties to the Agreement or Conduct and the",
-        "Groups to which they belong",
-        "4.1. Please give the applicable turnover in the last business year, of each party to the agreement or conduct which is the subject of the application and the consolidated applicable turnover for the group (within the meaning of 1.6) to which each party belongs. Please also indicate what proportion of the turnover figures are attributable to the relevant product or geographic market. Please attach the most recent annual report and accounts (or equivalent for unincorporated bodies) for each party to the agreement or conduct and the most recent annual report and accounts for the ultimate parent company of these undertakings.",
-        "4.2. Please list the product and/or services market(s) in which each party to the agreement or conduct and each member of the groups (within the meaning of",
-        "1.6) to which they belong are active. Where there are a large number of products and services, please pay particular attention to any markets in which the combined undertakings have significant markets shares, and/or the largest proportions of the turnover.",
-        "5. Other Information",
-        "5.1. Please give any other information which the Applicant(s) considers may be helpful. In particular, if you believe that an agreement:",
-        "5.1.1. does not have an appreciable adverse effect on competition in Pakistan please state your reasons and provide evidence. Note, however, that certain agreements, such as those relating to price-fixing, will be regarded as having an appreciable adverse effect;",
-        "5.1.2. has net economic benefits that would not be achieved except for the agreement. In determining whether a net economic benefit exists, the",
-        "Commission will consider whether the agreement contributes to improving production or distribution or promoting technical or economic progress in a way which does not impose restrictions which are not indispensable to the attainment of those objectives and which would not afford the possibility substantially. Applicants should provide details of any studies or documents which have been produced to assess the feasibility of operation of the agreement and the benefits likely to result from the agreement.",
-        "5.2. Please specify the fee is being paid for this application and attach an evidence of the payment.",
-        "6. Supporting Documents",
-        "Please ensure that the Applicant(s) has attached the following documents (where relevant) to the application:",
-        "6.1. if 1.3 of this form applies, written proof of the representative's authority to act on the Applicant(s)' behalf;",
-        "6.2. if 3.2 of this form applies with regard to a written agreement, either an original or certified copy, of the most recent version of the text of the agreement which is the subject of the application; and",
-        "6.3. the most recent annual report and accounts (or equivalent for unincorporated bodies) for each party to the agreement or conduct and the most recent annual report and accounts for the ultimate parent company of these undertakings (see 4.1 of this form).",
-        "PART-2",
-        "DECLARATION",
-        "U'nder section 38 (1) (c) and (d), it is an offence, to provide information which is false or misleading in a material particular if the person providing it knows that it is false or misleading, or is reckless as to whether it is. If the person is a body corporate, its officers may be guilty of an offence under section 38 (1) (c) and (d).",
-        "DECLARATION",
-        "The undersigned declare and confirm that all information given in the Form A and all pages annexed hereto are correct to the best of their knowledge and belief, and that all estimates are identified as such and are their best estimates based on the underlying facts.",
-        "Signature(s)",
-        "Name(s) (in block capitals):",
-        "Designation(s):",
-        "Date:",
-        "Competition Ordinance, 2007 Schedule-A"
-      ]
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context,–",
+      ">(a) “applicant” means a party to a prohibited agreement who have filed an application under regulation 4;",
+      ">(b) “application” means an application seeking exemption under these regulations;",
+      ">(c) “Chairman” means the Chairman of the Commission appointed under subsection (2) of section 14 and includes the Acting Chairman appointed under section 16 thereof;",
+      ">(d) “Commission” means the Competition Commission of Pakistan established under section 12;",
+      ">(e) “complainant” means an undertaking or a registered association of consumers filing a complaint or the Federal Government filing a reference under regulation 17;",
+      ">(f) “confidential information” means commercial information the disclosure of which would, or might, in the opinion of the Commission, significantly harm the legitimate business interests of the undertaking to which it relates;",
+      ">(g) “document” means any matter expressed or described upon any substance by means of letters, figures or marks, or by any other means, used or intended to be used for the purpose of recording that matter;",
+      ">(gg) {fn:2-1} “Fee schedule” means the schedule notified under section 20(2) (b) of the Ordinance;",
+      ">(h) “informant” means a person who furnishes information regarding contravention of provisions of the Ordinance of which cognizance is to be taken by the Commission;",
+      ">(i) “inquiry officer” means an officer appointed by the Commission to enquire into any matter under these regulations;",
+      ">(j) “intervener” means any person or undertaking permitted to intervene by the Commission in any proceedings under these regulations;",
+      ">(k) “Ordinance” means the Competition Ordinance, 2007;",
+      ">(l) “party” shall include complainant and an undertaking defined in clause (p) of section, 2 or the officer concerned of the department of the Commission conducting the relevant case, or any statutory authority, as the case may be, and shall include a respondent or respondents against whom any inquiry or proceeding is instituted or relief is sought to be made and shall also include any person permitted to join the proceedings or an intervener but does not include an informant;",
+      ">(m) “person” includes an undertaking;",
+      ">(n) “section” means section of the Ordinance;",
+      ">(o) “working day” means a day which is not Saturday, Sunday or a public holiday;",
+      "(2) Words and expressions used in these regulations, but not defined herein shall have the meanings assigned in the Ordinance or the rules and regulations prescribed under the Ordinance."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part II — Exemption Procedures",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Who can apply",
+     "page": 3,
+     "text": [
+      "(1) An application for grant of individual or block exemption pursuant to sections 5 and 7 {fn:3-2} shall not be made by any person except a party to the agreement; provided that:",
+      ">(a) where the applicant is an individual, by the individual;",
+      ">(b) where the applicant is a company or other body corporate, by a duly authorized officer of that company or body corporate;",
+      ">(c) where the applicant is a partnership firm, by a partner of that firm; and",
+      ">(d) in case of any other entity, by an authorized representative of such entity.",
+      "(2) If a joint application is made, the application shall be regarded as being made to the Commission by or on behalf of all the applicants, and a joint representative shall be appointed duly authorized to act on behalf of all the joint applicants for the purposes of these regulations."
+     ],
+     "fn": [
+      {
+       "n": "3-2",
+       "text": "Amended vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      }
+     ]
     },
     {
-      "title": "SCHEDULE-A (see sub-regulation (2) of regulation 39)",
-      "text": [
-        "Notice under Section 40 (1) of the Competition Ordinance, 2007",
-        "For Recovery of Penalties [and/or any other amount due]",
-        "To",
-        ".....",
-        "(1) Notice is hereby given that, WHEREAS an order dated: has been passed by the Commission against [Name of the Undertaking] for contravention of Section LJ of the Competition Ordinance, 2007 (the",
-        "Ordinance) and a sum of Rs....... Rupees........",
-        "Ordinance) and a sum of Rs... ... (Rupees...",
-        "has been imposed as penalty under section 38 and/or section 30 which has become due and payable by you [; and/or WHEREAS an amount has become due to the Commission under the Ordinance for the value of --.",
-        "(2) You are hereby notified under section 40 of the [Ordinance], to pay forthwith the aforesaid money due from you, within (15) fifteen days from the date of service of this notice, either by a Pay Order or Bank Demand",
-        "Draft in favour of the Competition Commission of Pakistan in its A/c No:",
-        "(3) Upon your failure to make payments within the aforesaid period, the",
-        "Commission may proceed to recover the amount due by adopting among others, the following measures:",
-        ">(a) Attachment of immovable or sale of any immovable property, including bank account(s) of the person or undertaking.",
-        ">(b) Appointment of a receiver for the management of the movable or immovable property of the person or undertaking.",
-        ">(c) Deduction of the sum due by giving notice to persons:",
-        ">(i) from whom any money is due or may become due to you; or",
-        ">(ii) who holds or controls the receipt or disposal of or may subsequently hold or control the receipt or disposal of any money belonging to you.",
-        ">(d) Any other measure as envisaged by section 40.",
-        "Place: Signature",
-        "Date: Name",
-        "Designation (Authorized Officer)",
-        "Seal -"
-      ]
+     "no": "4",
+     "title": "Form of application for exemption",
+     "page": 3,
+     "text": [
+      "(1) Application under these regulations for the exemption of any agreement shall be on the Form as provided in the Schedule to these regulations.",
+      "(2) The Commission may, by giving notice to the applicant(s), dispense with the obligation to submit any particular information or document (including any supporting document forming part of the prescribed Form, if it considers that such information or document is unnecessary for examination of the application.",
+      "(3) Where strict compliance with any part of the application is not possible, the Commission may allow that part of the application to be complied with in such other manner as it thinks fit.",
+      "(4) Every application shall be submitted in triplicate, or in such other number, as the Commission may require.",
+      "(5) An application received by the Commission under this regulation shall be recorded in the public register in such manner as the Commission deems expedient.",
+      "(6) No applicant shall make an application under sub-regulation (1) hereof unless it is accompanied by a processing fee as prescribed under the Fee Schedule {fn:3-3}. The fee may be paid in the form of bank challan deposited with a branch of the authorized bank of the Commission or a bank draft {fn:3-4} in favour of the Commission."
+     ],
+     "fn": [
+      {
+       "n": "3-3",
+       "text": "Amended vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      },
+      {
+       "n": "3-4",
+       "text": "Amended vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      }
+     ]
+    },
+    {
+     "no": "4A",
+     "title": "Grant of Block Exemption",
+     "page": 3,
+     "text": [
+      "{fn:3-5} In cases, where pro-competitive benefits are on record in terms of section 9 of the Competition Act, 2010, the Commission may grant block exemption at its own, without any application to be submitted by the concerned undertaking(s)."
+     ],
+     "fn": [
+      {
+       "n": "3-5",
+       "text": "Inserted vide SRO No 85(I).2010 dated 04-02-2011"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Power to call for information",
+     "page": 4,
+     "text": [
+      "The Commission may call for any information or submission of a document in relation to the grant of exemption."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Power to refuse an application",
+     "page": 4,
+     "text": [
+      "The Commission may refuse an application submitted under regulation 4, if-",
+      ">(a) the application is not made in accordance with regulation 4;",
+      ">(b) the Commission has reasonable grounds for suspecting that any information submitted to it (whether contained in the application, under regulation 4 or otherwise) is incomplete, false or misleading or omits to state any material information;",
+      ">(c) the Commission’s direction for any information under regulation 5 is not complied with; or",
+      ">(d) the Commission has reasonable grounds to believe that there has been a material change in any information submitted to the Commission (whether as contained in the application, under regulation 4 or otherwise), and such change has not been notified to the Commission."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Power to inquire",
+     "page": 4,
+     "text": [
+      "Where the Commission receives an application made under regulation 4 above, the Commission may proceed to decide the matter on the basis of the record made available or it may decide to commence an inquiry in accordance with these regulations."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Burden of proof",
+     "page": 4,
+     "text": [
+      "The applicant desirous of obtaining an exemption under these regulations shall bear the burden of proving that the conditions relating thereto have been satisfied in terms sub-section (2) of section 9."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Exemptions",
+     "page": 4,
+     "text": [
+      "(1) The Commission may, subject to such conditions or obligations as it may consider appropriate, grant an individual or block exemption in respect of an agreement if -",
+      ">(a) an application for an exemption has been made to the Commission in accordance with regulation 4; and",
+      ">(b) the criteria for exemption provided in section 9, are met.",
+      "(2) Before making a block exemption order, the Commission shall notify the proposed order by publishing it in one English and one Urdu national daily newspaper, with a summary thereof, stating:",
+      ">(a) brief facts;",
+      ">(b) grounds for grant of exemption;",
+      ">(c) conditions, if any, to which the exemption shall be subject to; and",
+      ">(d) the period for which such exemption is valid.",
+      "(3) The Commission may on an application made in accordance with the Competition Commission (Extension in Exemption) Rules, 2007 and accompanied with the fee as prescribed under the “Fee Schedule”{fn:4-6}, extend the period for which an exemption has effect."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Cancellation, variation of exemptions",
+     "page": 4,
+     "text": [
+      "(1) Where the Commission has reasonable grounds for believing that there has been a material change of circumstances since the Commission granted an individual exemption or the information on the basis of which an individual exemption was granted was incomplete, false or misleading, it may, by notice in writing proceed in accordance with regulation 38 and pass an order in terms of sub-sections (1) or (2) of section 6.",
+      "(2) Subject to sub section (3) of section 7, prior to cancellation of the block exemption granted by the Commission, the Commission shall comply with the notice and hearing requirements as provided in regulation 38."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Powers when conducting inquiry",
+     "page": 5,
+     "text": [
+      "For the purposes of an inquiry under regulation 7, the Commission shall have and exercise same powers as provided in regulation 23."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Interim measures",
+     "page": 5,
+     "text": [
+      "(1) Where the Commission has reason to believe that:",
+      ">(a) an agreement is or has been in existence which may infringe the prohibitions under section 4; or",
+      ">(b) the prohibition under section 4 has been infringed but the Commission has not completed the inquiry into the matter, the Commission may for the purposes of-",
+      ">>(i) preventing serious, irreparable damage to a particular undertaking or category of undertakings, or",
+      ">>(ii) protecting the public interest, give such directions as it considers appropriate for that purpose.",
+      "(2) Before giving a direction under this regulation, the Commission shall -",
+      ">(a) give written notice to the undertaking to whom it proposes to give the direction; and",
+      ">(b) give that undertaking an opportunity to make written or oral representations within the time specified by the Commission in this behalf.",
+      "(3) A notice under sub-regulation (2) {fn:5-7} shall state the reasons for issuing, the direction.",
+      "(4) Any direction given under this regulation shall have effect while sub-regulation (1) applies, but may subsequently be revoked or substituted by a subsequent direction under regulation 14."
+     ],
+     "fn": [
+      {
+       "n": "5-7",
+       "text": "Substituted vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Decisions following an inquiry",
+     "page": 5,
+     "text": [
+      "Consequent upon the conclusion of an inquiry conducted under regulation 7, the Commission may proceed to grant or refuse an exemption.",
+      "(2) Before making the decision to refuse the grant of exemption, the Commission shall-",
+      ">(a) give written notice to the undertaking likely to be affected by the proposed decision; and",
+      ">(b) give that undertaking an opportunity of being heard."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Directions in relation to agreements",
+     "page": 5,
+     "text": [
+      "(1) The Commission may give such directions as it may consider appropriate while granting or refusing an exemption including the direction requiring the parties to the agreements-",
+      ">(a) to modify the agreement; or",
+      ">(b) to terminate the agreement.",
+      "(2) Any direction under this regulation shall be in writing."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Enforcement of Directions",
+     "page": 6,
+     "text": [
+      "(1) If an undertaking fails, without reasonable cause, to comply with a direction under regulation 14, the Commission may-",
+      ">(a) require such undertaking to make good its default within the period specified in this behalf; or",
+      ">(b) cancel the exemption in respect of the agreement;",
+      ">(c) proceed to impose the penalty in accordance with section 38; or",
+      ">(d) initiate proceedings in a court of competent jurisdiction."
+     ]
     }
-  ],
-  "frontNotes": [],
-  "caution": "Text read from the older (December 2021) scan of the printed edition, because the newer scan lacks these pages; the edition's later updates to 20 June 2026 record no change to this instrument. Unverified: to be checked against the scan. Schedules and forms are not included. The text as printed refers to the Competition Ordinance, 2007.",
-  "enacted": "2007-11-20",
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Part III — Enquiries And Adjudications",
+   "sections": [
+    {
+     "no": "16",
+     "title": "Inquiry",
+     "page": 6,
+     "text": [
+      "(1) Without prejudice to the generality of the powers conferred under section 37 and subject to sub-regulation (2) hereof, the Commission may commence an inquiry:",
+      ">(a) suo moto; or",
+      ">(b) upon a reference made to it by the Federal Government under regulation 17; or",
+      ">(c) on receipt of a complaint from an undertaking or a registered association of consumers under regulation 17.",
+      "(2) The Commission may commence an inquiry upon receipt of a complaint if the facts before it, appear to constitute a contravention of the following provisions:",
+      ">(a) prohibition in section 3;",
+      ">(b) prohibition in section 4;",
+      ">(c) prohibition in section 10;",
+      ">(d) prohibition in section 11; or",
+      ">(e) any act, omission or facts otherwise available appear to constitute contravention of the provisions of Chapter II of the Ordinance."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Reference and Complaints",
+     "page": 6,
+     "text": [
+      "(1) The Commission shall upon a reference made to it by the Federal Government, conduct enquiries into any matter relevant to the purposes of the Ordinance.",
+      "(2) Without prejudice to the foregoing where the Commission receives from an undertaking or a registered association of consumers a complaint in writing, it may, unless it is of opinion that the application is frivolous or vexatious or based on insufficient facts, or is not substantiated by prima facie evidence, conduct an inquiry into the matter to which the complaint relates."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Contents of complaint and reference",
+     "page": 7,
+     "text": [
+      "(1) A complaint/ reference/ application under these regulations shall state –",
+      ">(a) name of the person making the complaint/reference/application;",
+      ">(b) address in Pakistan for delivery of notice/document;",
+      ">(c) telephone number, fax number and electronic mail address, if available;",
+      ">(d) mode of service of notice/documents to be used;",
+      ">(e) name and address(es) of respondent(s); and",
+      ">(f) name and address of authorized representative, if any;",
+      "(2) The complaint/ reference/ application shall contain –",
+      ">(a) a brief statement of facts;",
+      ">(b) a summary of the alleged contravention of the Ordinance;",
+      ">(c) a succinct presentation in support of each contravention;",
+      ">(d) such other particulars as may be specified by the Commission;",
+      ">(e) a schedule listing all documents/affidavits/evidence in support of each of the presentations; and",
+      ">(f) relief(s) sought."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Fee for filing Complaint",
+     "page": 7,
+     "text": [
+      "(1) Except for the reference filed by the Federal Government, each complaint received under these regulations shall be accompanied by an evidence having paid the fee as prescribed under the Fee Schedule {fn:7-8}.",
+      "(2) Fee can be paid either by tendering demand draft or pay order payable in favour of the Commission or challan form evidencing the payment of fee in the account of the Commission."
+     ],
+     "fn": [
+      {
+       "n": "7-8",
+       "text": "Substituted vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      }
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Power to strike out",
+     "page": 7,
+     "text": [
+      "( 1) Any vexatious or frivolous complaint, application or request for joinder or intervention, as the case may be, by any person/persons may be dismissed by the Commission. The Commission’s decision on the aforesaid applications being frivolous/ vexatious shall be made on the basis of facts and circumstances of each case.",
+      "(2) The Commission may, on an application by a co-respondent or a co- complainant or a co-applicant stating that no relief has been claimed by or against him/her/it or that no relief has to be granted to or against him/her/it, permit the striking out of such person from the proceedings.",
+      "(3) {fn:7-9} No application made under sub-regulation (2) shall be processed unless it is accompanied by a processing fee as prescribed in the Fee Schedule."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Withdrawal of private complaints",
+     "page": 7,
+     "text": [
+      "The Commission may permit the withdrawal of a complaint at any stage of the proceeding but an inquiry or proceeding does not necessarily abate on such withdrawal and may proceed if so decided by the Commission."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Initiation of proceedings under section 30",
+     "page": 7,
+     "text": [
+      "(1) Where the Commission on its own or upon filing of the complaint is satisfied, that there has been or is likely to be, a contravention of any provision of the Ordinance, the Commission may issue a show cause notice stating the reasons thereof to such person as may appear to it to have been or likely to be in contravention.",
+      "(2) If the information available on the record is sufficient to satisfy the Commission that the contravention of any provision of Chapter II has been committed or is likely to be committed the Commission may proceed under sub-regulation (1) above without conducting inquiry under these regulations."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Powers during proceedings",
+     "page": 8,
+     "text": [
+      "(1) The Commission shall, for the purpose of any proceedings, investigation or inquiry under these regulations, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (Act V of 1908), while trying any case, in respect of the following matters, namely:",
+      ">(a) Summoning and enforcing the attendance of any witness and examining him on oath;",
+      ">(b) discovery and production of any document or other material object producible as evidence;",
+      ">(c) accept evidence on affidavits;",
+      ">(d) requisitioning of any public record from any court or office; and",
+      ">(e) issuing of a commission for the examination of any witness, document or both.",
+      "(2) The Commission may, for the purpose of an inquiry or during the course of an inquiry, may --",
+      ">(a) call for information from any person for the purpose of satisfying itself, whether there has been any contravention of the provisions of the Ordinance;",
+      ">(b) require any person to produce or deliver any document or thing in its custody or under control, deemed useful or relevant to the inquiry and allow any record kept to be examined by an officer of the Commission specified in this behalf; and",
+      ">(c) examine any person acquainted with the facts and circumstances of the case.",
+      "(3) The Commission shall have the power to authorize any officer to enter and search any premises for the purpose of enforcing any provision of the Ordinance.",
+      "(4) For the purpose of sub-regulation (3) above, the Commission may:",
+      ">(a) have full and free access to any premises, place, accounts, documents or computer;",
+      ">(b) stamp, or make an extract or copy of any accounts, documents or computerstored information to which access is obtained under clause (a);",
+      ">(c) impound any accounts or documents and retain them for as long as may be necessary for the purposes of the Ordinance;",
+      ">(d) where a hard copy or computer disk of information stored on a computer is not made available, impound and retain the computer for as long as is necessary to copy the information required; and",
+      ">(e) make an inventory of any article found in any premises or place to which access is obtained under clause (a).",
+      "(5) Any officer of the Commission who seeks to exercise the right to enter and search premises shall be required to provide evidence of his authority to act on behalf of the Commission.",
+      "(6) In the event that an undertaking refuses the entry of Inquiry Officer without reasonable cause, forcible entry may be made in terms of section 35."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Termination of Inquiry",
+     "page": 9,
+     "text": [
+      "The Commission may terminate the inquiry at any stage and make announcement of its decision after recording the reasons for doing so, if-",
+      ">(a) the complainant does not provide proper cooperation during inquiry;",
+      ">(b) the complainant has failed to provide any supplementary materials to the Commission within the time limit set by the Commission; and",
+      ">(c) if a complaint is struck down under sub-regulation (1) of regulation 20."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Interim Order",
+     "page": 9,
+     "text": [
+      "{fn:9-10} (1) Where, during the course of any proceeding in cases of contravention of statutory provisions of the Act, the Commission is of opinion that the issue of a final order in the proceedings is likely to take time and that, in the situation that exists or is likely to emerge, serious or irreparable damage may occur and an interim order is necessary in the public interest, it may, after giving the undertaking concerned an opportunity of being heard, by order, direct such undertaking to do or refrain from doing or continuing to do any act or thing specified in the order.",
+      "(2) The Commission may pass an interim order, if considered necessary as a matter of urgency for the purpose of:-",
+      "a). preventing serious, irreparable damage to a particular person or class of persons; or",
+      ">(b). protecting the public interest, the Commission may give such directions as it considers appropriate for that purpose.",
+      "(3) The Commission may, subject to sub-regulation (2) above read with section 32 of the Act, on the application of a party or of its own initiative, after giving the undertaking concerned an opportunity of being heard, by order direct such undertaking to do or refrain from doing or continuing to do any act or thing specified in the order.",
+      "(4) The Commission shall exercise its power under these regulations by taking into account all the relevant circumstances, including -",
+      ">(a). the urgency of the matter;",
+      ">(b). the effect on the party making the request if the relief sought is not granted; and",
+      ">(c). the effect on competition if the relief is granted.",
+      "(5) Any order or direction issued under these regulations shall be in accordance with the provisions of section 32, and shall remain in force for such a period as may be specified therein but not beyond the date of final order made under section 31.”"
+     ],
+     "fn": [
+      {
+       "n": "9-10",
+       "text": "Substituted vide SRO No. 696(I)/2012 dated 06-06-2012"
+      }
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Hearing after submission of Inquiry Report",
+     "page": 10,
+     "text": [
+      "(1) Upon receipt of inquiry report where the Commission is satisfied that there has been or is likely to be, a contravention of any provision of Chapter II of the Ordinance, the Commission shall:",
+      ">(a) give notice of its intention to make such order stating the reasons therefor to such person as may appear to it to be in contravention; and",
+      ">(b) give the person an opportunity of being heard on such date as may be specified in the notice and of placing before the Commission facts and material in support of its contention.",
+      "(2) The hearing convened pursuant to the notice issued under sub-regulation (1) above shall, proceed in the following manner:-",
+      ">(a) {fn:10-11}Presentation of case:",
+      ">>(i)The parties concerned or their duly authorized representative shall be asked to present their case and to produce relevant oral and/or documentary evidences forming the basis for issuance of show cause notice.",
+      ">>(ii) The parties shall appoint only such representatives to appear before the Commission on their behalf who are fully briefed so as to be conversant in all respects with the facts and issues of the matter being heard as well as the status of the undertaking and are duly authorized to make statements or commitments for and on their behalf in relation thereto and can respond to any or all queries made by the adjudicating authority in respect thereof.”",
+      ">(b) Filing of reply: The Commission may give the person or undertaking against whom a notice is issued under clause (a) of sub-regulation (1) above for contravention of the provisions of the Ordinance, a reasonable time to present its explanation or arguments in defense, orally or in writing or both, and produce documents in support of its stance, in person or through its authorized representative.",
+      ">(c) The Commission in its discretion may call the Inquiry Officer to attend and participate such hearing.",
+      ">(d) Adjournment of hearing:",
+      "i. The Commission, if sufficient cause is shown, may from time to time adjourn the hearing for reasons to be recorded in writing:",
+      "Provided that not more than two adjournments shall be given in any case except in exceptional circumstances the nature of such exceptional circumstances shall be duly recorded.",
+      "ii. All parties or their authorized representatives shall append their signature on a register maintained for this purpose by the officer authorized in this regard by the Commission noting the date of hearing, if re-fixed or on grant of adjournment, as the case may be, and no separate notice shall be issued to such parties unless a new date of hearing is fixed by the Commission.",
+      ">(e) Ex-parte order: Where on the day fixed for hearing, including day of hearing re-fixed on adjournment, if any party or parties to the proceeding do not appear even after service of notice or having noted the date, the proceedings may continue in the absence of such party or parties, not appearing and an ex-parte decision may {fn:11-12} be made.",
+      "(3) {fn:11-13} During the course of hearing, any mutual agreement or an undertaking given by the parties may be recorded and signed by the persons, representing both the parties, who are duly authorized in this regard."
+     ],
+     "fn": [
+      {
+       "n": "10-11",
+       "text": "Amended vide SRO No 175(I)/2010 dated 15-03-2010"
+      },
+      {
+       "n": "11-12",
+       "text": "Substituted vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      }
+     ]
+    },
+    {
+     "no": "26A",
+     "title": "Taking of Evidence",
+     "page": 11,
+     "text": [
+      "{fn:11-14}(1) Subject to the provisions of the Ordinance, the Commission may determine the manner and the nature of evidence that may be adduced in the proceedings before it.",
+      "(2) Without prejudice to sub-regulation (1), the Commission may for the purpose of inquiry or investigation, as the case may be, __",
+      ">(a) admit evidence taken in the form of verifiable transcripts of tape recordings, unedited versions of video recording, electronic mail, telephone records including authenticated mobile telephone records, written signed un-sworn statements of individuals or signed responses to written questionnaires or interviews or comments or opinions or analyses of experts based upon market surveys or economic studies or other authoritative texts or otherwise, as documentary evidence;",
+      ">(b) admit as genuine, every document purporting to be a certificate, certified copy or other document, which is by law declared to be admissible as evidence of any particular fact;",
+      ">(c) admit the entries in the books of account, including those maintained in an electronic form, regularly kept in the course of business, including entries in any public or other official book, register or record or an electronic record, made by a public servant in the discharge of his official duty, or by any other person in performance of a duty, specially enjoined by the law of the country in which such book, register or record or an electronic record is kept, as documentary evidence;",
+      ">(d) admit the opinion of any person acquainted with the handwriting of the person by whom a document is supposed to have been written or signed, as relevant fact to prove the handwriting of the person by whom the document was written or signed;",
+      ">(e) admit the opinion of the handwriting experts or the experts in identifying finger impressions or the persons specially skilled in interpretation of foreign law or of science or art;",
+      ">(f) take notice of the facts of which notice can be taken by a court of law under Article 112 of the Qanoun-e-Shahadat Order 1984 (X of 1984);",
+      ">(g) accept the facts, which parties to the proceedings admit or agree in writing as proved; and",
+      ">(h) presume that any document purporting to be a certified copy of any record of any authority, court or government of any country not forming part of Pakistan as genuine and accurate, if the document purports to be certified in any manner which Is certified by any representative of the government of such country to be the manner commonly in use in that country for the certification of copies of such records, including certification by the Embassy or the High Commission of that country in Pakistan.",
+      "(3) The Commission may call for the parties to lead evidence by way of affidavit or lead oral evidence in the matter.",
+      "(4) The Commission shall have the discretion to record the proceedings of taking evidence through either a tape recorder or a video camera.",
+      "(5) If the Commission directs evidence by a party to be led by way of oral submission, the Commission, if considered necessary or expedient, grant an opportunity to the other party or parties, as the case may be, to cross examine the person giving the evidence.",
+      "(6) The Commission, if considered necessary or expedient, direct that the evidence of any of the parties to be recorded by an officer or person designated for the said purpose, in a manner so prescribed by the Commission.",
+      "(7) The Commission may direct the parties to file written note of arguments/submissions in the matter."
+     ]
+    },
+    {
+     "no": "26B",
+     "title": "Production of additional evidence before the Commission",
+     "page": 12,
+     "text": [
+      "{fn:12-15}",
+      "(1) The parties to the proceedings shall not be entitled to produce before the Commission additional evidence, either oral or documentary, which was in the possession or knowledge but was not produced before the Commission during the proceedings under section 30 of the Ordinance, but if the Commission requires any document to be produced or any witness to be examined or any affidavit to be filed to enable it to pass orders or for any other substantial cause, or if the Commission has not given sufficient opportunity to the party to adduce evidence, the Commission, for reasons to be recorded, may allow such document to be produced or witness to be examined or affidavit to be filed or may allow such evidence to be adduced.",
+      "(2) Such document may be produced or such witness examined or such evidence adduced before the Commission as the Commission may direct.",
+      "(3) If the document is directed to be produced or witness examined or evidence adduced before any authority, such authority shall comply with the directions of the Commission and after compliance, send the document, the record of the deposition of the witness or the record of the evidence adduced, to the Commission.",
+      "(4) Additional evidence/document may be made available by the Commission to the parties to the proceedings other than the party adducing the evidence.;"
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Intervener",
+     "page": 13,
+     "text": [
+      "(1) Any person may be permitted to intervene and participate, subject to the conditions noted hereunder or as the Commission may deem appropriate, in any proceeding if such person satisfies the Commission that such person has sufficient interest in the outcome of the proceedings.",
+      "(2) A request for intervention shall be accompanied by proof of payment of fees.",
+      "(3) The amount of fee payable by the intervener shall be the same as payable by a complainant in accordance with regulation 19.",
+      "(4) A request for intervention shall contain –",
+      ">(a) name of the person making the request;",
+      ">(b) address in Pakistan for service of notice/documents;",
+      ">(c) telephone number, facsimile number and electronic mail address, if available;",
+      ">(d) the mode of service of notice/documents to be used;",
+      ">(e) a concise statement of the matters in issue in the proceedings which affect the person making the request; and",
+      ">(f) a schedule, listing all documents/affidavit/evidences in support of the statement."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Remedies",
+     "page": 13,
+     "text": [
+      "(1) Without prejudice to the generality of the powers conferred upon the Commission under section 31, the Commission may consider any of the following types of remedies, including, but not limited to--",
+      ">(a) remedies that are intended to restore all or part of the market structure, such as;",
+      "i. prohibition of an anticipated merger,",
+      "ii. divestment of a completed acquisition, and",
+      "iii. partial prohibition or divestment, (b) remedies that are intended to increase the competition, such as;",
+      "i. requiring access to essential inputs/facilities,",
+      "ii. dismantling exclusive distribution arrangements, and",
+      "iii. removing no competition clauses in customer contracts, and",
+      ">(c) remedies aimed at excluding or limiting the possibility that the merged undertaking will take advantage of the increased market power resulting from the merger to behave anti-competitively or to exploit its customers or suppliers, such as;",
+      "i {fn:14-16}. a commitment to non-discriminatory behavior;",
+      "ii. an obligation to increase the transparency of prices; and",
+      "iii. an obligation to refrain from conduct, the main purpose or effect of which is to inhibit entry:",
+      "Provided, however, that the remedial action that the Commission may decide to take, will always depend on the facts and circumstances of the case.",
+      "(2) In deciding what an appropriate remedy is, the Commission shall consider the effectiveness of different remedies and their associated costs and may regard to the principle of proportionality.",
+      "(3) In addressing the question of which remedies would be appropriate, and would provide a comprehensive solution as is reasonable and practicable, the Commission may take account of how adequately the action would remedy, prevent or mitigate the competition concerns."
+     ],
+     "fn": [
+      {
+       "n": "14-16",
+       "text": "Previous sub-clause deleted and the remaining sub-clauses re-numbered vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      }
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Assessment of competitive effects of abuse of dominant position",
+     "page": 14,
+     "text": [
+      "The Commission in assessing the competitive effects of abuse of dominant position in the relevant market, may consider, the following factors of dominance including, but not limited to, the commonly used measures such as;",
+      ">(a) Market share i. Market share of the concerned undertaking and for this purpose may use information from a variety of sources including the main parties, other competitors, customers, buyers, suppliers, trade associations and market research reports. ii. Market share can be measured in terms of revenues, volumes, production capacities or outputs {fn:14-17}, depending on the markets concerned and the information available.",
+      ">(b) Concentration measures i {fn:15-18}. May generally look at measures of the degree of concentration as an indicator of the ability of leading undertakings in a market to exercise market power. ii. Other competitive constraints will need to be considered before finding that these undertakings have such market power.",
+      ">(c) Structural factors",
+      "There may be other structural factors which may also provide an indication of current competitive conditions within the market.",
+      ">(d) Any other factors",
+      "The Commission may have regard to such other factors on case-by-case basis."
+     ],
+     "fn": [
+      {
+       "n": "14-17",
+       "text": "Substituted vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      },
+      {
+       "n": "15-18",
+       "text": "Amended vide SRO NO 1126(I)/2008 dated 30-10-2008"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part IV — Commitments",
+   "sections": [
+    {
+     "no": "30",
+     "title": "",
+     "page": 15,
+     "text": [
+      "{fn:15-19} (1) The Commission may, at any time after initiating proceedings under Section 30 but before the conclusion thereof may, at its discretion, accept commitments from the concerned undertakings that remedy violations of the provision of Chapter II of the Act.",
+      "(2) Before accepting any commitments, the Commission may ensure that the commitments are sufficient to clearly address the adverse effects to competition which have been identified."
+     ],
+     "fn": [
+      {
+       "n": "15-19",
+       "text": "Substituted vide SRO No. 1199(I)/2016 dated 26-11-2016"
+      }
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Procedures of Commitments",
+     "page": 15,
+     "text": [
+      "The Commission shall encourage the relevant persons to take the initiatives for proposing suitable commitments which may appropriately resolve any competition concerns.",
+      "(2) The Commission may consult with such persons as it thinks appropriate before accepting the commitments offered by them."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Acceptance of Commitments",
+     "page": 15,
+     "text": [
+      "{fn:15-20} (1) The Commission is not bound to accept commitments offered by any party.",
+      "(2) The acceptance of commitments by the Commission would not mean that a violation has not taken place."
+     ],
+     "fn": [
+      {
+       "n": "15-20",
+       "text": "Substituted vide SRO No. 1199(I)/2016 dated 26-11-2016"
+      }
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Favourable Decisions",
+     "page": 15,
+     "text": [
+      "{fn:15-21} (1) The Commission may, at its discretion, issue a favourable decision where commitments have been accepted.",
+      "(2) The Commission may revoke the favourable decision, if any of the commitments accepted by the Commission have been breached."
+     ],
+     "fn": [
+      {
+       "n": "15-21",
+       "text": "Substituted vide SRO No. 1199(I)/2016 dated 26-11-2016"
+      }
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Power to vary, substitute or release",
+     "page": 16,
+     "text": [
+      "{fn:16-22}The Commission may vary, substitute or release a commitment upon an application, accompanies by the prescribed fee, from the concerned undertaking."
+     ],
+     "fn": [
+      {
+       "n": "16-22",
+       "text": "Substituted vide SRO No. 1199(I)/2016 dated 26-11-2016"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part V — Cooperation Between The Commission And Other Regulatory Bodies",
+   "sections": [
+    {
+     "no": "35",
+     "title": "Cooperation between the Commission and other regulatory authorities on competition matters",
+     "page": 16,
+     "text": [
+      "(1) Subject to section 48, the Commission may enter into any agreement with any regulatory authority for the purposes of-",
+      ">(a) facilitation and cooperation between the Commission and the regulatory authority in the performance of their respective functions in so far as they relate to issues of competition between undertakings;",
+      ">(b) avoiding duplication of activities by the Commission and the regulatory authority, being activities involving the determination of the effects on competition of any act done, or proposed to be done; and",
+      ">(c) ensuring as far as practicable, consistency between decisions made or other steps taken by the Commission and the regulatory authority in so far as any part of those decisions or steps consists of or relates to a determination of any issue of competition between undertakings.",
+      "(2) An agreement that is entered into under sub-regulation (1) above is referred to in this regulation as a cooperation agreement.",
+      "(3) A cooperation agreement may include provisions –",
+      ">(a) enabling each party, the information {fn:16-23} to furnish to another party information in its possession if the information is required by that other party for the purpose of the performance by it of any of its functions;",
+      ">(b) enabling each party to forbear to perform any of its functions in relation to a matter in circumstances where it is satisfied that another party is performing functions in relation to that matter; and",
+      ">(c) requiring each party to consult with any other party before performing any function in the circumstances where the respective exercise by each party of the function concerned involves the determination of issues of competition between undertakings that are identical to one another or fall within the same category of such an issue, being a category specified in the agreement.",
+      "(4) In this regulation–",
+      "“issue of competition between undertakings” includes an issue of competition between undertakings that arises generally in the sector of activity in relation to which the Commission or the regulatory authority may exercise powers and such an issue that falls, or could fall, to be the subject of the exercise by the Commission or the regulatory authority of powers in particular circumstances; “party” means a party to a cooperation agreement and a reference to another party (whether that expression or the expression “the other party” is used) shall, where there are two or more other parties to the agreement, be construed as a reference to one or more of those other parties or each of them, as appropriate."
+     ],
+     "fn": [
+      {
+       "n": "16-23",
+       "text": "The words “the information” deleted vide SRO 1126/(I) 2008 dated 30-10-2008"
+      }
+     ]
+    },
+    {
+     "no": "36",
+     "title": "Cooperation between the Commission and foreign competition bodies",
+     "page": 17,
+     "text": [
+      "(1) Subject to section 47, the Commission may, with the approval of the Federal Government, enter into arrangements with any foreign competition body whereby each party to the arrangements may –",
+      ">(a) furnish to the other party information in its possession if the information is required by that other party for the purpose of performance by it of any of its functions; and",
+      ">(b) provide such other assistance to the other party as will facilitate the performance by that other party of any of its functions.",
+      "(2) The Commission shall not furnish any information to a foreign competition body pursuant to such arrangements unless it requires, and obtains from, that body an undertaking in writing that it will comply with terms specified in the undertaking, including the provisions of any other written law concerning the disclosure of such information by the Commission.",
+      "(3) The Commission may give an undertaking to a foreign competition body that it will comply with terms specified in the undertaking where –",
+      ">(a) those terms correspond to the provisions of any law in force in the country or territory in which the body is established, being provisions which concern the disclosure by the body of the information referred to in clause (b); and",
+      ">(b) compliance with the requirement is a condition imposed by the body for furnishing information in its possession to the Commission pursuant to the arrangements referred to in sub-regulation (1).",
+      "(4) In this regulation, “foreign competition body” means a person in whom there are vested functions under the law of another country or territory with respect to the enforcement or the administration of provisions of law of that country or territory concerning competition between undertakings."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part VI — Decisions Of The Commission",
+   "sections": [
+    {
+     "no": "37",
+     "title": "Favourable Decisions of the Commission",
+     "page": 18,
+     "text": [
+      "{fn:18-24}(1) {fn:18-25}Where the Commission makes a favorable decision, it shall limit itself to imposing a penalty of up to PKR 7,500,000 or 1% of annual turnover of the undertaking, for each violation on the concerned undertaking.”"
+     ],
+     "fn": [
+      {
+       "n": "18-24",
+       "text": "Sub-regulations (2) and (3) of Regulation 37 omitted vide SRO No. 1199(I)/2016 dated 26-11-2016"
+      },
+      {
+       "n": "18-25",
+       "text": "Substituted vide SRO No. 1199(I)/2016 dated 26-11-2016"
+      }
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Unfavourable decisions of the Commission",
+     "page": 18,
+     "text": [
+      "(1) Where –",
+      ">(a) after considering the statements made, or documents produced, in the course of proceedings before the Commission; or",
+      ">(b) in the case of an inquiry, after considering the inquiry report,",
+      "the Commission proposes to make a decision that any of the provisions of the Ordinance, rules, regulations, order or directions made or issued thereunder have been infringed, the Commission shall give written notice to the person(s) likely to be affected by such notice; and shall also give such person(s) an opportunity to make a representation to the Commission.",
+      "(2) The Commission may also, upon considering the representation, if any, made by the person(s) concerned, as it thinks fit, make a decision that any of the provisions of the Ordinance, rules, regulations, orders or directions made or issued thereunder, have been infringed.",
+      "(3) Every notice envisaged in sub-regulation (1) above shall state –",
+      ">(a) the facts on which the Commission relies, the objections taken by the Commission, the actions the Commission proposes and the reasons for the proposed action; and",
+      ">(b) the period within which a relevant person may make written representations to the Commission; provided, however, such period shall not exceed a period of 30 days.",
+      "(4) A party to any proceeding before the Commission may on an application made to the Commission in that behalf, be allowed to inspect or obtain copies of the documents or records submitted during proceedings on payment of fee as specified in regulation 19; provided that an inspection shall be allowed only in the presence of an officer so authorized by the Commission.",
+      "(5) Where, in written representation on the matters referred to in a notice given to a relevant person, that relevant person requests to make oral representations to the Commission on such matters, the Commission may give that relevant person a reasonable opportunity to make such oral representations.",
+      "(6) Where the Commission has given the relevant person a reasonable opportunity to make oral representations under sub-regulation (5) above but no oral representations have been made, the Commission may proceed with the case in the absence of such representations.",
+      "Explanation: ‘relevant person’ means a person to whom notice is required to be given under these regulations."
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Imposition of Penalty",
+     "page": 19,
+     "text": [
+      "(1) Subject to section 38, the Commission may by order, direct any undertaking or any director, officer or employee of an undertaking, or any other person to pay by way of penalty such sum as may be specified in the order if, after giving the undertaking concerned an opportunity of hearing, the Commission is of the opinion that the undertaking has acted in contravention of the provisions of the Ordinance.",
+      "(2) For the recovery of any amount from any person the Commission may serve upon a concerned person or the Chief Executive or Director of the concerned undertaking a notice as prescribed in Schedule A."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part VII",
+   "sections": [
+    {
+     "no": "40",
+     "title": "Appeals",
+     "page": 19,
+     "text": [
+      "The person aggrieved by any order passed by any Member or authorized officer of the Commission pursuant to the provisions of the Ordinance, may file an appeal before the Appellate Bench of the Commission in accordance with the Competition Commission (Appeal) Rules, 2007."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part VIII",
+   "sections": [
+    {
+     "no": "41",
+     "title": "Guidelines",
+     "page": 19,
+     "text": [
+      "(1) The Commission may, where deemed necessary issue and publish guidelines from time to time in order to ensure compliance with the provisions of the Ordinance or rules and regulations made thereunder.",
+      "(2) Where the guidelines would apply to an industry or a sector of industry, the Commission may, in preparing such guidelines, consult with the concerned regulatory authority (if any).",
+      "(3) The guidelines shall be illustrative and not exhaustive and shall not set a limit on the enforcement powers of the Commission.",
+      "(4) The guidelines shall not be a substitute for the Ordinance, the rules, regulations and the orders made thereunder."
+     ]
+    },
+    {
+     "no": "41A",
+     "title": "Fees",
+     "page": 19,
+     "text": [
+      "{fn:19-26} (1) The fees payable to the Commission, shall be as prescribed under the Fee Schedule.",
+      "(2)The fees payable to the Commission may be paid in the form of bank challan deposited with a branch of the authorized bank of the Commission, or through a bank draft in favour of the Commission.",
+      "(3) Any document or application to be submitted to the Commission under the Ordinance or the rules/regulations made thereunder, shall not be deemed to have been submitted, until the fee prescribed under the “Fee Schedule” has been duly paid.",
+      "(4) The Fee Schedule may be amended by the Commission from time to time, and be notified in the official gazette."
+     ]
+    },
+    {
+     "no": "41B",
+     "title": "Refund of fees",
+     "page": 20,
+     "text": [
+      "{fn:20-27} Where any fee is required to be paid to the Commission, such fee shall not be refundable, whether in whole or in parts, except at the discretion of the Commission."
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Forms",
+     "page": 20,
+     "text": [
+      "(1) The application form prescribed under these regulations as provided in the Schedule to these regulations, shall be accessible to the public on the Commission’s website.",
+      "(2) The Commission may prescribe such other Forms as it deems fit for the purposes of these regulations.",
+      "(3) The Commission may make any modification or amendment necessary to any Form.",
+      "(4) Where strict compliance with a Form is not possible, the Commission may allow that Form to be complied with in such other manner as it deems appropriate."
+     ]
+    },
+    {
+     "no": "43",
+     "title": "Directions as to Forms",
+     "page": 20,
+     "text": [
+      "(1) A Form shall be completed and lodged in accordance with the relevant provisions of law and such directions as are specified in that Form or by the Commission.",
+      "(2) Unless otherwise required, all particulars to be inserted in a Form, shall be in the English language."
+     ]
+    },
+    {
+     "no": "44",
+     "title": "General requirements for documents submitted to Commission",
+     "page": 20,
+     "text": [
+      "(1) Any document required to be submitted to the Commission shall be in accordance with the directions as are specified in the relevant Form prescribed or as directed by the Commission.",
+      "(2) Every document, if not in the English language, shall be accompanied by a translation thereof, verified by the affidavit of a person qualified to translate it and in the case of a document in foreign language it shall also be certified by the embassy of the concerned foreign country in Pakistan, before it may be received, filed or used by the Commission."
+     ]
+    },
+    {
+     "no": "45",
+     "title": "Associations of undertakings",
+     "page": 20,
+     "text": [
+      "(1) Where a regulation requires the Commission to give notice of any matter to an association of undertakings, the Commission shall give such notice to the director, secretary, manager or other similar officer of the association on its behalf.",
+      "(2) Where a regulation requires the Commission to give notice of any matter to each of more than 20 members of an association of undertakings, the Commission may, instead of giving such notice to any such member, give such notice to the director, secretary, manager or other similar officer of the association on that member’s behalf; provided that individual notice shall be given to the member who has made an application."
+     ]
+    },
+    {
+     "no": "46",
+     "title": "Notices",
+     "page": 21,
+     "text": [
+      "(1) Unless otherwise specified, any notice required to be sent to or served on any person by the Commission pursuant to the Ordinance, rules or regulations made thereunder, may be –",
+      ">(a) delivered personally at the last known address of the person; or",
+      ">(b) left at or sent to the person by courier to the last known address ; or",
+      ">(c) sent to the person by facsimile or, with the consent of that person, by electronic mail; or",
+      ">(d) in case of a company or a body corporate at the last known registered address.",
+      "(2) Where the Commission has taken all reasonable steps to give notice to the person but has been unable to give such notice or in the Commission’s opinion there is doubt that it has been able to give such notice, it shall publish the same in at least one national Daily news paper circulated:",
+      ">(a) in case of an undertaking being a company or body corporate, in the province where the registered office is situated;",
+      ">(b) in any other case, in the province where the notice has been served under subregulation (1) above.",
+      "(3) Where these regulations allow or require notice to be given to a person, such notice shall be treated as if it had been received by or served on that person —",
+      ">(a) in the case of personal delivery, on the day of delivery;",
+      ">(b) when left at the last known address, on the day of leaving;",
+      ">(c) when sent by courier, on the working day after the day on which it was couriered; or",
+      ">(d) in the case of a facsimile transmitted on a working day before 5 p.m., on that day or in any other case on the working day after the day on which it is transmitted.",
+      "(4) Where sub-regulation (2) applies, the notice shall be treated as having been given on the date of its publication.",
+      "(5) Any notice given under these regulations shall be in writing."
+     ]
+    },
+    {
+     "no": "47",
+     "title": "Time",
+     "page": 21,
+     "text": [
+      "(1) Where an act is required to be done in accordance with these regulations within a specified period after or from a specified date, the period begins immediately after that date.",
+      "(2) Where an act is required to be done in accordance with these regulations within or not less than a specified period before a specified date, the period ends immediately before that date.",
+      "(3) Where the time prescribed by these regulations for doing any act expires on a day which is not a working day, the act is in time if done at or before 5 p.m. on the following working day.",
+      "(4) Where an act done in accordance with these regulations is done on a day which is not a working day, or after 5 p.m. on a working day, the act shall be treated as done on the following working day."
+     ]
+    },
+    {
+     "no": "48",
+     "title": "Information to be treated as confidential",
+     "page": 22,
+     "text": [
+      "(1) Where any information furnished to the Commission has been identified as confidential, but no statement in writing has been given to explain why the information is confidential, the Commission may give notice to the person furnishing the information to provide the statement in writing within such time limit as the Commission considers appropriate.",
+      "(2) Where a statement in writing has been given to the Commission to explain why any information furnished to the Commission is confidential, the Commission may, in its discretion, require and give notice to the person furnishing the information to provide written clarification within such time limit as the Commission considers appropriate.",
+      "(3) Where the person furnishing the information fails to provide to the Commission with the statement in writing mentioned in sub-regulation (1) or with the written clarification mentioned in sub-regulation (2), as the case may be, within the time limit specified by the Commission, the information furnished will be deemed as non confidential information.",
+      "(4) Where the Commission proposes to disclose information which has been furnished to the Commission and identified as confidential, the Commission may —",
+      ">(a) inform the person who furnished the information or the person from whom the information originated, of the Commission’s proposed action; and",
+      ">(b) give that person a reasonable opportunity to make representation to the Commission on the Commission’s proposed action."
+     ]
+    },
+    {
+     "no": "49",
+     "title": "Consultation",
+     "page": 22,
+     "text": [
+      "The Commission shall have the discretion to consult with such persons whose consultation would be advantageous, necessary or convenient to carry out the functions or discharge the duties of the Commission under the Ordinance."
+     ]
+    },
+    {
+     "no": "50",
+     "title": "Public register",
+     "page": 22,
+     "text": [
+      "(1) The Commission shall maintain a register in which there shall be entered —",
+      ">(a) all decisions that the Commission is required to publish under these regulations;",
+      ">(b) all applications for decisions under the Ordinance, a summary of the nature and objectives and an indication of the final outcome of the application; and",
+      ">(c) all summaries of notices published under these regulations.",
+      "(2) Subject to payment of inspection fee as prescribed under the Fee Schedule, the register shall be open to public inspection by prior appointment, at the Commission’s office or such other address as may be notified, during business hours with restrictions as the Commission may decide from time to time."
+     ]
+    },
+    {
+     "no": "50A",
+     "title": "Inspection and certified copies of documents",
+     "page": 22,
+     "text": [
+      "{fn:22-28} (1) Subject to the provisions of regulation 48, a party to the proceedings, may, on an application in writing in that behalf addressed to the concerned Member of the Commission, be allowed to inspect or obtain copies of the documents or records submitted during proceedings on payment of fee as prescribed under the Fee Schedule.",
+      "(2) The concerned Member of the Commission may, on an application of a person, who is not a party to the proceedings, on sufficient cause demonstrated, allow such person inspection of documents or records mentioned in sub regulation (1) on payment of fee as prescribed under the Fee Schedule.",
+      "(3) An inspection shall be allowed only in the presence of an officer so authorized by the concerned Member of the Commission;",
+      "Provided that the inspection of documents or copying thereof as per sub regulation (1) or sub regulation (2) shall be allowed under the supervision of and subject to the time limits to be prescribed by the concerned Member of the Commission or an officer so authorized by the concerned Member of the Commission in this behalf.",
+      "(4) An officer of the Federal or Provincial Government or a Regulatory Authority shall be allowed inspection and to obtain copies of documents or records mentioned in subregulation (1) on making written request to the concerned Member of the Commission for the purpose on payment of fee as prescribed under the Fee Schedule."
+     ]
+    },
+    {
+     "no": "50B",
+     "title": "Copying charges",
+     "page": 23,
+     "text": [
+      "{fn:23-29}",
+      "(1) Copying charges of the record of the Commission for parties to the proceedings shall be as prescribed under the Fee Schedule.",
+      "(2) Copying charges for the certified copy of the order passed by the Member or any officer of the Commission shall be as prescribed under the Fee Schedule."
+     ]
+    },
+    {
+     "no": "51",
+     "title": "Powers to determine procedure in certain circumstances",
+     "page": 23,
+     "text": [
+      "In a situation not provided for in these regulations, the procedure shall be determined by a Committee consisting of at least three members one of whom shall be the Chairman and such other Members as the Chairman may appoint."
+     ]
+    },
+    {
+     "no": "52",
+     "title": "Removal of doubt/difficulty",
+     "page": 23,
+     "text": [
+      "In the matter of implementation of these regulations , if any, doubt or difficulty arises, the same shall be placed before the Chairman and two Members, and their decision thereon shall be final and binding."
+     ]
+    },
+    {
+     "no": "52A",
+     "title": "Conduct of Proceeding",
+     "page": 23,
+     "text": [
+      "{fn:23-30} (1) The Commission, its Chairman, the Members or officers, (hereinafter called the presiding authority) presiding over any proceeding sunder the Ordinance, shall administer and enforce the Ordinance, rules and regulations effectively, with the minimum of procedural requirement.",
+      "(2). Notwithstanding anything contained in regulations 51 and 52 of these regulations, during the course of any proceedings, the presiding authority shall have the power to administer affirmations, issue or direct the issuance of notices, and make all decisions regarding the admission or exclusion of evidence or any other procedural matters hich may arise during the course of the hearing.",
+      "(3). All the parties, counsels, witnesses and other persons present at a hearing shall conduct themselves with decorum and deference to the authority presiding over such proceedings.",
+      "(4). The presiding authority shall, exercise control over the proceeding to achieve orderly completion of the proceedings, and may order the removal of any person from the hearing who displays disrespect to the authority or tries to obstruct the hearing.",
+      "(5). The presiding authority shall be entitled in its discretion and in the manner deemed fit to seek assistance from any person or persons, including but not limited to, technical or professional experts, advisers, consultants, or any officer/Member of the Commission, whose participation or consultation would be deemed appropriate to facilitate the orderly completion of the proceedings.",
+      "(6). No proceedings of the Commission shall be invalid by reason of any defect or irregularity unless the presiding authority, on any objection taken by any party, is of the opinion that substantial injustice has been caused by such defect or irregularity or there are otherwise sufficient reasons for doing so, and the authority may, in such even, make such orders as deemed appropriate by it for the rectification of such defect or irregularity."
+     ]
+    },
+    {
+     "no": "53",
+     "title": "Relaxation of Regulations",
+     "page": 24,
+     "text": [
+      "If any difficulty arises in giving effect to any provision of these regulations or other regulations made under the Ordinance in a particular case, or class of cases or it would be in the interest of competition so to do, the Commission may, for reasons to be recorded in writing, relax such requirements subject to such conditions as it may deem fit."
+     ]
+    },
+    {
+     "no": "54",
+     "title": "Compliance with orders of the Commission",
+     "page": 24,
+     "text": [
+      "The Commission shall have power to direct the parties concerned to file an affidavit of compliance with its order or such other documents in the manner specified in its order."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part IX — Reward Payment Scheme",
+   "sections": [
+    {
+     "no": "55",
+     "title": "Reward Payment to Informants Scheme",
+     "page": 24,
+     "text": [
+      "The Commission shall introduce a scheme of “Reward Payment to Informants”, aimed at uncovering and taking action against cartel activity."
+     ]
+    },
+    {
+     "no": "56",
+     "title": "Salient features of the Scheme",
+     "page": 24,
+     "text": [
+      "Salient features of the aforesaid Scheme, its modus operandi and other details shall be provided in the guidelines to be issued by the Commission, in due course."
+     ]
+    },
+    {
+     "no": "57",
+     "title": "Cases of leniency",
+     "page": 24,
+     "text": [
+      "This Scheme shall not apply to the cases of leniency as per section 39 of the Ordinance and the Competition (Leniency) Regulations, 2007.",
+      "(Mohammed Hayat Jasra)",
+      "Secretary"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Part IX — Procedure For Treatment Of Information Received From Anonymous Informants",
+   "sections": [
+    {
+     "no": "58",
+     "title": "",
+     "page": 26,
+     "text": [
+      "The information received by the Commission from an anonymous informant, which for reasons to be recorded and on the basis of supportive evidence, is believed to be authentic, may be treated as a complaint in terms of section 37 of the Act and necessary fee thereon shall stand waived."
+     ]
+    },
+    {
+     "no": "59",
+     "title": "",
+     "page": 26,
+     "text": [
+      "Such information, soon upon its receipt, shall be forwarded to the Member/authorized officer concerned to determine, whether the information received merits a formal enquiry under section 37(2)."
+     ]
+    },
+    {
+     "no": "60",
+     "title": "",
+     "page": 26,
+     "text": [
+      "If the Member/ authorized officer decides to proceed with formal enquiry, he shall be authorized to appoint the enquiry officer/enquiry committee, as he may deem fit, for conducting the enquiry”."
+     ]
+    }
+   ],
+   "fn": [
+    {
+     "n": "26-32",
+     "text": "Inserted vide SRO No. 696(I)/2012 dated 06-06-2012"
+    },
+    {
+     "n": "26-33",
+     "text": "PART X be renumbered as Part IX"
+    }
+   ]
+  }
+ ],
+ "caution": "The text as published still refers to the Competition Ordinance, 2007 in places.",
+ "schedules": [
+  {
+   "title": "Schedule",
+   "page": 27
+  }
+ ]
 }
