@@ -418,3 +418,6 @@ html { scroll-behavior: smooth; }
 .tbl-wrap td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .tbl-wrap tr.tbl-title th { background: var(--surface-2); text-align: left; font-weight: 700; }
 @media print { .tbl-wrap { overflow: visible; border-color: #999; } .tbl-wrap th, .tbl-wrap td { padding: 4px 6px; } }
+.tbl-form { margin: 1em 0; }
+.tbl-form > summary { cursor: pointer; font-family: var(--sans); font-size: 0.9rem; font-weight: 600; color: var(--muted); padding: 6px 0; }
+.tbl-form[open] > summary { margin-bottom: 6px; }

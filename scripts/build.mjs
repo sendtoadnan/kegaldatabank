@@ -38,7 +38,9 @@ function renderParas(list, fmt) {
       else if (filled.length === 1 && cols > 1) body += `<tr class="tbl-title"><th colspan="${cols}" scope="colgroup">${fmt(filled[0], false)}</th></tr>`;
       else body += `<tr>${Array.from({ length: cols }, (_, i) => cell(r.row[i] || '', 'td')).join('')}</tr>`;
     }
-    out += `<div class="tbl-wrap${cols > 6 ? ' tbl-wide' : ''}" role="region" aria-label="Table" tabindex="0"><table>${head ? `<thead>${head}</thead>` : ''}<tbody>${body}</tbody></table></div>`;
+    const tbl = `<div class="tbl-wrap${cols > 6 ? ' tbl-wide' : ''}" role="region" aria-label="Table" tabindex="0"><table>${head ? `<thead>${head}</thead>` : ''}<tbody>${body}</tbody></table></div>`;
+    // Forms and returns printed as very wide tables are kept (and searchable) but folded away so the paragraphs read cleanly.
+    out += cols > 9 ? `<details class="tbl-form"><summary>Form or statement layout (${cols} columns): show</summary>${tbl}</details>` : tbl;
     rows = [];
   };
   for (const raw of list) {
