@@ -421,3 +421,4 @@ html { scroll-behavior: smooth; }
 .tbl-form { margin: 1em 0; }
 .tbl-form > summary { cursor: pointer; font-family: var(--sans); font-size: 0.9rem; font-weight: 600; color: var(--muted); padding: 6px 0; }
 .tbl-form[open] > summary { margin-bottom: 6px; }
+.notice-check { display: block; color: var(--warn-fg); font-size: 0.82rem; margin-top: 2px; }

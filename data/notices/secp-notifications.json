@@ -183,7 +183,7 @@
    "id": "notifications-amendment-to-the-listed-companies-substantial-acquisition-of-voting-shares-and-takeovers-regulations-2008",
    "file": "notices/secp/notifications/amendment-to-the-listed-companies-substantial-acquisition-of-voting-shares-and-takeovers-regulations-2008.pdf",
    "title": "Amendment to the Listed Companies Substantial Acquisition of Voting Shares and Takeovers Regulations 2008",
-   "number": "",
+   "number": "S.R.O. 445(I)/2009",
    "date": "",
    "year": 2008,
    "pages": 2,
@@ -271,7 +271,7 @@
    "id": "notifications-amendments-in-group-companies-registration-regulations-2008",
    "file": "notices/secp/notifications/amendments-in-group-companies-registration-regulations-2008.pdf",
    "title": "Amendments in Group Companies Registration Regulations 2008",
-   "number": "",
+   "number": "S.R.O. 780(I)/2009",
    "date": "2009-09-07",
    "year": 2009,
    "pages": 2,
@@ -348,7 +348,7 @@
    "id": "notifications-amendments-in-secp-insurance-rules-2002",
    "file": "notices/secp/notifications/amendments-in-secp-insurance-rules-2002.pdf",
    "title": "Amendments in SECP Insurance Rules 2002",
-   "number": "",
+   "number": "S.R.O. 682(I)/2008",
    "date": "",
    "year": 2002,
    "pages": 1,
@@ -458,7 +458,7 @@
    "id": "notifications-amendments-in-the-sixth-schedule-to-the-companies-ordinance-1984",
    "file": "notices/secp/notifications/amendments-in-the-sixth-schedule-to-the-companies-ordinance-1984.pdf",
    "title": "Amendments in the Sixth Schedule to the Companies Ordinance 1984",
-   "number": "",
+   "number": "S.R.O. 444(I)/2009",
    "date": "2009-06-08",
    "year": 2009,
    "pages": 1,
@@ -590,7 +590,7 @@
    "id": "notifications-central-depositories-licensing-and-operations-regulations-2015",
    "file": "notices/secp/notifications/central-depositories-licensing-and-operations-regulations-2015.pdf",
    "title": "Central Depositories Licensing and Operations Regulations 2015",
-   "number": "",
+   "number": "S.R.O. 1196(I)/2015",
    "date": "2015-12-02",
    "year": 2015,
    "pages": 18,
@@ -612,7 +612,7 @@
    "id": "notifications-chemical-fertilizer-industry-cost-accounting-records-order-2012",
    "file": "notices/secp/notifications/chemical-fertilizer-industry-cost-accounting-records-order-2012.pdf",
    "title": "Chemical Fertilizer Industry Cost Accounting Records Order 2012",
-   "number": "",
+   "number": "S.R.O. 243(I)/2012",
    "date": "2012-03-08",
    "year": 2012,
    "pages": 15,
@@ -826,7 +826,8 @@
    "year": 2024,
    "pages": 1,
    "bytes": 181819,
-   "textFrom": "pdf"
+   "textFrom": "pdf",
+   "check": "The PDF's first page reads S.R.O. 660(I)/2026; the file name gave 447/2024."
   },
   {
    "id": "notifications-delegation-of-powers-to-the-commissioner-securities-market-secp",
@@ -975,7 +976,7 @@
    "id": "notifications-draft-amendments-in-the-companies-general-provisions-and-forms-rules-1985",
    "file": "notices/secp/notifications/draft-amendments-in-the-companies-general-provisions-and-forms-rules-1985.pdf",
    "title": "Draft Amendments in the Companies General Provisions and Forms Rules 1985",
-   "number": "",
+   "number": "S.R.O. 991(I)/2009",
    "date": "2009-11-20",
    "year": 2009,
    "pages": 5,
@@ -1530,7 +1531,8 @@
    "year": 2020,
    "pages": 1,
    "bytes": 152316,
-   "textFrom": "pdf"
+   "textFrom": "pdf",
+   "check": "The PDF's first page reads S.R.O. 197(I)/2021; the file name gave 920/2020."
   },
   {
    "id": "notifications-notification-amendments-in-securities-brokers-licensing-regulations",
@@ -1667,7 +1669,7 @@
   {
    "id": "notifications-notification-no-s-r-o-1095i2003notification-no-s-r-o-1095i2003",
    "file": "notices/secp/notifications/notification-no-s-r-o-1095i2003notification-no-s-r-o-1095i2003.pdf",
-   "title": "Notification No S.R.O. 1095i2003notification No S.R.O. 1095(I)/2003",
+   "title": "Notification No S.R.O. 1095i2003 notification No S.R.O. 1095(I)/2003",
    "number": "S.R.O. 1095(I)/2003",
    "date": "2003-12-09",
    "year": 2003,
@@ -2295,7 +2297,7 @@
    "id": "notifications-notification-under-506b-of-the-companies-ordinance-1984",
    "file": "notices/secp/notifications/notification-under-506b-of-the-companies-ordinance-1984.pdf",
    "title": "Notification under 506b of the Companies Ordinance 1984",
-   "number": "",
+   "number": "S.R.O. 779(I)/2011",
    "date": "2011-08-18",
    "year": 2011,
    "pages": 1,
@@ -2471,7 +2473,7 @@
    "id": "notifications-revised-sixth-schedule-of-the-companies-ordinance-1984",
    "file": "notices/secp/notifications/revised-sixth-schedule-of-the-companies-ordinance-1984.pdf",
    "title": "Revised Sixth Schedule of the Companies Ordinance 1984",
-   "number": "",
+   "number": "S.R.O. 996(I)/2010",
    "date": "2010-10-26",
    "year": 2010,
    "pages": 8,
@@ -2674,7 +2676,8 @@
    "year": 2017,
    "pages": 2,
    "bytes": 332446,
-   "textFrom": "pdf"
+   "textFrom": "pdf",
+   "check": "The PDF's first page reads S.R.O. 1061(I)/2017; the file name gave 1013/2017."
   },
   {
    "id": "notifications-sro-1013-i2017-the-unclaimed-shares-modaraba-certificates-dividend-other-instruments-and-undistributed-ass",
@@ -3983,7 +3986,8 @@
    "year": 2017,
    "pages": 2,
    "bytes": 419375,
-   "textFrom": "pdf"
+   "textFrom": "pdf",
+   "check": "The PDF's first page reads S.R.O. 1215(I)/2017; the file name gave 1208/2017."
   },
   {
    "id": "notifications-sro-1208-i-2017-the-companies-mediation-and-conciliation-regulations-2017",
@@ -4236,7 +4240,8 @@
    "year": 2017,
    "pages": 34,
    "bytes": 6452086,
-   "textFrom": "ocr"
+   "textFrom": "ocr",
+   "check": "The PDF's first page reads S.R.O. 123(I)/2017; the file name gave 123/2016."
   },
   {
    "id": "notifications-sro-1233-i-2019-amendments-in-the-non-banking-finance-companies-and-notified-entities-regulations-2008",
@@ -7299,7 +7304,7 @@
   {
    "id": "notifications-sro-311i-2025-march-3-2025notification-amendments-in-general-takaful-accounting-regulations-2019",
    "file": "notices/secp/notifications/sro-311i-2025-march-3-2025notification-amendments-in-general-takaful-accounting-regulations-2019.pdf",
-   "title": "S.R.O. 311(I)/2025 March 3 2025notification Amendments in General Takaful Accounting Regulations 2019",
+   "title": "S.R.O. 311(I)/2025 March 3 2025 notification Amendments in General Takaful Accounting Regulations 2019",
    "number": "S.R.O. 311(I)/2025",
    "date": "2025-03-03",
    "year": 2025,
@@ -7420,7 +7425,7 @@
   {
    "id": "notifications-sro-328i-2015-notification-to-real-estate-investment-trust-regulations-2015-updated-as-of-december-04-2018",
    "file": "notices/secp/notifications/sro-328i-2015-notification-to-real-estate-investment-trust-regulations-2015-updated-as-of-december-04-2018jul-02-2019.pdf",
-   "title": "S.R.O. 328(I)/2015 Notification to Real Estate Investment Trust Regulations 2015 Updated as of December 04 2018jul 02 2019",
+   "title": "S.R.O. 328(I)/2015 Notification to Real Estate Investment Trust Regulations 2015 Updated as of December 04 2018 jul 02 2019",
    "number": "S.R.O. 328(I)/2015",
    "date": "2018-12-04",
    "year": 2018,
@@ -9664,7 +9669,7 @@
   {
    "id": "notifications-sro-687-i2007regarding-grant-for-further-exemption-from-application-of-clause-6-of-part-i-of-the-fourth-sc",
    "file": "notices/secp/notifications/sro-687-i2007regarding-grant-for-further-exemption-from-application-of-clause-6-of-part-i-of-the-fourth-schedule-to-the-said-ordinance-to-listed-companies-and-their-subsidiaries-till-31st-december.pdf",
-   "title": "S.R.O. 687 I2007regarding Grant for Further Exemption from Application of Clause 6 of Part I of the Fourth Schedule to the Said Ordinance to Listed Companies and Their Subsidiaries Till 31st December",
+   "title": "S.R.O. 687 I2007 regarding Grant for Further Exemption from Application of Clause 6 of Part I of the Fourth Schedule to the Said Ordinance to Listed Companies and Their Subsidiaries Till 31st December",
    "number": "S.R.O. 687(I)/2007",
    "date": "2007-01-04",
    "year": 2007,
@@ -11909,7 +11914,7 @@
    "id": "notifications-sec-reinsurance-brokers-regulations-2015",
    "file": "notices/secp/notifications/sec-reinsurance-brokers-regulations-2015.pdf",
    "title": "Sec Reinsurance Brokers Regulations 2015",
-   "number": "",
+   "number": "S.R.O. 91(I)/2015",
    "date": "",
    "year": 2015,
    "pages": 21,

@@ -28,6 +28,7 @@ Deployed by Netlify from `main`; every change goes through a branch and a pull r
 - `tools/fe_manual.py` — layout-aware parser for the FE Manual chapters (method for any long PDF in `docs/CONTENT_GUIDE.md`); `"runInHeadings": true` in an instrument JSON bolds run-in captions.
 - `tools/pdf_tables.py` + `tools/add_tables.py` — tables stored as `|a|b|c` paragraphs and shown as HTML tables (method and limits in `docs/CONTENT_GUIDE.md`); `add_tables.py` converts tables in existing instruments without changing words.
 - `schedules[].pdf` (e.g. the Foreign Exchange Manual's appendices, `tools/fe_appendices.py`): a schedule can name its own PDF in `sources/pdf/`.
+- `scripts/refine_notices.py` — checks each notice's title and number against its PDF's first page (file names are often wrong): fixes glued words, fills missing numbers, adds the PDF's Subject to bare titles, re-reads unreadable search text by OCR, and shows a "Check the PDF" note where the file name and the PDF disagree (never guesses). Run after `build_notices.py`.
 - `data/manual-checks.json` + `sources/evidence/` — hand checks of SECP listings with screenshots (shown on the Sources page).
 - `scripts/check_updates.mjs` — compares editions with regulator websites (weekly GitHub workflow). `--saved <folder>` reads listing pages saved from a browser.
 - `scripts/sync_folders.py` — gathers the newest edition of each PDF from Google Drive, OneDrive and `sources/pdf` into one OneDrive "Unified" folder (`docs/FOLDER_SYNC.md`).

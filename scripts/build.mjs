@@ -830,7 +830,7 @@ ${body}
         if (fs.existsSync(tf)) write(`notices-text/secp-${st.kind}.json`, fs.readFileSync(tf));
       }
       const years = [...new Set(all.map((x) => x.year).filter(Boolean))].sort((x, y) => y - x);
-      const row = (it) => `<li class="notice-row" data-kind="${it.kind}" data-year="${it.year || ''}" data-id="${e(it.id)}" data-q="${e((it.title + ' ' + (it.number || '') + ' ' + (it.date || '') + ' ' + it.year).toLowerCase())}"><a href="sources/${e(it.file)}" target="_blank" rel="noopener"><span class="act-title">${e(it.title)}</span></a><span class="act-meta">${[it.number, fmtDate(it.date) || (it.year ? String(it.year) : ''), it.kindLabel.replace(/s$/, ''), `${it.pages} p.`, mb(it.bytes)].filter(Boolean).map(e).join(' · ')}</span></li>`;
+      const row = (it) => `<li class="notice-row" data-kind="${it.kind}" data-year="${it.year || ''}" data-id="${e(it.id)}" data-q="${e((it.title + ' ' + (it.number || '') + ' ' + (it.date || '') + ' ' + it.year).toLowerCase())}"><a href="sources/${e(it.file)}" target="_blank" rel="noopener"><span class="act-title">${e(it.title)}</span></a><span class="act-meta">${[it.number, fmtDate(it.date) || (it.year ? String(it.year) : ''), it.kindLabel.replace(/s$/, ''), `${it.pages} p.`, mb(it.bytes)].filter(Boolean).map(e).join(' · ')}</span>${it.check ? `<span class="act-meta notice-check">Check the PDF: ${e(it.check)}</span>` : ''}</li>`;
       write(
         'notices.html',
         layout({
