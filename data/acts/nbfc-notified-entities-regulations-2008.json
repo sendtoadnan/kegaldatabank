@@ -3309,7 +3309,9 @@
       ">>(ii) Sales load as percentage of net assets.]",
       "(5) A Pension Fund Manager shall prominently {fn:119-407}[disclose] on a daily basis, the following information regarding all its pension funds {fn:119-408}[except employer pension funds,] on its website and on the website of Mutual Funds Association of Pakistan (MUFAP),-",
       ">>{fn:120-409}[(i) total expense ratio shall be made as per the following format;",
-      "M.F Regulatory Trustee Levies Transaction Third Party Other Total TER Total TER Fee Fee and and Expenses Expenses Expenses with without Custody Taxes (Broker, Bank, (Auditor, levies levies Charges PSX, CDC, Legal, NCCPL etc.) Shariah Advisor) a % b % c % d % e% f% g % (a+b+c+d(a+b+c+e +e+f+g)% +f+g)%",
+      "|!M.F|Regulatory Fee|Trustee Fee and Custody Charges|Levies and Taxes|Transaction Expenses (Broker, Bank, PSX, CDC, NCCPL etc.)|Third Party Expenses (Auditor, Legal, Shariah Advisor)|Other Expenses|Total TER with levies|Total TER without levies",
+      "|a %|b %|c %|d %|e%|f%|g %|(a+b+c+d +e+f+g)%|(a+b+c+e +f+g)%",
+      ")%",
       ">>(ii) Sales load as percentage of net assets.",
       ">>(iii) The return after deducting the Total Expense Ratio shall be disclosed to the participants.]"
      ],

@@ -230,7 +230,11 @@
       "|Non-Life Insurer|500|1,000|1,500|2,000",
       "(2) For the purposes of sub-section (2) of section 28 of the Ordinance, the minimum paid up capital requirement for an insurer who, after the insertion of this rule, desires to register itself under the Ordinance, shall be Rs. 3,000 million for life insurance business and Rs. 2,000 million for non-life insurance business.",
       "(3) For the purposes of sub-section (2) of section 28 of the Ordinance, the amount given in the table below shall be the minimum required amount of paid-up capital for a microinsurer and digital-only insurer, registered under the Ordinance to carry on insurance business:",
-      "Minimum Paid-Up Capital Requirement Amount in PKR (million) Life microinsurer 150 Non-life microinsurer 80 Life digital-only insurer 250 Non-life digital-only insurer 100",
+      "|!Minimum Paid-Up Capital Requirement|Amount in PKR (million)",
+      "|Life microinsurer|150",
+      "|Non-life microinsurer|80",
+      "|Life digital-only insurer|250",
+      "|Non-life digital-only insurer|100",
       "(4) For the purposes of sub-rule (1), (2) and (3), the amount of minimum paid up capital will be net off any discount offered on issue of shares.] {fn:7-4}"
      ],
      "fn": [

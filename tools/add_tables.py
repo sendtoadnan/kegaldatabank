@@ -38,9 +38,9 @@ def process(iid, apply):
             for s in secs:
                 if s.get("page") and abs(s["page"] - (pno + 1)) > 2: continue
                 paras = s["text"]
-                if any(q.startswith("|") for q in paras): continue
                 toks = []                                   # (word, paragraph, start, end) over the whole provision
                 for pi, q in enumerate(paras):
+                    if q.startswith("|"): toks.append(("|", pi, 0, 0)); continue
                     masked = re.sub(r"\{fn:[^}]*\}", lambda m: " " * len(m.group()), q)
                     toks += [(m.group().lower(), pi, m.start(), m.end()) for m in re.finditer(r"[^\W_]+", masked)]
                 tw = [t_[0] for t_ in toks]
