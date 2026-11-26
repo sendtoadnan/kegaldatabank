@@ -792,7 +792,7 @@
       ">{fn:24-83}[(r) ensure compliance with guidelines for Internal control system and compliance function for securities brokers as specified by the Commission from time to time] {fn:24-84}[;",
       ">(s) Online Only Broker shall mandatorily offer internet-based trading services to its clients and shall not provide physical place for trading to its clients;",
       ">(t) where it offers internet-based trading facilities, implement adequate measures to ensure that: i. procedures and controls are in place to monitor and test the systems on a regular basis; ii. adequate cyber-security mechanism is in place; iii. operational and technical control systems are in place to manage the risks;",
-      "iv. all electronic communication is digitally signed, encrypted and secured with a backup stored in soft and secured form; and v. it complies with IT infrastructure standards, certifications or any other requirement or conditions, as may be specified by the Commission and/or the securities exchange.”;]",
+      ">iv. all electronic communication is digitally signed, encrypted and secured with a backup stored in soft and secured form; and v. it complies with IT infrastructure standards, certifications or any other requirement or conditions, as may be specified by the Commission and/or the securities exchange.”;]",
       "(2) A securities broker shall not:",
       ">(a) in any way contribute to manipulating the demand for or supply of securities in the market or to influence prices of securities and futures contracts based on securities, or indulge in any action that can detract from transparent and standard pricing on the securities markets and/or futures market;",
       ">(b) encourage sale or purchase of securities and futures contracts based on securities on account of a customer with the sole objective of generating commission or any other financial benefit for the securities broker or any of its employees;",
@@ -1011,8 +1011,7 @@
      "page": 34,
      "text": [
       "(1) A securities broker shall ensure that all orders placed by customers through telephone are recorded over dedicated telephone lines and ensure that:",
-      ">(a) all telephone lines to be used by its employees {fn:34-98}[] who are responsible for taking and confirming orders, executing contracts, transferring funds, or",
-      "carrying out instructions incidental thereto, shall be routed through a centralized call recording system; and",
+      ">(a) all telephone lines to be used by its employees {fn:34-98}[] who are responsible for taking and confirming orders, executing contracts, transferring funds, or carrying out instructions incidental thereto, shall be routed through a centralized call recording system; and",
       ">(b) all lines of communication are regularly tested to ensure ongoing proper functioning.",
       "(2) A securities broker shall ensure that all orders received in-person from visiting customers are adequately recorded and acknowledgement is obtained from the customers.",
       "(3) A securities broker shall ensure that it has preserved all records pertaining to all orders received from customers in writing or through any other document, fax, email, or through any other means."

@@ -2821,8 +2821,7 @@
       "Explanation: For the purpose of sub-regulation (5), any costs related to government levies on the charging of management fees shall be excluded when calculating the management fee for compliance with the prescribed regulatory caps. However, for Total Expense Ratio disclosure to unit holders, all costs, including taxes, shall be fully disclosed.”;]",
       "{fn:102-359}[(6) An AMC shall ensure adequate disclosure of the following expenses and sales load to investor before soliciting investment and prominently disclose on a daily basis, the following information regarding all CIS on its website and on the website of Mutual Funds Association of Pakistan (MUFAP),-",
       ">>{fn:102-360}[(i) total expense ratio shall be made as per the following format;",
-      "Advisor)",
-      "a % b % c % d % e% f% g % (a+b+c+(a+b+c+e d+e+f+g+f+g)% )%",
+      "Advisor) a % b % c % d % e% f% g % (a+b+c+(a+b+c+e d+e+f+g+f+g)% )%",
       ">>(ii) Front-end, back-end and contingent load as a percentage of net assets; and",
       ">>(iii) The return after deducting the Total Expense Ratio shall also be disclosed to the unitholders.]",
       "{fn:103-361}[Omitted]"
@@ -3000,9 +2999,9 @@
       "b) An Asset Management Company shall enter into a written agreement with the distributors clearly stating the terms and conditions for avoidance of fraud and mis-selling of Collective Investment Scheme.",
       ">{fn:108-382}[(ba) The Asset Management Company, following the execution of a written agreement with the distributors, is obligated to disclose the list of its distributors on all of its digital platforms, including its website.]",
       "c) An Asset Management Company and distributor shall not:",
-      "i. involve either directly or indirectly in the mis-selling of Collective investment schemes;",
-      "ii. sell units of Collective Investment Scheme directly or indirectly by making a false or misleading statement; iii. sell units of Collective Investment Scheme directly or indirectly by concealing or omitting material facts of the scheme; and",
-      "iv. sell units of Collective Investment Scheme directly or indirectly by concealing the risk factors associated with the scheme.",
+      ">i. involve either directly or indirectly in the mis-selling of Collective investment schemes;",
+      ">ii. sell units of Collective Investment Scheme directly or indirectly by making a false or misleading statement; iii. sell units of Collective Investment Scheme directly or indirectly by concealing or omitting material facts of the scheme; and",
+      ">iv. sell units of Collective Investment Scheme directly or indirectly by concealing the risk factors associated with the scheme.",
       "d) An Asset Management Company or distributor shall take reasonable care to ensure suitability of the scheme to the investor.",
       "{fn:108-383}[Explanations:- For the purpose of this, AMC shall ensure proper acknowledgment from investors on risk profiling and recommended Collective Investment Scheme as per risk profiling and in case investor select high risk product on its own choice, AMC shall also ensure proper acknowledgment from investor of his such selection.]",
       "e) An Asset Management Company or distributor shall ensure that any performance reporting / presentation is accompanied by all explanations, qualifications, limitations and other statements that are necessary to prevent such information from misleading investors.",
@@ -3249,8 +3248,7 @@
      "page": 116,
      "text": [
       "A trustee shall,-",
-      ">>{fn:117-400}[(i) A trustee shall meet the obligations, as applicable, laid down in regulation 41 whereby any reference to “Asset Management Company” shall be construed as “Pension Fund Manager”, “Open End Scheme” as “Pension Fund” and “unit holder” as “participant”. In addition, a trustee shall be liable for the act and omission of the lender and its agent in relation to assets forming part of the property of the pension fund and, where borrowing is undertaken for the account of the pension fund, such assets may be registered in the lender's name or in that of a nominee appointed by the lender.]; and {fn:117-401}[Omitted]",
-      "comply with the directions of the Commission given in the interest of the participants."
+      ">>{fn:117-400}[(i) A trustee shall meet the obligations, as applicable, laid down in regulation 41 whereby any reference to “Asset Management Company” shall be construed as “Pension Fund Manager”, “Open End Scheme” as “Pension Fund” and “unit holder” as “participant”. In addition, a trustee shall be liable for the act and omission of the lender and its agent in relation to assets forming part of the property of the pension fund and, where borrowing is undertaken for the account of the pension fund, such assets may be registered in the lender's name or in that of a nominee appointed by the lender.]; and {fn:117-401}[Omitted] comply with the directions of the Commission given in the interest of the participants."
      ],
      "fn": [
       {

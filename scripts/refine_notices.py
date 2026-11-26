@@ -37,6 +37,16 @@ def ocr(pdf):
         return re.sub(r"\s+", " ", re.sub(r"<<<page \d+>>>", " ", out.read_text())).strip()[:3000] if out.exists() else ""
 
 
+# Settled by opening each PDF (26 Nov 2026): the PDF is right, the SECP file name named an earlier notification it amends or repeats.
+MANUAL = {
+ "notifications-delegation-of-powers-to-commissioner-l-r-division-under-sro-447i-2024-dated-march-20-2024": ("Delegation of Powers to Commissioner, Licensing and Registration Division (in partial modification of S.R.O. 826(I)/2022 and 1222(I)/2024)", "S.R.O. 660(I)/2026", "2026-04-15"),
+ "notifications-notification-amendments-in-sro-920i2020-aml-dated-28-september-2020": ("Amendment in S.R.O. 920(I)/2020 (Anti-Money Laundering, section 6A): filing dates", "S.R.O. 197(I)/2021", "2021-02-12"),
+ "notifications-sro-1013-i2017-amendment-in-nbfc-rules": ("Draft further amendments in the NBFC (Establishment and Regulation) Rules, 2003 (published for objections)", "S.R.O. 1061(I)/2017", "2017-10-17"),
+ "notifications-sro-1208-i-2017-amendments-to-pmex-regulations-2017": ("Draft amendment in the Futures Exchanges (Licensing and Operations) Regulations, 2017 (published for objections)", "S.R.O. 1215(I)/2017", "2017-11-22"),
+ "notifications-sro-123-i2016-delegation-of-powers-to-commission-and-officers-of-smd": ("Delegation of Powers to Commissioner and officers of the Securities Market Division", "S.R.O. 123(I)/2017", "2017-02-27"),
+}
+
+
 def main():
     changes = []
     for kind in KINDS:
@@ -71,6 +81,8 @@ def main():
                 s_ = re.sub(r"\s+\d$", "", re.sub(r"\s+", " ", sub.group(1))).strip(" .:-_")
                 if s_.isupper(): s_ = s_.title()
                 if len(s_) > 10 and "_" not in s_ and len(s_) < 150: title = f"{title}: {s_}"
+            if it["id"] in MANUAL:
+                title, number, dt = MANUAL[it["id"]]; check = ""; it["date"] = dt; it["year"] = int(dt[:4])
             if check: it["check"] = check
             else: it.pop("check", None)
             if (title, number) != old:

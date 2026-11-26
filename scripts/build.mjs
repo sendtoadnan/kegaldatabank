@@ -56,7 +56,7 @@ function renderParas(list, fmt) {
 // Reading aids for a provision's paragraph (HTML already escaped): the list label "(i)", "(a)", "1." is set in bold,
 // and for instruments flagged runInHeadings a short caption ending in a colon ("(i) Definitions:", "Instruments: ...") is bold too.
 function emphasise(html, act) {
-  const m = /^(\(?[A-Za-z0-9]{1,5}\)|\d{1,3}[A-Z]{0,2}\.)(\s+|$)/.exec(html);
+  const m = /^(\(?[A-Za-z0-9]{1,5}\)|\d{1,3}[A-Z]{0,2}\.|[ivx]{1,5}\.|[a-z]\.)(\s+|$)/.exec(html);
   let rest = m ? html.slice(m[0].length) : html;
   if (act.runInHeadings) {
     const whole = /^([^<:]{2,90}:)\s*$/.exec(rest);
