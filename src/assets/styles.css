@@ -430,4 +430,4 @@ html { scroll-behavior: smooth; }
 @media (max-width: 520px) { .act-row:has(.form-dl) { flex-wrap: wrap; } .act-row .form-dl { width: 100%; } }
 
 /* long unbroken runs (signature lines of underscores, long codes) must wrap, not widen the page */
-.prov-body p, .prov-body li, .tbl-wrap td, .tbl-wrap th { overflow-wrap: anywhere; }
+.prov-body p, .prov-body li, .prov-fns li, .prov-fns p, .tbl-wrap td, .tbl-wrap th { overflow-wrap: anywhere; }
