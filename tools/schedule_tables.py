@@ -45,12 +45,22 @@ def furniture(txt, y0, y1, H):
     return bool(re.search(r"_{6,}", t)) and y1 < 0.12 * H and len(t.split()) <= 12
 
 
+def compact(rows):
+    """Merged cells leave gaps that put header and data cells in different columns. When most rows have the same number of
+    filled cells (k >= 2) and the table is wider than k, close the gaps in those rows so each column lines up."""
+    from collections import Counter as C
+    fill = [sum(1 for c in r if c) for r in rows]
+    k, n = C(f for f in fill if f >= 2).most_common(1)[0] if any(f >= 2 for f in fill) else (0, 0)
+    if not k or n < 0.7 * len(rows) or max(len(r) for r in rows) <= k: return rows
+    return [[c for c in r if c] if f == k else r for r, f in zip(rows, fill)]
+
+
 def page_items(pg, ymin=0):
     """Paragraphs and tables of one page in reading order, margins excluded: [(y, 'p'|'t', payload)]"""
     H = pg.rect.height
     tabs = find_tables(pg, strict=True)
     inside = lambda b: any(t["x0"] - 2 <= b[0] and b[2] <= t["x1"] + 2 and t["y0"] - 2 <= b[1] and b[3] <= t["y1"] + 2 for t in tabs)
-    items = [(t["y0"], "t", row_strings(t["rows"])) for t in tabs]
+    items = [(t["y0"], "t", row_strings(compact(t["rows"]))) for t in tabs]
     paras = []
     for b in pg.get_text("dict")["blocks"]:
         if b.get("type") != 0 or inside(b["bbox"]): continue
@@ -91,6 +101,9 @@ def convert(doc, start, end, title=""):
             if kind == "t":                       # a row with a cell over 50 words is a layout box holding text, not table cells: keep it as a paragraph
                 rows = [(re.sub(r"\s+", " ", " ".join(c for c in r.lstrip("|!").split("|") if c))
                          if any(len(W(c)) > 50 for c in r.lstrip("|!").split("|")) else r) for r in rows]
+            if kind == "t":                       # tables with multi-level headers or ragged rows would put figures under the wrong heading
+                lens = [len(r.lstrip("|!").split("|")) for r in rows if r.startswith("|")]; lens = [n for n in lens if n > 1]
+                if lens and Counter(lens).most_common(1)[0][1] < 0.8 * len(lens): return paras, 0, 1
             for r in rows: got.update(W(r))
             if kind == "t": tw += sum(len(W(r)) for r in rows if r.startswith("|"))
             paras += rows
