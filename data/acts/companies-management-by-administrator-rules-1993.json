@@ -1,268 +1,160 @@
 {
-  "id": "companies-management-by-administrator-rules-1993",
-  "title": "Companies (Management by Administrator) Rules, 1993",
-  "number": "S.R.O. 1083(I)/1993",
-  "type": "rules",
-  "unit": "Rule",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Management by Administrator Rules"
-  ],
-  "enacted": "1993-11-08",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 1083(I)/1993",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "Division Notification No. S.R.O. 698(I)/86, dated the 2nd July, 1986, the Corporate Law Authority hereby makes the following rules, the same having been published previously as required under the said section 506, namely:- THE COMPANIES (MANAGEMENT BY ADMINISTRATOR) RULES, 1993 PARTI Preliminary",
-  "parts": [
+ "id": "companies-management-by-administrator-rules-1993",
+ "title": "Companies (Management by Administrator) Rules, 1993",
+ "number": "S.R.O. 1083(I)/1993",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Management by Administrator Rules"
+ ],
+ "enacted": "1993-11-08",
+ "lastAmended": "2026-06-20",
+ "amendedUpToLabel": "20 June 2026 (no later amendment recorded)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "companies-management-by-administrator-rules-1993.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Part I — Preliminary",
+   "sections": [
     {
-      "heading": "Rules",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These rules may be called the Companies (Management by Administrator) Rules, 1993.",
-            "(2) They shall come into force at once."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these rules, unless there is anything repugnant in the subject or context,-",
-            ">(i) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
-            "and",
-            ">(ii) \"section\" means a section of the Ordinance.",
-            "(2) All other words, terms and expressions used but not defined in these rules shall have the same meanings as are assigned to them in the Ordinance.",
-            "Representation to the Authority"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title commencement",
+     "page": 1,
+     "text": [
+      "(1) These rules may be called the Companies management by Administrator) Rules, 1993.",
+      "(.2) They shall come into force at once."
+     ]
     },
     {
-      "heading": "Part II",
-      "sections": [
-        {
-          "no": "3",
-          "title": "Several creditors may join in one representation",
-          "text": [
-            "All creditors may be joined in one representation or the representation may be made by one or more creditors whose debt or aggregate debt is not less than sixty per cent of the paid up capital of the company."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Documents to be accompanied with representation",
-          "text": [
-            "(1) The representation under rule 3 shall be in the form of an application to the Authority and shall be supported by such information as specified in the Annexure to these rules.",
-            "(2) A representation shall be accompanied, (a) by supporting documents referred to or relied upon. alongwith three years; and",
-            "III - 13",
-            ">(b) by the original receipt of the fee paid under rule 8. 2 (3) The application shall be in triplicate."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Register of Representations",
-          "text": [
-            "The Authority shall cause the particulars of every application to be entered in a register to be kept for the purpose called \"Register of Representations under section 295\", entries wherein shall be serially numbered in every year and the number in the register shall be endorsed on the application which shall be borne by all proceedings thereunder."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Notice to parties",
-          "text": [
-            "When a representation has been duly made by an application, notice shall be issued to the company and all others concerned to appear and show cause why the application should not be accepted."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Disposal of representations",
-          "text": [
-            "(1) The Authority shall except in extraordinary circumstances and on grounds to be recorded, hear the representation on day to day basis and shall dispose it of within sixty days of its receipt.",
-            "(2) In dealing with a representation under sub-rule (1) the provisions of section 478, shall as far as possible, be applicable."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Fee",
-          "text": [
-            "A fee of ten thousands rupees shall be payable for making a representation to the Authority under sub-section (1) of section 295.",
-            "PART-III",
-            "Management by the Administrator"
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Management of company",
-          "text": [
-            "Where an administrator has been appointed he shall manage the company in accordance with the provisions of the Ordinance, the rules made thereunder and in accordance with such directions, not inconsistent with the provisions of the Ordinance or rules made thereunder, as the Authority may give from time to time."
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Best possible profits and benefits to be earned",
-          "text": [
-            "The be earned. administrator shall manage the affairs of the company and carry on its business in the best possible manner so as to earn the best possible profits and benefits for the company and its members and creditors."
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Handing over of company's affairs",
-          "text": [
-            "In the event of an order under sub-section (6) of section 295 whereby the purpose of the order for appointing the administrator has been fulfilled and the company has been permitted to appoint directors, on appointment of such directors, the administrator shall hand-over the management and affairs of the company including records thereof, to the said directors."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Appointment of committec",
-          "text": [
-            "The Authority may appoint a committee consisting of representatives of the creditors and shareholders to offer its comments and suggestions to the Authority regarding the administrator with particular reference to:—",
-            ">(a) the affairs of the company;",
-            ">(b) disposal of capital assets; and",
-            ">(c) any other related matter."
-          ]
-        }
-      ]
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these rules, unless there is anything repugnant in the subject or context,-",
+      ">>(i) ordinance means the Companies ordinance, 1984 (XLVII of 1984); and",
+      ">>(ii) \"section\" means a section, of the Ordinance.",
+      "(2) All Other words, terms and expressions used but not defined in these rules shall the shall meaning as are assigned to them in the Ordinance ."
+     ]
     }
-  ],
-  "schedules": [
+   ]
+  },
+  {
+   "heading": "Part II — Representation To The Authority",
+   "sections": [
     {
-      "title": "Annexure [See rule 4(1)] INFORMATION TO BE SUPPLIED WITH THE REPRESENTATION",
-      "text": [
-        "1. Name and status of the company",
-        "2. Names of the directors at the time of representation",
-        "3. Name of the chief executive of the company",
-        "4. Registered office of the company",
-        "5. Nature of business of the company",
-        "6. Paid-up capital of the company",
-        "7. Amount of loans with dates thereof",
-        ">(i) Long-term loans with rate of mark up",
-        ">(ii) Bridging advance with rate of mark up",
-        ">(iii) Working capital loans with rate of mark up",
-        ">(iv) Any other loan"
-      ]
+     "no": "3",
+     "title": "Several creditors may join in one representation",
+     "page": 1,
+     "text": [
+      "All creditors may be joined in one representation or the representation may be made by one or more creditors whose debt or aggregate debt is not less than sixty per cent. of the paid-up capital of the company."
+     ]
     },
     {
-      "title": "8. Repayment schedule of the respective loans",
-      "text": [
-        "9. Repayments made, if any, with their respective dates",
-        "10. Total amount of outstanding loan with period thereof with percentage of the paid-up capital",
-        "11. Nature of grievances",
-        "12. Statement and documents filed in support of item 10, if any, with complete address of the creditors",
-        "Signature.",
-        "-2 (Pages 17 to 20 deleted due to updating)",
-        "(Buy-back of Shares)",
-        "Rules, 1999",
-        "Notification No. SRO 1337(I)/99, Islamabad, the December 14, 1999.-",
-        "In exercise of the powers conferred by section 506 of the Companies",
-        "Ordinance, 1984 (XLVII of 1984), read with section 95A thereof, and clause (b) of section 43 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), the Securities and Exchange Policy Board hereby makes the following rules, the same having been published previously as required by the proviso to sub-section (1) of said section 506, namely:-",
-        "COMPANIES (BUY-BACK OF SHARES) RULES, 1999",
-        "1. : Short title* commencement and application.- (1) These rules may be called the Companies (Buy-back of Shares) Rules, 1999.",
-        "(2) They shall come into force at once.",
-        "(3) They shall apply to listed companies.",
-        "2. Definitions.- (1) In these rules, unless there is anything repugnant in the subject or context,-",
-        ">(a) \"Commission\" means the Securities and Exchange Commission of",
-        "Pakistan;",
-        ">(b) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
-        "and",
-        ">(c) \"purchase\" means purchase by the companies of their own shares.",
-        "(2) All other terms and expressions used but not defined in these rules shall have the same meaning as assigned to them in the Ordinance.",
-        "3. Financial ratios.- [(1) Subject to restrictions and conditions specified in section 95A of the Ordinance, the company intending to purchase, shall have debt-equity and current ratios as under, namely:-",
-        ">(i) Debt-equity ratio 75 : 25",
-        ">(ii) Current ratio 1:1",
-        "Provided that the Commission on application of a company may allow it to purchase its own shares even if the company has a higher debt-equity ratio if in the opinion of the Commission it is in the interest of the company and the capital market.]",
-        "[ ]",
-        "(3) Debt-equity and current ratios [ ] shall be indicated in the explanatory statement to be circulated to the members alongwith the notice of the meeting in which the proposed purchase is to be considered.",
-        "4. Availability of sufficient cash.- (1) The company shall have sufficient cash [resources] available with it for the purchase.",
-        "21",
-        ">(iii) the last date by which the offer to sell the shares shall be made; and",
-        ">(iv) the name and the address of the designated branches of the authorized bank.",
-        "(4) A shareholder, interested to sell his shares to the company in response to the tender notice, shall make the offer in writing through the designated branches of an authorized bank, providing the following information in the offer, namely:-",
-        ">(i) Name of the shareholder;",
-        ">(ii) his father's name and in the case of a married woman or a widow, her husband's name;",
-        ">(iii) National Identity Card No.;",
-        ">(iv) address of the shareholder registered with the company;",
-        ">(v) number of shares offered for repurchase by the company;",
-        ">(vi) distinctive numbers of share certificates (if not in the Central",
-        "Depository);",
-        ">(vii) folio No. (if not in the Central Depository); and",
-        ">(viii) sub-account number with the Central Depository, if any.",
-        "(5) The company shall take a decision on the offers received within ten days of the closing date of the receipt of offers.",
-        "(6) In case, offers received in response to tender notice exceed the requisite purchase, the acceptance thereof shall be on pro-rata basis in lots of five hundred shares.",
-        "(7) The acceptance of the offer shall be communicated within seven days of the decision.",
-        "(8) The shareholder, whose offer has been accepted, shall submit the share certificates alongwith the transfer deed duly signed, verified and witnessed to the company through designated branches of the bank within seven days of the receipt of acceptance from the company.",
-        "(9) Where the shares are on the Central Depository System a confirmation from the Central Depository, about the availability of the shares alongwith authorization to transfer, shall be sent to the designated branches of the bank within seven days of the receipt of acceptance of the offer.",
-        "(10) In the case of non-compliance with sub-rules (8) and (9), the acceptance .",
-        "of the offer shall be deemed to have been revoked.",
-        "(11) The company shall pay the price of the purchase through 'bank draft'/pay order' immediately on receipt of the share certificates and transfer deed or the authority to transfer the shares from the Central Depository, as the case may be but not later than seven days.",
-        "6. Disclosure of purchase.- The purchase shall be disclosed in the balance sheet as reduction of share capital and other necessary details including the mode and purchase price shall be provided in the explanatory notes of the accounts.",
-        "7. Filing of return.- The company shall submit to the Commission and the registrar concerned a return and a declaration of solvency within thirty days of the purchase in the manner set out in the Schedule to these rules.",
-        "8. Penalty.- Whoever fails or refuses to comply with or contravenes any",
-        "•provision of these rules, or knowingly and wilfully authorizes or permits such failure, refusal or contravention shall, in addition to any other liability under the",
-        "Ordinance, be also punishable with fine not exceeding two thousand rupees, and, in case of continuing failure, refusal or contravention, to a further fine not exceeding one hundred rupees for every day after the first during which such contravention continues."
-      ]
+     "no": "4",
+     "title": "Documents to be accompanied with representation",
+     "page": 1,
+     "text": [
+      "(1) The representation under rule 3 shall be in the form of an application to the Authority and shall be supported by such information as specified in the Annexure to these rules.",
+      "(2) A representation shall be accompanied,",
+      ">(a) by supporting documents referred to or relied upon. alongwith certified copies of annual accounts of the company for the preceding three years; and",
+      ">(b) by the original receipt of the fee paid under rule 8.",
+      "(3) The application shall be in triplicate."
+     ]
     },
     {
-      "title": "(Annexure not reproduced)",
-      "text": [
-        "(Rehabilitation of Sick Industrial Units)",
-        "Rules, 1999",
-        "Notification No. S.R.O. 897(I)/2012, Islamabad, the August 03, 1999.-",
-        "In exercise of the powers conferred by section 296, read with section 506, of the",
-        "Companies Ordinance, 1981 (XLVII of 1984), and clause (b) of section 43 of the",
-        "Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), the",
-        "Securities and Exchange Policy Board hereby makes the following rules, the same having been published previously as required under the said section 506, namely:-",
-        "THE COMPANIES (REHABILITATION OF SICK INDUSTRIAL UNITS)",
-        "RULES, 1999",
-        "1. Short title and commencement.- (1) These rules may be called the",
-        "Companies (Rehabilitation of Sick Industrial Units) Rules, 1999.",
-        "(2) They shall come into force at once.",
-        "2. Definition.- In these rules, unless there is anything repugnant in the subject or context,-",
-        ">(a) \"Bankers' Committee\" means the Committee constituted by the State",
-        "Bank of Pakistan comprising Heads of banks and financial institutions to implement the recommendations of the State Bank of",
-        "Pakistan Coordination Committee relating to the revival of sick units;",
-        ">(b) \"Commission\" means the Securities and Exchange Commission of",
-        "Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
-        ">(c) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
-        "and",
-        ">(d) \"Task Force\" means Task Force constituted under rule 3 of these rules.",
-        "3. Constitution of Task Force.- (1) The Federal Government shall constitute a Task Force to be known as the \"Task Force for Revival of Sick",
-        "Industrial Units\" to exercise the jurisdiction and powers and to discharge the functions and duties conferred or imposed on it by section 296 of the Ordinance or under these rules.",
-        "(2) The Task Force shall consist of a Chairman, a Vice Chairman and not less than five and not more than twelve other Members.",
-        "(3) The Chairman, Vice Chairman and other Members of the Task Force shall be persons of ability, integrity and standing who have special knowledge and experience in banking, industry, law, finance or accountancy.",
-        "III - 20(5)",
-        "4. Secretariat of the Task Force.- The Task Force shall have a secretariat at the head office of the Habib Bank Limited, Karachi.",
-        "5. Declaration of Sick Company.- (1) Where in the opinion of the",
-        "Bankers' Committee a company owning an industrial unit is facing financial or operational problems, it shall make a report to the Task Force.",
-        "(2) If, after examining the report of the Bankers' Committee and such other evidence as it may like to call for, the Task Force is of the opinion that the company is a sick company, it shall make a reference to the Federal Government.",
-        "(3) If, after examining the report of the Bankers' Committee and the reference from the Task Force, the Federal Government is of the opinion that the company is a sick company, it may declare the company to be a sick company within the meaning of section 296 of the Ordinance.",
-        "6. Plan in respect of sick company.- (1) Where the Federal",
-        "Government has declared a company as sick company, it shall ask the Task Force to prepare a plan for its rehabilitation.",
-        "(2) The Task Force shall prepare rehabilitation plan ia accordance with the provisions of section 296 of the Ordinance, and submit to* it to the Federal",
-        "Government for its approval.",
-        "7. Proceedings of the Task Force.- (1) Subject to the provisions of the",
-        "Ordinance and these rules, the Task Force shall, with the approval of the",
-        "Commission, determine the parameters for declaring a company as a sick company and prescribe its own procedure for calling and conducting its meetings.",
-        "(2) The parameters determined by the Task Force may specify and specify and segregate the financial and/or operational problems on the basis of which an industrial company may become sick.",
-        "(3) The procedure for the proceedings may cover all relevant matters including the power of the Chairman to call and conduct the meetings, quorum and frequency of the meetings, and the manner in which the decisions of the",
-        "Task Force shall be taken.",
-        "8. Appointment of advisers and consultants.- The Task Force may, Appointment of advisers and consultants.- The Task Force may, on such terms and conditions as it may deem fit, employ and pay consultants, technical, professional and other advisers including but not limited to, bankers, stock-brokers, surveyors, valuers, actuaries, accountants, lawyers, and other persons to assist it in the performance of its functions or for the better implementation of the purposes of these rules.",
-        "9. Finances.- All finances for the working of the Task Force shall be borne by the banks and financial institutions who are represented on the",
-        "Bankers' Committee on voluntary basis.",
-        "*Word \"to\" is superfluous."
-      ]
+     "no": "5",
+     "title": "Register of Representation",
+     "page": 1,
+     "text": [
+      "The Authority shall cause the particulars of every application to be entered in a register to be kept for the purpose. called ‘Register of Representations under section 295\" entries wherein shall be serially numbered in every year and the number in the register shall be endorsed on the application which shall be borne by all proceedings thereunder."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Notice to parties",
+     "page": 2,
+     "text": [
+      "When a representation has been duly made by an application, notice shall be issued to the company and all others concerned to appear and show cause why the application should not be accepted."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Disposal of representations",
+     "page": 2,
+     "text": [
+      "(1) The Authority shall . except in extraordinary. circumstances and on grounds to be recorded hear the representation on day to day basis and shall dispose of it within sixty days of its receipt.",
+      "(2) In dealing with a representation under sub-rule (1) the provisions of section 478. shall as far as possible be applicable."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Fee",
+     "page": 2,
+     "text": [
+      "A fee of ten thousand rupees shall be payable for making a representation to the Authority under subsection ( 1 ) of section 295."
+     ]
     }
-  ],
-  "frontNotes": [],
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Part ILL — Management By The Administrator",
+   "sections": [
+    {
+     "no": "9",
+     "title": "Management of company",
+     "page": 2,
+     "text": [
+      "Where an administrator has been appointed he shall manage the company in accordance with the provisions of the Ordinance in the rules made thereunder and accordance with such directions, not inconsistent with the provisions of the Ordinance or rules. made thereunder as the Authority may give from time to time."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Best possible profits and benefits to be earned",
+     "page": 2,
+     "text": [
+      "The administrator shall manage the affairs of the company and carry on its business in the best possible manner so as to earn the best possible profits andbenefits for the company and its members and creditors"
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Handing over of company’s affairs",
+     "page": 2,
+     "text": [
+      "In the event of an order under subsection (6) of section 295 whereby the purpose of the order for appointing the administrator has been fulfilled and the company has been permitted to appoint directors. on appointment of such directors the administrator shall hand over the management and affairs of the company including records thereof to the said directors."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Appointment of committee",
+     "page": 2,
+     "text": [
+      "The Authority may appoint a committee consisting of representatives of the creditors and shareholders to offer its comments and suggestions to the Authority regarding the administrator with particular reference to",
+      ">(a) the affairs of the company:",
+      ">(b) disposal of capital assets; and",
+      ">(c) any other related matter."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure",
+   "page": 3
+  }
+ ]
 }

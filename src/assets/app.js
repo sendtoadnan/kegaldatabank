@@ -752,3 +752,99 @@
     });
   }
 })();
+
+// Sources page: filter cards and text box for the editions table.
+(function () {
+  var table = document.getElementById('sources-table');
+  if (!table) return;
+  var rows = Array.prototype.slice.call(table.tBodies[0].rows);
+  var box = document.getElementById('src-filter');
+  var count = document.getElementById('src-count');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('[data-src-filter]'));
+  var mode = 'all';
+  function apply() {
+    var q = (box.value || '').toLowerCase().trim();
+    var shown = 0;
+    rows.forEach(function (r) {
+      var ok = true;
+      if (mode.indexOf('status:') === 0) ok = r.dataset.status === mode.slice(7);
+      else if (mode === 'ver:verified') ok = r.dataset.ver === 'verified';
+      else if (mode === 'ver:unverified') ok = r.dataset.ver !== 'verified';
+      if (ok && q) ok = r.dataset.text.indexOf(q) !== -1;
+      r.hidden = !ok;
+      if (ok) shown++;
+    });
+    count.textContent = 'Showing ' + shown + ' of ' + rows.length;
+  }
+  cards.forEach(function (c) {
+    c.addEventListener('click', function () {
+      mode = c.getAttribute('data-src-filter');
+      cards.forEach(function (x) { x.classList.toggle('is-on', x === c); });
+      apply();
+    });
+  });
+  box.addEventListener('input', apply);
+  apply();
+})();
+
+// Search guide: filter the topic list.
+(function () {
+  var f = document.getElementById('guide-filter');
+  if (!f) return;
+  f.addEventListener('input', function () {
+    var q = f.value.trim().toLowerCase();
+    document.querySelectorAll('.guide-cat').forEach(function (sec) {
+      var any = false;
+      sec.querySelectorAll('[data-q]').forEach(function (el) {
+        var ok = !q || el.getAttribute('data-q').indexOf(q) > -1;
+        el.hidden = !ok;
+        if (ok) any = true;
+      });
+      var d = sec.querySelector('details');
+      if (d && q) d.open = true;
+      sec.hidden = !any;
+    });
+  });
+})();
+
+// Notices page: filter by kind, year, title and (once typing) the opening words of each document.
+(function () {
+  var box = document.getElementById('notice-filter');
+  if (!box) return;
+  var rows = Array.prototype.slice.call(document.querySelectorAll('.notice-row'));
+  var kindBtns = document.querySelectorAll('[data-notice-kind]');
+  var yearSel = document.getElementById('notice-year');
+  var count = document.getElementById('notice-count');
+  var kind = '', texts = null, loading = false;
+  function norm(s) { return (s || '').toLowerCase(); }
+  function run() {
+    var q = norm(box.value.trim()), y = yearSel.value, n = 0;
+    var words = q.split(/\s+/).filter(Boolean);
+    rows.forEach(function (r) {
+      var hay = r.getAttribute('data-q') + (texts && texts[r.getAttribute('data-id')] ? ' ' + norm(texts[r.getAttribute('data-id')]) : '');
+      var ok = (!kind || r.getAttribute('data-kind') === kind) && (!y || r.getAttribute('data-year') === y) &&
+        words.every(function (w) { return hay.indexOf(w) > -1; });
+      r.hidden = !ok;
+      if (ok) n++;
+    });
+    count.textContent = n + ' shown';
+  }
+  function loadTexts() {
+    if (texts || loading) return;
+    loading = true;
+    var kinds = Array.prototype.map.call(kindBtns, function (b) { return b.getAttribute('data-notice-kind'); }).filter(Boolean);
+    Promise.all(kinds.map(function (k) {
+      return fetch('notices-text/secp-' + k + '.json').then(function (r) { return r.ok ? r.json() : {}; }).catch(function () { return {}; });
+    })).then(function (all) { texts = Object.assign.apply(null, [{}].concat(all)); run(); });
+  }
+  box.addEventListener('input', function () { loadTexts(); run(); });
+  yearSel.addEventListener('change', run);
+  kindBtns.forEach(function (b) {
+    b.addEventListener('click', function () {
+      kind = b.getAttribute('data-notice-kind');
+      kindBtns.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      run();
+    });
+  });
+  kindBtns[0].setAttribute('aria-pressed', 'true');
+})();

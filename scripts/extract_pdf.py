@@ -235,10 +235,17 @@ def line_text(l, bs):
     return re.sub(r"[ \t]+", " ", "".join(out)).strip()
 
 
+PAREN_NUM = False  # set from the manifest option parenNumbers: bold "(8)" numbers are read as "8."
+
+
 def section_start(l, bs, untitled=False):
     """If the line begins a provision, return (number, heading, lead, rest_of_line)."""
     spans = []
     for s in l.spans:
+        if PAREN_NUM and not spans and is_bold(s):
+            pm = re.match(r"^\((\d+[A-Z]{0,4})\)(\s*)$", s["text"])
+            if pm:
+                s = dict(s, text=pm.group(1) + "." + pm.group(2))
         if not s["text"].strip():
             continue
         prev = l.spans[l.spans.index(s) - 1] if spans else None
@@ -273,6 +280,12 @@ def section_start(l, bs, untitled=False):
             dot = "."
             tail = spans[j]["text"].strip()[1:].strip()
             j += 1
+        elif j + 1 < len(spans) and is_ref(spans[j], bs) and spans[j + 1]["text"].strip().startswith("."):
+            # "41B" + superscript note marker + ". Refund of fees": the marker sits between the number and its dot
+            lead += refs(spans[j], l.kp)
+            dot = "."
+            tail = spans[j + 1]["text"].strip()[1:].strip()
+            j += 2
     if not dot:
         nxt = spans[j]["text"].strip() if j < len(spans) else ""
         if tail.startswith("*") or re.match(r"^OMITTED\b|^Omitted\b", tail):
@@ -345,6 +358,8 @@ def section_start(l, bs, untitled=False):
         rest = re.sub(r"^[-–—]\s*", "", rest)
     elif re.match(r"^,\s*[-–—]\s", rest):
         rest = re.sub(r"^,\s*[-–—]\s*", "", rest)  # bold "44. Repeal and Savings" + regular ", - (1)"
+    elif re.match(r"^\.\s*[-–—]{1,2}\s", rest):
+        rest = re.sub(r"^\.\s*[-–—]{1,2}\s*", "", rest)  # heading closed in its own run, then regular ". — text"
     return number, heading, lead, rest
 
 
@@ -588,6 +603,8 @@ def insert_omitted(parts, toc_rows):
 
 
 def extract(entry):
+    global PAREN_NUM
+    PAREN_NUM = bool(entry.get("parenNumbers"))
     pdf = ROOT / "sources" / "pdf" / entry["file"]
     if not pdf.exists() and entry.get("pdfUrl"):
         # editions too large to keep in the repository are fetched from the regulator when needed
@@ -730,7 +747,7 @@ def extract(entry):
             if carry is not None:
                 l = Line(l.page, l.y, carry.x, carry.spans + l.spans, l.kp)
                 carry = None
-            if re.fullmatch(r"\[?\d+[A-Z]{0,4}\.?", norm_space(re.sub(r"\{fn:[^}]+\}", "", line_text(l, bs)))) and any(
+            if re.fullmatch(r"\[?\d{1,3}[A-Z]{0,4}\.?", norm_space(re.sub(r"\{fn:[^}]+\}", "", line_text(l, bs)))) and any(
                     is_bold(x) for x in l.spans if x["text"].strip()) and not in_schedule:
                 carry = l
                 continue
@@ -790,7 +807,13 @@ def extract(entry):
             if st is None and not in_schedule and entry.get("plainNumberProvisions"):
                 # provisions printed with a regular-weight number and no heading, named in the manifest
                 mm = re.match(r"^(\d+[A-Z]{0,4})\.\s+(\S.*)$", text)
-                if mm and mm.group(1) in entry["plainNumberProvisions"]:
+                if not mm:
+                    # a number run straight into "(1)", after any note markers: "{fn:19}30(1) The Commission ..."
+                    m2 = re.match(r"^((?:\{fn:[^}]+\})*)\s*(\d+[A-Z]{0,4})(\(1\)\s.*)$", text)
+                    if m2 and m2.group(2) in entry["plainNumberProvisions"]:
+                        mm = m2
+                        st = (m2.group(2), "", m2.group(1), m2.group(3))
+                if mm and st is None and mm.group(1) in entry["plainNumberProvisions"]:
                     # a heading may follow the number in body type: "42D. Heading.—(1) …"
                     hm = re.match(r"^((?:\{fn:[^}]+\})*)\s*([A-Z][^.—–]{3,120}?)\.\s*[—–-]+\s*(.*)$", mm.group(2))
                     st = (mm.group(1), hm.group(2), hm.group(1), hm.group(3)) if hm else (mm.group(1), "", "", mm.group(2))

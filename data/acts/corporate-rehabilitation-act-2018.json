@@ -1,595 +1,615 @@
 {
-  "id": "corporate-rehabilitation-act-2018",
-  "title": "Corporate Rehabilitation Act, 2018",
-  "number": "Act No. IX of 2018",
-  "type": "act",
-  "unit": "Section",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "CRA 2018",
-    "Rehabilitation Act"
-  ],
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, Act No. IX of 2018",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "An Act to provide for rehabilitation and re-organisation of distressed corporate entities No. F.9(2)/2017-Legis, Islamabad, the 15th March, 2018.- The following Act of Majlis-e-S'hoora (Parliament) received the assent of the President on 13th March, 2018 and is hereby published for general information:- ACT NO. IX OF 2018 WHEREAS it is expedient to provide for the rehabilitation and reorganisation of distressed corporate entities and their business so as to encourage economic growth and development; It is hereby enacted as follow:-",
-  "parts": [
+ "id": "corporate-rehabilitation-act-2018",
+ "title": "Corporate Rehabilitation Act, 2018",
+ "number": "Act No. IX of 2018",
+ "type": "act",
+ "unit": "Section",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "CRA 2018",
+  "Rehabilitation Act"
+ ],
+ "lastAmended": "2026-06-20",
+ "amendedUpToLabel": "20 June 2026 (no later amendment recorded)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "corporate-rehabilitation-act-2018.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "WHEREAS it is expedient to provide for the rehabilitation and re-organisation of distressed corporate entities and their business so as to encourage economic growth and development; 137 (1—23) Price : Rs. 20.50 [5559(2018)/Ex. Gaz.] It is hereby enacted as follows: Preliminary Rehabilitation of Debtor Administration of Debtor Miscellaneous",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
     {
-      "heading": "Sections",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title, extent and commencement",
-          "text": [
-            "(1) This Act shall be called the Corporate Rehabilitation Act, 2018.",
-            "(2) It extends to the whole of Pakistan.",
-            "(3) It shall come into force at once.",
-            "PRELIMINARY"
-          ]
-        }
-      ]
-    },
-    {
-      "heading": "Part I",
-      "sections": [
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In this Act, unless there is anything repugnant in the subject or context,-",
-            ">(a) \"administrator\" means an administrator appointed under section 20;",
-            ">(b) \"administration committee\" means the committee of the committee\"",
-            "creditors or shareholders of the debtor appointed under section 26;",
-            ">(c) \"claim\" or \"debt\" means right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, disputed, undisputed, legal, secured or",
-            "unsecured and includes principal amount and any mark-up, profit, return and othar charges;",
-            ">(d) \"Commission\" means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
-            ">(e) \"Court\" means the High Court having territorial jurisdiction;",
-            "I - 243",
-            ">(f) \"creditor\" means an entity that has a claim against debtor that arose at the time of or before the commencement of a case under this Act;",
-            ">(g) \"debtor\" means a company specified under section 6;",
-            ">(h) \"financial institution\" shall have the same meaning as assigned to it under the Financial Institutions (Recovery of Finances)",
-            "Ordinance, 2001 (XLVI Of 2001);",
-            ">(i) \"insolvency expert\" means the expert specified under section 5;",
-            ">(j) \"interests\" or \"class of interests\" means any person or class of persons liable to contribute to the assets of a company in the event of its being wound up and includes the holder of any shares which are fully paid up;",
-            ">(k) \"mediator\" means the mediator appointed under section 10;",
-            "(1) \"Ordinance\" means the Companies Ordinance, 2016 (VI of 2016)",
-            "or such other law in force for regulations of companies;",
-            ">(m) \"order of mediation\" means the order passed by the Court under section 10;",
-            ">(n) \"plan of rehabilitation\" means a plan of rehabilitation of debtor defined under section 7;",
-            ">(o) \"prescribed\" means prescribed by rules or regulations made under this Act;",
-            ">(p) \"property\" means property of all description, whether movable or",
-            "immovable, tangible or intangible, existing or future, claims for money, cash, and includes instruments that evidence title in property;",
-            ">(q) \"qualifying creditors\" means one or more creditors holding unpaid and overdue claims for an aggregate amount of not less than two-third of the value of assets of the debtor as per its • latest balance sheet;",
-            ">(r) \"regulations\" means regulations made under this Act;",
-            ">(s) \"rules\" means rules made under this Act;",
-            ">(t) \"security interest\" means a charge, mortgage, lien, hypothecation, pledge, assignment or any other encumbrance over a property;",
-            ">(u) \"State Bank\" shall have the same meaning as assigned to it under the State Bank of Pakistan Act, 1956 (XXXIII of 1956); and",
-            ">(v) \"statement of affairs\" means statement of particulars about the property and business of' a debtor prepared under section 9.",
-            "(2) The words and expressions used but not defined in this Act shall have the same meaning as assigned to them in the Ordinance."
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Jurisdiction and powers of High Court",
-          "text": [
-            "(1) The Court having jurisdiction under this Act shall be the High Court havingjurisdictioll over the place at which the registered office of the debtor or, as the case may be, the principal place of business of the debtor is situated.",
-            "(2) Subject to the provisions of this Act, the Court shall,-",
-            ">(a) in exercise of its. civil jurisdiction, have all the powers vested in a civil court under the Code of Civil Procedure, 1908 (Act V of 1908);",
-            ">(b) in exercise of its criminal jurisdiction, have all the powers vested in a court exercising jurisdiction under the Code of Criminal Procedure, 1898 (Act V of 1898); and",
-            ">(c) in exercise of its company jurisdiction, have all the powers vested in a court exercising jurisdiction under the Ordinance.",
-            "(3) Notwithstanding anything contained in any other law, all matters coming before the Court under this Act shall be disposed of expeditiously and final judgment shall be pronounced as soon as may be practicable and, except in extraordinary circumstances, the Court shall hear the case on day to day basis."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Appeal and review",
-          "text": [
-            "(1) An appeal shall lie, at the instance of any person aggrieved by an order made by a Judge of the High Court in the exercise of the jurisdiction conferred by this Act, in the same way and subject to the same Provisions as an appeal lies against an order passed by a single Judge of that Court in exercise of its original civil jurisdiction.",
-            "(2) The Court may review, rescind or vary any order made by it under this Act."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Insolvency experts",
-          "text": [
-            "(1) The Commission shall, in consultation with the State Bank, maintain a panel of insolvency experts who shall be professionals having a minimum experience of fifteen years in the field of accountancy, banking, finance, law, management and sound knowledge of insolvency practices of the country.",
-            "(2) An insolvency expert shall, for due performance of his functions under this Act, be entitled to such remunerations and privileges as may be prescribed by regulations.",
-            "(3) The Commission may, by regulations, prescribe the code of conduct, for the panel of insolvency experts to be appointed under this Act and organize training, capacity building and accreditation programmes for professional development of such insolvency experts. Part 1, Corporate Rehabilitation Act, 2018 S.7",
-            "Rehabilitation of Debtor"
-          ]
-        }
-      ]
-    },
-    {
-      "heading": "Chapter II",
-      "sections": [
-        {
-          "no": "6",
-          "title": "Debtor",
-          "text": [
-            "A debtor shall be a company incorporated or registered under the Ordinance or previous companies legislation and shall not include-",
-            ">(a) a financial institution;",
-            ">(b) a company engaged in the business of insurance as defined in clause (xxvii) of section 2 of the Insurance Ordinance, 2000 (XXXIX of 2000);",
-            ">(c) a company which has debts of less than hundred million Rupees or such other sum as the Federal Government may, by notification in the official Gazette, specify from time to time;",
-            ">(d) a company against which an order of dismissal under section 17 has been passed within the past five years;",
-            ">(e) a company with respect to which a plan of rehabilitation has been confirmed under this Act within the past seven years;",
-            ">(f) a company against which a winding up order has already been passed;",
-            ">(g) a company which has resolved by special resolution that such company be wound up voluntarily;",
-            ">(h) a company against which execution proceedings are pending for satisfaction of one or more decrees for an aggregate sum not less than twenty-five percent of the value of its assets; or",
-            ">(i) a company which has availed relief under the BPD Circular No.",
-            "29 of 2002 issued by the State Bank."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Plan of rehabilitation",
-          "text": [
-            "(1) A plan of rehabilitation shall specify the following matters in relation to a debtor,-",
-            ">(a) claims and classes of claims against the debtor;",
-            ">(b) interests and classes of interests in the debtor;",
-            ">(c) claims and interests belonging to the debtor;",
-            ">(d) claims or interests that will not be impaired under the plan of rehabilitation;",
-            ">(e) claims or interests that w'\" be impaired under the plan of rehabilitation; (f) places of business of the debtor, details of its assets and any security interests created over such assets;",
-            ">(g) particulars of shareholders, directors and key management of the debtor; and",
-            ">(h) scheme of implementation of the plan of rehabilitation of the debtor, (2) Subject to sub-section (1), a plan of rehabilitation may provide for the following matters, in relation to a debtor,-",
-            ">(a) the settlement, restructuring or rescheduling of any claims or",
-            "interests or classes of claims or interests;",
-            ">(b) the change of' ownership and management of the debtor;",
-            ">(c) the sale of all or any assets of the debtor and the distribution of proceeds of such sale among holders of claims or interests;",
-            ">(d) the assumption, rejection or assignment of any executory contract or unexpired lease of the debtor;",
-            ">(e) the enforcement of any claims or interests belonging to the debtor; and",
-            ">(f) any other matter concerning rehabilitation of the debtor or",
-            "distribution of proceeds of sale of property of the debtor."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Commencement of case",
-          "text": [
-            "(1) A debtor may file a petition in the Court for an order of mediation, which shall be supported by a plan of rehabilitation, statement of affairs and special resolution of the debtor approving the plan of rehabilitation, (2) The qualifying creditors may file a petition in the Court for an order of mediation against a debtor, (3) On first date of hearing, the Court shall issue notice to the parties listed in the petition through,-",
-            ">(a) registered post, acknowledgement due;",
-            ">(b) courier service; and",
-            ">(c) publication in one English language and one Urdu language daily newspaper of wide circulation in the country;",
-            "and service duly effected in anyone of the aforesaid modes shall be deemed to be valid service for the purposes of this Act.",
-            "(4) The notice issued under sub-section (3) shall specify a date of hearing not later than twenty-one days after completion of the service.",
-            "(5) Any person interested of filing a written reply to the petition shall do so at least three days prior to the hearing and supply a copy of such reply to the party that filed the petition. (6) The Court may, where a prima facie case has been made out by the qualifying creditor for an order of mediation in relation to a petition filed under sub-section (2), direct-",
-            ">(a) the debtor to submit, within fifteen days, the statement of affairs in the Court; and",
-            ">(b) the qualifying creditor to submit, within thirty (30) days after submission of the statement of affairs, a plan of rehabilitation of the debtor in the Court."
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Statement of affairs",
-          "text": [
-            "(1) The statement of affairs of a debtor shall be verified by an affidavit of the chief executive officer or a director of the debtor and shall contain the following particulars, namely,-",
-            ">(a) the assets, debts and liabilitics of the debtor;",
-            ">(b) the particulars of the creditors, stating separately the amount of secured debts and unsecured debts and in the case of secured debts, particulars of the securities given, their value and the dates when they were given;",
-            ">(c) the debts due to the debtor and the particulars of the persons (c) the debts due to the debtor and the particulars of the persons from whom such debts are due and the amount likely to be realized therefrom;",
-            ">(d)",
-            ">(d) where any property of the debtor is not in its custody or",
-            "possession, the place where and the person in whose custody or",
-            "possession such property is;",
-            ">(e) full address of the places where the business of the debtor was conducted during six months preceding the relevant date and",
-            "the names and particulars of the persons in charge of the same;",
-            ">(f) details of any pending suits or proceedings in which the debtor is a party;",
-            ">(g) latest publically disclosed accounts and the last audited accounts; and",
-            ">(h) such other particulars as may be prescribed by regulations or as the Court may by order require.",
-            "(2) Whoever intentionally files a statement of affairs which is false in material particulars or falsely denies his signature on any document before the Court, or fails to file the statement of affairs without just excuse when so ordered by the Court, shall be guilty of an offence punishable with imprisonment of either description for a term which may extend to six months, or with tine, or with both."
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Mediation",
-          "text": [
-            "(1) The Court may, after notice and a hearing of the • petition filed under section 8, pass an order for the appointment of * insolvency experts to act as sole mediator or joint mediators, as-the casc may be, in relation to the plan of rehabilitation filed in the Court.",
-            "(2) The mediator appointed by the Court shall carry out mediation between the debtor and creditors or different classes of creditors to achieve acceptance of the plan of rehabilitation, whether with or without any modifications.",
-            "(3) For due discharge of his functions under this Act, a mediator shall have the following powers,-",
-            ">(a) to hold separate meetings of shareholders of the debtor and",
-            "creditors or different classes of creditors;",
-            ">(b) to invite, scrutinize and determine claims and interest against the debtor;",
-            ">(c) to determine security interests created over the debtor's assets;",
-            ">(d) to determine the debtor's assets available for satisfaction of the claims of the creditors;",
-            ">(e) to carry out valuation of the assets of the debtor through professional experts approved by the State Bank; and",
-            ">(f) any other power given by the Court, either on its own accord or",
-            "on application of the Mediator, to carry out the functions under sub-section (1).",
-            "(4) A mediator shall, from the date of his appointment, submit monthly progress reports and may refer any matter to Court for appropriate directions including for the purposes of-",
-            ">(a) production of any records or property of the debtor in possession of any person; and",
-            ">(b) examination and attendance of any person concerned with affairs of the debtor.",
-            "(5) The person filing the petition shall provide necessary funds to allow the mediator to perform the functions under this Act and, where required, the matter may be referred to the Court for necessary directions in this regard."
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Notice of order of mediation",
-          "text": [
-            "(1) The person filing the petition under this Act shall provide the notice of the order of mediation to all interested parties within three days of the order through,-",
-            ">(a) registered post, acknowledgement due;",
-            ">(b) courier service; and",
-            ">(c) publication in one English language and one Urdu language daily newspaper of wide circulation in the country;",
-            "and service duly effected in anyone of the aforesaid modes shall be deemed to be valid service for the purposes of this Act.",
-            "(2) The notice of order of mediation shall specify the appointment of mediator und for filing of any claims against, and interests in, the debtor with the mediator within a period of fourteen days of publication of notice of the order of mediation,"
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Stay of actions against debtor",
-          "text": [
-            "(1) In a case commenced under this Act, the Court may, on an application made to it by the debtor or an interested person, pass an order after notice and a hearing for-",
-            ">(a) preservation of assets of the debtor in such manner as the Court may deem fit in the circumstance of the case; and",
-            ">(b) protection of the debtor or its shareholders, directors and",
-            "guarantors, Against any imminent adverse action, measure, process or proceeding commenced to recover a claim against the debtor or its shareholders, directors and guarantors through sale, transfer, repossession or",
-            "mortgage of assets of the debtor or its shareholders, directors and",
-            "guarantors, or by creating any rights or interests in relation to such assets.",
-            "(2) The stay granted under sub-section (1) shall, if not carlier vacated, ipso facto cease to have effect on,-",
-            ">(a) the confirmation of a plan under section 14; or",
-            ">(b) the dismissal of the case under section 17.",
-            "(3) Notwithstanding anything contained in sub-section (2), the sub-section Court may, on application of the qualifying creditors or an interested party and after notice and a hearing, grant such relief from the stay granted under sub-section (1) as may be necessary to prevent irreparable harm or loss to the interest of that party."
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Acceptance of plan of rehabilitation",
-          "text": [
-            "(1) The acceptance or rejection of a plan of rehabilitation shall not be solicited from a holder of a claim or interest unless such holder is first provided with a copy of the plan.",
-            "(2) A class of creditors shall be deemed to have accepted a plan of rehabilitation if such plan is accepted by the creditors holding at least two-thirds in value of such class.",
-            "(3) A class of interests of the debtors, shall be deemed to have accepted a plan of rehabilitation if such plan is accepted by holders of at least two-thirds in value of interests of such class.",
-            "(4) A class that is not impaired under a plan of rehabilitation and each holder of a claim or interest of such class are conclusively presumed to have accepted the plan and solicitation of acceptance with respect to such class from the holders of claims or interests of such class is not required."
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Confirmation of a plan of rehabilitation",
-          "text": [
-            "(1) The Court may, after notice and a hearing, confirm a plan of rehabilitation if the plan is in accordance with the provisions of this Act and",
-            ">(a) with respect to each class of claims or interests,-",
-            ">(i) such class has accepted the plan; or",
-            ">(ii) such class is not impaired under the plan; and",
-            ">(b) except to the extent that the holder of a particular claim has agreed to a different treatment of such claim, the plan provides that the holder of such claim will receive cash equal to the allowed amount of such claim.",
-            "(2) The provisions of a plan of rehabilitation confirmed by the Court bind the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan and any creditor or shareholder of the debtor, whether or not the claim or interest of such creditor or shareholder is impaired under the plan and whether or not such creditor or shareholder has accepted the plan.",
-            "(3) The Court may refuse to confirm a plan if the principal purpose of the plan is avoidance of taxes, duties and fiscal charges levied under law."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Implementation of plan of rehabilitation",
-          "text": [
-            "(1) The Court may, on the application of the debtor or qualifying creditors and after notice and a hearing, pass such directions as deemed appropriate for the purposes of implementation of the plan of rehabilitation and any person responsible for carrying out the plan or any part thereof shall comply with such directions.",
-            "(2) The Court may direct the debtor and any other necessary party to execute or deliver or to join in the execution or delivery of any instrument required to effect a transfer of property dealt with by a plan of rehabilitation confirmed by the Court and to perform any other act, including the satisfaction of any charge, that is necessary for the consummation of the charge."
-          ]
-        },
-        {
-          "no": "16",
-          "title": "Revocation of confirmation of a plan of rehabilitation",
-          "text": [
-            "(1) The Court may, on the application of any person aggrieved by the plan of rehabilitation, at any time within twelve months of the date of confirmation of the plan and after notice and a hearing, make an order, upon such terms as the Court thinks fit declaring the confirmation to have been void.",
-            "(2) The Court may pass an order under sub-section (1) if the order of confirmation to be declared void was procured 'by fraud.",
-            "(3) An order under this section revoking an order of confirmation shall provide for all such measures as are necessary to protect any entity which bas acquired rights in good faith reliance on the order of confirmation."
-          ]
-        },
-        {
-          "no": "17",
-          "title": "Dismissal of a case",
-          "text": [
-            "(1) Notwithstanding anything to the contrary in this Act, the Court may, on the application of any person concerned with the debtor or on its own accord, dismiss a case or may suspend all proceedings in a case under this Act at any time, if the Court determines that-",
-            ">(a) the continuation of proceedings would amount to an abuse of the judicial process;",
-            ">(b) the person filing the petition has failed to provide necessary funds for mediation after getting due OPPOliunity in this regard;",
-            "and",
-            ">(c) the mediator has not been able to fully perform one or more of the functions specified in section 10 within a period of twelve months from his appointment.",
-            "(2) Unless the Court for any reason orders otherwise, the dismissal of a case does not affect the validity of any action taken during the pendency of a case.",
-            "(3) Unless the Court for any reason orders otherwise, the dismissal of a case shall:",
-            ">(a) re-instates,-",
-            ">(i) any proceeding or custodianship superseded under this Act;",
-            ">(ii) any transfer avoided under this Act; and",
-            ">(iii) any charge voided under this Act;",
-            ">(b) vacates any order or transfer ordered under this Act; and",
-            ">(c) re-vests the property of the estate in such person in which such property was vested before the commencement of the case under this Act."
-          ]
-        },
-        {
-          "no": "18",
-          "title": "Conversion of a case",
-          "text": [
-            "(1) A case under this Act may, on an application made to the Court, be converted into winding up proceedings for the following reasons:-",
-            ">(a) failure to achieve the acceptance of plan of rehabilitation in twelve months from appointment of an administrator except where the administrator has been removed under section 22; or",
-            ">(b) the Court finds that a petition under this Act was filed by the debtor for fraudulent purposes.",
-            "(2) The order of conversion under this section shall also provide for the appointment of a liquidator and the Court shall for such purpose exercise necessary jurisdiction under the Ordinance.",
-            "(3) An administrator appointed in a case under this Act shall not be appointed as liquidator in that case.",
-            "(4) An application for conversion under this section shall not be filed by any party except-",
-            ">(a) the debtor;",
-            ">(b) the qualifying creditors; or",
-            ">(c) the administrator appointed in the case."
-          ]
-        },
-        {
-          "no": "19",
-          "title": "Consequences of conversion",
-          "text": [
-            "(1) Notwithstanding any provision of the Ordinance, an order of conversion under section 18 shall be deemed to be a winding up order by the Court under the Ordinance and the winding up of the debtor shall be deemed to have commenced on the date of commencement of the case under this Act.",
-            "(2) Except as provided in sub-section (3), all proceedings subsequent to an order of conversion under section 18 shall be carried out in accordance with the provisions of the Ordinance, including the filing of appeal against such order and other remedies provided therein.",
-            "(3) Following an order of conversion, a financial institution may initiate or continue with proceedings under the Financial Institutions (Recovery of Finances) Ordinance, 2001 (XLVI of 2001) without secking permission from the Court under the Ordinance.",
-            "Administration of Debtor"
-          ]
-        }
-      ]
-    },
-    {
-      "heading": "Chapter III",
-      "sections": [
-        {
-          "no": "20",
-          "title": "Appointment of administrator",
-          "text": [
-            "(1) The Court may, on a petition made by the qualifying creditors and after notice and a hearing, appoint an insolvency expert as administrator of the debtor at any time before confirmation of a plan of rehabilitation for one or more of the following reasons namely:-",
-            ">(a) the affairs or business of the debtor have been conducted or",
-            "managed in a manner likely to be prejudicial to the interest of the debtor or qualifying creditors; the debtor or qualifying creditors;",
-            ">(b) any director of the debtor or person concerned with the of the management of the debtor has been guilty of breach of trust, misfeasance or other misconduct towards the debtor or",
-            "qualitying creditors;",
-            ">(c) the affairs or business of the debtor have been conducted or",
-            "managed with intent to defraud its shareholders or qualifying creditors or for a fraudulent or unlawful purpose, or in a manner oppressive of shareholders or qualifying creditors;",
-            ">(d) the affairs of the debtor have been so conducted or managed as to deprive the qualifying creditors of their claims against the debtor in full or in part;",
-            ">(e) any project owned by the debtor is not in operation for over a period of two years or has been in operation intermittently or",
-            "partially during the preceding two years;",
-            ">(f) the accumulated losses of the debtor exceed sixty percent of its paid up capital; or",
-            ">(g) any project set up by, or belonging to, the debtor has not commenced operations or has not been operating smoothly or its production or performance has so deteriorated that-",
-            ">(i) the market value of its shares as quoted on the stock exchange or the net worth of its shares has fallen by more than seventy five per cent of its par value;",
-            ">(ii) debt equity ratio has deteriorated beyond 9:1; or",
-            ">(iii) current ratio has deteriorated beyond 5:1:",
-            "Provided that the party filing the petition under this section shall additionally demonstrate to the Court on balance of Court on probabilities that the mediation has not been successful or is not likely to be successful in the circumstances of the case.",
-            "(2) If an administrator dies or resigns during the pendency of a case under this Act or is removed by the Court on just cause shown, then a substitute administrator shall be appointed immediately.",
-            "(3) Notice of the appointment of administrator in every case under this Act shall be given by the appointed administrator to all interested parties within three working days of his appointment and shall working additionally be published in one. English language and one Urdu language daily newspaper of wide circulation in the country and the notice shall provide for filing of any claims against, and interests in, the debtor with the administrator within a period of fourteen days of publication of the notice.",
-            "(4) The Court may award such fees and expenses to an (4) The Court may award such fees and expenses to an administrator as may be prescribed by regulations."
-          ]
-        },
-        {
-          "no": "21",
-          "title": "Effect of appointment of administrator",
-          "text": [
-            "(1) On the appointment of' an administrator,-",
-            ">(a) all the powers of the directors, chief executive and other officers of the debtor shall cease, except as may be required under this Act and except so far as the Court may sanction the continuance thereof; and",
-            ">(b) all the powers of a receiver appointed prior to the commencement of a case shall cease in relation to the property of the debtor.",
-            "(2) Where an administrator is appointed, the debtor and its directors and management shall-",
-            ">(a) cooperate with the administrator to enable him to perform his duties under this Act;",
-            ">(b) surrender to the administrator all property of the debtor and any recorded information including books, documents, records and",
-            "papers relating to the debtor; and",
-            ">(c) appear at any hearings at which its presence is required by either the administrator or an administration committee."
-          ]
-        },
-        {
-          "no": "22",
-          "title": "Removal and termination of administrator",
-          "text": [
-            "(1) The Court may, at any time before confirmation of a plan of rehabilitation, on request of an interested party and after notice and a hearing, terminate the administrator's appointment and restore the debtor to possession of its property and management of its business.",
-            "(2) The Court, after notice and a hearing, may remove an after notice administrator for mal-feasance, mal-administration or gross negligence and appoint another administrator.",
-            "(3) Whenever the Court removes an administrator under subsection (2), such administrator shall also thereby stand automatically removed in all other cases under this Act in which such administrator is • then serving unless the Court makes orders otherwise.",
-            "(4) A vacancy in office of tile administrator during a case does not abate any pending action or proceeding and the successor administrator shall be substituted as a party in such action or proceeding."
-          ]
-        },
-        {
-          "no": "23",
-          "title": "Powers and duties of an administrator: (1) An administrator shall",
-          "text": [
-            ">(a) operate the debtor's business;",
-            ">(b) prepare and submit in the Court the statement of affairs, where the debtor has not done so; the debtor has not done so;",
-            "(c) except to the extent that the Court makes orders otherwise, investigate the acts, conduct, assets, liabilities and financial condition of the debtor, the operation of the debtor's business and the desirability of the continuance of such business and any other matter relevant to rehabilitation of the debtor;",
-            ">(d) as soon as practicable-",
-            ">(i) file a statement of any investigation conducted under clause (c) including any fact ascertained pertaining to fraud, dishonesty, incompetence, misconduct, mis-management or",
-            "irregularity in the management of the affairs of the debtor;",
-            "and",
-            "(11) transmit a copy or a summary of any such statement to the administration committees, mortgagee, receiver or charge holder and to such other entity as the Court designates;",
-            ">(e) adopt the plan of rehabilitation filed under this Act or seek modification of the plan or recommend the winding up of the debtor;",
-            ">(f) institute or defend any suit, action, prosecution 0)( other legal proceeding, civil or criminal, in the name and on be half of the debtor, to the extent necessary;",
-            ">(g) subject to approval of the administration committees, make any compromise or arrangement with creditors or persons claiming to be creditors or having or alleging themselves to have any claim against the debtor;",
-            "e (h) be accountable for all property of the debtor;",
-            ">(i) examine proofs of claim and object to the allowance of any claim that is improper;",
-            ">(j) unless the Court makes orders otherwise, furnish such information concerning the property and business of the debtor as is requested by an interested party; and",
-            ">(k) make and submit monthly reports, a final report and final accounts of the administration in the Court.",
-            "(2) For due discharge of the functions under sub-section (1), the administrator shall have the power to,-",
-            ">(a) to do anything that is incidental to exercising a power set out in this section;",
-            ">(b) to do anything that is necessary or convenient for the purpose of administering the affairs of the debtor; and",
-            ">(c) not be liable for any loss or damages caused by any act or",
-            "omission undertaken in good faith."
-          ]
-        },
-        {
-          "no": "24",
-          "title": "Administrator's account",
-          "text": [
-            "(1) Every administrator shall, during his tenure in office, present to the Court a comprehensive account. of his receipts and payments and dealings as administrator together with such further information as may be relevant.",
-            "(2) The administrator shall cause his account and all receipts and payments to be audited and send the audit report to the Commission, State Bank and the administration committees and to every shareholder, where a committee of shareholders has not been constituted, and submit one copy in the Court."
-          ]
-        },
-        {
-          "no": "25",
-          "title": "Employment of professional persons",
-          "text": [
-            "(1) The administrator may employ one or more advocates, accountants, appraisers, auctioneers or other professional persons to represent or assist the administrator in carrying out the administrator's duties under this Act on reasonable terms and conditions of employment with the prior approval of the administration committee of creditors.",
-            "(2) In cases of emergency, the administrator may appoint a person and submit the details of terms and conditions of such appointment alongwith due reasons thereof to the administration committee of creditors."
-          ]
-        },
-        {
-          "no": "26",
-          "title": "Administration committees",
-          "text": [
-            "(1) The administrator shall appoint a committee of creditors and may appoint an additional committee of shareholders, if the administrator deems appropriate in a case.",
-            "(2) The administration committees shall have adequate representation of different classes of creditors and shareholders of the debtor, as the case may be.",
-            "(3) On request of an interested party, the Court may make order directing the administrator to appoint such additional members of an administration committee as the Court finds necessary to ensure adequate representation of creditors and shareholders, as the case may be."
-          ]
-        },
-        {
-          "no": "27",
-          "title": "Powers and duties of administration committees",
-          "text": [
-            "(1) An administration committee shall perform the functions given to it under this Act and in this regard may-",
-            ">(a) consult the administrator concerning the administration of the case;",
-            ">(b) review the acts, conduct, assets, liabilities and financial condition of the debtor, the operation of the debtor's business and the desirability of the continuance of such business and any other matter relevant to the plan of rehabilitation; and",
-            ">(c) participate in the finalization of the plan and file with the Court acceptance or rejection of the plan, if necessary.",
-            "(2) As soon as practicable after the appointment of an practicable administration committee under this Act, the administrator shall meet with such committee to transact such business as may be necessary and proper.",
-            "(3) The powers of an administration committee shall terminate upon the confirmation of a plan of rehabilitation or upon the conversion of a case into winding up proceedings."
-          ]
-        },
-        {
-          "no": "28",
-          "title": "Use, sale or lease of property",
-          "text": [
-            "(1) The administrator may enter into transactions concerning the business and property of the concerning the debtor, including the use, sale or lease of the property, in the ordinary course of business.",
-            "(2) The administrator may use, sell or lease property of the debtor in a manner other than in the ordinary course of business only after consultation with the administration committees."
-          ]
-        },
-        {
-          "no": "29",
-          "title": "Obtaining credit",
-          "text": [
-            "(1) The administrator may, to the extent allowed by the administration committees, obtain unsecured credit and incur unsecured debt in the course of debtor's business which shall be allowable as an administrative expense.",
-            "(2) Where the administrator is unable to obtain unsecured credit for the debtor, the administration committees may allow the administrator, on such terms and conditions as deemed appropriate by the committees, to obtain credit secured by a superior or equal security interest on the & property of the debtor that is subject to an existing security interest:",
-            "Provided that the same has been approved by the holder of the existing security interest on the property of the debtor on which such superior or equal security interest is proposed to be granted"
-          ]
-        },
-        {
-          "no": "30",
-          "title": "Assumption and rejection of executory contracts and unexpired leases",
-          "text": [
-            "(1) The administrator may, with the prior approval of the Court, assume or reject any executory, contract or unexpired lease of the debtor including-",
-            ">(a) any executory, contract relating to the employment or services of any person; and",
-            ">(b) any unexpired lease of immovable property.",
-            "(2) The administrator may not reject any executory, contract or unexpired lease without giving notice of his intent to reject to all parties to such executory, contract or unexpired lease.",
-            "(3) Any party which is prejudiced by the debtor's rejection of an executory contract or unexpired lease may file a claim for damages and such claim shall be deemed to be a breach of such contract or lease occurring immediately prior to the date of filing of the petition."
-          ]
-        },
-        {
-          "no": "31",
-          "title": "Claims and interests",
-          "text": [
-            "(1) Within fourteen days of the publication of the notice of appointment of administrator, proof.of any claims or interests shall be filed with the administrator by the creditors, shareholders or interested parties, as the case may be.",
-            "(2) Any person who does not timely file a claim or interest will be deemed to have no claim or interest against the debtor unless the delay in filing the claim or interest is condoned, after notice and a hearing, by the Court for just cause shown.",
-            "(3) Any party aggrieved by a determination of the administrator of any claims and interests may prefer an appeal to the Court which shall determine the amount of such claims or interests,"
-          ]
-        },
-        {
-          "no": "32",
-          "title": "Allowance of claims for administrative expenses",
-          "text": [
-            "(1) After notice and a hearing there shall be allowed administrative expenses, from time to time, including-",
-            ">(a) the actual, necessary costs and expenses of preserving the business and property of the debtor, including (i) any credit facility obtained by the debtor;",
-            ">(ii) wages, salaries or commissions for services rendered after the appointment of administrator;",
-            ">(iii) payment for raw materials supplied to the debtor for its business; and",
-            ">(iv) payment for goods supplied to the debtor in the ordinary course of its business; and",
-            ">(b) the fees and expenses awarded to the administrator under section 20, (2) Administrative expenses allowed under this section shall have priority over all other expenses and claims."
-          ]
-        },
-        {
-          "no": "33",
-          "title": "Handover of property of debtor to administrator",
-          "text": [
-            "(1) Any person in possession, custody or control of a property that the custody administrator may use, sell or lease under this Act shall deliver such property to the administrator or account for the value of such property.",
-            "(2) Any person who owes a debt to the debtor, which is due for payment, payable 011 demand or payable on order, shall pay such debt to or 011 the order of the administrator, except to the extent that such debt may be approved by the administrator to be offset against a claim of such person against the debtor.",
-            "(3) After notice and a hearing, the Court may excuse compliance with any provision of this section, if the interests of creditors would be better served by not handing over possession, custody or control of such property to the administrator."
-          ]
-        },
-        {
-          "no": "34",
-          "title": "Avoidance of transfers",
-          "text": [
-            "(1) Except as provided under subsection (2), an administrator may, with the approval of the Court, avoid a transfer of an interest of the debtor in property in favour of a creditor where such transfer-",
-            ">(a) is made on account of an antecedent debt owed by the debtor before such transfer;",
-            ">(b) is made-",
-            ">(i) within six months before the date of the appointment of the administrator; or",
-            ">(ii) if the creditor is an insider, within one year before the date of the appointment of the administrator; and",
-            ">(c) enables such creditor to receive more than what such creditor would have received otherwise.",
-            "(2) The administrator shall not avoid a transfer where such transfer is,-",
-            ">(a) intended by the debtor and the creditor to be a contemporaneous exchange for new value given to the debtor and is a substantially contemporaneous exchange;",
-            ">(b) made in payment of a debt incurred by the debtor in the ordinary course of business and according to ordinary business terms; or",
-            ">(c) for the benefit of a creditor to the extent that such creditor gives new value to or for the benefit of the debtor subsequent to the transfer.",
-            "(3) To the extent that a transfer is avoided under this section, the Court may allow the administrator to recover the property transferred or the value of such property from the initial transferee or subsequent transferee.",
-            "(4) For the purposes of this section the expression, \"new value\" means money worth in goods, services or new credit or released by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the administrator under law, including proceeds of such property, but does not include an obligation substituted for an existing obligation."
-          ]
-        },
-        {
-          "no": "35",
-          "title": "Abandonment of property of debtor",
-          "text": [
-            "(1) After notice and a hearing, the administrator may abandon any property of the debtor that is burdensome or that is of inconsequential value and benefit to the debtor.",
-            "(2) On request of an interested party and after notice and a hearing, the Court may order the administrator to abandon any property of the debtor that is burdensome or that is of inconsequential value and benefit to the debtor.",
-            "Miscellaneous"
-          ]
-        }
-      ]
-    },
-    {
-      "heading": "Chapter IV",
-      "sections": [
-        {
-          "no": "36",
-          "title": "Act not in derogation",
-          "text": [
-            "This Act shall be in addition to and not in derogation of any other law."
-          ]
-        },
-        {
-          "no": "37",
-          "title": "Act to override contracts, instruments, memorandum and articles",
-          "text": [
-            "Save as otherwise expressly provided in this Act, the provisions of this Act shall have effect notwithstanding anything to the contrary contained in any contract, instrument, memorandum or articles of a company or in any agreement executed by a company or in any resolution passed by the company in a general meeting or by its directors, whether the same is registered, executed or passed, before or after the commencement of this Act."
-          ]
-        },
-        {
-          "no": "38",
-          "title": "Limitation",
-          "text": [
-            "(1) Except as provided otherwise in this Act, the provisions of the Limitation Act, 1908 (IX of 1908) shall apply to the proceedings under this Act.",
-            "(2) Notwithstanding anything contained in the Limitation Act, 1908 (IX of 1908), in computing the time within which an administrator may institute a suit for the recovery of any debt due to the debtor, the period which clapses between the filing of a petition under this Act and the passing of order of mediation under this Act or period of one year, which ever be greater, shall be excluded."
-          ]
-        },
-        {
-          "no": "39",
-          "title": "Power to require delivery of property",
-          "text": [
-            "Without prejudice to any obligation imposed under any other provision, the Court may at any time after passing order of mediation under this Act require any trustee, receiver, banker, agent, officer or employee or former officer or employee or auditor of the debtor to pay, deliver, convey, surrender or transfer forthwith or within such time as the Court directs, to the administrator, if one has been appointed, any money, property or books and papers including documents in his hands to which debtor is prima facie entitled, which is not subject to any charge."
-          ]
-        },
-        {
-          "no": "40",
-          "title": "Power to make rules",
-          "text": [
-            "The Minister-in-charge of the Federal Government may, by notification in the official Gazette, make such rules as may be necessary to carry out the purposes of this Act."
-          ]
-        },
-        {
-          "no": "41",
-          "title": "Power to make regulations",
-          "text": [
-            "The Commission may, by notification in the official Gazette, make regulations in respect of the matters expressly required in this Act to be prescribed by the Commission."
-          ]
-        },
-        {
-          "no": "42",
-          "title": "Power to issue directives, circulars, guidelines, etc",
-          "text": [
-            "The Commission may, from time to time, issue such directives, circulars and guidelines as may be necessary for carrying out the purposes of this Act, the rules or regulations made thereunder."
-          ]
-        },
-        {
-          "no": "43",
-          "title": "Power to remove difficulties",
-          "text": [
-            "If any difficulty arises in giving effect to the provisions of this Act, the Minister-in-charge of the Federal Government may, by notification in the official Gazette, make such order not inconsistent with the provisions of this Act and as may be necessary to remove the difficulty.",
-            "AMJED PERVEZ,",
-            "Secretary.",
-            "-"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title, extent and commencement",
+     "page": 4,
+     "text": [
+      "(1) This Act shall be called the Corporate Rehabilitation Act, 2018.",
+      "(2) It extends to the whole of Pakistan.",
+      "(3) It shall come into force at once."
+     ]
     }
-  ],
-  "schedules": [],
-  "frontNotes": []
+   ]
+  },
+  {
+   "heading": "Chapter I",
+   "sections": [
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 4,
+     "text": [
+      "(1) In this Act, unless there is anything repugnant in the subject or context, –",
+      ">(a) “administrator” means an administrator appointed under section 20;",
+      ">(b) “administration committee” means the committee of the creditors or shareholders of the debtor appointed under section 26;",
+      ">(c) “claim” or “debt” means right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, disputed, undisputed, legal, secured or unsecured and includes principal amount and any mark-up, profit, return and other charges;",
+      ">(d) “Commission” means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(e) “Court” means the High Court having territorial jurisdiction;",
+      ">(f) “creditor” means an entity that has a claim against debtor that arose at the time of or before the commencement of a case under this Act;",
+      ">(g) “debtor” means a company specified under section 6;",
+      ">(h) “financial institution” shall have the same meaning as assigned to it under the Financial Institutions (Recovery of Finances) Ordinance, 2001 (XLVI of 2001);",
+      ">(i) “insolvency expert” means the expert specified under section 5;",
+      ">(j) “interests” or “class of interests” means any person or class of persons liable to contribute to the assets of a company in the event of its being wound up and includes the holder of any shares which are fully paid up;",
+      ">(k) “mediator” means the mediator appointed under section 10;",
+      ">(l) “Ordinance” means the Companies Ordinance, 2016 (VI of 2016) or such other law in force for regulations of companies;",
+      ">(m) “order of mediation” means the order passed by the Court under section 10;",
+      ">(n) “plan of rehabilitation” means a plan of rehabilitation of debtor defined under section 7;",
+      ">(o) “prescribed” means prescribed by rules or regulations made under this Act;",
+      ">(p) “property” means property of all description, whether movable or immovable, tangible or intangible, existing or future, claims for money, cash, and includes instruments that evidence title in property;",
+      ">(q) “qualifying creditors” means one or more creditors holding unpaid and overdue claims for an aggregate amount of not less than two-third of the value of assets of the debtor as per its latest balance sheet;",
+      ">(r) “regulations” means regulations made under this Act;",
+      ">(s) “rules” means rules made under this Act;",
+      ">(t) “security interest” means a charge, mortgage, lien, hypothecation, pledge, assignment or any other encumbrance over a property;",
+      ">(u) “State Bank” shall have the same meaning as assigned to it under the State Bank of Pakistan Act, 1956 (XXXIII of 1956); and",
+      ">(v) “statement of affairs” means statement of particulars about the property and business of a debtor prepared under section 9.",
+      "(2) The words and expressions used but not defined in this Act shall have the same meaning as assigned to them in the Ordinance."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Jurisdiction and powers of High Court",
+     "page": 6,
+     "text": [
+      "(1) The Court having jurisdiction under this Act shall be the High Court having jurisdiction over the place at which the registered office of the debtor or, as the case may be, the principal place of business of the debtor is situated.",
+      "137 (4) [PART I THE GAZETTE OF PAKISTAN, EXTRA., MARCH 16, 2018 (2) Subject to the provisions of this Act, the Court shall,–",
+      ">(a) in exercise of its civil jurisdiction, have all the powers vested in a civil court under the Code of Civil Procedure, 1908 (Act V of 1908);",
+      ">(b) in exercise of its criminal jurisdiction, have all the powers vested in a court exercising jurisdiction under the Code of Criminal Procedure, 1898 (Act V of 1898); and",
+      ">(c) in exercise of its company jurisdiction, have all the powers vested in a court exercising jurisdiction under the Ordinance.",
+      "(3) Notwithstanding anything contained in any other law, all matters coming before the Court under this Act shall be disposed of expeditiously and final judgment shall be pronounced as soon as may be practicable and, except in extraordinary circumstances, the Court shall hear the case on day to day basis."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Appeal and review",
+     "page": 7,
+     "text": [
+      "(1) An appeal shall lie, at the instance of any person aggrieved by an order made by a Judge of the High Court in the exercise of the jurisdiction conferred by this Act, in the same way and subject to the same provisions as an appeal lies against an order passed by a single Judge of that Court in exercise of its original civil jurisdiction.",
+      "(2) The Court may review, rescind or vary any order made by it under this Act."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Insolvency experts",
+     "page": 7,
+     "text": [
+      "(1) The Commission shall, in consultation with the State Bank, maintain a panel of insolvency experts who shall be professionals having a minimum experience of fifteen years in the field of accountancy, banking, finance, law, management and sound knowledge of insolvency practices of the country.",
+      "(2) An insolvency expert shall, for due performance of his functions under this Act, be entitled to such remunerations and privileges as may be prescribed by regulations.",
+      "(3) The Commission may, by regulations, prescribe the code of conduct for the panel of insolvency experts to be appointed under this Act and organize training, capacity building and accreditation programmes for professional development of such insolvency experts."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter II",
+   "sections": [
+    {
+     "no": "6",
+     "title": "Debtor",
+     "page": 8,
+     "text": [
+      "A debtor shall be a company incorporated or registered under the Ordinance or previous companies legislation and shall not include—",
+      ">(a) a financial institution;",
+      ">(b) a company engaged in the business of insurance as defined in clause (xxvii) of section 2 of the Insurance Ordinance, 2000 (XXXIX of 2000);",
+      ">(c) a company which has debts of less than hundred million Rupees or such other sum as the Federal Government may, by notification in the official Gazette, specify from time to time;",
+      ">(d) a company against which an order of dismissal under section 17 has been passed within the past five years;",
+      ">(e) a company with respect to which a plan of rehabilitation has been confirmed under this Act within the past seven years;",
+      ">(f) a company against which a winding up order has already been passed;",
+      ">(g) a company which has resolved by special resolution that such company be wound up voluntarily;",
+      ">(h) a company against which execution proceedings are pending for satisfaction of one or more decrees for an aggregate sum not less than twenty-five percent of the value of its assets; or",
+      ">(i) a company which has availed relief under the BPD Circular No. 29 of",
+      "2002 issued by the State Bank."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Plan of rehabilitation",
+     "page": 8,
+     "text": [
+      "(1) A plan of rehabilitation shall specify the following matters in relation to a debtor,–",
+      ">(a) claims and classes of claims against the debtor;",
+      ">(b) interests and classes of interests in the debtor;",
+      ">(c) claims and interests belonging to the debtor;",
+      "137 (6) [PART I THE GAZETTE OF PAKISTAN, EXTRA., MARCH 16, 2018 (d) claims or interests that will not be impaired under the plan of rehabilitation;",
+      ">(e) claims or interests that will be impaired under the plan of rehabilitation;",
+      ">(f) places of business of the debtor, details of its assets and any security interests created over such assets;",
+      ">(g) particulars of shareholders, directors and key management of the debtor; and",
+      ">(h) scheme of implementation of the plan of rehabilitation of the debtor.",
+      "(2) Subject to sub-section (1), a plan of rehabilitation may provide for the following matters, in relation to a debtor,—",
+      ">(a) the settlement, restructuring or rescheduling of any claims or interests or classes of claims or interests;",
+      ">(b) the change of ownership and management of the debtor;",
+      ">(c) the sale of all or any assets of the debtor and the distribution of proceeds of such sale among holders of claims or interests;",
+      ">(d) the assumption, rejection or assignment of any executory contract or unexpired lease of the debtor;",
+      ">(e) the enforcement of any claims or interests belonging to the debtor; and",
+      ">(f) any other matter concerning rehabilitation of the debtor or distribution of proceeds of sale of property of the debtor."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Commencement of a case",
+     "page": 9,
+     "text": [
+      "(1) A debtor may file a petition in the Court for an order of mediation, which shall be supported by a plan of rehabilitation, statement of affairs and special resolution of the debtor approving the plan of rehabilitation.",
+      "(2) The qualifying creditors may file a petition in the Court for an order of mediation against a debtor.",
+      "(3) On first date of hearing, the Court shall issue notice to the parties listed in the petition through,—",
+      ">(a) registered post, acknowledgement due;",
+      ">(b) courier service; and",
+      ">(c) publication in one English language and one Urdu language daily newspaper of wide circulation in the country;",
+      "and service duly effected in any one of the aforesaid modes shall be deemed to be valid service for the purposes of this Act.",
+      "(4) The notice issued under sub-section (3) shall specify a date of hearing not later than twenty-one days after completion of the service.",
+      "(5) Any person interested of filing a written reply to the petition shall do so at least three days prior to the hearing and supply a copy of such reply to the party that filed the petition.",
+      "(6) The Court may, where a prima facie case has been made out by the qualifying creditor for an order of mediation in relation to a petition filed under sub-section (2), direct—",
+      ">(a) the debtor to submit, within fifteen days, the statement of affairs in the Court; and",
+      ">(b) the qualifying creditor to submit, within thirty (30) days after submission of the statement of affairs, a plan of rehabilitation of the debtor in the Court."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Statement of affairs",
+     "page": 10,
+     "text": [
+      "(1) The statement of affairs of a debtor shall be verified by an affidavit of the chief executive officer or a director of the debtor and shall contain the following particulars, namely,–",
+      ">(a) the assets, debts and liabilities of the debtor;",
+      ">(b) the particulars of the creditors, stating separately the amount of secured debts and unsecured debts and in the case of secured debts, particulars of the securities given, their value and the dates when they were given;",
+      ">(c) the debts due to the debtor and the particulars of the persons from whom such debts are due and the amount likely to be realized therefrom;",
+      ">(d) where any property of the debtor is not in its custody or possession, the place where and the person in whose custody or possession such property is;",
+      "137 (8) [PART I THE GAZETTE OF PAKISTAN, EXTRA., MARCH 16, 2018 (e) full address of the places where the business of the debtor was conducted during six months preceding the relevant date and the names and particulars of the persons in charge of the same;",
+      ">(f) details of any pending suits or proceedings in which the debtor is a party;",
+      ">(g) latest publically disclosed accounts and the last audited accounts; and",
+      ">(h) such other particulars as may be prescribed by regulations or as the Court may by order require.",
+      "(2) Whoever intentionally files a statement of affairs which is false in material particulars or falsely denies his signature on any document before the Court, or fails to file the statement of affairs without just excuse when so ordered by the Court, shall be guilty of an offence punishable with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Mediation",
+     "page": 11,
+     "text": [
+      "(1) The Court may, after notice and a hearing of the petition filed under section 8, pass an order for the appointment of insolvency experts to act as sole mediator or joint mediators, as the case may be, in relation to the plan of rehabilitation filed in the Court.",
+      "(2) The mediator appointed by the Court shall carry out mediation between the debtor and creditors or different classes of creditors to achieve acceptance of the plan of rehabilitation, whether with or without any modifications.",
+      "(3) For due discharge of his functions under this Act, a mediator shall have the following powers,–",
+      ">(a) to hold separate meetings of shareholders of the debtor and creditors or different classes of creditors;",
+      ">(b) to invite, scrutinize and determine claims and interest against the debtor;",
+      ">(c) to determine security interests created over the debtor’s assets;",
+      ">(d) to determine the debtor’s assets available for satisfaction of the claims of the creditors;",
+      ">(e) to carry out valuation of the assets of the debtor through professional experts approved by the State Bank; and",
+      ">(f) any other power given by the Court, either on its own accord or on application of the Mediator, to carry out the functions under sub-section (1).",
+      "(4) A mediator shall, from the date of his appointment, submit monthly progress reports and may refer any matter to Court for appropriate directions including for the purposes of –",
+      ">(a) production of any records or property of the debtor in possession of any person; and",
+      ">(b) examination and attendance of any person concerned with affairs of the debtor.",
+      "(5) The person filing the petition shall provide necessary funds to allow the mediator to perform the functions under this Act and, where required, the matter may be referred to the Court for necessary directions in this regard."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Notice of order of mediation",
+     "page": 12,
+     "text": [
+      "(1) The person filing the petition under this Act shall provide the notice of the order of mediation to all interested parties within three days of the order through,–",
+      ">(a) registered post, acknowledgement due;",
+      ">(b) courier service; and",
+      ">(c) publication in one English language and one Urdu language daily newspaper of wide circulation in the country;",
+      "and service duly effected in any one of the aforesaid modes shall be deemed to be valid service for the purposes of this Act.",
+      "(2) The notice of order of mediation shall specify the appointment of mediator and for filing of any claims against, and interests in, the debtor with the mediator within a period of fourteen days of publication of notice of the order of mediation."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Stay of actions against debtor",
+     "page": 12,
+     "text": [
+      "(1) In a case commenced under this Act, the Court may, on an application made to it by the debtor or an interested person, pass an order after notice and a hearing for–",
+      ">(a) preservation of assets of the debtor in such manner as the Court may deem fit in the circumstance of the case; and",
+      ">(b) protection of the debtor or its shareholders, directors and guarantors,",
+      "Against any imminent adverse action, measure, process or proceeding commenced to recover a claim against the debtor or its shareholders, directors and guarantors through sale, transfer, repossession or mortgage of assets of the debtor or its shareholders, directors and guarantors, or by creating any rights or interests in relation to such assets.",
+      "(2) The stay granted under sub-section (1) shall, if not earlier vacated, ipso facto cease to have effect on,–",
+      ">(a) the confirmation of a plan under section 14; or",
+      ">(b) the dismissal of the case under section 17.",
+      "(3) Notwithstanding anything contained in sub-section (2), the Court may, on application of the qualifying creditors or an interested party and after notice and a hearing, grant such relief from the stay granted under sub-section (1) as may be necessary to prevent irreparable harm or loss to the interest of that party."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Acceptance of plan of rehabilitation",
+     "page": 13,
+     "text": [
+      "(1) The acceptance or rejection of a plan of rehabilitation shall not be solicited from a holder of a claim or interest unless such holder is first provided with a copy of the plan.",
+      "(2) A class of creditors shall be deemed to have accepted a plan of rehabilitation if such plan is accepted by the creditors holding at least two-thirds in value of such class.",
+      "(3) A class of interests of the debtors, shall be deemed to have accepted a plan of rehabilitation if such plan is accepted by holders of at least two-thirds in value of interests of such class.",
+      "(4) A class that is not impaired under a plan of rehabilitation and each holder of a claim or interest of such class are conclusively presumed to have accepted the plan and solicitation of acceptance with respect to such class from the holders of claims or interests of such class is not required."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Confirmation of a plan of rehabilitation",
+     "page": 13,
+     "text": [
+      "(1) The Court may, after notice and a hearing, confirm a plan of rehabilitation if the plan is in accordance with the provisions of this Act and",
+      ">(a) with respect to each class of claims or interests, —",
+      ">>(i) such class has accepted the plan; or",
+      ">>(ii) such class is not impaired under the plan; and",
+      ">(b) except to the extent that the holder of a particular claim has agreed to a different treatment of such claim, the plan provides that the holder of such claim will receive cash equal to the allowed amount of such claim.",
+      "(2) The provisions of a plan of rehabilitation confirmed by the Court bind the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan and any creditor or shareholder of the debtor, whether or not the claim or interest of such creditor or shareholder is impaired under the plan and whether or not such creditor or shareholder has accepted the plan.",
+      "(3) The Court may refuse to confirm a plan if the principal purpose of the plan is avoidance of taxes, duties and fiscal charges levied under law."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Implementation of plan of rehabilitation",
+     "page": 14,
+     "text": [
+      "(1) The Court may, on the application of the debtor or qualifying creditors and after notice and a hearing, pass such directions as deemed appropriate for the purposes of implementation of the plan of rehabilitation and any person responsible for carrying out the plan or any part thereof shall comply with such directions.",
+      "(2) The Court may direct the debtor and any other necessary party to execute or deliver or to join in the execution or delivery of any instrument required to effect a transfer of property dealt with by a plan of rehabilitation confirmed by the Court and to perform any other act, including the satisfaction of any charge, that is necessary for the consummation of the charge."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Revocation of confirmation of a plan of rehabilitation",
+     "page": 14,
+     "text": [
+      "(1) The Court may, on the application of any person aggrieved by the plan of rehabilitation, at any time within twelve months of the date of confirmation of the plan and after notice and a hearing, make an order, upon such terms as the Court thinks fit declaring the confirmation to have been void.",
+      "(2) The Court may pass an order under sub-section (1) if the order of confirmation to be declared void was procured by fraud.",
+      "(3) An order under this section revoking an order of confirmation shall provide for all such measures as are necessary to protect any entity which has acquired rights in good faith reliance on the order of confirmation."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Dismissal of a case",
+     "page": 15,
+     "text": [
+      "(1) Notwithstanding anything to the contrary in this Act, the Court may, on the application of any person concerned with the debtor or on its own accord, dismiss a case or may suspend all proceedings in a case under this Act at any time, if the Court determines that–",
+      ">(a) the continuation of proceedings would amount to an abuse of the judicial process;",
+      ">(b) the person filing the petition has failed to provide necessary funds for mediation after getting due opportunity in this regard; and",
+      ">(c) the mediator has not been able to fully perform one or more of the functions specified in section 10 within a period of twelve months from his appointment.",
+      "(2) Unless the Court for any reason orders otherwise, the dismissal of a case does not affect the validity of any action taken during the pendency of a case.",
+      "(3) Unless the Court for any reason orders otherwise, the dismissal of a case shall:",
+      ">(a) re-instates,—",
+      ">>(i) any proceeding or custodianship superseded under this Act;",
+      ">>(ii) any transfer avoided under this Act; and",
+      ">>(iii) any charge voided under this Act;",
+      ">(b) vacates any order or transfer ordered under this Act; and",
+      ">(c) re-vests the property of the estate in such person in which such property was vested before the commencement of the case under this Act."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Conversion of a case",
+     "page": 15,
+     "text": [
+      "(1) A case under this Act may, on an application made to the Court, be converted into winding up proceedings for the following reasons:—",
+      ">(a) (b) failure to achieve the acceptance of plan of rehabilitation in twelv e months from appoint ment of an administ rator except where t he administrator has bee n removed under secti on 22; or the Court finds that a petition under this Act was filed by the debt or for fraudulent purpose s.",
+      "(2) The order of conversion under this section shall also provide for the appointment of a liquidator and the Court shall for such purpose exercise necessary jurisdiction under the Ordinance.",
+      "(3) An administrator appointed in a case under this Act shall not be appointed as liquidator in that case.",
+      "(4) An application for conversion under this section shall not be filed by any party except–",
+      ">(a) the debtor;",
+      ">(b) the qualifying creditors; or",
+      ">(c) the administrator appointed in the case."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Consequences of conversion",
+     "page": 17,
+     "text": [
+      "(1) Notwithstanding any provision of the Ordinance, an order of conversion under section 18 shall be deemed to be a winding up order by the Court under the Ordinance and the winding up of the debtor shall be deemed to have commenced on the date of commencement of the case under this Act.",
+      "(2) Except as provided in sub-section (3), all proceedings subsequent to an order of conversion under section 18 shall be carried out in accordance with the provisions of the Ordinance, including the filing of appeal against such order and other remedies provided therein.",
+      "(3) Following an order of conversion, a financial institution may initiate or continue with proceedings under the Financial Institutions (Recovery of Finances) Ordinance, 2001 (XLVI of 2001) without seeking permission from the Court under the Ordinance."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III",
+   "sections": [
+    {
+     "no": "20",
+     "title": "Appointment of administrator",
+     "page": 17,
+     "text": [
+      "(1) The Court may, on a petition made by the qualifying creditors and after notice and a hearing, appoint an insolvency expert as administrator of the debtor at any time before confirmation of a plan of rehabilitation for one or more of the following reasons namely:—",
+      ">(a) the affairs or business of the debtor have been conducted or managed in a manner likely to be prejudicial to the interest of the debtor or qualifying creditors;",
+      ">(b) any director of the debtor or person concerned with the management of the debtor has been guilty of breach of trust, misfeasance or other misconduct towards the debtor or qualifying creditors;",
+      ">(c) the affairs or business of the debtor have been conducted or managed with intent to defraud its shareholders or qualifying creditors or for a fraudulent or unlawful purpose, or in a manner oppressive of shareholders or qualifying creditors;",
+      ">(d) the affairs of the debtor have been so conducted or managed as to deprive the qualifying creditors of their claims against the debtor in full or in part;",
+      ">(e) any project owned by the debtor is not in operation for over a period of two years or has been in operation intermittently or partially during the preceding two years;",
+      ">(f) the accumulated losses of the debtor exceed sixty percent of its paid up capital; or",
+      ">(g) any project set up by, or belonging to, the debtor has not commenced operations or has not been operating smoothly or its production or performance has so deteriorated that–",
+      ">>(i) the market value of its shares as quoted on the stock exchange or the net worth of its shares has fallen by more than seventyfive per cent of its par value;",
+      ">>(ii) debt equity ratio has deteriorated beyond 9:1; or",
+      ">>(iii) current ratio has deteriorated beyond 5:1:",
+      "Provided that the party filing the petition under this section shall additionally demonstrate to the Court on balance of probabilities that the mediation has not been successful or is not likely to be successful in the circumstances of the case.",
+      "(2) If an administrator dies or resigns during the pendency of a case under this Act or is removed by the Court on just cause shown, then a substitute administrator shall be appointed immediately.",
+      "(3) Notice of the appointment of administrator in every case under this Act shall be given by the appointed administrator to all interested parties within three working days of his appointment and shall additionally be published in one English language and one Urdu language daily newspaper of wide circulation in the country and the notice shall provide for filing of any claims against, and interests in, the debtor with the administrator within a period of fourteen days of publication of the notice.",
+      "(4) The Court may award such fees and expenses to an administrator as may be prescribed by regulations."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Effect of appointment of administrator",
+     "page": 19,
+     "text": [
+      "(1) On the appointment of an administrator,–",
+      ">(a) all the powers of the directors, chief executive and other officers of the debtor shall cease, except as may be required under this Act and except so far as the Court may sanction the continuance thereof; and",
+      ">(b) all the powers of a receiver appointed prior to the commencement of a case shall cease in relation to the property of the debtor.",
+      "(2) Where an administrator is appointed, the debtor and its directors and management shall–",
+      ">(a) cooperate with the administrator to enable him to perform his duties under this Act;",
+      ">(b) surrender to the administrator all property of the debtor and any recorded information including books, documents, records and papers relating to the debtor; and",
+      ">(c) appear at any hearings at which its presence is required by either the administrator or an administration committee."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Removal and termination of administrator",
+     "page": 19,
+     "text": [
+      "(1) The Court may, at any time before confirmation of a plan of rehabilitation, on request of an interested party and after notice and a hearing, terminate the administrator’s appointment and restore the debtor to possession of its property and management of its business.",
+      "(2) The Court, after notice and a hearing, may remove an administrator for mal-feasance, mal-administration or gross negligence and appoint another administrator.",
+      "(3) Whenever the Court removes an administrator under sub-section (2), such administrator shall also thereby stand automatically removed in all other cases under this Act in which such administrator is then serving unless the Court makes orders otherwise.",
+      "(4) A vacancy in office of the administrator during a case does not abate any pending action or proceeding and the successor administrator shall be substituted as a party in such action or proceeding."
+     ]
+    },
+    {
+     "no": "23",
+     "title": "Powers and duties of an administrator",
+     "page": 20,
+     "text": [
+      "(1) An administrator shall–",
+      ">(a) operate the debtor’s business;",
+      ">(b) prepare and submit in the Court the statement of affairs, where the debtor has not done so;",
+      ">(c) except to the extent that the Court makes orders otherwise, investigate the acts, conduct, assets, liabilities and financial condition of the debtor, the operation of the debtor’s business and the desirability of the continuance of such business and any other matter relevant to rehabilitation of the debtor;",
+      ">(d) as soon as practicable,—",
+      ">>(i) file a statement of any investigation conducted under clause (c) including any fact ascertained pertaining to fraud, dishonesty, incompetence, misconduct, mis-management or irregularity in the management of the affairs of the debtor; and",
+      ">>(ii) transmit a copy or a summary of any such statement to the administration committees, mortgagee, receiver or charge holder and to such other entity as the Court designates;",
+      ">(e) adopt the plan of rehabilitation filed under this Act or seek modification of the plan or recommend the winding up of the debtor;",
+      ">(f) institute or defend any suit, action, prosecution or other legal proceeding, civil or criminal, in the name and on behalf of the debtor, to the extent necessary;",
+      ">(g) subject to approval of the administration committees, make any compromise or arrangement with creditors or persons claiming to be creditors or having or alleging themselves to have any claim against the debtor;",
+      ">(h) be accountable for all property of the debtor;",
+      ">(i) examine proofs of claim and object to the allowance of any claim that is improper;",
+      ">(j) unless the Court makes orders otherwise, furnish such information concerning the property and business of the debtor as is requested by an interested party; and",
+      ">(k) make and submit monthly reports, a final report and final accounts of the administration in the Court.",
+      "(2) For due discharge of the functions under sub-section (1), the administrator shall have the power to,–",
+      ">(a) to do anything that is incidental to exercising a power set out in this section;",
+      ">(b) to do anything that is necessary or convenient for the purpose of administering the affairs of the debtor; and",
+      ">(c) not be liable for any loss or damages caused by any act or omission undertaken in good faith."
+     ]
+    },
+    {
+     "no": "24",
+     "title": "Administrator’s account",
+     "page": 21,
+     "text": [
+      "(1) Every administrator shall, during his tenure in office, present to the Court a comprehensive account of his receipts and payments and dealings as administrator together with such further information as may be relevant.",
+      "(2) The administrator shall cause his account and all receipts and payments to be audited and send the audit report to the Commission, State Bank and the administration committees and to every shareholder, where a committee of shareholders has not been constituted, and submit one copy in the Court."
+     ]
+    },
+    {
+     "no": "25",
+     "title": "Employment of professional persons",
+     "page": 21,
+     "text": [
+      "(1) The administrator may employ one or more advocates, accountants, appraisers, auctioneers or other professional persons to represent or assist the administrator in carrying out the administrator’s duties under this Act on reasonable terms and conditions of employment with the prior approval of the administration committee of creditors.",
+      "(2) In cases of emergency, the administrator may appoint a person and submit the details of terms and conditions of such appointment along-with due reasons thereof to the administration committee of creditors."
+     ]
+    },
+    {
+     "no": "26",
+     "title": "Administration committees",
+     "page": 22,
+     "text": [
+      "(1) The administrator shall appoint a committee of creditors and may appoint an additional committee of shareholders, if the administrator deems appropriate in a case.",
+      "(2) The administration committees shall have adequate representation of different classes of creditors and shareholders of the debtor, as the case may be.",
+      "(3) On request of an interested party, the Court may make order directing the administrator to appoint such additional members of an administration committee as the Court finds necessary to ensure adequate representation of creditors and shareholders, as the case may be."
+     ]
+    },
+    {
+     "no": "27",
+     "title": "Powers and duties of administration committees",
+     "page": 22,
+     "text": [
+      "(1) An administration committee shall perform the functions given to it under this Act and in this regard may–",
+      ">(a) consult the administrator concerning the administration of the case;",
+      ">(b) review the acts, conduct, assets, liabilities and financial condition of the debtor, the operation of the debtor’s business and the desirability of the continuance of such business and any other matter relevant to the plan of rehabilitation; and",
+      ">(c) participate in the finalization of the plan and file with the Court acceptance or rejection of the plan, if necessary.",
+      "(2) As soon as practicable after the appointment of an administration committee under this Act, the administrator shall meet with such committee to transact such business as may be necessary and proper.",
+      "(3) The powers of an administration committee shall terminate upon the confirmation of a plan of rehabilitation or upon the conversion of a case into winding up proceedings."
+     ]
+    },
+    {
+     "no": "28",
+     "title": "Use, sale or lease of property",
+     "page": 22,
+     "text": [
+      "(1) The administrator may enter into transactions concerning the business and property of the debtor, including the use, sale or lease of the property, in the ordinary course of business.",
+      "(2) The administrator may use, sell or lease property of the debtor in a manner other than in the ordinary course of business only after consultation with the administration committees."
+     ]
+    },
+    {
+     "no": "29",
+     "title": "Obtaining credit",
+     "page": 23,
+     "text": [
+      "(1) The administrator may, to the extent allowed by the administration committees, obtain unsecured credit and incur unsecured debt in the course of debtor’s business which shall be allowable as an administrative expense.",
+      "(2) Where the administrator is unable to obtain unsecured credit for the debtor, the administration committees may allow the administrator, on such terms and conditions as deemed appropriate by the committees, to obtain credit secured by a superior or equal security interest on the property of the debtor that is subject to an existing security interest:",
+      "Provided that the same has been approved by the holder of the existing security interest on the property of the debtor on which such superior or equal security interest is proposed to be granted."
+     ]
+    },
+    {
+     "no": "30",
+     "title": "Assumption and rejection of executory contracts and unexpired leases",
+     "page": 23,
+     "text": [
+      "(1) The administrator may, with the prior approval of the Court, assume or reject any executory contract or unexpired lease of the debtor including–",
+      ">(a) any executory contract relating to the employment or services of any person; and",
+      ">(b) any unexpired lease of immovable property.",
+      "(2) The administrator may not reject any executory contract or unexpired lease without giving notice of his intent to reject to all parties to such executory contract or unexpired lease.",
+      "(3) Any party which is prejudiced by the debtor’s rejection of an executory contract or unexpired lease may file a claim for damages and such claim shall be deemed to be a breach of such contract or lease occurring immediately prior to the date of filing of the petition."
+     ]
+    },
+    {
+     "no": "31",
+     "title": "Claims and interests",
+     "page": 23,
+     "text": [
+      "(1) Within fourteen days of the publication of the notice of appointment of administrator, proof of any claims or interests shall be filed with the administrator by the creditors, shareholders or interested parties, as the case may be.",
+      "(2) Any person who does not timely file a claim or interest will be deemed to have no claim or interest against the debtor unless the delay in filing the claim or interest is condoned, after notice and a hearing, by the Court for just cause shown.",
+      "(3) Any party aggrieved by a determination of the administrator of any claims and interests may prefer an appeal to the Court which shall determine the amount of such claims or interests."
+     ]
+    },
+    {
+     "no": "32",
+     "title": "Allowance of claims for administrative expenses",
+     "page": 24,
+     "text": [
+      "(1) After notice and a hearing there shall be allowed administrative expenses, from time to time, including–",
+      ">(a) the actual, necessary costs and expenses of preserving the business and property of the debtor, including",
+      ">>(i) any credit facility obtained by the debtor;",
+      ">>(ii) wages, salaries or commissions for services rendered after the appointment of administrator;",
+      ">>(iii) payment for raw materials supplied to the debtor for its business; and",
+      ">>(iv) payment for goods supplied to the debtor in the ordinary course of its business; and",
+      ">(b) the fees and expenses awarded to the administrator under section 20.",
+      "(2) Administrative expenses allowed under this section shall have priority over all other expenses and claims."
+     ]
+    },
+    {
+     "no": "33",
+     "title": "Handover of property of debtor to administrator",
+     "page": 24,
+     "text": [
+      "(1) Any person in possession, custody or control of a property that the administrator may use, sell or lease under this Act shall deliver such property to the administrator or account for the value of such property.",
+      "(2) Any person who owes a debt to the debtor, which is due for payment, payable on demand or payable on order, shall pay such debt to or on the order of the administrator, except to the extent that such debt may be approved by the administrator to be offset against a claim of such person against the debtor.",
+      "(3) After notice and a hearing, the Court may excuse compliance with any provision of this section, if the interests of creditors would be better served by not handing over possession, custody or control of such property to the administrator."
+     ]
+    },
+    {
+     "no": "34",
+     "title": "Avoidance of transfers",
+     "page": 24,
+     "text": [
+      "(1) Except as provided under sub-section (2), an administrator may, with the approval of the Court, avoid a transfer of an interest of the debtor in property in favour of a creditor where such transfer–",
+      ">(a) is made on account of an antecedent debt owed by the debtor before such transfer;",
+      ">(b) is made –",
+      ">>(i) within six months before the date of the appointment of the administrator; or",
+      ">>(ii) if the creditor is an insider, within one year before the date of the appointment of the administrator; and",
+      ">(c) enables such creditor to receive more than what such creditor would have received otherwise.",
+      "(2) The administrator shall not avoid a transfer where such transfer is,—",
+      ">(a) intended by the debtor and the creditor to be a contemporaneous exchange for new value given to the debtor and is a substantially contemporaneous exchange;",
+      ">(b) made in payment of a debt incurred by the debtor in the ordinary course of business and according to ordinary business terms; or",
+      ">(c) for the benefit of a creditor to the extent that such creditor gives new value to or for the benefit of the debtor subsequent to the transfer.",
+      "(3) To the extent that a transfer is avoided under this section, the Court may allow the administrator to recover the property transferred or the value of such property from the initial transferee or subsequent transferee.",
+      "(4) For the purposes of this section the expression, “new value” means money worth in goods, services or new credit or released by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the administrator under law, including proceeds of such property, but does not include an obligation substituted for an existing obligation."
+     ]
+    },
+    {
+     "no": "35",
+     "title": "Abandonment of property of debtor",
+     "page": 25,
+     "text": [
+      "(1) After notice and a hearing, the administrator may abandon any property of the debtor that is burdensome or that is of inconsequential value and benefit to the debtor.",
+      "(2) On request of an interested party and after notice and a hearing, the Court may order the administrator to abandon any property of the debtor that is burdensome or that is of inconsequential value and benefit to the debtor."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV",
+   "sections": [
+    {
+     "no": "36",
+     "title": "Act not in derogation",
+     "page": 26,
+     "text": [
+      "This Act shall be in addition to and not in derogation of any other law."
+     ]
+    },
+    {
+     "no": "37",
+     "title": "Act to override contracts, instruments, memorandum and articles",
+     "page": 26,
+     "text": [
+      "SaveasotherwiseexpresslyprovidedinthisAct,theprovisionsofthis Act shall have effect notwithstanding anything to the contrary contained in any contract, instrument, memorandum or articles of a company or in any agreement executed by a company or in any resolution passed by the company in a general meeting or by its directors, whether the same is registered, executed or passed, before or after the commencement of this Act."
+     ]
+    },
+    {
+     "no": "38",
+     "title": "Limitation",
+     "page": 26,
+     "text": [
+      "(1) Except as provided otherwise in this Act, the provisions of the Limitation Act, 1908 (IX of 1908) shall apply to the proceedings under this Act.",
+      "(2) Notwithstanding anything contained in the Limitation Act, 1908 (IX of 1908), in computing the time within which an administrator may institute a suit for the recovery of any debt due to the debtor, the period which elapses between the filing of a petition under this Act and the passing of order of mediation under this Act or period of one year, which ever be greater, shall be excluded."
+     ]
+    },
+    {
+     "no": "39",
+     "title": "Power to require delivery of property",
+     "page": 26,
+     "text": [
+      "Without prejudice to any obligation imposed under any other provision, the Court may at any time after passing order of mediation under this Act require any trustee, receiver, banker, agent, officer or employee or former officer or employee or auditor of the debtor to pay, deliver, convey, surrender or transfer forthwith or within such time as the Court directs, to the administrator, if one has been appointed, any money, property or books and papers including documents in his hands to which debtor is prima facie entitled, which is not subject to any charge."
+     ]
+    },
+    {
+     "no": "40",
+     "title": "Power to make rules",
+     "page": 26,
+     "text": [
+      "The Minister-in-charge of the Federal Government may, by notification in the official Gazette, make such rules as may be necessary to carry out the purposes of this Act."
+     ]
+    },
+    {
+     "no": "41",
+     "title": "Power to make regulations",
+     "page": 26,
+     "text": [
+      "The Commission may, by notification in the official Gazette, make regulations in respect of the matters expressly required in this Act to be prescribed by the Commission."
+     ]
+    },
+    {
+     "no": "42",
+     "title": "Power to issue directives, circulars, guidelines, etc",
+     "page": 27,
+     "text": [
+      "The Commission may, from time to time, issue such directives, circulars and guidelines as may be necessary for carrying out the purposes of this Act, the rules or regulations made thereunder."
+     ]
+    },
+    {
+     "no": "43",
+     "title": "Power to remove difficulties",
+     "page": 27,
+     "text": [
+      "If any difficulty arises in giving effect to the provisions of this Act, the Minister-in-charge of the Federal Government may, by notification in the official Gazette, make such order not inconsistent with the provisions of this Act and as may be necessary to remove the difficulty.",
+      "AMJED PERVEZ, Secretary."
+     ]
+    }
+   ]
+  }
+ ]
 }

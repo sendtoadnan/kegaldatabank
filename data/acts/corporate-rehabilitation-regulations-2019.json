@@ -1,254 +1,165 @@
 {
-  "id": "corporate-rehabilitation-regulations-2019",
-  "title": "Corporate Rehabilitation Regulations, 2019",
-  "number": "S.R.O. 1415(I)/2019",
-  "type": "regulations",
-  "unit": "Regulation",
-  "parent": "corporate-rehabilitation-act-2018",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Corporate Rehabilitation Regulations"
-  ],
-  "enacted": "2019-11-19",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 1415(I)/2019",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 1415(I)/2019 dated November 19, 2019.- In exercise of the powers conferred by section 41 of the Corporate Rehabilitation Act, 2018 (IX of 2018), the Securities and Exchange Commission of Pakistan is pleased to make the following regulations, the same having been previously published for public comments vide S.R.O. 721(I)/2019 dated July 04, 2019, namely:-",
-  "parts": [
+ "id": "corporate-rehabilitation-regulations-2019",
+ "title": "Corporate Rehabilitation Regulations, 2019",
+ "number": "S.R.O. 1415(I)/2019",
+ "type": "regulations",
+ "unit": "Regulation",
+ "parent": "corporate-rehabilitation-act-2018",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Corporate Rehabilitation Regulations"
+ ],
+ "enacted": "2019-11-19",
+ "lastAmended": "2026-06-20",
+ "amendedUpToLabel": "20 June 2026 (no later amendment recorded)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "corporate-rehabilitation-regulations-2019.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These Regulations shall be called the Corporate Rehabilitation Regulations, 2019.",
-            "(2) They shall come into force at once."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these regulations unless there is anything repugnant in the subject or context,-",
-            ">(i) \"Act\" means the Corporate Rehabilitation Act, 2018 (IX of 2018);",
-            ">(ii) \"Companies Act\" means the Companies Act, 2017 (XIX of 2017);",
-            ">(iii) \"Form\" means form appended to these regulations;",
-            ">(iv) \"Panel\" means a panel of insolvency experts maintained by the Commission in consultation with the State Bank of Pakistan under these regulations;",
-            ">(v) \"Provisional manager or official liquidator\" shall have the same meaning as assigned to it in section 315 of the Companies Act; and",
-            ">(vi) \"Schedule\" means schedule appended to these regulations.",
-            "(2) Words and expressions used but not defined in these regulations shall have the same meanings as are assigned to them under the Corporate Rehabilitation Act, 2018 (IX of 2018) or any administered legislation as specified in Schedule I to the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Panel of Insolvency Experts",
-          "text": [
-            "Subject to section 5 of the Act, the 5of the Act, Commission shall maintain a Panel of insolvency experts in the manner as it may deem fit."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Eligibility Criteria",
-          "text": [
-            "(1) Any person may apply to the Commission to be included in the Panel if he/she meets the following criteria:-",
-            ">(i) has a bachelors degree in law, or masters degree in accounting, banking, finance, management, or equivalent, duly recognized by the Higher Education Commission (HEC) of Pakistan; or (ii) is a chartered accountant or cost and management accountant or ACCA from Association of Chartered Certified Accountants (UK) or such other equivalent professional qualification as may be notified by the Commission:",
-            "Provided that in case of a professional accountant or cost and management accountant, the person must have membership of the relevant professional institute:",
-            "Provided further that in case of an advocate, his/her name must be appearing on common roll of advocates of a High Court or, as the case may be, the common roll of advocates of the Supreme Court prepared and maintained by the relevant Bar Council under the Legal Practitioners and Bar Councils Act, 1973 (XXXV of 1973).",
-            "(2) An individual shall be ineligible to be included in the Panel, if he/she:-",
-            ">(a) is not a person residing in Pakistan;",
-            ">(b) is of unsound mind;",
-            ">(c) has applied to be adjudicated as an insolvent and his application is pending;",
-            ">(d) is an undischarged insolvent;",
-            ">(e) has been convicted by a court of law for any offence provided under any law;",
-            ">(f) has been debarred from being appointed as provisional manager or",
-            "liquidator under the Companies Act by the competent Court;",
-            ">(g) is lacking fiduciary behavior and a declaration to this effect has been made by the court at any time during the preceding five years;",
-            ">(h) has been declared by a court of competent jurisdiction as defaulter in repayment of loan to a financial institution;",
-            ">(i) in case of a Pakistani national, is not an income tax filer with the Federal Board of Revenue.",
-            "(3) An insolvency expert, while accepting an assignment, shall provide an undertaking that he/she possesses adequate resources, knowledge, expertise, experience and skills to perform his/her duties with professional competence in conformity with the legal and regulatory requirements.",
-            "(4) If at any time after the name of an insolvency expert is included in the Panel, any disqualification occurs in terms of the criteria provided in these regulations, he/she shall immediately intimate the Commission and the Court if already appointed or appointment is under consideration by the Court."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Application procedure",
-          "text": [
-            "(1) Subject to the requirements of regulation 4 and the Act, any person may apply to the Commission to be included in the Panel on Form I.",
-            "(2) The Commission may, while considering an application under this egulation, require the applicant to furnish isucan application uorer thi regulation, require the applicant to furnish such additional information, clarification, or documents as it may deem fit.",
-            "(3) The Commission may refuse the application in case the applicant fails to provide requisite information, clarification or documents within the stipulated time.",
-            "(4) The Commission shall, after consultation with the State Bank of Pakistan, on being satisfied that the applicant meets the eligibility criteria and other requirements of these regulations and the Act, enter the name of the applicant in the Panel.",
-            "(5) The Commission may, after affording reasonable opportunity of hearing to the applicant may refuse to include the name of the applicant in the Panel, if in the opinion of the Commission such applicant does not meet the requirements of these regulations or the Act.",
-            "(6) The Commission may, after providing a reasonable opportunity of hearing to the insolvency expert listed on the panel, in consultation with the State Bank of Pakistan, remove his/her name from the Panel if;-",
-            ">(a) at any time becomes ineligible in terms of regulation 4; or",
-            ">(b) fails to comply with or contravenes the requirements of the code of conduct provided under regulation 8; or",
-            ">(c) order of removal is passed by the Court in terms of the provisions of the order of removal is passed by the Court in terms of the provisions of the Act in the case of insolvency expert or the Companies Act in the case of provisional manager or official liquidator who is appointed as an insolvency expert under the Act; or",
-            ">(d) removal is recommended by the State Bank of Pakistan; or",
-            ">(e) has obtained membership of the Panel on the basis of incorrect or",
-            "misleading information;",
-            ">(f) fails to provide any information, clarification or documents, required by the Commission, within stipulated time; or",
-            ">(g) any other reason deemed sufficient by the Commission:",
-            "Provided that an applicant whose application is refused by the Commission under sub-regulation (5) or his/her name is removed from the Panel under subregulation (6), shall not be eligible to submit a fresh application within six months of the date of refusal or removal.",
-            "(7) The consultation process referred in these regulations with the State Bank ofPakistanmeans thatthe proposed names of insolvency experts for inclusion in or removal from the Panel, as the case may be, shall be furnished by the designated officer of the State Bank of Pakistan within 30 days from the date of intimation by the Commission and if no response is provided by the State Bank of Pakistan within the said time period it will be deemed to be agreed by the State Bank of Pakistan."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Panel to be displayed on the website of the Commission",
-          "text": [
-            "A list of professionals included in the Panel, including particulars as per Form II, shall be displayed on the website of the Commission."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Remuneration of insolvency expert and administrator",
-          "text": [
-            "(1) insolvency Remuneration of an insolvency expert shall be determined by the debtor where a petition for an order of mediation is filed by the debtor under sub-section (1) of section 8 of the Act, by the debtor and the qualifying creditor with mutual consent where petition for an order of mediation is filed by the qualifying creditor under sub-section (2) of section 8 of the Act:",
-            "Provided that in case of disagreement between debtor or the qualifying creditor remuneration of insolvency expert shall be determined by the Court.",
-            "(2) The Court may award such fees and expenses to an administrator as may be recommended by the qualifying creditor filing petition under section 20 of the Act:",
-            "Provided further that remuneration shall reflect value of the work to be performed and experience and qualification of insolvency expert and such remuneration shall be paid in the manner as agreed between the debtor and/or the qualifying creditor and the insolvency expert and confirmed by the Court."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Code of conduct",
-          "text": [
-            "Subject to the requirements of sub-section (3) of section 5 of the Act, an insolvency expert shall follow the code of conduct as provided in Schedule I to these regulations."
-          ]
-        }
-      ]
-    }
-  ],
-  "schedules": [
-    {
-      "title": "Form I",
-      "text": [
-        "The Corporate Rehabilitation Act, 2018",
-        "Corporate Rehabilitation Regulations, 2019",
-        "[See Regulation 5]",
-        "APPLICATION FOR EMPLANELMENT ON PANEL OF INSOLVENCY EXPERTS",
-        "The Securities & Exchange Commission of Pakistan,",
-        "NIC Building, Jinnah Avenue, Islamabad.",
-        "Dear Sir,",
-        "I, hereby apply for empanelment on Panel of Insolvency Experts as maintained by the Commission under Section 5 of the Corporate Rehabilitation Act, 2018 and hereby furnish the following information and documents,- (To be completed by applicant in block letters.)",
-        "1. Full Name:",
-        "2. Father's name: _",
-        "3. Date of Birth (dd/mm/yyyy): _",
-        "4. Nationality: _",
-        "5. C.N.I.C. Number/Passport No.:_ National Tax Number:",
-        "6. Correspondence address: _",
-        "7. Phone and email:",
-        "Landline No. Mobile Phone No. _",
-        "E-mail:",
-        "8. Education:",
-        "a) Details of qualification: (starting from Matriculation)",
-        "S. Qualification Board/ Year of % Marks Grade/GPA/",
-        "No including University completion Division professional qualification b) Major subjects studied in Bachelors/Masters degree:",
-        "Bachelors",
-        "Masters",
-        "C) Certification / memberships of professional bodies, if any:",
-        "Certifications",
-        "Memberships of professional bodies d) Continuing Professional Development courses/trainings attended, if any:",
-        "Sr.# Year Title Provided by e) Professional experience",
-        "Sr.# Name of Designation/Job From (mm/yyyy) To (mm/yyyy) .",
-        "organization Title/Area of",
-        "Expertise f) Experience related to the functions of insolvency expert, if any:",
-        "Sr. No. Description (along with time assigned and actual time taken to complete the assignment)",
-        "9. Have you ever been terminated or dismissed from any organization?",
-        "Yes /No_ ___. If yes, provide reasons for termination:",
-        "10. Do any of the following circumstances (or similar) apply to you? If you",
-        "• have applied to be adjudicated as an insolvent and application is pending;",
-        "• are an undischarged insolvent;",
-        "• have been convicted by a court of law for an offence involving moral turpitade;",
-        "• have been debarred from holding an office under any provision of the",
-        "Companies Act or any other law;",
-        "• are lacking fiduciary behavior and a declaration to this effect has been made by the court at any time during the preceding five years;",
-        "• have been declared by a court of competent jurisdiction as defaulter in repayment of loan to a financial institution;",
-        "• in case of a Pakistani national, are not a registered tax payer (filer) in Pakistan and do not hold a valid National Tax Number given by Federal Board of",
-        "Revenue;",
-        "• in case of foreign national, are not a registered tax payer, if applicable, in respective jurisdiction of residence or nationality;",
-        "• have been convicted of any criminal offence involving fraud, negligence or criminal breach of trust and financial impropriety; or",
-        "• have an overdue / past due payment in the CIB report",
-        "Yes ___/ No.",
-        "Explanation (if Yes):",
-        "11. References:",
-        "Sr.# Name Address Contact #",
-        "1",
-        "2",
-        "3",
-        "Declaration:",
-        "I do hereby solemnly, and sincerely declare that the information provided in the form is true, complete and correct. I bear the responsibility for the correctness of the above mentioned particulars and information.",
-        "Signature_",
-        "Name of the Applicant",
-        "Date"
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations shall be called the Corporate Rehabilitation Regulations, 2019.",
+      "(2) They shall come into force at once."
+     ]
     },
     {
-      "title": "Form-II",
-      "text": [
-        "The Corporate Rehabilitation Act, 2018",
-        "Corporate Rehabilitation Regulations, 2019",
-        "[See Regulation 6]",
-        "Particulars to be displayed on the website of the Commission",
-        "Serial No. in the Panel Name of Person on the Panel Address Date of empanelment Email Fax Phone CNIC/ Passport No. Qualification",
-        "Serial No. in the Panel Name of Person on the Panel Address Date of empanelment Fax Phone Qualification",
-        "(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)",
-        "(11)"
-      ]
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations unless there is anything repugnant in the subject or context,-",
+      ">>(i) “Act” means the Corporate Rehabilitation Act, 2018 (IX of 2018);",
+      ">>(ii) “Companies Act” means the Companies Act, 2017 (XIX of 2017);",
+      ">>(iii) “Form” means form appended to these regulations;",
+      ">>(iv) “Panel” means a panel of insolvency experts maintained by the Commission in consultation with the State Bank of Pakistan under these regulations;",
+      ">>(v) “Provisional manager or official liquidator” shall have the same meaning as assigned to it in section 315 of the Companies Act; and",
+      ">>(vi) “Schedule” means schedule appended to these regulations.",
+      "(2) Words and expressions used but not defined in these regulations shall have the same meanings as are assigned to them under the Corporate Rehabilitation Act, 2018 (IX of 2018) or any administered legislation as specified in Schedule I to the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997)."
+     ]
     },
     {
-      "title": "Schedule I",
-      "text": [
-        "The Corporate Rehabilitation Act, 2018",
-        "Corporate Rehabilitation Regulations, 2019",
-        "[See Regulation 8]",
-        "CODE OF CONDUCT FOR INSOLVENCY EXPERTS",
-        "1. Integrity, Independence & Professionalism:",
-        ">(a) An insolvency expert must act with honesty, should be straightforward and maintain integrity in all professional relationships.",
-        "An insolvency expert must not misrepresent any facts or situations and should abstain from any action, directly or indirectly, that would bring disrepute to the profession.",
-        ">(c) An insolvency expert should not acquire, directly or indirectly, any of the assets of the debtor, nor knowingly permit any relative to do so.",
-        ">(d) An insolvency expert must ensure complete independence in professional relationships while performing duties and responsibilities under the Act.",
-        ">(e) An insolvency expert must avoid conflict of interest and act with objectivity in professional dealings. He/she must act without any prejudice, coercion, or influence of any party, whether directly associated to the insolvency proceedings or not.",
-        ">(f) An insolvency expert shall not accept appointment under the Act if he/she, any of his/her relatives, any of the partners or directors of the firm/company of which he/she is a partner or director, or the firm/company of which he/she is a partner or director is not independent and there is any direct or indirect conflict of interest:",
-        "Provided that an insolvency expert shall not be considered independent if he/she or any of the person mentioned in this clause;",
-        "i. is a related party of the debtor or the qualifying creditor; or ii. is or has been, an employee or director/officer or an external auditor of the debtor or the qualifying creditor or their subsidiaries, associated companies or undertakings or holding company during the last three years; or ill. has or has had a material business relationship with the debtor or the qualifying creditor or their subsidiaries, associated companies or undertakings or holding company during the last three years.",
-        "Explanation: Relative means spouse and minor children.",
-        ">(g) An insolvency expert shall make a declaration of existence of any pecuniary or personal relationship with any of the stakeholders or parties having interest in the rehabilitation process, to the person filing the petition for rehabilitation, administration committee(s), and the Court.",
-        ">(h) An insolvency expert shall not, directly or indirectly, influence the administration committee(s) of creditors or debtor or other stakeholders so as to make any undue or unlawful gains for himself/herself or his/her related parties, or cause any undue preference for any other persons for undue or unlawful gains and shall not adopt any illegal or improper means to achieve any mala fide objectives.",
-        "2. Competence and Due Care:",
-        "a) An insolvency expert must engage in continuous professional development activities to further improve professional knowledge and skills based on the latest developments in practice as well as legislation.",
-        "b) An insolvency expert, while providing professional services, diligently and in accordance with the relevant laws and regulations, and applicable technical and professional standards. He/she should conduct should conduct himself/herself with courtesy and consideration towards all with whom they come into contact when performing their work.",
-        "c) An insolvency expert must not accept too many assignments, if he/she is unlikely to be able to devote adequate time to each of the assignment.",
-        "d) An insolvency expert must not act with mala fide or be negligent while performing functions and duties under the Act.",
-        "3. Confidentiality:",
-        "a) An insolvency expert must preserve the confidentiality of information acquired as a result of professional and business relationships and should not disclose any such information to third parties without specific consent of the relevant person(s) unless there is a legal or professional right or duty to disclose.",
-        "b) Confidential information acquired as a result of professional and business relationships should not be used by the insolvency expert for his/her personal advantage or for advantage of any third party.",
-        "4. Faithful Representation:",
-        "•a) An insolvency expert must inform all relevant stakeholders of a misapprehension or wrongful consideration of a fact of which he/she becomes aware, as soon as practicable.",
-        "b) An insolvency expert must not conceal any material information or knowingly make a misleading statement to any stakeholder or the Court.",
-        "5. Meeting timelines and maintenance of records:",
-        "a) An insolvency expert must follow the timelines prescribed under the law or as directed by the Court and carefully plan his/her actions for timely discharge of his/her duties.",
-        "b) An insolvency expert must ensure that all communications to the stakeholders, as required under the law, are made well in advance.",
-        "c) An insolvency expert must maintain chronological records for any actions/decision taken, reasons thereof and supporting information and evidence. The record maintained should be sufficient for an independent and informed third party to reach a view on the fitness of the decisions/actions of the insolvency expert.",
-        "d) An insolvency expert must not make any private communication with any of the stakeholders unless required by the law or order of the Court.",
-        "6. Remuneration, gifts and hospitality:",
-        "a) An insolvency expert shall not accept any fees or charges other than those which he/she is entitled to receive in the manner provided in the Act and the regulations. regulations.",
-        "b) An insolvency expert shall disclose all costs incurred, as allowed under the Act, to performs his/her functions under the Act to all relevant stakeholders and must endeavor to ensure that such costs are not unreasonable.",
-        "c) An insolvency expert or his/her relatives must not accept gifts or hospitality which undermines or affects his/her independence.",
-        "d) An insolvency expert shall not offer gifts or hospitality or a financial or any other advantage to a public servant or any other person, intending to obtain or retain work for himself/herself, or to obtain or retain an advantage in the conduct of profession for himself/herself."
-      ]
+     "no": "3",
+     "title": "Panel of Insolvency Experts",
+     "page": 1,
+     "text": [
+      "Subject to section 5 of the Act, the Commission shall maintain a Panel of insolvency experts in the manner as it may deem fit."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Eligibility Criteria",
+     "page": 1,
+     "text": [
+      "(1) Any person may apply to the Commission to be included in the Panel if he/she meets the following criteria:-",
+      ">>(i) has a bachelors degree in law, or masters degree in accounting, banking, finance, management, or equivalent, duly recognized by the Higher Education Commission (HEC) of Pakistan; or",
+      ">>(ii) is a chartered accountant or cost and management accountant or ACCA from Association of Chartered Certified Accountants (UK) or such other equivalent professional qualification as may be notified by the Commission:",
+      "Provided that in case of a professional accountant or cost and management accountant, the person must have membership of the relevant professional institute:",
+      "Provided further that in case of an advocate, his/her name must be appearing on common roll of advocates of a High Court or, as the case may be, the common roll of advocates of the Supreme Court prepared and maintained by the relevant Bar Council under the Legal Practitioners and Bar Councils Act, 1973 (XXXV of 1973).",
+      "(2) An individual shall be ineligible to be included in the Panel, if he/she:-",
+      ">(a) is not a person residing in Pakistan;",
+      ">(b) is of unsound mind;",
+      ">(c) has applied to be adjudicated as an insolvent and his application is pending;",
+      ">(d) is an undischarged insolvent;",
+      ">(e) has been convicted by a court of law for any offence provided under any law;",
+      ">(f) has been debarred from being appointed as provisional manager or liquidator under the Companies Act by the competent Court;",
+      ">(g) is lacking fiduciary behavior and a declaration to this effect has been made by the court at any time during the preceding five years;",
+      ">(h) has been declared by a court of competent jurisdiction as defaulter in repayment of loan to a financial institution;",
+      ">(i) in case of a Pakistani national, is not an income tax filer with the Federal Board of Revenue.",
+      "(3) An insolvency expert, while accepting an assignment, shall provide an undertaking that he/she possesses adequate resources, knowledge, expertise, experience and skills to perform his/her duties with professional competence in conformity with the legal and regulatory requirements.",
+      "(4) If at any time after the name of an insolvency expert is included in the Panel, any disqualification occurs in terms of the criteria provided in these regulations, he/she shall immediately intimate the Commission and the Court if already appointed or appointment is under consideration by the Court."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Application procedure",
+     "page": 2,
+     "text": [
+      "(1) Subject to the requirements of regulation 4 and the Act, any person may apply to the Commission to be included in the Panel on Form I.",
+      "(2) The Commission may, while considering an application under this regulation, require the applicant to furnish such additional information, clarification, or documents as it may deem fit.",
+      "(3) The Commission may refuse the application in case the applicant fails to provide requisite information, clarification or documents within the stipulated time.",
+      "(4) The Commission shall, after consultation with the State Bank of Pakistan, on being satisfied that the applicant meets the eligibility criteria and other requirements of these regulations and the Act, enter the name of the applicant in the Panel.",
+      "(5) The Commission may, after affording reasonable opportunity of hearing to the applicant may refuse to include the name of the applicant in the Panel, if in the opinion of the Commission such applicant does not meet the requirements of these regulations or the Act.",
+      "(6) The Commission may, after providing a reasonable opportunity of hearing to the insolvency expert listed on the panel, in consultation with the State Bank of Pakistan, remove his/her name from the Panel if;-",
+      ">(a) at any time becomes ineligible in terms of regulation 4; or",
+      ">(b) fails to comply with or contravenes the requirements of the code of conduct provided under regulation 8; or",
+      ">(c) order of removal is passed by the Court in terms of the provisions of the Act in the case of insolvency expert or the Companies Act in the case of provisional manager or official liquidator who is appointed as an insolvency expert under the Act; or",
+      ">(d) removal is recommended by the State Bank of Pakistan; or",
+      ">(e) has obtained membership of the Panel on the basis of incorrect or misleading information;",
+      ">(f) fails to provide any information, clarification or documents, required by the Commission, within stipulated time; or",
+      ">(g) any other reason deemed sufficient by the Commission:",
+      "Provided that an applicant whose application is refused by the Commission under subregulation (5) or his/her name is removed from the Panel under sub-regulation (6), shall not be eligible to submit a fresh application within six months of the date of refusal or removal.",
+      "(7) The consultation process referred in these regulations with the State Bank of Pakistan means that the proposed names of insolvency experts for inclusion in or removal from the Panel, as the case may be, shall be furnished by the designated officer of the State Bank of Pakistan within 30 days from the date of intimation by the Commission and if no response is provided by the State Bank of Pakistan within the said time period it will be deemed to be agreed by the State Bank of Pakistan."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Panel to be displayed on the website of the Commission",
+     "page": 3,
+     "text": [
+      "A list of professionals included in the Panel, including particulars as per Form II, shall be displayed on the website of the Commission."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Remuneration of insolvency expert and administrator",
+     "page": 3,
+     "text": [
+      "(1) Remuneration of an insolvency expert shall be determined by the debtor where a petition for an order of mediation is filed by the debtor under sub-section (1) of section 8 of the Act, by the debtor and the qualifying creditor with mutual consent where petition for an order of mediation is filed by the qualifying creditor under sub-section (2) of section 8 of the Act:",
+      "Provided that in case of disagreement between debtor or the qualifying creditor remuneration of insolvency expert shall be determined by the Court.",
+      "(2) The Court may award such fees and expenses to an administrator as may be recommended by the qualifying creditor filing petition under section 20 of the Act:",
+      "Provided further that remuneration shall reflect value of the work to be performed and experience and qualification of insolvency expert and such remuneration shall be paid in the manner as agreed between the debtor and/or the qualifying creditor and the insolvency expert and confirmed by the Court."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Code of conduct",
+     "page": 4,
+     "text": [
+      "Subject to the requirements of sub-section (3) of section 5 of the Act, an insolvency expert shall follow the code of conduct as provided in Schedule I to these regulations. -.-.-.-.-",
+      "Form I The Corporate Rehabilitation Act, 2018 Corporate Rehabilitation Regulations, 2019 [See Regulation 5]",
+      "APPLICATION FOR EMPLANELMENT ON PANEL OF INSOLVENCY EXPERTS The Securities & Exchange Commission of Pakistan, NIC Building, Jinnah Avenue, Islamabad.",
+      "Dear Sir,",
+      "I, hereby apply for empanelment on Panel of Insolvency Experts as maintained by the Commission under Section 5 of the Corporate Rehabilitation Act, 2018 and hereby furnish the following information and documents, -",
+      "(To be completed by applicant in block letters.) 1. Full Name: _______________________________________________________ 2. Father’s name: ____________________________________________________ 3. Date of Birth (dd/mm/yyyy): _________________________________________ 4. Nationality: _______________________________ 5. C.N.I.C. Number/Passport No.:_________________ National Tax Number: ______________ 6. Correspondence address: _______________________________________________________ _____________________________________________________________________ 7. Phone and email: Landline No._______________ Mobile Phone No. ______________________ Email:_________________________________________________________________ 8. Education: a) Details of qualification: (starting from Matriculation)",
+      "S. No Qualification Board/ Year of % Grade/GPA/ including University completion Marks Division professional qualification",
+      "b) Major subjects studied in Bachelors/Masters degree:",
+      "Bachelors Masters",
+      "c) Certification / memberships of professional bodies, if any: Certifications",
+      "Memberships of professional bodies",
+      "d) Continued Professional Development courses/trainings attended, if any: Sr. # Year Title Provided by",
+      "e) Professional experience: Sr.# Name of Designation/Job From To organization Title/Area of (mm/yyyy) (mm/yyyy) Expertise",
+      "f) Experience related to the functions of insolvency expert, if any: Sr.No. Description (along with time assigned and actual time taken to complete the assignment)",
+      "9. Have you ever been terminated or dismissed from any organization?",
+      "Yes_________ No________ If yes, provide reasons for termination:",
+      "10. Do any of the following circumstances (or similar) apply to you? If you • have applied to be adjudicated as an insolvent and application is pending; • are an undischarged insolvent; • have been convicted by a court of law for an offence involving moral turpitude; • have been debarred from holding an office under any provision of the Companies Act or any other law; • are lacking fiduciary behavior and a declaration to this effect has been made by the court at any time during the preceding five years; • have been declared by a court of competent jurisdiction as defaulter in repayment of loan to a financial institution; • in case of a Pakistani national, are not a registered tax payer (filer) in Pakistan and do not hold a valid National Tax Number given by Federal Board of Revenue; • in case of foreign national, are not a registered tax payer, if applicable, in respective jurisdiction of residence or nationality; • have been convicted of any criminal offence involving fraud, negligence or criminal breach of trust and financial impropriety; or • have an overdue / past due payment in the CIB report Yes_______ No________",
+      "Explanation (if Yes)",
+      "11. References. Sr. Name Address Contact # # 1 2 3 Declaration:",
+      "I do hereby solemnly, and sincerely declare that the information provided in the form is true, complete and correct. I bear the responsibility for the correctness of the above mentioned particulars and information.",
+      "Signature___________________________ Name of the Applicant_________________ Date_____________",
+      "Form-II The Corporate Rehabilitation Act, 2018 Corporate Rehabilitation Regulations, 2019 [See Regulation 6]",
+      "Particulars to be displayed on the website of the Commission",
+      "Serial Name Address Date of Email Fax Phone CNIC/ QualificMembExper No. in of empanePasspoation ership ience the Person lment rt No. Panel on the Panel (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)"
+     ]
     }
-  ],
-  "frontNotes": [],
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  }
+ ]
 }

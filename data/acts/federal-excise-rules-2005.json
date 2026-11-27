@@ -516,8 +516,7 @@
      "title": "Minimum retail price of cigarettes",
      "page": 23,
      "text": [
-      "{fn:23-39}[ For the purposes of payment of Federal Excise duty, the minimum retail price (excluding sales tax) of cigarettes, shall not be less than {fn:23-40}[sixty-",
-      "five] per cent of the retail price specified under column ({fn:23-41}[2]) of serial No. {fn:23-42}[10] of Table I of the First Schedule to the Act.]"
+      "{fn:23-39}[ For the purposes of payment of Federal Excise duty, the minimum retail price (excluding sales tax) of cigarettes, shall not be less than {fn:23-40}[sixty-five] per cent of the retail price specified under column ({fn:23-41}[2]) of serial No. {fn:23-42}[10] of Table I of the First Schedule to the Act.]"
      ],
      "fn": [
       {
@@ -592,8 +591,7 @@
       "{fn:24-44}[ (l) Every manufacturer of cigarettes and other tobacco products shall make a written declaration to the Collector of Federal Excise having jurisdiction stating the number of machines, their make and model, minimum production capacity in respect of each machine and the brand names of the products he intends to manufacture.",
       "(2) The declaration given under sub-rule (1) shall also include on offer from the manufacturer that any machine not intended to be used for production of taxable goods shall be permanently closed by sealing it with argon gas welding.",
       "(3) The impression of the signatures of a Federal Excise Officer, not below in rank of a Deputy Collector of Federal Excise, shall be affixed on each such closed and sealed machine with the Stamping Seal. The affixing of signatures shall be done in such a manner that any tempering with the sealed machine is immediately detectable on inspection.",
-      "(4) The owner, if desirous of getting any of the sealed machinery under sub-rule (3) to be de-",
-      "sealed, shall make a written request to the Collector of Federal Excise having jurisdiction that he intends to increase the production of cigarettes or any other tobacco products, for which he needs to utilize the sealed machinery.",
+      "(4) The owner, if desirous of getting any of the sealed machinery under sub-rule (3) to be de-sealed, shall make a written request to the Collector of Federal Excise having jurisdiction that he intends to increase the production of cigarettes or any other tobacco products, for which he needs to utilize the sealed machinery.",
       "(5) Notwithstanding the provisions of sub-rules (1) and (2), if any installed machine is remodeled, repaired or reconditioned in such manner that the declared production capacity thereof is enhanced, the manufacturer shall inform in writing the Collector of Federal Excise having jurisdictions to redetermine the production capacity of such machine after such inquiry of inspection, as he may deem fit to make.",
       "(6) A Federal Excise Officer, not below in rank of an Assistant or a Deputy Collector of Federal Excise having reasons to believe that certain machinery declared to be used in production of taxable goods is actually being used for production of non-duty paid cigarettes of any other tobacco products, may, subject to the approval of the Collector of Federal Excise, seal such machinery after serving upon the owner or his authorized representative a notice to this effect.",
       "(7) The machinery sealed under sub-rule (3) or (6) shall, subject to approval of the Collector of Federal Excise, be de-sealed in the presence of a Federal Excise Officer.",
@@ -695,9 +693,13 @@
      "title": "Pecuniary competence to sanction [drawback] or refund",
      "page": 28,
      "text": [
-      "{fn:28-45}The claims for refund or {fn:28-45}[drawback] of duty of excise shall be decided by the following officers of Federal excise, namely:− S. Description Limit in each claim No.",
-      "(1) (2) (3) 1 Assistant Collector Not exceeding rupees two hundred thousand. 2 Deputy Collector Not exceeding rupees one million.",
-      "3 Additional Collector Unlimited."
+      "{fn:28-45}The claims for refund or {fn:28-45}[drawback] of duty of excise shall be decided by the following officers of Federal excise, namely:−",
+      "|!S. No.|Description .|Limit in each claim",
+      "|(1)|. (2)|(3)",
+      "|1|Assistant Collector|Not exceeding rupees two hundred thousand.",
+      "|2|Deputy Collector|Not exceeding rupees one million.",
+      "|3|Additional Collector|Unlimited.",
+      "."
      ],
      "fn": [
       {
@@ -890,7 +892,9 @@
       "(4) The Assistant Collector of the concerned Customs House shall not grant final port clearance to a ship unless the agent furnishes proof of payment of duty.",
       "(5) The agent shall furnish to the Collector of Federal Excise a monthly statement in respect of ships handled by him by the 15th day of the following month, in the following Form, namely:− MONTHLY STATEMENT FOR SERVICES RENDERED BY SHIPPING AGENTS",
       ">>(i) Name of shipping agent",
-      ">>(ii) Month to which return relates Date of Treasury S.NO. arrival of IGM No. Port Amount of challans ship handled And date Of FED paid No. & date By the agent arrival 1 2 3 4 5 6"
+      ">>(ii) Month to which return relates",
+      "|!S.NO.|Date of arrival of ship handled By the agent|IGM No. And date|Port Of arrival|Amount of FED paid|Treasury challans No. & date",
+      "|1|2|3|4|5|6"
      ],
      "fn": [
       {
@@ -1005,7 +1009,9 @@
       "(3) A copy of the bill referred to in sub-rule (2) shall be given to the person to whom such services have been provided or rendered and one copy thereof shall be retained by the person providing or rendering services in the said bound book of bills of charges.",
       "(4) Not more than one book of bill of charges shall be used at one time provided that where such person has one or more branches of the establishment, separate book of bill of charges may be used for each such branch.",
       "(5) The advertising agent shall also maintain their accounts in register on a weekly basis ending every Thursday in the following Form, namely:− Name and location of the agent:________________________________________ .",
-      "Amount of Amount Bill of Name of Name of the Brief of charges Commission of Federal charges No. Client media the job bills/to be involved excise and date customer company billed duty (1) (2) (3) (4) (5) (6) (7)",
+      "|!Bill of charges No. and date|Name of Client customer|Name of the media company|. . Brief of the job|Amount of charges bills/to be billed|Commission involved|Amount of Federal excise duty",
+      "|(1)|(2)|(3)|(4)|(5)|(6)|(7)",
+      ")",
       "(6) The person providing or rendering service shall pay duty on quarterly basis by the 15th day of November, February, May and August on the basis of the amount of commission charged or billed during the last quarter.",
       "(7) The person liable to pay duty shall, along with the evidence of payment of duty, submit to the Collector quarterly statement, before-the last day of the month of November, February, May and August, in the following Form, namely:− Quarterly statement for services rendered by M/s _________________________________for the (Name and complete address) quarter ending: ________ 20____ −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−1. Amount of commission billed during the quarter. 2. Excise duty paid by the agent:",
       ">>(i) Treasury's name.",
@@ -1044,13 +1050,17 @@
       ">(b) in case of pre-paid telephone services, duty shall be paid by the 21st day of the following month; and",
       ">(c) in case of other telecommunication services, duty shall be paid by the 21st day of the following month.",
       "(3) While determining his liability, the person shall be entitled to deduct input tax paid on procurement of any equipment or the duty paid on acquiring services in connection with the provision of telecommunication services.",
-      "(4) The person, or as the case may be, the head office of the person shall, along with the proof of payment of duty, submit its Revenue Office-wise or, as the case may be, service outlet-wise statement by the date specified in sub-rule (2), in the following {fn:40-87}[Form], namely:− {fn:41-88}[FORM MONTHLY STATEMENT FOR TELECOM SERVICES RENDERED BY M/S.___________________________________ DURING THE TAX PERIOD _________________________ Federal Excise S.NO. Description Value Duty/Sales Tax paid Pre-paid mobile services (cards 1. sold/easyload/top-up etc.).",
-      "2. Post-paid mobile services.",
-      "3. Activation charges.",
-      "4. SMS Nos. ________________ 5. Other telecom services provided.",
-      "6. Other taxable services/supplies.",
-      "7. Input Tax adjustable.",
-      "Net FED/Sales Tax paid on the 8. ] return.",
+      "(4) The person, or as the case may be, the head office of the person shall, along with the proof of payment of duty, submit its Revenue Office-wise or, as the case may be, service outlet-wise statement by the date specified in sub-rule (2), in the following {fn:40-87}[Form], namely:− {fn:41-88}[FORM MONTHLY STATEMENT FOR TELECOM SERVICES RENDERED BY M/S.___________________________________ DURING THE TAX PERIOD _________________________",
+      "|!S.NO.|Description|Value|Federal Excise Duty/Sales Tax paid",
+      "|1.|. Pre-paid mobile services (cards . sold/easyload/top-up etc.).||",
+      "|2.|Post-paid mobile services.||",
+      "|3.|Activation charges.||",
+      "|4.|SMS Nos. ________________||",
+      "|5.|Other telecom services provided.||",
+      "|6.|Other taxable services/supplies.||",
+      "|7.|Input Tax adjustable.||",
+      "|8.|Net FED/Sales Tax paid on the return.||]",
+      ".",
       "(5) Failure to pay the duty by the due date, as specified in sub-rule (2), shall render the person, or as the case may be, the head office of the person, liable to a penalty under the Act in addition to payment of duty and default surcharge payable thereon under section 8 of the Act.",
       "(6) In addition to the statement specified under sub-rule (4), the person, or as the case may be, the head office of the person shall also maintain such other records and submit such other statements, as may be specified, with prior approval of the Board, to the Collector of Federal Excise having jurisdiction.",
       "(7) An officer or officers of Federal Excise as are deputed by the Collector of Federal Excise having jurisdiction, shall have access to any of the records maintained by the said person, or as the case may be, the head office of the said person.]"
@@ -1399,8 +1409,7 @@
      "text": [
       "(1) The Appellate Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or annulling the decision or order appealed against or may refer the case back to the authority which passed such decision or order with such directions as the Tribunal may think fit, for a fresh adjudication or decision after taking additional evidence, if necessary:",
       "{fn:60-104}[***]",
-      "(2) The Appellate Tribunal may, at any time within three years from the date of order, with a view to rectifying any mistake apparent from the record, amend any order passed by it under sub-",
-      "rule (1) and shall make such amendments if the mistake is brought to its notice by the Collector of Federal Excise or the other party to the appeal:",
+      "(2) The Appellate Tribunal may, at any time within three years from the date of order, with a view to rectifying any mistake apparent from the record, amend any order passed by it under sub-rule (1) and shall make such amendments if the mistake is brought to its notice by the Collector of Federal Excise or the other party to the appeal:",
       "Provided that an amendment which has the effect of enhancing an assessment or reducing a refund or otherwise increasing the liability of the other party shall not be made under this rule, unless the Tribunal has given notice to him of its intention to do so and has allowed him a reasonable opportunity of being heard.",
       "(3) The Tribunal shall send a copy of every order passed by it under this section, disposing of an appeal, to the Collector of Federal Excise concerned, Collector (Appeals) concerned and the other party to the appeal.",
       "(4) Save as otherwise provided in the Act, an order passed by the Tribunal shall be final."
@@ -1554,8 +1563,7 @@
      "text": [
       "(1) {fn:65-116}[***]",
       "(2) A member of the Committee appointed under clause (ii) of sub-section of section 38 shall be paid a lump sum one time remuneration of one hundred thousand rupees for his services.",
-      "(3) The remuneration specified in {fn:65-117}[sub-rule] (2) shall be paid by the Board from its budget allocation within fifteen days of the receipt of the decision of the Committee under sub-",
-      "rule (1) of rule 58."
+      "(3) The remuneration specified in {fn:65-117}[sub-rule] (2) shall be paid by the Board from its budget allocation within fifteen days of the receipt of the decision of the Committee under sub-rule (1) of rule 58."
      ],
      "fn": [
       {
@@ -2172,8 +2180,7 @@
      "title": "Federal excise invoice to accompany vehicles",
      "page": 89,
      "text": [
-      "All vehicles transporting un-",
-      "manufactured tobacco shall be liable to carry a copy of Federal excise invoice as evidence of chargeability of Federal excise."
+      "All vehicles transporting un-manufactured tobacco shall be liable to carry a copy of Federal excise invoice as evidence of chargeability of Federal excise."
      ]
     },
     {

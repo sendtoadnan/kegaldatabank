@@ -1,647 +1,366 @@
 {
-  "id": "bond-pricing-agency-rules-2017",
-  "title": "Bond Pricing Agency Rules, 2017",
-  "number": "S.R.O. 1064(I)/2017",
-  "type": "rules",
-  "unit": "Rule",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Bond Pricing Agency Rules"
-  ],
-  "enacted": "2017-10-18",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 1064(I)/2017",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 1064(I)/2017 dated October 18, 2017.- In exercise of the powers conferred by clause (g) of sub-section (2) of section 175 of the Securities Act, 2015 (III of 2015), read with clause (b) of section 43 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), the Federal Government is pleased to make the following rules, the same having been previously published vide Notification No. S.R.O. 254(I)/2016 dated the 24th March, 2016 as required by sub-section (3) of section 175 of the Securities Act (III of 2015), namely:- Chapter I PRELIMINARY",
-  "parts": [
+ "id": "bond-pricing-agency-rules-2017",
+ "title": "Bond Pricing Agency Rules, 2017",
+ "number": "S.R.O. 1064(I)/2017",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Bond Pricing Agency Rules"
+ ],
+ "enacted": "2017-10-18",
+ "lastAmended": "2026-06-20",
+ "amendedUpToLabel": "20 June 2026 (no later amendment recorded)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "bond-pricing-agency-rules-2017.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter 1 — Preliminary",
+   "sections": [
     {
-      "heading": "Rules",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title, extent and commencement",
-          "text": [
-            "(1) These rules shall be called the Bond Pricing Agency Rules, 2017.",
-            "(2) They shall come into force at once."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these rules, unless there is anything repugnant in the subject or context,-",
-            ">(a) \"Act\" means the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
-            ">(b) \"applicant\" means any person who makes application for licence of a bond pricing agency under these rules;",
-            ">(c) \"bond\" means any debt security, Government and public debt security, participation term certificate or term finance certificate as specified in sub-section (lii) of section 2 of the Securities Act;",
-            ">(d) \"bond pricing agency\" means a company that regularly provides fair prices for bonds on an independent and objective basis, and is licensed with the Commission in accordance with these rules;",
-            ">(e) \"Commission\" means the Securities and Exchange Commission of Pakistan established under section 3 of the Act;",
-            ">(f) \"financial institution\" shall have the same meaning as assigned to it in clause (31) of sub-section (1) of section 2 of the Companies Act;",
-            ">(g) \"lead investor\" means a company which holds at least twenty percent of the paid up capital of the bond pricing agency and takes the lead role in the establishment and management of a bond pricing agency;",
-            ">(h) \"senior management officer\" for the purposes of these rules shall have the same meaning as assigned to it in clause (lviii) of section 2 of the Securities Act and also includes compliance officer, chief operating officer, chief financial officer, head of internal audit and company secretary, by whatsoever name called; and",
-            ">(i) \"Companies Act\" means Companies Act, 2017 (XIX of 2017);",
-            ">(j) \"Securities Act\" means the Securities Act, 2015 (IIII of 2015). the same meaning as have been assigned to them in the Securities Act, 2015 (III of 2015), Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) and the Companies Act.",
-            "Chapter II Licensing"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Prohibition",
-          "text": [
-            "(1) No person shall carry on a business as a bond pricing agency'or hold himself out as carrying on such a business unless licensed by the Commission as a bond pricing agency under these rules:",
-            "Provided that the arrangement for pricing of Government securities at the time of commencement of these rules shall continue till such time the Commission, with approval of the State Bank of Pakistan, requires a bond pricing agency licensed under these rules to provide fair prices for Government securities."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Permission to apply for licence",
-          "text": [
-            "(1) Any company desirous of forming a bond pricing agency and willing to act as its lead investor shall make an application to the Commission as set out in Form-A along with information, as provided in Annexure I, along with all the relevant documents as may be required by the Commission and receipt evidencing the payment of nonrefundable processing fee as set out in Schedule-I which may be amended by the Commission from time to time.",
-            "(2) The Commission may, if it is satisfied that,-",
-            ">(a) the person seeking permission to form a bond pricing agency has the capacity to establish a bond pricing agency;",
-            ">(b) the person is in compliance with these rules;",
-            ">(c) the sponsors, lead investor, proposed chief executive officer and",
-            "proposed directors fulfill the fit and proper criteria as provided in Schedule-II:",
-            "Provided that while evaluating fit and proper criteria in respect of corporate sponsors or consortium of companies, the fit and proper criteria shall also be applied to the extent practical on the majority shareholders and directors of such sponsors; and",
-            ">(d) it is in the interest of the public and the capital market, by an order in writing grant permission to such person to incorporate a public company for the purpose of obtaining licence as a bond pricing agency under these rules.",
-            "(3) The permission granted under sub-rule (2) shall be valid for a period of six months unless extended for a maximum period of three months under special circumstances, on the application of the lead investor made before the expiry of said six months:",
-            "Provided that during validity of the permission granted under sub-rule (3), the lead investor shall incorporate a public company under the Companies Act and such company shall, within the above time period, apply for a licence under these rules."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Eligibility criteria for licensing",
-          "text": [
-            "A person may apply to the Commission for a licence under these rules if such person is authorized by its 2017 memorandum of association to carry on the business of bond pricing agency and,-",
-            ">(a) is incorporated as a public company under the Companies Act and its lead investor has obtained prior permission under rule 4;",
-            ">(b). has a paid-up capital of not less than fifty million rupees;",
-            ">(c) has a shareholding structure which complies with the following conditions, namely:-",
-            ">(i) the lead investor may hold not less than twenty percent and not more than forty percent of the applicant's paid-up capital:",
-            "Provided that a consortium of companies may act as lead investor with their combined shareholding not exceeding sixty percent of the applicant's paid-up capital and any one company from the consortium must comply with the shareholding requirements applicable to the lead investor under these rules:",
-            "Provided further that the lead investor shall not be a financial institution, insurance company or a credit rating company;",
-            ">(ii) any other person may directly or indirectly hold not more than ten percent of the applicant's paid-up capital;",
-            ">(iii) combined shareholding of individuals shall not exceed twenty percent of the applicant's paid-up capital;",
-            ">(d) its sponsors are, in the opinion of the Commission, persons of means and integrity and have adequate knowledge of matters which the and have applicant may have to deal with as a bond pricing agency;",
-            ">(e) its board of directors is constituted in compliance with the following requirements, namely:-",
-            "(1) it shall have a minimum of seven directors on its board, including the chief executive officer;",
-            ">(ii) the board shall not have any executive directors other than the chief executive officer who does not hold such office in any other company;",
-            "Explanation.- For the purposes of this clause the term \"executive directors\" means paid executives of the company.",
-            ">(iii) at least one-third of the board shall comprise of independent directors appointed in the manner specified in clause (b) of rule 10;",
-            "Explanation.- For the purposes of this clause, the term \"independent director\" means a director who is not connected or",
-            "does not have any other relationship, whether pecuniary or",
-            "otherwise with the applicant, its associated companies, subsidiaries, holding company or directors. The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgment without being subservient to any form of conflict of interest:",
-            "Provided that without prejudice to the generality of this explanation no director shall be considered independent if one or",
-            "more of the following circumstances exist, namely:-",
-            "(A) he has been an employee of the applicant, any of its subsidiaries or holding company within the last three (B) he is or has been the chief executive officer of subsidiaries, associated company, associated undertaking or holding company in the last three years;",
-            "(C) he has or has had within the last three years a material business relationship with the applicant either directly or",
-            "indirectly as a partner, substantial shareholder or shareholder director of a body that has such a relationship with the applicant;",
-            "(D): he has received remuneration in the three years preceding his appointment as a director or receives additional remuneration, excluding retirement benefits from the applicant apart from a director's fee or has fee or has participated in the applicant's share option or a performance-related pay scheme;",
-            "(E) he is a close relative of the applicant's sponsors, directors or major shareholders;",
-            "Explanation.- close relative means spouses, lineal ascendants and descendants and siblings;",
-            "(F) he holds cross-directorships or has significant links with other directors through involvement in other companies or bodies;",
-            "(G) he has served on the board for more than three consecutive terms from the date of his first appointment, provided that such person shall be deemed \"independent director\" after a lapse of one term:",
-            "Provided further that any person nominated as a director under sections 164 and 165 of the Companies Act shall not be taken to be an \"independent director\" for the above-mentioned purposes:",
-            "Provided also that in case of any ambiguity in determining independence of a person for the purposes of these rules, the decision of the Commission shall be final and binding upon the applicant;",
-            ">(iv) the chairman of the board of directors shall be from amongst independent directors;",
-            ">(f) the applicant and its lead investor, sponsors, directors and senior management officers are in compliance with the \"fit and proper\" criteria as provided in Schedule-II;",
-            ">(g) it has employed or has made arrangements to employ before commencement of operations as a bond pricing agency, at least two qualified bond pricing specialists with at least five years of relevant working experience each in either bond trading or in areas related to bond pricing;",
-            ">(h) it has procedures in place, approved by its board of directors, to ensure that there is clear segregation between operations of the applicant relating to the bond pricing process and the shareholders, directors, management and business aspect of the applicant; (i) has technical collaboration ora development consultancy agreement with a foreign counterpart functioning as a recognized or authorized bond pricing agency in such jurisdiction for at least five years by whatsoever name called and the terms of the arrangement with such foreign counterpart should inter alia include assistance in setting up of the applicant as a bond pricing agency, technology sharing or",
-            "development, training of personnel involved in the bond pricing process, development of pricing methodologies, etc.; and",
-            ">(j) it complies with any other conditions as may be notified by the Commission in the official Gazette in accordance with the applicable law."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Application and procedure for licensing",
-          "text": [
-            "(1) An application for licence of a bond pricing agency shall be made to the Commission in Form-I along with all documents specified in Annexure A, affidavit in Annexure B and receipt evidencing payment of non-refundable fee of such amount as set out in Schedule-I which may be amended by the Commission from time to time.",
-            "(2). The Commission, while considering the application for licensing, may require the applicant furnish such further information or clarification require the applicant to regarding its activities and businesses as it deems appropriate.",
-            "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-rule (1) shall be intimated to the Commission within five working days from the date of such change.",
-            "(4) The applicant shall, if so required, appear before the Commission for a representation through a person duly authorized for this purpose in writing by the board of directors of the applicant."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Grant of licence",
-          "text": [
-            "(1) The Commission, while considering the application for granting a licence, made under sub-rule (1) of rule 6, shall, inter alia, take into account the following matters, namely:-",
-            ">(a) the capacity of the applicant to efficiently handle its functions under these rules;",
-            ">(b) that the applicant has the capacity to put in place necessary technology;",
-            "internal procedures, security arrangements and infrastructure including but not limited to adequate office space, equipment, experienced manpower and technical aspects to effectively and efficiently discharge its responsibilities as a bond pricing agency;",
-            ">(c) earlier refusal, if any, by the Commission for licensing of the applicant as a bond pricing agency;",
-            ">(d) conviction or involvement of its sponsors, directors or employees at the senior management level in an offence involving fraud or breach of trust or an offence of moral turpitude;",
-            ">(e) penal action against the applicant or its directors for an offence under the Act or any other law administered by the Commission;",
-            ">(f) services, and of interest of the lead investor with the bond pricing services; and",
-            ">(g)",
-            "with the applicable law.",
-            "(2) The Commission may inspect the premises of the applicant to determine whether it fulfills the eligibility conditions and may also require the require the applicant to submit reports from experts at the expense of the applicant in the manner specified by the Commission to confirm compliance with the Act and these rules including the existence of adequate infrastructure, technical capacity, financial standing and other requisite requirements.",
-            "(3) The Commission may, after conducting such inquiries and after obtaining such further information as it deems appropriate, grant a licence to the applicant in Form-II on being satisfied that the applicant is-",
-            ">(a) eligible for licensing; and",
-            ">(b) in compliance with the requirements of the Securities Act and these rules.",
-            "(4) The licence shall remain valid for a period of three years from the date of licensing unless it is restricted, suspended or cancelled earlier by the of licensing unless it is restricted, suspended or cancelled earlier by the or cancelled earlier by the Commission.",
-            "(5) The Commission may, while granting a licence, impose such conditions on the applicant as it may deem appropriate."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Renewal of licence",
-          "text": [
-            "(1) A bond pricing agency shall, three months prior to the date of expiry of its licence, apply to the Commission in Form-III for renewal of its licence along with non-refundable renewal fee of such amount as set out in Schedule-I which may be amended by the Commission from time to time and submit such documents as specified in Annexure C and affidavit in Annexure D.",
-            "(2) The Commission upon being satisfied, after making such inquiries and • obtaining further information as it deems necessary, that the bond pricing agency continues to meet the requirements for licensing and is eligible for renewal of licence, shall renew the licence of bond pricing agency in Form-IV.",
-            "(3) Where the application for renewal of licence is made within such time as specified in sub-rule (1) but has not been decided by the Commission, the licence shall continue to be valid until the application for renewal is decided by the Commission.",
-            "(4) While granting renewal of licence to the bond pricing agency the agency the Commission may, in addition to the criteria laid down for grant of licence, also take into account the track record of regulatory compliance and past performance of the bond pricing agency and impose such conditions as it deems appropriate."
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Procedure where licence is not granted or renewed",
-          "text": [
-            "(1) The Commission, after giving a reasonable opportunity of being heard to the heard to the applicant or the bond pricing agency, as the case may be, may refuse to grant or renew a licence if in the opinion of the Commission such applicant or the bond pricing agency, as the case may be, does not fulfill the requirements prescribed in these rules.",
-            "(2) The applicant or bond pricing agency, as the case may be, if aggrieved by a decision of the Commission under sub-rule (1) may, within a period of thirty days from the date of receipt of such refusal, apply to the Commission for review of its decision. (3) On receipt of the application made under sub-rule (2), the Commission may review its decision and communicate its findings, in writing, to the applicant or bond pricing agency, as the case may be, within sixty days.",
-            "(4) A bond pricing agency whose application for renewal of licence is refused under sub-rule (1) shall, from the date of receipt of the decision of the Commission, immediately cease its business as bond pricing agency and protect and transfer all documents, information, data, etc. maintained in any torm, to any such organization as directed by the Commission.",
-            "(5) The Commission while refusing to grant renewal of licence to a bond pricing agency under these rules may take such measures and issue such directions as it deems necessary or expedient so to do in the public interest or in the interest of the capital market including but not limited to completion of its pending assignments, if any, and such directions shall be binding on the bond → pricing agency.",
-            "Chapter III Duties and Responsibilities of Bond Pricing Agency"
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Obligations of a bond pricing agency",
-          "text": [
-            "A bond pricing agency shall-",
-            ">(a) at all times comply with the conditions for licensing under rule 5, any conditions imposed by the Commission at the time of granting or",
-            "renewing the licence, the Securities Act, these rules and any directives issued by the Commission.",
-            "Explanation.- Directives issued by the Commission shall be in writing and shall be authenticated in the manner provided in section 22 of the Act;",
-            ">(b) ensure that its independent directors are appointed by the board of directors of the bond pricing agency with the prior approval of the Commission in the following manner:",
-            ">(i) the bond pricing agency shall maintain a panel of fit and proper persons suitable for appointment of independent directors;",
-            ">(ii) for each position of independent director, a minimum of two names from the panel maintained under sub-clause (i) shall.be submitted by the board of directors of the bond pricing agency to the Commission for its approval. The bond pricing agency shall ensure that such persons are selected from relevant diverse fields of work with appropriate qualification and experience;",
-            ">(iii) the Commission may, if satisfied that a person is suitable for appointment as independent director grant its approval for the appointment of the selected person by the board of directors of bond pricing agency as independent director:",
-            "Provided that where the Commission is not satisfied regarding the suitability of the proposed persons for appointment as a director, it may refer the matter back to the bond pricing agency for proposing other names after following the due process;",
-            ">(iv) unless provided otherwise, the term of the independent directors so appointed shall be the same as that of the other directors;",
-            ">(v) an independent director may resign or be removed by the board of the Commission if such person fails to comply with the fit and",
-            "proper criteria:",
-            "Provided that the Commission may after affording an opportunity of being heard and by speaking order direct the bond pricing agency to remove an independent director from office if the Commission considers it appropriate to do so in the public considers it interest or in interest of capital market; and",
-            ">(vi) any vacant position of an independent director shall be filled in the similar manner as provided for initial appointment of an independent director;",
-            ">(c) ensure that at least one independent director shall be present in the meeting of board of directors of the bond pricing agency to constitute the quorum;",
-            ">(d) maintain development consultancy agreement or technical collaboration with a foreign counterpart mentioned in clause (i) of rule 5 for at least the first three years of operations as a bond pricing agency;",
-            ">(e) after completion of the three years period, the bond pricing agency may, with prior approval of the Commission, continue operations without a development consultancy agreement or technical collaboration with a foreign counterpart, provided that it has completed the transfer of technology, training of personnel involved in the bond pricing process, development of pricing methodologies etc. and has developed the capability to handle the bond pricing process without any technical support to the satisfaction of the Commission:",
-            "Provided that the Commission may require the bond pricing agency to maintain technical collaboration with a foreign counterpart for such further period and subject to such terms of arrangements as the Commission deems appropriate;",
-            ">(f) at all times maintain an indemnity insurance coverage of not less than fifty million rupees to cover the risks from its operations as a bond pricing agency;",
-            ">(g) at all times maintain its independence and objectivity in pricing of bonds;",
-            ">(h) ensure full independence of its operations from any internal or external influence and there must be clear segregation between operational resources, the management and shareholders of the bond pricing agency;",
-            ">(i) not allow any changes in or transfer of its shares without prior approval of the Commission;",
-            ">(j) ensure that any amendments in its memorandum of association or",
-            "articles of association, except increase in the authorized share capital, shall be made with prior approval of the Commission;",
-            ">(k) at all times comply with the foliowing operational requirements, namely:-",
-            ">(i) it must maintain the bond pricing data and facilities with adequate security, system capacity and contingency arrangements; (ii) it must maintain and preserve full record of its operations including audit trails of its bond pricing, due process and activity for each bond priced during the tenure of the bond and for at least ten years after such bond matures or, in case of any eventuality, for such period of time till the issue is resolved; and",
-            ">(iii) it must undertake to disclose, to the extent possible, the broad • description and salient features of its pricing methodologies to its customers.",
-            "(1) at all times observethe following during the bond pricing process, namely:-",
-            ">(i) relevant data should be obtained from reliable sources in determining the fair prices of bonds. In particular, the data on transaction price must be obtained directly or indirectly from a centralized trading platform or trade reporting system as approved by the Commission;",
-            ">(ii) where a credit rating company is a shareholder in the bond pricing agency, the bond pricing agency must only use publicly available credit information in arriving at the fair prices for bond issues rated by that credit rating company; issues rated by that credit rating company;",
-            ">(iii) the bond pricing agency must formulate sound and well-",
-            "established pricing methodologies for bond pricing and apply these methodologies consistently; and",
-            ">(iv) the bond pricing agency must endeavor to seek feedback from its subscribers and to conduct external verification by a group of selected financial institutions daily before publishing the fair prices for bonds. A bond pricing agency shall retain the discretion to incorporate the feedback in arriving at the final prices for the bond issues.",
-            ">(m) ensure that, during the first four years from the commencement of its operations as a bond pricing agency, its systems, technology infrastructure, pricing methodologies and pricing for bonds undergo a technical audit every two years, by an independent and competent firm approved by the Commission to inter alia verify the adequacy• of systems and technology infrastructurc, security of information, integrity of the pricing process, accuracy, relevance, price change lag, performance, tracking and errors in the pricings and the reports of such audit shall also be submitted directly to the Commission:",
-            "Provided that after four years from commencement of operations, the bond pricing agency shall ensure that it undergoes such technical audit every year;",
-            ">(n) take immediate steps to rectify shortcomings, if any, identified in such audit referred to in clause (m) and report progress made thereon to the Commission;",
-            ">(o) review and improve. its pricing methodologies on a recurrent basis in line with local and international best practices;",
-            ">(p) on regular basis, provide fair prices for all such bonds as notified by the Commission;",
-            ">(q) charge a reasonable amount of fees for its bond pricing services:",
-            "Provided that the quantum of fees shall be proportionate to ths costs involved in setting up and operating its bond pricing services:",
-            "reasons to be recorded in writing, direct the bond pricing agency to revise the fee by such amount as deemed appropriate by the Commission;",
-            ">(r) ensure that it obtains prior approval of the Commission before providing any other services and such services shall not be in conflict with its principal role of providing bond pricing services:",
-            "Provided that the bond pricing agency must distinguish the fee chargeable on bond pricing services from its other services;",
-            ">(s) develop and maintain a code of conduct and ethics to uphold professionalism and to prevent any potential conflict of interest arising from its operations and such code of conduct and ethics shall be made publicly available and the bond pricing agency must ensure compliance with the same at all times;",
-            ">(t) immediately notify the Commission with relevant information upon occurrence of any of the following events, namely:-",
-            ">(i) material event or change that affects its operations;",
-            ">(ii) change in fees for its bond pricing services; and",
-            ">(iii) change of directors on its board;",
-            ">(u) be obligated to provide such documents, information or explanation relating to its affairs, as the Commission may require in writing;",
-            ">(v) not provide false or misleading information to the Commission;",
-            ">(w) develop andsupport an ongoing market pricing review process that allows users of its pricing to raise an objection about the price quote with supporting information:",
-            "Provided that the final decision on the price shall rest with the bond pricing agency, who would be responsible for ensuring that such disputes are resolved by sharing relevant pricing information about a bond with market participants;",
-            ">(x) follow the code of corporate governance applicable on listed companies to the extent practical; (y) from time to time conduct awareness sessions in order to inform the market participants regarding the bond pricing process; and",
-            ">(z) make adequate disclosures on its website, maintained and updated at all times, which shall inter alia include the following, namely:-",
-            ">(i) shareholding structure and information regarding the board of directors and key personnel of the bond pricing agency;",
-            ">(ii) brief description of the pricing methodologies used for pricing of bonds;",
-            ">(iii) sources used in determining the fair prices of bonds;",
-            ">(iv) the fee charged for its bond pricing services;",
-            ">(v) key features of the development consultancy agreement or",
-            "technical collaboration, whichever is applicable, with a foreign counterpart;",
-            ">(vi) code of conduct and ethics;",
-            ">(vii) details of services provided; (vili) annual audited financial statements, along with the auditor's report, for every year within four months after the end of each financial year; and",
-            ">(ix) any other information as may be required by the Commission"
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Appointment of chief executive officer",
-          "text": [
-            "(1) The appointment, renewal of appointment and termination of services of the chief executive officer of the bond pricing agency shall be made with the prior written approval of the Commission and for this purpose the term \"removal and or termination\" shall include non-renewal of contract.",
-            "(2) The board of directors of the bond pricing agency shall determine the manner of appointment, terms and conditions of appointment and other procedural formalities associated with the selection and appointment of the chief executive officer."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Appointment of compliance officer",
-          "text": [
-            "(1) The bond pricing agency shall appoint a compliance officer.",
-            "(2) The appointment, renewal of appointment and termination of services of the compliance officer of the bond pricing agency shall be made with the prior written approval of the Commission and for this purpose the term \"removal\" and or \"termination\" shall include non-renewal of contract.",
-            "(3) The compliance officer shall be a dedicated position who shall be responsible for monitoring compliance of the bond pricing agency with the Securities Act, these rules, other relevant laws and any directives issued by the Commission from time to time and develop a system for checking on a regular basis that bond prices are calculated in accordance with the pricing methodologies of the bond pricing agency.",
-            "(4) The compliance officer shall have functional reporting to the board of directors of the bond pricing agency and shall immediately report to the board of directors any significant non-compliance observed. The board of directors of the bond pricing agency shall be responsible to address such non-compliance:",
-            "Provided that where a compliance officer is convinced that the matter also needs immediate attention of the Commission, he may simultaneously report to the Commission stating the reasons for such simultaneous reporting.",
-            "(5) In case no action is taken by the board of directors within a reasonable time period or the compliance officer is of the view that the action taken by the board of directors is insufficient, he shall forthwith report the matter to the Commission.",
-            "(6) The compliance officer shall submit a comprehensive report on quarterly basis to the board of directors regarding matters reported during the respective quarter, the corrective actions taken and their status.",
-            "(7) The board of directors of the bond pricing agency shall put in place necessary arrangements to ensure that the compliance officer performs his functions in a transparent, equitable and timely manner."
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Submission of annual report, other information and returns",
-          "text": [
-            "(1) A bond pricing agency shall submit an annual report to the Commission within four months of the close of financial year.",
-            "(2) The Commission may by written notice require a bond pricing agency to submit to it such periodic returns as it may direct. 20:7 (3) In addition to any periodic returns required under sub-rule (2), the = Commission may by written notice require a bond pricing agency, either generally or in a particular case or class of cases, to submit to it sucl other generally or in a particular case or class of cases, to submit to it sucl other å information or exceptional returns as it may direct.",
-            "Chapter IV Disciplinary Proceedings"
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Restriction or suspension of licence, etc",
-          "text": [
-            "(1) Where a bond pricing agency fails to discharge its functions in accordance with the Securities Act or these rules or fails to comply with or contravenes any provisions of the Securities Act, these rules or any directive issued or order passed by the Commission or otherwise fails to carry on its business in the interest of the capital market or provides false or misleading information to the Commission, the Commission, after providing opportunity of hearing to the bond pricing agency, may-",
-            ">(a) impose a restriction on its activities as bond pricing agency; or",
-            ">(b) suspend its licence.",
-            "(2) A bond pricing agency whose licence has been suspended shall not carry on a business of bond pricing agency or hold itself out as carrying out such business during the period of suspension and remove the cause of suspension within a period of ninety days from the receipt of the suspension order or such period as provided through the order of suspension.",
-            "(3) The Commission, while imposing restrictions or suspending the licence of the bond pricing agency, may impose such conditions, as it deems appropriate."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Cancellation of licence",
-          "text": [
-            "(1) The Commission, after providing a reasonable opportunity of hearing, may cancel the licence of bond pricing agency if,-",
-            ">(a) in the opinion of the Commission, the bond pricing agency has been in violation of restriction imposed under rule 14; or",
-            ">(b) it is found guilty of fraud; or",
-            ">(c) its licence has been suspended and the cause of suspension has not been removed within ninety days from the receipt of suspension order or such earlier period as provided through the order of suspension; or",
-            ">(d) it refuses or fails to pay the penalty, if any, imposed by the Commission;",
-            "or",
-            ">(e) it refuses or fails to apply for renewal of its license within the time provided in rule 8.",
-            "(2) The Commission, while cancelling the licence of bond pricing agency, may take such measures and issue such directions as it deems appropriate, in the interest of the market and not inconsistent with the Securities Act and the Companies Act.",
-            "(3) The licence of a bond pricing agency shall stand automatically cancelled, if such bond pricing agency-",
-            ">(a) voluntarily surrenders its licence to the Commission; or",
-            ">(b) is declared insolvent by a court of law; or",
-            ">(c) is wound up voluntarily or by an order passed by a court of law;",
-            "(4) Upon cancellation of the licence, the bond pricing agency shall with immediate effect cease to perform its functions as a bond pricing agency and protect and transfer all documents, information, data, etc. maintained in any form, to any such organization as directed by the Commission."
-          ]
-        },
-        {
-          "no": "16",
-          "title": "Dissemination of information of cancellation of licence",
-          "text": [
-            "The Commission may, for information of stakeholders, publish press release of its order of cancellation of licence of a bond pricing agency in at least two newspapers of wide circulation in Pakistan and place the order of cancellation of licence at its official website."
-          ]
-        },
-        {
-          "no": "17",
-          "title": "Power of the Commission to give directives",
-          "text": [
-            "(1) The Commission may, if satisfied that it is necessary or expedient so to do in the public interest or. in the interest of the capital market, by order in writing give directions to a bond pricing agency not inconsistent with the Securities Act and the Companies Act.",
-            "(2) The Commission may, on representation made to it or on its own motion modify or cancel any direction issued under sub-rule (1), and in so modifying or canceling any direction may impose such conditions as it thinks fit.",
-            "Chapter V Advisory Committee"
-          ]
-        },
-        {
-          "no": "18",
-          "title": "Constitution of an advisory committee",
-          "text": [
-            "The Commission may constitute an advisory committee comprising of officers of the Commission, the State Bank of Pakistan and market experts to advise and recommend to the Commission on matters relating to the bond pricing agency business determined by the Commission from time to time, which may inter alia include, (a) policies and procedures of the bond pricing agency;",
-            ">(b) pricing methodologies used by the bond pricing agency; and",
-            ">(c) identification of data sources used by the bond pricing agency in determining the fair prices of bonds.",
-            "(2) The advisory committee chall formulate methodology for pricing of Government securities and carry out any changes therein. The methodology or changes therein, as the case may be, shall be submitted to the Commission for obtaining approval of the State Bank of Pakistan and shall be implemented after grant of such approval."
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These rules shall be called the Bond Pricing Agency Rules, 2017.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these rules, unless there is anything repugnant in the subject or context,-",
+      ">(a) “Act” means the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(b) “applicant” means any person who makes application for licence of a bond pricing agency under these rules;",
+      ">(c) “bond” means any debt security, Government and public debt security, participation term certificate or term finance certificate as specified in sub-section (lii) of section 2 of the Securities Act;",
+      ">(d) “bond pricing agency” means a company that regularly provides fair prices for bonds on an independent and objective basis, and is licensed with the Commission in accordance with these rules;",
+      ">(e) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Act;",
+      ">(f) “financial institution” shall have the same meaning as assigned to it in clause (31) of sub-section (1) of section 2 of the Companies Act;",
+      ">(g) “lead investor” means a company which holds at least twenty percent of the paid up capital of the bond pricing agency and takes the lead role in the establishment and management of a bond pricing agency;",
+      ">(h) “senior management officer” for the purposes of these rules shall have the same meaning as assigned to it in clause (lviii) of section 2 of the Securities Act and also includes compliance officer, chief operating officer, chief financial officer, head of internal audit and company secretary, by whatsoever name called; and",
+      ">(i) “Companies Act” means Companies Act, 2017 (XIX of 2017);",
+      ">(j) “Securities Act” means the Securities Act, 2015 (III of 2015).",
+      "(2) Words and expressions used but not defined in these rules shall have the same meaning as have been assigned to them in the Securities Act, 2015 (III of 2015), Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) and the Companies Act."
+     ]
     }
-  ],
-  "schedules": [
+   ]
+  },
+  {
+   "heading": "Chapter II — Licensing",
+   "sections": [
     {
-      "title": "Schedule-I [See rule 4, 6 and 8] FEES",
-      "text": [
-        "(1) Every applicant shall pay fee as specified below:",
-        ">(i) Permission to apply for licensing Fee: Rs.50,000/-",
-        ">(ii) Licensing Fee: Rs.500,000/-",
-        ">(iii) Renewal Fee: Rs.500,000/- (once every three years)",
-        "(2) Fee prescribed at serial number 1(i) above shall be paid by the applicant at the time of filing application under rule 4.",
-        "(3) Fee prescribed at serial number 1(ii) above shall be paid by the applicant at the time of filing application under rule 6.",
-        "(4) Fee prescribed at serial number 1(iii) above shall be paid at the time of filing application under rule 8.",
-        "(4) All the fees indicated above shall be paid through pay order or demand draft or a Bank Challan in favor of the \"Securities and Exchange Commission of",
-        "Pakistan\"."
-      ]
+     "no": "3",
+     "title": "Prohibition",
+     "page": 3,
+     "text": [
+      "No person shall carry on a business as a bond pricing agency or hold himself out as carrying on such a business unless licensed by the Commission as a bond pricing agency under these rules:",
+      "Provided that the arrangement for pricing of Government securities at the time of commencement of these rules shall continue till such time the Commission, with approval of the State Bank of Pakistan, requires a bond pricing agency licensed under these rules to provide fair prices for Government securities."
+     ]
     },
     {
-      "title": "Schedule-II [See rule 4(2)(c) and 5(f)]",
-      "text": [
-        "Fit and Proper Criteria for the Applicant and its Sponsors, Lead",
-        "Investor, Directors and Senior Management Officers",
-        "APPLICATION AND SCOPE",
-        "This Fit and Proper Criteria is perpetual in nature and its compliance is mandatory.",
-        "All persons subject to the Fit and Proper Criteria must submit any change in the submitted information, including the financial soundness to the company secretary of the bond pricing agency within three business days and the bond pricing agency shall within a period of seven business days report the same to the",
-        "Commission.",
-        "In addition to the applicant and its sponsors and lead investor, eligibility of any person desiring to act as director on the board of directors or senior management officer of a bond pricing agency shall be judged on the basis of the following criteria, which in case of directors, shall be in addition to meeting requirements of the Companies Act relating to eligibility of a director:",
-        ">(a) Financial Soundness and Integrity",
-        ">(i) The person should not have been adjudged as an insolvent or he should not have suspended payment of debts or compounded liabilities with its/his creditors.",
-        ">(ii) The person should not have been convictedby a court of competent jurisdiction as a defaulter in payment of any loan to a financial institution including banking company, a Developmer.c Financial",
-        "Institution or Non- Banking Financial Company.",
-        "(111) The person and companies, firms, sole proprietorship etc. where the person is a chief executive officer, director (other than nominee than director), owner or partner etc., have no overdue payment to any institution, exchange, commodity exchange, clearing company, central depository and/or defaulted in payment of any taxes in the individual capacity or as a proprietary concern or any partnership firm or as director in any private unlisted and listed company.",
-        "Explanation: For the purposes of clause (iii) above, the bond pricing agency shall obtain Credit Information Bureau (CIB) reports to determine any overdue/past due payment of the person to a financial institution. In case of any amount appearing in the overdue column of the latest CIB report, such person shall not be considered fit and proper person except:",
-        ">(a) where such overdue amount is under litigation and the same is also appearing as amount under litigation in CIB report; or",
-        ">(b) no overdue payment is appearing in the overdue column in the subsequent latest CIB report.",
-        "In case of overdue in CIB report, no rejection shall be made unless the person has been provided with an opportunity of making a representation before the Commission.",
-        ">(iv) The person should not have been a director and/or chief executive of any company or body corporate which has defaulted in payment of",
-        "Government duties/taxes/cess or has misused customer/investor assets.",
-        ">(iv) The person should be a tax payer and its/his name should be borne on the Active Tax Payers List regularly published by FBR. Provided that this requirement shall not be applicable in the case of non-resident foreign nationals.",
-        ">(b) Educational Qualification and Experience",
-        ">(i) In case of director, the person should:",
-        ">(a) be a member of a recognized body of professional accountants or possess a graduate degree in finance, accountancy, law, business management, commerce, economics, capital market, information technology and financial services or related disciplines from a university recognized by the Higher Education Commission of",
-        "Pakistan, or equivalent; and",
-        ">(b) have a management or business experience including directorships, of at least seven years at a senior level preferably in the regulated financial services sector and other fields such as law, information technology etc.",
-        "Provided that where a person possesses more than 15 years of experience and knowledge of the capital markets, bond trading, credit rating, or in the areas relating to finance, law, corporate governance, audit, information technology etc. the minimum qualification requirement may be relaxed on case to case basis by the bond pricing agency, with prior approval of the Commission.",
-        ">(ii) In case of chief executive officer, the person should:",
-        ">(a) be a member of a recognized body of professional accountants or possess a post-graduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or other related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent;",
-        "and",
-        ">(b) has served at a senior management position preferably as chief executive officer for a period of five years in any company of a substantial size in the regulated financial services sector; and",
-        ">(c) have demonstrated, through his qualification and experience, the capacity to successfully undertake the cognate responsibilities of the position.",
-        ">(iii) In case of compliance officer, the person should:",
-        ">(a) be a member of a recognized body of professional accountants or a recognized body of corporate or chartered secretaries; or be a law graduate or possess a post-graduate degree in finance, accountancy, business management, commerce, economics, • business capıtal market and financial services or related disciplines from a university recognized by the Higher Education Commission of",
-        "Påkistan,_ or equivalent or a Certified Internal Auditor, or a",
-        "Certified Fraud Examiner; and",
-        ">(b) have preferably served as head of compliance for a period of three years in any other company or have:",
-        "(A) a minimum experience of five years in related functions at the bond pricing agency;",
-        "(B) served as head of finance, audit or other corporate functions for a period of four years in any other company.",
-        ">(iv) In case of chief operating officer, the person should:",
-        ">(a) be a member of a recognized body of professional accountants or possess a post-graduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or other related disciplines from a university recognized by the Higher Education Commission of Pakistan, or equivalent;",
-        "and",
-        ">(b) have a minimum experience of seven years in a senior level managerial position at the bond pricing agency or have served at a senior management position preferably as chief operating officer for a period of five years in any company of a substantial size in the regulated financial services sector; and",
-        ">(c) have demonstrated, through his qualification and experience, the capacity to successfully undertake the cognate responsibılities of the position.",
-        ">(v) In case of chief financial officer, the person should:",
-        ">(a) be a member of a recognized body of professional accountants or possess a postgraduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or related disciplines from a university recognized by the",
-        "Higher Education Commission of Pakistan, or equivalent; and",
-        ">(b) have preferably served as chief financial officer for a period of three years in any company or have a minimum experience of five years in related functions at the bond pricing agency or have served as head of finance, audit, compliance or other corporate functions for a period of four years in any other company.",
-        ">(vi)\" In case of head of internal audit, the person should:",
-        ">(a) be a member of a recognized body of professional accountants or a",
-        "Certified Fraud Examiner; and",
-        ">(b) have preferably served as head of internal audit for a period of three years in any company or have a minimum experience of five years in related functions at the bond pricing agency or have served as head of finance, audit, compliance or other corporate functions for a period of four years in any other company.",
-        ">(vii) In case of company secretary the person should:",
-        ">(a) be a member of a recognized body of professional accountants or a recognized body of corporate or chartered secretaries; or be a law graduate or possess a post-graduate degree in finance, accountancy, business management, commerce, economics, capital market and financial services or related disciplines from a university recognized by the Higher Education Commission of",
-        "Pakistan, or equivalent; and",
-        ">(b) have preferably served as company secretary for a period of three years in any company or have a minimum experience of five years in related functions at the bond pricing agency or have served as head of finance, audit, compliance or other corporate functions for a period of four years in any other company.",
-        ">(viii) In case of sponsors and lead investor, such person should have an established and proven track record of successfully running a business enterprise for 3 to 5 years.",
-        ">(ix) The person must be fully conversant with the duties of director or senior management officer, as the case may be, as specified under the statutes, rules and regulations, memorandum and articles of association.",
-        ">(c) Competency",
-        ">(i) Membership or registration of the person or any company in which he was a director during the last five years has not been suspended or cancelled on disciplinary grounds by the Commission, any other regulatory authority, any professional body, association or relevant entity:",
-        "Provided that eligibility of a person may be considered on the basis of prior clearance obtained from any such organization that suspended or cancelled the membership or registration.",
-        ">(ii) No proceedings are pending with respect to the applicant's winding up, insolvency or analogous relief.",
-        ">(iv)",
-        ">(iv) The person should not have been disqualified or removed from the post of a key executive position of a company by the Commission or any other regulatory authority.",
-        ">(c) Integrity, Honesty and Reputation",
-        ">(i) The person should not have been convicted in any criminal offence or directly involved in any settlement in civil or criminal proceedings in a court of law, particularly with regard to moral turpitude, investments, financial or business misconduct, fraud or forgery, breach of trust, financial crime etc. and/ or it has not been concluded by any regulatory authority that he has been associated with any unauthorized financial activity including illegal brokerage business.",
-        ">(ii) The person is not a party in litigation against the Commission in respect of any criminal offence or a matter relating to non-payment of customer claims or in any other manner prejudicial to the interest of customers and general public.",
-        ">(iii) No investigation or enquiry, conducted under Section 139 of the",
-        "Securities Act, 2015, Section 29 of the Securities and Exchange",
-        "Commission of Pakistan Act, 1997, Section 21 of the Securities and",
-        "Exchange Ordinance, 1969, Section 256 or Section 257 of the Companies",
-        "Act has been concluded against him by the Commission with material adverse findings.",
-        ">(iv) The person has not defaulted on settlement of a customer complaint where such complaint has been adjudicated by the Commission or the securities exchange.",
-        ">(v) An order restraining, prohibiting or debarring him from dealing in securities market or from accessing the capital market has not been passed; or penalty of rupees five hundred thousand or more has not been imposed on him by the Commission in the last three years, in respect of any laws administered by the Commission.",
-        "Provided that a person may be considered eligible in case a period of at least three years from the date of expiry of the period specified in the order for which such person has been restrained, prohibited or debarred has elapsed.",
-        ">(vi) The person should not have provided false or misleading information either to the Commission or to any other regulatory body including securities exchange, central depository or a clearing house.",
-        ">(vii) The person should not have been actively involved in the management of a company whose registration or license has been revoked or cancelled or which has gone into liquidation or other similar proceedings due to financial irregularities or malpractices.",
-        ">(viii) The person must not be ineligible, under the Companies Act or any other legislation from acting as a director or senior management officer.",
-        ">(ix) The person should not have entered into a plea bargain arrangement with the National Accountability Bureau.",
-        ">(x) In case of sponsors and lead investor, their majority shareholders, and directors have proven track record of regulatory compliance with no major disciplinary action taken and any adverse comment provided by the relevant regulatory authority.",
-        ">(e) Additional Criteria for Independent Directors",
-        ">(i) The person has no relationship with the bond pricing agency that would interfere with him exercising independent professional judgment as a director and he can be reasonably perceived as being able to exercise independent business judgment without being subservient to. any"
-      ]
+     "no": "4",
+     "title": "Permission to apply for licence",
+     "page": 3,
+     "text": [
+      "(1) Any company desirous of forming a bond pricing agency and willing to act as its lead investor shall make an application to the Commission as set out in Form-A along with information, as provided in Annexure I, along with all the relevant documents as may be required by the Commission and receipt evidencing the payment of non-refundable processing fee as set out in Schedule-I which may be amended by the Commission from time to time.",
+      "(2) The Commission may, if it is satisfied that,-",
+      ">(a) the person seeking permission to form a bond pricing agency has the capacity to establish a bond pricing agency;",
+      ">(b) the person is in compliance with these rules;",
+      ">(c) the sponsors, lead investor, proposed chief executive officer and proposed directors fulfill the fit and proper criteria as provided in Schedule-II:",
+      "Provided that while evaluating fit and proper criteria in respect of corporate sponsors or consortium of companies, the fit and proper criteria shall also be applied to the extent practical on the majority shareholders and directors of such sponsors; and",
+      ">(d) it is in the interest of the public and the capital market, by an order in writing grant permission to such person to incorporate a public company for the purpose of obtaining licence as a bond pricing agency under these rules.",
+      "(3) The permission granted under sub-rule (2) shall be valid for a period of six months unless extended for a maximum period of three months under special circumstances, on the application of the lead investor made before the expiry of said six months:",
+      "Provided that during validity of the permission granted under sub-rule (3), the lead investor shall incorporate a public company under the Companies Act and such company shall, within the above time period, apply for a licence under these rules."
+     ]
     },
     {
-      "title": "apparent form of interference",
-      "text": [
-        ">(ii) The person should not be a director, officer, sponsor or shareholder of a financial institution or credit rating company.",
-        ">(iii) The person's family member is also not a director, officer or sponsor of a financial institution or credit rating company, and/ or the combined the combined shareholding of the family members in any financial institution or credit rating company is not equal to or exceed ten percent of the issued share capital of such financial institution or credit rating company.",
-        ">(iv) It shall be mandatory to disclose any bonds held in such person's name or in the name of his family member or in the name of an entity being managed or controlled by him or his family member to the bond pricing agency and the Commission:",
-        "(A) at the time of submission of initial information; and (B) on quarterly basis for the respective period.",
-        ">(v) The person shall have no personal services contract(s) and shall not be currently serving as an employee and has not been employed at any position of the bond pricing agency within the past two years.",
-        ">(vi) The person shall not simultaneously be serving as a director on the board of more than seven listed companies.",
-        "Note:",
-        "• All directors must inform the bond pricing agency of any change in the submitted information that mạy potentially affect their status of directorship, within 48 hours of knowledge of such change.",
-        "• In case of any ambiguity in determination of fitness and propriety of a person in terms of this criteria, the decision of the Commission shall be final and binding upon the bond pricing agency.",
-        "Along-with the application for licence as a bond pricing agency and on subsequent appointment;",
-        "the applicant's directors and senior management officers shall submit the following duly filled form and affidavit; and",
-        "• o the authorized person on behalf of the applicant and authorized person on behalf of the sponsors shall submit the following duly filled affidavit.",
-        "Form of information to be provided by persons desiring prospective directorship on the board or a senior management officer of the bond pricing agency",
-        "1. Curriculum Vitae/Resume containing:",
-        ">(a) Name:",
-        ">(b) Father's or Husband Name:",
-        ">(c) C.N.I.C # (attach copy)",
-        ">(d) Latest photograph",
-        ">(e) Nationality:",
-        ">(f) Age:",
-        ">(g) Contact details:",
-        "i) Residential address:",
-        "ii) Business address:",
-        "iiii) Tel:",
-        "iv) Mobile:",
-        "v) Fax:",
-        "vi) E-mail:",
-        ">(h) National Tax Number:",
-        ">(i) Present occupation:",
-        ">(j) Qualification(s):",
-        "i) Academic:",
-        "ii) Professional:",
-        ">(k) Experience: (Positions held during the last 10 years along with name and address of company/ institution) Information to be provided on the following sample format*:",
-        "Sr#. Name of Organization Designation Period",
-        "1 Company A dd/mm/yy - dd/mm/yy",
-        "2 Company B dd/mm/yy - dd/mm/yy",
-        "2. In case of proposed director,",
-        "1. Nature of directorship:",
-        "Executive Non-executive",
-        "2. Status of directorship:",
-        "Independent director Shareholder director",
-        "Number of shares subscribed or held",
-        "Nominated by (name of shareholder)",
-        "3. In case of proposed director,",
-        "Names of companies, firms and other organizations of which the proposed person is presently a director, partner, office holder or major shareholder (Information to be provided on the following sample format*)",
-        "Sr# Name of Organization Designation Period",
-        "1 Company A dd/mm/yy - dd/mm/yy",
-        "2 Company B dd/mm/yy - dd/mm/yy",
-        "4. In the case of nomination of director by a shareholder the date of board of directors' meeting in which the nomination of proposed director was approved. (Attach copy of the minutes of the meeting of the board of directors.)",
-        "5. Names of any persons on the board of the bond pricing who are related to the applicant.",
-        "Signature",
-        "*use additional sheets if required",
-        "Affidavit to be provided by the applicant, sponsors, lead investor, directors and senior management officers of the applicant (On Stamp Paper of Appropriate Value)",
-        "AFFIDAVIT (name of bond pricing agency)",
-        "A. In case of an individual in his/her own capacity:",
-        "I, _son/daughter/wifeof adult, resident of and holding",
-        "CNIC/ Passport No. do hereby state on solemn affirmation as under:-",
-        "1. That I am eligible for the position of director/senior management officer of the ...(name of bond pricing agency).... according to the fit and proper criteria specified for the position of directors/senior management officers of a bond pricing agency, as per the Bond Pricing Agency Rules, 2017.",
-        "2. That I and the companies, firms, sole proprietorship etc. where I am a chief executive officer, director (other than nominee director), owner or partner etc. has no overdue payment to any financial institution.",
-        "3. That I hereby confirm that the statements made and the information given by me are correct and that there are no facts which have been concealed.",
-        "4. That I have no objection if ...( name of bond pricing agency)..... or the",
-        "Commission requests or obtains information about me from any third party.",
-        "5. That I undertake to bring to the attention of the ...( name of bond pricing agency)..... any matter which may potentially affect my status for the position of director/senior management officer as per the fit and proper criteria specified in the Bond Pricing Agency Rules, 2017.",
-        "6. That all the documents provided to ...( name of bond pricing agency)....., are true copies of the originals and I have compared the copies with their copies with their respective originals and certify them to be true copies thereof.",
-        "7. That I will comply with any other condition as may be specified by the",
-        "Commission.",
-        "B. In case of an individual as authorized person on behalf of sponsor and lead investor:",
-        "I, son/daughter/wife of adult, resident of ana holding CNIC/",
-        "Passport No. on behalf of ....(name of institution)..... being sponsor/lead investor of the ...( name of bond pricing agency)..... do hereby state on solemn affirmation as under:-",
-        "1. That ....(name of the institution)..... is eligible for being sponsor/lead investor of the ....(name of bond pricing agency)..... according to the fit and proper criteria specified as per the Bond Pricing Agency Rules, 2017.",
-        "2. That ......(name of the institution)....., and the companies, firms, sole proprietorship etc. associated with ......(name of the institution)....., have no overdue payment to any financial institution.",
-        "That I hereby confirm that the statements made and the information given by me are correct and that there are no facts which have been concealed.",
-        "4. That .(name of the institution)..... has no objection if the ..(name of bond pricing agency).. or the Commission requests or obtains information about .. .(name of the institution)..... from any third party.",
-        "5. That I undertake, on behalf of. ....(name of the institution)..... that",
-        "..(name of the institution)..... will brine to the attention of the ...(name ... (name of bond pricing agency).... any matter which may potentially affect its status as sponsor/lead investor of the ... (name of bond pricing agency).... as per the fit and proper criteria specified in the Bond Pricing Agency Rules, 2017.",
-        "6. That all the documents provided to ....(name of bond pricing agency).... are true copies of the originals and I have compared the copies with their respective originals and certify them to be true copies thereof.",
-        "C. In case of an individual as authorized person on behalf of applicant:",
-        "son/daughter/wife of adult,.",
-        "resident of and holding CNIC/",
-        "Passport No. , on behalf of .....name of the applicant)..... do hereby state on solemn affirmation as under:-",
-        "1. That ...(name of the applicant)..... is eligible for applying for licence as a bond pricing agency as per the Bond Pricing Agency Rules, 2017.",
-        "2. That ....(name of the applicant)......, •, and the companies, firms, sole proprietorship etc. associated with ......(name of the applicant)..., have no overdue payment to any financial institution.",
-        "3. That I hereby confirm that the statements made and the information given by me are correct and that there are no facts which have been concealed.",
-        "4. That ........(name of the applicant)..... has no objection if the Commission requests or obtains information about .......(name of the applicant)..... from any third party.",
-        "5. That I undertake, on behalf of ... ...(name of the applicant)..... that",
-        ".......name of the applicant)..... will bring to the attention of the",
-        "Commission any matter which may potentially affect its status as a bond per the licencing conditions and fit and proper criteria specified in the Bond Pricing Agency Rules, 2017.",
-        "6. That all the documents provided by ....(name of applicant).... are true copies of the originals and I have compared the copies with their respective originals and certify them to be true copies thereof.",
-        "7. That the .......(name of the applicant)..... will comply with any other condition as may be specified by the Commission.",
-        "DEPONENT",
-        "The Deponent is identified by me",
-        "Signature.",
-        "ADVOCATE (Name and Seal)",
-        "Solemnly affirmed before me on this day of at by the Deponent above named who is identified to me by",
-        "_, Advocate, who is known to me personally.",
-        "Signature",
-        "OATH COMMISSIONER FOR TAKING AFFIDAVIT"
-      ]
+     "no": "5",
+     "title": "Eligibility criteria for licensing",
+     "page": 4,
+     "text": [
+      "A person may apply to the Commission for a licence under these rules if such person is authorized by its memorandum of association to carry on the business of bond pricing agency and,-",
+      ">(a) is incorporated as a public company under the Companies Act and its lead investor has obtained prior permission under rule 4;",
+      ">(b) has a paid-up capital of not less than fifty million rupees;",
+      ">(c) has a shareholding structure which complies with the following conditions, namely:-",
+      ">>(i) the lead investor may hold not less than twenty percent and not more than forty percent of the applicant’s paid-up capital:",
+      "Provided that a consortium of companies may act as lead investor with their combined shareholding not exceeding sixty percent of the applicant’s paid-up capital and any one company from the consortium must comply with the shareholding requirements applicable to the lead investor under these rules:",
+      "Provided further that the lead investor shall not be a financial institution, insurance company or a credit rating company;",
+      ">>(ii) any other person may directly or indirectly hold not more than ten percent of the applicant’s paid-up capital;",
+      ">>(iii) combined shareholding of individuals shall not exceed twenty percent of the applicant’s paid-up capital;",
+      ">(d) its sponsors are, in the opinion of the Commission, persons of means and integrity and have adequate knowledge of matters which the applicant may have to deal with as a bond pricing agency;",
+      ">(e) its board of directors is constituted in compliance with the following requirements, namely:-",
+      ">>(i) it shall have a minimum of seven directors on its board, including the chief executive officer;",
+      ">>(ii) the board shall not have any executive directors other than the chief executive officer who does not hold such office in any other company;",
+      "Explanation.- For the purposes of this clause the term “executive directors” means paid executives of the company.",
+      ">>(iii) at least one-third of the board shall comprise of independent directors appointed in the manner specified in clause (b) of rule 10;",
+      "Explanation.- For the purposes of this clause, the term \"independent director\" means a director who is not connected or does not have any other relationship, whether pecuniary or otherwise with the applicant, its associated companies, subsidiaries, holding company or directors. The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgment without being subservient to any form of conflict of interest:",
+      "Provided that without prejudice to the generality of this explanation no director shall be considered independent if one or more of the following circumstances exist, namely:-",
+      ">>>(A) he has been an employee of the applicant, any of its subsidiaries or holding company within the last three years;",
+      ">>>(B) he is or has been the chief executive officer of subsidiaries, associated company, associated undertaking or holding company in the last three years;",
+      ">>>(C) he has or has had within the last three years a material business relationship with the applicant either directly or indirectly as a partner, substantial shareholder or director of a body that has such a relationship with the applicant;",
+      ">>>(D) he has received remuneration in the three years preceding his appointment as a director or receives additional remuneration, excluding retirement benefits from the applicant apart from a director’s fee or has participated in the applicant’s share option or a performance-related pay scheme;",
+      ">>>(E) he is a close relative of the applicant’s sponsors, directors or major shareholders;",
+      "Explanation.- close relative means spouses, lineal ascendants and descendants and siblings;",
+      ">>>(F) he holds cross-directorships or has significant links with other directors through involvement in other companies or bodies;",
+      ">>>(G) he has served on the board for more than three consecutive terms from the date of his first appointment, provided that such person shall be deemed “independent director” after a lapse of one term:",
+      "Provided further that any person nominated as a director under sections 164 and 165 of the Companies Act shall not be taken to be an \"independent director\" for the above-mentioned purposes:",
+      "Provided also that in case of any ambiguity in determining independence of a person for the purposes of these rules, the decision of the Commission shall be final and binding upon the applicant;",
+      ">>(iv) the chairman of the board of directors shall be from amongst independent directors;",
+      ">(f) the applicant and its lead investor, sponsors, directors and senior management officers are in compliance with the “fit and proper” criteria as provided in Schedule-II;",
+      ">(g) it has employed or has made arrangements to employ before commencement of operations as a bond pricing agency, at least two qualified bond pricing specialists with at least five years of relevant working experience each in either bond trading or in areas related to bond pricing;",
+      ">(h) it has procedures in place, approved by its board of directors, to ensure that there is clear segregation between operations of the applicant relating to the bond pricing process and the shareholders, directors, management and business aspect of the applicant;",
+      ">(i) has technical collaboration or a development consultancy agreement with a foreign counterpart functioning as a recognized or authorized bond pricing agency in such jurisdiction for at least five years by whatsoever name called and the terms of the arrangement with such foreign counterpart should inter alia include assistance in setting up of the applicant as a bond pricing agency, technology sharing or development, training of personnel involved in the bond pricing process, development of pricing methodologies, etc.; and",
+      ">(j) it complies with any other conditions as may be notified by the Commission in the official Gazette in accordance with the applicable law."
+     ]
     },
     {
-      "title": "Annexure T' to Form-A [See rule 4(1)]",
-      "text": [
-        "Information to be provided with form of application for permission to apply for licence of a Bond Pricing Agency.",
-        "Sr. Particulars Details",
-        "No. (Attach requisite information where applicable)",
-        "1. (i) Name, business address, national tax number and the nature of present business of the proposed lead investor.",
-        ">(ii) Particulars containing financials, business details and experience of the lead investor.",
-        "2. Names and addresses of proposed directors, proposed Chairman and proposed Chief Executive Officer.",
-        "3. Names and addresses of companies, firms and other organizations of which the aforesaid proposed chief executive and proposed chairman are or have been directors, partners or office holders during the last ten years.",
-        "4. Proposed shareholding structure",
-        "Name of Percentage of",
-        "Shareholder Shareholding",
-        "5. Financials:",
-        ">(i) proposed authorised capital",
-        ">(ii) proposed paid-up capital",
-        ">(iii) proposed equity",
-        ">(iv) 5 years projections of financial statements",
-        "6. Previous experience of the lead investor/proposed directors with bond pricing or related services.",
-        "7. Previoas experience of the proposed chief executive officer.",
-        "8. development consultancy agreement or technical collaboration with a foreign counterpart functioning as a bond pricing agency in such jurisdiction by whatsoever name called and a draft of such an agreement and documentary evidence in respect thereof.",
-        "9. Other services proposed to be offered along with details.",
-        "10. Names, addresses, qualification and experience of proposed bond pricing specialists.",
-        "11. Details of essential systems, pricing methodologies, technical expertise, data, industry feedback, external verification, internal procedures, security arrangements, contingency plans etc.",
-        "proposed to be put in place by the bond pricing agency.",
-        "12. Whether any of the proposed lead investor or proposed directors has been convicted of fraud or breach of trust.",
-        "13. Whether any of the proposed lead investor or proposed directors has been adjudicated as insolvent.",
-        "14. Any other relevant information to support ......",
-        "the application.",
-        "Note :- An affidavit shall, from each lead investor and director in respect of statement at serial Nos. 12 and 13, be submitted."
-      ]
+     "no": "6",
+     "title": "Application and procedure for licensing",
+     "page": 8,
+     "text": [
+      "(1) An application for licence of a bond pricing agency shall be made to the Commission in Form-I along with all documents specified in Annexure A, affidavit in Annexure B and receipt evidencing payment of non-refundable fee of such amount as set out in Schedule-I which may be amended by the Commission from time to time.",
+      "(2) The Commission, while considering the application for licensing, may require the applicant to furnish such further information or clarification regarding its activities and businesses as it deems appropriate.",
+      "(3) Any subsequent change in the information provided to the Commission at the time of filing of application under sub-rule (1) shall be intimated to the Commission within five working days from the date of such change.",
+      "(4) The applicant shall, if so required, appear before the Commission for a representation through a person duly authorized for this purpose in writing by the board of directors of the applicant."
+     ]
     },
     {
-      "title": "Annexure 'A' to Form-I [See rule 6(1)]",
-      "text": [
-        "Information to be provided with form of application for licensing as a Bond",
-        "Pricing Agency.",
-        "Sr. Particulars Details",
-        "No. (Attach requisite information where applicable)",
-        "1. Name, address, telephone & fax number(s)",
-        "and website address of the applicant.",
-        "2. Date and place of incorporation.",
-        "3. (a) Names and addresses of sharelıolders and directors.",
-        ">(b) Indicate independent or non-independent status of directors as well as Chairman of the",
-        "Board. Also indicate if any director has",
-        "E2 executive status.",
-        ">(c) Particulars containing financials, business details and experience of the sponsors.",
-        "4. Shareholding structure (as at submission date)",
-        "Name of Percentage of",
-        "Shareholder Shareholding",
-        "5. (1) Financials:",
-        ">(a) authorised capital",
-        ">(b) paid-up capital",
-        ">(c) equity",
-        ">(d) 5 year projections of financial statements",
-        "(2) Latest annual report and accounts",
-        "6. Previous experience of the shareholders/directors with bond pricing or related services.",
-        "7. Previous experience of senior management officers.",
-        "8. Details of development consultancy agreement or technical collaboration with a foreign counterpart functioning as a bond pricing agency in such jurisdiction by whatsoever name called and a copy of such an agreement and documentary evidence in.",
-        "respect thereof.",
-        "9. Other services proposed to be offered along with details.",
-        "10. Names, addresses, qualification and experience of bond pricing specialists.",
-        "11. of essential methodologies, technical expertise, data, industry feedback, external verification, internal procedures, security arrangements, contingency plans etc. in place to function as a bond pricing agency.",
-        "12. Copy of procedures which ensure that there is clear segregation between operations of the applicant relating to the bond pricing process and the shareholders, directors, management and business aspect of the applicant.",
-        "13. -Copy of the code of conduct and ethics to be plicable on the bond pricing agency",
-        "14. Whether any shareholder or direcior has been convicted of fraud or breach of trust.",
-        "15. Whether any shareholder or director has been adjudicated as insolvent.",
-        "16. Names, addresses, designations, qualifications and experience details of senior management officers.",
-        "17. Whether any officer or employee has been convicted of fraud or breach of trust.",
-        "18. Whether any senior management officer has been adjudicated as insolvent or has suspended payment or has compounded with his creditors.",
-        "19. Details of fee structure and basis of calculations.",
-        "20. Any other relevant information to support the application.",
-        "Note :- (i) An affidavit shall, from each shareholder and director in respect of statement at serial Nos. 14 and 15, be submitted.",
-        ">(ii) Certification by the proposed chief executive of the company in respect of statement at serial Nos. 17 and 18 shall be submitted."
-      ]
+     "no": "7",
+     "title": "Grant of licence",
+     "page": 9,
+     "text": [
+      "(1) The Commission, while considering the application for granting a licence, made under sub-rule (1) of rule 6, shall, inter alia, take into account the following matters, namely:-",
+      ">(a) the capacity of the applicant to efficiently handle its functions under these rules;",
+      ">(b) that the applicant has the capacity to put in place necessary technology, systems, pricing methodologies, essential data, internal procedures, security arrangements and infrastructure including but not limited to adequate office space, equipment, experienced manpower and technical aspects to effectively and efficiently discharge its responsibilities as a bond pricing agency;",
+      ">(c) earlier refusal, if any, by the Commission for licensing of the applicant as a bond pricing agency;",
+      ">(d) conviction or involvement of its sponsors, directors or employees at the senior management level in an offence involving fraud or breach of trust or an offence of moral turpitude;",
+      ">(e) penal action against the applicant or its directors for an offence under the Act or any other law administered by the Commission;",
+      ">(f) any conflict of interest of the lead investor with the bond pricing services; and",
+      ">(g) any other matter as deemed necessary by the Commission in accordance with the applicable law.",
+      "(2) The Commission may inspect the premises of the applicant to determine whether it fulfills the eligibility conditions and may also require the applicant to submit reports from experts at the expense of the applicant in the manner specified by the Commission to confirm compliance with the Act and these rules including the existence of adequate infrastructure, technical capacity, financial standing and other requisite requirements.",
+      "(3) The Commission may, after conducting such inquiries and after obtaining such further information as it deems appropriate, grant a licence to the applicant in Form-II on being satisfied that the applicant is-",
+      ">(a) eligible for licensing; and",
+      ">(b) in compliance with the requirements of the Securities Act and these rules.",
+      "(4) The licence shall remain valid for a period of three years from the date of licensing unless it is restricted, suspended or cancelled earlier by the Commission.",
+      "(5) The Commission may, while granting a licence, impose such conditions on the applicant as it may deem appropriate."
+     ]
     },
     {
-      "title": "FORM-II [See rule 7(3)] SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN LICENCE BOND PRICING AGENCY",
-      "text": [
-        "The Securities and Exchange Commission of Pakistan, having considered the application made for licence under rule 6 of the Bond Pricing Agency Rules,",
-        "2017 by (Name of the Company) and being satisfied that the said company is eligible for licensing and that it would be in public interest and in the interest of the capital market so to do, hereby grants, in exercise of the powers conferred by",
-        "Rules, subject to the conditions prescribed under the",
-        "Bond Pricing Agency Rules, 2017 or as may be specified or imposed hereafter by the Commission.",
-        "2. The licence number of the bond pricing agency is",
-        "3. This licence is valid up to .",
-        "Dated:",
-        "Place: ISLAMABAD",
-        "By order",
-        "Sd/-",
-        "For and on behalf of",
-        "THE SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN"
-      ]
+     "no": "8",
+     "title": "Renewal of licence",
+     "page": 11,
+     "text": [
+      "(1) A bond pricing agency shall, three months prior to the date of expiry of its licence, apply to the Commission in Form-III for renewal of its licence along with non-refundable renewal fee of such amount as set out in Schedule-I which may be amended by the Commission from time to time and submit such documents as specified in Annexure C and affidavit in Annexure D.",
+      "(2) The Commission upon being satisfied, after making such inquiries and obtaining further information as it deems necessary, that the bond pricing agency continues to meet the requirements for licensing and is eligible for renewal of licence, shall renew the licence of bond pricing agency in Form-IV.",
+      "(3) Where the application for renewal of licence is made within such time as specified in sub-rule (1) but has not been decided by the Commission, the licence shall continue to be valid until the application for renewal is decided by the Commission.",
+      "(4) While granting renewal of licence to the bond pricing agency the Commission may, in addition to the criteria laid down for grant of licence, also take into account the track record of regulatory compliance and past performance of the bond pricing agency and impose such conditions as it deems appropriate."
+     ]
     },
     {
-      "title": "FORM-IV [See rule 8(2)] SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN RENEWAL OF LICENCE BOND PRICING AGENCY",
-      "text": [
-        "The Securities and Exchange Commission of Pakistan having considered the application for renewal of licence under rule 8 of the Bond Pricing Agency Rules,",
-        "2017 by (Name of the bond pricing agency) and being satisfied that it would be in public interest and in the interest of the capital market to renew the licence of (Name of the bond pricing agency) hereby, in exercise of the powers conferred by rule 8 of the Bond Pricing Agency Rules, 2017, renews the licence of the said company subject to the conditions prescribed under the Bond Pricing Agency",
-        "Rules, 2017 or as may be specified or imposed hereafter by the Commission.",
-        "2. This licence is valid up to",
-        "Dated:",
-        "Place: ISLAMABAD",
-        "By order",
-        "Sd/-",
-        "For and on behalf of",
-        "THE SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN"
-      ]
+     "no": "9",
+     "title": "Procedure where licence is not granted or renewed",
+     "page": 11,
+     "text": [
+      "(1) The Commission, after giving a reasonable opportunity of being heard to the applicant or the bond pricing agency, as the case may be, may refuse to grant or renew a licence if in the opinion of the Commission such applicant or the bond pricing agency, as the case may be, does not fulfill the requirements prescribed in these rules.",
+      "(2) The applicant or bond pricing agency, as the case may be, if aggrieved by a decision of the Commission under sub-rule (1) may, within a period of thirty days from the date of receipt of such refusal, apply to the Commission for review of its decision.",
+      "(3) On receipt of the application made under sub-rule (2), the Commission may review its decision and communicate its findings, in writing, to the applicant or bond pricing agency, as the case may be, within sixty days.",
+      "(4) A bond pricing agency whose application for renewal of licence is refused under sub-rule (1) shall, from the date of receipt of the decision of the Commission, immediately cease its business as bond pricing agency and protect and transfer all documents, information, data, etc. maintained in any form, to any such organization as directed by the Commission.",
+      "(5) The Commission while refusing to grant renewal of licence to a bond pricing agency under these rules may take such measures and issue such directions as it deems necessary or expedient so to do in the public interest or in the interest of the capital market including but not limited to completion of its pending assignments, if any, and such directions shall be binding on the bond pricing agency."
+     ]
     }
-  ],
-  "frontNotes": [],
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Chapter III — Duties And Responsibilities Of Bond Pricing Agency",
+   "sections": [
+    {
+     "no": "10",
+     "title": "Obligations of a bond pricing agency",
+     "page": 12,
+     "text": [
+      "A bond pricing agency shall-",
+      ">(a) at all times comply with the conditions for licensing under rule 5, any conditions imposed by the Commission at the time of granting or renewing the licence, the Securities Act, these rules and any directives issued by the Commission.",
+      "Explanation.- Directives issued by the Commission shall be in writing and shall be authenticated in the manner provided in section 22 of the Act;",
+      ">(b) ensure that its independent directors are appointed by the board of directors of the bond pricing agency with the prior approval of the Commission in the following manner:",
+      ">>(i) the bond pricing agency shall maintain a panel of fit and proper persons suitable for appointment of independent directors;",
+      ">>(ii) for each position of independent director, a minimum of two names from the panel maintained under sub-clause (i) shall be submitted by the board of directors of the bond pricing agency to the Commission for its approval. The bond pricing agency shall ensure that such persons are selected from relevant diverse fields of work with appropriate qualification and experience;",
+      ">>(iii) the Commission may, if satisfied that a person is suitable for appointment as independent director grant its approval for the appointment of the selected person by the board of directors of bond pricing agency as independent director:",
+      "Provided that where the Commission is not satisfied regarding the suitability of the proposed persons for appointment as a director, it may refer the matter back to the bond pricing agency for proposing other names after following the due process;",
+      ">>(iv) unless provided otherwise, the term of the independent directors so appointed shall be the same as that of the other directors;",
+      ">>(v) an independent director may resign or be removed by the board of directors of the bond pricing agency with prior written approval of the Commission if such person fails to comply with the fit and proper criteria:",
+      "Provided that the Commission may after affording an opportunity of being heard and by speaking order direct the bond pricing agency to remove an independent director from office if the Commission considers it appropriate to do so in the public interest or in interest of capital market; and",
+      ">>(vi) any vacant position of an independent director shall be filled in the similar manner as provided for initial appointment of an independent director;",
+      ">(c) ensure that at least one independent director shall be present in the meeting of board of directors of the bond pricing agency to constitute the quorum;",
+      ">(d) maintain development consultancy agreement or technical collaboration with a foreign counterpart mentioned in clause (i) of rule 5 for at least the first three years of operations as a bond pricing agency;",
+      ">(e) after completion of the three years period, the bond pricing agency may, with prior approval of the Commission, continue operations without a development consultancy agreement or technical collaboration with a foreign counterpart, provided that it has completed the transfer of technology, training of personnel involved in the bond pricing process, development of pricing methodologies etc. and has developed the capability to handle the bond pricing process without any technical support to the satisfaction of the Commission:",
+      "Provided that the Commission may require the bond pricing agency to maintain technical collaboration with a foreign counterpart for such further period and subject to such terms of arrangements as the Commission deems appropriate;",
+      ">(f) at all times maintain an indemnity insurance coverage of not less than fifty million rupees to cover the risks from its operations as a bond pricing agency;",
+      ">(g) at all times maintain its independence and objectivity in pricing of bonds;",
+      ">(h) ensure full independence of its operations from any internal or external influence and there must be clear segregation between operational resources, the management and shareholders of the bond pricing agency;",
+      ">(i) not allow any changes in or transfer of its shares without prior approval of the Commission;",
+      ">(j) ensure that any amendments in its memorandum of association or articles of association, except increase in the authorized share capital, shall be made with prior approval of the Commission;",
+      ">(k) at all times comply with the following operational requirements, namely:-",
+      ">>(i) it must maintain the bond pricing data and facilities with adequate security, system capacity and contingency arrangements;",
+      ">>(ii) it must maintain and preserve full record of its operations including audit trails of its bond pricing, due process and activity for each bond priced during the tenure of the bond and for at least ten years after such bond matures or, in case of any eventuality, for such period of time till the issue is resolved; and",
+      ">>(iii) it must undertake to disclose, to the extent possible, the broad description and salient features of its pricing methodologies to its customers.",
+      ">(l) at all times observe the following during the bond pricing process, namely:-",
+      ">>(i) relevant data should be obtained from reliable sources in determining the fair prices of bonds. In particular, the data on transaction price must be obtained directly or indirectly from a centralized trading platform or trade reporting system as approved by the Commission;",
+      ">>(ii) where a credit rating company is a shareholder in the bond pricing agency, the bond pricing agency must only use publicly available credit information in arriving at the fair prices for bond issues rated by that credit rating company;",
+      ">>(iii) the bond pricing agency must formulate sound and wellestablished pricing methodologies for bond pricing and apply these methodologies consistently; and",
+      ">>(iv) the bond pricing agency must endeavor to seek feedback from its subscribers and to conduct external verification by a group of selected financial institutions daily before publishing the fair prices for bonds. A bond pricing agency shall retain the discretion to incorporate the feedback in arriving at the final prices for the bond issues.",
+      ">(m) ensure that, during the first four years from the commencement of its operations as a bond pricing agency, its systems, technology infrastructure, pricing methodologies and pricing for bonds undergo a technical audit every two years, by an independent and competent firm approved by the Commission to inter alia verify the adequacy of systems and technology infrastructure, security of information, integrity of the pricing process, accuracy, relevance, price change lag, performance, tracking and errors in the pricings and the reports of such audit shall also be submitted directly to the Commission:",
+      "Provided that after four years from commencement of operations, the bond pricing agency shall ensure that it undergoes such technical audit every year;",
+      ">(n) take immediate steps to rectify shortcomings, if any, identified in such audit referred to in clause (m) and report progress made thereon to the Commission;",
+      ">(o) review and improve its pricing methodologies on a recurrent basis in line with local and international best practices;",
+      ">(p) on regular basis, provide fair prices for all such bonds as notified by the Commission;",
+      ">(q) charge a reasonable amount of fees for its bond pricing services:",
+      "Provided that the quantum of fees shall be proportionate to the costs involved in setting up and operating its bond pricing services:",
+      "Provided further that the Commission may at any time, for reasons to be recorded in writing, direct the bond pricing agency to revise the fee by such amount as deemed appropriate by the Commission;",
+      ">(r) ensure that it obtains prior approval of the Commission before providing any other services and such services shall not be in conflict with its principal role of providing bond pricing services:",
+      "Provided that the bond pricing agency must distinguish the fee chargeable on bond pricing services from its other services;",
+      ">(s) develop and maintain a code of conduct and ethics to uphold professionalism and to prevent any potential conflict of interest arising from its operations and such code of conduct and ethics shall be made publicly available and the bond pricing agency must ensure compliance with the same at all times;",
+      ">(t) immediately notify the Commission with relevant information upon occurrence of any of the following events, namely:-",
+      ">>(i) material event or change that affects its operations;",
+      ">>(ii) change in fees for its bond pricing services; and",
+      ">>(iii) change of directors on its board;",
+      ">(u) be obligated to provide such documents, information or explanation relating to its affairs, as the Commission may require in writing;",
+      ">(v) not provide false or misleading information to the Commission;",
+      ">(w) develop and support an ongoing market pricing review process that allows users of its pricing to raise an objection about the price quote with supporting information:",
+      "Provided that the final decision on the price shall rest with the bond pricing agency, who would be responsible for ensuring that such disputes are resolved by sharing relevant pricing information about a bond with market participants;",
+      ">(x) follow the code of corporate governance applicable on listed companies to the extent practical;",
+      ">(y) from time to time conduct awareness sessions in order to inform the market participants regarding the bond pricing process; and",
+      ">(z) make adequate disclosures on its website, maintained and updated at all times, which shall inter alia include the following, namely:-",
+      ">>(i) shareholding structure and information regarding the board of directors and key personnel of the bond pricing agency;",
+      ">>(ii) brief description of the pricing methodologies used for pricing of bonds;",
+      ">>(iii) sources used in determining the fair prices of bonds;",
+      ">>(iv) the fee charged for its bond pricing services;",
+      ">>(v) key features of the development consultancy agreement or technical collaboration, whichever is applicable, with a foreign counterpart;",
+      ">>(vi) code of conduct and ethics;",
+      ">>(vii) details of services provided;",
+      "(viii) annual audited financial statements, along with the auditor’s report, for every year within four months after the end of each financial year; and",
+      ">>(ix) any other information as may be required by the Commission."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Appointment of chief executive officer",
+     "page": 20,
+     "text": [
+      "(1) The appointment, renewal of appointment and termination of services of the chief executive officer of the bond pricing agency shall be made with the prior written approval of the Commission and for this purpose the term “removal and or termination” shall include non-renewal of contract.",
+      "(2) The board of directors of the bond pricing agency shall determine the manner of appointment, terms and conditions of appointment and other procedural formalities associated with the selection and appointment of the chief executive officer."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Appointment of compliance officer",
+     "page": 20,
+     "text": [
+      "(1) The bond pricing agency shall appoint a compliance officer.",
+      "(2) The appointment, renewal of appointment and termination of services of the compliance officer of the bond pricing agency shall be made with the prior written approval of the Commission and for this purpose the term “removal” and or “termination” shall include non-renewal of contract.",
+      "(3) The compliance officer shall be a dedicated position who shall be responsible for monitoring compliance of the bond pricing agency with the Securities Act, these rules, other relevant laws and any directives issued by the Commission from time to time and develop a system for checking on a regular basis that bond prices are calculated in accordance with the pricing methodologies of the bond pricing agency.",
+      "(4) The compliance officer shall have functional reporting to the board of directors of the bond pricing agency and shall immediately report to the board of directors any significant non-compliance observed. The board of directors of the bond pricing agency shall be responsible to address such non-compliance:",
+      "Provided that where a compliance officer is convinced that the matter also needs immediate attention of the Commission, he may simultaneously report to the Commission stating the reasons for such simultaneous reporting.",
+      "(5) In case no action is taken by the board of directors within a reasonable time period or the compliance officer is of the view that the action taken by the board of directors is insufficient, he shall forthwith report the matter to the Commission.",
+      "(6) The compliance officer shall submit a comprehensive report on quarterly basis to the board of directors regarding matters reported during the respective quarter, the corrective actions taken and their status.",
+      "(7) The board of directors of the bond pricing agency shall put in place necessary arrangements to ensure that the compliance officer performs his functions in a transparent, equitable and timely manner."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Submission of annual report, other information and returns",
+     "page": 21,
+     "text": [
+      "(1) A bond pricing agency shall submit an annual report to the Commission within four months of the close of financial year.",
+      "(2) The Commission may by written notice require a bond pricing agency to submit to it such periodic returns as it may direct.",
+      "(3) In addition to any periodic returns required under sub-rule (2), the Commission may by written notice require a bond pricing agency, either generally or in a particular case or class of cases, to submit to it such other information or exceptional returns as it may direct."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Disciplinary Proceedings",
+   "sections": [
+    {
+     "no": "14",
+     "title": "Restriction or suspension of licence, etc",
+     "page": 22,
+     "text": [
+      "(1) Where a bond pricing agency fails to discharge its functions in accordance with the Securities Act or these rules or fails to comply with or contravenes any provisions of the Securities Act, these rules or any directive issued or order passed by the Commission or otherwise fails to carry on its business in the interest of the capital market or provides false or misleading information to the Commission, the Commission, after providing opportunity of hearing to the bond pricing agency, may-",
+      ">(a) impose a restriction on its activities as bond pricing agency; or",
+      ">(b) suspend its licence.",
+      "(2) A bond pricing agency whose licence has been suspended shall not carry on a business of bond pricing agency or hold itself out as carrying out such business during the period of suspension and remove the cause of suspension within a period of ninety days from the receipt of the suspension order or such period as provided through the order of suspension.",
+      "(3) The Commission, while imposing restrictions or suspending the licence of the bond pricing agency, may impose such conditions, as it deems appropriate."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Cancellation of licence",
+     "page": 22,
+     "text": [
+      "(1) The Commission, after providing a reasonable opportunity of hearing, may cancel the licence of bond pricing agency if,-",
+      ">(a) in the opinion of the Commission, the bond pricing agency has been in violation of restriction imposed under rule 14; or",
+      ">(b) it is found guilty of fraud; or",
+      ">(c) its licence has been suspended and the cause of suspension has not been removed within ninety days from the receipt of suspension order or such earlier period as provided through the order of suspension; or",
+      ">(d) it refuses or fails to pay the penalty, if any, imposed by the Commission; or",
+      ">(e) it refuses or fails to apply for renewal of its license within the time provided in rule 8.",
+      "(2) The Commission, while cancelling the licence of bond pricing agency, may take such measures and issue such directions as it deems appropriate, in the interest of the market and not inconsistent with the Securities Act and the Companies Act.",
+      "(3) The licence of a bond pricing agency shall stand automatically cancelled, if such bond pricing agency-",
+      ">(a) voluntarily surrenders its licence to the Commission; or",
+      ">(b) is declared insolvent by a court of law; or",
+      ">(c) is wound up voluntarily or by an order passed by a court of law;",
+      "(4) Upon cancellation of the licence, the bond pricing agency shall with immediate effect cease to perform its functions as a bond pricing agency and protect and transfer all documents, information, data, etc. maintained in any form, to any such organization as directed by the Commission."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Dissemination of information of cancellation of licence",
+     "page": 23,
+     "text": [
+      "The Commission may, for information of stakeholders, publish press release of its order of cancellation of licence of a bond pricing agency in at least two newspapers of wide circulation in Pakistan and place the order of cancellation of licence at its official website."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Power of the Commission to give directives",
+     "page": 24,
+     "text": [
+      "(1) The Commission may, if satisfied that it is necessary or expedient so to do in the public interest or in the interest of the capital market, by order in writing give directions to a bond pricing agency not inconsistent with the Securities Act and the Companies Act.",
+      "(2) The Commission may, on representation made to it or on its own motion modify or cancel any direction issued under sub-rule (1), and in so modifying or canceling any direction may impose such conditions as it thinks fit."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Advisory Committee",
+   "sections": [
+    {
+     "no": "18",
+     "title": "Constitution of an advisory committee",
+     "page": 24,
+     "text": [
+      "The Commission may constitute an advisory committee comprising of officers of the Commission, the State Bank of Pakistan and market experts to advise and recommend to the Commission on matters relating to the bond pricing agency business as determined by the Commission from time to time, which may inter alia include,",
+      ">(a) policies and procedures of the bond pricing agency;",
+      ">(b) pricing methodologies used by the bond pricing agency; and",
+      ">(c) identification of data sources used by the bond pricing agency in determining the fair prices of bonds.",
+      "(2) The advisory committee shall formulate methodology for pricing of Government securities and carry out any changes therein. The methodology or changes therein, as the case may be, shall be submitted to the Commission for obtaining approval of the State Bank of Pakistan and shall be implemented after grant of such approval."
+     ]
+    }
+   ]
+  }
+ ]
 }

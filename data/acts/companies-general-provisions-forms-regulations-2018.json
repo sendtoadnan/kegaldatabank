@@ -69,99 +69,52 @@
      "page": 2,
      "text": [
       "Pursuant to the provision of section 506 of the Act, formats of following forms and returns are specified which shall be used in all matters to which those forms and returns refer:",
-      "S.No. Name of Description Relevant section Form /regulation",
-      "1. Form A Annual return of company having share capital Section 130(1)",
-      "2. Form B Annual return of company not having share capital Section 130(2)",
-      "3. Form C Annual return of companies in case there is no Section 130(5) change of particulars since last annual return filed with the registrar 4. Form D Annual return of inactive company Sections 130(1) & 424(5) and Regulation 36",
-      "5. Form 1 Receipt of subscription money Section 17(3)",
-      "with Appendix",
-      "6. Form 2 Application for conversion of status of company Sections 46, 47, 48 & 49 and Regulations 11",
-      "7. Form 2A Filing of altered memorandum and articles of Sections 46, 47, association after approval of the commission for 48 & 49 and conversion of status of a Company Regulations 11",
-      "8. Form 3 Return of allotments of shares Section 70 and Regulation 12 with",
-      "Appendix",
-      "9. Form 3A Change of more than twenty five percent in Section 465(4)",
-      "shareholding or membership or voting rights and Regulation 14",
-      "10. Form 4 Intimation about Principal line of business or change Sections 26, 27,",
-      "therein 28, 29 & 32",
-      "11. Form 5 Petition for alteration of memorandum Section 32(1)(a)",
-      "or (c) and",
-      "Regulation 10 12. Form 6 Notice of consolidation, division or sub-division of Section 85(1)(b),",
-      "shares, specifying the shares so consolidated, (c), (d)",
-      "divided or sub-divided or the cancellation of shares",
-      "(otherwise than in connection with a reduction of",
-      "share capital under section 89 of the act)",
-      "13. Form 7 Notice of alteration in share capital Section 85(1)(a)",
-      "14. Form 8 Application for change of name Sections 11 & 12",
-      "15. Form 9 Notice of the court’s order disallowing / confirming Section 59(4)",
-      "the variations of the rights of holders of/ special",
-      "class of shares",
-      "16. Form 10 Particulars of mortgages, charges, pledge, etc. Sections 100, 105",
-      "& 448 and",
+      "|!S.No.|Name of Form|Description|Relevant section /regulation",
+      "|1.|Form A|Annual return of company having share capital|Section 130(1)",
+      "|2.|Form B|Annual return of company not having share capital|Section 130(2)",
+      "|3.|Form C|Annual return of companies in case there is no change of particulars since last annual return filed with the registrar|Section 130(5)",
+      "|4.|Form D|Annual return of inactive company|Sections 130(1) & 424(5) and Regulation 36",
+      "|5.|Form 1 with Appendix|Receipt of subscription money|Section 17(3)",
+      "|6.|Form 2|Application for conversion of status of company|Sections 46, 47, 48 & 49 and Regulations 11",
+      "|7.|Form 2A|Filing of altered memorandum and articles of association after approval of the commission for conversion of status of a Company|Sections 46, 47, 48 & 49 and Regulations 11",
+      "|8.|Form 3 with Appendix|Return of allotments of shares|Section 70 and Regulation 12",
+      "|9.|Form 3A|Change of more than twenty five percent in shareholding or membership or voting rights|Section 465(4) and Regulation 14",
+      "|10.|Form 4|Intimation about Principal line of business or change therein|Sections 26, 27, 28, 29 & 32",
+      "|11.|Form 5|Petition for alteration of memorandum|Section 32(1)(a) or (c) and Regulation 10",
+      "|12.|Form 6|Notice of consolidation, division or sub-division of shares, specifying the shares so consolidated, divided or sub-divided or the cancellation of shares (otherwise than in connection with a reduction of share capital under section 89 of the act)|Section 85(1)(b), (c), (d)",
+      "|13.|Form 7|Notice of alteration in share capital|Section 85(1)(a)",
+      "|14.|Form 8|Application for change of name|Sections 11 & 12",
+      "|15.|Form 9|Notice of the court’s order disallowing / confirming the variations of the rights of holders of/ special class of shares|Section 59(4)",
+      "|16.|Form 10|Particulars of mortgages, charges, pledge, etc.|Sections 100, 105 & 448 and Regulation 18",
+      "|17.|Form 11|Particulars of mortgage or charge subject to which property has been acquired|Section 100(4) & 448 and Regulation 18",
+      "|18.|Form 12|Register of mortgages, charges, pledge etc., to be maintained by a company|Section 112 & 448",
+      "|19.|Form 13|Registration of entire series of debentures/ redeemable capital|Sections 101 & 448 and Regulation 18",
+      "20. Form 14 Particulars of an issue of redeemable capital / Sections 101 & debentures in a series when more than one issue in 448 and the series is made Regulation 18",
+      "21. Form 15 Notice of appointment or change of nominee or Sections 14(1)(c) change in his particulars (for single member and Regulation 27 company only).",
+      "22. Form 16 Particulars of modification of mortgage, charge, Sections 106 & pledge, etc. 448 and",
       "Regulation 18",
-      "17. Form 11 Particulars of mortgage or charge subject to which Section 100(4) &",
-      "property has been acquired 448 and",
-      "Regulation 18",
-      "18. Form 12 Register of mortgages, charges, pledge etc., to be Section 112 &",
-      "maintained by a company 448",
-      "19. Form 13 Registration of entire series of debentures/ Sections 101 &",
-      "redeemable capital 448 and",
-      "Regulation 18 20. Form 14 Particulars of an issue of redeemable capital / Sections 101 &",
-      "debentures in a series when more than one issue in 448 and",
-      "the series is made Regulation 18",
-      "21. Form 15 Notice of appointment or change of nominee or Sections 14(1)(c)",
-      "change in his particulars (for single member and Regulation 27",
-      "company only).",
-      "22. Form 16 Particulars of modification of mortgage, charge, Sections 106 &",
-      "pledge, etc. 448 and",
-      "Regulation 18",
-      "23. Form 17 Memorandum of complete satisfaction of mortgage, Sections 109 &",
-      "charge, pledge, etc. 448",
-      "24. Form 18 Notice of appointment/ cessation of receiver or Sections 113 &",
-      "manager to be given by the person who obtained an 449",
-      "order for appointment of / appointed a receiver or",
-      "manager",
-      "25. Form 19 Notice to be given by receiver /manager on ceasing Sections 114(1) &",
-      "to act as such 449",
-      "26. Form 20 Receiver or manager’s abstract of receipts and Sections 114(1) &",
-      "payments 449",
-      "27. Form 21 Notice of situation of registered office or any change Section 21",
-      "therein",
-      "28. Form 22 Declaration regarding compliance with the Section 19(1)(d)",
-      "conditions of section 19 of the Companies Act, 2017 before commencing business in case of a company",
-      "issuing prospectus",
-      "29. Form 23 Declaration before commencing business in case of Section 19(1)(e)",
-      "a company filing statement in lieu of prospectus",
-      "30. Form 24 Notice of rectification of register of members/ Sections 128 &",
-      "directors 197(9)",
+      "23. Form 17 Memorandum of complete satisfaction of mortgage, Sections 109 & charge, pledge, etc. 448",
+      "24. Form 18 Notice of appointment/ cessation of receiver or Sections 113 & manager to be given by the person who obtained an 449 order for appointment of / appointed a receiver or manager",
+      "25. Form 19 Notice to be given by receiver /manager on ceasing Sections 114(1) & to act as such 449",
+      "26. Form 20 Receiver or manager’s abstract of receipts and Sections 114(1) & payments 449",
+      "27. Form 21 Notice of situation of registered office or any change Section 21 therein",
+      "28. Form 22 Declaration regarding compliance with the Section 19(1)(d) conditions of section 19 of the Companies Act, 2017 before commencing business in case of a company issuing prospectus",
+      "29. Form 23 Declaration before commencing business in case of Section 19(1)(e) a company filing statement in lieu of prospectus",
+      "30. Form 24 Notice of rectification of register of members/ Sections 128 & directors 197(9)",
       "31. Form 25 Statutory Report Section 131(6)",
       "32. Form 26 Special Resolution Section 150",
-      "33. Form 27 Declaration to be submitted to the court by Section 315(5)",
-      "provisional manager/official liquidator",
+      "33. Form 27 Declaration to be submitted to the court by Section 315(5) provisional manager/official liquidator",
       "34. Form 28 Consent to act as director / chief executive Section 167",
-      "35. Form 29 Particulars of directors and officers, including the Section 197 and",
-      "chief executive, secretary, chief financial officer, Regulation 20",
-      "auditors and legal adviser or of any change therein",
-      "36. Form 30 Notification of particulars of beneficial ownership to Section 452(1)",
-      "the company and Regulation 37",
-      "37. Form 31 Return containing particulars of substantial Section 452(2) &",
-      "shareholders/ officers for Companies’ global (4) and",
-      "register of beneficial ownership Regulation 37 38. Form 32 Return containing particulars of companies for Section 452(3)",
-      "companies’ global register of beneficial ownership and Regulation 37",
-      "39. Form 33 Notice of address where books of accounts are Section 220 &",
-      "maintained 449",
+      "35. Form 29 Particulars of directors and officers, including the Section 197 and chief executive, secretary, chief financial officer, Regulation 20 auditors and legal adviser or of any change therein",
+      "36. Form 30 Notification of particulars of beneficial ownership to Section 452(1) the company and Regulation 37",
+      "37. Form 31 Return containing particulars of substantial Section 452(2) & shareholders/ officers for Companies’ global (4) and register of beneficial ownership Regulation 37 38. Form 32 Return containing particulars of companies for Section 452(3) companies’ global register of beneficial ownership and Regulation 37",
+      "39. Form 33 Notice of address where books of accounts are Section 220 & maintained 449",
       "40. Form 34 Pattern of Shareholding Section 227(2)(f)",
-      "41. Form 35 Filing of copy of scheme of amalgamation Section 284(5)",
-      "and Regulation 33",
-      "42 Form 36 Notice of Dissenting Shareholders Section 285(1)",
-      "and Regulation 32",
-      "43 Form 37 Information to be furnished in relation to any offer Section 285(5)",
-      "with of a scheme or contract involving the transfer of and Regulation 32",
-      "appendix shares or any class of shares in the transferor",
-      "company to the transferee company",
-      "44 Form 38 Application for obtaining status of inactive company Section 424(1)",
-      "and Regulation 36",
-      "45 Form 39 Application for conversion of status from inactive to Section 424(5)",
-      "active company and Regulation 36"
+      "41. Form 35 Filing of copy of scheme of amalgamation Section 284(5) and Regulation 33",
+      "42 Form 36 Notice of Dissenting Shareholders Section 285(1) and Regulation 32",
+      "43 Form 37 Information to be furnished in relation to any offer Section 285(5) with of a scheme or contract involving the transfer of and Regulation 32 appendix shares or any class of shares in the transferor company to the transferee company",
+      "44 Form 38 Application for obtaining status of inactive company Section 424(1) and Regulation 36",
+      "45 Form 39 Application for conversion of status from inactive to Section 424(5) active company and Regulation 36"
      ]
     },
     {
@@ -169,32 +122,15 @@
      "title": "Filing Procedure",
      "page": 7,
      "text": [
-      "(1) Subject to the provision of sub-section (4) of section 471 of",
-      "the Act, any form, return, application, document or report required to be filed or lodged by a",
-      "company under any provision of the Act or these regulations shall be filed or lodged either online",
-      "through e-service or in physical form in the following manner to the Commission or the Registrar,",
-      "as the case may be:",
+      "(1) Subject to the provision of sub-section (4) of section 471 of the Act, any form, return, application, document or report required to be filed or lodged by a company under any provision of the Act or these regulations shall be filed or lodged either online through e-service or in physical form in the following manner to the Commission or the Registrar, as the case may be:",
       ">(a) duly signed by the authorized officer as defined in regulation 2;",
-      ">(b) accompanied by original paid bank challan or other evidence in respect of payment",
-      "of fee as per Seventh Schedule (not applicable in case of online filing through e-",
-      "service); and",
-      ">(c) in case of appeal, other than appeal in the appellate bench of the Commission, or",
-      "application, it shall, in addition to complying with any other requirement of the Act",
-      "or the rules or regulations, be –",
-      ">>(i) duly signed and verified by an affidavit by the applicant indicating complete",
-      "name, address, contact numbers (official/cell phone) and email address if any;",
-      "in the case of a company, signed and verified by an affidavit of an authorized",
-      "officer of the company;",
-      ">>(ii) neatly and legibly typed or printed, setting out precisely the facts, grounds",
-      "and claims or relief applied for in serially numbered paragraphs and",
-      "specifying the relevant provisions of the Act under which action or relief is",
-      "applied for; and",
-      ">>(iii) accompanied by documents referred to in the application or relied upon and,",
-      "in the case of an appeal against any order or decision, by a copy of such order",
-      "or decision.",
-      "(2) The Commission or the registrar, as the case may be, may require such documentary",
-      "proof with respect to the status, designation or entitlement of the person or individual making or",
-      "authenticating the application as it or he may deem necessary."
+      ">(b) accompanied by original paid bank challan or other evidence in respect of payment of fee as per Seventh Schedule (not applicable in case of online filing through e-service); and",
+      ">(c) in case of appeal, other than appeal in the appellate bench of the Commission, or application, it shall, in addition to complying with any other requirement of the Act or the rules or regulations, be –",
+      ">>(i) duly signed and verified by an affidavit by the applicant indicating complete name, address, contact numbers (official/cell phone) and email address if any;",
+      "in the case of a company, signed and verified by an affidavit of an authorized officer of the company;",
+      ">>(ii) neatly and legibly typed or printed, setting out precisely the facts, grounds and claims or relief applied for in serially numbered paragraphs and specifying the relevant provisions of the Act under which action or relief is applied for; and",
+      ">>(iii) accompanied by documents referred to in the application or relied upon and, in the case of an appeal against any order or decision, by a copy of such order or decision.",
+      "(2) The Commission or the registrar, as the case may be, may require such documentary proof with respect to the status, designation or entitlement of the person or individual making or authenticating the application as it or he may deem necessary."
      ]
     },
     {
@@ -202,14 +138,10 @@
      "title": "Payment of fees, etc",
      "page": 8,
      "text": [
-      "(1) Except as otherwise provided in the Act, all fees,",
-      "charges or other amounts payable, under the Act, rules, regulations or any notification issued by the",
-      "Federal Government, Commission or registrar shall be deposited with the designated bank branch",
-      "and accounted for to the Commission.",
-      "(2) The original copy of the receipt thereof shall be furnished to the Commission or the",
-      "registrar, along with the relevant document, return or application:",
-      "Provided that in case of online submission, the paid challan or other evidence of payment of",
-      "fee shall not be required to be furnished to the Commission or the registrar."
+      "(1) Except as otherwise provided in the Act, all fees, charges or other amounts payable, under the Act, rules, regulations or any notification issued by the",
+      "Federal Government, Commission or registrar shall be deposited with the designated bank branch and accounted for to the Commission.",
+      "(2) The original copy of the receipt thereof shall be furnished to the Commission or the registrar, along with the relevant document, return or application:",
+      "Provided that in case of online submission, the paid challan or other evidence of payment of fee shall not be required to be furnished to the Commission or the registrar."
      ]
     },
     {
@@ -217,9 +149,7 @@
      "title": "Modes of payment of fee",
      "page": 9,
      "text": [
-      "The fee required to be paid to the Commission and the",
-      "registrar in respect of the several matters specified in Seventh Schedule to the Act, may be paid",
-      "through—",
+      "The fee required to be paid to the Commission and the registrar in respect of the several matters specified in Seventh Schedule to the Act, may be paid through—",
       ">>(i) credit card; or",
       ">>(ii) debit card; or",
       ">>(iii) other mode of online payment approved by the Commission; or",
@@ -231,17 +161,9 @@
      "title": "Service of documents on Commission, registrar or company",
      "page": 9,
      "text": [
-      "(1) An application",
-      "or any document required to be submitted to the Commission or the registrar in pursuance to or for",
-      "the purposes of any of the provisions of the Act shall, unless otherwise proved, be deemed to have",
-      "been received or delivered to it or him on the day on which it is received by its or his office.",
-      "(2) An application or any document required to be served on the company or any of its",
-      "officers in pursuance to or for the purposes of any of the provisions of the Act or rules or regulations",
-      "made thereunder shall be served at the registered office of the company against an acknowledgement",
-      "or by post or courier service or through electronic means including facsimile and email or by leaving",
-      "it at the registered office of the company.",
-      "Provided that a document may also be served at the residential address of the officers of the",
-      "company, wherever deemed necessary."
+      "(1) An application or any document required to be submitted to the Commission or the registrar in pursuance to or for the purposes of any of the provisions of the Act shall, unless otherwise proved, be deemed to have been received or delivered to it or him on the day on which it is received by its or his office.",
+      "(2) An application or any document required to be served on the company or any of its officers in pursuance to or for the purposes of any of the provisions of the Act or rules or regulations made thereunder shall be served at the registered office of the company against an acknowledgement or by post or courier service or through electronic means including facsimile and email or by leaving it at the registered office of the company.",
+      "Provided that a document may also be served at the residential address of the officers of the company, wherever deemed necessary."
      ]
     },
     {
@@ -249,14 +171,7 @@
      "title": "Circulation of reports and notices by companies",
      "page": 9,
      "text": [
-      "Unless otherwise provided by",
-      "the Act or these regulations, any report, notice, statement, circular or other document required under",
-      "the Act or any rule or regulations made thereunder to be circulated, transmitted or forwarded to the",
-      "members, debenture-holders or creditors shall, unless it is delivered against an acknowledgement be",
-      "served on a member, debenture-holder or creditor at his registered address or, if he has no registered",
-      "address in Pakistan, at the address provided by him to the company for the giving of notices to him",
-      "against an acknowledgement or by post or courier service or through electronic means or in any",
-      "other manner as may be notified by the Commission."
+      "Unless otherwise provided by the Act or these regulations, any report, notice, statement, circular or other document required under the Act or any rule or regulations made thereunder to be circulated, transmitted or forwarded to the members, debenture-holders or creditors shall, unless it is delivered against an acknowledgement be served on a member, debenture-holder or creditor at his registered address or, if he has no registered address in Pakistan, at the address provided by him to the company for the giving of notices to him against an acknowledgement or by post or courier service or through electronic means or in any other manner as may be notified by the Commission."
      ]
     },
     {
@@ -264,9 +179,7 @@
      "title": "Alteration of memorandum",
      "page": 9,
      "text": [
-      "Subject to the provisions of section 32 of the Act, the",
-      "company shall submit a petition to the Commission for amendment in memorandum pursuant to clause (a) or clause (c) of sub-section (1) of section 32 as per Form 5, within sixty days from the",
-      "date of special resolution."
+      "Subject to the provisions of section 32 of the Act, the company shall submit a petition to the Commission for amendment in memorandum pursuant to clause (a) or clause (c) of sub-section (1) of section 32 as per Form 5, within sixty days from the date of special resolution."
      ]
     },
     {
@@ -275,16 +188,13 @@
      "page": 10,
      "text": [
       "(1) Subject to the requirements of sections",
-      "46, 47, 48 and 49 of the Act, a company desirous of converting its status shall, not later than sixty",
-      "days from the date on which the special resolution was passed, make an application on Form 2 to",
-      "the Commission for its approval, in any of the following circumstances, namely—",
+      "46, 47, 48 and 49 of the Act, a company desirous of converting its status shall, not later than sixty days from the date on which the special resolution was passed, make an application on Form 2 to the Commission for its approval, in any of the following circumstances, namely—",
       ">>(i) conversion of a public company into a private company or a single member company;",
       "or",
       ">>(ii) conversion of a private company into a single-member company; or",
       ">>(iii) conversion of an unlimited company into a limited company; or",
       ">>(iv) conversion of a company limited by guarantee into a company limited by shares.",
-      "(2) The company shall file a copy of the memorandum and articles of association as",
-      "altered on Form 2A with the registrar within fifteen days from the date of the order of the",
+      "(2) The company shall file a copy of the memorandum and articles of association as altered on Form 2A with the registrar within fifteen days from the date of the order of the",
       "Commission."
      ]
     },
@@ -293,19 +203,12 @@
      "title": "Return of allotments of shares",
      "page": 10,
      "text": [
-      "(1) Subject to the provisions of section 70 and 83",
-      "of the Act, a company having a share capital shall file a return of allotment of shares, with the",
-      "registrar as per Form 3 within forty-five days after the date of allotment.",
-      "(2) Where shares are allotted against consideration otherwise than in cash as per",
-      "requirements of clause (c) of sub-section (1) of section 70 of the Act, the documents which are to be",
-      "filed with the registrar along with the return of allotment, shall be verified in the following manner,",
-      "namely—",
+      "(1) Subject to the provisions of section 70 and 83 of the Act, a company having a share capital shall file a return of allotment of shares, with the registrar as per Form 3 within forty-five days after the date of allotment.",
+      "(2) Where shares are allotted against consideration otherwise than in cash as per requirements of clause (c) of sub-section (1) of section 70 of the Act, the documents which are to be filed with the registrar along with the return of allotment, shall be verified in the following manner, namely—",
       ">>(i) by an affidavit of an authorized officer that these are true copies;",
-      ">>(ii) by certification of the public officer having custody of the original document, where",
-      "applicable:",
+      ">>(ii) by certification of the public officer having custody of the original document, where applicable:",
       "Provided that the company shall comply with the requirements of the Companies (Issue of",
-      "Capital) Rules, 1996 and any other relevant rules or regulations issued by the Federal Government",
-      "or the Commission, as the case may be."
+      "Capital) Rules, 1996 and any other relevant rules or regulations issued by the Federal Government or the Commission, as the case may be."
      ]
     },
     {
@@ -313,19 +216,12 @@
      "title": "Transfer of shares by member of a private company",
      "page": 11,
      "text": [
-      "(1) Subject to the",
-      "provisions of sub-section (1) of section 76 of the Act, a member of a private company, not being a",
-      "single member company, desirous to sell any share(s) held by him shall intimate the board of his",
-      "intention through a notice.",
-      "(2) The transferor shall offer shares for sale at a specific price or at some other price",
-      "arrived at through negotiation between the offering member and the board of directors of the",
-      "company.",
-      "(3) In case all the members decline to accept the offer or if any of the shares are left over,",
-      "the shares may be sold to any other person:",
+      "(1) Subject to the provisions of sub-section (1) of section 76 of the Act, a member of a private company, not being a single member company, desirous to sell any share(s) held by him shall intimate the board of his intention through a notice.",
+      "(2) The transferor shall offer shares for sale at a specific price or at some other price arrived at through negotiation between the offering member and the board of directors of the company.",
+      "(3) In case all the members decline to accept the offer or if any of the shares are left over, the shares may be sold to any other person:",
       "Provided that shares shall not be offered to outsiders at a price lower than the offered price.",
       "(4) Nothing in this regulation shall apply to—",
-      ">>(i) the transfer of qualification shares which are required to be held by the",
-      "director under section 200 of the Act; or",
+      ">>(i) the transfer of qualification shares which are required to be held by the director under section 200 of the Act; or",
       ">>(ii) the shares, which are required to be transferred by operation of law; or",
       ">>(iii) the shares, which have been gifted to family;",
       "Explanation: For the purpose of this clause the word “family” means “spouse”,",
@@ -338,10 +234,7 @@
      "page": 11,
      "text": [
       "Subject to the provisions of sub-section",
-      "(4) of section 465 of the Act, a company other than a listed company, shall inform the registrar about",
-      "any change of more than twenty five percent in its shareholding or membership or voting rights as",
-      "per Form 3A within fifteen days after the day on which the threshold of more than twenty five",
-      "percent is reached."
+      "(4) of section 465 of the Act, a company other than a listed company, shall inform the registrar about any change of more than twenty five percent in its shareholding or membership or voting rights as per Form 3A within fifteen days after the day on which the threshold of more than twenty five percent is reached."
      ]
     },
     {
@@ -349,17 +242,12 @@
      "title": "Further issue of Shares",
      "page": 11,
      "text": [
-      "Subject to the provisions of section 83 of the Act, the",
-      "letter of offer to be sent to the members shall, among other matters and information, expressly state—",
-      ">>(i) Authorized and paid up capital along with the number of shares and par value of each",
-      "share;",
-      ">>(ii) Profits & Losses, dividend, bonus declared during preceding three years (or such",
-      "shorter period for which the company may have issued accounts;",
-      ">>(iii) Amount of the proposed issue (indicating the number of shares and par value of each",
-      "share);",
+      "Subject to the provisions of section 83 of the Act, the letter of offer to be sent to the members shall, among other matters and information, expressly state—",
+      ">>(i) Authorized and paid up capital along with the number of shares and par value of each share;",
+      ">>(ii) Profits & Losses, dividend, bonus declared during preceding three years (or such shorter period for which the company may have issued accounts;",
+      ">>(iii) Amount of the proposed issue (indicating the number of shares and par value of each share);",
       ">>(iv) Proportion of new issue to existing shares with any condition applicable thereto;",
-      ">>(v) Purpose of the issue specifying the main object for which additional funds are",
-      "required;",
+      ">>(v) Purpose of the issue specifying the main object for which additional funds are required;",
       ">>(vi) date upto which the offer, if not accepted, shall be deemed to have been declined; and",
       ">>(vii) Any other material information."
      ]
@@ -369,31 +257,15 @@
      "title": "Issue of certificate of shares",
      "page": 12,
      "text": [
-      "(1) Subject to the provisions of section 62 of the Act,",
-      "the physical certificate of any share or shares of a company shall be issued in the following manner,",
-      "namely—",
+      "(1) Subject to the provisions of section 62 of the Act, the physical certificate of any share or shares of a company shall be issued in the following manner, namely—",
       ">>(i) in pursuance of a resolution passed by the Board; and",
-      ">>(ii) on surrender to the company of letter of allotment, save in cases of issues against",
-      "letters of acceptance or of renunciation, or in cases of issue of bonus shares:",
-      "(2) No certificate of any share or shares shall be issued either in exchange for those which",
-      "are sub-divided or consolidated or in replacement of those which are defaced, torn or old decrepit,",
-      "worn-out, or in cases where space for recording transfers has been duly utilized, unless the certificate",
-      "in lieu of which it is issued is surrendered to the company.",
-      "(3) The duplicate share certificate or letter of allotment shall be issued in accordance with",
-      "the provision of section 73 of the Act.",
-      "(4) The certificate of shares issued in physical form shall specify the certificate number,",
-      "folio number, name of company, authorized and paid up capital of the company at the time of",
-      "issuance of certificate, date of issue, name(s) of the person(s) in whose favor the certificate is issued,",
-      "class and kind of share, par value of share and in case of transfer, name of transferee, date of transfer,",
-      "signature of authorized officer of the company:",
-      "Provided that in case duplicate share certificate is issued, the date of initial issuance along",
-      "with word “DUPLICATE” shall be mentioned on the certificate.",
-      "(5) Every share certificate shall be issued under the company’s common seal, which shall",
-      "be affixed in the presence of, and signed by two directors duly authorized by the Board of Directors",
-      "of the company for the purpose if so authorized by the Board:",
-      "Provided that, in case of a single member company, every share certificate shall be issued",
-      "under the common seal of the company, which shall be affixed and signed by the single director of",
-      "the company."
+      ">>(ii) on surrender to the company of letter of allotment, save in cases of issues against letters of acceptance or of renunciation, or in cases of issue of bonus shares:",
+      "(2) No certificate of any share or shares shall be issued either in exchange for those which are sub-divided or consolidated or in replacement of those which are defaced, torn or old decrepit, worn-out, or in cases where space for recording transfers has been duly utilized, unless the certificate in lieu of which it is issued is surrendered to the company.",
+      "(3) The duplicate share certificate or letter of allotment shall be issued in accordance with the provision of section 73 of the Act.",
+      "(4) The certificate of shares issued in physical form shall specify the certificate number, folio number, name of company, authorized and paid up capital of the company at the time of issuance of certificate, date of issue, name(s) of the person(s) in whose favor the certificate is issued, class and kind of share, par value of share and in case of transfer, name of transferee, date of transfer, signature of authorized officer of the company:",
+      "Provided that in case duplicate share certificate is issued, the date of initial issuance along with word “DUPLICATE” shall be mentioned on the certificate.",
+      "(5) Every share certificate shall be issued under the company’s common seal, which shall be affixed in the presence of, and signed by two directors duly authorized by the Board of Directors of the company for the purpose if so authorized by the Board:",
+      "Provided that, in case of a single member company, every share certificate shall be issued under the common seal of the company, which shall be affixed and signed by the single director of the company."
      ]
     },
     {
@@ -401,11 +273,7 @@
      "title": "Issuance of shares in book-entry form",
      "page": 13,
      "text": [
-      "Subsequent to the notification under",
-      "section 72 of the Act, all companies required to replace its physical shares with book-entry form",
-      "shall apply to a Central Depository in terms of the relevant Regulations for declaration of company’s",
-      "shares as eligible securities and comply with the requirements of the Central Depository for issuance",
-      "of shares in book entry form."
+      "Subsequent to the notification under section 72 of the Act, all companies required to replace its physical shares with book-entry form shall apply to a Central Depository in terms of the relevant Regulations for declaration of company’s shares as eligible securities and comply with the requirements of the Central Depository for issuance of shares in book entry form."
      ]
     },
     {
@@ -413,18 +281,11 @@
      "title": "Verification of copies for purposes of sections 100, 101 and 106",
      "page": 13,
      "text": [
-      "A copy of every",
-      "instrument or deed creating or evidencing any charge or mortgage or pledge and required to be filed",
-      "with the registrar in pursuance of section 100, 101 and 106 shall be verified as follows, namely—",
-      ">(a) Where the instrument or deed relates, whether wholly or partly, to property situated",
-      "in Pakistan, the copy shall be verified in following manner—",
+      "A copy of every instrument or deed creating or evidencing any charge or mortgage or pledge and required to be filed with the registrar in pursuance of section 100, 101 and 106 shall be verified as follows, namely—",
+      ">(a) Where the instrument or deed relates, whether wholly or partly, to property situated in Pakistan, the copy shall be verified in following manner—",
       ">>(i) by an affidavit of an authorized officer that these are true copies; or",
-      ">>(ii) by a certification of the public officer having custody of the original",
-      "document.",
-      ">(b) Where the instrument or deed relates solely to property situated outside Pakistan, the",
-      "copy shall be verified by an affidavit of an authorized officer of the company, or of a",
-      "person interested in the mortgage or charge or pledge on behalf of any person other",
-      "than the company, stating that it is a true copy."
+      ">>(ii) by a certification of the public officer having custody of the original document.",
+      ">(b) Where the instrument or deed relates solely to property situated outside Pakistan, the copy shall be verified by an affidavit of an authorized officer of the company, or of a person interested in the mortgage or charge or pledge on behalf of any person other than the company, stating that it is a true copy."
      ]
     },
     {
@@ -432,9 +293,7 @@
      "title": "Particulars of members and debenture-holders",
      "page": 13,
      "text": [
-      "Subject to the provisions of",
-      "section 119 and 122 of the Act, every company shall keep a register of its members and a register of",
-      "debenture-holders containing the following particulars, namely—",
+      "Subject to the provisions of section 119 and 122 of the Act, every company shall keep a register of its members and a register of debenture-holders containing the following particulars, namely—",
       ">(a) in case of a member or debenture-holder who is a natural person—",
       ">>(i) folio number;",
       ">>(ii) full name;",
@@ -446,28 +305,21 @@
       "(viii) usual residential address;",
       ">>(ix) occupation, if any;",
       ">>(x) in case of foreign national or dual national, country of origin;",
-      ">>(xi) in case of minor member or debenture-holder, his date of birth along with",
-      "name and address of his guardian;",
-      ">>(xii) date on which name was entered in the register as a member /debenture-",
-      "holder; and",
-      "(xiii) date on which the person ceased to be a member / debenture-holder and reason",
-      "of cessation.",
+      ">>(xi) in case of minor member or debenture-holder, his date of birth along with name and address of his guardian;",
+      ">>(xii) date on which name was entered in the register as a member /debenture-holder; and",
+      "(xiii) date on which the person ceased to be a member / debenture-holder and reason of cessation.",
       ">(b) in case of member or debenture-holder other than a natural person—",
       ">>(i) folio number;",
       ">>(ii) name of legal person;",
       ">>(iii) official address;",
-      ">>(iv) name of authorized representative/designated partner and his particulars as",
-      "required in (a)(ii) to (a)(xi) above;",
-      ">>(v) date on which name was entered in the register as a member /debenture-",
-      "holder; and",
-      ">>(vi) date on which the person ceased to be a member/ debenture-holder and reason",
-      "of cessation.",
+      ">>(iv) name of authorized representative/designated partner and his particulars as required in (a)(ii) to (a)(xi) above;",
+      ">>(v) date on which name was entered in the register as a member /debenture-holder; and",
+      ">>(vi) date on which the person ceased to be a member/ debenture-holder and reason of cessation.",
       ">(c) additional particulars in the case of a company having a share capital—",
       ">>(i) number of shares/debentures held by each member/ debenture-holder;",
       ">>(ii) class or kind, if any, of shares/ debentures held;",
       ">>(iii) distinctive number of each share held, where applicable; and",
-      ">>(iv) number of shares / debentures held by member/ debenture-holder which are",
-      "subject to encumbrance, if any, along with nature of encumbrance."
+      ">>(iv) number of shares / debentures held by member/ debenture-holder which are subject to encumbrance, if any, along with nature of encumbrance."
      ]
     },
     {
@@ -475,18 +327,9 @@
      "title": "Particulars of directors and officers",
      "page": 15,
      "text": [
-      "(1) Subject to the provisions of section 197",
-      "of the Act, every company shall keep a register of its directors and officers, including the chief",
-      "executive, company secretary, chief financial officer, auditors and legal adviser, containing their",
-      "particulars as specified through Form 29 which have been furnished to the company by each of the",
-      "aforementioned director and officer in pursuance of the provisions of sub-section 2 of section 197",
-      "of the Act.",
-      "(2) The company shall file a return with the registrar as per Form 29 in pursuance of sub-",
-      "section (3) of section 197:",
-      "Provided that in case of resignation of a director or chief executive officer, Form 29 shall be",
-      "supported by the resignation letter duly signed by the resigning director, which shall be verified",
-      "through an affidavit on stamp paper duly signed by the person who has signed Form 29 and attested",
-      "by an oath commissioner and witnessed."
+      "(1) Subject to the provisions of section 197 of the Act, every company shall keep a register of its directors and officers, including the chief executive, company secretary, chief financial officer, auditors and legal adviser, containing their particulars as specified through Form 29 which have been furnished to the company by each of the aforementioned director and officer in pursuance of the provisions of sub-section 2 of section 197 of the Act.",
+      "(2) The company shall file a return with the registrar as per Form 29 in pursuance of sub-section (3) of section 197:",
+      "Provided that in case of resignation of a director or chief executive officer, Form 29 shall be supported by the resignation letter duly signed by the resigning director, which shall be verified through an affidavit on stamp paper duly signed by the person who has signed Form 29 and attested by an oath commissioner and witnessed."
      ]
     },
     {
@@ -495,21 +338,15 @@
      "page": 15,
      "text": [
       "(1)",
-      "Subject to the provisions of section 209 of the Act, the company shall keep one or more separate",
-      "registers containing following particulars of all contracts or arrangements including particulars",
-      "relating to the concern or interest of any director in any association having contract or arrangement",
-      "with the company and other information relating to such director, namely—",
+      "Subject to the provisions of section 209 of the Act, the company shall keep one or more separate registers containing following particulars of all contracts or arrangements including particulars relating to the concern or interest of any director in any association having contract or arrangement with the company and other information relating to such director, namely—",
       ">>(i) the date of the contract or arrangement;",
       ">>(ii) the names of the parties thereto;",
       ">>(iii) the principal terms and conditions thereof;",
       ">>(iv) amount of contract or arrangement;",
       ">>(v) the name of the director interested in the contract or arrangement;",
-      ">>(vi) name of the association and the extent or nature of interest of director therein and",
-      "also his relationship with association; and",
+      ">>(vi) name of the association and the extent or nature of interest of director therein and also his relationship with association; and",
       ">>(vii) date on which interest or concern arises or changes.",
-      "(2) Subject to the provision of sub-section (2) of section 209, the particulars as mentioned",
-      "in clauses (v), (vi) and (vii) of sub-regulation (1) or any change therein, shall be disclosed to the",
-      "company by each of the relevant director within thirty days."
+      "(2) Subject to the provision of sub-section (2) of section 209, the particulars as mentioned in clauses (v), (vi) and (vii) of sub-regulation (1) or any change therein, shall be disclosed to the company by each of the relevant director within thirty days."
      ]
     },
     {
@@ -517,21 +354,14 @@
      "title": "Qualifications and Experience of company secretary",
      "page": 16,
      "text": [
-      "Subject to the provisions",
-      "of section 194 of the Act, the public company shall appoint as company secretary—",
+      "Subject to the provisions of section 194 of the Act, the public company shall appoint as company secretary—",
       ">(a) a person who is a member of—",
       ">>(i) a recognized body of professional accountants; or",
       ">>(ii) a recognized body of corporate or chartered secretaries; or",
-      ">(b) a person holding a master degree in business administration or commerce or being a",
-      "law graduate from a university recognized by the Higher Education Commission of",
-      "Pakistan or in case of foreign qualification in the above disciplines, holds an",
-      "equivalence certificate from Higher Education Commission of Pakistan and having",
-      "at least five years relevant experience in case of listed company or two years relevant",
-      "experience in case of other public company; or",
-      ">(c) a retired government servant in BS-18 or equivalent or above with at least fifteen",
-      "years’ service:",
-      "Provided that a person already engaged by a public company as company secretary in terms",
-      "of the Companies (General Provisions and Forms) Rules 1985 may continue in that capacity."
+      ">(b) a person holding a master degree in business administration or commerce or being a law graduate from a university recognized by the Higher Education Commission of",
+      "Pakistan or in case of foreign qualification in the above disciplines, holds an equivalence certificate from Higher Education Commission of Pakistan and having at least five years relevant experience in case of listed company or two years relevant experience in case of other public company; or",
+      ">(c) a retired government servant in BS-18 or equivalent or above with at least fifteen years’ service:",
+      "Provided that a person already engaged by a public company as company secretary in terms of the Companies (General Provisions and Forms) Rules 1985 may continue in that capacity."
      ]
     },
     {
@@ -539,14 +369,9 @@
      "title": "Female representation on the board of public interest company",
      "page": 17,
      "text": [
-      "The board of a",
-      "public interest company not being a listed company, shall have at least one female director having",
-      "at least bachelor’s degree from an institution recognized by Higher Education Commission:",
-      "Provided that a company having no female representation on its board, shall, in addition to",
-      "its elected or nominated directors, appoint at least one female director within one year from the date",
-      "of commencement of these Regulations:",
-      "Provided further that this regulation shall not apply in case, a company has already female",
-      "representation on its board having requisite educational qualification."
+      "The board of a public interest company not being a listed company, shall have at least one female director having at least bachelor’s degree from an institution recognized by Higher Education Commission:",
+      "Provided that a company having no female representation on its board, shall, in addition to its elected or nominated directors, appoint at least one female director within one year from the date of commencement of these Regulations:",
+      "Provided further that this regulation shall not apply in case, a company has already female representation on its board having requisite educational qualification."
      ]
     },
     {
@@ -554,19 +379,12 @@
      "title": "Fresh election of directors of a listed company",
      "page": 17,
      "text": [
-      "(1) Any member of a listed",
-      "company having acquired requisite shareholding to get him elected as a director on the board, may",
-      "file a requisition along with following documents to the company for holding fresh election in terms",
-      "of provisions of section 162 of the Act—",
+      "(1) Any member of a listed company having acquired requisite shareholding to get him elected as a director on the board, may file a requisition along with following documents to the company for holding fresh election in terms of provisions of section 162 of the Act—",
       ">>(i) evidence of acquisition of requisite shareholding to get him elected as a director;",
-      ">>(ii) an affidavit to the effect that he has complied with the requirements of all other",
-      "relevant laws while acquiring the requisite shareholding in the company; and",
-      ">>(iii) an undertaking to the effect that he shall not dispose of the shares till next election of",
-      "directors of the company.",
-      "(2) The listed company shall hold fresh election of directors in accordance with the",
-      "procedure laid down in section 159:",
-      "Provided that the notice of the meeting as specified in sub-section (2) of section 159 shall",
-      "also disclose the fact that fresh elections are being held on application of a member under section",
+      ">>(ii) an affidavit to the effect that he has complied with the requirements of all other relevant laws while acquiring the requisite shareholding in the company; and",
+      ">>(iii) an undertaking to the effect that he shall not dispose of the shares till next election of directors of the company.",
+      "(2) The listed company shall hold fresh election of directors in accordance with the procedure laid down in section 159:",
+      "Provided that the notice of the meeting as specified in sub-section (2) of section 159 shall also disclose the fact that fresh elections are being held on application of a member under section",
       "162 of the Act:"
      ]
     },
@@ -575,9 +393,7 @@
      "title": "Availability of financial statements on the website of listed Company",
      "page": 17,
      "text": [
-      "Subject",
-      "to the provisions of section 223 and 237 of the Act, a listed company shall make available its annual",
-      "and quarterly financial statements for the last ten years, where applicable, on its website."
+      "Subject to the provisions of section 223 and 237 of the Act, a listed company shall make available its annual and quarterly financial statements for the last ten years, where applicable, on its website."
      ]
     },
     {
@@ -585,10 +401,7 @@
      "title": "Intimation about change in nominee or his particulars",
      "page": 18,
      "text": [
-      "A single member",
-      "company shall report change in nominee or change in particulars thereof or appointment in case of",
-      "conversion of status to a single member company, within fifteen days of the change or conversion",
-      "of status to the registrar on Form 15."
+      "A single member company shall report change in nominee or change in particulars thereof or appointment in case of conversion of status to a single member company, within fifteen days of the change or conversion of status to the registrar on Form 15."
      ]
     },
     {
@@ -596,34 +409,18 @@
      "title": "Application for extension in the period for holding annual general meeting and laying of financial statements",
      "page": 18,
      "text": [
-      "( 1) Subject to the requirements of section 132 and section 223 of",
-      "the Act, an application for the grant of an extension in the time for—",
-      ">>(i) holding any annual general meeting, pursuant to the proviso to sub-section (1) of",
-      "section 132; or",
-      ">>(ii) laying before the annual general meeting financial statements, pursuant to the proviso",
-      "to sub section (2) of section 223;",
-      "shall, in the case of a listed company, be submitted to the Commission and, in any other case, to the",
-      "registrar concerned not less than thirty days before the last date on which such general meeting is",
-      "required to be held under the said section:",
-      "Provided that the registrar concerned or the Commission, as the case may be, may for special",
-      "reasons to be recorded in writing, entertain an application which is submitted less than thirty days",
-      "before the last date on which the annual general meeting is required to be held under the said sections.",
+      "( 1) Subject to the requirements of section 132 and section 223 of the Act, an application for the grant of an extension in the time for—",
+      ">>(i) holding any annual general meeting, pursuant to the proviso to sub-section (1) of section 132; or",
+      ">>(ii) laying before the annual general meeting financial statements, pursuant to the proviso to sub section (2) of section 223;",
+      "shall, in the case of a listed company, be submitted to the Commission and, in any other case, to the registrar concerned not less than thirty days before the last date on which such general meeting is required to be held under the said section:",
+      "Provided that the registrar concerned or the Commission, as the case may be, may for special reasons to be recorded in writing, entertain an application which is submitted less than thirty days before the last date on which the annual general meeting is required to be held under the said sections.",
       "(2) The application aforesaid shall state—",
       ">>(i) the registration number, name and address of the company;",
-      ">>(ii) the date on which the last annual general meeting, if any, was held and the",
-      "financial year of which the financial statements were laid at therein;",
-      ">>(iii) the date up to which the annual general meeting is required to be held for the",
-      "purposes of the said sections and the date up to which the financial statements",
-      "are required to be laid therein;",
-      ">>(iv) reasons for not being able to hold the annual general meeting or not laying",
-      "the financial statements at the general meeting by the date mentioned in clause",
+      ">>(ii) the date on which the last annual general meeting, if any, was held and the financial year of which the financial statements were laid at therein;",
+      ">>(iii) the date up to which the annual general meeting is required to be held for the purposes of the said sections and the date up to which the financial statements are required to be laid therein;",
+      ">>(iv) reasons for not being able to hold the annual general meeting or not laying the financial statements at the general meeting by the date mentioned in clause",
       ">>(iii) and justification for extension in the period to the extent applied for; and",
-      ">>(v) when the delay is attributed to non-completion of books of accounts or non-",
-      "finalization of audit, the exact state of books of accounts with reasons for non-",
-      "completion of such books or for non- finalization of the audit, as the case may",
-      "be, such information being accompanied by a certificate of the company’s",
-      "auditor as to the state of its accounts, reasons for delay in completion of audit",
-      "and the minimum time required for the purpose."
+      ">>(v) when the delay is attributed to non-completion of books of accounts or non-finalization of audit, the exact state of books of accounts with reasons for non-completion of such books or for non- finalization of the audit, as the case may be, such information being accompanied by a certificate of the company’s auditor as to the state of its accounts, reasons for delay in completion of audit and the minimum time required for the purpose."
      ]
     },
     {
@@ -631,14 +428,9 @@
      "title": "Conduct of shareholders in the meeting",
      "page": 19,
      "text": [
-      "(1) The chairman of the meeting shall",
-      "read out the manner in which general meeting shall be conducted that includes providing opportunity",
-      "to the members seeking any explanation and meaningful discussion, choice of suitable language",
-      "and time allocated to members to participate in the proceedings of the meetings.",
-      "(2) The shareholders shall observe following conduct in general meetings in terms of",
-      "section 215 of the Act—",
-      ">>(i) shall not bring such material that may cause threat to participants or premises",
-      "where meeting is being held;",
+      "(1) The chairman of the meeting shall read out the manner in which general meeting shall be conducted that includes providing opportunity to the members seeking any explanation and meaningful discussion, choice of suitable language and time allocated to members to participate in the proceedings of the meetings.",
+      "(2) The shareholders shall observe following conduct in general meetings in terms of section 215 of the Act—",
+      ">>(i) shall not bring such material that may cause threat to participants or premises where meeting is being held;",
       ">>(ii) shall confine themselves to the agenda items covered in the notice of meeting;",
       ">>(iii) shall keep comments and discussion restricted to the affaires of the company;",
       "and",
@@ -650,25 +442,11 @@
      "title": "Video link facility for meetings",
      "page": 19,
      "text": [
-      "Where the company provides facility to its",
-      "members for attending meeting through video link subject to the provisions of clause 73 of sub-",
-      "section (1) of section 2, section 134 of the Act and its articles of association, the meeting shall be",
-      "conducted in the following manner—",
-      ">>(i) the company shall ensure that the notice of general meeting specifically",
-      "mentions therein that participation through video link shall be arranged on",
-      "demand by members residing in a city and holding ten percent of the total",
-      "paid up capital;",
-      ">>(ii) the chairman of the meeting and company secretary shall ensure that no",
-      "person other than the member or proxy holder is attending the meeting through video link and shall take any further steps to maintain integrity of",
-      "such meetings;",
-      ">>(iii) the chairman of the meeting and company secretary shall take the",
-      "responsibility to ensure availability of adequate facilities at specified",
-      "locations without interruption / distortion and appoint coordinator at the place",
-      "of video conference facility to conduct voting and assist chairman of the",
-      "meeting; and",
-      ">>(iv) the company secretary shall secure the tele/video recording of the proceedings",
-      "of the meetings and keep the same in his custody along with other relevant",
-      "record."
+      "Where the company provides facility to its members for attending meeting through video link subject to the provisions of clause 73 of sub-section (1) of section 2, section 134 of the Act and its articles of association, the meeting shall be conducted in the following manner—",
+      ">>(i) the company shall ensure that the notice of general meeting specifically mentions therein that participation through video link shall be arranged on demand by members residing in a city and holding ten percent of the total paid up capital;",
+      ">>(ii) the chairman of the meeting and company secretary shall ensure that no person other than the member or proxy holder is attending the meeting through video link and shall take any further steps to maintain integrity of such meetings;",
+      ">>(iii) the chairman of the meeting and company secretary shall take the responsibility to ensure availability of adequate facilities at specified locations without interruption / distortion and appoint coordinator at the place of video conference facility to conduct voting and assist chairman of the meeting; and",
+      ">>(iv) the company secretary shall secure the tele/video recording of the proceedings of the meetings and keep the same in his custody along with other relevant record."
      ]
     },
     {
@@ -676,37 +454,20 @@
      "title": "Application under section 256",
      "page": 20,
      "text": [
-      "(1) Every application for investigation into the",
-      "affairs of a company under clause (a) or clause (b) of section 256 shall specify—",
-      ">>(i) the name and address of the registered office of the company whose affairs",
-      "are sought to be investigated;",
-      ">>(ii) the names and addresses of the applicants, and, in the case of a company",
-      "having a share capital, also the total number of shares of the company held by",
-      "each of them together with the amount paid up thereon;",
-      ">>(iii) if the company has a share capital, the issued and paid-up capital of the",
-      "company and the nominal or face value of the shares or, if the company has",
-      "no share capital, the total number of its members;",
-      ">>(iv) the precise and specific reasons for requesting the investigation with",
-      "particulars of alleged irregularities, including the period to which it extends;",
+      "(1) Every application for investigation into the affairs of a company under clause (a) or clause (b) of section 256 shall specify—",
+      ">>(i) the name and address of the registered office of the company whose affairs are sought to be investigated;",
+      ">>(ii) the names and addresses of the applicants, and, in the case of a company having a share capital, also the total number of shares of the company held by each of them together with the amount paid up thereon;",
+      ">>(iii) if the company has a share capital, the issued and paid-up capital of the company and the nominal or face value of the shares or, if the company has no share capital, the total number of its members;",
+      ">>(iv) the precise and specific reasons for requesting the investigation with particulars of alleged irregularities, including the period to which it extends;",
       "and",
-      ">>(v) whether the applicants agree to give security for payment of the costs of",
-      "investigation and the ceiling of the amount up to which they so agree.",
-      "(2) Every such application shall be accompanied by such documentary evidence in",
-      "support of the reasons for requesting the investigation and the alleged irregularities as is reasonably",
-      "open to the applicants.",
-      "(3) Every such application shall be signed by the applicants and shall be verified by their",
-      "affidavit stating, inter-alia, the paragraphs of the application which contain statements true to their",
-      "knowledge and the paragraphs of the application which contain statements true to the best of their",
-      "information and belief.",
-      "(4) The Commission may, before passing any order on the application, require the",
-      "applicants or any one or more of them to produce such further documentary or other evidence as the",
+      ">>(v) whether the applicants agree to give security for payment of the costs of investigation and the ceiling of the amount up to which they so agree.",
+      "(2) Every such application shall be accompanied by such documentary evidence in support of the reasons for requesting the investigation and the alleged irregularities as is reasonably open to the applicants.",
+      "(3) Every such application shall be signed by the applicants and shall be verified by their affidavit stating, inter-alia, the paragraphs of the application which contain statements true to their knowledge and the paragraphs of the application which contain statements true to the best of their information and belief.",
+      "(4) The Commission may, before passing any order on the application, require the applicants or any one or more of them to produce such further documentary or other evidence as the",
       "Commission may consider necessary for—",
-      ">>(i) the purpose of satisfying itself as to the veracity of the allegations made in the",
-      "application; or",
-      ">>(ii) ascertaining any information which, in the opinion of the Commission, is",
-      "necessary for enabling it to pass orders on the application; or",
-      ">>(iii) ascertaining the eligibility of applicants or any one or more of them to make",
-      "the application."
+      ">>(i) the purpose of satisfying itself as to the veracity of the allegations made in the application; or",
+      ">>(ii) ascertaining any information which, in the opinion of the Commission, is necessary for enabling it to pass orders on the application; or",
+      ">>(iii) ascertaining the eligibility of applicants or any one or more of them to make the application."
      ]
     },
     {
@@ -714,9 +475,7 @@
      "title": "Authentication of copy of Inspector’s report under section 271",
      "page": 21,
      "text": [
-      "A copy of the",
-      "report of an inspector or inspectors, shall, for the purposes of section 271, be authenticated by an",
-      "officer of the Commission."
+      "A copy of the report of an inspector or inspectors, shall, for the purposes of section 271, be authenticated by an officer of the Commission."
      ]
     },
     {
@@ -724,18 +483,11 @@
      "title": "Manner of giving notice under section 285",
      "page": 21,
      "text": [
-      "(1) A notice required to be given by",
-      "a transferee company—",
-      ">>(i) to any dissenting shareholder of the transferor company in pursuance of sub-",
-      "section (1) of section 285; or",
-      ">>(ii) to any shareholder of the transferor company who has not assented to the",
-      "scheme or contract in pursuance of clause (a) of sub-section (2) of said",
-      "section;",
-      "shall be given on Form 36 in the manner provided in section 55 and regulation 9 for the service of",
-      "documents by a company on a member thereof.",
-      "(2) While making or issuing any offer or issuing any circular containing any",
-      "recommendation from the directors of the transferor company to the members of that company to accept such offer, the company shall furnish to them the information specified in Form 37 in addition",
-      "to the statement referred to in clause (b) of sub section (5) of section 285."
+      "(1) A notice required to be given by a transferee company—",
+      ">>(i) to any dissenting shareholder of the transferor company in pursuance of sub-section (1) of section 285; or",
+      ">>(ii) to any shareholder of the transferor company who has not assented to the scheme or contract in pursuance of clause (a) of sub-section (2) of said section;",
+      "shall be given on Form 36 in the manner provided in section 55 and regulation 9 for the service of documents by a company on a member thereof.",
+      "(2) While making or issuing any offer or issuing any circular containing any recommendation from the directors of the transferor company to the members of that company to accept such offer, the company shall furnish to them the information specified in Form 37 in addition to the statement referred to in clause (b) of sub section (5) of section 285."
      ]
     },
     {
@@ -743,13 +495,9 @@
      "title": "Filing of copy of scheme of amalgamation in case of amalgamation of wholly owned subsidiary(ies) or companies wholly owned by a person",
      "page": 22,
      "text": [
-      "(1) Subject to the provisions",
-      "of section 284 of the Act, the transferee company shall file a copy of the scheme of amalgamation",
-      "as approved by each amalgamating company, on Form 35 with the registrar within thirty days of",
-      "date of resolution.",
+      "(1) Subject to the provisions of section 284 of the Act, the transferee company shall file a copy of the scheme of amalgamation as approved by each amalgamating company, on Form 35 with the registrar within thirty days of date of resolution.",
       "(2) Where the amalgamating companies have passed the resolution on different dates,",
-      "Form 35 along with scheme of amalgamation shall be filed within thirty days of last date of",
-      "resolution."
+      "Form 35 along with scheme of amalgamation shall be filed within thirty days of last date of resolution."
      ]
     },
     {
@@ -757,11 +505,7 @@
      "title": "Investment of retained funds by liquidator in voluntary winding up",
      "page": 22,
      "text": [
-      "Subject to",
-      "the requirements of section 372 of the Act, any amounts retained by the liquidator for meeting any",
-      "claim against the company which may be subjudice or subject matter of adjudication or assessment,",
-      "shall be invested by the official liquidator in Special Saving Certificates or shall be deposited or",
-      "invested in the National Savings Schemes in the name of the company in liquidation."
+      "Subject to the requirements of section 372 of the Act, any amounts retained by the liquidator for meeting any claim against the company which may be subjudice or subject matter of adjudication or assessment, shall be invested by the official liquidator in Special Saving Certificates or shall be deposited or invested in the National Savings Schemes in the name of the company in liquidation."
      ]
     },
     {
@@ -769,9 +513,7 @@
      "title": "Remuneration of receiver or manager",
      "page": 22,
      "text": [
-      "Subject to the provisions of section 117",
-      "of the Act, the remuneration of receiver or manager shall be such amount as fixed by the court while",
-      "passing the order for appointment of receiver or manager."
+      "Subject to the provisions of section 117 of the Act, the remuneration of receiver or manager shall be such amount as fixed by the court while passing the order for appointment of receiver or manager."
      ]
     },
     {
@@ -779,18 +521,12 @@
      "title": "Inactive Company",
      "page": 22,
      "text": [
-      "(1) Subject to the provisions of section 424 of the Act, a",
-      "company may file an application to the registrar as per Form 38 for obtaining status of an inactive",
-      "company.",
-      "(2) An inactive company shall comply with the following requirements to retain its",
-      "inactive status in the register—",
-      ">>(i) shall have minimum number of one director in case of a single member",
-      "company, two directors in case of a private limited company and three",
-      "directors in case of public limited company;",
+      "(1) Subject to the provisions of section 424 of the Act, a company may file an application to the registrar as per Form 38 for obtaining status of an inactive company.",
+      "(2) An inactive company shall comply with the following requirements to retain its inactive status in the register—",
+      ">>(i) shall have minimum number of one director in case of a single member company, two directors in case of a private limited company and three directors in case of public limited company;",
       ">>(ii) shall file Annual return on Form D along with payment of annual fee as per",
       "Seventh Schedule to the Act.",
-      "(3) Any company which was earlier granted status of inactive company and now desirous",
-      "of starting operations shall apply as per Form 39 to the registrar to become active company."
+      "(3) Any company which was earlier granted status of inactive company and now desirous of starting operations shall apply as per Form 39 to the registrar to become active company."
      ]
     },
     {
@@ -798,16 +534,9 @@
      "title": "Global Register of Beneficial Ownership",
      "page": 23,
      "text": [
-      "(1) Subject to the requirements of",
-      "section 452, the substantial shareholder or officer of a company having shareholding in a foreign",
-      "company or body corporate shall report to the company his shareholding or any other interest as",
-      "notified by the Commission, as per Form 30 within thirty days of holding such position or interest.",
-      "(2) The company shall submit all the information received by it, in terms of sub-",
-      "regulation (1) during the year to the registrar as per Form 31 along with the annual return. In case",
-      "the company is not required to file annual return, it shall only file Form 31 within thirty (30) days",
-      "from the last day of the calendar year to which it relates.",
-      "(3) The company shall also report to the registrar the requisite information in terms of",
-      "provisions of sub-section (3) of section 452 of the Act as per Form 32 along with the annual return."
+      "(1) Subject to the requirements of section 452, the substantial shareholder or officer of a company having shareholding in a foreign company or body corporate shall report to the company his shareholding or any other interest as notified by the Commission, as per Form 30 within thirty days of holding such position or interest.",
+      "(2) The company shall submit all the information received by it, in terms of sub-regulation (1) during the year to the registrar as per Form 31 along with the annual return. In case the company is not required to file annual return, it shall only file Form 31 within thirty (30) days from the last day of the calendar year to which it relates.",
+      "(3) The company shall also report to the registrar the requisite information in terms of provisions of sub-section (3) of section 452 of the Act as per Form 32 along with the annual return."
      ]
     },
     {
@@ -815,11 +544,7 @@
      "title": "Maximum fees to be charged by companies",
      "page": 23,
      "text": [
-      "The maximum limits of fees as are",
-      "required to be paid to or charged by companies from members, creditors or other persons for supply",
-      "of copies of documents, inspection of records and other services under the Act shall not exceed the",
-      "fee specified in the Seventh Schedule for the inspection of a document or register or for the supply",
-      "of a certified copy of an extract of any document or register kept by the registrar or for other services."
+      "The maximum limits of fees as are required to be paid to or charged by companies from members, creditors or other persons for supply of copies of documents, inspection of records and other services under the Act shall not exceed the fee specified in the Seventh Schedule for the inspection of a document or register or for the supply of a certified copy of an extract of any document or register kept by the registrar or for other services."
      ]
     },
     {
@@ -827,13 +552,10 @@
      "title": "Copies of applications to various authorities, etc., to be forwarded to others",
      "page": 23,
      "text": [
-      "A copy of every application together with a copy of each of the documents enclosed therewith shall",
-      "be forwarded by the applicant—",
+      "A copy of every application together with a copy of each of the documents enclosed therewith shall be forwarded by the applicant—",
       ">>(i) in the case of an application made to the Federal Government, to the",
       "Commission and the registrar concerned;",
-      ">>(ii) in the case of an application made to the Commission or the registrar who is",
-      "head of the organisation for the registration of companies in Pakistan, to the",
-      "registrar concerned;",
+      ">>(ii) in the case of an application made to the Commission or the registrar who is head of the organisation for the registration of companies in Pakistan, to the registrar concerned;",
       "and this fact shall be stated in the application."
      ]
     },
@@ -842,22 +564,12 @@
      "title": "Translation of documents other than those under Part XII of the Act",
      "page": 23,
      "text": [
-      "(1) If any",
-      "document or portion of any document required to be filed or registered with the registrar or containing any fact required to be recorded by him in pursuance of any provision contained in any",
-      "part of the Act (except Part XII) is not in English language or in Urdu language, a translation of that",
-      "document or portion either in English language or in Urdu language certified in the manner",
-      "provided in sub-regulation (2) and (3), as the case may be, to be correct translation thereof, shall be",
-      "attached to each copy of the document which is furnished to the registrar.",
-      "(2) Where any such translation is made outside Pakistan, it shall be authenticated by the",
-      "signature and seal, if any, of—",
-      ">>(i) the public officer in the country where the company is incorporated to whose",
-      "custody the original is committed; or",
+      "(1) If any document or portion of any document required to be filed or registered with the registrar or containing any fact required to be recorded by him in pursuance of any provision contained in any part of the Act (except Part XII) is not in English language or in Urdu language, a translation of that document or portion either in English language or in Urdu language certified in the manner provided in sub-regulation (2) and (3), as the case may be, to be correct translation thereof, shall be attached to each copy of the document which is furnished to the registrar.",
+      "(2) Where any such translation is made outside Pakistan, it shall be authenticated by the signature and seal, if any, of—",
+      ">>(i) the public officer in the country where the company is incorporated to whose custody the original is committed; or",
       ">>(ii) a Notary Public of the country where the company is incorporated:",
-      "Provided that signature or seal of the person so certifying shall be authenticated by a Pakistan",
-      "diplomatic consular or consulate officer.",
-      "(3) Where such translation is made within Pakistan, it shall be authenticated by an",
-      "affidavit of any person having, in the opinion of the registrar, an adequate knowledge of the language",
-      "of the original and of English or Urdu, as the case may be."
+      "Provided that signature or seal of the person so certifying shall be authenticated by a Pakistan diplomatic consular or consulate officer.",
+      "(3) Where such translation is made within Pakistan, it shall be authenticated by an affidavit of any person having, in the opinion of the registrar, an adequate knowledge of the language of the original and of English or Urdu, as the case may be."
      ]
     },
     {
@@ -867,30 +579,21 @@
      "text": [
       "(1)",
       "Except as otherwise provided in the Act, the following persons shall be entitled to appear before the",
-      "Federal Government or the Commission or the registrar in any proceedings under sub-section (5) of",
-      "section 479 or section 480, namely—",
+      "Federal Government or the Commission or the registrar in any proceedings under sub-section (5) of section 479 or section 480, namely—",
       ">(a) If the proceedings are against a company—",
       ">>(i) the chief executive of the company; or",
-      ">>(ii) any other person who could make a declaration under clause (a) of",
-      "sub-section (1) of section 16 of the Act; or",
+      ">>(ii) any other person who could make a declaration under clause (a) of sub-section (1) of section 16 of the Act; or",
       ">>(iii) secretary of the company; or",
-      ">>(iv) an advocate, entitled to appear before any High Court in Pakistan or",
-      "the Supreme Court; or",
+      ">>(iv) an advocate, entitled to appear before any High Court in Pakistan or the Supreme Court; or",
       ">>(v) a member of the Institute of Chartered Accountants of Pakistan or the",
-      "Institute of Cost and Management Accountants of Pakistan practicing",
-      "in Pakistan; or",
+      "Institute of Cost and Management Accountants of Pakistan practicing in Pakistan; or",
       ">>(vi) such other person who possesses the qualification as notified by the",
       "Commission; and",
-      ">(b) if the proceedings are against an officer of a company or some other",
-      "individual allegedly responsible for the offence—",
+      ">(b) if the proceedings are against an officer of a company or some other individual allegedly responsible for the offence—",
       ">>(i) the officer or person so alleged; or",
-      ">>(ii) unless otherwise required by the Federal government, the Commission",
-      "or the registrar, any other person as mentioned in sub-clauses (ii), (iv)",
-      "& (v) of clause (a) above, duly authorised in writing by the said officer",
-      "or person for the purpose of the proceedings.",
-      "(2) Where a person authorised under clause (a) or sub-clause (ii) of clause (b) of sub-",
-      "regulation (1) proposes to appear on behalf of a company or any other person in any proceedings,",
-      "the written authority entitling him so to do shall be furnished to the federal government, the",
+      ">>(ii) unless otherwise required by the Federal government, the Commission or the registrar, any other person as mentioned in sub-clauses (ii), (iv)",
+      "& (v) of clause (a) above, duly authorised in writing by the said officer or person for the purpose of the proceedings.",
+      "(2) Where a person authorised under clause (a) or sub-clause (ii) of clause (b) of sub-regulation (1) proposes to appear on behalf of a company or any other person in any proceedings, the written authority entitling him so to do shall be furnished to the federal government, the",
       "Commission or the registrar as the case may be, prior to the proceedings."
      ]
     },
@@ -899,20 +602,9 @@
      "title": "Interpretation of the requirements of the forms",
      "page": 25,
      "text": [
-      "For the application and",
-      "interpretation of the requirements of the forms, unless the subject or context otherwise requires, the",
-      "following shall apply, namely—",
-      ">>(i) if an information is required to be disclosed and, in the application of the",
-      "provision to a company, there is no information which could be so disclosed,",
-      "an express statement giving the factual position would be required to be made",
-      "instead of the information to be stated;",
-      ">>(ii) if a certain information is required to be disclosed “if practicable”, “if",
-      "determinable”, “as near thereto as circumstances admit” or under some other",
-      "similar expression, and it is not practicable for a company to disclose or",
-      "provide information as required, the precise reasons as to why it is not",
-      "practicable to provide the information or it is not possible to determine the",
-      "required information or the circumstances which necessitate deviation from the actual requirements shall be included instead of the information required",
-      "to be stated."
+      "For the application and interpretation of the requirements of the forms, unless the subject or context otherwise requires, the following shall apply, namely—",
+      ">>(i) if an information is required to be disclosed and, in the application of the provision to a company, there is no information which could be so disclosed, an express statement giving the factual position would be required to be made instead of the information to be stated;",
+      ">>(ii) if a certain information is required to be disclosed “if practicable”, “if determinable”, “as near thereto as circumstances admit” or under some other similar expression, and it is not practicable for a company to disclose or provide information as required, the precise reasons as to why it is not practicable to provide the information or it is not possible to determine the required information or the circumstances which necessitate deviation from the actual requirements shall be included instead of the information required to be stated."
      ]
     },
     {
@@ -920,9 +612,7 @@
      "title": "Permanent preservation of memorandum and articles of association of company",
      "page": 26,
      "text": [
-      "Notwithstanding anything contained in any other regulations, a company shall maintain",
-      "and preserve permanently at its registered office, copies of its original and altered memorandum and",
-      "articles of association since incorporation."
+      "Notwithstanding anything contained in any other regulations, a company shall maintain and preserve permanently at its registered office, copies of its original and altered memorandum and articles of association since incorporation."
      ]
     },
     {
@@ -930,10 +620,7 @@
      "title": "Penalty for contravention of these regulations",
      "page": 26,
      "text": [
-      "Whoever fails or refuses to",
-      "comply with, or contravenes any provision of these regulations, or authorises or permits such failure,",
-      "refusal or contravention shall, in addition to any other liability under the Act, be also punishable",
-      "with penalty as provided in sub-section (2) of section 512 of the Act."
+      "Whoever fails or refuses to comply with, or contravenes any provision of these regulations, or authorises or permits such failure, refusal or contravention shall, in addition to any other liability under the Act, be also punishable with penalty as provided in sub-section (2) of section 512 of the Act."
      ]
     },
     {
@@ -941,20 +628,11 @@
      "title": "Repeal",
      "page": 26,
      "text": [
-      "(1) The following rules and notifications hereinafter referred to as repealed",
-      "instruments are hereby repealed, namely—",
+      "(1) The following rules and notifications hereinafter referred to as repealed instruments are hereby repealed, namely—",
       ">(a) The Companies (General Provisions and Forms) Rules, 1985;",
       ">(b) The Single Member Companies Rules, 2003; and",
       ">(c) SRO 546(I) /2017 issued under section 452 of the Act.",
-      "(2) Anything done, actions taken, orders passed, registration granted, notifications",
-      "issued, proceedings initiated and instituted, prosecutions filed, processes or communications issued,",
-      "fee charged and powers conferred, assumed or exercised by the Commission under the repealed",
-      "instruments, shall, on the coming into operation of these regulations, be deemed to have been validly",
-      "done, taken, passed, granted, charged, issued, initiated or instituted, filed, conferred, assumed and",
-      "exercised and every action, prosecution or proceeding instituted and every order, directive,",
-      "notification, circular etc. issued by the Commission shall be deemed to have been initiated, instituted",
-      "or issued under these regulations and shall be proceeded with to completion and be enforced and",
-      "have effect accordingly.",
+      "(2) Anything done, actions taken, orders passed, registration granted, notifications issued, proceedings initiated and instituted, prosecutions filed, processes or communications issued, fee charged and powers conferred, assumed or exercised by the Commission under the repealed instruments, shall, on the coming into operation of these regulations, be deemed to have been validly done, taken, passed, granted, charged, issued, initiated or instituted, filed, conferred, assumed and exercised and every action, prosecution or proceeding instituted and every order, directive, notification, circular etc. issued by the Commission shall be deemed to have been initiated, instituted or issued under these regulations and shall be proceeded with to completion and be enforced and have effect accordingly.",
       "Form A",
       "THE COMPANIES ACT, 2017 THE COMPANIES (GENERAL PROVISIONS AND FORMS) REGULATIONS, 2018 [Section 130(1) and Regulation 4]",
       "ANNUAL RETURN OF COMPANY HAVING SHARE CAPITAL"

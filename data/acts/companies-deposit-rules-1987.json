@@ -1,224 +1,249 @@
 {
-  "id": "companies-deposit-rules-1987",
-  "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
-  "number": "S.R.O. 778(I)/1987",
-  "type": "rules",
-  "unit": "Rule",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Deposit Rules 1987"
-  ],
-  "enacted": "1987-09-26",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "caution": "Made under the Companies Ordinance, 1984, which the Companies Act, 2017 repealed; confirm whether it is still in force.",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 778(I)/1987",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "In exercise of the powers conferred by section 88, read with section 506, of the Companies Ordinance, 1984 (XLVII of 84), and the Finance Division Notification No. S.R.O. 698(I)/86, dated the 2nd July, 1986 the Corporate Law Authority hereby makes the following rules, the same having been published previously as required under the said section 506, namely:-",
-  "parts": [
+ "id": "companies-deposit-rules-1987",
+ "title": "Companies (Invitation and Acceptance of Deposit) Rules, 1987",
+ "number": "S.R.O. 778(I)/1987",
+ "type": "rules",
+ "unit": "Rule",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Deposit Rules 1987"
+ ],
+ "enacted": "1987-09-26",
+ "lastAmended": "2026-06-20",
+ "amendedUpToLabel": "20 June 2026 (no later amendment recorded)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "companies-deposit-rules-1987.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Preliminary",
+   "sections": [
     {
-      "heading": "Rules",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These rules may be called the Companies (Invitation and Acceptance of Deposits) Rules, 1987.",
-            "(2) They shall come into force on the first day of January, 1988.",
-            "(3) They shall apply to all companies, except the banking companies."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these rules, unless there is anything repugnant in the subject or context,-",
-            ">(a) \"banking company\" means a banking company as defined in the Banking Tribunals Ordinance, 1984 (LVIII of 1984);",
-            "[(aa) \"Commission\" means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);]",
-            ">(b) \"deposit\" means any deposit of money with, and includes any amount borrowed by a company but shall not include a loan raised by issue of debentures or a loan obtained from a banking company or a financial institution;",
-            ", (c) \"depositor\" includes any person, other than a banking company or a financial institution, who has given a loan or provided finance other than-",
-            ">(i) finance by way of contribution towards share capital or",
-            ">(ii) finance by way of redeemable capital on contribution to debentures issued by the company to a company.",
-            ">(d) \"form\" means a form annexed to these rules;",
-            ">(e) \"free reserves\" includes any amount which, having been set aside out of the revenue or other surpluses, excluding surplus on revaluation of assets, after adjustment of all intangible or fictitious assets is free in that it is not retained to meet any diminution in value of assets, specific liability contingency or commitment known to exist at the date ot.sn.n0.00 of the balance sheet; 'Clause (aa) inserted by Notification No. SRO 954(I)/2003, dated October 1, 2003.",
-            "III - 5",
-            ">(f) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
-            ">(g) \"Schedule\" means a schedule to the Ordinance; and",
-            ">(h) \"section\" means a section of the Ordinance.",
-            "(2) All other terms and expressions used but not defined in these rules shall have the same meaning as in the Ordinance."
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Acceptance of deposits by companies",
-          "text": [
-            "(1) No company shall accept any deposit-",
-            ">(a) for purposes other than the financing of its own business as referred to in Explanation to clause (c) of section 5 of the Banking Companies Ordinance, 1962 (LVII of 1962);",
-            ">(b) from another company, except a company which is its holding company;",
-            ">(c) which is repayable on demand or on notice or repayable earlier than the expiry of six months or later than the expiry of thirty-six months from the date of acceptance or renewal of such deposit, or renew any such deposit accepted by it, whether before or after the commencement of these rules:",
-            "Provided that a company may, for the purpose of meeting any of its short-term requirements of funds, accept or retain or renew deposits for repayment earlier than six months from the date of deposit or renewal, as the case may be, subject to the conditions that such deposits:",
-            ">(i) shall not exceed ten per cent, of the aggregate of the paid-up share capital and free reserves of the company; and",
-            ">(ii) shall be repayable not earlier than three months from the date of such deposit or renewal, as the case may be:",
-            "Provided further that, where a company has, before the coming into force of these rules, accepted any deposit repayable after a period of more than thirty-six months, such deposits shall, unless renewed after the coming into force of these rules, be repaid in accordance with the terms of such deposits.",
-            "(2) No company shall accept or renew or retain any deposits, if the amount of such deposit, together with the amount of such other deposits, referred to in this rule and outstanding on the date of acceptance or renewal of such deposits, including any deposit accepted under proviso to sub-rule (1), exceeds twenty-five per cent of the aggregate of the paid-up share capital and free reserves of the company.",
-            "(3) If, immediately before the commencement of these rules any deposit, accepted by a company before such commencement, exceeds the limit specified in sub-rule (2), the company shall within five years from the date of coming into force of these rules, bring down the deposits to the limit aforesaid and for this purpose the company shall not renew or retain such deposits on expiry of their pre-existing term nor accept any further deposits besides repaying the same and adopting other measures to bring down the aggregate deposits within the limits permissible under this rule during the said period of five years.",
-            "• (4) Nothing contained in this rule shall apply to the following types of deposits, namely:-",
-            ">(a) any amount received from or guaranteed by the Federal Government or the Government of a Province or a corporation owned or controlled by any such Government;",
-            ">(b). loans or finance raised by issue of debentures on redeemable capital;",
-            ">(c) finance as defined in the Banking Tribunals Ordinance, 1984 (LVIII of 1984) obtained from a banking company or a financial institution;",
-            ">(d) advance or application money or subscription for shares in the company;",
-            ">(e) security deposits with utility companies;",
-            ">(f) security deposits in connection with the execution of contracts;",
-            ">(g) earnest-moneys received from tenders;",
-            ">(h) deposits to undertake deposit works;",
-            ">(i) rent received in advance from a lessee;",
-            "[G) amount received by way 'of security or an advance from any purchasing agent, selling agent or other agent in the ordinary course of business of the company or an advance received against orders for the supply of goods or properties for rendering services;]",
-            ">(k) amount received from an employee by way of security deposit or",
-            "contribution towards provident fund;",
-            "(1) amounts received from employees for payment of annuities or",
-            "superannuation benefits; and",
-            ">(m) amount received from a person who at the time of the receipt of the amount by the company was a director of the company or any amount received by a private company from its shareholders, provided such amount has not been raised from any other person or persons except his spouse and children.",
-            "Explanation.- For the purpose of this rule, in arriving at the aggregate of the paid-share capital and free reserves there shall be deducted from the aggregate of the paid-up share capital and free reserves as appearing in the latest audited balance-sheet of the company, the amount of accumulated balance of loss and balance of deferred revenue expenditure, if any, as disclosed in the said balance sheet."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Purpose for which deposits cannot be utilised",
-          "text": [
-            "No company shall utilise the deposits received by it for providing financial assistance to any other person."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Maintenance of liquid assets",
-          "text": [
-            "(1) Every company shall before the 31st day of December of each calendar year deposit or invest, as the case may be, a sum which shall not be less than ten per cent of the amount of its deposits maturing during the year ending on the 31st day of December next following in any one or more of the following modes, namely:-",
-            ">(a) in a National Savings Scheme;",
-            ">(b) in a special account to be opened by the company for the purpose in a scheduled bank, free from charge or lien;",
-            ">(c) in Government securities; or",
-            ">(d) in such other securities asare notified bythe Authority for the purpose.",
-            "Explanation.- For the purposes of this sub-rule, any marketing campaign launched by a company itself, or by someone else on its behalf, through the print or electronic media or",
-            "by any other means inviting or soliciting the general public or any section thereof through a notice, circular, advertisement or other communication to apply for the purchase of a property or commodity or any other product against payment in full or",
-            "in part, whether or not described as a deposit, shall be treated as a scheme as aforesaid (a) the property or commodity is not in possession of the company at the time when the notice, circular, advertisement or communication is issued; or",
-            ">(b) it offers for sale a product for which the company does not have adequate production facility; or",
-            ">(c) it contains a promise for a gift or reward or some unusual incentive so as to prompt an early booking);\"",
-            "(2) The amount deposited or invested, as the case may be, under sub-rule (1), shall not be utilised for any purpose other than for the repayment of deposits maturing during the year referred to in that sub-rule, provided that the amount remaining deposited or invested, as the case may be, shall not at any time fall below ten per cent of the amount of deposits maturing until the 31st day of December of that year."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Obligation of public companies to issue advertisement and provisions relating thereto",
-          "text": [
-            "(1) Subject to rule 7, every company intending to invite or allow or cause any other person to invite deposits shall issue an advertisement for the purpose in one daily newspaper in English language and one daily newspaper in Urdu language circulating in the province in which the registered and other offices of the company are situated.",
-            "(2) No company shall issue or allow any other person to issue or cause to be issued on its behalf any advertisement, inviting deposits unless such advertisement is issued on the authority and in the name of the Board of Directors of the company and contains a reference to the conditions subject to which deposits shall be accepted by the company, the date on which the said Board of Directors has approved the text of the advertisement, and the matters specified in Form No. 1.",
-            "(3) An advertisement issued in accordance with this rule shall be valid until the expiry of six months from the date of closure of the financial year in which it is issued or until the date on which the balance sheet is laid before the company in general meeting, or where the annual general meeting for any year has not been held, the latest day on which that meeting should have been held in accordance with the provisions of the Ordinance, whichever is earlier, and a fresh advertisement shall be made in each succeeding financial year for inviting deposits during that financial year, within a fortnight of expiry of the said period.",
-            "(4) The advertisement referred to in this rule shall not be issued by or on behalf of a company unless before the date of its issue, approval of the Authority to its issue, circulation or publication has been obtained within sixty days preceding the date of its issue and there has been delivered to the registrar concerned for registration a copy thereof authenticated by the chief executive of the company and a majority of the other directors on the Board of Directors of the company as constituted at the time the Board approved the advertisement.",
-            "Explanation.- For the purposes of this rule, the date of the newspaper in which the advertisement first appears shall be taken as the date of issue of the advertisement."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Certain provisions to apply to private companies and public companies not issuing advertisement",
-          "text": [
-            "The following provisions shall apply to public companies not issuing advertisement and the private companies in E2 addition to the other provisions or conditions laid down in these rules, namely:",
-            ">(a) No private company shall invite or allow or cause any other persons to invite deposits from the public whether by issue of an advertisement, public notice or otherwise;",
-            ". (b) A private company may accept deposits from persons other than its directors or shareholders or their spouses or minor children, provided that the number of such persons shall not exceed twenty at any time;",
-            ">(c) Where a public company intends to accept deposits without issuing an advertisement or a private company intends to accept deposits in the manner permissible under these Rules, it shall before accepting deposits obtain the approval of the Authority and deliver to the registrar concerned for registration a statement in lieu of advertisement containing all the particulars required to be included in the advertisement by virtue of sub-rule (2) of rule 6 authenticated duly in the manner provided in sub-rule (4) of that rule.",
-            ">(d) A statement delivered under sub-rule (3) of rule 6 shall be valid until the expiry of six months from the date of closure of the financial year in which it is so delivered or until the date on which the balance sheet is laid before the company in general meeting, or where annual general meeting for any year has not been held, the latest day on which that meeting should have been held in accordance with the provisions of the Ordinance, whichever is earlier, and a fresh statement in lieu of the advertisement shall be delivered to the registrar concerned within a fortnight of expiry of the said period."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "From of application for deposits",
-          "text": [
-            "(1) No company shall receive or renew any deposit referred to in rule 2 unless an application is made by the intending depositor for the acceptance of such deposit and such application contains a declaration by such person to the effect that the amount is not being deposited out of the funds acquired by him by borrowing or accepting deposits from any other person except his spouse or minor children.",
-            "(2) The application referred to in sub-rulé (1) shall be made in the form supplied by the company and such form shall be accompanied by a statement by the company containing all the particulars specified in sub-rule (2) of rule 6 and incorporating therein all changes in relation to such particulars upto the date on which the form is issued by the company."
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Furnishing of receipts to depositors",
-          "text": [
-            "(1) Every company shall, on the acceptance or renewal of a deposit, furnish to the depositor or his agent, receipt for the amount received by the company.",
-            "(2) The deposit receipt referred to in sub-rule (1) shall be signed by an officer of the company duly authorised by the company in this behalf, and shall state the date of deposit, the name and address of depositor, the amount received by the company as deposit with nature thereof, the rate of return payable thereon and the date on which the deposit is repayable."
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Register of deposits",
-          "text": [
-            "(1) Every company accepting deposits shall keep at its registered office one or more registers in which there shall be entered separately in the case of each depositor, the following particulars namely:",
-            ">(a) name and address of the depositor;",
-            ">(b) date and amount of each deposit with nature thereof;",
-            ">(c) duration of the deposit and the date on which each deposit is • repayable;",
-            ">(d) rate of return;",
-            ">(e) date or dates on which payment of return will be made;",
-            ">(f) date or dates on which firm actually paid and the amount paid on each date;",
-            ">(g) date on which the deposit is actually repaid and the amount repaid;",
-            ">(h) date of renewal, if renewed; and",
-            ">(i) any other particulars relating to the deposit.",
-            "(2) The register or registers referred to in sub-rule (1) shall be preserved in good order for a period of not less than ten calendar years from the financial year in which the last entry is made in the register and shall be open to inspection by any shareholder or depositor of the company without charge."
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Circulation of information to the depositors",
-          "text": [
-            "(1) Every company which has accepted or invited deposits under rule 3 shall within six months of the close of the accounting year of the company send to every depositor the particulars and information required to be included in the case of a public company in an advertisement inviting deposits and in the case of any other company the statement in lieu of advertisement.",
-            "(2) Every depositor shall be supplied within seven days of his request a copy of the latest audited balance sheet and profit and loss account of the company free of cost."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Prohibition on employing agents for soliciting deposits and payment of commission, etc",
-          "text": [
-            "No company shall employ an agent for payment of commission, etc.- No company shall employ an agent for soliciting, collecting and receiving deposits or pay any commission of brokerage to any one on deposits received by it."
-          ]
-        },
-        {
-          "no": "13",
-          "title": "General provisions regarding repayment of deposits",
-          "text": [
-            "(1) Where a company makes repayment of a deposit after the expiry of a period of six months from the date of such deposit but before the expiry of the period for which such deposit was accepted by the company the return payable by the company on such deposit calculated on daily product basis, shall be reduced by one-fourth from the return due on the deposit and the company shall not pay return higher than the profit as so reduced.",
-            "(2) Where any repayment of the deposit or payment of any return thereon company shall pay to the depositor an additional return at the rate of two per cent per month calculated on daily product basis, or such higher rate as may be specified by the Authority in the case of any particular company or depositor or class of companies or depositors.",
-            "(3) A deposit accepted or received by a company, whether before or after commencement of these rules, and any return due thereon shall be repaid or paid, as the case may be, on a date not later than seven days from the date becoming due or payable and if default is made in repayment of any deposit or payment of return thereon as aforesaid without approval of the Authority, the company shall forthwith discontinue acceptance of new deposits and renewal of deposits already received by it until permitted by the Authority and subject to conditions as may be imposed by it."
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Power of Authority to decide certain questions",
-          "text": [
-            "If the question arises as to whether these rules are or are not applicable to particular company or deposit, such question shall be decided by the Authority."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Return of deposits to be filed with the Registrar",
-          "text": [
-            "(1) Every company to which these rules apply, shall on or before the 31st day of March, of every year, file with the Registrar, a return in From-Il and furnish the information contained therein as on the 31st day of December of the previous year certified by the auditor of the company.",
-            "(2) A copy of the return shall also be simultaneously furnished to the Authority."
-          ]
-        },
-        {
-          "no": "16",
-          "title": "Penalty",
-          "text": [
-            "If a company or any other person contravenes any provision of these rules for which no punishment is provided in the Ordinance, the company and every officer of the company or such other person, who is in default, shall be punishable with fine which may extend to two thousand rupees and where the contravention is a continuing one, with a further fine which may extend to one hundred rupees for every day after the first during which the contravention continues.",
-            "(annexure not reproduced)"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These rules may be called the Companies (Invitation and Acceptance of deposits) Rules, 1987.",
+      "(2) They shall come into force on the first day of January,1988.",
+      "(3) They shall apply to all companies, except the banking companies."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these rules, unless there is anything repugnant in the subject or context,-",
+      ">(a) \"banking company\" means a banking company as defined in the Banking Tribunals ordinance, 1984 (LVIII of 1984);",
+      "1[(aa) “Commission” means the Securities and Exchange Commission of Pakistan established under the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);]",
+      ">(b) \"deposit\" means any deposit of money with, and includes any amount borrowed by, a company, but shall not include a loan raised by issue of debentures or a loan obtained from a banking company or a financial institution;",
+      ">(c) \"depositor\" includes any person, other than a banking company or a financial institution, who has given a loan or provided finance other than-",
+      ">>(i) finance by way of contribution towards share capital; or",
+      ">>(ii) finance by way of redeemable capital on contribution to debentures issued by the company to a company.",
+      ">(d) \"form\" means a form annexed to these rules;",
+      ">(e) \"free reserves\" includes any amount which, having been set aside out of revenue of other surpluses, excluding surplus on revaluation of assets is free in that it is not retained to meet any diminution in value of assets, specific liability, contingency or commitment known to exist at the date of the balance sheet;",
+      ">(f) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
+      ">(g) \"Schedule\" means a schedule to the Ordinance; and",
+      ">(h) \"section\" means a section of the Ordinance.",
+      "(2) All other terms and expressions used but not defined in these rules shall have the same meaning as in the Ordinance."
+     ],
+     "fn": [
+      {
+       "n": "1-1",
+       "text": "Inserted by S.R.O. 954(I)/2003."
+      }
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Acceptance of deposits by companies",
+     "page": 2,
+     "text": [
+      "(1) No company shall accept any deposit-",
+      ">(a) for purposes other than the financing of its own business as referred to in Explanation to clause (c) of Section 5 of the Banking Companies Ordinance, 1962 (LVII of 1962);",
+      ">(b) from another company, except a company which is its holding company;",
+      ">(c) which is repayable on demand or on notice or repayable earlier than the expiry of six months or later than the expiry of thirty-six months from the date of acceptance of renewal of such deposit, or renew any such deposit accepted by it, whether before or after the commencement of these rules:",
+      "Provided that a company may, for the purpose of meeting any of its shortterm requirements of funds, accept or retain or renew deposits for repayment earlier than six months from the date of deposit or renewal, as the case may be, subject to the conditions that such deposits-",
+      ">>(i) shall not exceed ten per cent of the aggregate of the paid-up share capital and free reserves of the company; and",
+      ">>(ii) shall be repayable not earlier than three months from the date of such deposit or renewal, as the case may be:",
+      "Provided further that, where a company has, before the coming into force of these rules, accepted any deposit repayable after a period of more than thirty-six months, such deposits shall, unless renewed after the coming into force of these rules, be repaid in accordance with the terms of such deposits.",
+      "(2) No company shall accept or renew or retain any deposits, if the amount of such deposit, together with the amount of such other deposits, referred to in this rule and outstanding on the date of acceptance or renewal of such deposits, including any deposit accepted under proviso to sub-rule (1), exceeds twenty-five percent of the aggregate of the paid-up share capital and free reserves of the company.",
+      "(3) If, immediately before the commencement of these rules, any deposit, accepted by a company before such commencement, exceeds the limit specified in sub-rule (2), the company shall, within five years from the date of coming into force of these rules, bring down the deposits to the limit aforesaid and for this purpose the company shall not renew of retain such deposits of expiry of their pre-existing term nor accept any further deposits besides repaying the same and adopting other measures to bring down the aggregate deposits within the limits permissible under this rule during the said period of five years.",
+      "(4) Nothing contained in this rule shall apply to the following types of deposits, namely:-",
+      ">(a) any about received from or guaranteed by the federal Government or the Government of a province or a corporation owned or controlled by any such Government;",
+      ">(b) loans or finance raised by issuer of debentures redeemable capital;",
+      ">(c) finance as defined in the Banking Tribunals Ordinance, 1984 (LVIII of 1984) obtained from a banking company or a financial institution;",
+      ">(d) advance or application money or subscription for shares in the company;",
+      ">(e) security deposits with utility companies;",
+      ">(f) security deposits in connection with the execution of contracts;",
+      ">(g) earnest-moneys received from tender;",
+      ">(h) deposits to undertake deposit works;",
+      ">(i) rent received in advance from a lessee;",
+      ">(j) amount received by way of security or an advance from any purchasing agent, selling agent or other agent in the ordinary course of business of the company or an advance received against orders for the supply of goods or properties for rendering services 2[not being the amount collected through a scheme advertised in the media or by any other means by real estate companies, automobile or other companies as an advance against the promise to supply the property or commodity, as the case may be, at some future date:",
+      "Provided that this clause shall not apply to such company as is notified by the Commission to be exempt in consultation with the concerned trade organization duly licensed and registered under the Trade Organizations Ordinance, 1961 (XLV of 1961).",
+      "Explanation.- For the purposes of this sub-rule, any marketing campaign launched by a company itself, or by someone else on its behalf, through the print or electronic media or by any other means inviting or soliciting the general public or any section thereof through a notice, circular, advertisement or other communication to apply for the purchase of a property or commodity or any other product against payment in full or in part, whether or not described as a deposit, shall be treated as a scheme as aforesaid if",
+      ">(a) the property or commodity is not in possession of the company at the time when the notice, circular, advertisement or communication is issued; or",
+      ">(b) it offers for sale a product for which the company does not have adequate production facility; or",
+      ">(c) it contains a promise for a gift or reward or some unusual incentive so as to prompt an early booking];",
+      ">(k) amount received from an employee by way of security deposit or contribution towards provident fund;",
+      ">(l) amounts received from employees for payment of annuities or superannuation benefits ; and",
+      ">(m) amount received from a person who at the time of the receipt of the amount by the company was a director of the company or any amount received by a private company from its shareholders, provided such about has not been raised from any other person or person except his spouse and children.",
+      "Explanation: For the purpose of this rule, in arriving at the aggregate of the paid-up share capital and free reserves there shall be deducted from the aggregate of the paid-up share capital and free reserves as appearing in the latest audited balance sheet of the company, the amount of accumulated balance of loss and balance of deferred revenue expenditure, if any, as disclosed in the said balance sheet."
+     ],
+     "fn": [
+      {
+       "n": "3-2",
+       "text": "Inserted by S.R.O. 954(I)/2003. FORM I [ See Rule 6(2)] MATTERS TO BE SPECIFIED IN THE ADVERTISEMENT (a) Name of the company and address of the registered office; (b) Date of incorporation of the company; (c) Status of the company, i.e., whether public (Listed or not) or private; (d) Particulars of Holding Company/ Subsidiaries; (e) Names, addresses and occupations of the Chief Executive and Directors; (g) Business carried on by the company and its subsidiaries with the details of branches and units/projects, if any; (h) Purpose for which deposit invited/solicited specifying the main projects/ objects to be financed with deposits; (i) Profits of the company, before and after making provision for taxes or loss, as the case may be, for the three financial years immediately preceding the date of advertisement ( or such shorter period as the company may have issued accounts); (j) Dividend/ bonus declared by the company in each of the last three financial years of the company (or such shorter period for which the company may have issued accounts); (k) A summarised financial position of the company appearing in the two balance sheets immediately preceding the date of the advertisement in the following form certified by the company’s auditors:-- SUMMARISED FINANCIAL POSITION OF THE COMPANY AS APPEARING IN THE AUDITED BALANCE SHEETS IMMEDIATELY PRECEDING FINANCIAL YEARS Reserves and Figures for Figures for Assets Figures for Figures for Liabilities the latest the the latest the financial financial financial financial year for year year for year which preceding which preceding audited the year audited the year accounts referred to accounts referred to are in column 2 are in column 5 available with date available with date with date with date 2 3 4 5 6 1 Fixed assets i Paid up share capital ii Free reserves Investments iii Other Currents reserves/Surplusesassets /Profits iv Deposits Miscellaneo us v Secured Loss for the Loans/Finances year vi Unsecured Accumulated loans/Finances Loss/Deficit balance vii Current liabilities and provision Note: (a) Brief particulars of contingent liabilities to be added by way of a foot-note. (b) A summarised financial position may not be incorporated in the statement in lieu of advertisement of private company. (c) The amount which the company can raise by way of deposits under these rules and the aggregate of deposits actually held on the last day of the immediately preceding financial year; (d) Terms and conditions applicable to deposits; (e) A statement to the effect that on the day of the advertisement, the company has no overdue deposits other than unclaimed deposits or a statement showing the amount of such overdue deposits, as the case may be; (f) A declaration to the effect-- (i) that the company has complied with the provisions of these rules; (ii) that the deposits accepted by the company (other than secured deposits, if any, accepted under the provisions of these rules, the aggregate amount of which may be indicated) are unsecured and ranking pari passu with other unsecured liabilities; (iii) that compliance with these rules or approval of the Securities and Exchange Commission of Pakistan does not imply that repayment of deposits is guaranteed or financial soundness of any scheme or correctness of any of the statements made or opinion expressed with regard to the same is accepted by the Federal Government or the Securities and Exchange Commission of Pakistan; (iv) that approval of the Commission has been obtained to the invitation and acceptance of deposits and issue of the advertisement, as the case may be. Chief Executive Signatures: Date: Place: FORM II [See Rule 15(1)] RETURN OF DEPOSITS WITH COMPANIES OTHER THAN BANKING COMPANIES AS ON THE 31ST DECEMBER, 20--"
+      }
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Purpose for which deposits cannot be utilized",
+     "page": 4,
+     "text": [
+      "No company shall utilize the deposits received by it for providing financial assistance to any other person."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Maintenance of liquid assets",
+     "page": 4,
+     "text": [
+      "(1) Every company shall before the 31st day of December of each calendar year deposit or invest, as the case may be, a sum which shall not be less than ten percent of the about of its deposits maturing during the year ending on the 31st day of December next following, in any one or more of the following modes, namely:-",
+      ">(a) in a National Savings Scheme;",
+      ">(b) in a special account to be opened by the company for the purpose in a scheduled bank, free from change or lien;",
+      ">(c) in Government securities; or",
+      ">(d) in such other securities as are notified by the Commission for the purpose.",
+      "(2) The amount deposited or invested, as the case may be, under sub-rule (i), shall not be utilized for any purpose other than for the repayment of deposits maturing during the year referred to in that sub-rule, provided that the about remaining deposited or invested, as the case may be, shall not at any time fall below ten per cent of the amount of deposits maturing until the 31st day of December of the year."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Obligation of public companies to issue advertisement and provisions relation thereto",
+     "page": 5,
+     "text": [
+      "(1) Subject to rule 7, every company intending to invite or allow or cause any other person to invite deposits shall issue an advertisement for the purpose in one daily newspaper in English language and in one daily newspaper in Urdu language circulating in the province in which the registered and other offices of the company are situated.",
+      "(2) No company shall issue or allow any other person to issue or cause to be issued on its behalf; any advertisement, inviting deposits unless such advertisement is issued on the authority and in the name of the Board of Directors of the company and contains a reference to the conditions subject to which deposits shall be accepted by the company, the date on which the said Board of Directors has approved the test of the advertisements, and the matters specified in Form No. 1.",
+      "(3) An advertisement issued in accordance with this rule shall be valid until the expiry of six months form the date of closure of the financial year in which it is issued or until the date on which the balance sheet is laid before the company in general meeting, or where the annual general meeting for any year has not been held, the latest day on which that meeting should have been held in accordance with the provisions of the Ordinance, whichever is earlier, and a fresh advertisement shall be made in each succeeding financial year for inviting deposits during that financial year, within a fortnight of expiry of the said period.",
+      "(4) The advertisement referred to in this rule shall not be issued by or on behalf of a company unless before that date of it issue, approval of the Commission to its to its issue, circulation or publication has been obtained within sixty days preceding the date of its issue and there has been delivered to the registrar concerned for registration a copy thereof authenticated by the chief executive of the company and a majority of the other directors on the Board of Directors of the company as constituted at the time the Board approved the advertisement.",
+      "Explanation: For the purposes of this rule, the date of the newspaper in which the advertisement first appears shall be taken as the date of issue of the advertisement."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Certain provisions to apply to private companies and public companies not issuing advertisement",
+     "page": 5,
+     "text": [
+      "The following provisions shall apply to public companies not issuing advertisement and the private companies in addition to the other provisions or conditions laid down in these rules, namely:-",
+      ">(a) No private company shall invite or allow or cause any other person to invite deposits from the public whether by issue of and advertisement, public notice or otherwise;",
+      ">(b) A private company may accept deposits from person other than its directors or shareholders or their spouses or minor children, provided that the number of such persons shall not exceed twenty at any time;",
+      ">(c) Where a public company intends to accept deposits without issuing an advertisement or a private company intends to accept deposits in the manner permissible under these rules, it shall before accepting deposits obtain the approval of the Commission and deliver to the registrar concerned for registration a statement in lieu of advertisement containing all the particulars required to be included in the advertisement by virtue of sub-rule (2) of rule 6 authenticated duly in the manner provided in sub-rule (4) of that rule.",
+      ">(d) A statement delivered under sub-rule (3) of rule 6 shall be valid until the expiry of six months from the date of closure of the financial year in which it is so delivered or until the date on which the balance sheet is laid before the company in general meeting, or where annual general meeting for any year has not been held, the latest day on which that meeting should have been held in accordance with the provisions of the Ordinance, whichever is earlier, and a fresh statement in lieu of the advertisement shall be delivered to the registrar concerned within a fortnight of expiry of the period."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Form of application for deposits",
+     "page": 6,
+     "text": [
+      "(1) No company shall accept or renew any deposit referred to in 2 unless an application is made by the intending depositor for the acceptance of such deposit and such application contains a declaration by such person to the effect that the amount is not being deposited out of the funds acquired by him by borrowing or accepting deposits from any other person except his spouse or minor children.",
+      "(2) The application referred to in sub-rule (1) shall be made in the form supplied by the company and such form shall be accompanied by a statement by the company containing all the particulars specified in sub-rule (2) of rule 6 and incorporating therein all changes in relation to such particulars up to the date on which the form is issued by the company."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Furnishing of receipts to depositors",
+     "page": 6,
+     "text": [
+      "(1) Every company shall on the acceptance or renewal of a deposit, furnish to the depositor or his agent, receipt for the about received by the company.",
+      "(2) The deposit receipt referred to in sub-rule(1) shall be signed by an officer of the company duly authorized by the company in this behalf, and shall state the date of deposit, the name and address of depositor, the amount received by the company as deposit with nature thereof, the rate of return payable thereon and the date on which the deposit is repayable."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Register of deposits",
+     "page": 7,
+     "text": [
+      "(1) Every company accepting deposits shall keep at its registered office on or more registers in which there shall be entered separately in the case of each depositor, the following particulars namely:-",
+      ">(a) name and the address of the depositor;",
+      ">(b) date and amount of each deposit with nature thereof;",
+      ">(c) duration of the deposit and the date on which each deposit is repayable;",
+      ">(d) rate of return;",
+      ">(e) date or dates on which payment of return will be mace;",
+      ">(f) date or dates on which firm actual paid and the amount paid on each;",
+      ">(g) date on which the deposit is actually repaid and the amount repaid;",
+      ">(h) date of renewal, if renewed; and",
+      ">(i) any other particulars relating to the deposit.",
+      "(2) The register or registers referred to in sub-rake (1) shall be preserved in good order for a person of not less than ten calendar years from the financial year in which the last entry is made in the register and shall be open to inspection by any shareholder or depositor of the company without charge."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Circulation of information to the depositors",
+     "page": 7,
+     "text": [
+      "(1) Every company which has accepted or invited deposits under rule 3 shall within six months of the close of the accounting year of the company send to every depositor the particulars and information required to be included in the case of a public company in an advertisement inviting deposits and in the case of any other company the statement in lieu of advertisement.",
+      "(2) Every depositor shall be supplied within seven days of his request a copy of the latest audited balance sheet and profit and loss account of the company free of cost."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Prohibition on employing agents for soliciting deposits and payment of commission, etc",
+     "page": 7,
+     "text": [
+      "No company shall employ an agent for soliciting, collecting and receiving deposits or pay any commission of brokerage to any on deposits received by it."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "General provisions regarding repayment of deposits",
+     "page": 7,
+     "text": [
+      "(1) Where a company makes repayment of a deposit after the expiry of a period of six months from the date of such deposit but before the expiry of the period for which such deposit was accepted by the company the return payable by the company on such deposit calculated on daily product basis, shall be reduced by one-fourth from the return due on the deposit and the company shall not pay return higher than the profit as so reduced.",
+      "(2) Where any repayment of the deposit of payment of any return thereon is not made within seven days of the date on which it becomes payable, the company shall pay to the depositor an additional return at the rate of two per cent per month calculated on daily product basis, or such higher rate as may be specified by the Commission in the case of any particular company or depositor or class of companies or depositors.",
+      "(3) A deposit accepted or received by a company, whether before of after commencement of these rules, and any return due thereon shall be repaid or paid, as the case may be, on a date not later than seven days from the date becoming due or payable and if default is made in repayment of any deposit or payment of return thereon as aforesaid without approval of the Commission, the company shall forthwith discontinue acceptance of new deposits and renewal of deposits already received by it until permitted by the Commission and subject to conditions as may be imposed by it."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Power of Commission to decide certain questions",
+     "page": 8,
+     "text": [
+      "If any question arises as to whether these rules are or are not applicable to particular company or deposit, such question shall be decided by the Commission."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Return of deposits to be filed with the Registrar",
+     "page": 8,
+     "text": [
+      "(1) Every company to which these rules apply, shall on oar before the 31st date of March of every year, file with the Registrar, a return in Form-II and furnish the information contained therein as on the 31st day of December of the previous year certified by the auditor of the company.",
+      "(2) A copy of the return shall also be simultaneously furnished to the Commission."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Penalty",
+     "page": 8,
+     "text": [
+      "If a company or any other person contravenes any provision of these rules for which no punishment is provided in the Ordinance, the company and every officer of the company or such other person, who is in default, shall be punishable with fine which may extend to two thousand rupees and where the contravention is a continuing one, with a further fine which may extend to one hundred rupees for every day after the first during which the contravention continues.",
+      ">(f) Date on which the Board of Directors approved the advertisement statement;"
+     ]
     }
-  ],
-  "schedules": [],
-  "frontNotes": []
+   ]
+  }
+ ]
 }

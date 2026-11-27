@@ -1,0 +1,28 @@
+{
+ "insurance-rules-2017": {
+  "1": {
+   "pdf": "insurance-rules-2017/01-annexure-i.pdf",
+   "pages": 2
+  },
+  "2": {
+   "pdf": "insurance-rules-2017/02-annexure-ii.pdf",
+   "pages": 30
+  },
+  "3": {
+   "pdf": "insurance-rules-2017/03-annexure-iii.pdf",
+   "pages": 6
+  },
+  "4": {
+   "pdf": "insurance-rules-2017/04-annexure-iv.pdf",
+   "pages": 17
+  },
+  "5": {
+   "pdf": "insurance-rules-2017/05-annexure-v.pdf",
+   "pages": 3
+  },
+  "7": {
+   "pdf": "insurance-rules-2017/07-annexure-vii.pdf",
+   "pages": 1
+  }
+ }
+}

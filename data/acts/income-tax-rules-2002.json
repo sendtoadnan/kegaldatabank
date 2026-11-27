@@ -141,8 +141,7 @@
      "page": 18,
      "text": [
       "The value of conveyance provided by the employer to the employee shall be taken equal to an amount as below:-",
-      ">>(i) Partly for 5% of: personal and (a) the cost to the employer for acquiring the partly for official motor vehicle; or, use (b) the fair market value of the motor vehicle",
-      "at the commencement of the lease, if the motor vehicle is taken on lease by the employer;",
+      ">>(i) Partly for 5% of: personal and (a) the cost to the employer for acquiring the partly for official motor vehicle; or, use (b) the fair market value of the motor vehicle at the commencement of the lease, if the motor vehicle is taken on lease by the employer;",
       ">>(ii) For personal use 10% of: only (a) the cost to the employer for acquiring the motor vehicle; or,",
       ">(b) the fair market value of the motor vehicle at the commencement of the lease, if the motor vehicle is taken on lease by the employer; and"
      ]
@@ -483,8 +482,7 @@
      "page": 29,
      "text": [
       "(1) Every investor shall calculate tax on capital gain arising on securities {fn:29-2}[ ] at the prescribed rates.",
-      "(2) Every investor other than individual investor shall e-file statement of advance tax on capital gain on the prescribed format within {fn:29-3}[twenty one]",
-      "days after the end of each quarter with the tax authority having jurisdiction in the case.",
+      "(2) Every investor other than individual investor shall e-file statement of advance tax on capital gain on the prescribed format within {fn:29-3}[twenty one] days after the end of each quarter with the tax authority having jurisdiction in the case.",
       "(3) The liability to pay the due tax on capital gain shall lie on the investor who held the securities during the period for which tax on capital gain is to be paid and, in case of any benami accounts, on the investor who de facto owns the securities carried in such accounts."
      ],
      "fn": [
@@ -1004,8 +1002,7 @@
       ">>(i) Details of the transaction",
       "A person holding shares of a company, for which GDR is issued, may deposit the shares with the Depository for issuance of shares. Conversely, the GDR issued may either be redeemed at specified time or cancelled before time in which case the Depository issues shares to the GDR holder.",
       ">>(ii) Tax treatment",
-      "When the person deposits shares into the Depository and get issued GDRs, the shares will be taken as disposed of and",
-      "consequently, capital gain will be required to be computed. Since the value of GDRs issued will not be available to NCCPL, therefore, the market price (day-end price) of the date of transfer shall be taken as consideration received by the person for the purpose of computation and collection of capital gain tax.",
+      "When the person deposits shares into the Depository and get issued GDRs, the shares will be taken as disposed of and consequently, capital gain will be required to be computed. Since the value of GDRs issued will not be available to NCCPL, therefore, the market price (day-end price) of the date of transfer shall be taken as consideration received by the person for the purpose of computation and collection of capital gain tax.",
       "Similarly, when GDRs are converted into shares, the deposit of shares in the person’s account shall not be a taxable event, being an acquisition of shares. However, as the value for which GDRs converted into shares will not be available with NCCPL, therefore, the cost of acquisition for such shares shall be taken the market price (day- end price) of the date on which the shares are deposited.",
       ">(k) Gift (to family members or to members other than family members)",
       ">>(i) Details of the transaction",
@@ -1044,10 +1041,8 @@
       "Since such transactions are settled by the Transacting CM, NCCPL shall compute capital gain in respect of such transaction from such Transacting CM.",
       ">(p) Pledge call",
       ">>(i) Details of the transaction",
-      "When a borrower defaults in payment to the lender, and {fn:64-1}[securities] were pledged as collateral, the borrower is entitled to transfer such {fn:65-1}[securities] from the person in default to his own",
-      "account.",
-      ">>(ii) Tax treatment When the {fn:65-2}[securities] are transferred from the account of person",
-      "in default to the lender’s account, such transfer will be treated as disposal for tax purposes. The system price (day-end price) will be taken as deemed consideration for the purpose of computation of capital and tax thereon. Since no proceeds will be due to the person in default, thus, NCCPL may not be able to collect tax from such person. However, NCCPL shall report such capital gain and the amount tax, if any, in the statements.",
+      "When a borrower defaults in payment to the lender, and {fn:64-1}[securities] were pledged as collateral, the borrower is entitled to transfer such {fn:65-1}[securities] from the person in default to his own account.",
+      ">>(ii) Tax treatment When the {fn:65-2}[securities] are transferred from the account of person in default to the lender’s account, such transfer will be treated as disposal for tax purposes. The system price (day-end price) will be taken as deemed consideration for the purpose of computation of capital and tax thereon. Since no proceeds will be due to the person in default, thus, NCCPL may not be able to collect tax from such person. However, NCCPL shall report such capital gain and the amount tax, if any, in the statements.",
       ">{fn:65-3}[(q) Disposal of bonus shares",
       ">>(i) Details of the transaction.-",
       "A company issues bonus shares to its shareholders, which are subsequently sold by the shareholder in the market.",
@@ -1140,8 +1135,7 @@
       ">(za) Capital gains on disposal of debt security",
       "Tax treatment",
       "By including debt securities in the definition of security in section 37A, the gain or loss on disposal of debt securities shall be computed, collected and paid as provided in Eighth Schedule, unless opted out with the approval of Commissioner. However companies shall not be subject to this regime and will continue to be taxed as in the past with the rates applicable to the companies and not the rates as amended in Division VII of Part I of First Schedule. Individuals on the other hand shall be subject to mechanism as laid down in the Eighth Schedule to the Ordinance, in respect of debt securities for which settlements are undertaken by NCCPL.]",
-      ">{fn:75-2}[(zb) Sales transactions of securities of private/public unlisted",
-      "company after its conversion into listed company:-",
+      ">{fn:75-2}[(zb) Sales transactions of securities of private/public unlisted company after its conversion into listed company:-",
       ">>(i) Detail of the transaction An investor, holding such securities, sells securities in a stock exchange. The transaction is settled by transferring the securities sold from his account maintained in Central Depository System to the investor buying the securities with credit of sale proceeds to the account of investor disposing of the securities.",
       ">>(ii) Tax treatment",
       "Disposal of security is to be taken as taxable event, at settlement date. {fn:76-1} [The capital] gain will be computed by applying FIFO method. Capital Gain shall be chargeable to tax as per section 37A read with rates specified in Division VII of Part I of the First Schedule of the Income Tax Ordinance, 2001.",
@@ -1150,8 +1144,7 @@
       ">(b) NCCPL shall compute capital gain and tax thereon, if any, in the following manner:-",
       ">(c) Date of acquisition will be based on CDC data while face value will be entered as cost of acquisition for shares acquired before IPO period, whereas cost of acquisition for shares acquired during IPO period shall be the IPO price.",
       "Purchases/ Acquisitions Disposal",
-      "Date No. of Price Cost 1st Jan,8th Feb,1st March, Shares 2022 2022 2022",
-      "st 500 1,000 500 1 Jan 2013 1000 10 10,000 1st April 2015 500 500 7,500",
+      "Date No. of Price Cost 1st Jan,8th Feb,1st March, Shares 2022 2022 2022 st 500 1,000 500 1 Jan 2013 1000 10 10,000 1st April 2015 500 500 7,500",
       "1st Sep 2015 500 500 11,000",
       "Selling Price per Share 25 30 35",
       "Sale Proceed 12,500 30,000 17,500",
@@ -1180,8 +1173,7 @@
       ">>(i) Details of transaction:",
       "A member of PMEX has entered into future commodity contracts which are traded at PMEX. These can either be settled in cash or through actual settlement. Capital gains tax would have to be worked out in accordance with applicable legal framework.",
       ">>(ii) Tax Treatment:",
-      "Effective from 1 July 2016, future commodity contracts entered into by the member of PMEX are brought in the ambit of Eighth Schedule under NCCPL. Accordingly NCCPL will calculate and",
-      "determine capitals gain tax liability on these contracts in terms of Rule 13N.",
+      "Effective from 1 July 2016, future commodity contracts entered into by the member of PMEX are brought in the ambit of Eighth Schedule under NCCPL. Accordingly NCCPL will calculate and determine capitals gain tax liability on these contracts in terms of Rule 13N.",
       ">>(iii) Examples:",
       "The examples in respect of above are as under (below rates are hypothetical and used solely for understanding purposes, therefore, rate as per Division VII of Part I of First Schedule will be applicable in case of actual transactions):",
       "Example 1. Cash settled future commodity contracts:",
@@ -1679,8 +1671,7 @@
       "(1) This rule applies for the purposes of section 103, which provides for the foreign tax credit.",
       "(2) A resident taxpayer claiming a foreign tax credit for a tax year shall submit an application for the credit with the taxpayer's return of income for that year.",
       "(3) An application for a foreign tax credit shall be in the form as specified in Part I of the First Schedule to these rules.",
-      "(4) Subject to sub-rule (5), an application for a foreign tax credit shall be",
-      "accompanied by the following {fn:94-2}[documents], namely:-",
+      "(4) Subject to sub-rule (5), an application for a foreign tax credit shall be accompanied by the following {fn:94-2}[documents], namely:-",
       "(5)",
       ">(a) where the tax has been deducted at source, a declaration by the payer of the income tax has been deducted and a certified copy of the receipt that the payer has received from the foreign tax authority for the deducted tax; or",
       ">(b) in any other case, the original or a certified copy of the receipt that the taxpayer has received from the foreign tax authority for the tax paid.",
@@ -1721,8 +1712,7 @@
       ">>(i) any expenditure incurred in Pakistan in earning such income;",
       ">>(ii) any expenditure incurred in Pakistan in respect of any work done in pursuance of such agreement; and",
       ">>(iii) any expenditure incurred outside Pakistan in respect of any work done in pursuance of such agreement not exceeding ten percent of the gross amount of such royalty.",
-      ">(d) The provisions of {fn:97-1}[clauses] (b) and (c) would not apply where,",
-      "royalty is covered by section 169."
+      ">(d) The provisions of {fn:97-1}[clauses] (b) and (c) would not apply where, royalty is covered by section 169."
      ],
      "fn": [
       {
@@ -2161,8 +2151,7 @@
      "title": "Application of this rule",
      "page": 118,
      "text": [
-      "{fn:118-1}[ (1) This rule applies for the purposes of {fn:118-2}[sub-",
-      "section (7) of section 37 and] sub-sections (5), (6) and (7) of section 101A to prescribe:",
+      "{fn:118-1}[ (1) This rule applies for the purposes of {fn:118-2}[sub-section (7) of section 37 and] sub-sections (5), (6) and (7) of section 101A to prescribe:",
       ">(a) documents and statement for information required to be furnished to the Commissioner under sub-section (7) of section 101A;",
       ">(b) fair market value of the assets for the purposes of sub-section (5) of section 101A; {fn:118-3}[ ]",
       ">(c) determination of reasonable attribution of income of the non-resident in respect of assets located in Pakistan for the purposes of subsection (6) of section 101A {fn:119-1}[; and]",
@@ -2173,8 +2162,7 @@
       ">(b) in case shares or securities are traded on any stock exchange and the transaction is not carried out through the stock exchange, fair market value of such shares and securities shall be the market price (day-end price) of such shares or securities traded on stock exchange on the date of transaction:",
       "Provided that if the shares or securities are not traded on the stock exchange on the date of transaction, fair market value of such shares and securities shall be the market price (day-end price) of such shares or securities traded on a date immediately preceding the date of transaction when such shares and securities were traded on the stock exchange.",
       ">(c) in case shares or securities are not traded on any stock exchange and the shares are equity shares, the fair market value shall be computed according to the following formula, namely: —",
-      "(A + B + C – D) E/F",
-      "where—",
+      "(A + B + C – D) E/F where—",
       "A book value of all assets, other than those mentioned in component B;",
       "B fair market value under section 68 in respect of:",
       ">>(i) immovable property; and",
@@ -2194,8 +2182,7 @@
       "Provided that where the Commissioner is not satisfied with the valuation or the valuation methodology, the Commissioner may appoint any expert as is considered necessary for the purposes of obtaining valuation under section 222.",
       ">(g) If the transaction value of the share is higher than the value of share determined under this rule, then the value of a share shall be the transaction value of the share.",
       "(3) For the purpose of sub-section (6) of section 101A, income attributable to assets located in Pakistan shall be computed according to the following formula, namely: —",
-      "(A/B) x C",
-      "where —",
+      "(A/B) x C where —",
       "A income from the transfer of share of, or interest in, computed in accordance with the provisions of section 101, as if, such share or interest is located in Pakistan;",
       "B fair market value of assets located in Pakistan from which the share or interest referred to in A derives its value substantially",
       "C fair market value of all the assets of the company, computed under these rules.",
@@ -2203,8 +2190,7 @@
       "(5) Every taxpayer through which a non-resident company holds, directly or indirectly, assets, the value of which is derived, wholly or principally from the assets located in Pakistan and the non-resident company disposes of the asset, the taxpayer shall furnish to the Commissioner within sixty days of the transaction of disposal or alienation of the asset by the non-resident company, the information and documents as specified in Form A of this rule:",
       "Provided that where the said period of sixty days has already expired before coming into force of this rule, and the transaction has been made after first of July, 2018, the information and documents specified in Form A shall be furnished within thirty days of coming into force of this rule.",
       "(6) The provisions of Division IV of Part V of Chapter X and section 205 shall apply, mutatis mutandis, to the person required to deduct tax under sub-section (8) of section 101A and company required to collect tax under sub-section (9) of section 101A.",
-      "{fn:122-1}[(7) For the purpose of determining fair market value of shares under sub-",
-      "section (7) of section 37, component D in the formula in clause (c) of sub-rule (2) shall be taken as zero.",
+      "{fn:122-1}[(7) For the purpose of determining fair market value of shares under sub-section (7) of section 37, component D in the formula in clause (c) of sub-rule (2) shall be taken as zero.",
       "(8) State Bank of Pakistan shall not allow transfer or registration of repatriable shares unless prescribed certificate from the Commissioner, to the effect that the tax liability under sub-sections (6) to (10) of section 37 is discharged, is provided by the person selling the shares.]",
       "Form A",
       "[To be filled and furnished along with required documents as per section 107(7)]"
@@ -2246,8 +2232,7 @@
      "title": "Application of this rule",
      "page": 124,
      "text": [
-      "{fn:124-1}[ (1) This rule applies for the purposes of second",
-      "proviso to sub-section (1) of section 37A.",
+      "{fn:124-1}[ (1) This rule applies for the purposes of second proviso to sub-section (1) of section 37A.",
       "(2) Section 37A shall not apply to the disposal of shares of listed companies otherwise than through registered stock exchange and which are not settled through NCCPL.",
       "(3) For the purposes of second proviso to sub-section (1) of section 37A, “shares of a listed company” shall not include units of a mutual fund or collective investment scheme or a REIT scheme or derivative products and provisions of section 37A shall remain applicable on disposal of such units, schemes or products.",
       "Explanation. – It is clarified that the provisions of section 37A shall remain applicable on transactions of shares of listed companies as recorded in the system of NCCPL and reported in accordance with Eighth Schedule of the Income Tax Ordinance 2001.]"
@@ -2798,8 +2783,7 @@
       ">(a) Serially numbered and dated cash-memo / invoice / receipt for each transaction of sale or receipt containing the following:-",
       ">>(i) taxpayer's name or the name of his business, address, national tax number {fn:147-4}[or CNIC] and sales tax registration number, If any;",
       ">>(ii) the description, quantity and value of goods sold or services rendered; and",
-      ">>(iii) in case of a wholesaler, distributor, dealer and",
-      "commission agent, where a single transaction exceeds Rs.10,000, the name and address of the customer;",
+      ">>(iii) in case of a wholesaler, distributor, dealer and commission agent, where a single transaction exceeds Rs.10,000, the name and address of the customer;",
       "Provided that where each transaction does not exceed Rs.100, one or more cash-memos per day for all such transactions may be maintained;",
       ">(b) Cash book and/or bank book or daily record of receipts, sales, payments. purchases and expenses; a single entry in respect of daily receipts, sales, purchases and different heads of expenses will suffice;",
       ">(c) General ledger or annual summary of receipts, sales, payments, purchases and expenses under distinctive heads;",
@@ -3027,8 +3011,7 @@
       ">>(v) send the summary report with following fields to FBR periodically (daily, weekly or monthly) –",
       ">(a) total sale; and",
       ">(b) total number of invoices or bills for the period;",
-      ">>(vi) every adjustment, modification or cancellation must be recorded",
-      "duly maintaining logs for each activity; and",
+      ">>(vi) every adjustment, modification or cancellation must be recorded duly maintaining logs for each activity; and",
       ">>(vii) system events need to be recorded.",
       "(4) The invoice or bill for each transaction shall be transmitted to EFD specifying the following particulars, namely:–",
       ">(a) POS Registration Number;",
@@ -3161,8 +3144,7 @@
       "Services provided for personal Where — care by beauty parlours, clinics the facility of air-conditioning is not 5. and slimming clinics, massage installed.",
       "centres, pedicure centres.",
       "All medical service providers Where — including dentists, physiotherapists, plastic the fee charges are less than Rs. 6. surgeons, hair implant 500/-. surgeons, and veterinary doctors.",
-      "Pathological laboratories, medical diagnostic 7. laboratories including X-Rays, CT Scan, M.R. Imaging etc. Private hospitals or medical care centres providing medical 8. consultation, hospitalization or",
-      "other ancillary services",
+      "Pathological laboratories, medical diagnostic 7. laboratories including X-Rays, CT Scan, M.R. Imaging etc. Private hospitals or medical care centres providing medical 8. consultation, hospitalization or other ancillary services",
       "Health clubs, gyms, physical fitness centres, swimming pools and multipurpose clubs such as Lahore gymkhana, 9. Islamabad club, Chenab Club, Karachi gymkhana, Royal Palm Lahore, Polo club etc. operated by any civilian/ non-civilian administration. Where Photographers, videographers 10. The fee charges are less than Rs. and event managers 50,000 per event Accountants defined as —",
       ">(a) a Chartered Accountant within the meaning of the Chartered Accountants Ordinance, 1961 (X of 1961); or 1 1",
       ">(b) a Cost and Management Accountant within the meaning of the Cost and Management Accountants Act, 1966 (XIV of 1966). Retailers including A retailer who does not fall in any of the manufacturer cum-retailer, following categories, namely: — wholesaler-cum retailer, importer-cum-retailer or such (a) a retailer operating as a unit of other person who combines national or international chain of the activity of retail sale with stores; 12. another business activity.",
@@ -3545,8 +3527,7 @@
       "(2) A wealth statement shall be –",
       ">(a) in the form specified In Part {fn:174-1}[IV] of the Second Schedule to these rules;",
       ">(b) verified in the manner specified in the form; {fn:174-2}[ ]",
-      ">(c) accompanied by such documents, statements and certificates as specified in the form, and in the Ordinance, these rules and",
-      "circulars issued under the Ordinance {fn:174-3}[and]",
+      ">(c) accompanied by such documents, statements and certificates as specified in the form, and in the Ordinance, these rules and circulars issued under the Ordinance {fn:174-3}[and]",
       ">{fn:174-3}[(d) accompanied by a wealth reconciliation statement.]"
      ],
      "fn": [
@@ -3882,8 +3863,7 @@
       ">(a) Collecting tax under Division II of Part V of Chapter X of the Ordinance;",
       ">(b) Deducting tax from a payment under Division III of Part V of Chapter X of the Ordinance, except in the case of salary;",
       ">(c) Collecting or deducting tax under Chapter XII of the Ordinance; or",
-      ">(d) Deducting tax under the Sixth Schedule to the Ordinance,",
-      "shall issue a certificate to the person from whom tax has been collected or deducted, in the form as set out in Part VII of the Second Schedule to these rules, within fifteen days after the end of the financial year or discontinuation of business etc.",
+      ">(d) Deducting tax under the Sixth Schedule to the Ordinance, shall issue a certificate to the person from whom tax has been collected or deducted, in the form as set out in Part VII of the Second Schedule to these rules, within fifteen days after the end of the financial year or discontinuation of business etc.",
       "(2) Where the person from whom tax has been collected or deducted requests for the issuance of the certificate before the end of the financial year, the certificate under sub-rule (1) shall be issued for the period in that year within seven days of the request made.",
       "(3) Where the certificate issued under sub-rule (1) or sub-rule (2) has been lost, stolen or destroyed the recipient of the certificate may request, in writing, to the issuer of the certificate to issue a duplicate thereof.",
       "(4) Where a request has been made under sub-rule (3), the issuer of the certificate shall comply with the request and the certificate so issued shall be clearly marked \"duplicate\".",
@@ -4385,8 +4365,7 @@
      "title": "Forms and notices",
      "page": 209,
      "text": [
-      "Any order, notice, assessment, computation or other document required to be issued under the Ordinance or these rules may be generated by computer and the order, notice, assessment, computation or other document shall not require the signature of the {fn:209-4}[officer of Inland Revenue] whose name and",
-      "designation is specified thereon."
+      "Any order, notice, assessment, computation or other document required to be issued under the Ordinance or these rules may be generated by computer and the order, notice, assessment, computation or other document shall not require the signature of the {fn:209-4}[officer of Inland Revenue] whose name and designation is specified thereon."
      ],
      "fn": [
       {
@@ -4572,8 +4551,7 @@
       "(RULE 77)",
       "NO._________ OF 20____",
       "APPELLANT Vs. RESPONDENT",
-      "{fn:223-1} [Inland Revenue Office] in which",
-      "assessment was made and one in which it is located",
+      "{fn:223-1} [Inland Revenue Office] in which assessment was made and one in which it is located",
       "Tax year to which the appeal relates",
       "Section of the Income Tax Ordinance, 2001 under which Commissioner passed the order",
       "Commissioner (Appeals) passing the appellate order",
@@ -4582,8 +4560,7 @@
       "Address to which notices may be sent to the respondent",
       "Claim in appeal",
       "2GROUNDS OF APPEAL",
-      "-- AS PER SEPARATE SHEET ATTACHED --",
-      "x",
+      "-- AS PER SEPARATE SHEET ATTACHED --x",
       "_______________________________ (Appellant) _______________________________ (Authorised Representative, if any)",
       "VERIFICATION",
       "We _____________________________________, the appellant do hereby declare that what is stated above is true to the best of our information and belief.",
@@ -4633,8 +4610,7 @@
       "(3) First Appellate Order (by the Commissioner (Appeals).",
       "(4) Original assessment or other order.",
       "6. That other document (s) or copies thereof, as specified below (the translation in English of the document, where necessary are annexed with the statement of the case.",
-      "{fn:226-1}[7. It is certified that the respondent has been intimated regarding filing of",
-      "reference along with this copy of reference on ________.] ________________________________ Signed (Appellant) ________________________________",
+      "{fn:226-1}[7. It is certified that the respondent has been intimated regarding filing of reference along with this copy of reference on ________.] ________________________________ Signed (Appellant) ________________________________",
       "Signed (Authorized Representative, if any)",
       "N.B:- 1. The application must be made in triplicate.",
       "2. The application made by taxpayer must be accompanied by a fee of one hundred rupees. The fee be deposited in the Treasury or a Branch of the National Bank of Pakistan or the State Bank of Pakistan alongwith the income tax challan (in quadruplicate) and one copy of the challan be attached with the application.",
@@ -4721,8 +4697,7 @@
       ">(o) “Pension Fund of a Governmental Entity, International Organization or Central Bank” means a fund established by a Governmental Entity, International Organization or Central Bank to provide retirement, disability or death benefits to beneficiaries or participants that are current or former employees (or persons designated by such employees) or that are not current or former employees, if the benefits provided to such beneficiaries or participants are in consideration of personal services performed for the Governmental Entity, International Organization or Central Bank;",
       ">(p) “Qualified Credit Card Issuer” means a Financial Institution satisfying the following requirements, namely:-",
       ">>(i) the Financial Institution is a Financial Institution solely because it is an issuer of credit cards that accepts deposits only when a customer makes a payment in excess of a balance due with respect to the card and the overpayment is not immediately returned to the customer; and",
-      ">>(ii) beginning on or before the 1st July, 2017, the Financial Institution",
-      "implements policies and procedures either to prevent a customer from making an overpayment in excess of fifty thousand US Dollars or to ensure that any customer overpayment in excess of fifty thousand US Dollars is refunded to the customer within sixty days, in each case applying the rules set forth in sub-rule (3) of rule 78I for account aggregation and currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns;",
+      ">>(ii) beginning on or before the 1st July, 2017, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of fifty thousand US Dollars or to ensure that any customer overpayment in excess of fifty thousand US Dollars is refunded to the customer within sixty days, in each case applying the rules set forth in sub-rule (3) of rule 78I for account aggregation and currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns;",
       ">(q) “Exempt Collective Investment Vehicle” means an Investment Entity that is regulated as a collective investment vehicle, provided that all of the interests in the collective investment vehicle are held by or through individuals or Entities that are not Reportable Persons except a Passive NFE with Controlling Persons who are Reportable Persons. An Investment Entity that is regulated as a collective investment vehicle does not fail to qualify as an Exempt Collective Investment Vehicle, solely because the collective investment vehicle has issued physical shares in bearer form, provided that-",
       ">>(i) the collective investment vehicle has not issued and does not issue any physical shares in bearer form;",
       ">>(ii) the collective investment vehicle retires all such shares upon surrender;",
@@ -4742,8 +4717,7 @@
       ">(y) “Cash Value” means the greater of (a) the amount that the policyholder is entitled to receive upon surrender or termination of the contract (determined without reduction for any surrender charge or policy loan), and (b) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term “Cash Value” does not include an amount payable under an Insurance Contract-",
       ">>(i) solely by reason of the death of an individual insured under a life insurance contract;",
       ">>(ii) as a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against;",
-      ">>(iii) as a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment-linked life insurance contract or an Annuity Contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of",
-      "the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract;",
+      ">>(iii) as a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment-linked life insurance contract or an Annuity Contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract;",
       ">>(iv) as a policyholder dividend (other than a termination dividend) provided that the dividend relates to an Insurance Contract under which the only benefits payable are described in sub-clause (ii) of clause (y); or",
       ">>(v) as a return of an advance premium or premium deposit for an Insurance Contract for which the premium is payable at least annually if the amount of the advance premium or premium deposit does not exceed the next annual premium that will be payable under the contract;",
       ">(z) “Preexisting Account” means a Financial Account maintained by a Reporting Financial Institution on or before the 30th June, 2017;",
@@ -4790,8 +4764,7 @@
       "Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of fifty thousand US Dollar or to ensure that any customer overpayment in excess of fifty thousand US Dollars is refunded to the customer within sixty days, in each case applying the rules set forth in sub-rule (3) of rule 78I for currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns;",
       ">>(vii) any other account that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the accounts described in sub- clauses (i) through (vi) of clause (ah) and is included in the list to be published by the Federal Board of Revenue (FBR) and made available on its web portal, on recommendations of the State Bank of Pakistan and the Securities and Exchange Commission of Pakistan, as the case may be, as excluded account, provided that the status of such account as an Excluded Account does not frustrate the purposes of these rules;",
       ">(ai) “Reportable Account” means an account held by one or more Reportable Persons or by a Passive NFE with one or more Controlling Persons that is a Reportable Person provided it has been identified as such pursuant rule 78D through 78J;",
-      ">(aj) “Reportable Person” means a {fn:240-1}[Reportable Jurisdiction] Person",
-      "other than-",
+      ">(aj) “Reportable Person” means a {fn:240-1}[Reportable Jurisdiction] Person other than-",
       ">>(i) a corporation the stock of which is regularly traded on one or more established securities markets;",
       ">>(ii) any corporation that is a Related Entity of a corporation described in sub-clause (i);",
       ">>(iii) a Governmental Entity;",
@@ -4800,8 +4773,7 @@
       ">>(vi) a Financial Institution.",
       ">(ak) “Reportable Jurisdiction Person” means an individual or Entity that is resident in a Reportable Jurisdiction or an estate of a decedent that was a resident of Reportable Jurisdiction. For this purpose, an Entity such as a partnership, limited liability partnership or similar legal arrangement that has no residence for tax purposes shall be treated as resident in the jurisdiction in which its place of effective management is situated;",
       ">(al) “Reportable Jurisdiction” means all jurisdictions other than Pakistan and the United States of America;",
-      ">(am) “Participating Jurisdiction” means a jurisdiction (i) with which an agreement is in place pursuant to which {fn:241-1}[it will] provide the",
-      "information specified in rule 78C, and (ii) which is identified in a published list to be made available on FBR’s web portal;",
+      ">(am) “Participating Jurisdiction” means a jurisdiction (i) with which an agreement is in place pursuant to which {fn:241-1}[it will] provide the information specified in rule 78C, and (ii) which is identified in a published list to be made available on FBR’s web portal;",
       ">(an) “Controlling Persons” means the natural persons who exercise control over an Entity {fn:241-2}[or owns 20% or above stake in an entity.]",
       "In the case of a trust, such term means the settlor, the trustees, the protector, if any, the beneficiaries or class of beneficiaries and any other natural person exercising ultimate effective control over the trust and in the case of a legal arrangement, other than a trust, such term means persons in equivalent or similar positions. The term “Controlling Persons” must be interpreted in a manner consistent with the Financial Action Task Force recommendations;",
       ">(ao) “NFE” means any Entity that is not a Financial Institution;",
@@ -4928,8 +4900,7 @@
       "The following procedures apply for purposes of identifying Reportable Accounts among preexisting Individual Accounts, namely:-",
       "(1) Accounts not Required to be Reviewed, Identified, or Reported. A Preexisting Individual Account that is a Cash Value Insurance Contract or an Annuity Contract is not required to be reviewed, identified or reported, provided the Reporting Financial Institution is effectively prevented by law from selling such Contract to residents of a Reportable Jurisdiction.",
       "(2) Lower Value Accounts. The following procedures shall apply with respect to Lower Value Accounts, namely:-",
-      ">(a) Residence Address. If the Reporting Financial Institution has in its records a current residence address for the individual Account Holder based on Documentary Evidence, the Reporting Financial Institution",
-      "may treat the individual Account Holder as being a resident for tax purposes of the jurisdiction in which the address is located for purposes of determining whether such individual Account Holder is a Reportable Person;",
+      ">(a) Residence Address. If the Reporting Financial Institution has in its records a current residence address for the individual Account Holder based on Documentary Evidence, the Reporting Financial Institution may treat the individual Account Holder as being a resident for tax purposes of the jurisdiction in which the address is located for purposes of determining whether such individual Account Holder is a Reportable Person;",
       ">(b) Electronic Record Search. If the Reporting Financial Institution does not rely on a current residence address for the individual Account Holder based on Documentary Evidence as set forth in sub-clause (a) of clause (2), the Reporting Financial Institution shall review electronically searchable data maintained by the Reporting Financial Institution for any of the following indicia and apply sub-clause (c) through (f) of sub-clause (2).",
       "i) identification of the Account Holder as a resident of Reportable Jurisdiction;",
       "ii) current mailing or residence address (including a post office box) in a Reportable Jurisdiction;",
@@ -4967,8 +4938,7 @@
       ">>(i) if none of the indicia listed in sub-clause (b) of clause (2) are discovered in the enhanced review of High Value Accounts described above and the account is not identified as held by a Reportable Person in sub-clause (d) of clause (3), then further action is not required until there is a change in circumstances that results in one or more indicia being associated with the account;",
       "ii) if any of the indicia listed in paragraphs (i) through (v) of sub-clause (b) of clause (2) are discovered in the enhanced review of High Value Accounts described above, or if there is a subsequent change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution shall treat the account as a Reportable Account with respect to each Reportable Jurisdiction for which an indicium is identified unless it elects to apply sub-clause (f) of clause (2) and one of the exceptions in such clause applies with respect to that account;",
       ">>(iii) if a “hold mail” instruction or “in-care-of” address is discovered in the enhanced review of High Value Accounts described above, and no other address and none of the other indicia listed in paragraphs (i) through (v) of sub-clause (b) of clause (2) are identified for the Account Holder, the Reporting Financial Institution shall obtain from such Account Holder a self-certification or Documentary Evidence to establish the residence for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain such self-certification or Documentary Evidence, it shall report the account as an undocumented account;",
-      ">(f) if a Preexisting Individual Account is not a High Value Account as of the 30th June, 2017, but becomes a High Value Account as of the last day",
-      "of a current or subsequent calendar year, the Reporting Financial Institution shall complete the enhanced review procedures described in clause (3) with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Financial Institution shall report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person;",
+      ">(f) if a Preexisting Individual Account is not a High Value Account as of the 30th June, 2017, but becomes a High Value Account as of the last day of a current or subsequent calendar year, the Reporting Financial Institution shall complete the enhanced review procedures described in clause (3) with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Financial Institution shall report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person;",
       ">(g) once a Reporting Financial Institution applies the enhanced review procedures described in clause (3) to a High Value Account, the Reporting Financial Institution is not required to re-apply such procedures, other than the relationship manager inquiry described in sub-clause (d) clause (3), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting Financial Institution should re-apply them annually until such account ceases to be undocumented;",
       ">(h) if there is a change of circumstances with respect to a High Value Account that results in one or more indicia described in sub-clause (b) of clause (2) being associated with the account, then the Reporting Financial Institution shall treat the account as a Reportable Account with respect to each Reportable Jurisdiction for which an indicium is identified unless it elects to apply sub-clause (f) of clause (2) and one of the exceptions in such sub-clause applies with respect to that account.",
       ">(i) A Reporting Financial Institution shall implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the",
@@ -4998,8 +4968,7 @@
       "(1) Entity Accounts not Required to be Reviewed, Identified or Reported. Unless the Reporting Financial Institution elects otherwise, either with respect to all Preexisting Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Preexisting Entity Account with an aggregate account balance or value that does not exceed two hundred fifty thousand US Dollars as of the 31st December,",
       "2017, is not required to be reviewed, identified or reported as a Reportable Account until the account balance or value exceeds two hundred fifty thousand US Dollars as of the last day of any subsequent calendar year;",
       "(2) Entity Accounts subject to Review. A Preexisting Entity Account that has an aggregate account balance or value that exceeds two hundred fifty thousand US Dollars as of the 31st December, 2017, and a",
-      "Preexisting Entity Account that does not exceed two hundred fifty thousand US Dollars as of the 31st December, 2017 but the aggregate",
-      "account balance or value of which exceeds two hundred fifty thousand US Dollars as of the last day of any subsequent calendar year, shall be reviewed in accordance with the procedures set forth in clause (4);",
+      "Preexisting Entity Account that does not exceed two hundred fifty thousand US Dollars as of the 31st December, 2017 but the aggregate account balance or value of which exceeds two hundred fifty thousand US Dollars as of the last day of any subsequent calendar year, shall be reviewed in accordance with the procedures set forth in clause (4);",
       "(3) Entity Accounts with respect to which Reporting is required. With respect to Preexisting Entity Accounts described in clause (2), only accounts that are held by one or more Entities that are Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons, shall be treated as Reportable Accounts;",
       "(4) Review Procedures for identifying entity Accounts with respect to which Reporting is required. For Preexisting Entity Accounts described in clause (2), a Reporting Financial Institution shall apply the following review procedures to determine whether the account is held by one or more Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons, namely:-",
       ">(a) Determine whether the Entity is a Reportable Person.",
@@ -5011,8 +4980,7 @@
       ">>(iii) Determining whether a Controlling Person of a Passive NFE is a Reportable Person. For the purposes of determining whether a Controlling Person of a Passive NFE is a Reportable Person, a Reporting Financial Institution may rely on Information collected and maintained pursuant to AML or KYC Procedures in the case of a Preexisting Entity Account held by one or more NFEs with an aggregate account balance that does not exceed one million US Dollars ; or a self-certification from the Account Holder or such Controlling Person of the jurisdiction in which the Controlling Person is resident for tax purposes; and",
       "(5) Timing of Review and Additional Procedures Applicable to Preexisting Entity Accounts.",
       ">(a) Review of Preexisting Entity Accounts with an aggregate account balance or value that exceeds two hundred fifty thousand US Dollars as of the 31st December, 2017 shall be completed by the 31st December, 2018.",
-      ">(b) Review of Preexisting Entity Accounts with an aggregate account balance or value that does not exceed two hundred fifty thousand US Dollars as of the 31st December, 2017, but exceeds two hundred fifty thousand US Dollars as of the 31st December of a",
-      "subsequent year, shall be completed within the calendar year following the year in which the aggregate account balance or value exceeds two hundred fifty thousand US Dollars; and",
+      ">(b) Review of Preexisting Entity Accounts with an aggregate account balance or value that does not exceed two hundred fifty thousand US Dollars as of the 31st December, 2017, but exceeds two hundred fifty thousand US Dollars as of the 31st December of a subsequent year, shall be completed within the calendar year following the year in which the aggregate account balance or value exceeds two hundred fifty thousand US Dollars; and",
       ">(c) If there is a change of circumstances with respect to a Preexisting Entity Account that causes the Reporting Financial Institution to know, or have reason to know, that the self-certification or other documentation associated with an account is incorrect or unreliable, the Reporting Financial Institution shall re-determine the status of the account in accordance with the procedures set forth under clause (4)."
      ]
     },
@@ -5042,8 +5010,7 @@
       "(2) Alternative procedures for financial accounts held by individual beneficiaries of a cash value insurance contract or an annuity contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial Institution and associated with the beneficiary contains indicia as described in clause (2) of rule 78E. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution shall follow the procedures in clause (2) of rule 78E;",
       "(3) Account Balance Aggregation and Currency Rules.-",
       ">(a) Aggregation of individual accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this sub-rule;",
-      ">(b) Aggregation of entity accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire",
-      "balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subrule;",
+      ">(b) Aggregation of entity accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subrule;",
       ">(c) Special aggregation rule applicable to relationship managers. For purposes of determining the aggregate balance or value of Financial Accounts held by a person to determine whether a Financial Account is a High Value Account, a Reporting Financial Institution is also required, in the case of any Financial Accounts that a relationship manager knows, or has reason to know, are directly or indirectly owned, controlled, or established (other than in a fiduciary capacity) by the same person, to aggregate all such accounts; and",
       ">(d) Amounts read to include equivalent in other currencies. All dollar amounts are in U.S. dollars and shall be read to include equivalent amounts in other currencies, as determined by domestic law."
      ]
@@ -5162,12 +5129,10 @@
       "{fn:266-3}[",
       "(1) An individual having CNIC required to file return of total income manually shall be treated as registered under sub-section (4) of section 181 on the day he files the return manually.",
       "(2) An individual having CNIC required to e-file return of total income shall be treated as registered, when the individual is e-enrolled.",
-      "{fn:266-4}[(3) A company, an association of persons (AOP), foreign national or foreign",
-      "government shall be treated as registered when the company, AOP, the foreign national or foreign government is e-enrolled.]",
+      "{fn:266-4}[(3) A company, an association of persons (AOP), foreign national or foreign government shall be treated as registered when the company, AOP, the foreign national or foreign government is e-enrolled.]",
       "(4) An individual having CNIC who failed to file return, shall be registered by the Commissioner having jurisdiction on the basis of CNIC or NICOP when he is satisfied after providing opportunity to be heard that the income of the individual is taxable and is required to file return of income.",
       "(5) An individual not having CNIC and required to file return of total income manually shall be registered in the same manner as specified in subrules (1) and (4), either on application by the individual or if Commissioner is satisfied that income of individual is taxable after providing opportunity to be heard.",
-      "{fn:267-1}[(6) A company, an AOP, foreign national or foreign government shall be",
-      "treated as registered as per sub-rule (3), if the Commissioner, having jurisdiction over the company, an AOP, foreign national or foreign government, is satisfied after providing opportunity to be heard that the company, the AOP, foreign national or foreign government requires registration.]"
+      "{fn:267-1}[(6) A company, an AOP, foreign national or foreign government shall be treated as registered as per sub-rule (3), if the Commissioner, having jurisdiction over the company, an AOP, foreign national or foreign government, is satisfied after providing opportunity to be heard that the company, the AOP, foreign national or foreign government requires registration.]"
      ],
      "fn": [
       {
@@ -5189,8 +5154,7 @@
      "title": "E-enrollment",
      "page": 267,
      "text": [
-      "{fn:267-2}[ Every individual, an AOP, a company or a foreign",
-      "government required to e-file return of total income shall submit form of e-enrolment as specified in Part IX of the First Schedule to these rules through Board’s online system.]"
+      "{fn:267-2}[ Every individual, an AOP, a company or a foreign government required to e-file return of total income shall submit form of e-enrolment as specified in Part IX of the First Schedule to these rules through Board’s online system.]"
      ],
      "fn": [
       {
@@ -5204,8 +5168,7 @@
      "title": "Requirement of e-enrolment",
      "page": 267,
      "text": [
-      "{fn:267-3}[ (1) An individual required to be registered",
-      "under sub-rule (2) of rule 80 shall provide –",
+      "{fn:267-3}[ (1) An individual required to be registered under sub-rule (2) of rule 80 shall provide –",
       "{fn:267-4}[",
       ">(a) number of CNIC, NICOP, POC or foreign passport;]",
       ">(b) cell phone number in his name;",
@@ -5375,8 +5338,7 @@
       "{fn:273-3}[Provided that Active Taxpayers List published during financial year 2013-14, shall be valid upto the 10th April, 2015.]",
       "(4) ATL shall be updated on {fn:273-4}[ ] {fn:273-5}[daily basis].",
       "{fn:273-6}[",
-      "(5) The name of a company or an association of persons, whose return is not due to be filed because of incorporation or formation of such company or association of persons after the 30th day of June relevant to",
-      "the latest tax year, shall be included in the active taxpayers’ list.]",
+      "(5) The name of a company or an association of persons, whose return is not due to be filed because of incorporation or formation of such company or association of persons after the 30th day of June relevant to the latest tax year, shall be included in the active taxpayers’ list.]",
       "(6) In case a joint account is held in a bank by more than one person, the joint account holders as an entity shall be deemed to have met the criteria as laid down under sub-rule (5), if any of the persons in the joint account meets the criteria as laid down under the said subrule (5).",
       "(7) In case an account is held in a bank in the name of a minor, the minor shall be deemed to have met the criteria as laid down under sub-rule (5), if the parent, guardian or any person who has made deposits in the minor's account meet the criteria as laid down under said sub-rule (5).",
       "(8) A person's name shall be included in ATL on the: immediately following updation date, if at any time the criteria as laid down under sub-rule (5), is fulfilled by that person.]",
@@ -5487,8 +5449,7 @@
      "page": 276,
      "text": [
       "{fn:276-1}",
-      "(1) Every person deriving income from business chargeable to tax who has been issued with a National Tax Number {fn:276-1}[Certificate] shall display the",
-      "person's National Tax Number at a conspicuous place at every place of business of the person.",
+      "(1) Every person deriving income from business chargeable to tax who has been issued with a National Tax Number {fn:276-1}[Certificate] shall display the person's National Tax Number at a conspicuous place at every place of business of the person.",
       "(2) Every person referred to in sub-rule (1) shall quote the person's National Tax Number in the following circumstances, namely:-",
       ">(a) in all commercial transactions entered into by the person;",
       ">(b) in cash memos issued under rule 30;",
@@ -5631,16 +5592,13 @@
      "text": [
       "(1)Every company or AOP shall retain the records of all beneficial owners for a period of ten years from the date when the beneficial owners of that company or AOP, as the case may be, cease to be the beneficial owners of that company or AOP.",
       "(2) Board shall retain the records of beneficial owners of all companies and AOPs registered with the Board for a period of ten years from the date when that company or AOP ceases to be registered with FBR.",
-      "Form BOF-01 Record of Beneficial Owner",
-      "prescribed under section 181E of Income Tax Ordinance, 2001",
+      "Form BOF-01 Record of Beneficial Owner prescribed under section 181E of Income Tax Ordinance, 2001",
       "RECORDS OF BENEFICIAL OWNER(S) Cascading Tests Sr. No Category of Information to be and Application Beneficial Obtained Owner(s) Test 1 1 Particulars of Name of beneficial The test aims at beneficial owner(s) owner identifying, who exercise(s) Father’s name/Spouse’s obtaining and ultimate effective name verifying the control over the Date of Birth particulars of the company or AOP Nationality of beneficial beneficial owner(s) through direct owner(s) who exercise(s) ownership rights CNIC/NICOP/NTN/Pass ultimate effective (shareholding) of port number(s)/ Foreign control over the twenty-five percent National Identity number company or AOP or more. of beneficial owner(s) through Percentage of direct/indirect shareholding/ownership ownership and interest held by the voting rights. beneficial owner(s)",
       "Date of acquisition of ownership interest Residential and Commercial addresses of the beneficial owner. 2 Particulars of the Name of beneficial beneficial owner(s) owner who exercise Father’s name/Spouse’s ultimate effective name control over the Date of Birth company or AOP Nationality of beneficial through ownership owner(s) rights of twenty-five CNIC/NICOP/NTN/Pass percent or more port number(s)/Foreign through chain of National Identity number ownerships. of beneficial owner(s)",
       "Particulars of all legal owner(s) i.e. all legal entity(ies) or/and arrangement(s) through which the company or AOP is indirectly owned by the beneficial owner(s).",
       "i. Name(s) of the legal owner(s) ii. Type of legal owner(s) involved in chain of ownership (e.g. Joint Stock Company, Limited Liability Company, Foundation, Trusts etc.) iii. Country of Registration/Incorp oration of legal owner(s) iv. Incorporation /Registration detail(s) of the legal owner(s) i.e. Incorporation number, date of incorporation and name of registering authority. v. Registered addresses of the legal owner(s) Percentage of shareholding/ownership interest held by the beneficial owner(s) Date of acquisition of ownership interest Residential and Commercial addresses of the beneficial owner.",
       "3 Particulars of the Name of beneficial beneficial owner(s) owner who exercise Father’s name/Spouse’s ultimate effective name control over the Date of Birth company or AOP Nationality of beneficial through joint control owner(s) arrangements. CNIC/NICOP/NTN/Pass port number(s)/Foreign National Identity number of beneficial owner(s) Details/nature of relationship between the beneficial owners involved in joint control arrangement. ▪ Relatives [For example, Mr. X who holds x percentage of ownership interests in M/s ABC company/AOP is the spouse of Ms. Y who holds y percentage of ownership interest in the same company/AOP]. ▪ Friends ▪ Other associates (Please specify) Percentage of shareholding/ownership interest of each beneficial owner involved in joint control arrangement Date of acquisition of ownership interest by each beneficial owner Residential and Commercial addresses of the beneficial owner(s). 4 Particulars of the Name of beneficial beneficial owner(s) owner who exercise Father’s name/Spouse’s ultimate effective name control over the Date of Birth company or AOP Nationality of beneficial through voting owner(s) rights. CNIC/NICOP/NTN/Pass port number(s)/Foreign National Identity number of beneficial owner(s) Details of voting rights that provide control to the beneficial owner(s). Percentage of voting rights held by the beneficial owner(s) Residential and Commercial addresses of the beneficial owner. Test 2 1 Particulars of the Name of beneficial Test 2 aims at beneficial owner(s) owner Identifying, who exercise Father’s name/Spouse’s obtaining and ultimate effective name verifying the control over the Date of Birth particulars of the company or AOP Nationality of beneficial beneficial owner(s) through contractual owner(s) who exercise(s) associations. CNIC/NICOP/NTN/Pass ultimate effective port number(s)/Foreign control over the National Identity number company or AOP of beneficial owner(s) through Nature and details of the contractual contract which provides associations and effective control of the personal and/or company or AOP to the family connections contracting parties/ with the owners / beneficial owner. directors/ Residential and management of the Commercial addresses company or AOP. of the beneficial owner(s)",
-      "2 Particulars of the Name of beneficial If there is doubt beneficial owner(s) owner under Test 1 as to who exercise Father’s name/Spouse’s whether a person ultimate effective name with direct/ control over the Date of Birth indirect/joint company or AOP Nationality of beneficial ownership interest through personal owner(s)",
-      "or direct/indirect and/or family CNIC/NICOP/NTN/Pass voting rights is a connections with port number(s)/Foreign beneficial owner, or the National Identity number where no natural management/ownerof beneficial owner(s) person exerts s/directors of the Nature and details of the control through company or AOP. personal/family ownership interests connection which and voting rights, provides effective control then the particulars to the beneficial owner of a natural [e.g. Mr. X (the beneficial person(s) owner) has influence exercising control over the company or over company or AOP for being AOP through associated to Mr. Y means of control (company’s managing other than director)]. ownership and Residential and voting rights, are Commercial addresses obtained by of the beneficial owner. application of Test 2. Test 3 1 Particulars of the Name of beneficial Test 3 aims at beneficial owner(s) owner Identifying, who exercise Father’s name/Spouse’s obtaining and ultimate effective name verifying the control over the company or AOP Date of Birth particulars of beneficial owner(s) through senior Nationality of beneficial who exercise(s) managerial owner(s) ultimate effective positions (e.g. CNIC/NICOP/NTN/Pass control through senior managing port number(s)/Foreign senior managerial officer who has the National Identity number position(s). power to appoint and remove of beneficial owner(s)",
-      "majority of directors Position held by senior Where no natural or control over the managing officer and the person is identified affairs of the nature of control he/she under Test 1 and company) and other exercises in the Test 2 above, indirect means of company or AOP. [For reasonable control. example, Mr. X the CEO measures shall be of the company holds the taken to verify the power of appointing or identity of the removing the Directors of relevant natural the company]. person(s) who holds(s) senior Date of acquisition of senior management managerial position in the company position(s) in the or AOP company or AOP. Residential and Commercial addresses of the beneficial owner.",
+      "2 Particulars of the Name of beneficial If there is doubt beneficial owner(s) owner under Test 1 as to who exercise Father’s name/Spouse’s whether a person ultimate effective name with direct/ control over the Date of Birth indirect/joint company or AOP Nationality of beneficial ownership interest through personal owner(s) or direct/indirect and/or family CNIC/NICOP/NTN/Pass voting rights is a connections with port number(s)/Foreign beneficial owner, or the National Identity number where no natural management/ownerof beneficial owner(s) person exerts s/directors of the Nature and details of the control through company or AOP. personal/family ownership interests connection which and voting rights, provides effective control then the particulars to the beneficial owner of a natural [e.g. Mr. X (the beneficial person(s) owner) has influence exercising control over the company or over company or AOP for being AOP through associated to Mr. Y means of control (company’s managing other than director)]. ownership and Residential and voting rights, are Commercial addresses obtained by of the beneficial owner. application of Test 2. Test 3 1 Particulars of the Name of beneficial Test 3 aims at beneficial owner(s) owner Identifying, who exercise Father’s name/Spouse’s obtaining and ultimate effective name verifying the control over the company or AOP Date of Birth particulars of beneficial owner(s) through senior Nationality of beneficial who exercise(s) managerial owner(s) ultimate effective positions (e.g. CNIC/NICOP/NTN/Pass control through senior managing port number(s)/Foreign senior managerial officer who has the National Identity number position(s). power to appoint and remove of beneficial owner(s) majority of directors Position held by senior Where no natural or control over the managing officer and the person is identified affairs of the nature of control he/she under Test 1 and company) and other exercises in the Test 2 above, indirect means of company or AOP. [For reasonable control. example, Mr. X the CEO measures shall be of the company holds the taken to verify the power of appointing or identity of the removing the Directors of relevant natural the company]. person(s) who holds(s) senior Date of acquisition of senior management managerial position in the company position(s) in the or AOP company or AOP. Residential and Commercial addresses of the beneficial owner.",
       "Note: The 3 Tests represents a cascading process and shall be applied in succession when a previous test has been applied but has not resulted in the identification of all beneficial owner i.e. Test 2 shall only be applied in case if there is doubt as to whether a person with controlling ownership interest is a beneficial owner, or where no beneficial owner has been identified as a consequence of application of Test 1. Similarly, Test 3 shall only be applied in case the information about all beneficial owners are not recorded or captured by application of Test 1 and Test 2.",
       "Form BOF-02",
       "Certificate of Confirmation in respect of Beneficial Owner prescribed under Rule 83A(6) of Income Tax Rules, 2002.",
@@ -6420,9 +6378,7 @@
      "title": "Treatment of consideration for dealings with beneficial interest",
      "page": 313,
      "text": [
-      "If an employee assigns or creates a charge upon his beneficial interest in an approved gratuity fund, the Commissioner shall, on the fact of the assignment or charge coming to his knowledge, give notice {fn:313-1}[to] the employee that if he",
-      "does not secure the cancellation of the receipt of the notice, the consideration received for such assignment of charge shall be treated as salary received by him in the year in which the fact became {fn:313-2}[known] to the Commissioner and",
-      "shall be assessed accordingly."
+      "If an employee assigns or creates a charge upon his beneficial interest in an approved gratuity fund, the Commissioner shall, on the fact of the assignment or charge coming to his knowledge, give notice {fn:313-1}[to] the employee that if he does not secure the cancellation of the receipt of the notice, the consideration received for such assignment of charge shall be treated as salary received by him in the year in which the fact became {fn:313-2}[known] to the Commissioner and shall be assessed accordingly."
      ],
      "fn": [
       {
@@ -6453,8 +6409,7 @@
       "To The {fn:313-3}Federal Board of Revenue,",
       "Islamabad.",
       "The petition of employer(s) carrying on business, profession or vocation _______________ at your petitioner(s) applied to/obtained sanction from the Commissioner under Part III of the Sixth Schedule to the Income Tax Ordinance, 2001 for the approval of the gratuity fund maintained him (them) for the benefit of his (their) employees. The Commissioner has refused/ _______________ withdrawn the approval for the reasons stated in his order, dated ______________________ of which a copy is attested.",
-      "For the reasons set out below your petition(s) submit(s) that the fund should be recognized and pray(s) that the {fn:314-1}Federal Board of Revenue may be",
-      "pleased to. GROUNDS OF APPEAL",
+      "For the reasons set out below your petition(s) submit(s) that the fund should be recognized and pray(s) that the {fn:314-1}Federal Board of Revenue may be pleased to. GROUNDS OF APPEAL",
       "We/ l ___________________:______________________ the petitioner(s) named in the above petition do declare that stated therein is true to the best of our/my information and belief.",
       "Signature ____________________ Name ____________________ Address ____________________",
       "(2) An appeal shall be accompanied by a copy of a challan for Rs.100/- paid in the Government treasury."
@@ -6487,8 +6442,7 @@
       ">{fn:315-2}[(ca) “notice”, in this Chapter means a notice under sub-section (1) of section 138 of the Income Tax Ordinance 2001.]",
       ">(d) \"officer\" means a person authorized by the commissioner to execute an order of attachment or sale under these rules; and",
       ">(e) \"share in a corporation\" includes stock, debenture stock, debentures or bonds.",
-      ">(f) for the purpose of this Chapter, \"Commissioner\" means Commissioner of {fn:315-3}[“Inland Revenue”] as defined under clause 13 of section 2 and includes any {fn:315-4}[Officer of Inland Revenue or Inspector Inland Revenue]",
-      "taxation officer delegated powers by the Commissioner to act, exercise powers and functions under this Chapter, in respect of a taxpayer(s) by general or specific orders, or under scheme of enforcement in the tax recovery matters designed by the FBR {fn:315-5}[:]",
+      ">(f) for the purpose of this Chapter, \"Commissioner\" means Commissioner of {fn:315-3}[“Inland Revenue”] as defined under clause 13 of section 2 and includes any {fn:315-4}[Officer of Inland Revenue or Inspector Inland Revenue] taxation officer delegated powers by the Commissioner to act, exercise powers and functions under this Chapter, in respect of a taxpayer(s) by general or specific orders, or under scheme of enforcement in the tax recovery matters designed by the FBR {fn:315-5}[:]",
       "{fn:315-6}[Provided that the Commissioner Inland Revenue shall not delegate powers and functions under this Chapter to any Inspector Inland Revenue in respect of taxpayer having tax demand exceeding five million rupees.]"
      ],
      "fn": [
@@ -6656,8 +6610,7 @@
      "title": "Removal of attachment on satisfaction or cancellation of Certificate",
      "page": 320,
      "text": [
-      "Where the amount due is paid to the Commissioner {fn:320-1}[the attachment] shall be",
-      "deemed to be withdrawn and, in case of immovable property, the withdrawal shall, if the defaulter so desired, be proclaimed at his expense, and a copy of the proclamation shall be affixed in manner provided by these rules for a proclamation of sale of immovable property."
+      "Where the amount due is paid to the Commissioner {fn:320-1}[the attachment] shall be deemed to be withdrawn and, in case of immovable property, the withdrawal shall, if the defaulter so desired, be proclaimed at his expense, and a copy of the proclamation shall be affixed in manner provided by these rules for a proclamation of sale of immovable property."
      ],
      "fn": [
       {
@@ -6680,8 +6633,7 @@
      "page": 320,
      "text": [
       "(1) The Commissioner may adjourn sale hereunder to a specified day and hour; and the officer conducting any such sale may adjourn the sale, recording his reasons for such adjournment:",
-      "{fn:320-2}[Provided that, where the sale is being conducted in or within the precincts of the office of the concerned Commissioner {fn:320-3}[ ], the officer",
-      "shall not adjourn the sale without prior permission of the Commissioner.]",
+      "{fn:320-2}[Provided that, where the sale is being conducted in or within the precincts of the office of the concerned Commissioner {fn:320-3}[ ], the officer shall not adjourn the sale without prior permission of the Commissioner.]",
       "(2) Where a sale of immovable property is adjourned under sub-rule (1) for a longer period than one calendar month, a fresh proclamation of sale under rules shall be made unless the defaulter consents to waive it.",
       "(3) Every sale shall be stopped if, before the lot is knocked down, the amount {fn:320-4}[due is] tendered to the officer conducting the sale, or proof is given to his satisfaction {fn:320-5} [that the] amount has been paid to the",
       "Commissioner who ordered the sale."
@@ -6710,8 +6662,7 @@
      "title": "Defaulter not to mortgage, etc., any property",
      "page": 320,
      "text": [
-      "Where a notice has been served on a defaulter under rule 123 the defaulter or his representative in interest shall nor sell, mortgage, charge, lease or",
-      "otherwise deal with any property belonging to him except with the permission of the Commissioner."
+      "Where a notice has been served on a defaulter under rule 123 the defaulter or his representative in interest shall nor sell, mortgage, charge, lease or otherwise deal with any property belonging to him except with the permission of the Commissioner."
      ]
     },
     {
@@ -6748,15 +6699,12 @@
       "To",
       "____________________________",
       "S/O. ________________________",
-      "You Mr./Mrs.M/s. ___________________________________________",
-      "have failed to pay Rs._______ (Rupees ____________________) which",
-      "was due as income tax arrears in spite of service of a notice under section",
+      "You Mr./Mrs.M/s. ___________________________________________ have failed to pay Rs._______ (Rupees ____________________) which was due as income tax arrears in spite of service of a notice under section",
       "138(1) of the Income Tax Ordinance, 2001, dated ____________.",
       "In view of the said default and in pursuance of recovery of tax arrears, it is hereby ordered to attach moveable property belonging to",
       "Mr/Mrs/M/s._________________, the defaulter of the said amount.",
       "Mr. __________________________ is authorized under rule 136(1) of the",
-      "Income Tax Rules, 2002, to execute this warrant. This order is given under my",
-      "hand and seal at (name of city) _____________________ on this day of",
+      "Income Tax Rules, 2002, to execute this warrant. This order is given under my hand and seal at (name of city) _____________________ on this day of",
       "__________ (month) ________________ (year) _____.",
       "Commissioner of {fn:322-1}[“Inland Revenue”]]"
      ],
@@ -6985,8 +6933,7 @@
      "title": "Negotiable instruments or share in a corporation",
      "page": 327,
      "text": [
-      "Notwithstanding anything contained in these rules, where the property to be sold {fn:327-1}[is] negotiable instrument or a share in a corporation, the Commissioner",
-      "instead of directing the sale to be made by public auction, authorize the sale of such instrument or share through a broker."
+      "Notwithstanding anything contained in these rules, where the property to be sold {fn:327-1}[is] negotiable instrument or a share in a corporation, the Commissioner instead of directing the sale to be made by public auction, authorize the sale of such instrument or share through a broker."
      ]
     },
     {
@@ -7014,8 +6961,7 @@
      "title": "Attachment",
      "page": 327,
      "text": [
-      "[(1)] Attachment of the immovable property of the defaulter be made by an",
-      "order prohibiting the defaulter from transferring or subjecting the property to a charge in any manner and prohibiting all persons from taking any benefit under such transfer or charge.",
+      "[(1)] Attachment of the immovable property of the defaulter be made by an order prohibiting the defaulter from transferring or subjecting the property to a charge in any manner and prohibiting all persons from taking any benefit under such transfer or charge.",
       "{fn:327-1}[(2) The order of attachment of immovable property to be issued by the",
       "Commissioner under this rule shall be in the following form, namely:-",
       "ORDER OF ATTACHMENT OF IMMOVABLE PROPERTY (Rule 158 of the Income Tax Rules, 2002)",
@@ -7180,8 +7126,7 @@
      "title": "Application to set aside sale of immovable property on ground of non service of notice or irregularity",
      "page": 331,
      "text": [
-      "Where immovable property has been {fn:331-1}[sold] in execution of a notice, {fn:331-2}[ ]",
-      "the defaulter, or any person whose interests are affected by the sale, may, at any time within thirty days from the date of the sale, apply to the Commissioner to set aside the sale of the immovable property on the ground that notice was not served on the defaulter to pay the arrears as required by these rules or on the ground of a material irregularity in publishing or conducting the sale:",
+      "Where immovable property has been {fn:331-1}[sold] in execution of a notice, {fn:331-2}[ ] the defaulter, or any person whose interests are affected by the sale, may, at any time within thirty days from the date of the sale, apply to the Commissioner to set aside the sale of the immovable property on the ground that notice was not served on the defaulter to pay the arrears as required by these rules or on the ground of a material irregularity in publishing or conducting the sale:",
       "Provided that-",
       ">(a) no sale shall be set aside on any such ground unless the Commissioner is satisfied on the basis of evidence, produced before him that the applicant has sustained loss by reason of the nonservice or irregularity; and",
       ">(b) an application made by a defaulter under this rule shall be disallowed unless he deposits the amount recoverable from him in execution of the notice."
@@ -7583,8 +7528,7 @@
       "(4) Where the appeal is admitted for hearing under sub-rule (3), the authority hearing appeal shall fix a date for hearing {fn:341-7}[for] which notice shall be given to the {fn:341-8}[concerned parties].",
       "(5) If, on the date of hearing, no step is taken on behalf of either party, the authority hearing appeal may forthwith take up the appeal for exparte disposal or dismiss it for default, as the case may be:",
       "Provided that the appeal may be adjourned to some other date for hearing on sufficient cause being shown by either party by an application in that behalf.",
-      "{fn:342-1}(6) After hearing both the parties or their representatives or when the",
-      "appeal is taken up for exparte order, the appellate authority may make an order, to confirm, modify, reverse or remand the case for fresh decision in the light of directions that the appellate authority may think appropriate to give, being not inconsistent with these rules.]",
+      "{fn:342-1}(6) After hearing both the parties or their representatives or when the appeal is taken up for exparte order, the appellate authority may make an order, to confirm, modify, reverse or remand the case for fresh decision in the light of directions that the appellate authority may think appropriate to give, being not inconsistent with these rules.]",
       "(7) Pending the decision of any appeal, execution of the {fn:342-2}[notice] may be stayed if the appellate authority so directs, but not otherwise."
      ],
      "fn": [
@@ -7657,8 +7601,7 @@
      "title": "Subsistence allowance",
      "page": 342,
      "text": [
-      "[ ] When a defaulter is arrested or; detained in the civil prison, the sum payable for the subsistence of the defaulter {fn:342-5}[during detention or] arrest",
-      "until he is released shall be borne by the Commissioner."
+      "[ ] When a defaulter is arrested or; detained in the civil prison, the sum payable for the subsistence of the defaulter {fn:342-5}[during detention or] arrest until he is released shall be borne by the Commissioner."
      ],
      "fn": [
       {
@@ -7997,8 +7940,7 @@
       "Designation ____________________________",
       "(2) An application under sub-rule (1) shall be accompanied by –",
       ">(a) a duly attested copy of the constitution, memorandum and articles of association, rules and regulations or bye-laws, as the case may be, of the organization specifying the aims and objects for which it is established;",
-      ">{fn:353-2}[(aa) Details of Members/Trustees of the organization on the date of",
-      "application.",
+      ">{fn:353-2}[(aa) Details of Members/Trustees of the organization on the date of application.",
       ">>(i) Name________________________",
       ">>(ii) CNIC_________________________",
       ">>(iii) Income declared________________",
@@ -8122,11 +8064,9 @@
       ">(g) for the maintenance of accounts of the organization being kept in a scheduled bank or in a post office or national savings organization, National Bank of Pakistan or nationalized commercial banks;",
       ">(h) for prohibiting the making of any changes in the constitution, memorandum and articles of association, trust deed, rules and regulations or bye-laws, as the case may be, without the prior approval of the Commissioner:",
       "Provided this clause will have effect only in cases where the approval is granted; and",
-      ">{fn:356-1}[(i) for restricting the surpluses or monies validly set apart,",
-      "excluding restricted funds, upto twenty-five percent of the total income of the year:",
+      ">{fn:356-1}[(i) for restricting the surpluses or monies validly set apart, excluding restricted funds, upto twenty-five percent of the total income of the year:",
       "Provided that such surpluses or monies set apart are invested in Government securities, {fn:356-2}[National Saving Schemes, issued by the Central Directorate of National Savings] NIT units, a collective investment scheme authorized or registered under the Non-Banking Finance Companies (Establishment and Regulation) Rules, 2003, mutual fund, a real estate investment trust approved and authorized under the Real Estate Investment Trust Rules, 2006, or scheduled banks:",
-      "Explanation: For the purpose of this rule, “restricted funds”",
-      "mean any fund received by the organization but could not be spent and treated as revenue during year due to any obligation placed by the donor.]",
+      "Explanation: For the purpose of this rule, “restricted funds” mean any fund received by the organization but could not be spent and treated as revenue during year due to any obligation placed by the donor.]",
       "(2) The Commissioner may refuse to approve the organization if the Commissioner is satisfied that the organization-",
       ">(a) has been or is being used for personal gain of any particular person or a group of persons;",
       ">(b) has been propagating the view of a particular political party or a religious sect;",
@@ -8374,8 +8314,7 @@
       ">>(iii) a certified copy of the certificate of registration in the case of an organization registered under {fn:362-8} [Companies",
       "Ordinance, 1984,] the Societies Registration Act, 1860 (XXI of 1860), or the Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961 (XLVI of 1961), or under any other law in substitution thereof relating to the registration of welfare organizations as applicable;",
       ">>(iv) duly attested copies of balance sheets and of revenue accounts of organization as audited by a “qualified accountant” for the three years immediately preceding the tax year in which the application is made;",
-      ">>{fn:363-1}[(v) the names, CNIC/NTN, last income declared, tax year and",
-      "addresses of the promoters, directors, trustees, president, secretary, treasurer, manager and other office bearers, as the case may be, of the organization and indicating clearly their family relationships, if any, with each other]; and",
+      ">>{fn:363-1}[(v) the names, CNIC/NTN, last income declared, tax year and addresses of the promoters, directors, trustees, president, secretary, treasurer, manager and other office bearers, as the case may be, of the organization and indicating clearly their family relationships, if any, with each other]; and",
       ">>(vi) a detailed report with regard to the performance of the organization, for achieving its aims and objects during the three financial years immediately preceding the date of the application duly evaluated and certified by an independent certification agency approved {fn:363-2} [and appointed by the {fn:363-3}Federal Board of Revenue].",
       "{fn:363-4} [Provided that the {fn:363-5} [ {fn:363-6} [“Chief Commissioner”],",
       "Regional Tax Office or Large Taxpayers Unit] shall also receive applications for performance appraisal and certification of applicant organizations till at least two such agencies have been appointed:",
@@ -8420,16 +8359,11 @@
       ">(c). statement showing the names and addresses of donees and beneficiaries etc to whom payments, services etc exceeding five thousand have been made during the tax year; and",
       ">(d). statement showing the money set apart or kept un-utilized with reasons thereof; and",
       ">(e). a detailed performance evaluation report in terms of sub-clause (vi) of clause (b) of subrule (1) of rule 220A, after every three years;",
-      "{fn:367-2}[Provided that where such detailed performance evaluation report is not submitted on or before the 30th of September following every three Tax Years, {fn:368-1}[“Chief Commissioner”] shall issue a",
-      "show cause notice for withdrawal of approval to the concerned organization as required under para (2) of the sub-rule;]",
-      "{fn:368-2}[vii) failed to file statements of deduction of income tax",
-      "under section 165 of the Income Tax Ordinance, 2001 read with rule 44.]",
-      "(2). approval shall not be withdrawn under {fn:368-3}[para (1) of sub-rule (7)]",
-      "unless the organization has had an opportunity to show cause against the action proposed to be taken; and.",
-      "(3). where the {fn:368-4} [“Chief Commissioner”] decides to withdraw an approval under {fn:368-5}[para (1) of sub-rule (7)] he shall intimate the",
-      "organization, in writing, of the decision including a statement of reasons for the decision.] {fn:368-6}[ ]",
-      "(9). The {fn:368-7}[ {fn:368-8}[“Chief Commissioner”] ] may relax or modify any of the",
-      "requirement(s) or condition(s) of this rule in any individual case, if it is satisfied that the requirement(s) or condition(s) could not be fulfilled by the applicant for reasonable cause.",
+      "{fn:367-2}[Provided that where such detailed performance evaluation report is not submitted on or before the 30th of September following every three Tax Years, {fn:368-1}[“Chief Commissioner”] shall issue a show cause notice for withdrawal of approval to the concerned organization as required under para (2) of the sub-rule;]",
+      "{fn:368-2}[vii) failed to file statements of deduction of income tax under section 165 of the Income Tax Ordinance, 2001 read with rule 44.]",
+      "(2). approval shall not be withdrawn under {fn:368-3}[para (1) of sub-rule (7)] unless the organization has had an opportunity to show cause against the action proposed to be taken; and.",
+      "(3). where the {fn:368-4} [“Chief Commissioner”] decides to withdraw an approval under {fn:368-5}[para (1) of sub-rule (7)] he shall intimate the organization, in writing, of the decision including a statement of reasons for the decision.] {fn:368-6}[ ]",
+      "(9). The {fn:368-7}[ {fn:368-8}[“Chief Commissioner”] ] may relax or modify any of the requirement(s) or condition(s) of this rule in any individual case, if it is satisfied that the requirement(s) or condition(s) could not be fulfilled by the applicant for reasonable cause.",
       "{fn:368-9}[ ]",
       "Form-1 [See rule 220A (1)(a)]",
       "Application for Approval under {fn:369-1}[“clause (c) of sub section (2) of section 100C of”] the Income Tax Ordinance, 2001",

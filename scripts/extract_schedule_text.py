@@ -30,7 +30,36 @@ def clean(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def extract_own_pdfs(act):
+    """Schedules that are separate PDFs of their own (schedules[].pdf), e.g. the Foreign Exchange Manual's appendices."""
+    sch = act.get("schedules") or []
+    out = [None] * len(sch)
+    for f in sorted({x["pdf"] for x in sch if x.get("pdf")}):
+        path = ROOT / "sources" / "pdf" / f
+        if not path.exists():
+            continue
+        doc = fitz.open(path)
+        n = len(doc)
+        ks = sorted((k for k in range(len(sch)) if sch[k].get("pdf") == f), key=lambda k: (sch[k]["page"], k))
+        starts = sorted({sch[k]["page"] for k in ks})
+        seen = set()
+        for k in ks:
+            start = sch[k]["page"]
+            if start in seen:
+                out[k] = {"title": sch[k]["title"], "page": start, "pdf": f, "text": ""}
+                continue
+            seen.add(start)
+            later = [p for p in starts if p > start]
+            end = max(start, min((later[0] - 1) if later else n, n))
+            out[k] = {"title": sch[k]["title"], "page": start, "pdf": f,
+                      "text": clean(" ".join(doc[i - 1].get_text() for i in range(start, end + 1)))}
+    out = [x for x in out if x]
+    return {"id": act["id"], "pdfOnly": False, "schedules": out} if out else None
+
+
 def extract(act):
+    if any(x.get("pdf") for x in act.get("schedules") or []):
+        return extract_own_pdfs(act)
     pdf = act.get("sourcePdf")
     path = ROOT / "sources" / "pdf" / pdf if pdf else None
     if pdf and (not path or not path.exists()):
@@ -55,6 +84,9 @@ def extract(act):
     seen = set()
     for k in order:
         start = sch[k]["page"]
+        if sch[k].get("text"):                         # shown inline (tools/schedule_tables.py): already searchable
+            out[k] = {"title": sch[k]["title"], "page": start, "text": ""}
+            continue
         if start in seen:                              # two schedules on one page: the first carries the text
             out[k] = {"title": sch[k]["title"], "page": start, "text": ""}
             continue

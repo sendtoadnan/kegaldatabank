@@ -1,112 +1,125 @@
 {
-  "id": "centralized-customer-protection-compensation-fund-regulations-2017",
-  "title": "Centralized Customer Protection Compensation Fund Regulations, Fund Regulations, 2017",
-  "number": "S.R.O. 301(I)/2017",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "CCPCF Regulations"
-  ],
-  "enacted": "2017-04-28",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 301(I)/2017",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 301(I)/2017 dated April 28, 2017.- In exercise of the powers conferred by clause (h) of subsection (2) of section 169 of the Securities Act, 2015 (III of 2015), read with clause (b) of section 43 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), thereof, the Securities and Exchange Commission of Pakistan is pleased to make the following regulations, the same having been previously published vide S.R.O. 506(1)/2016 dated 1st June, 2016 as required by sub-section (4) of section 169 of the said Act, namely:-",
-  "parts": [
+ "id": "centralized-customer-protection-compensation-fund-regulations-2017",
+ "title": "Centralized Customer Protection Compensation Fund Regulations, Fund Regulations, 2017",
+ "number": "S.R.O. 301(I)/2017",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "CCPCF Regulations"
+ ],
+ "enacted": "2017-04-28",
+ "lastAmended": "2026-06-20",
+ "amendedUpToLabel": "20 June 2026 (no later amendment recorded)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "centralized-customer-protection-compensation-fund-regulations-2017.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Part II",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These regulations shall be called the Centralized Customer Protection Compensation Fund Regulations, Fund Regulations, 2017.",
-            "(2) They shall come into force from the date of publication of the Customers Compensation Fund (Establishment and Operation) Rules, 2017 in the official Gazette."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these regulations, unless there is anything repugnant in the subject or context,-",
-            ">(a) \"Act\" means the Securities Act, 2015 (III of 2015);",
-            ">(b) \"demutualization regulations\" means the Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012 prescribed under the Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012; and • (c) \"rules\" means the Customers Compensation Fund (Establishment and.",
-            "Operation) Rules, 2017.",
-            "(2) Words and expressions used but not defined in these regulations shall, unless the context otherwise requires have the same meaning as assigned to them in the Act, the Companies Ordinance, 1984 (XLVII of 1984), the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) , Central Depositories Act, 1997 (XIX of 1997), Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012 (XV of 2012), Trust Act, 1882 (II of 1882) or the rules."
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Provision of centralized customer protection compensation fund",
-          "text": [
-            "The securities exchanges shall provide a centralized customer protection compensation fund established and operated in the manner specified in the rules."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Size of the fund",
-          "text": [
-            "(1) The securities exchanges shall, once every three years and/or as and when directed by the Commission, appoint an Independent expert approved by the Commission to determine minimum size of the fund with the approval of the Commission:",
-            "Provided that the cost of independent expert shall be borne by the securities exchanges.",
-            "(2) The independent expert shall use a methodology approved by the Commission which may include stress testing, actuarial valuation or any other internationally recognized method to enable determination of minimum size of the fund.",
-            "(3) In case size of the fund is smaller than the minimum size determined in sub-regulation (2) or at any time falls below the minimum size, the securities exchanges shall, with the approval of the Commission, specify the amount and manner of replenishment of the fund, to meet minimum size of the fund, from TRE certificate holders, securities exchanges and such other persons as determined by the securities exchanges.",
-            "(4) The securities exchanges shall endeavor to obtain default insurance cover of an appropriate amount to contribute towards the obligations of the fund and the premium for the default insurance cover shall be paid out of the fund."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Contributions to the fund",
-          "text": [
-            "The fund shall comprise of the following contributions:",
-            ">(i) initial contributions consisting of amounts determined under demutualization regulations to be transferred from trust funds for protection of customers, members or clearing houses, by whatsoever name called, of all the securities exchanges, which were registered or",
-            "licensed as securities exchanges and whose licenses were surrendered or",
-            "cancelled as a result of integration of the securities exchanges;",
-            ">(ii) initial contributions consisting of amounts determined under regulations to be transferred from trust funds for protection of customers, members or clearing houses, by whatsoever name called, of all the securities exchanges, which are licensed as securities exchanges on the date of commencement of these regulations;",
-            "and",
-            ">(iii) ongoing contributions comprising of:",
-            ">(a) levy on the value of securities traded at the securities exchanges collected from TRE certificate holders as specified in the TRE regulations of the securities exchanges;",
-            ">(b) allocation of 1% percent of total revenue of the securities exchanges;",
-            ">(c) fines, penalties, etc. as may be collected by the securities exchanges under its regulations from any market participant in respect of non-compliance of regulations of the securities exchanges;",
-            ">(d) any income generated from investments of the fund's assets;",
-            ">(e) any monies paid by an insurer under a contract of insurance entered into for the benefit of the fund;",
-            ">(f) any contribution that has been received from any other person;",
-            "and",
-            ">(g) any other source or amount as may be specified by the Commission from time to time."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Settlement of customer claims",
-          "text": [
-            "(1) A customer may submit a claim to a securities exchange arising out of dealings with the defaulter as per the provisions of the Act, rules and any regulations made or direction or circulars issued thereunder. (2) The securities exchange shall, in accordance with its regulations, invite customer claims and after verification of such claims inform the customers of the decision to admit or otherwise the claims against the defaulter.",
-            "(3) If the total amount of admitted claims is less than the amount realized by the securities exchange from deposits and others assets of the defaulter, the entire amount of admitted claims shall be paid and remaining amount, if any, shall be transferred to the fund.",
-            "(4) In case total amount of admitted claims is more than the amount realized by the securities exchange from deposits and others assets of the defaulter, all the admitted claims shall be paid on pro-rata basis and the claims remaining unsatisfied after pro-rata sharing shall be paid from the fundby utilizing up to such aggregate amount and in such manner as specified in the regulations of the securities exchange.",
-            "(5) Notwithstanding anything contained hereinabove, in case proceeds from the assets of defaulter are not immediately available, for any reason whatsoever, the Commission may in the interest of the customers, allow settlement of admitted claims first from the fund to the extent of the maximum amount permitted in the regulations of the securities exchange and any subsequent amount realized from the .assets of defaulter shall also be utilized to settle unsatisfied claims of customers, if any and any unutilized amount therefrom shall be deposited in the fund."
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Obligations of a securities exchange",
-          "text": [
-            "(1) The securities exchange shall make provisions in its regulations inter alia for making contributions into the fund, admission, verification and settlement of claims and utilization of the fund as provided in the rules and these regulations.",
-            "(2) The securities exchange shall maintain a database of all customers whose claims have been paid from the fund in the format as specified in its regulations.",
-            "(2)* A summary showing opening balance, contributions made to the fund, utilization of fund and closing balance shall be disclosed by the securities exchange at its official website and in its annual report. *it should be (3)"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Centralized Customer Protection Compensation Fund Regulations, 2017.",
+      "(2) They shall come into force from the date of publication of the Customers Compensation Fund (Establishment and Operation) Rules, 2017 in the official Gazette."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, –",
+      ">(a) “Act” means the Securities Act, 2015 (III of 2015);",
+      ">(b) “demutualization regulations” means the Stock Exchanges (Corporatisation, Demutualization and Integration) Regulations, 2012 prescribed under the Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012; and",
+      ">(c) “rules” means the Customers Compensation Fund (Establishment and Operation) Rules, 2017.",
+      "(2) Words and expressions used but not defined in these regulations shall, unless the context otherwise requires have the same meaning as assigned to them in the Act, the Companies Ordinance, 1984 (XLVII of 1984), the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997) , Central Depositories Act, 1997 (XIX of 1997), Stock Exchanges (Corporatisation, Demutualization and Integration) Act, 2012 (XV of 2012), Trust Act, 1882 (II of 1882) or the rules."
+     ]
+    },
+    {
+     "no": "3",
+     "title": "Provision of centralized customer protection compensation fund",
+     "page": 2,
+     "text": [
+      "The securities exchanges shall provide a centralized customer protection compensation fund established and operated in the manner specified in the rules."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Size of the fund",
+     "page": 2,
+     "text": [
+      "(1) The securities exchanges shall, once every three years and/or as and when directed by the Commission, appoint an independent expert approved by the Commission to determine minimum size of the fund with the approval of the Commission:",
+      "Provided that the cost of independent expert shall be borne by the securities exchanges.",
+      "(2) The independent expert shall use a methodology approved by the Commission which may include stress testing, actuarial valuation or any other internationally recognized method to enable determination of minimum size of the fund.",
+      "(3) In case size of the fund is smaller than the minimum size determined in subregulation (2) or at any time falls below the minimum size, the securities exchanges shall, with the approval of the Commission, specify the amount and manner of replenishment of the fund, to meet minimum size of the fund, from TRE certificate holders, securities exchanges and such other persons as determined by the securities exchanges.",
+      "(4) The securities exchanges shall endeavor to obtain default insurance cover of an appropriate amount to contribute towards the obligations of the fund and the premium for the default insurance cover shall be paid out of the fund."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Contributions to the fund",
+     "page": 2,
+     "text": [
+      "The fund shall comprise of the following contributions:",
+      ">>(i) initial contributions consisting of amounts determined under demutualization regulations to be transferred from trust funds for protection of customers, members or clearing houses, by whatsoever name called, of all the securities exchanges, which were registered or licensed as securities exchanges and whose licenses were surrendered or cancelled as a result of integration of the securities exchanges;",
+      ">>(ii) initial contributions consisting of amounts determined under demutualization regulations to be transferred from trust funds for protection of customers, members or clearing houses, by whatsoever name called, of all the securities exchanges, which are licensed as securities exchanges on the date of commencement of these regulations; and",
+      ">>(iii) ongoing contributions comprising of:",
+      ">(a) levy on the value of securities traded at the securities exchanges collected from TRE certificate holders as specified in the regulations of the securities exchanges;",
+      ">(b) allocation of [such percentage as specified by the Commission] {fn:3-1} of total revenue of the securities exchanges;",
+      ">(c) fines, penalties, etc. as may be collected by the securities exchanges under its regulations from any market participant in respect of non-compliance of regulations of the securities exchanges;",
+      ">(d) any income generated from investments of the fund’s assets;",
+      ">(e) any monies paid by an insurer under a contract of insurance entered into for the benefit of the fund;",
+      ">(f) any contribution that has been received from any other person; and",
+      ">(g) any other source or amount as may be specified by the Commission from time to time."
+     ],
+     "fn": [
+      {
+       "n": "3-1",
+       "text": "Substituted for the words “1% percent” vide SRO 602(I)/2021 dated May 24, 2021"
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Settlement of customer claims",
+     "page": 4,
+     "text": [
+      "(1) A customer may submit a claim to a securities exchange arising out of dealings with the defaulter as per the provisions of the Act, rules and any regulations made or direction or circulars issued thereunder.",
+      "(2) The securities exchange shall, in accordance with its regulations, invite customer claims and after verification of such claims inform the customers of the decision to admit or otherwise the claims against the defaulter.",
+      "(3) If the total amount of admitted claims is less than the amount realized by the securities exchange from deposits and others assets of the defaulter, the entire amount of admitted claims shall be paid and remaining amount, if any, shall be transferred to the fund.",
+      "(4) In case total amount of admitted claims is more than the amount realized by the securities exchange from deposits and others assets of the defaulter, all the admitted claims shall be paid on pro-rata basis and the claims remaining unsatisfied after pro-rata sharing shall be paid from the fund by utilizing up to such aggregate amount and in such manner as specified in the regulations of the securities exchange.",
+      "(5) Notwithstanding anything contained hereinabove, in case proceeds from the assets of defaulter are not immediately available, for any reason whatsoever, the Commission may in the interest of the customers, allow settlement of admitted claims first from the fund to the extent of the maximum amount permitted in the regulations of the securities exchange and any subsequent amount realized from the assets of defaulter shall also be utilized to settle unsatisfied claims of customers, if any and any unutilized amount therefrom shall be deposited in the fund."
+     ]
+    },
+    {
+     "no": "7",
+     "title": "Obligations of a securities exchange",
+     "page": 4,
+     "text": [
+      "(1) The securities exchange shall make provisions in its regulations inter alia for making contributions into the fund, admission, verification and settlement of claims and utilization of the fund as provided in the rules and these regulations.",
+      "(2) The securities exchange shall maintain a database of all customers whose claims have been paid from the fund in the format as specified in its regulations.",
+      "(2) A summary showing opening balance, contributions made to the fund, utilization of fund and closing balance shall be disclosed by the securities exchange at its official website and in its annual report.",
+      "[Sy/SECP/8/13]",
+      "( ) Secretary to the Commission"
+     ]
     }
-  ],
-  "schedules": [],
-  "frontNotes": []
+   ]
+  }
+ ]
 }

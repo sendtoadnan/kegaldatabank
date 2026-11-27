@@ -56,6 +56,10 @@ export function validateLibrary({ catalog, acts }, dataDir = DATA_DIR) {
     if (act.sourcePdf && !act.sourcePdfUrl && !fs.existsSync(path.join(dataDir, '..', 'sources', 'pdf', act.sourcePdf))) {
       errors.push(`${where}: sourcePdf "${act.sourcePdf}" not found in sources/pdf/`);
     }
+    for (const x of act.schedules || []) {
+      // a schedule may be a separate PDF of its own (e.g. the appendices of the Foreign Exchange Manual)
+      if (x.pdf && !fs.existsSync(path.join(dataDir, '..', 'sources', 'pdf', x.pdf))) errors.push(`${where}: schedule PDF "${x.pdf}" not found in sources/pdf/`);
+    }
     if (!act.pdfOnly && Array.isArray(act.parts) && act.parts.length === 0) errors.push(`${where}: no parts (set "pdfOnly": true for PDF-only items)`);
     if (act.id && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(act.id)) errors.push(`${where}: id "${act.id}" must be lowercase-kebab-case`);
     if (act._file && act.id && act._file !== `${act.id}.json`) errors.push(`${where}: file name must be "${act.id}.json"`);
@@ -141,7 +145,14 @@ export function escapeHtml(s) {
 }
 
 // Paragraph strings may start with ">" markers to indent clauses: ">(a) ..." or ">>(i) ...".
+// A table is a run of paragraphs that start with "|": "|!Head|Head|Head" is the header row, "|a|b|c" a row, and a row
+// with one cell is a caption/section row. Cells never contain "|".
 export function parseParagraph(p) {
+  if (p.startsWith('|')) {
+    const head = p[1] === '!';
+    const cells = p.slice(head ? 2 : 1).split('|');
+    return { level: 0, row: cells, head, text: cells.filter(Boolean).join(' · ') };
+  }
   const m = /^(>*)\s*/.exec(p);
   return { level: Math.min(m[1].length, 3), text: p.slice(m[0].length) };
 }

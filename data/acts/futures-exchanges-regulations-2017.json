@@ -1,424 +1,526 @@
 {
-  "id": "futures-exchanges-regulations-2017",
-  "title": "Futures Exchanges (Licensing & Operations) Regulations, 2017",
-  "number": "S.R.O. 510(I)/2017",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Futures Exchanges Regulations"
-  ],
-  "enacted": "2017-06-22",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 510(I)/2017",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 510(1)/2017, dated June 22, 2017.- In exercise of the powers conferred by sub-section (1) of section 114 read with sections 4, 5, 18, 20, and 95 of the Futures Market Act, 2016, the Securities and Exchange Commission of Pakıstan is pleased to make the following regulations, the same having been previously published in the Official Gazette vide SRO 239(I)/2017 dated April 5, 2017, and also placed on its website as required under sub-section (4) of section 114 of the said Act, namely:- Chapter I Preliminary",
-  "parts": [
+ "id": "futures-exchanges-regulations-2017",
+ "title": "Futures Exchanges (Licensing & Operations) Regulations, 2017",
+ "number": "S.R.O. 510(I)/2017",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Futures Exchanges Regulations"
+ ],
+ "enacted": "2017-06-22",
+ "lastAmended": "2025-02-07",
+ "amendedUpToLabel": "SECP consolidated PDF, updated till 7 February 2025",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "futures-exchanges-regulations-2017.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP consolidated PDF, updated till 7 February 2025 downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
     {
-      "heading": "Regulations",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title and commencement",
-          "text": [
-            "(1) These regulations shall be called Futures Exchanges (Licensing & Operations) Regulations, 2017.",
-            "(2) They shall come into force at once."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these Regulations, unless there is anything repugnant in the subject or context,-",
-            ">(a) \"Act\" means the Futures Market Act, 2016 (XIV of 2016);",
-            ">(b) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984);",
-            "and",
-            "(c) \"Securities Act\" means the Securities Act, 2015 (III of 2015); and",
-            ">(d) \"senior management officer\" shali have the same meaning as assigned to it in clause (47) of section (2) of the Act, and also includes the following,-",
-            ">(i) company secretary;",
-            ">(ii) Chief financial officer;",
-            ">(iii) head of internal audit;",
-            ">(iv) (iv) head of Information Technology (IT); head of Information Technology (IT);",
-            ">(v): head of Operations; and",
-            ">(vi) chief risk officer (2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the Securities Act, the Ordinance, the Securities and Exchange Commission of Pakistan Act, 1997, the Central Depositories Act, 1997 (XIX of 1997), or any rules or regulations made thereunder.",
-            "Chapter II Licensing of futures exchange"
-          ]
-        },
-        {
-          "no": "3",
-          "title": "Application for grant of licence",
-          "text": [
-            "(1) Subject to compliance with the requirements of sections 3 and 4 of the Act and these regulations, an application for grant of licence as a futures exchanges shall be submitted to the Commission in Form A along with receipt evidencing payment of fee of rupees five million and the following documents,-",
-            ">(a) copies of memorandum of association and articles of association;",
-            ">(b) regulations made or proposed to be made under section 7 of the Act; and",
-            ">(c) copies of agreements entered into by the applicant with clearing house(s) and technology partner(s), where required.",
-            "Provided that where the applicant holds licence as a securities exchange, it shallonly be requiredto submit its regulations and list of futures contracts for approval of the Commission.",
-            "(2) The Commission, while considering the application for licence, may require the applicant to furnish such further information or clarification as it deems appropriate.",
-            "(3) The applicant shall, if so required, appear before the Commission for a representation through a person duly authorized for this purpose in writing by the board of directors of the applicant.",
-            "(4) Any subsequent change in the information provided to the Commission at the time of filing of application under this regulation of any new agreement entered into by the futures exchange in respect of matter(s) referred in clause (c) of sub-regulation (1) shall immediately be intimated to the Commission but not later than five working days from the date of such change or agreement, as the case may be.",
-            "(5) No application for grant of licence made under sub-regulation (1) above shall be refused except after giving the applicant an opportunity of being heard."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Grant of Licence",
-          "text": [
-            "(1) The Commission, while considering the (1) The application made under regulation 3, shall inter-alia take into account the following matters,-",
-            ">(a) any licence granted or any certificate of registration issued to the applicant under any administered legislation by the Commission;",
-            ">(b) the eligibility requirements under the Act and these regulations;",
-            ">(c) the applicant has demonstrated its ability to perform its duties in accordance with the provisions of the Act and any rules and regulations made or codes, guidelines, directions and circulars issued thereunder;",
-            ">(d) the applicant has shareholding and governance structure as provided in these regulations; and",
-            ">(e) the applicant has the necessary infrastructure including but not limited to adequate office space, equipment, experienced human resources and technical capabilities, financial resources, policies, procedures, systems and controls to effectively and efficiently discharge its responsibilities as futures exchange.",
-            "(2) The Commission may inspect the premises of the applicant to determine whether it fulfills the eligibility criteria and may also require the applicant to submit reports from experts at the expense of the applicant in the manner specified by the Commission to confirm compliance with the Act and these regulations including the existence of adequate infrastructure, technical capacity, financial standing and other requisite benchmarks.",
-            "(3) The Commission, after conducting such inquiries and obtaining such further information as it deems appropriate, and upon being satisfied that,-",
-            ">(a) the applicant is eligible for a licence;",
-            ">(b) the applicant is in compliance with the provisions of the Act and these regulations;",
-            ">(c) its memorandum of association specifically allows it to act as a futures exchange; and",
-            ">(d) it is in the interest of the futures market and public interest, may grant a licence to the applicant in Form \"B\" under sub-section (4) of section 5 of the Act subject to the conditions as provided in regulation 5.",
-            "(4) A futures exchange shall pay an annual renewal fee of rupees one million and five hundred thousand."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Conditions of licensing",
-          "text": [
-            "(1) In case of a securities exchange applying for licence of a futures exchange, such securities exchange shall comply with the requirements of the Act and any conditions specified by the Commission from time to time:",
-            "Provided that in case of a securities exchange applying for licence of a futures exchange, the licensing conditions provided in the Securities Act and the regulations made thereunder shall also be applicable on it to the extent applicable on futures contracts based on securities.",
-            "(2) A futures exchange other than that mentioned in sub-clause (1) above shall, in addition to the requirements of the Act, comply with the following conditions on an ongoing basis or within such time as the Commission may direct while granting licence under these regulations,-",
-            ">(a) ensure availability and maintenance of necessary infrastructure for trading of futures contracts;",
-            ">(b) ensure availability and maintenance of necessary infrastructure for timely clearing and settlement of trades and risk management;",
-            ">(c) put in place adequate trading procedures and necessary capacity to have a wide network of futures brokers;",
-            ">(d) put in place robust risk management system, efficient settlement procedures and necessary capabilities to have a network of clearing members;",
-            ">(e) put in place adequate monitoring, inspection and enforcement mechanism in respect of futures brokers and clearing members;",
-            ">(f) establish and maintain connectivity with futures brokers and enter into service level agreements with technology partners;",
-            "g) have documented business continuity plan including a disaster recovery site;",
-            ">(h) continuously improve the quality and efficiency of its systems and",
-            "procedures;",
-            ">(i) put in place necessary controls and safeguards to ensure cyber security, access to confidential information and alteration, destruction, disclosure or dissemination of records and data;",
-            ">(j) put in place necessary arrangements including appropriate arbitration mechanism for resolving disputes and redressal of grievances arising out of dealing in futures contracts at the futures exchange and clearing and settlement of trades;",
-            ">(k) comply with the code of corporate governance for listed companies to the extent consistent with the provisions of the Act and the rules or",
-            "regulations made thereunder;",
-            "(1) ensure establishment, maintenance and operations of settlement guarantee fund in accordance with the provisions of the Act and any rules and regulations made thereunder, for guaranteeing to its clearing members the performance of market contracts;",
-            ">(m) ensure establishment, maintenance and operations of investor protection fund in accordance with the provisions of the Act and any rules and regulations made thereunder;",
-            ">(n) ensure that its memorandum and articles of association contain no provision inconsistent with the provisions of the Act and these regulations and that no change is made in its memorandum and articles of association except with the prior written approval of the Commission;",
-            ">(o) submit a comprehensive three years business development plan inter alia including therein financial projections, organizational development plans, product development plans with specific reference to agricultural commodities, market development initiatives particularly with reference to promotion of futures contracts and their trading activity at the futures exchange, expansion of market outreach, education and",
-            "training of market participants, development of futures market participants, particularly agricultural commodities and the annual reports including progress made in respect. of tle plans shall be provided to the Commission;",
-            ">(p) employ and retain sufficient number of people with appropriate (p) employ and retain sufficient number of people with appropriate qualification, experience and expertise to enable the futures exchange to provide an orderly and fair market in relation to futures contracts and",
-            "to discharge functions assigned to it under the Act and the rules and",
-            "regulations made thereunder;",
-            ">(q) enter into an agreement with a clearing house, if the exchange is not performing the said function itself, capable of functioning as a central counterparty for clearing and settlement of trades executed on its trading platform;",
-            ">(r) enter into an agreement or arrangement with an international futures exchange or a technology firm of international repute, having relevant expertise for technology partnership, collaboration, transfer of technical know-how and competence, within such period as may be specified by the Commission;",
-            ">(s) deploy adequate infrastructure including modern technologies to enable it to provide trading platforms in accordance with international standards which inter alia include the following,-",
-            ">(i) infrastructure for orderly accepting, matching and execution of trades including online screen-based trading systems;",
-            "(i1) facility to disseminate information about trades, quantities and",
-            "quotes on real time basis; and",
-            ">(iii) effective surveillance capability to inter alia monitor positions, prices and volumes in a timely manner;",
-            ">(t) development and implement a detailed investor outreach and education program;",
-            ">(u) endeavor to promote Shariah compliant products and transactions with approval of the Commission;",
-            ">(v) submit a plan for segregation of commercial and regulatory functions of the futures exchange for approval of the Commission, if such plan is not already approved by the Commission, and ensure compliance with such approved plan [:]",
-            "[Provided that any consequential amendment in the segregation plan approved by the Commission pursuant to change in relevant regulatory framework may be carried out by the futures exchange with the approval of its board of directors.]",
-            ">(w) constitute a nomination committee, chaired by an independent director to inter alia recommend names of persons for appointment of independent directors on the board of the futures exchange;",
-            ">(x) prescribe a code of conduct for its employees and ensure compliance with the same;",
-            "(y) not undertake any business other than the business of establishing or",
-            "operating a futures market except with the prior approval of the • Commission; and",
-            ">(z) comply with such other conditions as may be imposed by the Commission from time to time."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Financial resource requirements",
-          "text": [
-            "(1) A securities exchange applying for license of a futures exchange under regulation 3 shall have an initial paid-up capital and net-worth of not less than rupees one billion provided that the Commission may require the applicant to achieve and maintain, as a the Commission may require the applicant to achieve and maintain, as a licensing condition, a higher paid-up capital and net-worth in a progressive manner.",
-            "Provided that such securities exchanges shall maintain such paid-up capital in addition to the paid-up capital specified under the Securities Exchanges (Licensing and Operations) Regulations, 2016.",
-            "(2) An applicant seeking licence under regulation 3, other than that mentioned in sub-clause (1) above, including an existing futures exchange, offering contracts based on commodities and financial instruments, shall have a minimum net worth of rupees 500 million.",
-            "[Provided that an existing futures exchange shall comply with this requirement within the timeline specified by the Commission.]",
-            "Explanation.- For the purpose of these regulations, net-worth shall be For the purpose calculated as total assets less total liabilities less surplus on revaluation, if any, created upon revaluation of fixed assets. : Chapter III Requirements for Futures Exchange Holding Licence as a Securities Exchange"
-          ]
-        },
-        {
-          "no": "7",
-          "title": "Applicability of Securities Exchanges (Licensing and Operation) Regulations, 206",
-          "text": [
-            "A futures exchange also holding licence as a securities exchange shall comply with the provisions of the Securities Act and Securities Exchanges (Licensing and Operations) Regulations, 2016 pertaining to shareholding requirements, fit and proper criteria, board of directors, appointment of senior management officers, constitution of regulatory affairs committee, manner of outsourcing of important functions and audit and accounts:",
-            "Provided that a futures exchange holding licence as a securities exchange shall also comply with all such .requirements of the Securities Exchange (Licensing and Operations) Regulations, 2016 which are applicable to the extent of offering of futures contracts.",
-            "Chapter IV Requirements for Futures Exchange other than that Holding Licence as a Securities Exchange"
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Application of fit and proper criteria",
-          "text": [
-            "The applicant, and its promoters, substantial shareholders, directors and senior management officers shall at all times be fit and proper persons as per the criteria specified in Annexure-I. The fit and proper criteria is perpetual in nature and a futures exchange shall ensure compliance with the provisions of such criteria.",
-            "Provided that a futures exchange, while evaluating fit and proper criteria in respect of promoters or substantial shareholders of the applicant, shall ensure that the fit and proper criteria is applied to the extent practical on the promoters and directions of such entities."
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Shareholding requirements",
-          "text": [
-            "No person shall acquire or sell shares of a futures exchange without prior written approval of the Commission."
-          ]
-        },
-        {
-          "no": "10",
-          "title": "Composition of board of directors and related matters",
-          "text": [
-            "(1) The board of a futures exchange shall comprise of a minimum of seven directors as per the following categories:",
-            ">(a) independent directors;",
-            ">(b) shareholder directors; and",
-            ">(c) Chief executive officer.",
-            "Explanation:- For the purpose of this clause the expression \"independent director\" means a director who is not connected or does not have any other relationship, whether pecuniary or otherwise, with the futures exchange, its associated companies, subsidiaries, holding company or directors. The test of subsidiaries, independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgement without being subservient to any form of conflict of interest:",
-            "Provided that without prejudice to the generality of this explanation no director shall be considered independent if one or more of the following circumstances exist:",
-            ">(a) he/she has been an employee of the futures exchange, any of its subsidiaries or holding company within the last three years:",
-            ">(b) he/she has been the chief executive officer of subsidiaries, associated company, associated undertaking or holding company of the futures exchange in the last three years;",
-            ">(c) he/she has or had, within the last three years, a material business relationship with the futures exchange either directly, or indirectly as a partner, substantial shareholder or director of a body that has such relationship with the futures exchange;",
-            ">(d) he/she has received remuneration in the three years preceding his/her appointment as a director or receives additional remuneration, director excluding retirement benefits from the applicant apart from a director's fee;",
-            ">(e) he/she is a close relative of the directors or promoters, or directors of the futures exchange;",
-            "Explanation: The expression 'close relative' means spouse(s), lineal ascendants and descendants and siblings;",
-            ">(f) he/she holds cross-directorships or has significant links with other directors through involvement in other companies or bodies; [(g) he/she has served on the board for more than two terms from the date of his/her first appointment:",
-            "Provided that no individual shall serve as an independent director for more than three terms in total across all capital market infrastructure institutions i.e. securities exchanges, clearing houses, central depositories and futures exchanges:",
-            "Provided further that any person nominated as a director under sections 182 and 183 of the Ordinance shall not be considered as an \"independent director\" for the above-mentioned purposes:",
-            "Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the futures exchange.]",
-            "(2) The board of directors of a futures exchange shall comprise at least one-third independent directors.",
-            "(3) An independent director shall be appointed by the board of directors of the futures exchange with prior written approval of the Commission in the following manner:",
-            ">(a) a futures exchange shall submit the name of the person suitable for appointment as an independent director to the Commission for each vacancy, for its approval;",
-            ">(b) the Commission may, if satisfied that a person is suitable for appointment as independent director grant its approval for appointment of the selected person by the board of directors of the futures exchange provided that where the Commission is not satisfied about the suitability of the proposed person for appointment as a director, it may refer the matter back to the futures exchange for proposing other name after following the due process;",
-            ">(c) unless provided otherwise, the term of the independent director so appointed shall be the same as that of the shareholder directors;",
-            ">(d) an independent director may be removed by the board of directors of the futures exchange with prior written approval of the Commission if such person fails to comply with the fit and proper criteria; and",
-            ">(e) any vacant position of an independent director shall be filled in the (e) any vacant position of an independent director shall be filled in the similar manner as provided for initial appointment of an independent director.",
-            "(4) The quorum for the meeting of board of directors of a futures exchange shall not be less than on-half of their number or four, whichever is greater.",
-            "(5) At least one-third of independent directors must be present in a meeting of the board of directors of the futures exchange to constitute a quorum.",
-            "(6) The chairman of the board of directors of a futures exchange shall be from amongst the independent directors.",
-            "(7) The Board of directors of a futures exchange shall meet at least once in each quarter of a year.",
-            "(8) Every director and senior management officer of the futures exchange shall abide by the code of conduct specified in Annexure II.",
-            "(9) In case of a new futures exchange who is, directly or indirectly, a substantial shareholder, director or an employee of a futures broker/ TRE certificate holder or substantial shareholder, director or an employee of any holding or subsidiary company of a futures broker/TRE certificate holder.",
-            "11."
-          ]
-        },
-        {
-          "no": "11",
-          "title": "Appointment of chief executive officer",
-          "text": [
-            "(1) The appointment, renewal of appointment and termination of services of the chief executive officer renewal of appointment and termination of services of the chief executive officer of a futures exchange shall be subject to prior approval of the Commission and for this purpose the term 'termination' shall include \"non-renewal\" of his contract.",
-            "(2)",
-            "(2) The board of directors of a futures exchange shall determine the manner of appointment, terms and conditions of appointment and other procedural formalities associated which the selection / appointment of the chief executive officer.",
-            "(3)",
-            "(3) A chief executive officer shall be appointed by the futures exchange through the following process,-",
-            ">(a)",
-            ">(a) a futures exchange shall shortlist the most suitable person meeting the fit and proper criteria provided in these regulations and shall submit its recommendation for approval of the Commission;",
-            ">(b) the Commission may, if satisfied that such person is suitable for appointment by the futures exchange as chief executive officer of the futures exchange, grant its approval for the same;",
-            "Provided that, if the Commission is not satisfied with the suitability of the proposed person for appointment as chief executive officer, it may refer the matter back to the futures exchange for proposing another name for consideration of the Commission.",
-            "[(4) The appointment of the chief executive officer shall be made for a period of three years, which may be renewed for one more term of three years, with the prior approval of the Commission:",
-            "Provided that a person may be appointed for third and final term of three years, based on exceptional performance that is substantiated by the board of directors through a rigorous review, subject to following a competitive hiring process and final review and approval by the Commission.]"
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Appointment and functions of chief executive officer",
-          "text": [
-            "(1) The appointment and termination of services of the chief executive officer of a futures exchange shall be subject to prior approval of the Commission.",
-            "(2) A chief regulatory officer shall be appointed by the futures exchange through the following process,-",
-            ">(a) a futures exchange shall shortlist the most suitable person meeting the fit and proper criteria provided in these regulations and shall submit its recommendation for approval of the Commission;",
-            ">(b) the Commission may, if satisfied that such person is suitable for appointment by the futures exchange as chief regulatory officer of the futures exchange, grant its approval for the same;",
-            "Provided that, if the Commission is not satisfied with the suitability of the proposed person for appointment as chief regulatory officer, it may refer the matter back to the futures exchange for proposing another name for consideration of the Commission.",
-            "(3) The chief regulatory officer, being head of the regulatory affairs division of the futures exchange, shall be dedicated position and must not have except ensuring the efficient functioning of the regulatory affairs division, which may inter alia include the following, namely,-",
-            ">(a) manage, lead and control the compliance and regulatory functions of the futures exchange;",
-            ">(b) develop, implement and monitor compliance policies, processes and",
-            "procedures to cover all aspects relating to regulatory, operational and",
-            "statutory obligations of the futures exchange;",
-            ">(c) handle matters relating to the regulations of the futures exchange, including regular review of the same to ensure their suitability, and",
-            "finalizing proposals for making new regulations or carrying out amendments in the existing regulations for approval of the regulatory affairs committee and board of directors of the futures exchange.",
-            ">(d) monitor compliance of the futures exchange, futures brokers and their accredited representatives with applicable legal and regulatory framework, policies and procedures and take enforcement action(s)",
-            "under the applicable regulatory framework; (e) supervise or conduct any investigation, inspection or enquiry required to be conducted by a futures exchange;",
-            ">(f) monitor the redressal of disputes, complaints or grievances arising out of trading of futures contracts at the futures exchange in a timely manner;",
-            ">(g) assist regulatory affairs committee of the board of directors to perform its functions;",
-            ">(h) ensure efficiency of the process for redressal of investor grievances, dispute resolution and arbitration;",
-            ">(i) ensure efficiency of surveillance mechanism of the futures exchange;",
-            ">(j) maintain effective liaison with the Commission in respect of the matters in clauses (a) to (i); and",
-            ">(k) perform any other related function as may be assigned by the futures exchange or the Commission.",
-            "(4) The chief regulatory officer shall functionally report to the board of directors of the futures exchange through its regulatory affairs committee.",
-            "(5) In case of any non-compliance, the chief regulatory officer shall take necessary action under the applicable regulatory framework and where the matter requires attention of the board of directors of the futures exchange, the same shall be reported immediately:",
-            "Provided further* that where a chief regulatory officer is convinced that the matter also needs immediate attention of the Commission, he shall simultaneous!y report the same to the Commission stating the reasons thereof.",
-            "(6) In case no action is taken by the board of directors within a maximumn period of 7 days or the chief regulatory officer is of the view that the action taken by the board of directors is insufficient, he shall forthwith report the matter to the Commission.",
-            "(7) The chief regulatory officer shall, submit a comprehensive report on quarterly basis to the board of directors regarding matters reported during the respective quarter, corrective actions taken and their status.",
-            "(8) The board of directors of the futures exchange shall put in place necessary mechanism to ensure that the chief regulatory officer performs his functions in a transparent, equitable and timely manner."
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Constitution of risk committee",
-          "text": [
-            "(1) A futures exchange shall, with approval of its board of directors, constitute a risk committee for assisting it to develop risk management system and policies.",
-            "(2) The risk committee shall comprise cf independent directors, chief executive officer, chief regulatory officer, and industry experts. The chairman of the risk committee shall be an independent director.",
-            "(3) The board of directors of a futures exchange shall determine the manner of appointment of members of risk committee including the selection criteria.",
-            "(4) The risk committee shall be responsible for the following: *it seems extra word a) framing of risk management policies and procedures for the clearinghouse function performed by the exchange in line with international standards and best practices;",
-            "b) ensuring that the risk management system has the tools to identify and",
-            "manage al relevant risks including legal, credit, liquidity, general business, and operational risks including control measures and",
-            "safeguards with respect to large exposures by clearing members and",
-            "matters connected thereto;",
-            "ensuring that margin requirements are commensurate with the risks, address procyclicality, avoid concentration, and provide adequate coverage in conformity with international benchmarks;",
-            "d) ensuring that the risk management function has the capacity to obtain timely information necessary to apply risk management policies and",
-            "procedures which allow for the accurate and timely measurement and",
-            "aggregation of risk exposures;",
-            "e) conducting or arranging to conduct studies, research, or analyses with respect to any or all of the components of risk management system of the clearing function;",
-            "f) formulating policies and procedures to ensure continuous adequacy of the risk management model and its adherence to international management standards including the policies for regular back testing, stress testing, reverse back testing and sensitivity analysis;",
-            "g) formulating policies for ensuring that a full validation of risk management model is performed at least annually;",
-            "h) to meet at least once in each quarter to review adequacy of risk management system, policies and procedures and matter connected thereto; and",
-            "i) to submit its recommendation(s) to the board of directors together with explanation of their purposes and likely effect, including their effect on the clearing function, clearing members, and investors in sufficient details."
-          ]
-        },
-        {
-          "no": "14",
-          "title": "Chief Risk Officer",
-          "text": [
-            "(1) The Exchange shall appoint a chief risk officer to perform the following functions:",
-            ">(a) to lead risk management of the Exchange;",
-            ">(b) to ensure implementation of risk management policies and procedures in an effective manner;",
-            ">(c) to assist risk committee in performing its functions including submission of periodie reports and information;",
-            ">(d) to timely bring to the information of the risk committee any exceptional or urgent matter concerning or affecting the risk management system;",
-            "and",
-            ">(e) perform any other related function as may be assigned by the Exchange or the Commission.",
-            "(2) The appointment and termination of services of the chief risk officer (2) The appointment and termination of services of the chief risk officer shall be made by the board of directors of the Exchange in consultation with the risk committee.",
-            "(3)_ The chief risk officer shall report directly to the chief executive officer of the Exchange and shall additionally report to the chairman of the risk committee."
-          ]
-        },
-        {
-          "no": "15",
-          "title": "Constitution of regulatory affairs committee",
-          "text": [
-            "(1) A futures exchange shall, with approval of its board of directors, constitute a regulatory affairs committee comprising of independent directors.",
-            "(2) The regulatory affairs committee shall be responsible for the following functions,-",
-            ">(a) formulate policies relating to regulatory affairs of the futures exchange in line with international best practices with approval of the board of directors;",
-            ">(b) ensure that the regulatory affairs division functions effectively and take measures necessary to implement an effective regulatory regime and",
-            "improve investor confidence and market integrity;",
-            ">(c) develop an overall regulatory plan and roles and responsibilities of each unit of the regulatory affairs division together with a roadmap for effective regulatory role, for the approval of board of directors of the futures exchange;",
-            ">(d) ensure adequacy and effectiveness of the futures exchange's regulatory plan and approve annual plans/targets for the regulatory affairs division on continuous basis;",
-            ">(e) consider and recommend all regulatory amendments for approval of the board of directors of the futures exchange;",
-            ">(f) assess performance of the regulatory affairs division in light of the regulatory plan and annual targets and take measures and, where necessary, make recommendations to the board of directors for improvements;",
-            ">(g) provide recommendations for appointments and removal of services of persons serving in the regulatory affairs divisions;",
-            ">(h) establish criteria for evaluating candidates for senior management of the regulatory affairs division;",
-            ">(i) formulate and recommend the budget and staff allocation for the regulatory affairs division for approval of the board of directors of the futures exchange;",
-            ">(j) conduct hearings of any appeals against enforcement actions of the regulatory affairs division;",
-            ">(k) identify and manage potential conflicts of interest in commercial and",
-            "regulatory functions regularly;",
-            "(1) train and educate personnel of the regulatory affairs division in respect of conflict of interest management and also develop the manual on conflict of interest management and circulate to all employees of the regulatory affairs division;",
-            ">(m) prepare a summarized annual report of the regulatory affairs division on the activities, conclusions, recommendations of the last year with special focus on the identification and mitigation of conflicts of interest and identify the targets for next year along with any other matters, for the board of directors of the futures exchange and the Commission;",
-            ">(n) form sub-committee, where required, to perform any of its functions in accordance with the applicable regulatory framework; and",
-            ">(o) carry out any other function that may be mutually agreed upon by the regulatory affairs committee and the board of directors of the futures exchange or as may be assigned by the Commission."
-          ]
-        },
-        {
-          "no": "16",
-          "title": "Manner of outsourcing important functions",
-          "text": [
-            "(1) A futures exchange shall not outsource any of its functions without prior written approval of the Commission.",
-            "(2) The board of directors of a futures exchange shall be responsible for formulation and approval of outsourcing policy describing activities or the nature of activities that can be outsourced, the authorities who can approve outsourcing of such activities, and the selection criteria of third party to whom it can be outsourced.",
-            "The records relating to all activities outsourced shall be centrally by the futures exchange so that the same is readily accessible for review by the board of directors, the Commissien or any other authorized person.",
-            "(4) The futures exchange shall be fully liable and accountable for the activities that are being outsourced to the same extent as if the service were provided in-house. The facilities, premises or data involved in carrying out the outsourced activity by the service provider shall be deemed to be those of the futures exchange.",
-            "(5) The futures exchange shall be fully liable and must take appropriate steps to require that third parties protect confidential information of both the futures exchange, its customers and other parties involved from intentional or inadvertent disclosure to unauthorized persons.",
-            "(6) The futures exchange desirous of outsourcing its activities shall not, however, outsource its core business activities including risk and compliance functions."
-          ]
-        },
-        {
-          "no": "17",
-          "title": "Obligations pertaining to Audit and Accounts",
-          "text": [
-            "The obligations and duties of a futures exchange under these regulations with respect to audit and accounts are in addition to the requirements of the Ordinance, the rules and regulations made thereunder and any directives issued thereunder."
-          ]
-        },
-        {
-          "no": "18",
-          "title": "Maintenance of accounting and other records",
-          "text": [
-            "(1) A futures exchange shall keep accounting and other records which shall sufficiently explain its business and transactions entered into and shall be such as to,-",
-            ">(a) disclose with accuracy the financial position at that time;",
-            ">(b) enable the futures exchange to prepare financial statements at any time and which comply with the requirements of law;",
-            ">(c) demonstrate whether the futures exchange is maintaining adequate financial resources to meet its business commitments;",
-            ">(d) demonstrate capacity of the futures exchange with respect to its duties, functions and operations under the Act and these regulations; and",
-            ">(e) demonstrate its preparedness to manage any risk arising out of its duties, functions and operations.",
-            "(2) The futures exchange shall ensure that all requirements with respect to accounting and audit under these regulations are updated in a timely manner.",
-            "(3) The futures exchange shall ensure that information which is required to be recorded under the Act and these regulations shall be recorded in such a way as to enable a particular transaction to be identified at anytime and traced from initiation to conclusion.",
-            "(4) All records required to be maintained under the Act and these regulations shall be properly arranged and filed so as to permit prompt access to any particular record.",
-            "(5) The futures exchange shall preserve the records required under these regulations for a period of ten years from the date on which they are made and should seek clearance from the Commission before destruction of any of its records."
-          ]
-        },
-        {
-          "no": "19",
-          "title": "Appointment of auditor and related matters",
-          "text": [
-            "(1) A futures exchange shall ensure that it has appointed an auditor [from the list of approved auditors to conduct audit of a futures exchange as notified by the Commission,] who inter-alia has the powers and duties prescribed under sub-regulation 3 and,-",
-            ">(a) those powers and duties are set out in an engagement letter;",
-            ">(b) the engagement letter is signed by the futures exchange and the auditor; and",
-            ">(c) the futures exchange retains a copy of the engagement letter.",
-            "(2) A futures exchange shall, within seven days, give written notice to the Commission of the appointment, removal or resignation of an auditor.",
-            "(3) The auditor appointed by a futures exchange shall have a right to,-",
-            ">(a) access its accounting and other records and all other documents relating to its business including the documents required to be maintained under the Act and these regulations; and",
-            ">(b) require from it such information and explanations as the auditor considers necessary for the performance of duties.",
-            "(4) in preparing an auditor's report of a futures exchange, the auditor shall carry out such relevant audit procedures as will enable him to form an opinion as to the matters required to be stated in the audit report.",
-            "[ ]",
-            "(6) Where an auditor resigns or is removed by the futures exchange, a notice to that effect shall be sent to the Commission containing a statement signed by the auditor to the effect that there are no circumstances connected with his resignation or removal which the auditor considers should be brought to the attention of the Commission.",
-            "(7) A futures exchange shall undergo a mandatory annual audit of its operations, regulatory functions, IT systems and any other systems or functions as specified by the Commission from time to time.",
-            "(8) For the purposes of the audit specified in (7) above, the futures exchange shall, [appoint an auditor enlisted within Category \"A\" of the State Bank of Pakistan's Panel of Auditors for a period of three years] auditor with relevant expertise who shall conduct such audit in accordance with the terms of reference specified in Annexure III.",
-            "[(8A) For the purposes of audit specified in sub-regulation (7) above, future exchange shall, at the minimum, rotate the auditor after every five years.]",
-            "(9) The Commission may appoint an auditor to carry out a special audit of the futures exchange at the expense of the futures exchange, in respect of all or any specific matter as specified in Annexure III or any matter specified by the Commission at the time of appointment of the auditor. The audit shall be carried out for such period as the Commission may direct at the time of appointing the auditor."
-          ]
-        },
-        {
-          "no": "20",
-          "title": "Submission of annual report",
-          "text": [
-            "(1) A futures exchange shall submit an annual report to the Commission within four months of the close of financial year, inter alia containing the following information in addition to the requirements of section 20 of the Act;",
-            ">(a) audited financial statements containing information as required under the Act and these regulations;",
-            ">(b) report of directors to shareholders;",
-            ">(c) names and brief profiles of members of the board of directors and senior management officers;",
-            ">(d) statement of compliance with the code of corporate governance;",
-            ">(e) month-wise trade volume and value in each market segment;",
-            ">(f) total number of TRE certificate holders/futures brokers, along-with information with respect to addition or reduction during the period;",
-            ">(g) total number of commodity futures, along-with information with respect to addition or reduction during the period;",
-            ">(h) names of TRE certificate holders/futures brokers defaulted during the year along with nature and amount of default and subsequent action(s)",
-            "taken by the futures exchange;",
-            ">(i) summary of customer compensation/investor protection fund status showing opening balance, contributions made and amounts utilized during the period and closing balance;",
-            ">(j) details of disciplinary actions taken, fines and penalties imposed and",
-            "recovered;",
-            ">(k) pattern of shareholding; and",
-            "(1) any other information that may be deemed material by the futures exchange for disclosure in the annual report. (2) In addition to the submission of annual report to the Commission, the futures exchange shall also place the annual report on its official website no later than one week from the date of its publication."
-          ]
-        },
-        {
-          "no": "21",
-          "title": "Submission of information and returns",
-          "text": [
-            "(1) The futures exchange, with approval of its board of directors, shall submit to the Commission, within two months of the close of its financial year, a yearly performance report of the futures exchange against the approved targets and plans, highlighting, in particular, performance of the board of directors, chief executive officer and chief regulatory officer of the futures exchange.",
-            "(2) The Commission may by written notice require a futures exchange to submit to the Commission such periodic returns as it may direct.",
-            "(3) In addition to any periodic returns required under sub-regulation (1) and (2), the Commission may by written notice require a futures exchange, either generally or in a particular case or class of cases, to submit to the Commission such other information or exceptional returns as it may direct."
-          ]
-        },
-        {
-          "no": "22",
-          "title": "Obligations pertaining to handling of money and assets of futures brokers and their customers",
-          "text": [
-            "The futures exchange shall,- [(i) open and maintain one or more designated bank accounts with scheduled bank(s) in Pakistan, for deposit of money belonging to futures brokers and their customers and the money shall either be deposited in the designated bank account or be invested in [debt securities with remaining] maturities of 1 year or less, issued by the Government of Pakistan, in such forms and manner as may be specified by the futures exchange;]",
-            ">(ii) not use assets belonging to futures brokers and their customers for any purpose other than as allowed under the Act or any rules or regulations made thereunder;",
-            ">(iii) ensure that the assets belonging to futures broker or their customers shall not form part of the assets of the futures exchange for any purpose; [(iv) keep records of all amounts deposited into and paid from the designated bank account(s), invested in and divested from the Treasury Bills or the Sukuks in terms of clause (i), along with record of return/profit on such amounts;]",
-            ">(v) maintain record of balances of each futures broker and customer, stating name and the amount held or received for that futures broker or",
-            "customer; [(vi) if funds of futures brokers or their customers are held in a profit-",
-            "bearing bank account or invested in terms of clause (i), pass on profit earned on these funds to the futures brokers and their customers in proportion to their balances, after deducting a service fee at a rate not exceeding the rate approved by the Commission:",
-            "Provided that before deducting the service fee, the futures cretemgentod t nhan exchange currently utilizing any portion of profits on funds of futures brokers or their customers for any other purpose other than permitted under this Regulation shall gradually phase-out utilization of such an amount in equal proportion till June 30, 2025 with an option of earlier phase-out.]"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and commencement",
+     "page": 1,
+     "text": [
+      "(1) These regulations shall be called the Futures Exchanges (Licensing and Operations) Regulations, 2017.",
+      "(2) They shall come into force at once."
+     ]
+    },
+    {
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these regulations, unless there is anything repugnant in the subject or context, -",
+      ">(a) \"Act\" means the Futures Market Act, 2016 (XIV of 2016);",
+      ">(b) \"Ordinance\" means the Companies Ordinance, 1984 (XLVII of 1984); and",
+      ">(c) “Securities Act” means the Securities Act, 2015 (III of 2015); and",
+      ">(d) \"senior management officer\" shall have the same meaning as assigned to it in clause (47) of section (2) of the Act, and also includes the following,-",
+      ">>(i) company secretary;",
+      ">>(ii) chief financial officer;",
+      ">>(iii) head of internal audit;",
+      ">>(iv) head of Information Technology (IT);",
+      ">>(v) head of Operations; and",
+      ">>(vi) chief risk officer (2) Words and expressions used but not defined in these regulations shall have the same meaning as assigned to them in the Act, the Securities Act, the Ordinance, the Securities and Exchange Commission of Pakistan Act, 1997, the Central Depositories Act, 1997 (XIX of 1997), or any rules or regulations made thereunder."
+     ]
     }
-  ],
-  "schedules": [],
-  "frontNotes": []
+   ]
+  },
+  {
+   "heading": "Chapter II — Licensing Of Futures Exchange",
+   "sections": [
+    {
+     "no": "3",
+     "title": "Application for grant of licence",
+     "page": 2,
+     "text": [
+      "(1) Subject to compliance with the requirements of sections 3 and 4 of the Act and these regulations, an application for grant of licence as a futures exchange shall be submitted to the Commission in Form A along with receipt evidencing payment of fee of rupees five million and the following documents,-",
+      ">(a) copies of memorandum of association and articles of association;",
+      ">(b) regulations made or proposed to be made under section 7 of the Act; and",
+      ">(c) copies of agreements entered into by the applicant with clearing house(s) and technology partner(s), where required.",
+      "Provided that where the applicant holds licence as a securities exchange, it shall only be required to submit its regulations and list of futures contracts for approval of the Commission.",
+      "(2) The Commission, while considering the application for licence, may require the applicant to furnish such further information or clarification as it deems appropriate.",
+      "(3) The applicant shall, if so required, appear before the Commission for a representation through a person duly authorized for this purpose in writing by the board of directors of the applicant.",
+      "(4) Any subsequent change in the information provided to the Commission at the time of filing of application under this regulation or any new agreement entered into by the futures exchange in respect of matter(s) referred in clause (c) of sub-regulation (1) shall immediately be intimated to the Commission but not later than five working days from the date of such change or agreement, as the case may be.",
+      "(5) No application for grant of licence made under sub-regulation (1) above shall be refused except after giving the applicant an opportunity of being heard."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Grant of Licence",
+     "page": 2,
+     "text": [
+      "(1) The Commission, while considering the application made under regulation 3, shall inter-alia take into account the following matters, -",
+      ">(a) any licence granted or any certificate of registration issued to the applicant under any administered legislation by the Commission;",
+      ">(b) the eligibility requirements under the Act and these regulations;",
+      ">(c) the applicant has demonstrated its ability to perform its duties in accordance with the provisions of the Act and any rules and regulations made or codes, guidelines, directions and circulars issued thereunder;",
+      ">(d) the applicant has shareholding and governance structure as provided in these regulations; and",
+      ">(e) the applicant has the necessary infrastructure including but not limited to adequate office space, equipment, experienced human resources and technical capabilities, financial resources, policies, procedures, systems and controls to effectively and efficiently discharge its responsibilities as a futures exchange.",
+      "(2) The Commission may inspect the premises of the applicant to determine whether it fulfills the eligibility criteria and may also require the applicant to submit reports from experts at the expense of the applicant in the manner specified by the Commission to confirm compliance with the Act and these regulations including the existence of adequate infrastructure, technical capacity, financial standing and other requisite benchmarks.",
+      "(3) The Commission, after conducting such inquiries and obtaining such further information as it deems appropriate, and upon being satisfied that, -",
+      ">(a) the applicant is eligible for a licence;",
+      ">(b) the applicant is in compliance with the provisions of the Act and these regulations;",
+      ">(c) its memorandum of association specifically allows it to act as a futures exchange; and",
+      ">(d) it is in the interest of the futures market and public interest, may grant a licence to the applicant in Form \" B \" under sub-section (4) of section 5 of the Act subject to the conditions as provided in regulation 5.",
+      "(4) A futures exchange shall pay an annual renewal fee of rupees one million and five hundred thousand."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Conditions of licensing",
+     "page": 3,
+     "text": [
+      "(1) In case of a securities exchange applying for licence of a futures exchange, such securities exchange shall comply with the requirements of the Act and any conditions specified by the Commission from time to time:",
+      "Provided that in case of a securities exchange applying for licence of a futures exchange, the licensing conditions provided in the Securities Act and the regulations made thereunder shall also be applicable on it to the extent applicable on futures contracts based on securities.",
+      "(2) A futures exchange other than that mentioned in sub-clause (1) above shall, in addition to the requirements of the Act, comply with the following conditions on an ongoing basis or within such time as the Commission may direct while granting licence under these regulations,-",
+      ">(a) ensure availability and maintenance of necessary infrastructure for trading of futures contracts;",
+      ">(b) ensure availability and maintenance of necessary infrastructure for timely clearing and settlement of trades and risk management;",
+      ">(c) put in place adequate trading procedures and necessary capacity to have a wide network of futures brokers;",
+      ">(d) put in place robust risk management system, efficient settlement procedures and necessary capabilities to have a network of clearing members;",
+      ">(e) put in place adequate monitoring, inspection and enforcement mechanism in respect of futures brokers and clearing members;",
+      ">(f) establish and maintain connectivity with futures brokers and enter into service level agreements with technology partners;",
+      ">(g) have documented business continuity plan including a disaster recovery site;",
+      ">(h) continuously improve the quality and efficiency of its systems and procedures;",
+      ">(i) put in place necessary controls and safeguards to ensure cyber security, access to confidential information and alteration, destruction, disclosure or dissemination of records and data;",
+      ">(j) put in place necessary arrangements including appropriate arbitration mechanism for resolving disputes and redressal of grievances arising out of dealing in futures contracts at the futures exchange and clearing and settlement of trades;",
+      ">(k) comply with the code of corporate governance for listed companies to the extent consistent with the provisions of the Act and the rules or regulations made thereunder;",
+      ">(l) ensure establishment, maintenance and operations of settlement guarantee fund in accordance with the provisions of the Act and any rules and regulations made thereunder, for guaranteeing to its clearing members the performance of market contracts;",
+      ">(m) ensure establishment, maintenance and operations of investor protection fund in accordance with the provisions of the Act and any rules and regulations made thereunder;",
+      ">(n) ensure that its memorandum and articles of association contain no provision inconsistent with the provisions of the Act and these regulations and that no change is made in its memorandum and articles of association except with the prior written approval of the Commission;",
+      ">(o) submit a comprehensive three years business development plan inter alia including therein financial projections, organizational development plans, product development plans with specific reference to agricultural commodities, market development initiatives particularly with reference to promotion offutures contracts and their trading activity at thefutures exchange, expansion of market outreach, education and training of market participants, development of futures market particularly agricultural commodities and the annual reports including progress made in respect of the plans shall be provided to the Commission;",
+      ">(p) employ and retain sufficient number of people with appropriate qualification, experience and expertise to enable the futures exchange to provide an orderly and fair market in relation to futures contracts and to discharge functions assigned to it under the Act and the rules and regulations made thereunder;",
+      ">(q) enter into an agreement with a clearing house, if the exchange is not performing the said function itself, capable of functioning as a central counterparty for clearing and settlement of trades executed on its trading platform;",
+      ">(r) enter into an agreement or arrangement with an international futures exchange or a technology firm of international repute, having relevant expertise for technology partnership, collaboration, transfer of technical know-how and competence, within such period as may be specified by the Commission;",
+      ">(s) deploy adequate infrastructure including modern technologies to enable it to provide trading platforms in accordance with international standards which inter alia include the following,-",
+      ">>(i) infrastructure for orderly accepting, matching and execution of trades including online screen-based trading systems;",
+      ">>(ii) facility to disseminate information about trades, quantities and quotes on real time basis; and",
+      ">>(iii) effective surveillance capability to inter alia monitor positions, prices and volumes in a timely manner;",
+      ">(t) develop and implement a detailed investor outreach and education program;",
+      ">(u) endeavor to promote Shariah compliant products and transactions with approval of the Commission;",
+      ">(v) submit a plan for segregation of commercial and regulatory functions of the futures exchange for approval of the Commission, if such plan is not already approved by the Commission, and ensure compliance with such approved plan {fn:6-1}[:",
+      "“Provided that any consequential amendment in the segregation plan approved by the Commission pursuant to change in relevant regulatory framework may be carried out by the futures exchange with the approval of its board of directors.]",
+      ">(w) constitute a nomination committee, chaired by an independent director to inter alia recommend names of persons for appointment of independent directors on the board of the futures exchange;",
+      ">(x) prescribe a code of conduct for its employees and ensure compliance with the same;",
+      ">(y) not undertake any business other than the business of establishing or operating a futures market except with the prior approval of the Commission; and",
+      ">(z) comply with such other conditions as may be imposed by the Commission from time to time."
+     ],
+     "fn": [
+      {
+       "n": "6-1",
+       "text": "Substituted for the words “which may be futher amended only with prior approval of the Commission” vide SRO 1913(I)/2022 dated October 14, 2022."
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Financial resource requirements",
+     "page": 6,
+     "text": [
+      "(1) A securities exchange applying for license of a futures exchange under regulation 3 shall have an initial paid-up capital and net-worth of not less than rupees one billion provided that the Commission may require the applicant to achieve and maintain, as a licensing condition, a higher paid-up capital and net-worth in a progressive manner.",
+      "Provided that such securities exchange shall maintain such paid-up capital in addition to the paid-up capital specified under the Securities Exchanges (Licensing and Operations) Regulations, 2016.",
+      "(2) An applicant seeking licence under regulation 3, other than that mentioned in sub-clause (1) above, including an existing futures exchange, offering contracts based on commodities and financial instruments, shall have a minimum net worth of rupees 500 million.",
+      "{fn:6-2}[Provided that an existing futures exchange shall comply with this requirement within the timeline specified by the Commission.]",
+      "Explanation. - For the purpose of these regulations, net-worth shall be calculated as total assets less total liabilities less surplus on revaluation, if any, created upon revaluation of fixed assets."
+     ],
+     "fn": [
+      {
+       "n": "6-2",
+       "text": "Substituted for the words “Provided that an existing futures exchange shall have three years to comply with this requirement.’’ vide SRO 561(I)/2022 dated April 27, 2022. 3 Sub-clause (g) and sub provisos substituted vide SRO 1063(I)/2023 dated August 10, 2023. The substituted clause read as follow: “he/she has served on the board for more than three consecutive terms from the date of his/her first appointment provided that such person shall be deemed \"independent director\" after a lapse of one term: Provided that any person nominated as a director under sections 182 and 183 of the Ordinance shall not be taken to be an \"independent director\" for the above-mentioned purposes: Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the futures exchange.” 4 Sub-regulation 4 of Regulation 11 substituted vide SRO 1063(I)/2023 dated August 10, 2023 for the following: “The appointment of the chief executive officer shall be made for a period of three years subject to renewal with the prior approval of the Commission.”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter III — Requirements For Futures Exchange Holding Licence As A Securities Exchange",
+   "sections": [
+    {
+     "no": "7",
+     "title": "Applicability of Securities Exchanges (Licensing and Operations) Regulations 2016",
+     "page": 7,
+     "text": [
+      "A futures exchange also holding licence as a securities exchange shall comply with the provisions of the Securities Act and Securities Exchanges (Licensing and Operations) Regulations, 2016 pertaining to shareholding requirements, fit and proper criteria, board of directors, appointment of senior management officers, constitution of regulatory affairs committee, manner of outsourcing of important functions and audit and accounts:",
+      "Provided that a futures exchange holding licence as a securities exchange shall also comply with all such requirements of the Securities Exchanges (Licensing and Operations) Regulations, 2016 which are applicable to the extent of offering of futures contracts."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Requirements For Futures Exchange Other Than That Holding Licence As A Securities Exchange",
+   "sections": [
+    {
+     "no": "8",
+     "title": "Application of fit and proper criteria",
+     "page": 7,
+     "text": [
+      "The applicant, and its promoters, substantial shareholders, directors and senior management officers shall at all times be fit and proper persons as per the criteria specified in Annexure-I. The fit and proper criteria is perpetual in nature and a futures exchange shall ensure compliance with the provisions of such criteria.",
+      "Provided that a futures exchange, while evaluating fit and proper criteria in respect of promoters or substantial shareholders of the applicant, shall ensure that the fit and proper criteria is applied to the extent practical on the promoters and directors of such entities."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Shareholding requirements",
+     "page": 7,
+     "text": [
+      "No person shall acquire or sell shares of a futures exchange without prior written approval of the Commission."
+     ]
+    },
+    {
+     "no": "10",
+     "title": "Composition of board of directors and related matters",
+     "page": 7,
+     "text": [
+      "(1) The board of a futures exchange shall comprise of a minimum of seven directors as per the following categories:",
+      ">(a) independent directors;",
+      ">(b) shareholder directors; and",
+      ">(c) Chief executive officer.",
+      "Explanation:- For the purpose of this clause the expression \"independent director\" means a director who is not connected or does not have any other relationship, whether pecuniary or otherwise, with the futures exchange, its associated companies, subsidiaries, holding company or directors. The test of independence principally emanates from the fact whether such person can be reasonably perceived as being able to exercise independent business judgement without being subservient to any form of conflict of interest:",
+      "Provided that without prejudice to the generality of this explanation no director shall be considered independent if one or more of the following circumstances exist:",
+      ">(a) he/she has been an employee of the futures exchange, any of its subsidiaries or holding company within the last three years;",
+      ">(b) he/she is or has been the chief executive officer of subsidiaries, associated company, associated undertaking or holding company of the futures exchange in the last three years;",
+      ">(c) he/she has or has had, within the last three years, a material business relationship with the futures exchange either directly, or indirectly as a partner, substantial shareholder or director of a body that has such relationship with the futures exchange;",
+      ">(d) he/she has received remuneration in the three years preceding his/her appointment as a director or receives additional remuneration, excluding retirementbenefits from the applicant apart from a director's fee",
+      ">(e) he/she is a close relative of the directors or promoters , or directors of the futures exchange:",
+      "Explanation: The expression ‘close relative’ means spouse(s), lineal ascendants and descendants and siblings;",
+      ">(f) he/she holds cross-directorships or has significant links with other directors through involvement in other companies or bodies;",
+      ">{fn:8-3}[(g) he/she has served on the board for more than two terms from the date of his/her first appointment:",
+      "Provided that no individual shall serve as an independent director for more than three terms in total across all capital market infrastructure institutions i.e. securities exchanges, clearing houses, central depositories and futures exchanges:",
+      "Provided further that any person nominated as a director under sections 182 and 183 of the Ordinance shall not be considered as an \"independent director\" for the above-mentioned purposes:",
+      "Provided further that in case of any ambiguity in determining independence of a person for the purposes of these regulations, the decision of the Commission shall be final and binding upon the futures exchange.”; and]",
+      "(2) The board of directors of a futures exchange shall comprise at least one-third independent directors.",
+      "(3) An independent director shall be appointed by the board of directors of the futures exchange with prior written approval of the Commission in the following manner:",
+      ">(a) a futures exchange shall submit the name of the person suitable for appointment as an independent director to the Commission for each vacancy, for its approval;",
+      ">(b) the Commission may, if satisfied that a person is suitable for appointment as independent director grant its approval for appointment of the selected person by the board of directors of the futures exchange provided that where the Commission is not satisfied about the suitability of the proposed personfor appointment as a director, it may refer the matter back to the futures exchange for proposing other name after following the due process;",
+      ">(c) unless provided otherwise, the term of the independent director so appointed shall be the same as that of the shareholder directors;",
+      ">(d) an independent director may be removed by the board of directors of the futures exchange with prior written approval of the Commission if such person fails to comply with the fit and proper criteria; and",
+      ">(e) any vacant position of an independent director shall be filled in the similar manner as provided for initial appointment of an independent director.",
+      "(4) The quorum for the meeting of board of directors of a futures exchange shall not be less than one-half of their number or four, whichever is greater.",
+      "(5) At least one-third of independent directors must be present in a meeting of the board of directors of the futures exchange to constitute a quorum.",
+      "(6) The chairman of the board of directors of a futures exchange shall be from amongst the independent directors.",
+      "(7) The Board of directors of a futures exchange shall meet at least once in each quarter of a year.",
+      "(8) Every director and senior management officer of the futures exchange shall abide by the code of conduct specified in Annexure II.",
+      "(9) In case of a new futures exchange, no person shall be appointed as director on the board of directors of such futures exchange who is, directly or indirectly, a substantial shareholder, director or an employee of a futures broker/ TRE certificate holder or substantial shareholder, director or an employee of any holding or subsidiary company of a futures broker/TRE certificate holder."
+     ]
+    },
+    {
+     "no": "11",
+     "title": "Appointment of chief executive officer",
+     "page": 10,
+     "text": [
+      "(1) The appointment, renewal of appointment and termination of services of the chief executive officer of a futures exchange shall be subject to prior approval of the Commission and for this purpose the term \"termination\" shall include \"non-renewal\" of his contract.",
+      "(2) The board of directors of a futures exchange shall determine the manner of appointment, terms and conditions of appointment and other procedural formalities associated with the selection/ appointment of the chief executive officer.",
+      "(3) A chief executive officer shall be appointed by the futures exchange through the following process.-",
+      ">(a) a futures exchange shall shortlist the most suitable person meeting the fit and proper criteria provided in these regulations and shall submit its recommendation for approval of the Commission;",
+      ">(b) the Commission may, if satisfied that such person is suitable for appointment by the futures exchange as chief executive officer of the futures exchange, grant its approval for the same;",
+      "Provided that, if the Commission is not satisfied with the suitability of the proposed person for appointment as chief executive officer, it may refer the matter back to the futures exchange for proposing another name for consideration of the Commission,",
+      "(4) {fn:10-4}[The appointment of the chief executive officer shall be made for a period of three years, which may be renewed for one more term of three years, with the prior approval of the Commission:",
+      "Provided that a person may be appointed for third and final term of three years, based on exceptional performance that is substantiated by the board of directors through a rigorous review, subject to following a competitive hiring process and final review and approval by the Commission.]"
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Appointment and functions of chief regulatory officer",
+     "page": 11,
+     "text": [
+      "(1) The appointment and termination of services of the chief regulatory officer of a futures exchange shall be subject to prior approval of the Commission.",
+      "(2) A chief regulatory officer shall be appointed by the futures exchange through the following process,-",
+      ">(a) a futures exchange shall shortlist the most suitable person meeting the fit and proper criteria provided in these regulations and shall submit its recommendatiofor approval of the Commission;",
+      ">(b) The Commission may, if satisfied that such person is suitable for appointment by the futures exchange as chief regulatory officer of the futures exchange, grant its approval for the same:",
+      "Provided that, if the Commission is not satisfied with the suitability of the proposed person as chief regulatory officer, it may refer the matter back to the futures exchange for proposing another name for consideration of the Commission.",
+      "(3) The chief regulatory officer, being head of the regulatory affairs division of the futures exchange, shall be a dedicated position and must not have any other responsibilities except ensuring the efficient functioning of the regulatory affairs division, which may inter alia include the following, namely,-",
+      ">(a) manage, lead and control the compliance and regulatory functions of the futures exchange;",
+      ">(b) develop, implement and monitor compliance policies, processes and procedures to cover all aspects relating to regulatory, operational and statutory obligations of the futures exchange;",
+      ">(c) handle matters relating to the regulations of the futures exchange, including regular review of the same to ensure their suitability, and finalizing proposals for making new regulations or carrying out amendments in the existing regulations for approval of the regulatory affairs committee and board of directors of the futures exchange;",
+      ">(d) monitor compliance of the futures exchange, futures brokers and their accredited representatives with applicable legal and regulatory framework, policies and procedures and take enforcement action(s) under the applicable regulatory framework;",
+      ">(e) supervise or conduct any investigation, inspection or enquiry required to be conducted by a futures exchange;",
+      ">(f) monitor the redressal of disputes, complaints or grievances arising out of trading of futures contracts at the futures exchange in a timely manner;",
+      ">(g) assist regulatory affairs committee of the board of directors to perform its functions;",
+      ">(h) ensure efficiency of the process for redressal of investor grievances, dispute resolution and arbitration;",
+      ">(i) ensure efficiency of surveillance mechanism of the futures exchange;",
+      ">(j) maintain effective liaison with the Commission in respect of the matters in clauses (a) to (i); and",
+      ">(k) perform any other related function as may be assigned by the futures exchange or the Commission.",
+      "(4) The chief regulatory officer shall functionally report to the board of directors of the futures exchange through its regulatory affairs committee.",
+      "(5) In case of any non-compliance, the chief regulatory officer shall take necessary action under the applicable regulatory framework and where the matter requires attention of the board of directors of the futures exchange, the same shall be reported immediately:",
+      "Provided further that where a chief regulatory officer is convinced that the matter also needs immediate attention of the Commission, he shall simultaneously report the same to the Commission stating the reasons thereof.",
+      "(6) In case no action is taken by the board of directors within a maximum period of 7 days or the chief regulatory officer is of the view that the action taken by the board of directors is insufficient, he shall forthwith report the matter to the Commission.",
+      "(7) The chief regulatory officer shall, submit a comprehensive report on quarterly basis to the board of directors regarding matters reported during the respective quarter, corrective actions taken and their status.",
+      "(8) The board of directors of the futures exchange shall put in place necessary mechanism to ensure that the chief regulatory officer performs his functions in a transparent, equitable and timely manner."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Constitution of risk committee",
+     "page": 12,
+     "text": [
+      "(1) A futures exchange shall, with approval of its board of directors, constitute a risk committee for assisting it to develop risk management system and policies.",
+      "(2) The risk committee shall comprise of independent directors, chief executive officer, chief regulatory officer, and industry experts. The chairman of the risk committee shall be an independent director.",
+      "(3) The board of directors of a futures exchange shall determine the manner of appointment of members of risk committee including the selection criteria.",
+      "(4) The risk committee shall be responsible for the following:",
+      "a) framing of risk management policies and procedures for the clearinghouse function performed by the exchange in line with international standards and best practices;",
+      "b) ensuring that the risk management system has the tools to identify and manage all relevant risks including legal, credit, liquidity, general business, and operational risks including control measures and safeguards with respect to large exposures by clearing members and matters connected thereto;",
+      "c) ensuring that margin requirements are commensurate with the risks, address procyclicality, avoid concentration, and provide adequate coverage in conformity with international benchmarks;",
+      "d) ensuring that the risk management function has the capacity to obtain timely information necessary to apply risk management policies and procedures which allow for the accurate and timely measurement and aggregation of risk exposures;",
+      "e) conducting or arranging to conduct studies, research, or analyses with respect to any or all of the components of risk management system of the clearing function;",
+      "f) formulating policies and procedures to ensure continuous adequacy of the risk management model and its adherence to international standards including the policies for regular back testing, stress testing, reverse back testing and sensitivity analysis;",
+      "g) formulating policies for ensuring that a full validation of risk management model is performed at least annually;",
+      "h) to meet at least once in each quarter to review adequacy of risk management system, policies and procedures and matter connected thereto; and",
+      "i) to submit its recommendation(s) to the board of directors together with explanation of their purposes and likely effect, including their effect on the clearing function, clearing members, and investors in sufficient details."
+     ]
+    },
+    {
+     "no": "14",
+     "title": "Chief Risk Officer",
+     "page": 13,
+     "text": [
+      "(1) The Exchange shall appoint a chief risk officer to perform the following functions:",
+      ">(a) to lead risk management of the Exchange;",
+      ">(b) to ensure implementation of risk management policies and procedures in an effective manner;",
+      ">(c) to assist risk committee in performing its functions including submission of periodic reports and information;",
+      ">(d) to timely bring to the information of the risk committee any exceptional or urgent matter concerning or affecting the risk management system; and",
+      ">(e) perform any other related function as may be assigned by the Exchange or the Commission.",
+      "(2) The appointment and termination of services of the chief risk officer shall be made by the board of directors of the Exchange in consultation with the risk committee.",
+      "(3) The chief risk officer shall report directly to the chief executive officer of the Exchange and shall additionally report to the chairman of the risk committee."
+     ]
+    },
+    {
+     "no": "15",
+     "title": "Constitution of regulatory affairs committee",
+     "page": 14,
+     "text": [
+      "(1) A futures exchange shall, with approval of its board of directors, constitute a regulatory affairs committee comprising of independent directors.",
+      "(2) The regulatory affairs committee shall be responsible for the following functions,-",
+      ">(a) formulate policies relating to regulatory affairs of the futures exchange in line with international best practices with approval of the board of directors;",
+      ">(b) ensure that the regulatory affairs division functions effectively and take measures necessary to implement an effective regulatory regime and improve investor confidence and market integrity;",
+      ">(c) develop an overall regulatory plan and roles and responsibilities of each unit of the regulatory affairs division together with a roadmap for effective regulatory role, for the approval of board of directors of the futures exchange;",
+      ">(d) ensure adequacy and effectiveness of the futures exchange's regulatory plan and approve annual plans/targets for the regulatory affairs division on continuous basis;",
+      ">(e) consider and recommend all regulatory amendments for approval of the board of directors of the futures exchange;",
+      ">(f) assess performance of the regulatory affairs division in light of the regulatory plan and annual targets and take measures and, where necessary, make recommendations to the board of directors for improvements;",
+      ">(g) provide recommendations for appointments and removal of services of persons serving in the regulatory affairs division;",
+      ">(h) establish criteria for evaluating candidates for senior management of the regulatory affairs division;",
+      ">(i) formulate and recommend the budget and staff allocation for the regulatory affairs division for approval of the board of directors of the futures exchange;",
+      ">(j) conduct hearings of any appeals against enforcement actions of the regulatory affairs division;",
+      ">(k) identify and manage potential conflicts of interest in commercial and regulatory functions regularly;",
+      ">(l) train and educate personnel of the regulatory affairs division in respect of conflict of interest management and also develop the manual on conflict of interest management and circulate to all employees of the regulatory affairs division;",
+      ">(m) prepare a summarized annual report of the regulatory affairs division on the activities, conclusions, recommendations of the last year with special focus on the identification and mitigation of conflicts of interest and identify the targets for next year along with any other matters, for the board of directors of the futures exchange and the Commission;",
+      ">(n) form sub-committee, where required, to perform any of its functions in accordance with the applicable regulatory frmework ; and",
+      ">(o) carry out any other function that may be mutually agreed upon by the regulatory affairs committee and the board of directors of the futures exchange or as may be assigned by the Commission."
+     ]
+    },
+    {
+     "no": "16",
+     "title": "Manner of outsourcing important functions",
+     "page": 15,
+     "text": [
+      "(1) A futures exchange shall not outsource any of its functions without prior written approval of the Commission.",
+      "(2) The board of directors of a futures exchange shall be responsible for formulation and approval of outsourcing policy describing activities or the nature of activities that can be outsourced, the authorities who can approve outsourcing of such activities, and the selection criteria of third party to whom it can be outsourced.",
+      "(3) The records relating to all activities outsourced shall be preserved centrally by the futures exchange so that the same is readily accessible for review by the board of directors, the Commission or any other authorized person, (4) The futures exchange shall be fully liable and accountable for the activities that are being outsourced to the same extent as if the service were provided in-house. The facilities, premises or data involved in carrying out the outsourced activity by the service provider shall be deemed to be those of the futures exchange.",
+      "(5) The futures exchange shall be fully liable and must take appropriate steps to require that third parties protect confidential information of both the futures exchange, its customers and other parties involved from intentional or inadvertent disclosure to unauthorized persons.",
+      "(6) The futures exchange desirous of outsourcing its activities shall not, however, outsource its core business activities including risk and compliance functions."
+     ]
+    },
+    {
+     "no": "17",
+     "title": "Obligations pertaining to Audit and Accounts",
+     "page": 16,
+     "text": [
+      "The obligations and duties of a futures exchange under these regulations with respect to audit and accounts are in addition to the requirements of the Ordinance, the rules and regulations made thereunder and any directives issued thereunder."
+     ]
+    },
+    {
+     "no": "18",
+     "title": "Maintenance of accounting and other records",
+     "page": 16,
+     "text": [
+      "(1) A futures exchange shall keep accounting and other records which shall sufficiently explain its business and transactions entered into and shall be such as to, -",
+      ">(a) disclose with accuracy the financial position at that time ;",
+      ">(b) enable the futures exchange to prepare financial statements at any time and which comply with the requirements of law;",
+      ">(c) demonstrate whether the futures exchange is maintaining adequate financial resources to meet its business committments;",
+      ">(d) demonstrate capacity of the futures exchange with respect to its duties, functions and operations under the Act and these regulations; and",
+      ">(e) demonstrate its preparedness to manage any risk arising out of its duties, functions and operations.",
+      "(2) The futures exchange shall ensure that all requirements with respect to accounting and audit under these regulations are updated in a timely manner.",
+      "(3) The futures exchange shall ensure that information which is required to be recorded under the Act and these regulations shall be recorded in such a way as to enable a particular transaction to be identified at anytime and traced from initiation to conclusion.",
+      "(4) All records required to be maintained under the Act and these regulations shall be properly arranged and filed so as to permit prompt access to any particular record.",
+      "(5) The futures exchange shall preserve the records required under these regulations for a period of ten years from the date on which they are made and should seek clearance from the Commission before destruction of any of its records."
+     ]
+    },
+    {
+     "no": "19",
+     "title": "Appointment of auditor and related matters",
+     "page": 17,
+     "text": [
+      "(1) A futures exchange shall ensure that it has appointed an auditor {fn:17-5}[from the list of approved auditors to conduct audit of a futures exchange as notified by the Commission] who inter-alia has the powers and duties prescribed under sub-regulation 3 and, -",
+      ">(a) those powers and duties are set out in an engagement letter;",
+      ">(b) the engagement letter is signed by the futures exchange and the auditor; and",
+      ">(c) the futures exchange retains a copy of the engagement letter.",
+      "(2) A futures exchange shall, within seven days, give written notice to the Commission of the appointment, removal or resignation of an auditor.",
+      "(3) The auditor appointed by a futures exchange shall have a right to,-",
+      ">(a) access its accounting and other records and all other documents relating to its business including the documents required to be maintained under the Act and these regulations; and",
+      ">(b) require from it such information and explanations as the auditor considers necessary for the performance of duties.",
+      "(4) in preparing an auditor's report of a futures exchange, the auditor shall carry out such relevant audit procedures as will enable him to form an opinion as to the matters required to be stated in the audit report.",
+      "{fn:17-6}[]",
+      "(6) Where an auditor resigns or is removed by the futures exchange, a notice to that effect shall be sent to the Commission containing a statement signed by the auditor to the effect that there are no circumstances connected with his resignation or removal which the auditor considers should be brought to the attention of the Commission.",
+      "(7) A futures exchange shall undergo a mandatory annual audit of its operations, regulatory functions, IT systems and any other systems or functions as specified by the Commission from time to time.",
+      "(8) For the purposes of the audit specified in (7) above, the futures exchange shall, {fn:18-7}[appoint an auditor {fn:18-8}[from the list of approved auditors to conduct audit of a futures exchange as notified by the Commission other than the auditor appointed under sub-regulation (1) above]], with relevant expertise who shall conduct such audit in accordance with the terms of reference specified in Annexure III.",
+      "{fn:18-9}[8(A) For the purposes of audit specified in sub-regulation (7) above, a future exchange shall, at the minimum, rotate the auditor after every five years.]",
+      "(9) The Commission may appoint an auditor to carry out a special audit of the futures exchange at the expense of the futures exchange, in respect of all or any specific matter as specified in Annexure III or any matter specified by the Commission at the time of appointment of the auditor. The audit shall be carried out for such period as the Commission may direct at the time of appointing the auditor."
+     ],
+     "fn": [
+      {
+       "n": "17-5",
+       "text": "Inserted vide SRO vide 414(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "17-6",
+       "text": "Deleted vide SRO vide 1666 (I)/ 2023 dated November 17, 2023. The deleted clause read as follows: “(5) The auditor's report shall state all the matters as are required to be stated in accordance with the requirements of the Ordinance and additionally must state whether in the opinion of the auditor, (a) an adequate internal control system commensurate with the size and nature of services performed by the futures exchange was implemented during the period; and (b) the regulatory function had appropriate resources including the human resource and had implemented effective procedures and reporting mechanism which can be reasonably expected to detect and report any non- compliance in a timely manner.”"
+      },
+      {
+       "n": "18-7",
+       "text": "Substituted for the words “with prior approval of the Commission, appoint an auditor” SRO 1913(I)/2022 dated October 14, 2022."
+      },
+      {
+       "n": "18-8",
+       "text": "Substituted for the words “enlisted within Category “A” of the State Bank of Pakistan’s Panel of Auditors for a period of three years” vide 414(I)/2023 dated March 29, 2023."
+      },
+      {
+       "n": "18-9",
+       "text": "Inserted vide 414(I)/2023 dated March 29, 2023. (i) 11[open and maintain one or more designated bank accounts with scheduled bank(s) in Pakistan, for deposit of money belonging to futures brokers and their customers and the"
+      }
+     ]
+    },
+    {
+     "no": "20",
+     "title": "Submission of annual report",
+     "page": 18,
+     "text": [
+      "(1) A futures exchange shall submit an annual report to the Commission within four months of the close of financial year, inter alia containing the following information in addition to the requirements of section 20 of the Act;",
+      ">(a) audited financial statements containing information as required under the Act and these regulations;",
+      ">(b) report of directors to shareholders;",
+      ">(c) names and brief profiles of members of the board of directors and senior management officers;",
+      ">(d) statement of compliance with the code of corporate governance;",
+      ">(e) month-wise trade volume and value in each market segment;",
+      ">(f) total number of TRE certificate holders/futures brokers, along-with information with respect to addition or reduction during the period;",
+      ">(g) total number of commodity futures, along-with information with respect to addition or reduction during the period;",
+      ">(h) names of TRE certificate holders/futures brokers defaulted during the year along with nature and amount of default and subsequent action(s) taken by the futures exchange;",
+      ">(i) summary of customer compensation/investor protection fund status showing opening balance, contributions made and amounts utilized during the period and closing balance;",
+      ">(j) details of disciplinary actions taken, fines and penalties imposed and recovered;",
+      ">(k) pattern of shareholding; and",
+      ">(l) any other information that may be deemed material by the futures exchange for disclosure in the annual report.",
+      "(2) In addition to the submission of annual report to the Commission, the futures exchange shall also place the annual report on its official website no later than one week from the date of its publication."
+     ]
+    },
+    {
+     "no": "21",
+     "title": "Submission of information and returns",
+     "page": 19,
+     "text": [
+      "(1) The futures exchange, with approval of its board of directors, shall submit to the Commission, within two months of the close of its financial year, a yearly performance report of the futures exchange against the approved targets and plans, highlighting, in particular, performance of the board of directors, chief executive officer and chief regulatory officer of the futures exchange.",
+      "(2) The Commission may by written notice require a futures exchange to submit to the Commission such periodic returns as it may direct.",
+      "(3) In addition to any periodic returns required under sub-regulation (1) and (2), the Commission may by written notice require a futures exchange, either generally or in a particular case or class of cases, to submit to the Commission such other information or exceptional returns as it may direct."
+     ]
+    },
+    {
+     "no": "22",
+     "title": "Obligations pertaining to handling of money and assets of futures brokers and their customers",
+     "page": 19,
+     "text": [
+      "{fn:19-10}[ The futures exchange shall, money shall either be deposited in the designated bank account or be invested in {fn:20-12}[debt securities with remaining] maturities of 1 year or less, issued by the Government of Pakistan, in such forms and manner as may be specified by the futures exchange;]",
+      ">>(ii) not use assets belonging to futures brokers and their customers for any purpose other than as allowed under the Act or any rules or regulations made thereunder;",
+      ">>(iii) ensure that the assets belonging to futures brokers or their customers shall not form part of the assets of the futures exchange for any purpose;",
+      "FORM A",
+      "Form of Application for Licence as a Futures Exchange under Regulation 3",
+      "The Securities and Exchange Commission of Pakistan,",
+      "Islamabad.",
+      "Subject: Application for grant of licence under regulation 3 of the Futures Exchanges (Licensing and Operations) Regulations, 2017",
+      "Dear Sir,",
+      "1. I/We , on behalf of (name and address of the applicant)….. hereby apply for grant of licence of a futures exchange for the purposes of the Futures Market Act, 2016 and the Futures Exchanges (Licensing and Operations) Regulations, 2017.",
+      "2. All the necessary information required under the laws is enclosed. Any additional will be furnished as and when called for by the Commission.",
+      "3. I/We, on behalf of the applicant, hereby undertake to comply with the requirements of the laws and such other conditions and terms as may be communicated while granting the licence or imposed subsequently.",
+      "4. Bank Challan No dated...... evidencing payment of licence fee of rupees five million and collection charges into the designated bank account of the Securities and Exchange Commission of Pakistan is also enclosed.",
+      "Yours faithfully,",
+      "Authorized signatory FORM B",
+      "SECURITIES AND EXCHANGE COMMISSION OF PAKISTAN",
+      "Licence of a Futures Exchange under Section 5 of the Futures Market Act, 2016",
+      "The Securities and Exchange Commission of Pakistan having considered the application for grant of licence under regulation 3 of the Futures Exchanges (Licensing and Operations) Regulations, 2017 by……(name and address of the futures exchange).... and being satisfied that it would be in the interest of the futures market and also in the public interest to do so, hereby grants licence, in exercise of the powers conferred by section 5 of the Futures Market Act, 2016 to the said futures exchange subject to the condition of payment of annual renewal fee of rupees one million and five hundred thousand and any other conditions as stated in the attached fetter or as may be imposed hereafter.",
+      "Seal of the Commission",
+      "Signature of the Officer",
+      "Islamabad",
+      "Dated:"
+     ],
+     "fn": [
+      {
+       "n": "19-10",
+       "text": "Inserted vide SRO 1913(I)/2022 dated October 14, 2022"
+      },
+      {
+       "n": "19-11",
+       "text": "Substituted for the following text vide SRO 1666 (I)/2023 dated November 17, 2023: (iv) 13[keep records of all amounts deposited into and paid from the designated bank account(s), invested in and divested from the Treasury Bills or the Sukuks in terms of clause (i), along with record of return/profit on such amounts;] (v) maintain record of balances of each futures broker and customer, stating name and the amount held or received for that futures broker or customer;"
+      },
+      {
+       "n": "20-14",
+       "text": "Substituted for the following text vide SRO 1666 (I)/2023 dated November 17, 2023: “if unutilized funds of futures broker or their customers are held in a profit-bearing bank account, pass on profit earned on these funds to the futures broker and their customers in proportion to their unutilized balance unless specified otherwise in writing by the futures broker or customer, after making contribution to the settlement guarantee fund at the rate approved by the Commission and deducting a service fee at the maximum rate approved by the Commission: Provided that before deducting the service fee, the futures exchange currently utilizing any portion of profits on unutilized funds of futures brokers or their customers for any other purpose other than permitted under this Regulation shall gradually phase-out utilization of such an amount in equal proportion till June 30, 2025.”"
+      },
+      {
+       "n": "20-12",
+       "text": "Substituted for the text, “Treasury Bills or Sukuks with original”, vide S.R.O. 141(I)/2025, dated February 7, 2025"
+      },
+      {
+       "n": "20-13",
+       "text": "Substituted for the following text vide SRO 1666 (I)/2023 dated November 17, 2023: “keep records of all amounts deposited into and paid from the designated bank account(s) on behalf of each futures broker and customer;”"
+      },
+      {
+       "n": "20-15",
+       "text": "Substituted for the text vide S.R.O. 141(I)/2025, dated February 7, 2025 “(vi) [if funds of futures brokers or their customers are held in a profit-bearing bank account or invested in terms of clause (i), pass on profit earned on these funds to the futures brokers and their customers in proportion to their balances unless specified otherwise in writing by the futures broker or customer, after making contribution to the settlement guarantee fund at the rate approved by the Commission and deducting a service fee at a rate not exceeding the rate approved by the Commission: Provided that before deducting the service fee, the futures exchange currently utilizing any portion of profits on funds of futures brokers or their customers for any other purpose other than permitted under this Regulation shall gradually phase-out utilization of such an amount in equal proportion till June 30, 2025 with an option of earlier phase-out.]” their customers in proportion to their balances, after deducting a service fee at a rate not exceeding the rate approved by the Commission: Provided that before deducting the service fee, the futures exchange currently utilizing any portion of profits on funds of futures brokers or their customers for any other purpose other than permitted under this Regulation shall gradually phase-out utilization of such an amount in equal proportion till June 30, 2025 with an option of earlier phase-out.] ***"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Annexure I",
+   "page": 24
+  },
+  {
+   "title": "Annexure Ii",
+   "page": 36
+  },
+  {
+   "title": "Annexure Iii",
+   "page": 38
+  }
+ ]
 }

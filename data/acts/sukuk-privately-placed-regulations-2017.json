@@ -1,302 +1,225 @@
 {
-  "id": "sukuk-privately-placed-regulations-2017",
-  "title": "Sukuk (Privately Placed) Regulations, 2017",
-  "number": "S.R.O. 836(I)/2017",
-  "type": "regulations",
-  "unit": "Regulation",
-  "categories": [
-    "corporate"
-  ],
-  "aliases": [
-    "Sukuk Regulations"
-  ],
-  "enacted": "2017-08-21",
-  "lastAmended": "2026-06-20",
-  "amendedUpToLabel": "20 June 2026",
-  "status": "in-force",
-  "source": {
-    "name": "Gazette of Pakistan, S.R.O. 836(I)/2017",
-    "url": "https://www.secp.gov.pk"
-  },
-  "verification": {
-    "status": "unverified",
-    "note": "Text converted from a printed consolidated edition updated to 20 June 2026 and read by machine; not yet checked against the Gazette or SECP's copy. Check before quoting."
-  },
-  "preamble": "S.R.O. 836(I)/2017 dated August 21, 2017.- In exercise of the powers conferred by section 512 of the Companies Act, 2017 (XIX of 2017) read with section 66 thereof and having been previously published in the official Gazette vide Notification No. S.R.O.254(I)/2017 dated April 11, 2017 as required by subsection (1) of section 506A of the Companies Ordinance 1984 (XLVII of 1984), the Securities and Exchange Commission of Pakistan hereby makes the following Regulations, namely:- PRELIMINARY",
-  "parts": [
+ "id": "sukuk-privately-placed-regulations-2017",
+ "title": "Sukuk (Privately Placed) Regulations, 2017",
+ "number": "S.R.O. 836(I)/2017",
+ "type": "regulations",
+ "unit": "Regulation",
+ "categories": [
+  "corporate"
+ ],
+ "aliases": [
+  "Sukuk Regulations"
+ ],
+ "enacted": "2017-08-21",
+ "lastAmended": "2026-06-20",
+ "amendedUpToLabel": "20 June 2026 (no later amendment recorded)",
+ "status": "in-force",
+ "source": {
+  "name": "Securities and Exchange Commission of Pakistan",
+  "url": "https://www.secp.gov.pk"
+ },
+ "sourcePdf": "sukuk-privately-placed-regulations-2017.pdf",
+ "verification": {
+  "status": "verified",
+  "against": "SECP PDF downloaded from secp.gov.pk on 23 Nov 2026; editor declared regulator downloads verified (not a line-by-line check)",
+  "verifiedBy": "Editor (declared reliable)",
+  "verifiedOn": "2026-11-23"
+ },
+ "preamble": "",
+ "parts": [
+  {
+   "heading": "Chapter I — Preliminary",
+   "sections": [
     {
-      "heading": "Chapter I",
-      "sections": [
-        {
-          "no": "1",
-          "title": "Short title, commencement",
-          "text": [
-            "(1) These Regulations may be called the \"Sukuk (Privately Placed) Regulations, 2017\".",
-            "(2) They shall come into force at once.",
-            "(3) They shall apply to all Issues of Sukuk privately placed by any company, Special Purpose Vehicle or body corporate to the Qualified Institutional Buyers.",
-            "(4) These Regulations shall not apply to an Issue by any company, a Special Purpose Vehicle or body corporate specifically setup by the Federal Government or any provincial Government for the purposes of issue of Sukuk, under any other law."
-          ]
-        },
-        {
-          "no": "2",
-          "title": "Definitions",
-          "text": [
-            "(1) In these Regulations unless there is anything repugnant in the subject or context-",
-            ">(a) \"Act\" means the Companies Act, 2017;",
-            ">(b) \"Commission\" means the' Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
-            ">(c) \"Investment Agent\" means an institution licensed by the Commission as a Debt Securities Trustee under the Debt Securities Trustee Regulations, 2017, and appointed by the issuer through execution of investment agency agreement. The Investment Agent shall be responsible to facilitate issue and sale of Sukuk under these Regulations and to safeguard interest of the holders of Sukuk;",
-            ">(d) \"Issue\" for the purposes of these Regulations means issuance of Sukuk to Qualified Institutional Buyers through private placement;",
-            ">(e) \"issuer\" for the purposes of these Regulations means a company or",
-            "Special Purpose Vehicle or body corporate, which issues Sukuk through private placement; (f) \"Limited Liability Partnership (LLP)\" means a partnership registered under the Limited Liability Partnership Act, 2017;",
-            ">(g) \"Qualified Institutional Buyer (QIB)\" means any institution that is authorized by its constitutive document to invest in Sukuk and includes the persons mentioned in section 66 of the Act and notified there under from time to time as persons to whom instruments of redeemable capital including participatory redeemable capital can be issued;",
-            ">(h) \"Regulations\" means the Sukuk (Privately Placed) Regulations, 2017;",
-            ">(i) \"Shariah Advisor\" means an individual, a Limited Liability Partnership (LLP) or a company who/that meets the fit and proper standards specified by the Commission;",
-            ">(j) \"Shariah:Compliant Security\" means a security structured on the basis of any.of the Shariah concepts;",
-            ">(k) \"Shariah concepts\" for the purpose of these Regulations includes Ijarah, Musharakah, Murabahah, Modaraba, Salam and any other concept allowed by the Shariah Advisor;",
-            "(1) \"Shariah Pronouncement\" for the purpose of these Regulations means a fatwa, certificate or a Shariah opinion signed by Shariah Advisor in such form and manner as notified by the Commission from time to time;",
-            ">(m) \"Special Purpose Vehicle (SPV)\" for the purpose of these Regulations means a public limited company or a body corporate registered with the Commission under the Companies (Asset Backed Securitization) Rules, 1999;",
-            ">(n) \"Sukuk\" means an instrument of equal value representing undivided share in ownership of the identified tangible assets, usufruct and usufruct services or in the ownership of the assets of particular projects or",
-            "special investment activity.",
-            "(2) Words and expressions used but not defined in these Regulations shall have the same meanings as are assigned to them in the Act, the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), the Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980 (XXXI of 1980), the Companies (Asset Backed Securitization) Rules, 1999 and the Securities Act, 2015 (III of 2015).",
-            "ELIGIBILITY AND REQUIREMENTS FOR ISSUE OF SUKUK"
-          ]
-        }
-      ]
+     "no": "1",
+     "title": "Short title and Commencement",
+     "page": 1,
+     "text": [
+      "(1) These Regulations may be called the “Sukuk (Privately Placed) Regulations, 2017”.",
+      "(2) They shall come into force at once.",
+      "(3) They shall apply to all Issues of Sukuk privately placed by any company, Special Purpose Vehicle or body corporate to the Qualified Institutional Buyers.",
+      "(4) These Regulations shall not apply to an Issue by any company, a Special Purpose Vehicle or body corporate specifically setup by the Federal Government or any provincial Government for the purposes of issue of Sukuk, under any other law."
+     ]
     },
     {
-      "heading": "Chapter II",
-      "sections": [
-        {
-          "no": "3",
-          "title": "Eligibility for Issue of Sukuk",
-          "text": [
-            "An issuer may issue Sukuk under sectior. 66 of the Act subject to the terms and conditions mentioned therein and in these Regulations."
-          ]
-        },
-        {
-          "no": "4",
-          "title": "Conditions for Issue of Sukuk",
-          "text": [
-            "(1) An issuer that intends to issue Sukuk shall fulfill the following conditions namely:-",
-            ">(a) Prior to issuance of Sukuk, the issuer has appointed an Investment Agent and engaged Shariah Advisor;",
-            ">(b) in case of secured Sukuk, it has arranged appropriate security, in the form acceptable to the Investment Agent;",
-            "Provided that the above clause (b) shall not apply to a Sovereign Sukuk and a Government Guaranteed Sukuk.",
-            "Explanation 1.- For the purposes of this regulation the expression \"Sovereign Sukuk\" shall include Sukuk issued and",
-            "guaranteed by the Federal Government.",
-            "Explanation 2.- For the purposes of this regulation the expression \"Government Guaranteed Sukuk\" shall include Sukuk \"Government issued by any corporation or body corporate owned and controlled by the Federal Government and such Sukuk is guaranteed by the Federal Government.",
-            ">(c) any other condition as may be specified by the Commission.",
-            "(2) Where a Sukuk is structured using a single Shariah concept, the Sukuk shall preferably be named according to that concept.",
-            "(3) The issuer shall ensure that proceeds of the Issue are utilized for Shariah compliant purposes and in the form and manner as disclosed in the information memorandum to be circulated to QIBs for inviting subscription.",
-            "(4) The Issue shall not embed any swaps, options or other derivatives except in the case of convertible or exchangeable Sukuk. except in the case of convertible or exchangeable Sukuk. • (5) Where Sukuk are convertible or exchangeable into ordinary shares of the issuer, the option of conversion or exchange, as the case may be, shall be at the discretion of the investors."
-          ]
-        },
-        {
-          "no": "5",
-          "title": "Shariah Advisor and Shariah Pronouncement",
-          "text": [
-            "(1) The issuer shall, before the issue of Sukuk, engage Shariah Advisor and obtain in writing from it/him/her, the Shariah Pronouncement. The Shariah Pronouncement must be signed by Shariah Advisor ascertaining that the basis on which the Sukuk are structured is Shariah compliant.",
-            "(2) The Shariah Pronouncement must contain at least such information and certification and in the form and manner as notified by the Commission from time to time including the following;",
-            ">(a) how the structure is free from riba;",
-            ">(b) whether and to what extent the return to Sukuk holders is attributable to the underlying assets;",
-            ">(c) whether and to what extent the ownership of underlying assets, belongs to the Sukuk holders;",
-            ">(d) whether and to what extent the related agreements and contracts, separately and collectively, are consistent with the concerned Shariah principles; and",
-            ">(e) exceptions, reservations, and qualifications regarding Shariah compliance, if any, and details thereof.",
-            "(3) The engagement letter or agreement executed with the Shariah Advisor among other things, must clearly define the roles and responsibilities of both parties, dispute resolution mechanism and such other clauses as specified by the Commission from time to time.",
-            "(4) The Shariah Advisor may not remain engaged throughout the tenor of the Issue, if the Shariah Pronouncement states so. Where an issuer opts to engage a Shariah Advisor for a longer period, the term of engagement shall be at the discretion of the issuer.",
-            "(5) The issuer shall ensure that all relevant documents, contracts, details and information required by the Shariah Advisor for understanding of the transaction, concepts, structure etc. and framing or review of the Shariah Pronouncement are provided and adequately explained to the Shariah Advisor.",
-            "(6) In case of rescheduling or restructuring of an Issue, the issuer shall seek Shariah Pronouncement from the Shariah Advisor, afresh."
-          ]
-        },
-        {
-          "no": "6",
-          "title": "Appointment of the Investment Agent",
-          "text": [
-            "(1) The issuer shall before the offer of Sukuk appoint an Investment Agent.",
-            "(2) The appointment of Investment Agent shall be carried out through execution of an investment agency agreement which shall contain at least such clauses as notified by the Commission from time to time.",
-            "(3) The Investment Agent shall endeavor that assets are transferred to Sukuk holders through an SPV and in case the Sukuk is issued without establishment of SPV then Shariah Advisor should give reasons referring to Shariah principles for allowing issuance of Sukuk without establishment of an SPV.",
-            "(4) The Investment Agent shall not be associated company or associated undertaking of the issuer.",
-            "DISCLOSURE AND REPORTING REQUIREMENTS"
-          ]
-        }
-      ]
-    },
-    {
-      "heading": "Chapter III",
-      "sections": [
-        {
-          "no": "7",
-          "title": "Disclosure requirements for issuance of Sukuk",
-          "text": [
-            "(1) The issuer shall prepare information memorandum containing all the material information as notified by the Commission from time to time and shall also submit an undertaking on non-judicial stamp paper to the Commission on the format as given at Appendix-I.",
-            "(2) Information memorandum shall be considered as a private document and shall not to be used as a document inviting the public for subscription of Sukuk and shall be circulated only to the Qualified Institutional Buyers.",
-            "(3) The information memorandum must make it unambiguously clear to the investors whether or not the Sukuk are asset backed, that is, based on true the investors whether or not the Sukuk are asset backed, that is, based on true sale, providing investors an unqualified right over the concerned assets. If the Sukuk are not asset backed, the information memorandum shall explain the implications, most notably, if the Sukuk holders are assuming credit risk of the issuer and their standing in the hierarchy of creditors.",
-            "(4) If Sukuk are issued without transferring concerned assets, where applicable, to an SPV, the issuer shall explain in the information memorandum, why the SPV structure has not been used and any potential implications regarding investor protection and Shariah compliance.",
-            "(5) The information memorandum shall specify fees and expenses pertaining to Shariah compliance, including the fee, if any, paid to the Shariah Advisor."
-          ]
-        },
-        {
-          "no": "8",
-          "title": "Reporting Requirement",
-          "text": [
-            "(1) The Issue shall be reported, preferably electronically, on the format given at Appendix-Il, by the issuer to the Commission within fifteen days of its issuance.",
-            "(2) The Sukuk issued by an issuer before notification of these Regulations and are outstanding on the date of such notification shall be reported, if not done so, to the Commission on the format given at Appendix-II within thirty days of the notification of these Regulations.",
-            "(3) The Commission may also require the issuer to furnish such additional information relating to the Issue as the Commission deems appropriate.",
-            "(4) The external Shariah audit fee, where applicable attributable to the issue of Sukuk shall be disclosed in the audited financial statements of the issuer."
-          ]
-        },
-        {
-          "no": "9",
-          "title": "Disclosures to Sukuk holders",
-          "text": [
-            "The issuer shall furnish the Shariah Pronouncement and the transaction documents to all the Sukuk holders in physical or electronic form or shall make available the same on its website, in downloadable format, for information of the investors.",
-            "DISCIPLINARY PROCEEDINGS"
-          ]
-        }
-      ]
-    },
-    {
-      "heading": "Chapter IV",
-      "sections": [
-        {
-          "no": "10",
-          "title": "Consequences of the contravention or breach of these Regulations",
-          "text": [
-            "Where the issuer fails to comply with or contravenes any provision of these Regulations or any directive or order issued by the Commission, the Commission may after providing an opportunity of hearing impose a penalty provided under sub-section (2) of sectión 512 of the Act and/or direct the issuer to,-",
-            ">(a) recall all or any of the Sukuk, issued according to the procedure provided in the order by the Commission;",
-            ">(b) take such corrective measures that are necessary to safeguard interest of the Sukuk holders; and",
-            ">(c) publish details of the corrective measures taken by the issuer pursuant to the directions of the Commission.",
-            "MISCELLANEOUS"
-          ]
-        }
-      ]
-    },
-    {
-      "heading": "Chapter V",
-      "sections": [
-        {
-          "no": "11",
-          "title": "Financial Reporting and Accounting Treatment",
-          "text": [
-            "The issuers of Sukuk shall, while preparing their financial reports, ensure that all the relevant standards, notified by the Accounting and Auditing Organization of the Islamic Financial Institutions and the Islamic Financial Accounting Standard as notified by the Commission for adoption, from time to time relating to the financial reporting and accounting treatment of Sukuk are complied with."
-          ]
-        },
-        {
-          "no": "12",
-          "title": "Shariah Compliance Audit",
-          "text": [
-            "(1) The Shariah Advisor providing the initial Shariah Pronouncement shall state in their Shariah Pronouncement, whether or not Shariah audit of the issued Sukuk is required.",
-            "(2) The compliance of features and Shariah requirements of Sukuk shall be audited on annual basis, where applicable under sub-regulation (1).",
-            "(3) The issuer shall appoint its own statutory auditors or another firm of Chartered Accountants to perform Shariah audit.",
-            "(4) The Shariah audit report, where required shall made part of the annual financial report of the issuer."
-          ]
-        },
-        {
-          "no": "13",
-          "title": "Repeal",
-          "text": [
-            "(1) The Issue of Sukuk Regulations, 2015, notified through S.R.O. 112(1)/2015, are hereby repealed.",
-            "(2) The repeal of the Issue of Sukuk Regulations, 2015 shall not affect any Sukuk issued under the said regulations and any rights, privileges, obligations or"
-          ]
-        }
-      ]
+     "no": "2",
+     "title": "Definitions",
+     "page": 1,
+     "text": [
+      "(1) In these Regulations unless there is anything repugnant in the subject or context –",
+      ">(a) “Act” means the Companies Act, 2017;",
+      ">(b) “Commission” means the Securities and Exchange Commission of Pakistan established under section 3 of the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997);",
+      ">(c) “Investment Agent” means an institution licensed by the Commission as a Debt Securities Trustee under the Debt Securities Trustee Regulations, 2017, and appointed by the issuer through execution of investment agency agreement. The Investment Agent shall be responsible to facilitate issue and sale of Sukuk under these Regulations and to safeguard interest of the holders of Sukuk;",
+      ">(d) “Issue” for the purposes of these Regulations means issuance of Sukuk to Qualified Institutional Buyers through private placement;",
+      ">(e) “issuer” for the purposes of these Regulations means a company or Special Purpose Vehicle or body corporate, which issues Sukuk through private placement;",
+      ">(f) “Limited Liability Partnership (LLP)” means a partnership registered under the Limited Liability Partnership Act, 2017;",
+      ">(g) “Qualified Institutional Buyer (QIB)” means any institution that is authorized by its constitutive document to invest in Sukuk and includes the persons mentioned in section 66 of the Act and notified there under from time to time as persons to whom instruments of redeemable capital including participatory redeemable capital can be issued;",
+      ">(h) “Regulations” means the Sukuk (Privately Placed) Regulations, 2017;",
+      ">(i) “Shariah Advisor” means an individual, a Limited Liability Partnership (LLP) or a company who/that meets the fit and proper standards specified by the Commission;",
+      ">(j) “Shariah Compliant Security” means a security structured on the basis of any of the Shariah concepts;",
+      ">(k) “Shariah concepts” for the purpose of these Regulations includes Ijarah, Musharakah, Murabahah, Modaraba, Salam and any other concept allowed by the Shariah Advisor;",
+      ">(l) “Shariah Pronouncement” for the purpose of these Regulations means a fatwa, certificate or a Shariah opinion signed by Shariah Advisor in such form and manner as notified by the Commission from time to time;",
+      ">(m) “Special Purpose Vehicle (SPV)” for the purpose of these Regulations means a public limited company or a body corporate registered with the Commission under the Companies (Asset Backed Securitization) Rules, 1999;",
+      ">(n) “Sukuk” means an instrument of equal value representing undivided share in ownership of the identified tangible assets, usufruct and services or in the ownership of the assets of particular projects or special investment activity.",
+      "(2) Words and expressions used but not defined in these Regulations shall have the same meanings as are assigned to them in the Act, the Securities and Exchange Commission of Pakistan Act, 1997 (XLII of 1997), the Modaraba Companies and Modaraba (Floatation and Control) Ordinance, 1980 (XXXI of 1980), the Companies (Asset Backed Securitization) Rules, 1999 and the Securities Act, 2015 (III of 2015)."
+     ]
     }
-  ],
-  "schedules": [
+   ]
+  },
+  {
+   "heading": "Chapter II — Eligibility And Requirements For Issue Of Sukuk",
+   "sections": [
     {
-      "title": "Appendix-I",
-      "text": [
-        "[Regulation 7]",
-        "FORMAT OF UNDERTAKING ON NON-JUDICIAL STAMP PAPER OF",
-        "THE REQUIRED VALUE",
-        "The Securities and Exchange Commission of Pakistan,",
-        "NIC Building, 63, Jinnah Avenue,",
-        "Islamabad.",
-        "UNDERTAKING",
-        "I, on behalf of ... (Name of the issuing company)... (the Company) duly authorized by its board of directors hereby undertake that:",
-        "(1) the issuer shall forward to the Investment Agent promptly, whether a request for the same has been made or not the following information/documents:",
-        ">(a) copy of the latest audited annual accounts and half yearly accounts as and when finalized;",
-        ">(b) copy of the notice, resolution and circular relating to new issue of",
-        "Sukuk, or any other instrument of redeemable capital at the same time as it is sent to the Commission, the Stock Exchange, the shareholders and the Sukuk holders;",
-        ">(c) copy of the notice, letter, circular, etc. issued to the Sukuk holders or published in the print media relating to the issue of Sukuk;",
-        ">(d) certificate from the auditors of the issuer on maintenance of security in the form and manner required under the Investment",
-        "Agency Agreement in respect of secured Sukuk on annual basis within one month of the finalization of the annual financial report;",
-        ">(e) redemption status of the Sukuk on semi-annual basis till it is fully redeemed;",
-        ">(f) status of redemption reserve fund, if any; and",
-        ">(g) any other information/document related to the Issue as and when required by the Investment Agent.",
-        ">(ii) the issuer shall provide access to the Investment Agent to the books of accounts and record relating to the Sukuk.",
-        ">(iii) the issuer shall submit to the Commission such documents and information as to be required by the Commission.",
-        ">(iv) the issuer shall maintain security in the form and manner as required under the Investment Agency Agreement, in case of secured Sukuk, at all times till complete redemption of such Sukuk.",
-        ">(v) the issuer shall notify the Commission the expected default in timely payment of profit or principal amount as soon as the same becomes and where investment decision was to be implemented in specified time;",
-        ">(c) reasons for deviations from the approved timeline of investment,",
-        ">(b) amount of investment made to date;",
-        ">(a) total investment approved;",
-        "through a statement having the following details namely,- general meeting, the status of the decision shall be explained to the members implemented in line with the approval of members till the holding of subsequent resolution passed pursuant to provisions of section 199 of the Act is not fully",
-        "(2) In case any decision to make investment under the authority of a for seeking members' approval pursuant to section 199 of the Act.",
-        "the investing company shall be disclosed in the notice of general meeting called associated company or associated undertaking and its sponsors and directors in is also a member of the investing company, the information about interest of the associated company or associated undertaking or any of its sponsors or directors",
-        "4. Other information to be disclosed to the members.- (1) If the",
-        "Act.",
-        "approval of the special resolution for investment pursuant to section 199 of the made available to the members for inspection in the general meeting called for",
-        "(4) The duly signed recommendations of the due diligence report shall be recommending it for members' approval.",
-        "have carried out necessary due diligence for the proposed investment before undertaking shall certify to the members of the investing company that they resolution for making investment in an associated company or associated",
-        "(3) The directors of the investing company while presenting the special the same day it is dispatched to the members.",
-        "Exchange Commission of Pakistan, through fax or email and courier service on notice and the statement of material facts to the head office of the Securities and",
-        "(2) A listed company shall simultaneously dispatch a copy of aforesaid undertaking.",
-        "advances to be given to the associated company or associated",
-        ">(vi) repayment schedule and terms and conditions of loans or be exercisable; and conversion may take place and the time when the conversion may including convérsion formula, circumstances in which the into securities, this fact along with terms and conditions",
-        ">(v) if the investment carries conversion feature i.e. it is convertible the proposed investment;",
-        ">(iv) particulars of collateral or security to be obtained in relation to charged by investing company;",
-        ">(iii) rate of interest, mark up, profit, fees or commission etc. to be",
-        "III - 160 unfunded facilities, as the case may be, for the relevant period;",
-        "return for Shariah compliant products and rate of return for",
-        "Inter Bank Offered Rate (KIBOR) for the relevant period, rate of",
-        ">(ii) average borrowing cost of the investing company, the Karachi",
-        ">(i) category-wise amount of investment;",
-        "sub-regulation (1) of regulation 3 shall be made,- following disclosures in addition to those provided under clause (a) of",
-        "In case of investments in the form of loans, advances and guarantees, (c)",
-        "5 for investments in unlisted securities;",
-        ">(vi) fair value determined in terms of sub-regulation (1) of regulation securities; and price where investment is proposed to be made in listed",
-        ">(v) current and preceding twelve weeks' weighted average market the proposed investment;",
-        "number of securities and percentage thereof held before and after (iv)",
-        ">(iii) maximum number of securities to be acquired;",
-        "justification thereof;",
-        "listed securities and fair value in case of unlister securities,",
-        ">(ii) in case the purchase price is higher than market value in case of'",
-        ">(i) maximum price at which securities will be acquired;",
-        "made,- provided under clause (a) of sub-regulation (1) of regulation 3 shall be",
-        ">(b) In case of equity investment, following disclosures in addition to those understand the transaction;",
-        ">(vii) any other important details necessary for the members to any impairment or write offs; and such investment including complete information/justification for undertaking has already been made, the performance review of",
-        ">(vi) in case any investment in associated company or associated consideration;",
-        "company or associated undertaking or the transaction under shareholders and their relatives, if any, in the associated",
-        ">(v) direct or indirect interest of directors, sponsors, majority investment;",
-        "company or associated undertaking with regards to the proposed",
-        ">(iv) salient features of the agreement(s), if any, with associated (III) cost benefit analysis;",
-        "for obtaining such funds; and (II) detail of collateral, guarantees provided and assets pledged",
-        "Cos. Inv. in Associated Undertakings Reg., 2017 Part III, Rules & Regulations",
-        "III - 159 (I) justification for investment through borrowings;",
-        "investment is intended to be made using borrowed funds,-",
-        ">(iii) sources of funds to be utilized for investment and where the members from such investment and period of investment;",
-        ">(ii) purpose, benefits likely to accrue to the investing company and its",
-        ">(i) maximum amount of investment to be made;",
-        "(B) General disclosures:- distinguishing between cash and non-cash amounts;",
-        "sponsors, associated company or associated undertaking (V) funds invested or to be invested by the promoters, return on investment; and (IV) expected time by which the project shall start paying operational;",
-        "(III) time by which such projectshall become commercially (II) starting date and expected date of completion of work;",
-        "conceptualization;",
-        "(I) description • of the project and its history since operations, following further information, namely,- company or associated undertaking that has not commenced",
-        ">(vi) in case of investment in relation to a project of associated financial statements; and position and profit and loss account on the basis of its latest",
-        ">(v) financial position, including main items of statement of financial statements;",
-        ">(iv) break-up value per share, based ön latest audited financial",
-        ">(iii) earnings per share for the last three years;",
-        ">(ii) basis of relationship;",
-        ">(i) name of associated company or associated undertaking;",
-        "(A) Regarding associated company or associated undertaking:-",
-        ">(a) Disclosures for all types of investments,- considering investment decision under section 199 of the Act- to sub-section (3) of section 134 of the Act, of a general meeting called for disclose following information in the statement annexed to the notice, pursuant",
-        "3. Information to be disclosed to members.- (1) The company shall",
-        "Notice of Meeting and Information to Members",
-        "Chapter II",
-        "III - 158"
-      ]
+     "no": "3",
+     "title": "Eligibility for Issue of Sukuk",
+     "page": 3,
+     "text": [
+      "An issuer may issue Sukuk under section 66 of the Act subject to the terms and conditions mentioned therein and in these Regulations."
+     ]
+    },
+    {
+     "no": "4",
+     "title": "Conditions for Issue of Sukuk",
+     "page": 3,
+     "text": [
+      "(1) An issuer that intends to issue Sukuk shall fulfill the following conditions namely:-",
+      ">(a) Prior to issuance of Sukuk, the issuer has appointed an Investment Agent and engaged Shariah Advisor;",
+      ">(b) in case of secured Sukuk, it has arranged appropriate security, in the form acceptable to the Investment Agent;",
+      "Provided that the above clause (b) shall not apply to a Sovereign Sukuk and a Government Guaranteed Sukuk.",
+      "Explanation 1.- For the purposes of this regulation the expression “Sovereign Sukuk” shall include Sukuk issued and guaranteed by the Federal Government.",
+      "Explanation 2.- For the purposes of this regulation the expression “Government Guaranteed Sukuk” shall include Sukuk issued by any corporation or body corporate owned and controlled by the Federal Government and such Sukuk is guaranteed by the Federal Government.",
+      ">(c) any other condition as may be specified by the Commission.",
+      "(2) Where a Sukuk is structured using a single Shariah concept, the Sukuk shall preferably be named according to that concept.",
+      "(3) The issuer shall ensure that proceeds of the Issue are utilized for Shariah compliant purposes and in the form and manner as disclosed in the information memorandum to be circulated to QIBs for inviting subscription.",
+      "(4) The Issue shall not embed any swaps, options or other derivatives except in the case of convertible or exchangeable Sukuk.",
+      "(5) Where Sukuk are convertible or exchangeable into ordinary shares of the issuer, the option of conversion or exchange, as the case may be, shall be at the discretion of the investors."
+     ]
+    },
+    {
+     "no": "5",
+     "title": "Shariah Advisor and Shariah Pronouncement",
+     "page": 4,
+     "text": [
+      "(1) The issuer shall, before the issue of Sukuk, engage Shariah Advisor and obtain in writing from it/him/her, the Shariah Pronouncement. The Shariah Pronouncement must be signed by Shariah Advisor ascertaining that the basis on which the Sukuk are structured is Shariah compliant.",
+      "(2) The Shariah Pronouncement must contain at least such information and certification and in the form and manner as notified by the Commission from time to time including the following;",
+      ">(a) how the structure is free from riba;",
+      ">(b) whether and to what extent the return to Sukuk holders is attributable to the underlying assets;",
+      ">(c) whether and to what extent the ownership of underlying assets, belongs to the Sukuk holders;",
+      ">(d) whether and to what extent the related agreements and contracts, separately and collectively, are consistent with the concerned Shariah principles; and",
+      ">(e) exceptions, reservations, and qualifications regarding Shariah compliance, if any, and details thereof.",
+      "(3) The engagement letter or agreement executed with the Shariah Advisor among other things, must clearly define the roles and responsibilities of both parties, dispute resolution mechanism and such other clauses as specified by the Commission from time to time.",
+      "(4) The Shariah Advisor may not remain engaged throughout the tenor of the Issue, if the Shariah Pronouncement states so. Where an issuer opts to engage a Shariah Advisor for a longer period, the term of engagement shall be at the discretion of the issuer.",
+      "(5) The issuer shall ensure that all relevant documents, contracts, details and information required by the Shariah Advisor for understanding of the transaction, concepts, structure etc. and framing or review of the Shariah Pronouncement are provided and adequately explained to the Shariah Advisor.",
+      "(6) In case of rescheduling or restructuring of an Issue, the issuer shall seek Shariah Pronouncement from the Shariah Advisor, afresh."
+     ]
+    },
+    {
+     "no": "6",
+     "title": "Appointment of the Investment Agent",
+     "page": 5,
+     "text": [
+      "(1) The issuer shall before the offer of Sukuk appoint an Investment Agent.",
+      "(2) The appointment of Investment Agent shall be carried out through execution of an investment agency agreement which shall contain at least such clauses as notified by the Commission from time to time.",
+      "(3) The Investment Agent shall endeavor that assets are transferred to Sukuk holders through an SPV and in case the Sukuk is issued without establishment of SPV then Shariah Advisor should give reasons referring to Shariah principles for allowing issuance of Sukuk without establishment of an SPV.",
+      "(4) The Investment Agent shall not be associated company or associated undertaking of the issuer."
+     ]
     }
-  ],
-  "frontNotes": [],
-  "schedulesNote": "Schedules, annexures and forms are given as text read from the printed edition; the layout of tables and blanks is simplified, so consult the printed form where its layout matters. Unverified."
+   ]
+  },
+  {
+   "heading": "Chapter III — Disclosure And Reporting Requirements",
+   "sections": [
+    {
+     "no": "7",
+     "title": "Disclosure requirements for issuance of Sukuk",
+     "page": 5,
+     "text": [
+      "(1) The issuer shall prepare information memorandum containing all the material information as notified by the Commission from time to time and shall also submit an undertaking on non-judicial stamp paper to the Commission on the format as given at Appendix-I.",
+      "(2) Information memorandum shall be considered as a private document and shall not to be used as a document inviting the public for subscription of Sukuk and shall be circulated only to the Qualified Institutional Buyers.",
+      "(3) The information memorandum must make it unambiguously clear to the investors whether or not the Sukuk are asset backed, that is, based on true sale, providing investors an unqualified right over the concerned assets. If the Sukuk are not asset backed, the information memorandum shall explain the implications, most notably, if the Sukuk holders are assuming credit risk of the issuer and their standing in the hierarchy of creditors.",
+      "(4) If Sukuk are issued without transferring concerned assets, where applicable, to an SPV, the issuer shall explain in the information memorandum, why the SPV structure has not been used and any potential implications regarding investor protection and Shariah compliance.",
+      "(5) The information memorandum shall specify fees and expenses pertaining to Shariah compliance, including the fee, if any, paid to the Shariah Advisor."
+     ]
+    },
+    {
+     "no": "8",
+     "title": "Reporting Requirement",
+     "page": 6,
+     "text": [
+      "(1) The Issue shall be reported, preferably electronically, on the format given at Appendix-II, by the issuer to the Commission within fifteen days of its issuance.",
+      "(2) The Sukuk issued by an issuer before notification of these Regulations and are outstanding on the date of such notification shall be reported, if not done so, to the Commission on the format given at Appendix-II within thirty days of the notification of these Regulations.",
+      "(3) The Commission may also require the issuer to furnish such additional information relating to the Issue as the Commission deems appropriate.",
+      "(4) The external Shariah audit fee, where applicable attributable to the issue of Sukuk shall be disclosed in the audited financial statements of the issuer."
+     ]
+    },
+    {
+     "no": "9",
+     "title": "Disclosures to Sukuk holders",
+     "page": 6,
+     "text": [
+      "The issuer shall furnish the Shariah Pronouncement and the transaction documents to all the Sukuk holders in physical or electronic form or shall make available the same on its website, in downloadable format, for information of the investors."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter IV — Disciplinary Proceedings",
+   "sections": [
+    {
+     "no": "10",
+     "title": "Consequences of the contravention or breach of these Regulations",
+     "page": 6,
+     "text": [
+      "Where the issuer fails to comply with or contravenes any provision of these Regulations or any directive or order issued by the Commission, the Commission may after providing an opportunity of hearing impose a penalty provided under sub-section (2) of section 512 of the Act and/or direct the issuer to,-",
+      ">(a) recall all or any of the Sukuk, issued according to the procedure provided in the order by the Commission;",
+      ">(b) take such corrective measures that are necessary to safeguard interest of the Sukuk holders; and",
+      ">(c) publish details of the corrective measures taken by the issuer pursuant to the directions of the Commission."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Chapter V — Miscellaneous",
+   "sections": [
+    {
+     "no": "11",
+     "title": "Financial Reporting and Accounting Treatment",
+     "page": 6,
+     "text": [
+      "The issuers of Sukuk shall, while preparing their financial reports, ensure that all the relevant standards, notified by the Accounting and Auditing Organization of the Islamic Financial Institutions and the Islamic Financial Accounting Standard as notified by the Commission for adoption, from time to time relating to the financial reporting and accounting treatment of Sukuk are complied with."
+     ]
+    },
+    {
+     "no": "12",
+     "title": "Shariah Compliance Audit",
+     "page": 7,
+     "text": [
+      "(1) The Shariah Advisor providing the initial Shariah Pronouncement shall state in their Shariah Pronouncement, whether or not Shariah audit of the issued Sukuk is required.",
+      "(2) The compliance of features and Shariah requirements of Sukuk shall be audited on annual basis, where applicable under sub-regulation (1).",
+      "(3) The issuer shall appoint its own statutory auditors or another firm of Chartered Accountants to perform Shariah audit.",
+      "(4) The Shariah audit report, where required shall made part of the annual financial report of the issuer."
+     ]
+    },
+    {
+     "no": "13",
+     "title": "Repeal",
+     "page": 7,
+     "text": [
+      "(1) The Issue of Sukuk Regulations, 2015, notified through S.R.O. 112(I)/2015, are hereby repealed.",
+      "(2) The repeal of the Issue of Sukuk Regulations, 2015 shall not affect any Sukuk issued under the said regulations and any rights, privileges, obligations or liabilities acquired, accrued or incurred under the said repealed Issue of Sukuk Regulations, 2015."
+     ]
+    }
+   ]
+  }
+ ],
+ "schedules": [
+  {
+   "title": "Appendix-I",
+   "page": 8
+  },
+  {
+   "title": "Appendix-Ii",
+   "page": 10
+  }
+ ]
 }

@@ -20,6 +20,53 @@ import {
 } from './lib.mjs';
 import { loadExtras, validateExtras, citedSections, delegation, handCheck, EVIDENCE_DIR } from './related.mjs';
 
+// Paragraph strings to HTML: ordinary paragraphs with their indent level, and runs of table rows ("|a|b|c") as one
+// accessible, horizontally scrollable table. fmt(text, isParagraph) escapes and decorates a piece of text.
+function renderParas(list, fmt) {
+  let out = '';
+  let rows = [];
+  const flush = () => {
+    if (!rows.length) return;
+    const cols = Math.max(...rows.map((r) => r.row.length));
+    const isNum = (c) => /^[-+(]?[\d][\d,.\s]*%?\)?$/.test(c.trim());
+    const cell = (c, tag, extra = '') => `<${tag}${extra}${tag === 'td' && isNum(c) ? ' class="num"' : ''}>${fmt(c, false)}</${tag}>`;
+    let head = '';
+    let body = '';
+    for (const r of rows) {
+      const filled = r.row.filter(Boolean);
+      if (r.head) head += `<tr>${Array.from({ length: cols }, (_, i) => cell(r.row[i] || '', 'th', ' scope="col"')).join('')}</tr>`;
+      else if (filled.length === 1 && cols > 1) body += `<tr class="tbl-title"><th colspan="${cols}" scope="colgroup">${fmt(filled[0], false)}</th></tr>`;
+      else body += `<tr>${Array.from({ length: cols }, (_, i) => cell(r.row[i] || '', 'td')).join('')}</tr>`;
+    }
+    const tbl = `<div class="tbl-wrap${cols > 6 ? ' tbl-wide' : ''}" role="region" aria-label="Table" tabindex="0"><table>${head ? `<thead>${head}</thead>` : ''}<tbody>${body}</tbody></table></div>`;
+    // Forms and returns printed as very wide tables are kept (and searchable) but folded away so the paragraphs read cleanly.
+    out += cols > 9 ? `<details class="tbl-form"><summary>Form or statement layout (${cols} columns): show</summary>${tbl}</details>` : tbl;
+    rows = [];
+  };
+  for (const raw of list) {
+    const p = parseParagraph(raw);
+    if (p.row) { rows.push(p); continue; }
+    flush();
+    out += `<p class="l${p.level}">${fmt(p.text, true)}</p>`;
+  }
+  flush();
+  return out;
+}
+
+// Reading aids for a provision's paragraph (HTML already escaped): the list label "(i)", "(a)", "1." is set in bold,
+// and for instruments flagged runInHeadings a short caption ending in a colon ("(i) Definitions:", "Instruments: ...") is bold too.
+function emphasise(html, act) {
+  const m = /^(\(?[A-Za-z0-9]{1,5}\)|\d{1,3}[A-Z]{0,2}\.|[ivx]{1,5}\.|[a-z]\.)(\s+|$)/.exec(html);
+  let rest = m ? html.slice(m[0].length) : html;
+  if (act.runInHeadings) {
+    const whole = /^([^<:]{2,90}:)\s*$/.exec(rest);
+    const run = /^([A-Z][^<:()]{2,60}:)(\s+)(?=\S)/.exec(rest);
+    if (whole) rest = `<strong class="runin">${whole[1]}</strong>`;
+    else if (run && run[1].split(/\s+/).length <= 8 && !/^(Provided|Note|However)\b/.test(run[1])) rest = `<strong class="runin">${run[1]}</strong>${run[2]}${rest.slice(run[0].length)}`;
+  }
+  return m ? `<span class="lbl">${m[1]}</span> ${rest}` : rest;
+}
+
 const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-');
 
 export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
@@ -41,6 +88,9 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
       scheduleText.set(j.id, j);
     }
   }
+  // Each schedule, annexure and form shown as a PDF link also has its own PDF and Word file (tools/forms_export.py).
+  const formsDir = path.join(ROOT, 'sources', 'forms');
+  const formsIndex = fs.existsSync(path.join(formsDir, 'index.json')) ? JSON.parse(fs.readFileSync(path.join(formsDir, 'index.json'), 'utf8')) : {};
   const byId = new Map(acts.map((a) => [a.id, a]));
   const children = (id) => acts.filter((a) => a.parent === id);
   const registerFor = (id) => extras.registers.find((r) => r.act === id);
@@ -91,6 +141,7 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
     <a href="${base}contents.html"${page === 'contents' ? ' aria-current="page"' : ''}>Index</a>
     <a href="${base}shelf.html"${page === 'shelf' ? ' aria-current="page"' : ''}>My shelf</a>
     <a href="${base}laws.html"${page === 'laws' ? ' aria-current="page"' : ''}>SECP laws</a>
+    <a href="${base}notices.html"${page === 'notices' ? ' aria-current="page"' : ''}>Notices</a>
     <a href="${base}sources.html"${page === 'sources' ? ' aria-current="page"' : ''}>Sources</a>
     <a href="${base}about.html"${page === 'about' ? ' aria-current="page"' : ''}>About</a>
   </nav>
@@ -107,6 +158,8 @@ ${body}
 </footer>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="${base}assets/app.js" defer></script>
+<div class="read-progress" aria-hidden="true"></div>
+<a class="fab-top" href="#" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'});return false">↑</a>
 </body>
 </html>
 `;
@@ -136,7 +189,8 @@ ${body}
   const actRow = (act, base) => {
     const count = provisionCount(act);
     const size = act.pdfOnly ? 'Official PDF' : `${count} ${act.unit.toLowerCase()}${count === 1 ? '' : 's'}`;
-    const upto = act.amendedUpToLabel ? ` · to ${e(act.amendedUpToLabel.replace(/\s*\(.*\)$/, ''))}` : '';
+    const lbl = act.amendedUpToLabel ? act.amendedUpToLabel.replace(/\s*\(.*\)$/, '') : '';
+    const upto = /^(\d|(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]* \d)/i.test(lbl) && lbl.length < 30 ? ` · to ${e(lbl)}` : '';
     return `
       <li class="act-row">
         <a href="${base}acts/${act.id}/index.html">
@@ -158,26 +212,66 @@ ${body}
   // ---------- home ----------
   {
     const base = '';
-    const cats = catalog.categories
-      .map((c) => {
-        const list = acts.filter((a) => a.categories.includes(c.id));
-        const principal = list.filter((a) => !a.parent);
-        const rows = principal
-          .map((a) => actRow(a, base) + children(a.id).filter((k) => list.includes(k)).map((k) => actRow(k, base).replace('class="act-row"', 'class="act-row child"')).join(''))
-          .join('');
-        const orphans = list.filter((a) => a.parent && !list.includes(byId.get(a.parent))).map((a) => actRow(a, base)).join('');
+    const verifiedCount = acts.filter((a) => a.verification.status === 'verified').length;
+    const catData = catalog.categories.map((c) => {
+      const list = acts.filter((a) => a.categories.includes(c.id));
+      const principal = list.filter((a) => !a.parent || !list.includes(byId.get(a.parent)));
+      return { c, list, principal };
+    });
+    // Practice-area cards: one tile per area with a count and its first few principal instruments.
+    const cards = catData
+      .map(
+        ({ c, list, principal }) => `
+      <a class="area-card" href="#cat-${c.id}">
+        <span class="area-count">${list.length}</span>
+        <span class="area-name">${e(c.name)}</span>
+        <span class="area-desc">${e(c.description)}</span>
+        <span class="area-eg">${principal.slice(0, 3).map((a) => e(a.title.replace(/,?\s*\d{4}$/, ''))).join(' · ')}</span>
+      </a>`
+      )
+      .join('');
+    const groupsAll = JSON.parse(fs.readFileSync(path.join(dataDir || path.join(ROOT, 'data'), 'contents-groups.json'), 'utf8')).groups;
+    const rowFor = (a, list) => {
+      const kids = children(a.id).filter((k) => list.includes(k));
+      const head = actRow(a, base);
+      if (!kids.length) return head;
+      return `${head}
+      <li class="act-kids"><details><summary>${kids.length} rule${kids.length === 1 ? '' : 's'} and regulations made under it</summary><ul class="act-list">${kids
+        .map((k) => actRow(k, base).replace('class="act-row"', 'class="act-row child"'))
+        .join('')}</ul></details></li>`;
+    };
+    const cats = catData
+      .map(({ c, list, principal }) => {
+        let inner;
+        if (list.length > 25) {
+          // A large area is split by our own subject groups (contents-groups.json) so it reads as short lists.
+          const used = new Set();
+          inner = groupsAll
+            .map((g) => {
+              const items = g.items.map((id) => byId.get(id)).filter((a) => a && principal.includes(a) && !used.has(a.id));
+              items.forEach((a) => used.add(a.id));
+              if (!items.length) return '';
+              const n = items.reduce((t, a) => t + 1 + children(a.id).filter((k) => list.includes(k)).length, 0);
+              return `<h3 class="sub-label">${e(g.name)} <span class="count">${n}</span></h3><ul class="act-list">${items.map((a) => rowFor(a, list)).join('')}</ul>`;
+            })
+            .join('');
+          const rest = principal.filter((a) => !used.has(a.id));
+          if (rest.length) inner += `<h3 class="sub-label">Other</h3><ul class="act-list">${rest.map((a) => rowFor(a, list)).join('')}</ul>`;
+        } else {
+          inner = `<ul class="act-list">${principal.map((a) => rowFor(a, list)).join('')}</ul>`;
+        }
         return `
     <section class="category" id="cat-${c.id}">
-      <h2>${e(c.name)} <span class="count">${list.length}</span></h2>
+      <h2>${e(c.name)} <span class="count">${list.length}</span> <a class="to-top" href="#top">Top ↑</a></h2>
       <p class="muted">${e(c.description)}</p>
-      <ul class="act-list">${rows}${orphans || ''}</ul>
+      ${inner}
     </section>`;
       })
       .join('');
 
     const total = acts.reduce((n, a) => n + provisionCount(a), 0);
     const body = `
-  <section class="hero">
+  <section class="hero" id="top">
     <h1>${e(site.name)}</h1>
     <p class="lede">${e(site.tagline)}</p>
     <form class="searchbar" action="search.html" method="get" role="search">
@@ -186,11 +280,18 @@ ${body}
       <button type="submit">Search</button>
     </form>
     <p class="hint">Try <a href="search.html?q=withholding%20tax">withholding tax</a>, <a href="search.html?q=GST">GST</a>, <a href="search.html?q=related%20party">related party</a> or <a href="search.html?q=KYC">KYC</a> · <a href="search-guide.html">Search guide</a></p>
-    <p class="stats">${acts.length} instruments · ${total.toLocaleString('en')} provisions · ${catalog.categories.length} practice areas</p>
-    <p class="stats small"><a href="contents.html">Index of every law, rule and regulation, by subject</a> · <a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a> · text checked word for word: ${acts.filter((a) => a.verification.status === 'verified').length} of ${acts.length} (<a href="about.html#verification">what this means</a>)</p>
+    <ul class="stat-tiles">
+      <li><strong>${acts.length}</strong><span>laws, rules and regulations</span></li>
+      <li><strong>${total.toLocaleString('en')}</strong><span>provisions</span></li>
+      <li><strong>${catalog.categories.length}</strong><span>practice areas</span></li>
+      <li><a href="about.html#verification"><strong>${verifiedCount}</strong><span>converted from the regulator's own PDF (editor-declared)</span></a></li>
+    </ul>
+    <p class="stats small"><a href="contents.html">Index by subject</a> · <a href="laws.html">What SECP administers and what the library covers</a> · <a href="sources.html">Editions checked against the regulators' websites</a></p>
   </section>
   <div id="shelf-preview"></div>
-  <nav class="chips" aria-label="Practice areas">
+  <h2 class="section-label">Browse by practice area</h2>
+  <div class="area-grid">${cards}</div>
+  <nav class="chips sticky-chips" aria-label="Practice areas">
     ${catalog.categories.map((c) => `<a class="chip" href="#cat-${c.id}">${e(c.name)}</a>`).join('')}
   </nav>
   ${cats}`;
@@ -251,12 +352,7 @@ ${body}
           .map((s) => {
             const anchor = provisionAnchor(s.no);
             const known = new Set((s.fn || []).map((f) => f.n));
-            const paras = s.text
-              .map((raw) => {
-                const { level, text } = parseParagraph(raw);
-                return `<p class="l${level}">${renderText(text, anchor, known)}</p>`;
-              })
-              .join('');
+            const paras = renderParas(s.text, (t, isPara) => (isPara ? emphasise(renderText(t, anchor, known), act) : renderText(t, anchor, known)));
             const notes = (s.notes || []).map((n) => `<li>${e(n)}</li>`).join('');
             const fns = (s.fn || [])
               .map((f) => `<li id="${anchor}-fn-${slug(f.n)}"><span class="fn-no">${e(fnLabel(f.n))}</span> ${e(f.text)}</li>`)
@@ -314,11 +410,11 @@ ${body}
 
     const schedules = act.schedules?.length
       ? `<section class="schedules" id="schedules"><h2>Schedules, annexures and forms</h2>${pdfScheds.length ? `<p class="muted small">Schedules are mostly tables, so they are shown as published in the official PDF.</p><ul class="act-list">${act.schedules
-          .map((x, k) => (x.text ? '' : `<li class="act-row" data-sched="${k}"><a href="${pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`))
+          .map((x, k) => (x.text ? '' : `<li class="act-row" data-sched="${k}"><a href="${x.pdf ? `${base}sources/${x.pdf}` : pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a>${(() => { const f = formsIndex[act.id]?.[String(k + 1)]; return f ? `<span class="form-dl" role="group" aria-label="Download ${e(x.title)}"><a class="dl" href="${base}forms/${f.pdf}" download title="This form only, cut from the official PDF (${f.pages} page${f.pages === 1 ? '' : 's'})">PDF</a>${f.docx ? `<a class="dl" href="${base}forms/${f.docx}" download title="${f.docxNote === 'ocr' ? 'Word copy: text read by OCR from a scanned page, check it against the PDF' : 'Word copy made from the PDF; layout may differ slightly'}">Word${f.docxNote === 'ocr' ? ' (OCR)' : ''}</a>` : ''}</span>` : ''; })()}</li>`))
           .join('')}</ul>` : ''}${inlineScheds.length && act.schedulesNote ? `<p class="muted small">${e(act.schedulesNote)}</p>` : ''}${inlineScheds
           .map(([x, k]) => {
-            const paras = x.text.map((raw) => { const { level, text } = parseParagraph(raw); return `<p class="l${level}">${e(text)}</p>`; }).join('');
-            return `<article class="provision schedule" id="${schedAnchor(k)}" data-no="" data-title="${e(x.title)}" data-cite="${e(x.title)}, ${e(act.title)}"><header class="prov-head"><h3><a class="prov-link" href="#${schedAnchor(k)}">${e(x.title)}</a></h3><div class="prov-tools" role="group" aria-label="Tools for ${e(x.title)}"><button type="button" data-action="link" title="Copy link to this schedule">Link</button></div></header><div class="prov-body">${paras}</div></article>`;
+            const paras = renderParas(x.text, (t) => e(t));
+            return `<article class="provision schedule" id="${schedAnchor(k)}" data-no="" data-title="${e(x.title)}" data-cite="${e(x.title)}, ${e(act.title)}"><header class="prov-head"><h3><a class="prov-link" href="#${schedAnchor(k)}">${e(x.title)}</a></h3><div class="prov-tools" role="group" aria-label="Tools for ${e(x.title)}"><button type="button" data-action="link" title="Copy link to this schedule">Link</button>${pdf && x.page && !x.pdf ? `<a class="tool-link" href="${pdf}#page=${x.page}" target="_blank" rel="noopener" title="Open the official PDF at this page">PDF p.${e(x.page)}</a>` : ''}</div></header><div class="prov-body">${paras}</div></article>`;
           })
           .join('')}</section>`
       : '';
@@ -362,7 +458,7 @@ ${body}
       <h1>${e(act.title)} ${verificationBadge(act)}</h1>
       ${act.preamble ? `<p class="preamble">${e(stripMarkers(act.preamble))}</p>` : ''}
       ${noteList(act.frontNotes, 'Amendment notes on the title and enacting text', 'front')}
-      <dl class="meta">${meta}</dl>
+      <details class="meta-wrap" open><summary>Details of this instrument</summary><dl class="meta">${meta}</dl></details>
       ${verification}
       ${caution}
       ${sourceNotes}
@@ -621,7 +717,7 @@ ${body}
             : r?.status === 'manual' ? `<br><span class="muted small">${e(r.note)}</span>` : '';
         const page = r?.page || a.source.url;
         return `
-        <tr>
+        <tr data-status="${r?.status || 'manual'}" data-ver="${a.verification.status}" data-text="${e((a.title + ' ' + (a.number || '')).toLowerCase())}">
           <td><a href="acts/${a.id}/index.html">${e(a.title)}</a></td>
           <td>${a.amendedUpToLabel ? e(a.amendedUpToLabel) : a.enacted ? `As enacted (${e(a.enacted)})` : 'Not stated'}</td>
           <td><span class="badge ${cls}">${label}</span>${latest}</td>
@@ -659,8 +755,18 @@ ${body}
       : '<p>No automated check has been run yet.</p>'}
     <div class="note-box"><strong>Two different checks.</strong> <em>Edition status</em> says whether the library holds the latest edition the regulator lists (<span class="badge ok">Latest edition</span>). <em>Text checked</em> says whether a person has compared the library's text word for word with that PDF (<span class="badge ok">Verified</span>); until then it is <span class="badge warn">Unverified</span> and should be confirmed against the PDF before it is quoted. An instrument can be the latest edition and still unverified.</div>
     <p class="muted small">The check runs every week. FBR and FMU pages are read automatically. SECP's website blocks automated access and Pakistan Code lists no edition dates, so those laws are checked by hand and a screenshot of each check is kept below.</p>
+    <div class="src-cards" role="group" aria-label="Filter the table">
+      <button type="button" class="src-card is-on" data-src-filter="all"><strong>${acts.length}</strong><span>all instruments</span></button>
+      <button type="button" class="src-card" data-src-filter="status:current"><strong>${count('current')}</strong><span>latest edition confirmed</span></button>
+      <button type="button" class="src-card" data-src-filter="status:manual"><strong>${count('manual')}</strong><span>to check on the website</span></button>
+      <button type="button" class="src-card" data-src-filter="status:newer"><strong>${count('newer')}</strong><span>newer edition listed</span></button>
+      <button type="button" class="src-card" data-src-filter="ver:verified"><strong>${acts.filter((a) => a.verification.status === 'verified').length}</strong><span>text marked verified</span></button>
+      <button type="button" class="src-card" data-src-filter="ver:unverified"><strong>${acts.filter((a) => a.verification.status !== 'verified').length}</strong><span>text unverified</span></button>
+    </div>
+    <input id="src-filter" class="src-filter" type="search" placeholder="Filter by title or number" autocomplete="off" aria-label="Filter instruments by title or number">
+    <p id="src-count" class="muted small" aria-live="polite"></p>
     <div class="table-wrap">
-      <table class="sources-table">
+      <table class="sources-table" id="sources-table">
         <thead><tr><th>Instrument</th><th>Edition in the library</th><th>Edition status</th><th>Text checked</th><th>Regulator page</th></tr></thead>
         <tbody>${rows}</tbody>
       </table>
@@ -707,6 +813,52 @@ ${body}
     );
   }
 
+  // ---------- notifications, circulars, directives and guidelines (PDF catalogue) ----------
+  {
+    const dir = path.join(dataDir || path.join(ROOT, 'data'), 'notices');
+    const textDir = path.join(dataDir || path.join(ROOT, 'data'), 'notices-text');
+    const sets = fs.existsSync(dir) ? fs.readdirSync(dir).filter((n) => n.endsWith('.json')).sort().map((n) => JSON.parse(fs.readFileSync(path.join(dir, n), 'utf8'))) : [];
+    if (sets.length) {
+      const fmtDate = (d) => { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(d); return m ? `${+m[3]} ${['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][+m[2] - 1]} ${m[1]}` : ''; };
+      const mb = (b) => (b >= 1048576 ? `${(b / 1048576).toFixed(1)} MB` : `${Math.max(1, Math.round(b / 1024))} KB`);
+      const all = sets.flatMap((st) => st.items.map((it) => ({ ...it, kind: st.kind, kindLabel: st.label, reg: st.regulator })));
+      for (const it of all) {
+        const src = path.join(ROOT, 'sources', 'pdf', it.file);
+        if (!fs.existsSync(src)) throw new Error(`notices: ${it.file} not found in sources/pdf/`);
+        write(`sources/${it.file}`, fs.readFileSync(src));
+      }
+      all.sort((x, y) => (y.date || `${String(y.year).padStart(4, '0')}-00-00`).localeCompare(x.date || `${String(x.year).padStart(4, '0')}-00-00`) || x.title.localeCompare(y.title));
+      for (const st of sets) {
+        const tf = path.join(textDir, `secp-${st.kind}.json`);
+        if (fs.existsSync(tf)) write(`notices-text/secp-${st.kind}.json`, fs.readFileSync(tf));
+      }
+      const years = [...new Set(all.map((x) => x.year).filter(Boolean))].sort((x, y) => y - x);
+      const row = (it) => `<li class="notice-row" data-kind="${it.kind}" data-year="${it.year || ''}" data-id="${e(it.id)}" data-q="${e((it.title + ' ' + (it.number || '') + ' ' + (it.date || '') + ' ' + it.year).toLowerCase())}"><a href="sources/${e(it.file)}" target="_blank" rel="noopener"><span class="act-title">${e(it.title)}</span></a><span class="act-meta">${[it.number, fmtDate(it.date) || (it.year ? String(it.year) : ''), it.kindLabel.replace(/s$/, ''), `${it.pages} p.`, mb(it.bytes)].filter(Boolean).map(e).join(' · ')}</span>${it.check ? `<span class="act-meta notice-check">Check the PDF: ${e(it.check)}</span>` : ''}</li>`;
+      write(
+        'notices.html',
+        layout({
+          title: `Notices — ${site.name}`,
+          description: 'SECP notifications, circulars, directives and guidelines, each linked to its official PDF.',
+          base: '',
+          page: 'notices',
+          body: `
+  <section class="prose notices-page wide">
+    <h1>Notifications, circulars, directives and guidelines</h1>
+    <p>${all.length} documents of the Securities and Exchange Commission of Pakistan, each opening its own PDF as saved from the SECP website. Titles are SECP's own file names made readable; the number and date are read automatically from the title or the first page, so some are missing and a few may be wrong: check the PDF itself. These are shown as PDFs, not converted to text, and have not been checked line by line.</p>
+    <p class="muted small">The filter looks at titles, numbers and years, and, once you start typing, at the opening words of each document (read from the PDF; for scanned pages, by text recognition, so it may miss a word). For a notification that amends a law, open the law's own page: its text is already updated.</p>
+    <input class="idx-filter" id="notice-filter" type="search" placeholder="Filter by title, number, year or opening words" aria-label="Filter the notices" autocomplete="off">
+    <nav class="chips src-cards" aria-label="Kind">
+      <button type="button" class="chip" data-notice-kind="">All <span class="count">${all.length}</span></button>
+      ${sets.map((st) => `<button type="button" class="chip" data-notice-kind="${st.kind}">${e(st.label)} <span class="count">${st.items.length}</span></button>`).join('')}
+    </nav>
+    <p class="muted small"><label>Year <select id="notice-year"><option value="">All</option>${years.map((y) => `<option>${y}</option>`).join('')}</select></label> · <span id="notice-count">${all.length} shown</span></p>
+    <ul class="notice-list">${all.map(row).join('')}</ul>
+  </section>`,
+        })
+      );
+    }
+  }
+
   // ---------- index of the whole library, by subject, with a link to each instrument ----------
   {
     const groups = JSON.parse(fs.readFileSync(path.join(dataDir || path.join(ROOT, 'data'), 'contents-groups.json'), 'utf8')).groups;
@@ -736,7 +888,7 @@ ${body}
         base: '',
         page: 'contents',
         body: `
-  <section class="prose contents-page">
+  <section class="prose contents-page wide">
     <h1>Index of laws, rules and regulations</h1>
     <p>All ${acts.length} instruments in the library, by subject: the Act first, then the rules and regulations made under it. Each title opens the instrument. For laws SECP administers that are not here yet, see <a href="laws.html">SECP laws</a>.</p>
     <input class="idx-filter" id="idx-filter" type="search" placeholder="Filter by title, number or short name" aria-label="Filter the index" autocomplete="off">
@@ -749,6 +901,44 @@ ${body}
     );
   }
 
+  // Search guide extras: common starting points and an A-Z of terms (every term -> the laws it finds).
+  const actById = new Map(acts.map((a) => [a.id, a]));
+  const taskFile = path.join(dataDir || path.join(ROOT, 'data'), 'search-guide-tasks.json');
+  const taskList = fs.existsSync(taskFile) ? JSON.parse(fs.readFileSync(taskFile, 'utf8')).tasks || [] : [];
+  const actLink = (a) => `<a href="acts/${a.id}/index.html">${e(a.title)}</a>`;
+  const guideTasks = taskList.length
+    ? `<section class="guide-cat" id="tasks"><h2>Common starting points <span class="count">${taskList.length}</span></h2><p class="muted small">Where to look first for a common job. These open whole laws and rules, not particular provisions.</p><dl class="term-list">${taskList
+        .map((t) => {
+          const laws = t.laws.map((id) => actById.get(id)).filter(Boolean);
+          return laws.length ? `<div data-q="${e((t.task + ' ' + laws.map((a) => a.title).join(' ')).toLowerCase())}"><dt>${e(t.task)}</dt><dd class="task-laws">${laws.map(actLink).join(' ')}</dd></div>` : '';
+        })
+        .join('')}</dl></section>`
+    : '';
+  const azMap = new Map();
+  for (const a of acts) {
+    for (const t of searchTermsFor(a)) {
+      const key = t.toLowerCase();
+      if (!azMap.has(key)) azMap.set(key, { label: t, laws: [] });
+      azMap.get(key).laws.push(a);
+    }
+  }
+  const azLetters = new Map();
+  [...azMap.values()]
+    .sort((x, y) => x.label.toLowerCase().localeCompare(y.label.toLowerCase()))
+    .forEach((t) => {
+      const ch = /^[a-z]/i.test(t.label) ? t.label[0].toUpperCase() : '#';
+      if (!azLetters.has(ch)) azLetters.set(ch, []);
+      azLetters.get(ch).push(t);
+    });
+  const guideAz = `<section id="az"><h2>A–Z of terms <span class="count">${azMap.size}</span></h2><p class="muted small">Every name and topic, with the laws it finds. Select a term to search for it.</p><nav class="chips az-nav" aria-label="Letters">${[...azLetters.keys()].map((l) => `<a class="chip" href="#az-${l === '#' ? 'num' : l}">${l}</a>`).join('')}</nav>${[...azLetters.entries()]
+    .map(
+      ([l, list]) =>
+        `<section class="guide-cat az-letter"><h3 id="az-${l === '#' ? 'num' : l}">${l}</h3><ul class="az-list">${list
+          .map((t) => `<li data-q="${e((t.label + ' ' + t.laws.map((a) => a.title).join(' ')).toLowerCase())}"><a class="az-term" href="search.html?q=${encodeURIComponent(t.label)}">${e(t.label)}</a> <span class="muted small">${t.laws.map(actLink).join(' · ')}</span></li>`)
+          .join('')}</ul></section>`
+    )
+    .join('')}</section>`;
+
   // ---------- search guide: every instrument with the names and topics it can be found by ----------
   write(
     'search-guide.html',
@@ -758,17 +948,23 @@ ${body}
       base: '',
       page: 'search-guide',
       body: `
-  <section class="prose search-guide">
+  <section class="prose search-guide wide">
     <h1>Search guide</h1>
     <p>Type any of these in the search box. A short name or topic lists the matching law or rule above the provision results; a short name also works for jumping to a provision, for example <a href="search.html?q=s%20149%20ITO"><code>s 149 ITO</code></a> or <a href="search.html?q=s%20204%20CA%202017"><code>s 204 CA 2017</code></a>.</p>
     <p class="muted small">Topics point to a whole law or rule, not to a particular provision. Use the provision search for the words of the law itself.</p>
+    <input class="idx-filter" id="guide-filter" type="search" placeholder="Filter by law, number or topic" aria-label="Filter the search guide" autocomplete="off">
+    <nav class="chips" aria-label="Jump to">${[['tasks', 'Common starting points'], ['az', 'A–Z of terms'], ...catalog.categories.map((c) => ['cat-' + c.id, c.name])].map(([h, n]) => `<a class="chip" href="#${h}">${e(n)}</a>`).join('')}</nav>
+    ${guideTasks}
+    ${guideAz}
     ${catalog.categories
       .map((c) => {
         const list = acts.filter((a) => a.categories.includes(c.id));
         if (!list.length) return '';
-        return `<h2 id="cat-${c.id}">${e(c.name)}</h2><dl class="term-list">${list
-          .map((a) => `<div><dt><a href="acts/${a.id}/index.html">${e(a.title)}</a>${a.number ? ` <span class="muted small">${e(a.number)}</span>` : ''}</dt><dd>${searchTermsFor(a).map((t) => `<a class="chip" href="search.html?q=${encodeURIComponent(t)}">${e(t)}</a>`).join(' ') || '<span class="muted">—</span>'}</dd></div>`)
-          .join('')}</dl>`;
+        const withTerms = list.filter((a) => searchTermsFor(a).length);
+        const without = list.filter((a) => !searchTermsFor(a).length);
+        return `<section class="guide-cat"><h2 id="cat-${c.id}">${e(c.name)} <span class="count">${withTerms.length}</span></h2><dl class="term-list">${withTerms
+          .map((a) => `<div data-q="${e((a.title + ' ' + (a.number || '') + ' ' + searchTermsFor(a).join(' ')).toLowerCase())}"><dt><a href="acts/${a.id}/index.html">${e(a.title)}</a>${a.number ? ` <span class="muted small">${e(a.number)}</span>` : ''}</dt><dd>${searchTermsFor(a).map((t) => `<a class="chip" href="search.html?q=${encodeURIComponent(t)}">${e(t)}</a>`).join(' ')}</dd></div>`)
+          .join('')}</dl>${without.length ? `<details class="no-terms"><summary>${without.length} more with no everyday names recorded yet</summary><p class="muted small">Search finds these by their title and number. Names and topics can be added to <code>data/search-terms.json</code>.</p><ul>${without.map((a) => `<li data-q="${e((a.title + ' ' + (a.number || '')).toLowerCase())}"><a href="acts/${a.id}/index.html">${e(a.title)}</a></li>`).join('')}</ul></details>` : ''}</section>`;
       })
       .join('')}
   </section>`,
@@ -798,7 +994,7 @@ ${body}
       <li>Search and every instrument you have opened keep working offline. The site can be installed on a phone or desktop from the browser menu.</li>
     </ul>
     <h2>Verification</h2>
-    <p id="verification">Every instrument carries a verification status. <span class="badge ok">Verified</span> means an editor has checked the text against the named official source on the stated date. <span class="badge warn">Unverified</span> text has not yet been checked and should not be quoted without confirming it.</p>
+    <p id="verification">Every instrument carries a verification status. <span class="badge ok">Verified</span> means the editor has accepted the text against the named official source on the stated date. Most instruments are marked verified because the text was converted directly from the regulator\'s own PDF, which the editor declared reliable; that is not a line-by-line proofread, so quote a provision only after opening its <em>PDF p.</em> link. <span class="badge warn">Unverified</span> text has not yet been checked and should not be quoted without confirming it.</p>
     <h2>Search by meaning (AI)</h2>
     <p>Search can also find sections by meaning, using an open-source model (BGE small, MIT licence) that runs on your own device. There is no account or usage limit, and what you type is not sent anywhere. The model downloads once from public hosts (Hugging Face and jsDelivr). It only ranks sections: it writes no text, and it can miss sections, so check the law itself.</p>
     <h2>Disclaimer</h2>
@@ -827,7 +1023,7 @@ ${body}
       const schedRows = st
         ? st.schedules
             .filter((x) => x.text)
-            .map((x) => ({ act: a.id, no: '', title: x.title, part: st.pdfOnly ? 'Official PDF' : 'Schedules and annexures', anchor: '', pdf, pdfPage: x.page, text: x.text }))
+            .map((x) => ({ act: a.id, no: '', title: x.title, part: st.pdfOnly ? 'Official PDF' : 'Schedules and annexures', anchor: '', pdf: x.pdf ? `sources/${x.pdf}` : pdf, pdfPage: x.page, text: x.text }))
         : [];
       if (a.pdfOnly) return schedRows.length ? schedRows : [{ act: a.id, no: '', title: a.title, part: 'Official PDF', anchor: '', text: a.summary || '' }];
       return [
@@ -885,12 +1081,19 @@ ${body}
 
   // ---------- schedule text for the filter box on instrument pages (served as /schedule-text/<id>.json) ----------
   for (const [id, j] of scheduleText) {
-    if (byId.has(id)) write(`schedule-text/${id}.json`, JSON.stringify({ s: j.schedules.map((x) => ({ t: x.title, p: x.page, x: x.text })) }));
+    if (byId.has(id)) write(`schedule-text/${id}.json`, JSON.stringify({ s: j.schedules.map((x) => ({ t: x.title, p: x.page, x: x.text, ...(x.pdf ? { f: x.pdf } : {}) })) }));
   }
 
   // ---------- official source PDFs (served as /sources/<id>.pdf) ----------
   for (const a of acts) {
     if (a.sourcePdf && !a.sourcePdfUrl) write(`sources/${a.id}.pdf`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', a.sourcePdf)));
+    for (const f of new Set((a.schedules || []).map((x) => x.pdf).filter(Boolean))) write(`sources/${f}`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', f)));
+  }
+
+  // ---------- per-form PDF and Word files (served as /forms/<instrument>/<file>) ----------
+  for (const byNo of Object.values(formsIndex)) for (const f of Object.values(byNo)) for (const rel of [f.pdf, f.docx].filter(Boolean)) {
+    const src = path.join(formsDir, rel);
+    if (fs.existsSync(src)) write(`forms/${rel}`, fs.readFileSync(src));
   }
 
   // ---------- screenshots of hand checks (served as /evidence/<file>) ----------
@@ -921,7 +1124,7 @@ ${body}
 
   // The service worker precaches the app shell and search index; instrument pages and PDFs
   // are cached as they are opened, so everything a reader has used stays available offline.
-  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('ai-') && f !== 'assets/ai-worker.js' && !f.startsWith('acts/') && !f.startsWith('schedule-text/') && !f.startsWith('sources/') && !f.startsWith('evidence/'));
+  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('ai-') && f !== 'assets/ai-worker.js' && !f.startsWith('acts/') && !f.startsWith('schedule-text/') && !f.startsWith('sources/') && !f.startsWith('forms/') && !f.startsWith('evidence/'));
   const version = crypto.createHash('sha256').update(precache.map((f) => f + fs.statSync(path.join(outDir, f)).size).join('|')).update(JSON.stringify(index)).digest('hex').slice(0, 12);
   const sw = fs.readFileSync(path.join(ROOT, 'src', 'sw.template.js'), 'utf8').replace('__VERSION__', version).replace('__PRECACHE__', JSON.stringify(precache.map((f) => `./${f}`)));
   write('sw.js', sw);

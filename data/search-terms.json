@@ -1,41 +1,1320 @@
 {
-  "_about": "Everyday words, abbreviations and topics that readers search for, by instrument id. They point to a whole instrument, never to a section, and are shown on each instrument's page and on the Search guide page. Short names already in the manifest's `aliases` are shown too and need not be repeated here. Add terms only from the instrument's title, contents or official name; never use them to state what the law says.",
-  "terms": {
-    "income-tax-ordinance-2001": ["income tax", "withholding tax", "WHT", "advance tax", "tax return", "assessment", "audit", "appeal", "Commissioner Inland Revenue", "FBR", "NTN", "active taxpayer list", "ATL", "minimum tax", "super tax", "capital gains", "salary", "dividend", "Finance Act"],
-    "income-tax-rules-2002": ["income tax", "withholding statements", "forms", "depreciation", "tax return", "FBR", "procedure"],
-    "sales-tax-act-1990": ["sales tax", "GST", "general sales tax", "input tax", "output tax", "registration", "STRN", "invoice", "refund", "further tax", "zero rating", "exemption", "Schedules", "FBR", "Finance Act"],
-    "sales-tax-rules-2006": ["sales tax", "GST", "registration", "e-filing", "refund", "invoice", "special procedure", "FBR"],
-    "federal-excise-act-2005": ["federal excise", "excise duty", "FED", "FBR", "Finance Act"],
-    "federal-excise-rules-2005": ["federal excise", "excise duty", "FED", "FBR", "procedure"],
-    "customs-act-1969": ["customs", "customs duty", "import", "export", "smuggling", "valuation", "bonded warehouse", "adjudication", "FBR"],
-    "companies-act-2017": ["company law", "SECP", "incorporation", "directors", "shareholders", "members", "general meeting", "AGM", "annual return", "financial statements", "auditor", "charge", "winding up", "merger", "company registration"],
-    "companies-regulations-2024": ["SECP", "company forms", "filing", "incorporation", "name reservation", "registrar", "beneficial ownership", "UBO", "foreign company", "section 42 licence", "valuation", "buy-back", "striking off", "inactive company"],
-    "companies-rpt-regulations-2018": ["related party", "RPT", "related party transactions", "arm's length", "SECP"],
-    "companies-investment-associated-regulations-2017": ["associated company", "associated undertaking", "investment", "loan to associate", "section 199", "SECP"],
-    "companies-further-issue-of-shares-regulations-2020": ["right shares", "right issue", "bonus shares", "further issue", "share capital", "ESOS", "employee stock options", "SECP"],
-    "companies-postal-ballot-regulations-2018": ["postal ballot", "e-voting", "electronic voting", "general meeting", "SECP"],
-    "companies-distribution-of-dividends-regulations-2017": ["dividend", "e-dividend", "cash dividend", "IBAN", "SECP"],
-    "unclaimed-shares-regulations-2017": ["unclaimed shares", "unclaimed dividend", "undistributed assets", "modaraba certificates", "SECP"],
-    "listed-companies-ccg-regulations-2019": ["corporate governance", "code of corporate governance", "listed company", "independent director", "audit committee", "board", "PSX", "SECP"],
-    "shariah-governance-regulations-2023": ["Shariah", "Shariah compliant", "Islamic", "Shariah advisor", "Shariah board", "SECP"],
-    "companies-cost-accounts-regulations-2020": ["cost audit", "cost accounts", "cost records", "cost auditor", "SECP"],
-    "unlisted-companies-buy-back-regulations-2023": ["buy-back", "buyback", "purchase of own shares", "unlisted company", "SECP"],
-    "sro-1300-2018-section-66": ["redeemable capital", "TFC", "debt instrument", "SECP notification"],
-    "sro-464-2024-section-17": ["subscription money", "share subscription", "incorporation", "SECP notification"],
-    "companies-act-2017-third-schedule": ["company classification", "public interest company", "small company", "medium company", "large company", "financial reporting framework"],
-    "companies-act-2017-seventh-schedule": ["SECP fee", "filing fee", "company fees", "late fee"],
-    "sro-239-2024-companies-first-schedule": ["articles of association", "Table F", "First Schedule", "SECP notification"],
-    "secp-aml-cft-cpf-regulations-2020": ["anti-money laundering", "AML", "CFT", "KYC", "CDD", "customer due diligence", "beneficial owner", "STR", "proliferation financing", "SECP"],
-    "insurance-ordinance-2000": ["insurance", "insurer", "life insurance", "general insurance", "policyholder", "insurance agent", "SECP"],
-    "insurance-rules-2017": ["insurance", "insurer", "solvency", "insurance agent", "SECP"],
-    "takaful-rules-2012": ["takaful", "Islamic insurance", "window takaful", "participants' takaful fund", "SECP"],
-    "aml-act-2010": ["anti-money laundering", "money laundering", "AML", "FMU", "financial monitoring unit", "STR", "CTR", "terrorist financing", "predicate offence"],
-    "benami-transactions-act-2017": ["benami", "benamidar", "benami property", "FBR"],
-    "secp-act-1997": ["Policy Board", "appeal", "Appellate Bench", "administered legislation", "Commissioner"],
-    "central-depositories-act-1997": ["central depository", "book-entry", "pledge", "jumbo certificate"],
-    "futures-market-act-2016": ["futures contract", "commodity", "futures exchange", "futures broker", "clearing house"],
-    "llp-act-2017": ["LLP", "limited liability partnership", "designated partner", "incorporation document", "winding up"],
-    "modaraba-ordinance-1980": ["modaraba", "modaraba company", "modaraba certificate", "Registrar", "religious board"],
-    "central-depositories-regulations-2016": ["central depository", "fit and proper", "licence"]
-  }
+ "_about": "Everyday words, abbreviations and topics that readers search for, by instrument id. They point to a whole instrument, never to a section, and are shown on each instrument's page and on the Search guide page. Short names already in the manifest's `aliases` are shown too and need not be repeated here. Add terms only from the instrument's title, contents or official name; never use them to state what the law says.",
+ "terms": {
+  "income-tax-ordinance-2001": [
+   "income tax",
+   "withholding tax",
+   "WHT",
+   "advance tax",
+   "tax return",
+   "assessment",
+   "audit",
+   "appeal",
+   "Commissioner Inland Revenue",
+   "FBR",
+   "NTN",
+   "active taxpayer list",
+   "ATL",
+   "minimum tax",
+   "super tax",
+   "capital gains",
+   "salary",
+   "dividend",
+   "Finance Act"
+  ],
+  "income-tax-rules-2002": [
+   "income tax",
+   "withholding statements",
+   "forms",
+   "depreciation",
+   "tax return",
+   "FBR",
+   "procedure"
+  ],
+  "sales-tax-act-1990": [
+   "sales tax",
+   "GST",
+   "general sales tax",
+   "input tax",
+   "output tax",
+   "registration",
+   "STRN",
+   "invoice",
+   "refund",
+   "further tax",
+   "zero rating",
+   "exemption",
+   "Schedules",
+   "FBR",
+   "Finance Act"
+  ],
+  "sales-tax-rules-2006": [
+   "sales tax",
+   "GST",
+   "registration",
+   "e-filing",
+   "refund",
+   "invoice",
+   "special procedure",
+   "FBR"
+  ],
+  "federal-excise-act-2005": [
+   "federal excise",
+   "excise duty",
+   "FED",
+   "FBR",
+   "Finance Act"
+  ],
+  "federal-excise-rules-2005": [
+   "federal excise",
+   "excise duty",
+   "FED",
+   "FBR",
+   "procedure"
+  ],
+  "customs-act-1969": [
+   "customs",
+   "customs duty",
+   "import",
+   "export",
+   "smuggling",
+   "valuation",
+   "bonded warehouse",
+   "adjudication",
+   "FBR"
+  ],
+  "companies-act-2017": [
+   "company law",
+   "SECP",
+   "incorporation",
+   "directors",
+   "shareholders",
+   "members",
+   "general meeting",
+   "AGM",
+   "annual return",
+   "financial statements",
+   "auditor",
+   "charge",
+   "winding up",
+   "merger",
+   "company registration"
+  ],
+  "companies-regulations-2024": [
+   "SECP",
+   "company forms",
+   "filing",
+   "incorporation",
+   "name reservation",
+   "registrar",
+   "beneficial ownership",
+   "UBO",
+   "foreign company",
+   "section 42 licence",
+   "valuation",
+   "buy-back",
+   "striking off",
+   "inactive company"
+  ],
+  "companies-rpt-regulations-2018": [
+   "related party",
+   "RPT",
+   "related party transactions",
+   "arm's length",
+   "SECP"
+  ],
+  "companies-investment-associated-regulations-2017": [
+   "associated company",
+   "associated undertaking",
+   "investment",
+   "loan to associate",
+   "section 199",
+   "SECP"
+  ],
+  "companies-further-issue-of-shares-regulations-2020": [
+   "right shares",
+   "right issue",
+   "bonus shares",
+   "further issue",
+   "share capital",
+   "ESOS",
+   "employee stock options",
+   "SECP"
+  ],
+  "companies-postal-ballot-regulations-2018": [
+   "postal ballot",
+   "e-voting",
+   "electronic voting",
+   "general meeting",
+   "SECP"
+  ],
+  "companies-distribution-of-dividends-regulations-2017": [
+   "dividend",
+   "e-dividend",
+   "cash dividend",
+   "IBAN",
+   "SECP"
+  ],
+  "unclaimed-shares-regulations-2017": [
+   "unclaimed shares",
+   "unclaimed dividend",
+   "undistributed assets",
+   "modaraba certificates",
+   "SECP"
+  ],
+  "listed-companies-ccg-regulations-2019": [
+   "corporate governance",
+   "code of corporate governance",
+   "listed company",
+   "independent director",
+   "audit committee",
+   "board",
+   "PSX",
+   "SECP"
+  ],
+  "shariah-governance-regulations-2023": [
+   "Shariah",
+   "Shariah compliant",
+   "Islamic",
+   "Shariah advisor",
+   "Shariah board",
+   "SECP"
+  ],
+  "companies-cost-accounts-regulations-2020": [
+   "cost audit",
+   "cost accounts",
+   "cost records",
+   "cost auditor",
+   "SECP"
+  ],
+  "unlisted-companies-buy-back-regulations-2023": [
+   "buy-back",
+   "buyback",
+   "purchase of own shares",
+   "unlisted company",
+   "SECP"
+  ],
+  "sro-1300-2018-section-66": [
+   "redeemable capital",
+   "TFC",
+   "debt instrument",
+   "SECP notification"
+  ],
+  "sro-464-2024-section-17": [
+   "subscription money",
+   "share subscription",
+   "incorporation",
+   "SECP notification"
+  ],
+  "companies-act-2017-third-schedule": [
+   "company classification",
+   "public interest company",
+   "small company",
+   "medium company",
+   "large company",
+   "financial reporting framework"
+  ],
+  "companies-act-2017-seventh-schedule": [
+   "SECP fee",
+   "filing fee",
+   "company fees",
+   "late fee"
+  ],
+  "sro-239-2024-companies-first-schedule": [
+   "articles of association",
+   "Table F",
+   "First Schedule",
+   "SECP notification"
+  ],
+  "secp-aml-cft-cpf-regulations-2020": [
+   "anti-money laundering",
+   "AML",
+   "CFT",
+   "KYC",
+   "CDD",
+   "customer due diligence",
+   "beneficial owner",
+   "STR",
+   "proliferation financing",
+   "SECP"
+  ],
+  "insurance-ordinance-2000": [
+   "insurance",
+   "insurer",
+   "life insurance",
+   "general insurance",
+   "policyholder",
+   "insurance agent",
+   "SECP"
+  ],
+  "insurance-rules-2017": [
+   "insurance",
+   "insurer",
+   "solvency",
+   "insurance agent",
+   "SECP"
+  ],
+  "takaful-rules-2012": [
+   "takaful",
+   "Islamic insurance",
+   "window takaful",
+   "participants' takaful fund",
+   "SECP"
+  ],
+  "aml-act-2010": [
+   "anti-money laundering",
+   "money laundering",
+   "AML",
+   "FMU",
+   "financial monitoring unit",
+   "STR",
+   "CTR",
+   "terrorist financing",
+   "predicate offence"
+  ],
+  "benami-transactions-act-2017": [
+   "benami",
+   "benamidar",
+   "benami property",
+   "FBR"
+  ],
+  "secp-act-1997": [
+   "Policy Board",
+   "appeal",
+   "Appellate Bench",
+   "administered legislation",
+   "Commissioner"
+  ],
+  "central-depositories-act-1997": [
+   "central depository",
+   "book-entry",
+   "pledge",
+   "jumbo certificate"
+  ],
+  "futures-market-act-2016": [
+   "futures contract",
+   "commodity",
+   "futures exchange",
+   "futures broker",
+   "clearing house"
+  ],
+  "llp-act-2017": [
+   "LLP",
+   "limited liability partnership",
+   "designated partner",
+   "incorporation document",
+   "winding up"
+  ],
+  "modaraba-ordinance-1980": [
+   "modaraba",
+   "modaraba company",
+   "modaraba certificate",
+   "Registrar",
+   "religious board"
+  ],
+  "central-depositories-regulations-2016": [
+   "central depository",
+   "fit and proper",
+   "licence"
+  ],
+  "modaraba-companies-rules-1981": [
+   "modaraba",
+   "religious business",
+   "Registrar of Modarabas"
+  ],
+  "secp-appellate-bench-procedure-rules-2003": [
+   "SECP appeal",
+   "Appellate Bench",
+   "procedure"
+  ],
+  "public-sector-companies-cg-rules-2013": [
+   "corporate governance",
+   "public sector company",
+   "board of directors",
+   "state-owned enterprise"
+  ],
+  "electronic-transactions-ordinance-2002": [
+   "electronic signature",
+   "e-commerce",
+   "digital record",
+   "cyber"
+  ],
+  "commercial-papers-regulations-2013": [
+   "commercial paper",
+   "short-term debt",
+   "issue"
+  ],
+  "payment-systems-and-electronic-fund-transfers-act-2007": [
+   "payment system",
+   "EFT",
+   "electronic fund transfer",
+   "ATM",
+   "e-banking"
+  ],
+  "share-registrars-balloters-regulations-2017": [
+   "share registrar",
+   "balloter",
+   "transfer of shares",
+   "share register"
+  ],
+  "shariah-advisors-regulations-2017": [
+   "Shariah advisor",
+   "Islamic",
+   "Shariah compliant"
+  ],
+  "companies-incorporation-regulations-2017": [
+   "incorporation",
+   "company registration",
+   "memorandum",
+   "articles",
+   "name of company"
+  ],
+  "securities-futures-advisers-regulations-2017": [
+   "adviser",
+   "investment adviser",
+   "futures",
+   "licence"
+  ],
+  "prudential-regulations-consumer-finance-nbfc": [
+   "consumer finance",
+   "NBFC",
+   "prudential",
+   "car loan"
+  ],
+  "trade-marks-rules-2004": [
+   "trademark",
+   "brand",
+   "registration of mark",
+   "IPO Pakistan"
+  ],
+  "companies-registration-offices-regulations-2018": [
+   "registrar",
+   "company registration office",
+   "CRO",
+   "powers of registrar"
+  ],
+  "corporate-rehabilitation-act-2018": [
+   "rehabilitation",
+   "insolvency",
+   "restructuring",
+   "moratorium",
+   "rescue"
+  ],
+  "companies-deposit-rules-1987": [
+   "deposits",
+   "public deposits",
+   "accepting deposits",
+   "borrowing"
+  ],
+  "companies-share-capital-variation-rules-2000": [
+   "share capital",
+   "variation of rights",
+   "class rights",
+   "preference shares"
+  ],
+  "psx-rule-book": [
+   "PSX",
+   "stock exchange",
+   "brokers",
+   "listing",
+   "trading",
+   "Pakistan Stock Exchange"
+  ],
+  "banks-nationalization-act-1974": [
+   "nationalisation",
+   "banks",
+   "state-owned banks"
+  ],
+  "companies-court-rules-1997": [
+   "company court",
+   "court procedure",
+   "winding up",
+   "petition",
+   "forms"
+  ],
+  "private-placement-rules-2017": [
+   "private placement",
+   "unlisted securities",
+   "offer to select investors"
+  ],
+  "foreign-exchange-manual": [
+   "forex",
+   "SBP",
+   "foreign currency",
+   "remittance",
+   "import",
+   "export",
+   "FE Manual"
+  ],
+  "cdc-establishment-regulation-rules-1996": [
+   "CDC",
+   "central depository",
+   "book-entry securities",
+   "depository"
+  ],
+  "credit-rating-companies-regulations-2016": [
+   "credit rating",
+   "rating agency"
+  ],
+  "geographical-indications-rules-2020": [
+   "geographical indication",
+   "GI",
+   "origin of goods",
+   "IPO Pakistan"
+  ],
+  "structuring-debt-securities-regulations-2020": [
+   "debt securities",
+   "bonds",
+   "TFC",
+   "structuring"
+  ],
+  "companies-legal-adviser-rules-1975": [
+   "legal adviser",
+   "company counsel",
+   "appointment"
+  ],
+  "companies-buy-back-rules-1999": [
+   "buy-back",
+   "repurchase of shares",
+   "own shares"
+  ],
+  "convertible-debt-right-offer-regulations-2022": [
+   "convertible debt",
+   "right offer",
+   "rights issue",
+   "convertible bonds"
+  ],
+  "securities-exchange-rules-1971": [
+   "stock exchange",
+   "securities exchange",
+   "rules"
+  ],
+  "competition-commission-appeal-rules-2007": [
+   "competition appeal",
+   "CCP",
+   "appeal procedure"
+  ],
+  "securities-exchanges-licensing-operations-regulations-2016": [
+   "stock exchange licence",
+   "exchange operations",
+   "PSX"
+  ],
+  "ipo-pakistan-act-2012": [
+   "IPO Pakistan",
+   "intellectual property",
+   "patents",
+   "trademarks",
+   "copyright"
+  ],
+  "leveraged-markets-pledging-rules-2011": [
+   "margin",
+   "leverage",
+   "pledge",
+   "margin financing",
+   "MTS"
+  ],
+  "prudential-regulations-nbfc": [
+   "NBFC",
+   "prudential",
+   "non-bank finance",
+   "leasing",
+   "investment finance"
+  ],
+  "financial-institutions-recovery-of-finances-ordinance-2001": [
+   "loan recovery",
+   "banking court",
+   "default",
+   "FIO",
+   "mortgage suit"
+  ],
+  "patents-rules-2003": [
+   "patent",
+   "invention",
+   "patent application",
+   "IPO Pakistan"
+  ],
+  "competition-commission-investment-expenditure-regulations-2007": [
+   "CCP funds",
+   "expenditure",
+   "investment"
+  ],
+  "reinsurance-brokers-regulations-2021": [
+   "reinsurance",
+   "broker",
+   "insurance"
+  ],
+  "public-offering-regulations-2017": [
+   "IPO",
+   "public offer",
+   "prospectus",
+   "listing",
+   "initial public offering"
+  ],
+  "anti-terrorism-act-1997": [
+   "terrorism",
+   "ATA",
+   "anti-terrorism court",
+   "terror financing"
+  ],
+  "competition-act-2010": [
+   "competition",
+   "cartel",
+   "monopoly",
+   "merger",
+   "abuse of dominance",
+   "CCP",
+   "deceptive marketing"
+  ],
+  "competition-leniency-regulations-2019": [
+   "leniency",
+   "cartel",
+   "immunity",
+   "CCP"
+  ],
+  "banking-companies-ordinance-1962": [
+   "bank",
+   "banking company",
+   "deposits",
+   "SBP",
+   "BCO"
+  ],
+  "business-conduct-fair-treatment-framework": [
+   "consumer protection",
+   "fair treatment",
+   "complaints",
+   "BC&FRF",
+   "FTC"
+  ],
+  "listed-companies-takeovers-regulations-2017": [
+   "takeover",
+   "acquisition",
+   "substantial acquisition",
+   "public offer to shareholders",
+   "tender offer"
+  ],
+  "companies-e-voting-regulations-2016": [
+   "e-voting",
+   "electronic voting",
+   "general meeting",
+   "proxy"
+  ],
+  "customer-compensation-fund-rules-2017": [
+   "investor compensation",
+   "customer fund",
+   "broker default"
+  ],
+  "geographical-indications-act-2020": [
+   "geographical indication",
+   "GI",
+   "IPO Pakistan"
+  ],
+  "companies-rehabilitation-sick-units-rules-1999": [
+   "sick units",
+   "rehabilitation",
+   "industrial units"
+  ],
+  "insurance-accounting-regulations-2017": [
+   "insurance accounts",
+   "financial statements",
+   "insurers"
+  ],
+  "pakistan-coinage-act-1906": [
+   "coins",
+   "currency",
+   "mint"
+  ],
+  "securities-managers-regulations-2024": [
+   "securities manager",
+   "licence",
+   "portfolio",
+   "asset management"
+  ],
+  "protection-of-economic-reforms-act-1992": [
+   "foreign currency accounts",
+   "economic reforms",
+   "protection"
+  ],
+  "employees-contributory-funds-investment-regulations-2018": [
+   "provident fund",
+   "contributory fund",
+   "investment in listed securities",
+   "employees' fund"
+  ],
+  "secp-search-seizure-rules-2019": [
+   "search",
+   "seizure",
+   "raid",
+   "SECP enforcement"
+  ],
+  "anti-money-laundering-rules-2008": [
+   "AML",
+   "money laundering",
+   "FMU",
+   "suspicious transaction"
+  ],
+  "joint-inspection-regulations-2015": [
+   "inspection",
+   "joint inspection",
+   "regulators"
+  ],
+  "sbp-banking-services-corporation-ordinance-2001": [
+   "SBP BSC",
+   "State Bank",
+   "banking services"
+  ],
+  "aml-cft-sanctions-rules-2020": [
+   "AML",
+   "CFT",
+   "sanctions",
+   "penalties",
+   "terror financing"
+  ],
+  "stock-exchange-members-eligibility-rules-2001": [
+   "broker eligibility",
+   "stock exchange member",
+   "trader",
+   "agent"
+  ],
+  "voluntary-pension-system-rules-2005": [
+   "pension",
+   "VPS",
+   "voluntary pension",
+   "retirement"
+  ],
+  "copyright-ordinance-1962": [
+   "copyright",
+   "author",
+   "piracy",
+   "IPO Pakistan"
+  ],
+  "copyright-rules-1967": [
+   "copyright",
+   "registration of copyright"
+  ],
+  "llp-regulations-2018": [
+   "LLP",
+   "limited liability partnership"
+  ],
+  "book-building-regulations-2015": [
+   "book building",
+   "IPO pricing",
+   "bidding",
+   "cut-off price"
+  ],
+  "competition-commission-conduct-of-business-regulations-2007": [
+   "CCP meetings",
+   "conduct of business",
+   "Commission procedure"
+  ],
+  "brokers-agents-registration-rules-2001": [
+   "broker registration",
+   "agents",
+   "stock broker"
+  ],
+  "credit-rating-companies-rules-1995": [
+   "credit rating",
+   "rating agency"
+  ],
+  "prudential-regulations-infrastructure-project-financing": [
+   "infrastructure",
+   "project finance",
+   "IPF",
+   "SBP prudential"
+  ],
+  "prudential-regulations-agriculture-financing": [
+   "agriculture loans",
+   "farm finance",
+   "SBP prudential"
+  ],
+  "bond-pricing-agency-rules-2017": [
+   "bond pricing",
+   "debt price",
+   "bonds"
+  ],
+  "prudential-regulations-microfinance-banks": [
+   "microfinance",
+   "MFB",
+   "SBP prudential"
+  ],
+  "single-member-companies-rules-2003": [
+   "single member company",
+   "one-person company",
+   "SMC"
+  ],
+  "competition-commission-investigating-officers-rules-2007": [
+   "CCP inquiry",
+   "investigation",
+   "enquiry officers"
+  ],
+  "centralized-kyc-organization-rules-2017": [
+   "KYC",
+   "know your customer",
+   "CKO",
+   "customer due diligence"
+  ],
+  "centralized-customer-protection-compensation-fund-regulations-2017": [
+   "customer protection",
+   "compensation fund",
+   "broker default"
+  ],
+  "credit-bureaus-act-2015": [
+   "credit bureau",
+   "credit information",
+   "credit report"
+  ],
+  "competition-exemption-regulations-2020": [
+   "exemption",
+   "CCP",
+   "competition"
+  ],
+  "auditors-reporting-obligations-regulations-2018": [
+   "auditor",
+   "reporting",
+   "audit report",
+   "audit"
+  ],
+  "counter-measures-high-risk-jurisdictions-rules-2020": [
+   "high-risk countries",
+   "FATF",
+   "AML",
+   "counter-measures"
+  ],
+  "companies-ordinance-1984": [
+   "repealed company law",
+   "old Companies Ordinance",
+   "1984"
+  ],
+  "competition-commission-general-enforcement-regulations-2007": [
+   "enforcement",
+   "penalty",
+   "CCP"
+  ],
+  "stock-exchanges-demutualization-act-2012": [
+   "demutualization",
+   "corporatisation",
+   "stock exchange ownership"
+  ],
+  "companies-easy-exit-regulations-2014": [
+   "easy exit",
+   "strike off",
+   "dormant company",
+   "removal from register"
+  ],
+  "financial-institutions-secured-transactions-act-2016": [
+   "secured transactions",
+   "collateral",
+   "security interest",
+   "movable assets",
+   "pledge"
+  ],
+  "modaraba-regulations-2021": [
+   "modaraba",
+   "Islamic finance",
+   "modaraba company"
+  ],
+  "debt-securities-trustee-regulations-2012": [
+   "trustee",
+   "debentures",
+   "TFC",
+   "debt trustee"
+  ],
+  "futures-exchanges-regulations-2017": [
+   "futures exchange",
+   "derivatives",
+   "commodity exchange"
+  ],
+  "oversight-regulations-accountants-2020": [
+   "accountants",
+   "audit oversight",
+   "SRO"
+  ],
+  "collateral-management-companies-regulations-2019": [
+   "collateral management",
+   "warehouse",
+   "commodity financing"
+  ],
+  "fmu-aml-regulations-2015": [
+   "FMU",
+   "AML",
+   "suspicious transaction report",
+   "STR",
+   "CTR"
+  ],
+  "employees-provident-fund-investment-rules-1996": [
+   "provident fund",
+   "investment",
+   "listed securities"
+  ],
+  "registered-designs-ordinance-2000": [
+   "industrial design",
+   "registered design",
+   "IPO Pakistan"
+  ],
+  "third-party-administrators-health-insurance-regulations-2014": [
+   "TPA",
+   "health insurance",
+   "insurance"
+  ],
+  "private-funds-regulations-2015": [
+   "private fund",
+   "private equity",
+   "venture capital"
+  ],
+  "sukuk-privately-placed-regulations-2017": [
+   "sukuk",
+   "Islamic bonds",
+   "private placement"
+  ],
+  "credit-suretyship-rules-2018": [
+   "guarantee",
+   "surety",
+   "credit",
+   "conduct of business"
+  ],
+  "negotiable-instruments-act-1881": [
+   "cheque",
+   "promissory note",
+   "bill of exchange",
+   "dishonour",
+   "NI Act"
+  ],
+  "balloters-transfer-agent-rules-2015": [
+   "balloter",
+   "transfer agent",
+   "share registrar"
+  ],
+  "companies-general-provisions-forms-regulations-2018": [
+   "forms",
+   "filing",
+   "general provisions",
+   "registrar"
+  ],
+  "unit-linked-products-fund-rules-2015": [
+   "unit linked",
+   "insurance fund",
+   "ULIP"
+  ],
+  "lender-of-last-resort-regulations": [
+   "LOLR",
+   "lender of last resort",
+   "SBP",
+   "liquidity support"
+  ],
+  "public-offering-regulated-securities-licensing-regulations-2017": [
+   "regulated securities",
+   "licence",
+   "public offering"
+  ],
+  "association-charitable-not-for-profit-regulations-2018": [
+   "NPO",
+   "charity",
+   "section 42",
+   "not-for-profit",
+   "association licence"
+  ],
+  "professional-clearing-members-regulations-2020": [
+   "clearing member",
+   "PCM",
+   "clearing"
+  ],
+  "patents-ordinance-2000": [
+   "patent",
+   "invention",
+   "IPO Pakistan"
+  ],
+  "listed-companies-buy-back-regulations-2019": [
+   "buy-back",
+   "repurchase",
+   "listed companies"
+  ],
+  "underwriters-rules-2015": [
+   "underwriter",
+   "underwriting",
+   "IPO"
+  ],
+  "competition-appellate-tribunal-rules-2015": [
+   "competition appeal",
+   "tribunal",
+   "CCP"
+  ],
+  "insider-information-regulations-2016": [
+   "insider trading",
+   "inside information",
+   "price sensitive"
+  ],
+  "prudential-regulations-housing-finance": [
+   "housing finance",
+   "mortgage",
+   "home loan",
+   "SBP prudential"
+  ],
+  "ipo-pakistan-financial-rules-2022": [
+   "IPO Pakistan",
+   "finance",
+   "budget",
+   "accounts"
+  ],
+  "companies-prohibition-unlawful-activities-regulations-2026": [
+   "unlawful activities",
+   "prohibition",
+   "companies"
+  ],
+  "sbp-aml-cft-cpf-regulations-2022": [
+   "AML",
+   "CFT",
+   "SBP",
+   "proliferation financing",
+   "banks"
+  ],
+  "trade-marks-ordinance-2001": [
+   "trademark",
+   "brand",
+   "IPO Pakistan",
+   "infringement"
+  ],
+  "securities-act-2015": [
+   "securities",
+   "insider trading",
+   "market manipulation",
+   "SECP",
+   "brokers"
+  ],
+  "foreign-companies-regulations-2018": [
+   "foreign company",
+   "branch office",
+   "overseas company",
+   "place of business"
+  ],
+  "clearing-houses-licensing-operations-regulations-2016": [
+   "clearing house",
+   "clearing",
+   "settlement"
+  ],
+  "companies-issue-of-capital-rules-1996": [
+   "issue of capital",
+   "shares",
+   "public issue"
+  ],
+  "companies-appointment-of-legal-advisers-act-1974": [
+   "legal adviser",
+   "company counsel"
+  ],
+  "shariah-governance-regulations-2018": [
+   "Shariah governance",
+   "Islamic",
+   "Shariah board"
+  ],
+  "clearing-houses-rules-2005": [
+   "clearing house",
+   "registration",
+   "settlement"
+  ],
+  "self-regulatory-organizations-registration-regulations-2022": [
+   "SRO",
+   "self-regulatory organisation",
+   "registration"
+  ],
+  "prudential-regulations-consumer-financing": [
+   "consumer financing",
+   "personal loan",
+   "credit card",
+   "auto loan",
+   "SBP prudential"
+  ],
+  "reit-regulations-2022": [
+   "REIT",
+   "real estate",
+   "property trust",
+   "developmental REIT"
+  ],
+  "asset-backed-securitization-regulations-2022": [
+   "securitisation",
+   "asset backed",
+   "SPV",
+   "ABS"
+  ],
+  "microfinance-institutions-ordinance-2001": [
+   "microfinance",
+   "MFB",
+   "microcredit"
+  ],
+  "registered-designs-rules-2023": [
+   "industrial design",
+   "registered design",
+   "IPO Pakistan"
+  ],
+  "private-equity-venture-capital-fund-regulations-2008": [
+   "private equity",
+   "venture capital",
+   "PE fund",
+   "VC"
+  ],
+  "layout-designs-integrated-circuits-ordinance-2000": [
+   "chip design",
+   "integrated circuits",
+   "layout design",
+   "IPO Pakistan"
+  ],
+  "general-takaful-accounting-regulations-2019": [
+   "takaful",
+   "general takaful",
+   "insurance accounts"
+  ],
+  "voluntary-winding-up-obligations-regulations-2016": [
+   "voluntary winding up",
+   "liquidator",
+   "liquidation",
+   "dissolution"
+  ],
+  "credit-bureau-rules-2016": [
+   "credit bureau",
+   "credit report",
+   "SBP"
+  ],
+  "futures-brokers-regulations-2018": [
+   "futures broker",
+   "derivatives",
+   "commodities",
+   "licence"
+  ],
+  "companies-asset-backed-securitization-rules-1999": [
+   "securitisation",
+   "asset backed",
+   "SPV"
+  ],
+  "companies-audit-cost-accounts-rules-1998": [
+   "cost audit",
+   "cost accounts",
+   "auditor"
+  ],
+  "public-companies-employees-stock-option-scheme-rules-2001": [
+   "ESOP",
+   "stock options",
+   "employee shares"
+  ],
+  "nbfc-notified-entities-regulations-2008": [
+   "NBFC",
+   "notified entities",
+   "leasing",
+   "REIT",
+   "modaraba"
+  ],
+  "corporate-restructuring-companies-act-2016": [
+   "CRC",
+   "restructuring",
+   "non-performing loans",
+   "NPL"
+  ],
+  "prudential-regulations-sme-financing": [
+   "SME",
+   "small business loan",
+   "SBP prudential"
+  ],
+  "research-analyst-regulations-2015": [
+   "research analyst",
+   "stock research",
+   "equity analyst"
+  ],
+  "companies-mediation-conciliation-regulations-2018": [
+   "mediation",
+   "conciliation",
+   "dispute resolution",
+   "ADR"
+  ],
+  "stock-exchanges-demutualization-regulations-2012": [
+   "demutualization",
+   "corporatisation",
+   "stock exchange ownership"
+  ],
+  "competition-commission-extension-exemption-rules-2007": [
+   "exemption",
+   "extension",
+   "CCP"
+  ],
+  "companies-management-by-administrator-rules-1993": [
+   "administrator",
+   "management takeover",
+   "court-appointed"
+  ],
+  "prudential-regulations-corporate-commercial-banking": [
+   "corporate banking",
+   "commercial banking",
+   "risk management",
+   "SBP prudential"
+  ],
+  "group-companies-registration-regulations-2008": [
+   "group of companies",
+   "group registration",
+   "holding company"
+  ],
+  "companies-appointment-of-trustees-rules-1973": [
+   "trustee",
+   "debenture trustee",
+   "appointment"
+  ],
+  "corporate-rehabilitation-regulations-2019": [
+   "rehabilitation",
+   "insolvency",
+   "restructuring",
+   "rescue"
+  ],
+  "corporate-restructuring-companies-rules-2019": [
+   "CRC",
+   "restructuring",
+   "NPL"
+  ],
+  "opportunity-of-hearing-regulations-2016": [
+   "hearing",
+   "show cause",
+   "natural justice",
+   "SECP orders"
+  ],
+  "insurance-sound-prudent-management-regulations-2012": [
+   "insurance",
+   "prudent management",
+   "insurers",
+   "solvency"
+  ],
+  "companies-profits-workers-participation-rules-1971": [
+   "WPPF",
+   "workers participation",
+   "workers' profit",
+   "bonus"
+  ],
+  "ipo-pakistan-service-rules-2022": [
+   "IPO Pakistan",
+   "service rules",
+   "employees",
+   "staff"
+  ],
+  "reporting-disclosure-regulations-2015": [
+   "shareholding disclosure",
+   "directors' shares",
+   "substantial shareholder",
+   "insider reporting"
+  ],
+  "suspicious-currency-transaction-reporting-regulations-2025": [
+   "STR",
+   "CTR",
+   "suspicious transaction",
+   "currency transaction",
+   "FMU"
+  ],
+  "nbfc-rules-2003": [
+   "NBFC",
+   "non-bank finance company",
+   "leasing",
+   "investment finance"
+  ],
+  "companies-independent-directors-regulations-2018": [
+   "independent director",
+   "databank",
+   "board",
+   "selection"
+  ],
+  "state-bank-of-pakistan-act-1956": [
+   "SBP",
+   "central bank",
+   "monetary policy",
+   "State Bank"
+  ],
+  "foreign-exchange-regulation-act-1947": [
+   "FERA",
+   "forex",
+   "foreign exchange",
+   "remittance"
+  ],
+  "panel-provisional-managers-liquidators-regulations-2019": [
+   "liquidator",
+   "provisional manager",
+   "official liquidator",
+   "winding up"
+  ],
+  "fi-secured-transactions-registry-rules-2019": [
+   "secured transactions",
+   "registry",
+   "collateral registration"
+  ],
+  "commodity-exchange-futures-contracts-rules-2005": [
+   "commodity exchange",
+   "futures contract",
+   "derivatives"
+  ],
+  "cmc-regulations-2017": [
+   "collateral management",
+   "warehouse",
+   "commodity financing"
+  ],
+  "national-accountability-ordinance-1999": [
+   "NAB",
+   "accountability",
+   "corruption",
+   "plea bargain"
+  ],
+  "regulatory-framework-exchange-companies": [
+   "exchange company",
+   "money changer",
+   "forex dealer",
+   "SBP"
+  ],
+  "securities-brokers-licensing-operations-regulations-2016": [
+   "broker licence",
+   "stockbroker",
+   "brokerage"
+  ],
+  "stock-exchange-members-inspection-rules-2001": [
+   "broker inspection",
+   "books and records",
+   "inspection"
+  ],
+  "trade-marks-amendment-act-2023": [
+   "trademark",
+   "amendment",
+   "IPO Pakistan"
+  ],
+  "credit-bureau-regulations-2016": [
+   "credit bureau",
+   "credit report",
+   "SBP"
+  ],
+  "deposit-protection-corporation-act-2016": [
+   "deposit insurance",
+   "DPC",
+   "depositor protection",
+   "bank failure"
+  ],
+  "intermediaries-registration-regulations-2017": [
+   "intermediary",
+   "registration",
+   "securities intermediary"
+  ],
+  "securities-and-exchange-ordinance-1969": [
+   "SEC Ordinance",
+   "securities regulator",
+   "stock exchange"
+  ],
+  "secured-transactions-registry-regulations-2020": [
+   "secured transactions",
+   "registry",
+   "collateral registration"
+  ],
+  "competition-merger-control-regulations-2016": [
+   "merger",
+   "acquisition",
+   "pre-merger notification",
+   "CCP"
+  ],
+  "companies-act-1913": [
+   "repealed",
+   "Indian Companies Act",
+   "old company law",
+   "1913"
+  ],
+  "competition-commission-reward-payment-informants-regulations-2014": [
+   "informant",
+   "reward",
+   "whistleblower",
+   "CCP"
+  ]
+ }
 }

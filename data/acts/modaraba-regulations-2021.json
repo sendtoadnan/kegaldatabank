@@ -167,10 +167,11 @@
       "(3) The modaraba shall maintain a file of all such exceptions and provide the same as and when required by the Registrar Modaraba or any officer authorized by the Commission.",
       "(4) A modaraba shall not provide finance to a customer who has defaulted for more than six months or availed a write-off from that modaraba during the last three years.",
       "(5) While granting finance to a customer other than individuals, the modaraba shall obtain copy of accounts relating to the business of that customer for analysis and record in the following manner,",
-      ">(a) where the exposure does not Documentary evidence of the net worth of exceed one million rupees. the customer.",
-      ">(b) where the exposure exceeds one Accounts duly signed by the customer. million rupees but does not exceed two million rupees (c) where exposure exceeds two Accounts duly signed by the customer and million rupees but does not exceed countersigned by: ten million rupees. (i) a chartered accountant; or",
-      ">>(ii) a practicing cost and management accountant in case of a customer other than a public company or a",
-      "private company which is a subsidiary of a public company.",
+      ">(",
+      "|!(a) where the exposure does not exceed one million rupees.|Documentary evidence of the net worth of the customer.",
+      "|(b) where the exposure exceeds one million rupees but does not exceed two million rupees|Accounts duly signed by the customer.",
+      ">(c) where exposure exceeds two Accounts duly signed by the customer and million rupees but does not exceed countersigned by: ten million rupees. (i) a chartered accountant; or",
+      ">>(ii) a practicing cost and management accountant in case of a customer other than a public company or a private company which is a subsidiary of a public company.",
       ">(d) where the exposure exceeds ten Accounts duly audited by: million rupees (i) a practicing chartered accountant; or",
       ">>(ii) a practicing cost and management accountant in case of customer other than a public company or a private company which is a subsidiary of a public company.",
       "(6) In case the customer is an individual, the modaraba shall obtain documentary evidence of the source of income/funds of the customer such as wealth statement, statement of assets and liabilities or any other document as may be considered appropriate by the modaraba.",
@@ -210,12 +211,14 @@
      "text": [
       "(1) Save as otherwise provided in sub- regulation (2) of this regulation, a modaraba shall apply such minimum margin requirements against finance as approved by its Board of directors.",
       "(2) A modaraba shall comply with the following minimum margin requirements: -",
-      "Shares of listed companies 30% of their current market value. A modaraba shall monitor the margin on at least weekly basis and shall institute a robust top-up and automatic sell-out process at 25% and 50% erosion in the margin held respectively. A modaraba may choose different percentages on the basis of the documented credit policy approved by their Board.",
-      "Listed TFCs and Sukuk Exposure against listed TFCs and Sukuk which are rated ‘A’ (or equivalent) or above by a credit rating agency shall be subject to a minimum margin of 10% Exposure against listed TFCs and Sukuk rated ‘A-’ and ‘BBB’ shall be subject to a minimum margin of 20%.",
-      "Bank deposits or Certificates of 15% Deposit of NBFCs or DFIs and COM issued by a modaraba with minimum credit rating of A- by a credit rating agency registered with the Commission.",
-      "Government backed securities 10%",
-      "Pledge of trading stocks 25%",
-      "Hypothecation of trading stocks 50%",
+      "Shares of listed companies 30% of their current market value. A modaraba shall monitor the margin on at least weekly basis and shall institute a robust top-up and automatic sell-out process at 25% and 50% erosion in the",
+      "|margin held respectively. A modaraba may choose different percentages on the basis of the documented credit policy approved by their Board.",
+      "|!Listed TFCs and Sukuk|Exposure against listed TFCs and Sukuk which are rated ‘A’ (or equivalent) or above by a credit rating agency shall be subject to a minimum margin of 10% Exposure against listed TFCs and Sukuk rated ‘A-’ and ‘BBB’ shall be subject to a minimum margin of 20%.",
+      "|Bank deposits or Certificates of Deposit of NBFCs or DFIs and COM issued by a modaraba with minimum credit rating of A- by a credit rating agency registered with the Commission.|15%",
+      "|Government backed securities|10%",
+      "|Pledge of trading stocks|25%",
+      "|Hypothecation of trading stocks|50%",
+      "%",
       "(3) All guarantees provided shall be for a specific amount and expiry date and shall contain claim lodgment date and shall be backed by 100% realizable securities except that in the case of performance bonds, bid bonds and mobilization advance where the condition of 100% cover of realizable securities, may be relaxed up to 50% provided that modarabas hold at least 20% of the guaranteed amount in the form of liquid assets as security."
      ]
     },
@@ -256,8 +259,7 @@
      "title": "Investment in the shares of un-listed company",
      "page": 11,
      "text": [
-      "_ Modarabas may make",
-      "investment in shares of unlisted company, subject to fulfillment of the following conditions, namely: -",
+      "_ Modarabas may make investment in shares of unlisted company, subject to fulfillment of the following conditions, namely: -",
       ">>(i) total exposure in such companies, does not exceed 5% of the equity of the modaraba as disclosed in the latest financial statements;",
       ">>(ii) the directors of the modaraba company have no direct or indirect interest in the investee company; and",
       ">>(iii) the investee company must have operational track record of three profitable consecutive years preceding the decision:",
@@ -307,10 +309,10 @@
      "text": [
       "(1) Aggregate liabilities, excluding contingent liabilities and security deposits of a modaraba which is not involved in the issuance of COM shall not exceed ten times of its equity.",
       "(2) Contingent liabilities of a COM issuing modaraba shall not exceed the limits prescribed below:",
-      "Credit Rating Maximum Limit (on top of the ten times requirement listed above)",
-      "AA- and above 2 times of equity",
-      "A- to A+ 1.5 times of equity",
-      "BBB+ 0.5 times of equity",
+      "|!Credit Rating|Maximum Limit (on top of the ten times requirement listed above)",
+      "|AA- and above|2 times of equity",
+      "|A- to A+|1.5 times of equity",
+      "|BBB+|0.5 times of equity",
       "Provided that the following shall not constitute contingent liabilities for the purpose of this regulation:",
       ">(a) Non-fund based finance to the extent covered by liquid assets;",
       ">(b) Non-fund based finance where the payment is guaranteed by the Federal Government, Provincial Government, financial institution rated AA or above by a credit rating agency; and",
@@ -338,8 +340,7 @@
      "title": "Classification and Provisioning for non-performing assets",
      "page": 14,
      "text": [
-      "(1) A financial",
-      "services modaraba shall observe the criteria for classification of its assets and provisioning as provided in Schedule-III:",
+      "(1) A financial services modaraba shall observe the criteria for classification of its assets and provisioning as provided in Schedule-III:",
       "Provided that the Modarabas engaged in other forms of businesses i.e. trading, manufacturing or any form of business other than the business of financial services, shall devise a policy duly approved by the board of directors for classification and provisioning of non-performing receivables and follow such policy for classification and provisioning of nonperforming receivables.",
       "(2) In addition to time-based criteria, subjective evaluation of performing and non-performing finance shall be made for risk assessment and where considered necessary the category of classification determined on the basis of the aforementioned time-based criteria shall be further downgraded:",
       "Provided that such evaluation shall be carried out on the basis of adequacy of security inclusive of its realizable value, cash flow of the customer or lessee, operations in the account and records covering advances and credit worthiness of the customer or lessee.",
@@ -411,9 +412,10 @@
       ">(e) the maturity period of COM shall not be less than three months:",
       "Provided that the COM shall only be redeemable after 45 days, except in exceptional circumstances, of its issuance on the terms and conditions laid out in the COM agreement or product disclosure statement;",
       ">(f) the COM issued by a modaraba shall be caped in the following manner:",
-      "Credit Rating Total COM raised from all COM raised from individuals, sole sources including COM proprietors, provident or gratuity raised from individuals, sole funds, trusts, charitable proprietors, provident or institutions and the companies gratuity funds, trusts, registered under section 42 of the charitable institutions and Companies Act, 2017 (XIX of the companies registered 2017) under section 42 of the Companies Act, 2017 (XIX of 2017)",
-      "AA- and above 5 times of equity 4 times of equity",
-      "A- to A+ 3 times of equity 2 times of equity (g) at least 15 percent of the outstanding funds raised through COM by the modaraba, excluding the COMs held by financial institutions, shall be invested at all times in Shariah compliant government securities, or instruments or investments as notified by the Commission. Such investments or instruments shall be valued at cost or market value whichever is lower and any shortfall in the value of such investments or instruments shall be immediately made-up:",
+      "|!Credit Rating|Total COM raised from all sources including COM raised from individuals, sole proprietors, provident or gratuity funds, trusts, charitable institutions and the companies registered under section 42 of the Companies Act, 2017 (XIX of 2017)|COM raised from individuals, sole proprietors, provident or gratuity funds, trusts, charitable institutions and the companies registered under section 42 of the Companies Act, 2017 (XIX of 2017)",
+      "|AA- and above|5 times of equity|4 times of equity",
+      "|A- to A+|3 times of equity|2 times of equity",
+      "(g) at least 15 percent of the outstanding funds raised through COM by the modaraba, excluding the COMs held by financial institutions, shall be invested at all times in Shariah compliant government securities, or instruments or investments as notified by the Commission. Such investments or instruments shall be valued at cost or market value whichever is lower and any shortfall in the value of such investments or instruments shall be immediately made-up:",
       "Provided that these instruments or investments are for the benefit of the COM holders only and these instruments shall be kept un-encumbered and disclosed separately in the financial statements of the modaraba: {fn:18-10}",
       "Provided further that this requirement shall also be applicable to a modaraba whose permission to issue COM has been suspended or cancelled till the time all the COM have been repaid.",
       ">(h) the modaraba shall report to the Registrar, on monthly basis the total amount of its outstanding COM and the securities held there against:",
@@ -471,8 +473,7 @@
      "title": "Maintenance of Capital Adequacy Ratio (“CAR”)",
      "page": 20,
      "text": [
-      "A COM issuing modaraba",
-      "shall be required to maintain CAR of eight percent for the first two years from coming in to force of these regulations and ten percent for subsequent years as per the criteria given in Schedule-VI."
+      "A COM issuing modaraba shall be required to maintain CAR of eight percent for the first two years from coming in to force of these regulations and ten percent for subsequent years as per the criteria given in Schedule-VI."
      ]
     },
     {
@@ -566,8 +567,7 @@
      "title": "Removal of records",
      "page": 23,
      "text": [
-      "No modaraba shall remove from Pakistan to a place",
-      "outside Pakistan, any of its records or documents relating to its business without the prior permission of the Registrar."
+      "No modaraba shall remove from Pakistan to a place outside Pakistan, any of its records or documents relating to its business without the prior permission of the Registrar."
      ]
     },
     {
@@ -713,7 +713,55 @@
  "schedules": [
   {
    "title": "Annexure-A",
-   "page": 32
+   "page": 32,
+   "text": [
+    "Annexure-A Information to be provided by promoters, major shareholders (other than a body corporate), proposed directors and proposed chief executive of the modaraba company",
+    "|1.|Curriculum Vitae/Resume containing:",
+    "|!A|Name: (former name if any):",
+    "|B|Father’s or Husband Name:",
+    "|C|C.N.I.C # / Passport # (In case of foreign nationals) –(attach copy)",
+    "|D|Latest photograph",
+    "|E|Nationality:",
+    "|F|Age:",
+    "|G|Contact details:",
+    "|i) Residential address:",
+    "|ii) Business address:",
+    "|iii) Tel:",
+    "|iv) Mobile:",
+    "|v) Fax:",
+    "|vi) E-mail:",
+    "|H|National Tax Number:",
+    "|I|Present occupation:",
+    "|J|Details of academic and professional qualifications (Attach copy). The Board of directors of the modaraba company shall ensure verification of credentials and degrees of the chief executive.",
+    "|K|Trainings",
+    "|L|Experience: Position held during the last ten years (along with name and address of company/institution/ body where appointment held, nature of the company/institution/body and dates of appointment.",
+    "|2.|Status of directorship Shareholder  Nominee  Name of the shareholders/ Group of shareholders he is representing Nature of directorship Executive  Non-executive  Independent  Non-independent  Number of shares subscribed or held _____________________________ Personal net worth (copy of wealth statement) ______________",
+    "|3.|Names of companies, firms, sole proprietorships and other organizations of which the proposed person is a chief executive, director, partner, owner, office holder or major shareholder.",
+    "|4.|CIB report issued by SBP for the companies, firms, sole proprietorships, etc. where the applicant is interested as director (sponsor or major shareholder), chief executive, partner or owner (attach original CIB reports).",
+    "|5.|An undertaking providing details of the following:",
+    "(i) Any write off availed from any financial institution during the last five years;",
+    "(ii) Any default of finance obtained from any financial institution during the last five years;",
+    "(iii) Placement on ECL during the last five years;",
+    "(iv) Any conviction from any Court of Law during the last ten years; or",
+    "(v) Any write off or default by any related or affiliated person or by any company on whom the applicant had an interest as sponsor, major shareholder, director, chief executive, key executives, etc. during the last five years.",
+    "(vi) The person and the companies, firms, sole proprietorship etc. where the person is a chief executive, director (other than nominee director), owner or partner etc. has no overdue payment of any financial institution.",
+    "6. In the case of appointment of directors, the date of Board of directors’ meeting in which the appointment of proposed director was approved. (Attach copy of the minutes of the meeting of the Board of directors. If the director is elected, then attach a copy of the minutes of the general meeting of the company.)",
+    "7. Names of persons on the board of the modaraba company who are related to the applicant.",
+    "8. Information to be provided by a body corporate as promoters and major shareholders of the modaraba company or a certificate holder of a modaraba:",
+    "(i) Financial statements for the last three years;",
+    "(ii) Details of business place;",
+    "(iii) Details of shareholding of the modaraba company and certificate holding of modaraba including details of ultimate beneficial owners.",
+    "(iv) CIB report of the company and its directors and sponsors;",
+    "(v) Details of any write off availed from any financial institution during last five years;",
+    "(vi) Details of any finance obtained from any financial institution during the last five years;",
+    "(vii) Details of any rescheduling of finance obtained from any financial Institution during the last five years;",
+    "(viii) Any substantial adverse verdicts against the company from any Court of Law during the last ten years;",
+    "(ix) Details of associated companies and subsidiaries;",
+    "(x) Details of any existing or potential litigation in the name of the company, its sponsors and directors;",
+    "(xi) Details of any inquiry, investigation conducted by the Commission or any other regulatory or professional body or government agency during the last five years; and",
+    "(xii) Any other information as may be required by the Commission.",
+    "Signatures _________________ use additional sheets if required."
+   ]
   },
   {
    "title": "Annexure-B",
