@@ -422,3 +422,12 @@ html { scroll-behavior: smooth; }
 .tbl-form > summary { cursor: pointer; font-family: var(--sans); font-size: 0.9rem; font-weight: 600; color: var(--muted); padding: 6px 0; }
 .tbl-form[open] > summary { margin-bottom: 6px; }
 .notice-check { display: block; color: var(--warn-fg); font-size: 0.82rem; margin-top: 2px; }
+
+/* Download buttons beside each form, annexure and schedule shown as a PDF link */
+.form-dl { display: flex; gap: 6px; flex: none; }
+.act-row a.dl { flex: none; display: inline-block; padding: 4px 10px; border: 1px solid var(--border); border-radius: 999px; font-size: .8rem; text-decoration: none; color: var(--link); background: var(--surface); }
+.act-row a.dl:hover { background: var(--surface-2); text-decoration: underline; }
+@media (max-width: 520px) { .act-row:has(.form-dl) { flex-wrap: wrap; } .act-row .form-dl { width: 100%; } }
+
+/* long unbroken runs (signature lines of underscores, long codes) must wrap, not widen the page */
+.prov-body p, .prov-body li, .tbl-wrap td, .tbl-wrap th { overflow-wrap: anywhere; }

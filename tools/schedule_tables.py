@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 W = lambda s: re.findall(r"[^\W_]+", s.lower())
 APPLY = "--apply" in sys.argv
 REFRESH = "--refresh" in sys.argv
+TEXTONLY = "--text" in sys.argv        # also convert schedules without tables (plain text), when no page has lines side by side
 arg = lambda k, d: float(sys.argv[sys.argv.index(k) + 1]) if k in sys.argv else d
 MIN, SPAN, ERR = arg("--min", 0.6), int(arg("--span", 12)), arg("--err", 0.01)
 ids = [a for a in sys.argv[1:] if not a.startswith("--") and not re.fullmatch(r"[\d.]+", a)]
@@ -43,6 +44,23 @@ def furniture(txt, y0, y1, H):
     if re.fullmatch(r"\d{1,4}", t) and (y1 > 0.9 * H or y0 < 0.08 * H): return True
     if re.fullmatch(r"(?i)page\s+\d+\s+of\s+\d+", t): return True
     return bool(re.search(r"_{6,}", t)) and y1 < 0.12 * H and len(t.split()) <= 12
+
+
+def side_by_side(pg, ymin=0, tabs=()):
+    """Number of pairs of text lines standing next to each other (columns, or tables without ruled lines): reading order is unsafe."""
+    H = pg.rect.height; L = []
+    for b in pg.get_text("dict")["blocks"]:
+        if b.get("type") != 0: continue
+        for ln in b["lines"]:
+            t = "".join(s["text"] for s in ln["spans"]).strip(); x0, y0, x1, y1 = ln["bbox"]
+            if t and not (y1 < 0.055 * H or y0 > 0.945 * H or y0 < ymin) and len(t) > 2 \
+               and not any(q["x0"] - 2 <= x0 and x1 <= q["x1"] + 2 and q["y0"] - 2 <= y0 and y1 <= q["y1"] + 2 for q in tabs): L.append((x0, y0, x1, y1))
+    n = 0
+    for i, a in enumerate(L):
+        for b in L[i + 1:]:
+            ov = min(a[3], b[3]) - max(a[1], b[1])
+            if ov > 0.5 * min(a[3] - a[1], b[3] - b[1]) and (b[0] - a[2] > 25 or a[0] - b[2] > 25): n += 1
+    return n
 
 
 def compact(rows):
@@ -73,7 +91,7 @@ def page_items(pg, ymin=0):
     paras.sort()
     cur = None
     for y0, y1, txt in paras:
-        if cur and y0 - cur[1] < 0.9 * (y1 - y0) + 2 and not re.match(r"^(\(?\w{1,4}[.)]|\d{1,3}\.)\s", txt):
+        if cur and y0 - cur[1] < 0.9 * (y1 - y0) + 2 and not re.match(r"^(\(\w{1,4}\)|\w{1,4}[.)]\s|\d{1,3}\.)", txt):
             cur[1] = y1; cur[2] += " " + txt
         else:
             if cur: items.append((cur[0], "p", [cur[2]]))
@@ -97,6 +115,7 @@ def convert(doc, start, end, title=""):
             ymin = heading_y(pg, title)
             if ymin is None: return paras, 0, 1                       # cannot tell where the schedule starts on its page
         items, tabs = page_items(pg, ymin); want += page_words(pg, ymin)
+        if TEXTONLY and side_by_side(pg, ymin, tabs) > 2: return paras, 0, 1
         for _, kind, rows in items:
             if kind == "t":                       # a row with a cell over 50 words is a layout box holding text, not table cells: keep it as a paragraph
                 rows = [(re.sub(r"\s+", " ", " ".join(c for c in r.lstrip("|!").split("|") if c))
@@ -134,8 +153,8 @@ def main():
             except Exception as e: continue
             blanks = sum(1 for p in paras if re.search(r"_{4,}|\.{6,}|…{3,}", p))
             if blanks >= 6 or (blanks and len(paras) <= 12): continue                                         # a form to be filled in: keep the PDF
-            if share >= MIN and err <= ERR and any(p.startswith("|") for p in paras):
-                s["text"] = paras; done += 1
+            if err <= ERR and ((share >= MIN and any(p.startswith("|") for p in paras)) or (TEXTONLY and not any(p.startswith("|") for p in paras) and len(paras) >= 3 and re.search(r"(?i)schedule", s["title"]) and max(len(p.split()) for p in paras) <= 160)):
+                s["text"] = paras; done += 1; print("   +", s["title"][:40], f"p{a}-{b}", len(paras), "paras")
         if done or changed:
             tot += done; print(f"{x['id']}: {done} of {len(sch)} schedules converted")
             if APPLY: f.write_text(json.dumps(act, ensure_ascii=False, indent=1 if raw.startswith('{\n "') else 2) + ("\n" if raw.endswith("\n") else ""))

@@ -88,6 +88,9 @@ export function build({ outDir = path.join(ROOT, 'dist'), dataDir } = {}) {
       scheduleText.set(j.id, j);
     }
   }
+  // Each schedule, annexure and form shown as a PDF link also has its own PDF and Word file (tools/forms_export.py).
+  const formsDir = path.join(ROOT, 'sources', 'forms');
+  const formsIndex = fs.existsSync(path.join(formsDir, 'index.json')) ? JSON.parse(fs.readFileSync(path.join(formsDir, 'index.json'), 'utf8')) : {};
   const byId = new Map(acts.map((a) => [a.id, a]));
   const children = (id) => acts.filter((a) => a.parent === id);
   const registerFor = (id) => extras.registers.find((r) => r.act === id);
@@ -407,7 +410,7 @@ ${body}
 
     const schedules = act.schedules?.length
       ? `<section class="schedules" id="schedules"><h2>Schedules, annexures and forms</h2>${pdfScheds.length ? `<p class="muted small">Schedules are mostly tables, so they are shown as published in the official PDF.</p><ul class="act-list">${act.schedules
-          .map((x, k) => (x.text ? '' : `<li class="act-row" data-sched="${k}"><a href="${x.pdf ? `${base}sources/${x.pdf}` : pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a></li>`))
+          .map((x, k) => (x.text ? '' : `<li class="act-row" data-sched="${k}"><a href="${x.pdf ? `${base}sources/${x.pdf}` : pdf}#page=${x.page}" target="_blank" rel="noopener"><span class="act-title">${e(x.title)}</span><span class="act-meta">Official PDF, page ${x.page}</span></a>${(() => { const f = formsIndex[act.id]?.[String(k + 1)]; return f ? `<span class="form-dl" role="group" aria-label="Download ${e(x.title)}"><a class="dl" href="${base}forms/${f.pdf}" download title="This form only, cut from the official PDF (${f.pages} page${f.pages === 1 ? '' : 's'})">PDF</a>${f.docx ? `<a class="dl" href="${base}forms/${f.docx}" download title="Word copy made from the PDF; layout may differ slightly">Word</a>` : ''}</span>` : ''; })()}</li>`))
           .join('')}</ul>` : ''}${inlineScheds.length && act.schedulesNote ? `<p class="muted small">${e(act.schedulesNote)}</p>` : ''}${inlineScheds
           .map(([x, k]) => {
             const paras = renderParas(x.text, (t) => e(t));
@@ -1087,6 +1090,12 @@ ${body}
     for (const f of new Set((a.schedules || []).map((x) => x.pdf).filter(Boolean))) write(`sources/${f}`, fs.readFileSync(path.join(ROOT, 'sources', 'pdf', f)));
   }
 
+  // ---------- per-form PDF and Word files (served as /forms/<instrument>/<file>) ----------
+  for (const byNo of Object.values(formsIndex)) for (const f of Object.values(byNo)) for (const rel of [f.pdf, f.docx].filter(Boolean)) {
+    const src = path.join(formsDir, rel);
+    if (fs.existsSync(src)) write(`forms/${rel}`, fs.readFileSync(src));
+  }
+
   // ---------- screenshots of hand checks (served as /evidence/<file>) ----------
   for (const c of extras.checks) write(`evidence/${c.screenshot}`, fs.readFileSync(path.join(EVIDENCE_DIR, c.screenshot)));
 
@@ -1115,7 +1124,7 @@ ${body}
 
   // The service worker precaches the app shell and search index; instrument pages and PDFs
   // are cached as they are opened, so everything a reader has used stays available offline.
-  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('ai-') && f !== 'assets/ai-worker.js' && !f.startsWith('acts/') && !f.startsWith('schedule-text/') && !f.startsWith('sources/') && !f.startsWith('evidence/'));
+  const precache = written.filter((f) => f !== 'sw.js' && f !== 'search-notes.json' && !f.startsWith('ai-') && f !== 'assets/ai-worker.js' && !f.startsWith('acts/') && !f.startsWith('schedule-text/') && !f.startsWith('sources/') && !f.startsWith('forms/') && !f.startsWith('evidence/'));
   const version = crypto.createHash('sha256').update(precache.map((f) => f + fs.statSync(path.join(outDir, f)).size).join('|')).update(JSON.stringify(index)).digest('hex').slice(0, 12);
   const sw = fs.readFileSync(path.join(ROOT, 'src', 'sw.template.js'), 'utf8').replace('__VERSION__', version).replace('__PRECACHE__', JSON.stringify(precache.map((f) => `./${f}`)));
   write('sw.js', sw);
