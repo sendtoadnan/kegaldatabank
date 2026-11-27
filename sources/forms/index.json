@@ -209,8 +209,7 @@
   },
   "18": {
    "pdf": "income-tax-rules-2002/18-second-schedule-part-i.pdf",
-   "pages": 1,
-   "docx": "income-tax-rules-2002/18-second-schedule-part-i.docx"
+   "pages": 1
   },
   "19": {
    "pdf": "income-tax-rules-2002/19-second-schedule-part-ii.pdf",
@@ -408,8 +407,7 @@
   },
   "23": {
    "pdf": "sales-tax-rules-2006/23-form-str-11.pdf",
-   "pages": 2,
-   "docx": "sales-tax-rules-2006/23-form-str-11.docx"
+   "pages": 2
   },
   "24": {
    "pdf": "sales-tax-rules-2006/24-form-str-12.pdf",
@@ -453,8 +451,7 @@
   },
   "32": {
    "pdf": "sales-tax-rules-2006/32-form-str-28.pdf",
-   "pages": 2,
-   "docx": "sales-tax-rules-2006/32-form-str-28.docx"
+   "pages": 2
   },
   "33": {
    "pdf": "sales-tax-rules-2006/33-form-str-30.pdf",
@@ -468,8 +465,7 @@
   },
   "35": {
    "pdf": "sales-tax-rules-2006/35-form-str-34.pdf",
-   "pages": 1,
-   "docx": "sales-tax-rules-2006/35-form-str-34.docx"
+   "pages": 1
   },
   "36": {
    "pdf": "sales-tax-rules-2006/36-form-str-35.pdf",
@@ -930,8 +926,7 @@
  "securities-act-2015": {
   "1": {
    "pdf": "securities-act-2015/01-the-schedule-repeals-section-178.pdf",
-   "pages": 1,
-   "docx": "securities-act-2015/01-the-schedule-repeals-section-178.docx"
+   "pages": 1
   }
  },
  "employees-contributory-funds-investment-regulations-2018": {
@@ -1253,8 +1248,7 @@
   },
   "46": {
    "pdf": "foreign-exchange-manual/46-appendix-v-form-8.pdf",
-   "pages": 4,
-   "docx": "foreign-exchange-manual/46-appendix-v-form-8.docx"
+   "pages": 4
   },
   "47": {
    "pdf": "foreign-exchange-manual/47-appendix-v-form-10.pdf",
@@ -1293,8 +1287,7 @@
   },
   "54": {
    "pdf": "foreign-exchange-manual/54-appendix-v-form-17.pdf",
-   "pages": 1,
-   "docx": "foreign-exchange-manual/54-appendix-v-form-17.docx"
+   "pages": 1
   },
   "55": {
    "pdf": "foreign-exchange-manual/55-appendix-v-form-18.pdf",
@@ -1658,8 +1651,7 @@
   },
   "127": {
    "pdf": "foreign-exchange-manual/127-appendix-v-form-97.pdf",
-   "pages": 1,
-   "docx": "foreign-exchange-manual/127-appendix-v-form-97.docx"
+   "pages": 1
   },
   "128": {
    "pdf": "foreign-exchange-manual/128-appendix-v-form-97a.pdf",
@@ -1763,8 +1755,7 @@
   },
   "148": {
    "pdf": "foreign-exchange-manual/148-appendix-v-form-132.pdf",
-   "pages": 2,
-   "docx": "foreign-exchange-manual/148-appendix-v-form-132.docx"
+   "pages": 2
   },
   "149": {
    "pdf": "foreign-exchange-manual/149-appendix-v-form-134.pdf",
@@ -1818,8 +1809,7 @@
   },
   "159": {
    "pdf": "foreign-exchange-manual/159-appendix-v-form-146.pdf",
-   "pages": 6,
-   "docx": "foreign-exchange-manual/159-appendix-v-form-146.docx"
+   "pages": 6
   }
  },
  "banking-companies-ordinance-1962": {
@@ -1911,8 +1901,7 @@
   },
   "3": {
    "pdf": "unit-linked-products-fund-rules-2015/03-annexure-4.pdf",
-   "pages": 1,
-   "docx": "unit-linked-products-fund-rules-2015/03-annexure-4.docx"
+   "pages": 1
   }
  },
  "underwriters-rules-2015": {
@@ -2069,8 +2058,7 @@
   },
   "9": {
    "pdf": "companies-registration-offices-regulations-2018/09-annexure-i.pdf",
-   "pages": 1,
-   "docx": "companies-registration-offices-regulations-2018/09-annexure-i.docx"
+   "pages": 1
   },
   "10": {
    "pdf": "companies-registration-offices-regulations-2018/10-annexure-j.pdf",
