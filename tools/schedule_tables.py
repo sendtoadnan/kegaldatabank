@@ -115,6 +115,7 @@ def main():
             if REFRESH and s.get("text") and s.get("page"): s.pop("text"); changed = True      # redo what this tool made earlier (only it writes text together with a page)
             if s.get("text") or not str(s.get("page", "")).isdigit(): continue
             a = int(s["page"]); later = [p for p in starts if p > a]; b = min((later[0] - 1) if later else n, n); b = max(a, b)
+            if re.match(r"(?i)(form|annex)\b", s["title"]): continue                   # returns and statements to fill in: keep the PDF
             if b - a + 1 > SPAN or sum(1 for q in sch if str(q.get("page", "")) == str(a)) > 1: continue
             try: paras, share, err = convert(doc, a, b, s["title"])
             except Exception as e: continue
