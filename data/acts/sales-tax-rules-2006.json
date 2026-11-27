@@ -6196,11 +6196,44 @@
   },
   {
    "title": "Form STR-28",
-   "page": 225
+   "page": 225,
+   "text": [
+    "Name (in block letters)",
+    "Designation",
+    "Date ] .. 420[STR-28] [see rule 150ZZI(6)]",
+    "GOVERNMENT OF PAKISTAN",
+    "MONTHLY SALES TAX RETURN FOR WITHHOLDING AGENTS",
+    "Withholding agent's Month NTN/FTN Year Period name & address",
+    "Detail of sales Tax Withheld During the Month (attach additional sheets if required) NTN S.No. Name of",
+    "No. of Sales Tax Total Sales Invoices Supplier Tax Withheld Charged ..",
+    "Total Sales Tax withheld during the month",
+    "|!Verification|I, , holder of NIC number , in my capacity as , hereby, certify that the information given herein is correct and complete and in accordance with the provisions of the Sales Tax Act, 1990, and rules and notifications issued thereunder.||",
+    "||Date (dd/mm/yyyy)|Stamp|Signature",
+    "4584. 420 Form STR-28, STR-29, STR-30, STR-31 added by Notification No. S.R.O. 918(I)/2019, dated 7th August,",
+    "Amount Amount Head of Account Received: (in words) B02341- Sales Tax (in figures) Details of ST Paid For Bank Use B02366-Sales Tax on service Bank Officer’s Signature B02367-FED in .. sales tax mode Bank Stamp Total Amount Deposited Date (mm/dd/yyyy) ------ STR-29 [see rule 152(2)(a)] APPLICATION FOR ANNUAL REQUIREMENT OF INPUTS",
+    "Name of the Manufacturer N.T.N. Address Application date ..",
+    "|!S. No.|Description of goods to be manufactured|PCT Heading|. . Description of raw materials, components, sub- components, assemblies, sub- assemblies and packing materials|PCT Heading|Input- output Ratio|Quantity",
+    "|(1)|(2)|(3)|(4)|(5)|(6)|(7)",
+    "Signature"
+   ]
   },
   {
    "title": "Form STR-30",
-   "page": 227
+   "page": 227,
+   "text": [
+    "STR-30 [see rule 152(2)(b)] APPROVAL OF DECLARATION OF INPUT-OUTPUT RATIOS Approval Number Name of the Manufacturer N.T.N. Date of expiry of approval ..",
+    "|!S. No.|Description of goods to be manufactured|PCT Heading|Description of raw materials, components, sub-components, assemblies, sub- assemblies and packing materials|PCT Heading|Quantity Allowed",
+    "|(1)|(2)|(3)|(4)|(5)|(6)",
+    "Signature of Authorized Officer",
+    "------ STR-31 [see rule 152(2)(e)] IMPORT AUTHORIZATION FOR CUSTOMS COMPUTERIZED SYSTEM",
+    "|Name of the Manufacturer",
+    "|N.T.N.|.",
+    "|Address|.",
+    "|!S. No.|Description of input goods to be imported|PCT Heading|Quantity|Value",
+    "|(1)|(2)|(3)|(4)|(5)",
+    "Signature of Authorized Officer ]",
+    "E-TRANSPORT"
+   ]
   },
   {
    "title": "Form STR-32",

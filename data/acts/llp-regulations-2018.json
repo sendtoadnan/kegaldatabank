@@ -446,7 +446,24 @@
  "schedules": [
   {
    "title": "Fee Schedule",
-   "page": 29
+   "page": 29,
+   "text": [
+    "FEE SCHEDULE Fees",
+    "|!Item|*In case of online submission of documents / application (Rs.)|In case of offline/physical submission of documents/ application (Rs.)",
+    "|Reservation of Name|100|200",
+    "|Rectification/Change of Name|500|1,000",
+    "|Registration of LLP|1,000|2,000",
+    "|Certified true copy (per document) except LLP agreement and financial statements.|100|200",
+    "|Certified true copy of LLP agreement and financial statements, calculated at the rate, per page required to be copied, subject to a minimum fee of one hundred rupees, a fee of …|10|20",
+    "|For filing or registering any notice, accounts or document, required to be filed or registered under the Act|100|200",
+    "|For inspection of documents and register kept by the registrar in respect of a LLP|100|200",
+    "|Conversion of Firm to LLP|500|1,000",
+    "|Conversion of Private Limited Company to LLP|500|1,000",
+    "|Appeal|500|1,000",
+    "|For providing a system generated list of LLP registered with the Commission, a fee calculated at the rate per data field, subject to a minimum fee of five hundred rupees, a fee of …|2 per data field|2 per data field",
+    "|For a system generated LLP profile, per LLP, a fee of …|100|100",
+    "* subject to availability of online facility. [No. CLD/CCD/PR(8)/2017]"
+   ]
   }
  ]
 }

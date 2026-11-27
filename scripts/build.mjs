@@ -411,7 +411,7 @@ ${body}
           .join('')}</ul>` : ''}${inlineScheds.length && act.schedulesNote ? `<p class="muted small">${e(act.schedulesNote)}</p>` : ''}${inlineScheds
           .map(([x, k]) => {
             const paras = renderParas(x.text, (t) => e(t));
-            return `<article class="provision schedule" id="${schedAnchor(k)}" data-no="" data-title="${e(x.title)}" data-cite="${e(x.title)}, ${e(act.title)}"><header class="prov-head"><h3><a class="prov-link" href="#${schedAnchor(k)}">${e(x.title)}</a></h3><div class="prov-tools" role="group" aria-label="Tools for ${e(x.title)}"><button type="button" data-action="link" title="Copy link to this schedule">Link</button></div></header><div class="prov-body">${paras}</div></article>`;
+            return `<article class="provision schedule" id="${schedAnchor(k)}" data-no="" data-title="${e(x.title)}" data-cite="${e(x.title)}, ${e(act.title)}"><header class="prov-head"><h3><a class="prov-link" href="#${schedAnchor(k)}">${e(x.title)}</a></h3><div class="prov-tools" role="group" aria-label="Tools for ${e(x.title)}"><button type="button" data-action="link" title="Copy link to this schedule">Link</button>${pdf && x.page && !x.pdf ? `<a class="tool-link" href="${pdf}#page=${x.page}" target="_blank" rel="noopener" title="Open the official PDF at this page">PDF p.${e(x.page)}</a>` : ''}</div></header><div class="prov-body">${paras}</div></article>`;
           })
           .join('')}</section>`
       : '';

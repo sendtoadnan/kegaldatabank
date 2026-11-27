@@ -84,6 +84,9 @@ def extract(act):
     seen = set()
     for k in order:
         start = sch[k]["page"]
+        if sch[k].get("text"):                         # shown inline (tools/schedule_tables.py): already searchable
+            out[k] = {"title": sch[k]["title"], "page": start, "text": ""}
+            continue
         if start in seen:                              # two schedules on one page: the first carries the text
             out[k] = {"title": sch[k]["title"], "page": start, "text": ""}
             continue

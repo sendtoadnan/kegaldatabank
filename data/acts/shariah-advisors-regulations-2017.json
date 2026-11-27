@@ -341,7 +341,19 @@
   },
   {
    "title": "Annexure Ii",
-   "page": 26
+   "page": 26,
+   "text": [
+    "Annexure II",
+    "[SCHEDULE OF FEES]",
+    "|!Particulars|Fee in Rupees",
+    "|Individual Shariah Advisor - initial application|5,000/-",
+    "|Company, Firm, LLP - initial application|10,000/-",
+    "|Individual Shariah Advisor - Renewal application|2,500/-",
+    "|Company, Firm, LLP - Renewal application|5,000/-",
+    "|Reporting for change of Partner, Director, Chief Executive|5,000/-",
+    "|Annual reporting fee- for Individual|500/-",
+    "|Annual reporting fee – for Company, Firm, LLP|2,000/-"
+   ]
   }
  ]
 }
