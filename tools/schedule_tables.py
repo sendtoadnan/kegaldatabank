@@ -37,6 +37,14 @@ def heading_y(pg, title):
     return None
 
 
+def furniture(txt, y0, y1, H):
+    """Page numbers, "Page 3 of 52" and running heads ending in a rule of underscores are not law text."""
+    t = txt.strip()
+    if re.fullmatch(r"\d{1,4}", t) and (y1 > 0.9 * H or y0 < 0.08 * H): return True
+    if re.fullmatch(r"(?i)page\s+\d+\s+of\s+\d+", t): return True
+    return bool(re.search(r"_{6,}", t)) and y1 < 0.12 * H and len(t.split()) <= 12
+
+
 def page_items(pg, ymin=0):
     """Paragraphs and tables of one page in reading order, margins excluded: [(y, 'p'|'t', payload)]"""
     H = pg.rect.height
@@ -48,7 +56,7 @@ def page_items(pg, ymin=0):
         if b.get("type") != 0 or inside(b["bbox"]): continue
         for ln in b["lines"]:
             txt = re.sub(r"\s+", " ", "".join(s["text"] for s in ln["spans"])).strip()
-            if not txt or inside(ln["bbox"]) or (re.fullmatch(r"\d{1,4}", txt) and (ln["bbox"][3] > 0.9 * H or ln["bbox"][1] < 0.08 * H)): continue      # page numbers
+            if not txt or inside(ln["bbox"]) or furniture(txt, ln["bbox"][1], ln["bbox"][3], H): continue
             y0, y1 = ln["bbox"][1], ln["bbox"][3]
             if y1 < 0.055 * H or y0 > 0.945 * H or y0 < ymin: continue                       # running head, page number, footer
             paras.append((y0, y1, txt))
@@ -67,7 +75,7 @@ def page_items(pg, ymin=0):
 
 def page_words(pg, ymin=0):
     H = pg.rect.height
-    return Counter(w for b in pg.get_text("dict")["blocks"] if b.get("type") == 0 for ln in b["lines"] if not (re.fullmatch(r"\s*\d{1,4}\s*", "".join(s["text"] for s in ln["spans"])) and (ln["bbox"][3] > 0.9 * H or ln["bbox"][1] < 0.08 * H))
+    return Counter(w for b in pg.get_text("dict")["blocks"] if b.get("type") == 0 for ln in b["lines"] if not furniture("".join(s["text"] for s in ln["spans"]), ln["bbox"][1], ln["bbox"][3], H)
                    if not (ln["bbox"][3] < 0.055 * H or ln["bbox"][1] > 0.945 * H or ln["bbox"][1] < ymin) for w in W("".join(s["text"] for s in ln["spans"])))
 
 
@@ -101,15 +109,17 @@ def main():
         raw = f.read_text(); act = json.loads(raw); sch = act.get("schedules") or []
         if not sch or any(s.get("pdf") for s in sch): continue
         doc = fitz.open(pdf); n = len(doc)
-        starts = sorted({int(s["page"]) for s in sch if str(s.get("page", "")).isdigit()})
+        starts = sorted({int(s["page"]) for s in sch if str(s.get("page", "")).isdigit()})   # (several schedules on one page: left as PDF links)
         done = 0; changed = False
         for s in sch:
             if REFRESH and s.get("text") and s.get("page"): s.pop("text"); changed = True      # redo what this tool made earlier (only it writes text together with a page)
             if s.get("text") or not str(s.get("page", "")).isdigit(): continue
             a = int(s["page"]); later = [p for p in starts if p > a]; b = min((later[0] - 1) if later else n, n); b = max(a, b)
-            if b - a + 1 > SPAN or sum(1 for p in starts if p == a) > 1: continue
+            if b - a + 1 > SPAN or sum(1 for q in sch if str(q.get("page", "")) == str(a)) > 1: continue
             try: paras, share, err = convert(doc, a, b, s["title"])
             except Exception as e: continue
+            blanks = sum(1 for p in paras if re.search(r"_{4,}|\.{6,}|…{3,}", p))
+            if blanks >= 6 or (blanks and len(paras) <= 12): continue                                         # a form to be filled in: keep the PDF
             if share >= MIN and err <= ERR and any(p.startswith("|") for p in paras):
                 s["text"] = paras; done += 1
         if done or changed:
