@@ -148,11 +148,36 @@
  "schedules": [
   {
    "title": "Annexure-I — Register of contracts or arrangements with related party or in which directors are interested",
-   "page": 5
+   "page": 5,
+   "text": [
+    "ANNEXURE-I Register of contracts or arrangements with related party or in which directors are interested [Pursuant to sections 208 (3) and 209 (1)]",
+    "A. Contracts or arrangements with any related party under section 208 or in which any director is concerned or interested under section 205",
+    "Amount Date of contract Name of the party Principal Reference of of terms and conditions contract or or arrangement specific items - (a) which with arrangement contract is to (f) under sub- (1) entered into of section 208, if section applicable (1) (2) (3) (4) (5)",
+    "Extent of interest, Monetary value of Name Nature of concern Whether of the the if if its monetary interest interest, interested or or transaction is at arm's length basis. change director is not reasonably therein value If not, a brief on and relation with quantifiable, reasonably deviation from quantifiable the party arm’s length (10) (6) (7) (8) (9)",
+    "|!|Date of approval||No. of directors|Directors voting in favour|Directors voting against|Directors remaining neutral",
+    "||at the meeting of||present in the|||",
+    "||the board||meeting|||",
+    "|(11)||(12)||(13)|(14)|(15)",
+    "Date of Remarks Upon cessation of the Contract / Arrangement, it’s status to be members’ approval, if mentioned in this column any (16) (17) (18)",
+    "B. Name of the bodies corporate, firms or other association – as specified pursuant to sub- section (2) of section 209, in which any director is having any concern or interest",
+    "Date on which Name of the Names of the Nature of interest Shareholding (if any) / companies concern interest interested or or /bodies change in interest concern director [No. of shares & arose / changed corporate/ firms/ or concern association percentage]",
+    "(1) (2) (3) (4) (5)",
+    "Signature: Chief Executive / Company Secretary/ Whole-time Director Date: Place:",
+    "Page 5 of 6"
+   ]
   },
   {
    "title": "Annexure-II — Notice of interest by director",
-   "page": 6
+   "page": 6,
+   "text": [
+    "ANNEXURE - II Notice of interest by director [Pursuant to section 209 (2)]",
+    "To The Board of Directors ________________Limited",
+    "Dear Sir(s)/Madam(s) Pursuant to the provisions of sub-section (2) section 209 of the Companies Act, 2017, I________________________________, son/daughter/spouse of _____________, having CNIC No. No. Passport ___________resident case foreigner in of or of_________________________________, being a director in the company hereby give notice of my interest or concern in the following company(s), bodie(s) corporate, firms or other associations: -",
+    "|!Sr. No.|Names of the companies /bodies corporate/ firms/ association|Nature of interest or concern / change in interest or concern|Shareholding (if any) [No. of shares & percentage]|Date on which interest or concern arose / changed",
+    "|(1)|(2)|(3)|(4)|(5)",
+    "Signature: Name and Designation: Date: Place: __________________________________________________________________________ [CSD/RPTM/123/2018]",
+    "Page 6 of 6"
+   ]
   }
  ]
 }

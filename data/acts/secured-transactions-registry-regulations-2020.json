@@ -249,7 +249,26 @@
  "schedules": [
   {
    "title": "Schedule",
-   "page": 6
+   "page": 6,
+   "text": [
+    "SCHEDULE",
+    "TABLE OF FEES TO BE PAID TO THE REGISTRY",
+    "|!Transaction|Fee Amount (PKR)",
+    "|Financing Statement - Initial|1,000",
+    "|Financing Statement - Modification|1,000",
+    "|Financing Statement - Termination|No Fee",
+    "|Financing Statement - Modification by Registrar|1,000",
+    "|Financing Statement - Termination by Registrar|1,000",
+    "|Financing Statement of Prior Security Interest - Initial|500",
+    "|Financing Statement of Prior Security Interest - Modification|1,000",
+    "|Financing Statement of Prior Security Interest – Termination|No Fee",
+    "|Financing Statement of Prior Security Interest - Modification by Registrar|1,000",
+    "|Financing Statement of Prior Security Interest - Termination by Registrar|1,000",
+    "|Public Search|No Fee",
+    "|Issue of a Certified Search Report|100",
+    "[File No. CLD/CCD/PR(1)/2018]",
+    "( Ejaz Alam Khan ) Secretary to the Commission"
+   ]
   }
  ]
 }
